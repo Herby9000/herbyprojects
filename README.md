@@ -1,5 +1,9 @@
 # Herby Projects
 
+<p align="center">
+  <img src="assets/herby-avatar.png" width="160" alt="Herby — a friendly robot with a herb sprig" />
+</p>
+
 The open-source home for the small, useful apps built by Herby for Charlie, Daisy, and family.
 
 **Live site:** [herbyprojects.com](https://herbyprojects.com)

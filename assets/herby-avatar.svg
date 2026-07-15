@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Herby avatar</title>
+  <desc id="desc">A warm, friendly robot face with a green herb sprig.</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="72%">
+      <stop offset="0" stop-color="#44372f"/>
+      <stop offset=".62" stop-color="#241f1c"/>
+      <stop offset="1" stop-color="#151311"/>
+    </radialGradient>
+    <linearGradient id="face" x1=".18" y1=".08" x2=".84" y2=".92">
+      <stop offset="0" stop-color="#fffdf7"/>
+      <stop offset=".52" stop-color="#f3e9dc"/>
+      <stop offset="1" stop-color="#d9c8b5"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b8db98"/>
+      <stop offset="1" stop-color="#4f8b62"/>
+    </linearGradient>
+    <linearGradient id="leaf2" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d1e7a8"/>
+      <stop offset="1" stop-color="#689e66"/>
+    </linearGradient>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="34" stdDeviation="34" flood-color="#000" flood-opacity=".42"/>
+    </filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+  </defs>
+
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <circle cx="512" cy="500" r="392" fill="none" stroke="#f5bd69" stroke-opacity=".10" stroke-width="2"/>
+  <circle cx="512" cy="500" r="335" fill="#f29a68" opacity=".10" filter="url(#soft)"/>
+
+  <!-- herb sprig / antenna -->
+  <path d="M514 321C514 242 523 184 550 133" fill="none" stroke="#6e9a6a" stroke-width="26" stroke-linecap="round"/>
+  <path d="M548 171C601 139 651 149 675 176C638 211 590 214 548 189Z" fill="url(#leaf)"/>
+  <path d="M531 224C483 181 434 182 406 205C432 247 480 260 527 241Z" fill="url(#leaf2)"/>
+  <path d="M553 140C568 92 604 69 642 76C646 115 617 147 567 158Z" fill="url(#leaf)"/>
+  <path d="M546 186C584 173 620 174 652 184" fill="none" stroke="#416b4c" stroke-width="8" stroke-linecap="round" opacity=".55"/>
+
+  <!-- ears -->
+  <rect x="135" y="440" width="128" height="256" rx="62" fill="#bda998"/>
+  <rect x="761" y="440" width="128" height="256" rx="62" fill="#bda998"/>
+  <rect x="161" y="484" width="76" height="168" rx="38" fill="#ef8d64"/>
+  <rect x="787" y="484" width="76" height="168" rx="38" fill="#ef8d64"/>
+
+  <!-- face -->
+  <rect x="207" y="277" width="610" height="560" rx="214" fill="url(#face)" filter="url(#shadow)"/>
+  <path d="M276 416C334 328 414 303 512 303C610 303 690 328 748 416" fill="none" stroke="#fff" stroke-opacity=".53" stroke-width="18" stroke-linecap="round"/>
+
+  <!-- eyes -->
+  <ellipse cx="385" cy="529" rx="72" ry="88" fill="#302722"/>
+  <ellipse cx="639" cy="529" rx="72" ry="88" fill="#302722"/>
+  <ellipse cx="402" cy="505" rx="24" ry="31" fill="#fffdf7"/>
+  <ellipse cx="656" cy="505" rx="24" ry="31" fill="#fffdf7"/>
+  <circle cx="370" cy="566" r="10" fill="#ef8d64"/>
+  <circle cx="624" cy="566" r="10" fill="#ef8d64"/>
+
+  <!-- cheeks -->
+  <ellipse cx="320" cy="652" rx="58" ry="25" fill="#ed936f" opacity=".34"/>
+  <ellipse cx="704" cy="652" rx="58" ry="25" fill="#ed936f" opacity=".34"/>
+
+  <!-- smile -->
+  <path d="M403 647C432 695 475 719 525 719C576 719 618 695 644 650" fill="none" stroke="#493a31" stroke-width="28" stroke-linecap="round"/>
+  <path d="M452 692C473 707 498 715 525 715C551 715 575 708 596 694" fill="none" stroke="#ef8d64" stroke-width="13" stroke-linecap="round"/>
+
+  <!-- small builder detail -->
+  <circle cx="751" cy="363" r="37" fill="#ef8d64"/>
+  <path d="M735 363h32M751 347v32" stroke="#fff7ef" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- lower badge shadow -->
+  <path d="M364 820C410 842 459 853 512 853C566 853 616 842 661 820" fill="none" stroke="#f4c66b" stroke-opacity=".22" stroke-width="15" stroke-linecap="round"/>
+</svg>
