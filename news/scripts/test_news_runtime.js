@@ -82,7 +82,9 @@ const sportsStories = [
   title: story.id, summary: `${story.id} summary`, published: '2026-08-15T12:00:00Z', region: 'World',
   category: 'Sports', url: `https://example.com/${story.id}`, contentStatus: 'Summary', ...story,
 }));
-const edition = { schemaVersion: 2, generatedAt: '2026-08-15T12:00:00Z', topStoryIds: topStories.map(story => story.id), stories: [...topStories, ...sectionStories, ...sportsStories] };
+const fixtureEdition = { schemaVersion: 2, generatedAt: '2026-08-15T12:00:00Z', topStoryIds: topStories.map(story => story.id), stories: [...topStories, ...sectionStories, ...sportsStories] };
+const productionMode = Boolean(process.env.NEWS_DATA_PATH);
+const edition = productionMode ? JSON.parse(fs.readFileSync(process.env.NEWS_DATA_PATH, 'utf8')) : fixtureEdition;
 let fetchCalled = false;
 const context = {
   console, Date, Error, Intl, Map, Number, URL,
@@ -142,6 +144,28 @@ async function run() {
   assert.equal(leadSection.hidden, false, 'Today shows Top 7');
   assert.equal(latestSection.hidden, true, 'Today hides latest container');
   assert.deepEqual(renderedCategories(), [], 'Today does not render section lists');
+
+  if (productionMode) {
+    topicButtons.find(button => button.dataset.filter === 'Sports').click();
+    const labels = sportsButtons().map(button => button.children[0].textContent);
+    assert.deepEqual(labels, ['All', 'Rugby', 'Saracens', 'Blue Jays', 'Leafs'], 'production has all five pills');
+    const allSports = edition.stories.filter(story => story.category === 'Sports');
+    assert.equal(sectionList().children.length, Math.min(12, allSports.length), 'production All is concise');
+    for (const filter of labels.slice(1)) {
+      const expectedStories = allSports.filter(story => matches(story, filter));
+      const button = sportsButtons().find(candidate => candidate.dataset.sportsFilter === filter);
+      assert.equal(Number(button.children[1].textContent), expectedStories.length, `${filter} production count`);
+      button.click();
+      assert.equal(leadSection.hidden, true, `${filter} production keeps Top 7 hidden`);
+      assert.equal(sectionList().children.length, expectedStories.length, `${filter} production renders every match`);
+      const titles = sectionList().children.map(item => item.children[1].children[0].textContent);
+      assert.equal(titles.every(title => allSports.filter(story => story.title === title).some(story => matches(story, filter))), true,
+        `${filter} production has zero mismatches`);
+      if (filter === 'Blue Jays') assert.ok(titles.length > 12, 'production Blue Jays displays more than 12');
+    }
+    console.log('Daily Seven production Sports DOM assertions passed');
+    return;
+  }
 
   for (const category of filters.slice(1, -1)) {
     topicButtons.find(button => button.dataset.filter === category).click();
