@@ -1,0 +1,9 @@
+{
+  "name": "The Daily Seven",
+  "short_name": "Daily Seven",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4efe6",
+  "theme_color": "#f4efe6",
+  "description": "A subscription-free personal news briefing."
+}

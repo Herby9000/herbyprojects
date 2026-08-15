@@ -1,0 +1,55 @@
+name: Refresh and deploy news
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Test pipeline
+        run: python -m unittest discover -s news/scripts -p 'test_*.py' -v
+      - name: Refresh public feeds
+        if: github.event_name != 'push'
+        run: python news/scripts/news_pipeline.py --allow-fallback --status
+      - name: Validate generated assets
+        run: |
+          python -m json.tool news/data/news.json >/dev/null
+          node --check news/assets/news.js
+          test "$(python -c 'import json; print(len(json.load(open("news/data/news.json"))["topStoryIds"]))')" = 7
+      - name: Save refreshed snapshot
+        if: github.event_name != 'push'
+        run: |
+          if ! git diff --quiet -- news/data/news.json news/snapshot.html news/index.html; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add news/data/news.json news/snapshot.html news/index.html
+            git commit -m "chore: refresh news edition"
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
