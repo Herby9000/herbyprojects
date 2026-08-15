@@ -34,6 +34,10 @@
       return url.protocol === 'https:' && !url.username && !url.password && (!url.port || url.port === '443') ? url.href : '';
     } catch (_) { return ''; }
   }
+  function verifiedImageSize(story) {
+    const width = Number(story.imageWidth); const height = Number(story.imageHeight);
+    return Number.isInteger(width) && Number.isInteger(height) && width >= 960 && height >= 540 ? [width, height] : null;
+  }
   function openReader(story) {
     $('#reader-kicker').textContent = `${story.category} · ${story.region}`;
     $('#reader-title').textContent = story.title;
@@ -44,7 +48,8 @@
     if (imageUrl) {
       const figure = el('figure', 'reader-image');
       const image = el('img', 'reader-image-media');
-      image.src = imageUrl; image.alt = ''; image.width = 640; image.height = 360;
+      const size = verifiedImageSize(story) || [640, 360];
+      image.src = imageUrl; image.alt = ''; image.width = size[0]; image.height = size[1];
       image.loading = 'lazy'; image.decoding = 'async'; image.referrerPolicy = 'no-referrer';
       const unavailable = el('figcaption', 'reader-image-status', 'Publisher image unavailable');
       unavailable.hidden = true;
@@ -81,7 +86,8 @@
       const card = el('article', 'story-card');
       const frame = el('div', 'story-image-frame');
       const image = el('img', 'story-image');
-      image.src = safeImageUrl(story.imageUrl); image.alt = ''; image.width = 640; image.height = 360;
+      const size = verifiedImageSize(story);
+      image.src = safeImageUrl(story.imageUrl); image.alt = ''; image.width = size[0]; image.height = size[1];
       image.loading = 'lazy'; image.decoding = 'async'; image.referrerPolicy = 'no-referrer';
       const unavailable = el('p', 'image-status', 'Publisher image unavailable'); unavailable.hidden = true;
       image.addEventListener('error', () => {
@@ -134,11 +140,11 @@
       const response = await fetch('data/news.json', { cache: 'no-store', headers: { Accept: 'application/json' } });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const data = await response.json();
-      if (!Array.isArray(data.stories) || !Array.isArray(data.topStoryIds) || data.topStoryIds.length !== 7) throw new Error('Invalid edition');
+      if (data.schemaVersion !== 2 || !Array.isArray(data.stories) || !Array.isArray(data.topStoryIds) || data.topStoryIds.length !== 7) throw new Error('Invalid edition');
       state.data = data;
       const byId = new Map(data.stories.map(story => [story.id, story]));
       const top = data.topStoryIds.map(id => byId.get(id)).filter(Boolean);
-      if (top.length !== 7 || top.some(story => story.category === 'Sports' || !safeImageUrl(story.imageUrl))) throw new Error('Incomplete Top 7');
+      if (top.length !== 7 || top.some(story => story.category === 'Sports' || !safeImageUrl(story.imageUrl) || !verifiedImageSize(story))) throw new Error('Incomplete Top 7');
       renderTop(top); applyFilter('All');
       $('#refresh-time').textContent = `Updated ${safeDate(data.generatedAt)}`;
       $('#dateline').textContent = new Intl.DateTimeFormat(undefined, { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' }).format(new Date(data.generatedAt));

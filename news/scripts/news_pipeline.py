@@ -6,8 +6,12 @@ import argparse
 import hashlib
 import html
 import json
+import ipaddress
 import re
+import socket
+import struct
 import sys
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
@@ -21,6 +25,12 @@ from urllib.parse import urlparse
 ROOT = Path(__file__).resolve().parents[2]
 DATA_PATH = ROOT / "news" / "data" / "news.json"
 SNAPSHOT_PATH = ROOT / "news" / "snapshot.html"
+MIN_IMAGE_WIDTH = 960
+MIN_IMAGE_HEIGHT = 540
+MAX_HTML_BYTES = 1_000_000
+MAX_IMAGE_BYTES = 12_000_000
+MAX_ENRICH_STORIES = 50
+MAX_CANDIDATES_PER_STORY = 8
 
 @dataclass(frozen=True)
 class Source:
@@ -127,25 +137,33 @@ def safe_image_url(value: str) -> str:
     return value
 
 
-class _FirstImageParser(HTMLParser):
+def _positive_int(value: object) -> int:
+    try:
+        result = int(str(value))
+        return result if result > 0 else 0
+    except (TypeError, ValueError):
+        return 0
+
+
+class _ImageParser(HTMLParser):
     def __init__(self) -> None:
         super().__init__(convert_charrefs=True)
-        self.url = ""
-        self.alt = ""
+        self.images: list[dict] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
-        if tag.lower() != "img" or self.url:
+        if tag.lower() != "img":
             return
         values = {name.lower(): value or "" for name, value in attrs}
         candidate = safe_image_url(values.get("src", ""))
         if candidate:
-            self.url = candidate
-            self.alt = sanitize(values.get("alt", ""))[:300]
+            self.images.append({"url": candidate, "width": _positive_int(values.get("width")),
+                                "height": _positive_int(values.get("height")),
+                                "alt": sanitize(values.get("alt", ""))[:300], "kind": "feed"})
 
 
-def extract_image(item: ET.Element) -> tuple[str, str]:
-    """Find publisher-supplied image metadata without rendering publisher HTML."""
-    markup_candidates = []
+def extract_image_candidates(item: ET.Element) -> list[dict]:
+    """Collect safe publisher feed candidates, retaining declared dimensions."""
+    candidates, markup_candidates = [], []
     for child in list(item):
         local = child.tag.rsplit("}", 1)[-1].lower()
         attributes = {key.rsplit("}", 1)[-1].lower(): value for key, value in child.attrib.items()}
@@ -158,18 +176,134 @@ def extract_image(item: ET.Element) -> tuple[str, str]:
         elif local == "enclosure" and attributes.get("type", "").lower().startswith("image/"):
             candidate = safe_image_url(attributes.get("url", ""))
         if candidate:
-            return candidate, sanitize(attributes.get("alt", attributes.get("description", "")))[:300]
+            candidates.append({"url": candidate, "width": _positive_int(attributes.get("width")),
+                               "height": _positive_int(attributes.get("height")),
+                               "alt": sanitize(attributes.get("alt", attributes.get("description", "")))[:300],
+                               "kind": "feed"})
         if local in ("description", "summary", "content", "encoded"):
             markup_candidates.append(text_of(child))
     for markup in markup_candidates:
-        parser = _FirstImageParser()
+        parser = _ImageParser()
         try:
             parser.feed(markup)
         except Exception:
             continue
-        if parser.url:
-            return parser.url, parser.alt
-    return "", ""
+        candidates.extend(parser.images)
+    unique = {}
+    for candidate in candidates:
+        unique.setdefault(candidate["url"], candidate)
+    return sorted(unique.values(), key=lambda item: (item["width"] * item["height"], item["width"], item["height"]), reverse=True)
+
+
+def extract_image(item: ET.Element) -> tuple[str, str]:
+    """Find publisher-supplied image metadata without rendering publisher HTML."""
+    candidates = extract_image_candidates(item)
+    if not candidates:
+        return "", ""
+    return candidates[0]["url"], candidates[0]["alt"]
+
+
+class _SocialImageParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.candidates: list[dict] = []
+        self._latest: dict[str, dict] = {}
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag.lower() != "meta":
+            return
+        values = {name.lower(): value or "" for name, value in attrs}
+        key = (values.get("property") or values.get("name", "")).strip().lower()
+        content = values.get("content", "").strip()
+        family = "og" if key.startswith("og:image") else "twitter" if key.startswith("twitter:image") else ""
+        if not family:
+            return
+        if key in ("og:image", "og:image:url", "og:image:secure_url", "twitter:image", "twitter:image:src"):
+            url = safe_image_url(content)
+            if url:
+                candidate = {"url": url, "width": 0, "height": 0, "kind": "social"}
+                self.candidates.append(candidate)
+                self._latest[family] = candidate
+        elif key.endswith(":width") and family in self._latest:
+            self._latest[family]["width"] = _positive_int(content)
+        elif key.endswith(":height") and family in self._latest:
+            self._latest[family]["height"] = _positive_int(content)
+
+
+def extract_social_images(payload: bytes) -> list[dict]:
+    parser = _SocialImageParser()
+    try:
+        parser.feed(payload.decode("utf-8", "replace"))
+    except Exception:
+        return []
+    unique = {}
+    for candidate in parser.candidates:
+        unique.setdefault(candidate["url"], candidate)
+    return list(unique.values())
+
+
+def image_dimensions(payload: bytes) -> tuple[int, int]:
+    """Parse complete JPEG/PNG/GIF/WebP bytes without platform image tools."""
+    if payload.startswith(b"\x89PNG\r\n\x1a\n"):
+        if len(payload) < 45 or payload[12:16] != b"IHDR" or payload[-8:-4] != b"IEND":
+            raise ValueError("malformed or truncated PNG")
+        width, height = struct.unpack(">II", payload[16:24])
+    elif payload[:6] in (b"GIF87a", b"GIF89a"):
+        if len(payload) < 14 or payload[-1:] != b";":
+            raise ValueError("malformed or truncated GIF")
+        width, height = struct.unpack("<HH", payload[6:10])
+    elif payload.startswith(b"\xff\xd8"):
+        if len(payload) < 12 or not payload.endswith(b"\xff\xd9"):
+            raise ValueError("malformed or truncated JPEG")
+        offset, width, height = 2, 0, 0
+        while offset + 4 <= len(payload) - 2:
+            if payload[offset] != 0xff:
+                raise ValueError("malformed JPEG marker")
+            while offset < len(payload) and payload[offset] == 0xff:
+                offset += 1
+            marker = payload[offset]; offset += 1
+            if marker in (0xd8, 0xd9) or 0xd0 <= marker <= 0xd7:
+                continue
+            if offset + 2 > len(payload):
+                raise ValueError("truncated JPEG segment")
+            length = struct.unpack(">H", payload[offset:offset + 2])[0]
+            if length < 2 or offset + length > len(payload):
+                raise ValueError("truncated JPEG segment")
+            if marker in tuple(range(0xc0, 0xc4)) + tuple(range(0xc5, 0xc8)) + tuple(range(0xc9, 0xcc)) + tuple(range(0xcd, 0xd0)):
+                if length < 7:
+                    raise ValueError("malformed JPEG frame")
+                height, width = struct.unpack(">HH", payload[offset + 3:offset + 7])
+                break
+            offset += length
+        if not width or not height:
+            raise ValueError("JPEG dimensions unavailable")
+    elif payload.startswith(b"RIFF") and payload[8:12] == b"WEBP":
+        if len(payload) < 30 or struct.unpack("<I", payload[4:8])[0] != len(payload) - 8:
+            raise ValueError("malformed or truncated WebP")
+        kind, size = payload[12:16], struct.unpack("<I", payload[16:20])[0]
+        data = payload[20:20 + size]
+        if len(data) != size:
+            raise ValueError("truncated WebP chunk")
+        if kind == b"VP8X" and size >= 10:
+            width = int.from_bytes(data[4:7], "little") + 1
+            height = int.from_bytes(data[7:10], "little") + 1
+        elif kind == b"VP8 " and size >= 10 and data[3:6] == b"\x9d\x01\x2a":
+            width = struct.unpack("<H", data[6:8])[0] & 0x3fff
+            height = struct.unpack("<H", data[8:10])[0] & 0x3fff
+        elif kind == b"VP8L" and size >= 5 and data[0] == 0x2f:
+            bits = int.from_bytes(data[1:5], "little")
+            width, height = (bits & 0x3fff) + 1, ((bits >> 14) & 0x3fff) + 1
+        else:
+            raise ValueError("unsupported WebP layout")
+    else:
+        raise ValueError("unsupported image format")
+    if width <= 0 or height <= 0:
+        raise ValueError("invalid image dimensions")
+    return width, height
+
+
+def meets_image_floor(width: object, height: object) -> bool:
+    return _positive_int(width) >= MIN_IMAGE_WIDTH and _positive_int(height) >= MIN_IMAGE_HEIGHT
 
 
 def parse_date(value: str) -> datetime:
@@ -236,7 +370,9 @@ def parse_feed(payload: bytes, source: Source) -> list[dict]:
         if len(summary) > 2400:
             summary = summary[:2399].rsplit(" ", 1)[0] + "…"
         category, region, labels = categorize(title, summary, source)
-        image_url, image_alt = extract_image(item)
+        image_candidates = extract_image_candidates(item)
+        image_url = image_candidates[0]["url"] if image_candidates else ""
+        image_alt = image_candidates[0]["alt"] if image_candidates else ""
         identity = hashlib.sha256(f"{title.lower()}|{link}".encode()).hexdigest()[:16]
         story = {
             "id": identity, "title": title, "summary": summary or "This feed supplied a headline but no article summary.",
@@ -249,6 +385,8 @@ def parse_feed(payload: bytes, source: Source) -> list[dict]:
             story["imageUrl"] = image_url
         if image_alt:
             story["imageAlt"] = image_alt
+        if image_candidates:
+            story["_imageCandidates"] = image_candidates
         stories.append(story)
     return stories
 
@@ -289,9 +427,10 @@ def select_top(stories: list[dict], count: int = 7) -> list[dict]:
     stories = [story for story in stories
                if story.get("category") != "Sports"
                and bool(story.get("imageUrl"))
-               and safe_image_url(story.get("imageUrl", "")) == story.get("imageUrl")]
+               and safe_image_url(story.get("imageUrl", "")) == story.get("imageUrl")
+               and meets_image_floor(story.get("imageWidth"), story.get("imageHeight"))]
     if len(stories) < count:
-        raise ValueError(f"Need at least {count} image-bearing non-Sports stories, got {len(stories)}")
+        raise ValueError(f"Need at least {count} image-bearing non-Sports stories verified at 960x540, got {len(stories)}")
     selected, source_counts, category_counts, focus_counts = [], {}, {}, {}
 
     def add(story: dict) -> None:
@@ -303,7 +442,8 @@ def select_top(stories: list[dict], count: int = 7) -> list[dict]:
 
     # Avoid an edition accidentally omitting an entire requested section. Prefer
     # a different publisher for each seed story when the ranked pool permits it.
-    for category in ("Politics", "Tech", "Economics"):
+    required_categories = ("Politics", "Tech", "Economics")
+    for category in required_categories:
         story = next((item for item in stories
                       if item["category"] == category and not source_counts.get(item["source"])), None)
         if story is None:
@@ -320,11 +460,8 @@ def select_top(stories: list[dict], count: int = 7) -> list[dict]:
         add(story)
         if len(selected) == count:
             break
-    for story in stories:
-        if len(selected) == count:
-            break
-        if story not in selected:
-            add(story)
+    if len(selected) != count or not set(required_categories) <= {story["category"] for story in selected}:
+        raise ValueError("Could not assemble a diverse verified Top 7")
     return selected
 
 
@@ -348,6 +485,152 @@ def order_for_output(top: list[dict], ranked: list[dict], limit: int = 200) -> l
     return ordered[:limit]
 
 
+def _validated_public_url(value: str) -> str:
+    """Validate a credential-free public HTTPS URL and all current DNS answers."""
+    value = safe_image_url(value)
+    if not value:
+        raise ValueError("unsafe public URL")
+    parsed = urlparse(value)
+    try:
+        answers = socket.getaddrinfo(parsed.hostname, 443, type=socket.SOCK_STREAM)
+    except socket.gaierror as exc:
+        raise ValueError("public hostname did not resolve") from exc
+    if not answers:
+        raise ValueError("public hostname did not resolve")
+    for answer in answers:
+        address = ipaddress.ip_address(str(answer[4][0]).split("%", 1)[0])
+        if not address.is_global:
+            raise ValueError("private or non-global destination rejected")
+    return value
+
+
+class _SafeRedirectHandler(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        _validated_public_url(newurl)
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
+
+def _fetch_bounded(url: str, accepted_types: tuple[str, ...], limit: int, timeout: int) -> tuple[bytes, str, int]:
+    url = _validated_public_url(url)
+    request = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (compatible; HerbyProjectsNews/2.0; +https://herbyprojects.com/news/)",
+        "Accept": ", ".join(accepted_types),
+    })
+    opener = urllib.request.build_opener(urllib.request.ProxyHandler({}), _SafeRedirectHandler())
+    with opener.open(request, timeout=timeout) as response:
+        final_url = _validated_public_url(response.geturl())
+        if final_url != response.geturl():
+            raise ValueError("redirect URL normalization rejected")
+        status = response.getcode()
+        if status not in (200, 206):
+            raise ValueError(f"unexpected HTTP status {status}")
+        content_type = response.headers.get_content_type().lower()
+        if not any(content_type == accepted or content_type.startswith(accepted) for accepted in accepted_types):
+            raise ValueError(f"unexpected content type {content_type}")
+        declared = _positive_int(response.headers.get("Content-Length"))
+        if declared > limit:
+            raise ValueError("response exceeds byte limit")
+        payload = response.read(limit + 1)
+        if len(payload) > limit:
+            raise ValueError("response exceeds byte limit")
+        if declared and len(payload) != declared:
+            raise ValueError("truncated response")
+        return payload, content_type, status
+
+
+def fetch_article(url: str, timeout: int = 8) -> bytes:
+    return _fetch_bounded(url, ("text/html", "application/xhtml+xml"), MAX_HTML_BYTES, timeout)[0]
+
+
+def fetch_image(url: str, timeout: int = 10) -> tuple[bytes, str, int]:
+    return _fetch_bounded(url, ("image/",), MAX_IMAGE_BYTES, timeout)
+
+
+def _call_article_fetch(fetcher, url: str) -> bytes:
+    result = fetcher(url)
+    return result[0] if isinstance(result, tuple) else result
+
+
+def _call_image_fetch(fetcher, url: str) -> tuple[bytes, str, int]:
+    result = fetcher(url)
+    if isinstance(result, bytes):
+        return result, "image/unknown", 200
+    return result
+
+
+def enrich_verified(stories: list[dict], article_fetch=fetch_article, image_fetch=fetch_image,
+                    max_stories: int = MAX_ENRICH_STORIES) -> list[dict]:
+    """Probe ranked stories until a selectable Top 7 exists, with strict request caps."""
+    qualified, article_cache, probe_cache = [], {}, {}
+    attempts = 0
+    for story in stories:
+        if story.get("category") == "Sports":
+            continue
+        attempts += 1
+        if attempts > max_stories:
+            break
+        story.pop("imageWidth", None)
+        story.pop("imageHeight", None)
+        candidates = list(story.get("_imageCandidates", []))
+        if story.get("imageUrl") and not any(item.get("url") == story["imageUrl"] for item in candidates):
+            candidates.append({"url": story["imageUrl"], "width": 0, "height": 0,
+                               "alt": story.get("imageAlt", ""), "kind": "feed"})
+        try:
+            if story["url"] not in article_cache:
+                article_cache[story["url"]] = extract_social_images(_call_article_fetch(article_fetch, story["url"]))
+            candidates = article_cache[story["url"]] + candidates
+        except Exception:
+            article_cache[story["url"]] = []
+        unique = {}
+        for candidate in candidates:
+            url = safe_image_url(candidate.get("url", ""))
+            if url:
+                unique.setdefault(url, dict(candidate, url=url))
+        candidates = sorted(unique.values(),
+                            key=lambda item: (item.get("width", 0) * item.get("height", 0),
+                                              item.get("kind") == "social"), reverse=True)[:MAX_CANDIDATES_PER_STORY]
+        verified = []
+        for candidate in candidates:
+            url = candidate["url"]
+            if url not in probe_cache:
+                try:
+                    payload, content_type, status = _call_image_fetch(image_fetch, url)
+                    if status not in (200, 206) or not content_type.lower().startswith("image/"):
+                        raise ValueError("image response was not successful")
+                    probe_cache[url] = image_dimensions(payload)
+                except Exception:
+                    probe_cache[url] = None
+            dimensions = probe_cache[url]
+            if dimensions and meets_image_floor(*dimensions):
+                verified.append((dimensions[0] * dimensions[1], candidate.get("kind") == "social",
+                                 dimensions, candidate))
+        if verified:
+            _, _, (width, height), best = max(verified, key=lambda item: (item[0], item[1]))
+            story["imageUrl"], story["imageWidth"], story["imageHeight"] = best["url"], width, height
+            if best.get("alt"):
+                story["imageAlt"] = best["alt"]
+            qualified.append(story)
+            try:
+                select_top(qualified)
+                break
+            except ValueError:
+                pass
+    return qualified
+
+
+def valid_fallback_stories(previous: dict) -> list[dict]:
+    """Only a previously verified Top 7 may enter a fallback probe pool."""
+    by_id = {story.get("id"): story for story in previous.get("stories", [])}
+    result = []
+    for identifier in previous.get("topStoryIds", []):
+        story = by_id.get(identifier)
+        if (story and story.get("category") != "Sports"
+                and safe_image_url(story.get("imageUrl", "")) == story.get("imageUrl")
+                and meets_image_floor(story.get("imageWidth"), story.get("imageHeight"))):
+            result.append(story)
+    return result
+
+
 def fetch(source: Source, timeout: int = 15) -> bytes:
     request = urllib.request.Request(source.url, headers={"User-Agent": "HerbyProjectsNews/1.0 (+https://herbyprojects.com/news/)"})
     with urllib.request.urlopen(request, timeout=timeout) as response:
@@ -360,7 +643,7 @@ def render_snapshot(top: list[dict]) -> str:
         labels = " · ".join(story["labels"])
         cards.append(
             f'<article class="snapshot-card"><div class="story-image-frame">'
-            f'<img class="story-image" src="{html.escape(story["imageUrl"], quote=True)}" alt="" width="640" height="360" loading="lazy" decoding="async" referrerpolicy="no-referrer">'
+            f'<img class="story-image" src="{html.escape(story["imageUrl"], quote=True)}" alt="" width="{story["imageWidth"]}" height="{story["imageHeight"]}" loading="lazy" decoding="async" referrerpolicy="no-referrer">'
             f'</div><p class="snapshot-number">{i:02d}</p>'
             f'<p class="story-meta">{html.escape(story["source"])} · <time datetime="{story["published"]}">{story["published"][:10]}</time></p>'
             f'<h3>{html.escape(story["title"])}</h3><p>{html.escape(story["summary"])}</p>'
@@ -396,15 +679,21 @@ def build(allow_fallback: bool = False) -> dict:
         except Exception as exc:  # one broken publisher must not stop refresh
             statuses.append({"source": source.name, "ok": False, "error": sanitize(str(exc))[:180]})
     ranked = rank(dedupe(all_stories), now)
-    eligible = [story for story in ranked if story.get("category") != "Sports" and safe_image_url(story.get("imageUrl", ""))]
-    if len(eligible) < 7 and allow_fallback and DATA_PATH.exists():
+    qualified = enrich_verified(ranked)
+    try:
+        top = select_top(qualified)
+    except ValueError:
+        if not allow_fallback or not DATA_PATH.exists():
+            raise
         previous = json.loads(DATA_PATH.read_text(encoding="utf-8"))
-        ranked = dedupe(ranked + previous.get("stories", []))
-        ranked = rank(ranked, now)
-    top = select_top(ranked)
+        fallback = valid_fallback_stories(previous)
+        ranked = rank(dedupe(ranked + fallback), now)
+        qualified = enrich_verified(ranked)
+        top = select_top(qualified)
     ordered = order_for_output(top, ranked)
+    ordered = [{key: value for key, value in story.items() if not key.startswith("_")} for story in ordered]
     output = {
-        "schemaVersion": 1, "generatedAt": now.isoformat().replace("+00:00", "Z"),
+        "schemaVersion": 2, "generatedAt": now.isoformat().replace("+00:00", "Z"),
         "topStoryIds": [story["id"] for story in top], "stories": ordered,
         "sourceStatus": statuses,
     }
@@ -426,6 +715,11 @@ def main() -> int:
         for status in output["sourceStatus"]:
             print(f"{'OK' if status['ok'] else 'FAIL'} {status['source']}: {status.get('items', status.get('error'))}")
         print(f"WROTE {len(output['stories'])} stories; top={len(output['topStoryIds'])}")
+        by_id = {story["id"]: story for story in output["stories"]}
+        print("SOURCE | CATEGORY | DIMENSIONS")
+        for identifier in output["topStoryIds"]:
+            story = by_id[identifier]
+            print(f"{story['source']} | {story['category']} | {story['imageWidth']}x{story['imageHeight']}")
     return 0
 
 if __name__ == "__main__":

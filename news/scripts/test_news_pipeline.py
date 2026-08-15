@@ -36,6 +36,13 @@ class ImageCollector(HTMLParser):
             self.images.append(dict(attrs))
 
 class PipelineTests(unittest.TestCase):
+    def verified_story(self, identifier, category, source=None, width=960, height=540):
+        return {'id': identifier, 'title': f'Unique {identifier}', 'summary': 'x',
+                'url': f'https://publisher.test/{identifier}', 'published': '2026-08-15T12:00:00Z',
+                'sourceWeight': 3, 'source': source or f'Source {identifier}', 'category': category,
+                'region': 'World', 'labels': [category], 'imageUrl': f'https://images.test/{identifier}.jpg',
+                'imageWidth': width, 'imageHeight': height}
+
     def test_topic_navigation_is_nonshrinking_nonwrapping_and_scrollable(self):
         css = (Path(__file__).parents[1] / 'assets' / 'news.css').read_text(encoding='utf-8')
 
@@ -113,6 +120,46 @@ class PipelineTests(unittest.TestCase):
         ])
         self.assertEqual(stories[-1].get('imageAlt'), 'A supplied caption')
 
+    def test_multiple_media_candidates_choose_largest_not_first(self):
+        payload = b'''<rss xmlns:media="http://search.yahoo.com/mrss/"><channel><item>
+        <title>Variants</title><link>https://example.com/variants</link>
+        <media:content url="https://images.example.com/140.jpg" width="140" height="112" />
+        <media:content url="https://images.example.com/700.jpg" width="700" height="560" />
+        <media:content url="https://images.example.com/460.jpg" width="460" height="368" />
+        </item></channel></rss>'''
+        story = pipeline.parse_feed(payload, pipeline.Source('Test', 'https://example.com/feed', 'Politics', 'World'))[0]
+        self.assertEqual(story['imageUrl'], 'https://images.example.com/700.jpg')
+
+    def test_social_image_metadata_handles_order_entities_and_rejects_unsafe_values(self):
+        markup = b'''<html><head>
+        <meta content="https://images.example.com/lead.jpg?a=1&amp;b=2" property="og:image">
+        <meta content="630" property="og:image:height"><meta property="og:image:width" content="1200">
+        <meta name="twitter:image" content="http://images.example.com/unsafe.jpg">
+        <meta property="og:image" content="javascript:alert(1)">
+        </head><body><script><meta property="og:image" content="https://evil.test/x.jpg"></script></body></html>'''
+        candidates = pipeline.extract_social_images(markup)
+        self.assertEqual(candidates, [{'url': 'https://images.example.com/lead.jpg?a=1&b=2',
+                                       'width': 1200, 'height': 630, 'kind': 'social'}])
+
+    def test_intrinsic_dimensions_for_jpeg_png_gif_webp_and_truncation(self):
+        png = (b'\x89PNG\r\n\x1a\n' + struct.pack('>I', 13) + b'IHDR' +
+               struct.pack('>II', 960, 540) + b'\x08\x02\x00\x00\x00' + b'\x00\x00\x00\x00' +
+               struct.pack('>I', 0) + b'IEND' + b'\x00\x00\x00\x00')
+        gif = b'GIF89a' + struct.pack('<HH', 960, 540) + b'\x00\x00\x00;'
+        jpeg = (b'\xff\xd8\xff\xc0\x00\x11\x08' + struct.pack('>HH', 540, 960) +
+                b'\x03\x01\x11\x00\x02\x11\x00\x03\x11\x00\xff\xd9')
+        webp_payload = b'VP8X' + struct.pack('<I', 10) + b'\x00\x00\x00\x00' + (959).to_bytes(3, 'little') + (539).to_bytes(3, 'little')
+        webp = b'RIFF' + struct.pack('<I', len(webp_payload) + 4) + b'WEBP' + webp_payload
+        for payload in (jpeg, png, gif, webp):
+            self.assertEqual(pipeline.image_dimensions(payload), (960, 540))
+            with self.assertRaises(ValueError):
+                pipeline.image_dimensions(payload[:-1])
+
+    def test_publication_floor_boundaries(self):
+        self.assertFalse(pipeline.meets_image_floor(959, 540))
+        self.assertFalse(pipeline.meets_image_floor(960, 539))
+        self.assertTrue(pipeline.meets_image_floor(960, 540))
+
     def test_image_urls_are_https_credential_free_and_use_normal_ports(self):
         accepted = 'https://images.example.com/photo.jpg?x=1&amp;y=2'
         self.assertEqual(pipeline.safe_image_url(accepted), 'https://images.example.com/photo.jpg?x=1&y=2')
@@ -120,6 +167,15 @@ class PipelineTests(unittest.TestCase):
                        'file:///tmp/a.jpg', 'https://user:pass@example.com/a.jpg',
                        'https://example.com:8443/a.jpg', '//example.com/a.jpg', 'not a url'):
             self.assertEqual(pipeline.safe_image_url(unsafe), '', unsafe)
+
+    def test_network_destination_validation_rejects_private_dns_answers(self):
+        public_answer = [(2, 1, 6, '', ('93.184.216.34', 443))]
+        private_answer = [(2, 1, 6, '', ('127.0.0.1', 443))]
+        with patch('news_pipeline.socket.getaddrinfo', return_value=public_answer):
+            self.assertEqual(pipeline._validated_public_url('https://example.com/a'), 'https://example.com/a')
+        with patch('news_pipeline.socket.getaddrinfo', return_value=private_answer):
+            with self.assertRaisesRegex(ValueError, 'private or non-global'):
+                pipeline._validated_public_url('https://example.com/a')
 
     def test_economics_sources_exist_and_dedicated_category_is_stable(self):
         economics = [source for source in pipeline.SOURCES if source.category == 'Economics']
@@ -193,7 +249,7 @@ class PipelineTests(unittest.TestCase):
             stories.append({'id': str(i), 'title': f'Unique story number {i}', 'summary': 'x', 'url': f'https://e.test/{i}',
                 'published': f'2026-08-15T{12-i:02d}:00:00Z', 'sourceWeight': 3, 'source': f'Source {i % 5}',
                 'category': categories[i % 4], 'region': 'World', 'labels': [],
-                'imageUrl': f'https://images.e.test/{i}.jpg'})
+                'imageUrl': f'https://images.e.test/{i}.jpg', 'imageWidth': 1200, 'imageHeight': 675})
         top = pipeline.select_top(stories)
         self.assertEqual(len(top), 7)
         self.assertTrue(all(story['imageUrl'].startswith('https://') for story in top))
@@ -202,6 +258,33 @@ class PipelineTests(unittest.TestCase):
         self.assertLessEqual(max(sum(s['source'] == name for s in top) for name in {s['source'] for s in top}), 2)
         self.assertLessEqual(max((sum(s.get('focus') == focus for s in top)
                                   for focus in {s.get('focus') for s in top if s.get('focus')}), default=0), 1)
+
+    def test_selection_skips_low_resolution_ranked_candidate(self):
+        categories = ['Politics', 'Tech', 'Economics', 'Politics', 'Tech', 'Economics', 'Politics', 'Tech']
+        stories = [self.verified_story(str(i), category) for i, category in enumerate(categories)]
+        stories[0]['imageWidth'] = 959
+        top = pipeline.select_top(stories)
+        self.assertEqual(len(top), 7)
+        self.assertNotIn('0', {story['id'] for story in top})
+        self.assertIn('7', {story['id'] for story in top})
+        self.assertEqual({story['category'] for story in top}, {'Politics', 'Tech', 'Economics'})
+        self.assertNotIn('Sports', {story['category'] for story in top})
+
+    def test_fallback_rejects_unverified_and_low_resolution_top_stories(self):
+        previous = {'topStoryIds': ['good', 'low', 'unknown'], 'stories': [
+            self.verified_story('good', 'Politics'), self.verified_story('low', 'Tech', width=959),
+            {key: value for key, value in self.verified_story('unknown', 'Economics').items()
+             if key not in ('imageWidth', 'imageHeight')} ]}
+        self.assertEqual([story['id'] for story in pipeline.valid_fallback_stories(previous)], ['good'])
+
+    def test_fallback_image_is_reprobed_and_cannot_retain_stale_dimensions(self):
+        story = self.verified_story('previous', 'Politics', width=2000, height=1000)
+        malformed_fetch = lambda _url: (b'not an image', 'image/jpeg', 200)
+        qualified = pipeline.enrich_verified([story], article_fetch=lambda _url: b'<html></html>',
+                                             image_fetch=malformed_fetch, max_stories=1)
+        self.assertEqual(qualified, [])
+        self.assertNotIn('imageWidth', story)
+        self.assertNotIn('imageHeight', story)
 
     def test_top_fails_honestly_when_safe_image_pool_is_short(self):
         stories = []
@@ -231,13 +314,14 @@ class PipelineTests(unittest.TestCase):
         if not data_path.exists():
             self.skipTest('snapshot generated after first live refresh')
         data = json.loads(data_path.read_text(encoding='utf-8'))
-        self.assertEqual(data['schemaVersion'], 1)
+        self.assertEqual(data['schemaVersion'], 2)
         self.assertEqual(len(data['topStoryIds']), 7)
         self.assertTrue(all(set(('id', 'title', 'summary', 'url', 'published', 'category', 'source')) <= set(s) for s in data['stories']))
         by_id = {story['id']: story for story in data['stories']}
         top = [by_id[identifier] for identifier in data['topStoryIds']]
         self.assertTrue(all(story['category'] != 'Sports' for story in top))
         self.assertTrue(all(pipeline.safe_image_url(story.get('imageUrl', '')) == story.get('imageUrl') for story in top))
+        self.assertTrue(all(pipeline.meets_image_floor(story.get('imageWidth'), story.get('imageHeight')) for story in top))
 
     def test_no_js_snapshot_has_seven_safe_story_images(self):
         snapshot = (Path(__file__).parents[1] / 'snapshot.html').read_text(encoding='utf-8')
@@ -247,6 +331,8 @@ class PipelineTests(unittest.TestCase):
         for image in parser.images:
             self.assertEqual(pipeline.safe_image_url(image['src']), image['src'])
             self.assertEqual(image.get('referrerpolicy'), 'no-referrer')
+            self.assertGreaterEqual(int(image['width']), 960)
+            self.assertGreaterEqual(int(image['height']), 540)
 
 if __name__ == '__main__':
     unittest.main()

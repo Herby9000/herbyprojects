@@ -31,7 +31,7 @@ The apps may be personal, but the code is public. Private user data, credentials
 
 ### Architecture
 
-`news/scripts/news_pipeline.py` is a standard-library-only RSS/Atom normalizer. It fetches each source independently, converts publisher markup to plain text, discovers publisher-supplied feed images, rejects unsafe links, normalizes timestamps to UTC, tags regions/categories/teams, deduplicates similar events, and ranks for recency, source quality, focus and diversity. Top selection requires exactly seven image-bearing non-Sports stories, seeds Politics, Tech and Economics when available, and fails rather than publishing an incomplete edition. It writes:
+`news/scripts/news_pipeline.py` is a standard-library-only RSS/Atom normalizer. It fetches each source independently, converts publisher markup to plain text, collects all publisher-supplied feed image variants, enriches ranked stories from publisher OG/Twitter metadata, rejects unsafe links, normalizes timestamps to UTC, tags regions/categories/teams, deduplicates similar events, and ranks for recency, source quality, focus and diversity. Bounded image downloads are parsed as JPEG, PNG, GIF or WebP and measured intrinsically. Top selection requires exactly seven successfully fetched non-Sports images at least 960×540, preserves Politics/Tech/Economics and publisher diversity, and fails without replacing the prior edition rather than publishing an incomplete or blurry edition. It writes:
 
 - `news/data/news.json`, the progressively enhanced app data;
 - `news/snapshot.html`, a readable generated fragment;
@@ -47,11 +47,11 @@ Source summaries vary in length. The reader labels them as source-provided summa
 
 ### Refresh and deployment
 
-`.github/workflows/news.yml` runs on every main-branch push, on manual dispatch, and at minute 17 every four hours. Every run executes deterministic tests and asset validation and deploys the repository to GitHub Pages. Scheduled/manual runs also refresh feeds with the checked-in edition as an emergency fallback and commit changed generated data; push runs deploy that checked-in edition without creating a refresh loop. There are no application secrets, logins, analytics or personal data.
+`.github/workflows/news.yml` runs on every main-branch push, on manual dispatch, and at minute 17 every four hours. Every run executes deterministic tests and asset validation and deploys the repository to GitHub Pages. Scheduled/manual runs also refresh feeds; an emergency fallback may reuse only a previously verified Top 7 and must re-download and re-verify every selected image during that build. Push runs deploy the checked-in edition without creating a refresh loop. There are no application secrets, logins, analytics or personal data.
 
 ### Development and verification
 
-Run the pipeline tests with Python’s built-in `unittest`, then run `news/scripts/news_pipeline.py --allow-fallback --status`. Serve the repository root with any static HTTP server; the app is at `/news/`. JavaScript can be syntax-checked with Node. Tests cover image extraction and URL safety, normalization and UTC timestamps, active-markup removal, event deduplication, ranking, economics and requested category/region/team rules, fallback invariants, the no-JS snapshot, Today/section behavior, image failures and exactly seven image-bearing sport-free top stories.
+Run the pipeline tests with Python’s built-in `unittest`, then run `news/scripts/news_pipeline.py --allow-fallback --status`. Serve the repository root with any static HTTP server; the app is at `/news/`. JavaScript can be syntax-checked with Node. Tests cover largest-variant feed extraction, social metadata, intrinsic dimensions and truncation, the 960×540 floor, URL safety, normalization and UTC timestamps, active-markup removal, event deduplication, ranking, economics and requested category/region/team rules, verified fallback invariants, the no-JS snapshot, Today/section behavior, image failures and exactly seven high-resolution sport-free top stories.
 
 ### Limitations and source maintenance
 

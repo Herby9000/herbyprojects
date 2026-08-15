@@ -44,7 +44,8 @@ for (const selector of ['#reader-kicker', '#reader-title', '#reader-byline', '#r
 const topStories = Array.from({ length: 7 }, (_, index) => ({
   id: `top-${index}`, title: `Top story ${index}`, summary: `Top summary ${index}`, source: 'Test source',
   published: '2026-08-15T12:00:00Z', region: 'World', category: filters[(index % 3) + 1], labels: [],
-  url: 'https://example.com/top', imageUrl: `https://images.example.com/${index}.jpg`, contentStatus: 'Summary',
+  url: 'https://example.com/top', imageUrl: `https://images.example.com/${index}.jpg`,
+  imageWidth: 1200, imageHeight: 675, contentStatus: 'Summary',
 }));
 const sectionStories = filters.slice(1).map(category => ({
   id: `section-${category}`, title: `${category} section story`, summary: `${category} summary`, source: 'Test source',
@@ -59,7 +60,7 @@ sectionStories.push({
   ...sectionStories[0], id: 'section-odd-port', title: 'Odd port section story', summary: 'Odd port summary',
   imageUrl: 'https://images.example.com:8443/odd-port.jpg',
 });
-const edition = { generatedAt: '2026-08-15T12:00:00Z', topStoryIds: topStories.map(story => story.id), stories: [...topStories, ...sectionStories] };
+const edition = { schemaVersion: 2, generatedAt: '2026-08-15T12:00:00Z', topStoryIds: topStories.map(story => story.id), stories: [...topStories, ...sectionStories] };
 let fetchCalled = false;
 const context = {
   console, Date, Error, Intl, Map, Number, URL,
