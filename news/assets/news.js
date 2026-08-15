@@ -5,7 +5,10 @@
   const rail = $('#top-rail');
   const sections = $('#story-sections');
   const reader = $('#reader');
-  const formatter = new Intl.DateTimeFormat(undefined, { dateStyle: 'medium', timeStyle: 'short', timeZoneName: 'short' });
+  const formatter = new Intl.DateTimeFormat(undefined, {
+    year: 'numeric', month: 'short', day: 'numeric',
+    hour: 'numeric', minute: '2-digit', timeZoneName: 'short',
+  });
 
   function safeDate(value) {
     const date = new Date(value);

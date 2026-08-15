@@ -1,4 +1,5 @@
 import json
+import subprocess
 import tempfile
 import unittest
 from datetime import datetime, timezone
@@ -15,6 +16,11 @@ RSS = b'''<?xml version="1.0"?><rss><channel><item>
 </item></channel></rss>'''
 
 class PipelineTests(unittest.TestCase):
+    def test_browser_javascript_initializes_and_starts_loading(self):
+        script = Path(__file__).with_name('test_news_runtime.js')
+        result = subprocess.run(['node', str(script)], capture_output=True, text=True)
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
     def test_sanitization_strips_active_markup_and_decodes_entities(self):
         self.assertEqual(pipeline.sanitize('<style>x</style><p>A &amp; B</p><iframe>x</iframe>'), 'A & B')
         self.assertEqual(pipeline.safe_url('javascript:alert(1)'), '')
