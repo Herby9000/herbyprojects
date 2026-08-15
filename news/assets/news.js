@@ -3,6 +3,7 @@
   const state = { data: null, filter: 'All' };
   const $ = (selector) => document.querySelector(selector);
   const rail = $('#top-rail');
+  const leadSection = $('.lead-section');
   const sections = $('#story-sections');
   const reader = $('#reader');
   const formatter = new Intl.DateTimeFormat(undefined, {
@@ -82,6 +83,7 @@
   }
   function applyFilter(filter) {
     state.filter = filter;
+    leadSection.hidden = filter !== 'All';
     document.querySelectorAll('.topic').forEach(button => {
       const active = button.dataset.filter === filter;
       button.classList.toggle('active', active); button.setAttribute('aria-pressed', String(active));
