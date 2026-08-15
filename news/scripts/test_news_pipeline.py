@@ -36,6 +36,21 @@ class ImageCollector(HTMLParser):
             self.images.append(dict(attrs))
 
 class PipelineTests(unittest.TestCase):
+    def test_topic_navigation_is_nonshrinking_nonwrapping_and_scrollable(self):
+        css = (Path(__file__).parents[1] / 'assets' / 'news.css').read_text(encoding='utf-8')
+
+        def declarations(selector):
+            start = css.index(selector + '{') + len(selector) + 1
+            return css[start:css.index('}', start)]
+
+        topics = declarations('.topics')
+        topic = declarations('.topic')
+        self.assertIn('display:flex', topics)
+        self.assertIn('overflow-x:auto', topics)
+        self.assertIn('flex:0 0 auto', topic)
+        self.assertIn('white-space:nowrap', topic)
+        self.assertIn('min-height:44px', topic)
+
     def test_daily_seven_manifest_is_nested_path_safe(self):
         news_root = Path(__file__).parents[1]
         manifest = json.loads((news_root / 'manifest.webmanifest').read_text(encoding='utf-8'))

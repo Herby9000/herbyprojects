@@ -49,8 +49,16 @@ const topStories = Array.from({ length: 7 }, (_, index) => ({
 const sectionStories = filters.slice(1).map(category => ({
   id: `section-${category}`, title: `${category} section story`, summary: `${category} summary`, source: 'Test source',
   published: '2026-08-15T12:00:00Z', region: 'World', category, labels: [category],
-  url: `https://example.com/${category.toLowerCase()}`, imageUrl: 'https://images.example.com/section.jpg', contentStatus: 'Summary',
+  url: `https://example.com/${category.toLowerCase()}`,
+  imageUrl: category === 'Economics' ? 'https://images.example.com/section.jpg' :
+    category === 'Tech' ? 'https://user:secret@images.example.com/private.jpg' :
+      category === 'Sports' ? 'http://images.example.com/insecure.jpg' : '',
+  contentStatus: 'Summary',
 }));
+sectionStories.push({
+  ...sectionStories[0], id: 'section-odd-port', title: 'Odd port section story', summary: 'Odd port summary',
+  imageUrl: 'https://images.example.com:8443/odd-port.jpg',
+});
 const edition = { generatedAt: '2026-08-15T12:00:00Z', topStoryIds: topStories.map(story => story.id), stories: [...topStories, ...sectionStories] };
 let fetchCalled = false;
 const context = {
@@ -65,6 +73,14 @@ const context = {
 
 function renderedCategories() {
   return elements.get('#story-sections').children.filter(child => child.className === 'news-section').map(section => section.children[0].textContent);
+}
+
+function openSectionStory(category, title = `${category} section story`) {
+  topicButtons.find(button => button.dataset.filter === category).click();
+  const section = elements.get('#story-sections').children[0];
+  const item = section.children[1].children.find(story =>
+    story.children[1].children[0].textContent === title);
+  item.children[1].children[0].click();
 }
 
 async function run() {
@@ -95,6 +111,40 @@ async function run() {
     assert.equal(latestSection.getAttribute('aria-hidden'), 'false', `${category} exposes latest accessibly`);
     assert.deepEqual(renderedCategories(), [category], `${category} renders only itself`);
   }
+
+  openSectionStory('Economics');
+  const copy = elements.get('#reader-copy');
+  assert.equal(copy.children[0].tagName, 'FIGURE', 'reader image is before summary text');
+  assert.equal(copy.children[1].tagName, 'P');
+  assert.equal(copy.children[1].textContent, 'Economics summary');
+  const readerFigure = copy.children[0];
+  const readerImage = readerFigure.children[0];
+  const readerStatus = readerFigure.children[1];
+  assert.equal(readerImage.tagName, 'IMG');
+  assert.equal(readerImage.src, 'https://images.example.com/section.jpg');
+  assert.equal(readerImage.alt, '', 'adjacent title makes reader image decorative');
+  assert.equal(readerImage.width, 640); assert.equal(readerImage.height, 360);
+  assert.equal(readerImage.loading, 'lazy'); assert.equal(readerImage.decoding, 'async');
+  assert.equal(readerImage.referrerPolicy, 'no-referrer');
+  assert.equal(readerStatus.tagName, 'FIGCAPTION'); assert.equal(readerStatus.hidden, true);
+
+  readerImage.dispatch('error');
+  assert.equal(readerImage.hidden, true, 'failed reader image is hidden');
+  assert.equal(readerStatus.hidden, false, 'failed reader image gets an honest status');
+  assert.equal(readerStatus.textContent, 'Publisher image unavailable');
+  assert.equal(elements.get('#reader-title').textContent, 'Economics section story', 'image error preserves reader title');
+  assert.equal(copy.children[1].textContent, 'Economics summary', 'image error preserves summary');
+
+  for (const category of ['Politics', 'Tech', 'Sports']) {
+    openSectionStory(category);
+    assert.equal(elements.get('#reader-copy').children.some(child => child.tagName === 'FIGURE'), false,
+      `${category} missing or unsafe image creates no reader figure`);
+    assert.equal(elements.get('#reader-copy').children[0].textContent, `${category} summary`, `${category} summary remains`);
+  }
+  openSectionStory('Politics', 'Odd port section story');
+  assert.equal(elements.get('#reader-copy').children.some(child => child.tagName === 'FIGURE'), false,
+    'odd-port image creates no reader figure');
+  assert.equal(elements.get('#reader-copy').children[0].textContent, 'Odd port summary');
   topicButtons[0].click();
   assert.equal(leadSection.hidden, false); assert.equal(latestSection.hidden, true);
   assert.deepEqual(renderedCategories(), [], 'Today restores only the seven');

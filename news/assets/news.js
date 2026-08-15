@@ -38,7 +38,24 @@
     $('#reader-kicker').textContent = `${story.category} · ${story.region}`;
     $('#reader-title').textContent = story.title;
     $('#reader-byline').textContent = meta(story);
-    const copy = $('#reader-copy'); copy.replaceChildren(el('p', '', story.summary));
+    const copy = $('#reader-copy');
+    const summary = el('p', '', story.summary);
+    const imageUrl = safeImageUrl(story.imageUrl);
+    if (imageUrl) {
+      const figure = el('figure', 'reader-image');
+      const image = el('img', 'reader-image-media');
+      image.src = imageUrl; image.alt = ''; image.width = 640; image.height = 360;
+      image.loading = 'lazy'; image.decoding = 'async'; image.referrerPolicy = 'no-referrer';
+      const unavailable = el('figcaption', 'reader-image-status', 'Publisher image unavailable');
+      unavailable.hidden = true;
+      image.addEventListener('error', () => {
+        image.hidden = true; unavailable.hidden = false; figure.classList.add('image-unavailable');
+      });
+      figure.append(image, unavailable);
+      copy.replaceChildren(figure, summary);
+    } else {
+      copy.replaceChildren(summary);
+    }
     const storyLabels = Array.isArray(story.labels) ? story.labels : [story.category, story.region];
     const labels = $('#reader-labels'); labels.replaceChildren(...storyLabels.map(label => el('span', '', label)));
     $('#reader-disclosure').textContent = `${story.contentStatus}. This reader never fabricates missing article text or embeds a publisher page.`;
