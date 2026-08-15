@@ -31,17 +31,17 @@ The apps may be personal, but the code is public. Private user data, credentials
 
 ### Architecture
 
-`news/scripts/news_pipeline.py` is a standard-library-only RSS/Atom normalizer. It fetches each source independently, converts publisher markup to plain text, rejects non-HTTP links, normalizes timestamps to UTC, tags regions/categories/teams, deduplicates similar events, and ranks for recency, source quality, focus and diversity. It writes:
+`news/scripts/news_pipeline.py` is a standard-library-only RSS/Atom normalizer. It fetches each source independently, converts publisher markup to plain text, discovers publisher-supplied feed images, rejects unsafe links, normalizes timestamps to UTC, tags regions/categories/teams, deduplicates similar events, and ranks for recency, source quality, focus and diversity. Top selection requires exactly seven image-bearing non-Sports stories, seeds Politics, Tech and Economics when available, and fails rather than publishing an incomplete edition. It writes:
 
 - `news/data/news.json`, the progressively enhanced app data;
 - `news/snapshot.html`, a readable generated fragment;
 - the same seven source-attributed stories inside `news/index.html`, so an edition remains readable without JavaScript or after a failed refresh.
 
-The browser app creates all publisher-derived UI with `textContent`, opens stories in a native accessible dialog, and provides the original source only as a secondary link. It never iframes a publisher. A `?v=1` asset version and `fetch(..., {cache: "no-store"})` prevent indefinite client staleness; deploys also replace the static JSON on each refresh.
+The browser app creates all publisher-derived text with `textContent`, opens stories in a native accessible dialog, and provides the original source only as a secondary link. It never iframes or renders publisher markup. Today contains only the masthead/navigation and seven swipeable image cards; Politics, Tech, Economics and Sports lists are available through their tabs. Versioned CSS/JavaScript assets and `fetch(..., {cache: "no-store"})` prevent indefinite client staleness; deploys also replace the static JSON on each refresh.
 
 ### Sources and coverage
 
-The current feed registry uses BBC News, BBC Politics, BBC Technology, BBC Sport and BBC Rugby Union; CBC Canada and World; NPR Politics for explicit US coverage; Guardian UK, China and Technology; Ars Technica; Sky Sports; the official Saracens feed; the official MLB Toronto Blue Jays feed; and a Sportsnet NHL feed filtered specifically for Maple Leafs stories. These are freely readable public feeds/pages and require no key or subscription. A failed publisher is recorded in `sourceStatus` and does not invalidate successful sources.
+The current feed registry uses BBC News, Politics, Technology, Business, Sport and Rugby Union; CBC Canada, World and Business; NPR Politics and Business; Guardian UK, China, Technology, Economics and Business; Ars Technica; Sky Sports; the official Saracens feed; the official MLB Toronto Blue Jays feed; and a Sportsnet NHL feed filtered specifically for Maple Leafs stories. These are freely readable public feeds/pages and require no key or subscription. Dedicated business and economics feeds remain classified Economics. A failed publisher is recorded in `sourceStatus` and does not invalidate successful sources.
 
 Source summaries vary in length. The reader labels them as source-provided summaries (or headline-only) and never claims to reproduce a full article. Publisher content and links remain the publishers’ property.
 
@@ -51,7 +51,7 @@ Source summaries vary in length. The reader labels them as source-provided summa
 
 ### Development and verification
 
-Run the pipeline tests with Python’s built-in `unittest`, then run `news/scripts/news_pipeline.py --allow-fallback --status`. Serve the repository root with any static HTTP server; the app is at `/news/`. JavaScript can be syntax-checked with Node. Tests cover normalization and UTC timestamps, active-markup removal, URL safety, event deduplication, ranking, requested category/region/team rules, focused-feed filtering, fallback shape, section diversity and exactly seven top stories.
+Run the pipeline tests with Python’s built-in `unittest`, then run `news/scripts/news_pipeline.py --allow-fallback --status`. Serve the repository root with any static HTTP server; the app is at `/news/`. JavaScript can be syntax-checked with Node. Tests cover image extraction and URL safety, normalization and UTC timestamps, active-markup removal, event deduplication, ranking, economics and requested category/region/team rules, fallback invariants, the no-JS snapshot, Today/section behavior, image failures and exactly seven image-bearing sport-free top stories.
 
 ### Limitations and source maintenance
 

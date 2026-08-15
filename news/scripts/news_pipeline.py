@@ -13,6 +13,7 @@ import xml.etree.ElementTree as ET
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
+from html.parser import HTMLParser
 from pathlib import Path
 from typing import Iterable
 from urllib.parse import urlparse
@@ -42,6 +43,11 @@ SOURCES = (
     Source("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index", "Tech", "World", 5),
     Source("BBC Technology", "https://feeds.bbci.co.uk/news/technology/rss.xml", "Tech", "World", 4),
     Source("The Guardian Technology", "https://www.theguardian.com/technology/rss", "Tech", "World", 3),
+    Source("BBC Business", "https://feeds.bbci.co.uk/news/business/rss.xml", "Economics", "World", 5),
+    Source("The Guardian Economics", "https://www.theguardian.com/business/economics/rss", "Economics", "World", 5),
+    Source("The Guardian Business", "https://www.theguardian.com/business/rss", "Economics", "World", 4),
+    Source("CBC Business", "https://www.cbc.ca/cmlink/rss-business", "Economics", "Canada", 4),
+    Source("NPR Business", "https://feeds.npr.org/1017/rss.xml", "Economics", "US", 4),
     Source("BBC Sport", "https://feeds.bbci.co.uk/sport/rss.xml", "Sports", "UK", 4),
     Source("BBC Rugby Union", "https://feeds.bbci.co.uk/sport/rugby-union/rss.xml", "Sports", "England", 5),
     Source("Saracens", "https://saracens.com/feed/", "Sports", "England", 5, focus="Saracens"),
@@ -103,6 +109,67 @@ def safe_url(value: str) -> str:
         return ""
     cleaned = TRACKING_QUERY_RE.sub(r"\1", value).replace("?&", "?").rstrip("?&")
     return cleaned
+
+
+def safe_image_url(value: str) -> str:
+    """Allow only ordinary credential-free HTTPS publisher image URLs."""
+    value = html.unescape((value or "").strip())
+    if not value or any(ord(character) < 32 for character in value):
+        return ""
+    try:
+        parsed = urlparse(value)
+        port = parsed.port
+    except ValueError:
+        return ""
+    if (parsed.scheme != "https" or not parsed.hostname or parsed.username or parsed.password
+            or port not in (None, 443)):
+        return ""
+    return value
+
+
+class _FirstImageParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.url = ""
+        self.alt = ""
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag.lower() != "img" or self.url:
+            return
+        values = {name.lower(): value or "" for name, value in attrs}
+        candidate = safe_image_url(values.get("src", ""))
+        if candidate:
+            self.url = candidate
+            self.alt = sanitize(values.get("alt", ""))[:300]
+
+
+def extract_image(item: ET.Element) -> tuple[str, str]:
+    """Find publisher-supplied image metadata without rendering publisher HTML."""
+    markup_candidates = []
+    for child in list(item):
+        local = child.tag.rsplit("}", 1)[-1].lower()
+        attributes = {key.rsplit("}", 1)[-1].lower(): value for key, value in child.attrib.items()}
+        candidate = ""
+        if local in ("thumbnail", "content"):
+            medium = attributes.get("medium", "").lower()
+            mime = attributes.get("type", "").lower()
+            if local == "thumbnail" or medium == "image" or mime.startswith("image/") or not mime:
+                candidate = safe_image_url(attributes.get("url", ""))
+        elif local == "enclosure" and attributes.get("type", "").lower().startswith("image/"):
+            candidate = safe_image_url(attributes.get("url", ""))
+        if candidate:
+            return candidate, sanitize(attributes.get("alt", attributes.get("description", "")))[:300]
+        if local in ("description", "summary", "content", "encoded"):
+            markup_candidates.append(text_of(child))
+    for markup in markup_candidates:
+        parser = _FirstImageParser()
+        try:
+            parser.feed(markup)
+        except Exception:
+            continue
+        if parser.url:
+            return parser.url, parser.alt
+    return "", ""
 
 
 def parse_date(value: str) -> datetime:
@@ -169,14 +236,20 @@ def parse_feed(payload: bytes, source: Source) -> list[dict]:
         if len(summary) > 2400:
             summary = summary[:2399].rsplit(" ", 1)[0] + "…"
         category, region, labels = categorize(title, summary, source)
+        image_url, image_alt = extract_image(item)
         identity = hashlib.sha256(f"{title.lower()}|{link}".encode()).hexdigest()[:16]
-        stories.append({
+        story = {
             "id": identity, "title": title, "summary": summary or "This feed supplied a headline but no article summary.",
             "contentStatus": "Source-provided feed summary" if summary else "Headline only — no summary supplied",
             "url": link, "source": source.name, "published": published.isoformat().replace("+00:00", "Z"),
             "category": category, "region": region, "labels": labels, "sourceWeight": source.weight,
             "focus": source.focus,
-        })
+        }
+        if image_url:
+            story["imageUrl"] = image_url
+        if image_alt:
+            story["imageAlt"] = image_alt
+        stories.append(story)
     return stories
 
 
@@ -212,9 +285,13 @@ def rank(stories: list[dict], now: datetime) -> list[dict]:
 
 
 def select_top(stories: list[dict], count: int = 7) -> list[dict]:
-    """Select meaningful variety while always returning exactly count when possible."""
+    """Select an image-complete, sport-free and category-diverse Top 7."""
+    stories = [story for story in stories
+               if story.get("category") != "Sports"
+               and bool(story.get("imageUrl"))
+               and safe_image_url(story.get("imageUrl", "")) == story.get("imageUrl")]
     if len(stories) < count:
-        raise ValueError(f"Need at least {count} stories, got {len(stories)}")
+        raise ValueError(f"Need at least {count} image-bearing non-Sports stories, got {len(stories)}")
     selected, source_counts, category_counts, focus_counts = [], {}, {}, {}
 
     def add(story: dict) -> None:
@@ -226,7 +303,7 @@ def select_top(stories: list[dict], count: int = 7) -> list[dict]:
 
     # Avoid an edition accidentally omitting an entire requested section. Prefer
     # a different publisher for each seed story when the ranked pool permits it.
-    for category in ("Politics", "Tech", "Sports"):
+    for category in ("Politics", "Tech", "Economics"):
         story = next((item for item in stories
                       if item["category"] == category and not source_counts.get(item["source"])), None)
         if story is None:
@@ -282,7 +359,9 @@ def render_snapshot(top: list[dict]) -> str:
     for i, story in enumerate(top, 1):
         labels = " · ".join(story["labels"])
         cards.append(
-            f'<article class="snapshot-card"><p class="snapshot-number">{i:02d}</p>'
+            f'<article class="snapshot-card"><div class="story-image-frame">'
+            f'<img class="story-image" src="{html.escape(story["imageUrl"], quote=True)}" alt="" width="640" height="360" loading="lazy" decoding="async" referrerpolicy="no-referrer">'
+            f'</div><p class="snapshot-number">{i:02d}</p>'
             f'<p class="story-meta">{html.escape(story["source"])} · <time datetime="{story["published"]}">{story["published"][:10]}</time></p>'
             f'<h3>{html.escape(story["title"])}</h3><p>{html.escape(story["summary"])}</p>'
             f'<p class="labels">{html.escape(labels)}</p><a href="{html.escape(story["url"], quote=True)}" rel="noopener noreferrer">Read at source</a></article>'
@@ -317,7 +396,8 @@ def build(allow_fallback: bool = False) -> dict:
         except Exception as exc:  # one broken publisher must not stop refresh
             statuses.append({"source": source.name, "ok": False, "error": sanitize(str(exc))[:180]})
     ranked = rank(dedupe(all_stories), now)
-    if len(ranked) < 7 and allow_fallback and DATA_PATH.exists():
+    eligible = [story for story in ranked if story.get("category") != "Sports" and safe_image_url(story.get("imageUrl", ""))]
+    if len(eligible) < 7 and allow_fallback and DATA_PATH.exists():
         previous = json.loads(DATA_PATH.read_text(encoding="utf-8"))
         ranked = dedupe(ranked + previous.get("stories", []))
         ranked = rank(ranked, now)

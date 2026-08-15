@@ -1,14 +1,14 @@
 (() => {
   'use strict';
   const state = { data: null, filter: 'All' };
-  const $ = (selector) => document.querySelector(selector);
+  const $ = selector => document.querySelector(selector);
   const rail = $('#top-rail');
   const leadSection = $('.lead-section');
+  const latestSection = $('.latest-section');
   const sections = $('#story-sections');
   const reader = $('#reader');
   const formatter = new Intl.DateTimeFormat(undefined, {
-    year: 'numeric', month: 'short', day: 'numeric',
-    hour: 'numeric', minute: '2-digit', timeZoneName: 'short',
+    year: 'numeric', month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit', timeZoneName: 'short',
   });
 
   function safeDate(value) {
@@ -26,6 +26,12 @@
     try {
       const url = new URL(value);
       return ['http:', 'https:'].includes(url.protocol) ? url.href : '';
+    } catch (_) { return ''; }
+  }
+  function safeImageUrl(value) {
+    try {
+      const url = new URL(value);
+      return url.protocol === 'https:' && !url.username && !url.password && (!url.port || url.port === '443') ? url.href : '';
     } catch (_) { return ''; }
   }
   function openReader(story) {
@@ -56,14 +62,24 @@
     rail.replaceChildren();
     stories.forEach((story, index) => {
       const card = el('article', 'story-card');
-      card.append(el('p', 'card-number', String(index + 1).padStart(2, '0')), el('p', 'story-meta', meta(story)), el('h3', '', story.title), el('p', 'dek', story.summary), storyButton(story));
+      const frame = el('div', 'story-image-frame');
+      const image = el('img', 'story-image');
+      image.src = safeImageUrl(story.imageUrl); image.alt = ''; image.width = 640; image.height = 360;
+      image.loading = 'lazy'; image.decoding = 'async'; image.referrerPolicy = 'no-referrer';
+      const unavailable = el('p', 'image-status', 'Publisher image unavailable'); unavailable.hidden = true;
+      image.addEventListener('error', () => {
+        image.hidden = true; unavailable.hidden = false; card.classList.add('image-unavailable');
+      });
+      frame.append(image, unavailable);
+      card.append(frame, el('p', 'card-number', String(index + 1).padStart(2, '0')),
+        el('p', 'story-meta', meta(story)), el('h3', '', story.title), el('p', 'dek', story.summary), storyButton(story));
       rail.append(card);
     });
     rail.setAttribute('aria-busy', 'false');
   }
   function renderSections(stories) {
     sections.replaceChildren();
-    const categories = state.filter === 'All' ? ['Politics', 'Tech', 'Sports'] : [state.filter];
+    const categories = state.filter === 'All' ? [] : [state.filter];
     categories.forEach(category => {
       const categoryStories = stories.filter(story => story.category === category)
         .sort((a, b) => Number(Boolean(b.focus)) - Number(Boolean(a.focus))).slice(0, 12);
@@ -79,16 +95,20 @@
       });
       wrapper.append(list); sections.append(wrapper);
     });
-    if (!sections.children.length) sections.append(el('p', 'empty-state', 'No stories are available in this section. The next refresh will try again.'));
+    if (state.filter !== 'All' && !sections.children.length) {
+      sections.append(el('p', 'empty-state', 'No stories are available in this section. The next refresh will try again.'));
+    }
   }
   function applyFilter(filter) {
     state.filter = filter;
     leadSection.hidden = filter !== 'All';
+    latestSection.hidden = filter === 'All';
+    latestSection.setAttribute('aria-hidden', String(filter === 'All'));
     document.querySelectorAll('.topic').forEach(button => {
       const active = button.dataset.filter === filter;
       button.classList.toggle('active', active); button.setAttribute('aria-pressed', String(active));
     });
-    renderSections(state.data.stories.filter(story => !state.data.topStoryIds.includes(story.id)));
+    renderSections(state.data.stories);
   }
   document.querySelectorAll('.topic').forEach(button => button.addEventListener('click', () => applyFilter(button.dataset.filter)));
 
@@ -101,8 +121,8 @@
       state.data = data;
       const byId = new Map(data.stories.map(story => [story.id, story]));
       const top = data.topStoryIds.map(id => byId.get(id)).filter(Boolean);
-      if (top.length !== 7) throw new Error('Incomplete Top 7');
-      renderTop(top); renderSections(data.stories.filter(story => !data.topStoryIds.includes(story.id)));
+      if (top.length !== 7 || top.some(story => story.category === 'Sports' || !safeImageUrl(story.imageUrl))) throw new Error('Incomplete Top 7');
+      renderTop(top); applyFilter('All');
       $('#refresh-time').textContent = `Updated ${safeDate(data.generatedAt)}`;
       $('#dateline').textContent = new Intl.DateTimeFormat(undefined, { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' }).format(new Date(data.generatedAt));
     } catch (error) {

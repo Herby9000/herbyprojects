@@ -4,6 +4,7 @@ import subprocess
 import tempfile
 import unittest
 from datetime import datetime, timezone
+from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 from unittest.mock import patch
@@ -17,6 +18,22 @@ RSS = b'''<?xml version="1.0"?><rss><channel><item>
 <description><![CDATA[<p>A <strong>detailed</strong> update.</p><script>alert(1)</script>]]></description>
 <pubDate>Sat, 15 Aug 2026 12:00:00 GMT</pubDate>
 </item></channel></rss>'''
+
+IMAGE_RSS = b'''<?xml version="1.0"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel>
+<item><title>Thumbnail</title><link>https://example.com/1</link><media:thumbnail url="https://images.example.com/thumb.jpg" /></item>
+<item><title>Media content</title><link>https://example.com/2</link><media:content url="https://images.example.com/content.webp" medium="image" /></item>
+<item><title>Enclosure</title><link>https://example.com/3</link><enclosure url="https://images.example.com/enclosed.png" type="image/png" /></item>
+<item><title>Description</title><link>https://example.com/4</link><description><![CDATA[<p>Words</p><img src="https://images.example.com/description.jpg" alt="A supplied caption">]]></description></item>
+</channel></rss>'''
+
+class ImageCollector(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.images = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag == 'img':
+            self.images.append(dict(attrs))
 
 class PipelineTests(unittest.TestCase):
     def test_daily_seven_manifest_is_nested_path_safe(self):
@@ -69,6 +86,35 @@ class PipelineTests(unittest.TestCase):
     def test_sanitization_strips_active_markup_and_decodes_entities(self):
         self.assertEqual(pipeline.sanitize('<style>x</style><p>A &amp; B</p><iframe>x</iframe>'), 'A & B')
         self.assertEqual(pipeline.safe_url('javascript:alert(1)'), '')
+
+    def test_image_extraction_covers_media_enclosure_and_description(self):
+        source = pipeline.Source('Test', 'https://example.com/feed', 'Politics', 'World')
+        stories = pipeline.parse_feed(IMAGE_RSS, source)
+        self.assertEqual([story['imageUrl'] for story in stories], [
+            'https://images.example.com/thumb.jpg',
+            'https://images.example.com/content.webp',
+            'https://images.example.com/enclosed.png',
+            'https://images.example.com/description.jpg',
+        ])
+        self.assertEqual(stories[-1].get('imageAlt'), 'A supplied caption')
+
+    def test_image_urls_are_https_credential_free_and_use_normal_ports(self):
+        accepted = 'https://images.example.com/photo.jpg?x=1&amp;y=2'
+        self.assertEqual(pipeline.safe_image_url(accepted), 'https://images.example.com/photo.jpg?x=1&y=2')
+        for unsafe in ('http://example.com/a.jpg', 'javascript:alert(1)', 'data:image/png;base64,x',
+                       'file:///tmp/a.jpg', 'https://user:pass@example.com/a.jpg',
+                       'https://example.com:8443/a.jpg', '//example.com/a.jpg', 'not a url'):
+            self.assertEqual(pipeline.safe_image_url(unsafe), '', unsafe)
+
+    def test_economics_sources_exist_and_dedicated_category_is_stable(self):
+        economics = [source for source in pipeline.SOURCES if source.category == 'Economics']
+        self.assertGreaterEqual(len(economics), 3)
+        self.assertIn('https://feeds.bbci.co.uk/news/business/rss.xml', {source.url for source in economics})
+        self.assertIn('https://www.theguardian.com/business/economics/rss', {source.url for source in economics})
+        self.assertIn('https://www.theguardian.com/business/rss', {source.url for source in economics})
+        category, _, labels = pipeline.categorize('AI firms influence central bank policy', '', economics[0])
+        self.assertEqual(category, 'Economics')
+        self.assertIn('Economics', labels)
 
     def test_feed_normalization_is_timezone_safe_and_tagged(self):
         source = pipeline.Source('BBC News', 'https://example.com/feed', 'Politics', 'World', 3)
@@ -125,18 +171,31 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(story['focus'], 'Maple Leafs')
         self.assertIn('Maple Leafs', story['labels'])
 
-    def test_top_is_exactly_seven_and_source_diverse(self):
+    def test_top_is_exactly_seven_image_bearing_sport_free_and_diverse(self):
         stories = []
-        for i in range(12):
+        categories = ('Politics', 'Tech', 'Economics', 'Sports')
+        for i in range(16):
             stories.append({'id': str(i), 'title': f'Unique story number {i}', 'summary': 'x', 'url': f'https://e.test/{i}',
-                'published': f'2026-08-15T{12-i:02d}:00:00Z', 'sourceWeight': 3, 'source': f'Source {i % 4}',
-                'category': ('Politics', 'Tech', 'Sports')[i % 3], 'region': 'World', 'labels': []})
+                'published': f'2026-08-15T{12-i:02d}:00:00Z', 'sourceWeight': 3, 'source': f'Source {i % 5}',
+                'category': categories[i % 4], 'region': 'World', 'labels': [],
+                'imageUrl': f'https://images.e.test/{i}.jpg'})
         top = pipeline.select_top(stories)
         self.assertEqual(len(top), 7)
-        self.assertEqual({s['category'] for s in top}, {'Politics', 'Tech', 'Sports'})
+        self.assertTrue(all(story['imageUrl'].startswith('https://') for story in top))
+        self.assertNotIn('Sports', {story['category'] for story in top})
+        self.assertTrue({'Politics', 'Tech', 'Economics'} <= {story['category'] for story in top})
         self.assertLessEqual(max(sum(s['source'] == name for s in top) for name in {s['source'] for s in top}), 2)
         self.assertLessEqual(max((sum(s.get('focus') == focus for s in top)
                                   for focus in {s.get('focus') for s in top if s.get('focus')}), default=0), 1)
+
+    def test_top_fails_honestly_when_safe_image_pool_is_short(self):
+        stories = []
+        for i in range(10):
+            stories.append({'id': str(i), 'title': str(i), 'source': f'S{i}',
+                            'category': 'Sports' if i == 8 else 'Politics',
+                            'imageUrl': f'https://images.test/{i}.jpg' if i < 6 or i == 8 else ''})
+        with self.assertRaisesRegex(ValueError, 'image-bearing non-Sports'):
+            pipeline.select_top(stories)
 
     def test_output_retains_explicit_coverage_ahead_of_ranked_fill(self):
         def story(identifier, category='Politics', region='World', focus='', labels=None):
@@ -160,6 +219,19 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(data['schemaVersion'], 1)
         self.assertEqual(len(data['topStoryIds']), 7)
         self.assertTrue(all(set(('id', 'title', 'summary', 'url', 'published', 'category', 'source')) <= set(s) for s in data['stories']))
+        by_id = {story['id']: story for story in data['stories']}
+        top = [by_id[identifier] for identifier in data['topStoryIds']]
+        self.assertTrue(all(story['category'] != 'Sports' for story in top))
+        self.assertTrue(all(pipeline.safe_image_url(story.get('imageUrl', '')) == story.get('imageUrl') for story in top))
+
+    def test_no_js_snapshot_has_seven_safe_story_images(self):
+        snapshot = (Path(__file__).parents[1] / 'snapshot.html').read_text(encoding='utf-8')
+        parser = ImageCollector()
+        parser.feed(snapshot)
+        self.assertEqual(len(parser.images), 7)
+        for image in parser.images:
+            self.assertEqual(pipeline.safe_image_url(image['src']), image['src'])
+            self.assertEqual(image.get('referrerpolicy'), 'no-referrer')
 
 if __name__ == '__main__':
     unittest.main()
