@@ -1,6 +1,7 @@
 (() => {
   'use strict';
-  const state = { data: null, filter: 'All' };
+  const state = { data: null, filter: 'All', sportsFilter: 'All' };
+  const sportsFilterNames = ['All', 'Rugby', 'Saracens', 'Blue Jays', 'Leafs'];
   const $ = selector => document.querySelector(selector);
   const rail = $('#top-rail');
   const leadSection = $('.lead-section');
@@ -22,6 +23,16 @@
     return node;
   }
   function meta(story) { return `${story.source} · ${safeDate(story.published)} · ${story.region}`; }
+  function matchesSportsFilter(story, filter) {
+    if (filter === 'All') return story.category === 'Sports';
+    const labels = Array.isArray(story.labels) ? story.labels : [];
+    const saracens = story.focus === 'Saracens' || labels.includes('Saracens') || story.source === 'Saracens';
+    if (filter === 'Saracens') return saracens;
+    if (filter === 'Blue Jays') return story.focus === 'Blue Jays' || labels.includes('Blue Jays') || story.source === 'Toronto Blue Jays';
+    if (filter === 'Leafs') return story.focus === 'Maple Leafs' || labels.includes('Maple Leafs') || story.source === 'Sportsnet Maple Leafs';
+    if (filter === 'Rugby') return !saracens && (labels.includes('Rugby') || labels.includes('England Rugby') || story.source === 'BBC Rugby Union');
+    return false;
+  }
   function safeSourceUrl(value) {
     try {
       const url = new URL(value);
@@ -104,11 +115,31 @@
     sections.replaceChildren();
     const categories = state.filter === 'All' ? [] : [state.filter];
     categories.forEach(category => {
-      const categoryStories = stories.filter(story => story.category === category)
-        .sort((a, b) => Number(Boolean(b.focus)) - Number(Boolean(a.focus))).slice(0, 12);
-      if (!categoryStories.length) return;
+      const allCategoryStories = stories.filter(story => story.category === category);
+      const categoryStories = category === 'Sports'
+        ? (state.sportsFilter === 'All' ? allCategoryStories.slice(0, 12) : allCategoryStories.filter(story => matchesSportsFilter(story, state.sportsFilter)))
+        : allCategoryStories.sort((a, b) => Number(Boolean(b.focus)) - Number(Boolean(a.focus))).slice(0, 12);
+      if (!categoryStories.length && category !== 'Sports') return;
       const wrapper = el('section', 'news-section');
       wrapper.append(el('h3', 'news-section-title', category));
+      if (category === 'Sports') {
+        const row = el('div', 'sports-filters');
+        row.setAttribute('aria-label', 'Filter Sports stories');
+        sportsFilterNames.forEach(filter => {
+          const count = filter === 'All' ? allCategoryStories.length : allCategoryStories.filter(story => matchesSportsFilter(story, filter)).length;
+          const button = el('button', 'sports-filter');
+          button.type = 'button'; button.dataset.sportsFilter = filter;
+          const active = state.sportsFilter === filter;
+          button.setAttribute('aria-pressed', String(active));
+          button.setAttribute('aria-label', `${filter}, ${count} ${count === 1 ? 'story' : 'stories'}`);
+          const label = el('span', 'sports-filter-label', filter);
+          const badge = el('span', 'sports-filter-count', String(count)); badge.setAttribute('aria-hidden', 'true');
+          button.append(label, badge);
+          button.addEventListener('click', () => { state.sportsFilter = filter; renderSections(stories); });
+          row.append(button);
+        });
+        wrapper.append(row);
+      }
       const list = el('div', 'story-list');
       categoryStories.forEach(story => {
         const item = el('article', 'list-story');
@@ -116,7 +147,9 @@
         item.append(el('p', 'story-meta', meta(story)), title, el('p', 'labels', (story.labels || []).join(' · ')));
         list.append(item);
       });
-      wrapper.append(list); sections.append(wrapper);
+      if (categoryStories.length) wrapper.append(list);
+      else wrapper.append(el('p', 'empty-state', `No ${state.sportsFilter} stories are available in this edition.`));
+      sections.append(wrapper);
     });
     if (state.filter !== 'All' && !sections.children.length) {
       sections.append(el('p', 'empty-state', 'No stories are available in this section. The next refresh will try again.'));
@@ -134,6 +167,8 @@
     renderSections(state.data.stories);
   }
   document.querySelectorAll('.topic').forEach(button => button.addEventListener('click', () => applyFilter(button.dataset.filter)));
+
+  globalThis.DailySevenSports = Object.freeze({ matchesSportsFilter });
 
   async function load() {
     try {

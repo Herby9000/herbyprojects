@@ -37,7 +37,7 @@ The apps may be personal, but the code is public. Private user data, credentials
 - `news/snapshot.html`, a readable generated fragment;
 - the same seven source-attributed stories inside `news/index.html`, so an edition remains readable without JavaScript or after a failed refresh.
 
-The browser app creates all publisher-derived text with `textContent`, opens stories in a native accessible dialog, and provides the original source only as a secondary link. It never iframes or renders publisher markup. Today contains only the masthead/navigation and seven swipeable image cards; Politics, Tech, Economics and Sports lists are available through their tabs. Versioned CSS/JavaScript assets and `fetch(..., {cache: "no-store"})` prevent indefinite client staleness; deploys also replace the static JSON on each refresh.
+The browser app creates all publisher-derived text with `textContent`, opens stories in a native accessible dialog, and provides the original source only as a secondary link. It never iframes or renders publisher markup. Today contains only the masthead/navigation and seven swipeable image cards; Politics, Tech, Economics and Sports lists are available through their tabs. Sports adds accessible, horizontally scrollable All, Rugby, Saracens, Blue Jays and Leafs pills with exact team/source/label matching and full-edition counts; named choices show every match while All remains a concise 12-story view. Versioned CSS/JavaScript assets and `fetch(..., {cache: "no-store"})` prevent indefinite client staleness; deploys also replace the static JSON on each refresh.
 
 ### Sources and coverage
 

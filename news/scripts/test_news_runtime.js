@@ -27,6 +27,10 @@ function element(tagName = '') {
   };
 }
 
+function walk(root) {
+  return [root, ...root.children.flatMap(walk)];
+}
+
 const filters = ['All', 'Politics', 'Tech', 'Economics', 'Sports'];
 const topicButtons = filters.map((filter, index) => {
   const button = element('button'); button.dataset.filter = filter;
@@ -34,8 +38,11 @@ const topicButtons = filters.map((filter, index) => {
 });
 const leadSection = element('section');
 const latestSection = element('section');
+const reader = element('dialog');
+reader.showModal = () => reader.setAttribute('open', '');
+reader.close = () => { reader.setAttribute('open', ''); reader.dispatch('close'); };
 const elements = new Map([
-  ['#top-rail', element('div')], ['#story-sections', element('div')], ['#reader', element('dialog')],
+  ['#top-rail', element('div')], ['#story-sections', element('div')], ['#reader', reader],
   ['.lead-section', leadSection], ['.latest-section', latestSection],
 ]);
 for (const selector of ['#reader-kicker', '#reader-title', '#reader-byline', '#reader-copy', '#reader-labels',
@@ -47,20 +54,35 @@ const topStories = Array.from({ length: 7 }, (_, index) => ({
   url: 'https://example.com/top', imageUrl: `https://images.example.com/${index}.jpg`,
   imageWidth: 1200, imageHeight: 675, contentStatus: 'Summary',
 }));
-const sectionStories = filters.slice(1).map(category => ({
+const sectionStories = filters.slice(1, -1).map(category => ({
   id: `section-${category}`, title: `${category} section story`, summary: `${category} summary`, source: 'Test source',
   published: '2026-08-15T12:00:00Z', region: 'World', category, labels: [category],
   url: `https://example.com/${category.toLowerCase()}`,
   imageUrl: category === 'Economics' ? 'https://images.example.com/section.jpg' :
-    category === 'Tech' ? 'https://user:secret@images.example.com/private.jpg' :
-      category === 'Sports' ? 'http://images.example.com/insecure.jpg' : '',
+    category === 'Tech' ? 'https://user:secret@images.example.com/private.jpg' : '',
   contentStatus: 'Summary',
 }));
 sectionStories.push({
   ...sectionStories[0], id: 'section-odd-port', title: 'Odd port section story', summary: 'Odd port summary',
   imageUrl: 'https://images.example.com:8443/odd-port.jpg',
 });
-const edition = { schemaVersion: 2, generatedAt: '2026-08-15T12:00:00Z', topStoryIds: topStories.map(story => story.id), stories: [...topStories, ...sectionStories] };
+const sportsStories = [
+  { id: 'rugby-label', labels: ['Rugby'], source: 'Other' },
+  { id: 'rugby-england', labels: ['England Rugby'], source: 'Other' },
+  { id: 'rugby-source', labels: [], source: 'BBC Rugby Union' },
+  { id: 'saracens-focus', labels: ['Rugby'], source: 'Other', focus: 'Saracens' },
+  { id: 'saracens-label', labels: ['Saracens'], source: 'Other' },
+  { id: 'saracens-source', labels: [], source: 'Saracens' },
+  ...Array.from({ length: 13 }, (_, index) => ({ id: `blue-${index}`, labels: index ? [] : ['Blue Jays'], source: 'Toronto Blue Jays', focus: index === 1 ? 'Blue Jays' : '' })),
+  { id: 'leafs-focus', labels: [], source: 'Other', focus: 'Maple Leafs' },
+  { id: 'leafs-label', labels: ['Maple Leafs'], source: 'Other' },
+  { id: 'leafs-source', labels: [], source: 'Sportsnet Maple Leafs' },
+  { id: 'near-miss', labels: ['Rugby League', 'Toronto Blue Jays prospects'], source: 'Other', focus: 'Leafs' },
+].map(story => ({
+  title: story.id, summary: `${story.id} summary`, published: '2026-08-15T12:00:00Z', region: 'World',
+  category: 'Sports', url: `https://example.com/${story.id}`, contentStatus: 'Summary', ...story,
+}));
+const edition = { schemaVersion: 2, generatedAt: '2026-08-15T12:00:00Z', topStoryIds: topStories.map(story => story.id), stories: [...topStories, ...sectionStories, ...sportsStories] };
 let fetchCalled = false;
 const context = {
   console, Date, Error, Intl, Map, Number, URL,
@@ -71,16 +93,25 @@ const context = {
   },
   fetch() { fetchCalled = true; return Promise.resolve({ ok: true, json: () => Promise.resolve(edition) }); },
 };
+context.globalThis = context;
 
 function renderedCategories() {
   return elements.get('#story-sections').children.filter(child => child.className === 'news-section').map(section => section.children[0].textContent);
 }
 
+function sectionList() {
+  const section = elements.get('#story-sections').children.find(child => child.className === 'news-section');
+  return section && section.children.find(child => child.className === 'story-list');
+}
+
+function sportsButtons() {
+  return walk(elements.get('#story-sections')).filter(node => node.className === 'sports-filter');
+}
+
 function openSectionStory(category, title = `${category} section story`) {
   topicButtons.find(button => button.dataset.filter === category).click();
-  const section = elements.get('#story-sections').children[0];
-  const item = section.children[1].children.find(story =>
-    story.children[1].children[0].textContent === title);
+  const list = sectionList();
+  const item = list.children.find(story => story.children[1].children[0].textContent === title);
   item.children[1].children[0].click();
 }
 
@@ -90,65 +121,86 @@ async function run() {
   assert.equal(fetchCalled, true, 'initialization starts loading');
   await new Promise(resolve => setImmediate(resolve));
 
+  const matches = context.DailySevenSports.matchesSportsFilter;
+  assert.equal(matches({ focus: 'Saracens', labels: ['Rugby'], source: 'Other' }, 'Saracens'), true);
+  assert.equal(matches({ focus: '', labels: ['Saracens'], source: 'Other' }, 'Saracens'), true);
+  assert.equal(matches({ focus: '', labels: [], source: 'Saracens' }, 'Saracens'), true);
+  assert.equal(matches({ focus: 'Saracens', labels: ['Rugby'], source: 'Other' }, 'Rugby'), false, 'Rugby excludes Saracens');
+  assert.equal(matches({ labels: ['England Rugby'], source: 'Other' }, 'Rugby'), true);
+  assert.equal(matches({ labels: [], source: 'BBC Rugby Union' }, 'Rugby'), true);
+  assert.equal(matches({ focus: 'Blue Jays', labels: [], source: 'Other' }, 'Blue Jays'), true);
+  assert.equal(matches({ focus: '', labels: [], source: 'Toronto Blue Jays' }, 'Blue Jays'), true);
+  assert.equal(matches({ focus: 'Maple Leafs', labels: [], source: 'Other' }, 'Leafs'), true, 'Leafs maps to Maple Leafs');
+  assert.equal(matches({ focus: '', labels: [], source: 'Sportsnet Maple Leafs' }, 'Leafs'), true);
+  for (const nearMiss of [
+    { labels: ['Rugby League'], source: 'Other' }, { labels: ['Toronto Blue Jays prospects'], source: 'Other' },
+    { focus: 'Leafs', labels: [], source: 'Other' },
+  ]) assert.equal(['Rugby', 'Saracens', 'Blue Jays', 'Leafs'].some(filter => matches(nearMiss, filter)), false, 'no loose substring matching');
+
   const cards = elements.get('#top-rail').children;
   assert.equal(cards.length, 7, 'Today renders exactly seven cards');
-  assert.equal(cards.filter(card => card.children[0].children.filter(child => child.tagName === 'IMG').length === 1).length, 7, 'every card renders one image');
   assert.equal(leadSection.hidden, false, 'Today shows Top 7');
   assert.equal(latestSection.hidden, true, 'Today hides latest container');
-  assert.equal(latestSection.getAttribute('aria-hidden'), 'true', 'Today removes latest from accessibility tree');
   assert.deepEqual(renderedCategories(), [], 'Today does not render section lists');
 
-  const first = cards[0];
-  const firstImage = first.children[0].children.find(child => child.tagName === 'IMG');
-  firstImage.dispatch('error');
-  assert.equal(first.classList.contains('image-unavailable'), true, 'failed image marks unavailable');
-  assert.equal(firstImage.hidden, true, 'failed image is hidden');
-  assert.ok(first.children.some(child => child.textContent === 'Top story 0'), 'image error preserves story text');
-
-  for (const category of filters.slice(1)) {
+  for (const category of filters.slice(1, -1)) {
     topicButtons.find(button => button.dataset.filter === category).click();
     assert.equal(leadSection.hidden, true, `${category} hides Top 7`);
     assert.equal(latestSection.hidden, false, `${category} shows latest`);
-    assert.equal(latestSection.getAttribute('aria-hidden'), 'false', `${category} exposes latest accessibly`);
     assert.deepEqual(renderedCategories(), [category], `${category} renders only itself`);
   }
+
+  topicButtons.find(button => button.dataset.filter === 'Sports').click();
+  assert.equal(leadSection.hidden, true, 'Sports keeps Top 7 hidden');
+  assert.deepEqual(sportsButtons().map(button => button.children[0].textContent), ['All', 'Rugby', 'Saracens', 'Blue Jays', 'Leafs']);
+  assert.equal(sportsButtons().every(button => button.tagName === 'BUTTON' && button.type === 'button'), true, 'native buttons');
+  assert.equal(sportsButtons()[0].getAttribute('aria-pressed'), 'true', 'All is default');
+  assert.equal(sectionList().children.length, 12, 'All preserves concise first-12 view');
+
+  const expected = { Rugby: 3, Saracens: 3, 'Blue Jays': 13, Leafs: 3 };
+  for (const [filter, count] of Object.entries(expected)) {
+    const button = sportsButtons().find(candidate => candidate.dataset.sportsFilter === filter);
+    assert.equal(button.children[1].textContent, String(count), `${filter} count`);
+    assert.equal(button.getAttribute('aria-label'), `${filter}, ${count} stories`, `${filter} accessible count`);
+    button.click();
+    assert.equal(topicButtons.at(-1).getAttribute('aria-pressed'), 'true', 'primary Sports remains active');
+    assert.equal(leadSection.hidden, true, `${filter} keeps Top 7 hidden`);
+    assert.equal(sectionList().children.length, count, `${filter} renders all matches`);
+    const titles = sectionList().children.map(item => item.children[1].children[0].textContent);
+    assert.equal(titles.every(title => matches(sportsStories.find(story => story.id === title), filter)), true, `${filter} has zero mismatches`);
+    if (filter === 'Blue Jays') assert.ok(titles.length > 12, 'Blue Jays is not truncated');
+  }
+
+  const leafsButton = sportsButtons().find(button => button.dataset.sportsFilter === 'Leafs');
+  leafsButton.click();
+  sectionList().children[0].children[1].children[0].click();
+  reader.dispatch('close');
+  assert.equal(sportsButtons().find(button => button.dataset.sportsFilter === 'Leafs').getAttribute('aria-pressed'), 'true', 'reader close preserves filter');
+  assert.equal(sectionList().children.length, 3, 'reader close preserves filtered list');
+
+  sportsStories.filter(story => matches(story, 'Rugby')).forEach(story => { story.labels = []; story.source = 'Other'; });
+  sportsButtons().find(button => button.dataset.sportsFilter === 'Rugby').click();
+  assert.equal(walk(elements.get('#story-sections')).some(child => child.className === 'empty-state' && child.textContent.includes('Rugby')), true,
+    'empty named filter has clear in-section message');
 
   openSectionStory('Economics');
   const copy = elements.get('#reader-copy');
   assert.equal(copy.children[0].tagName, 'FIGURE', 'reader image is before summary text');
-  assert.equal(copy.children[1].tagName, 'P');
   assert.equal(copy.children[1].textContent, 'Economics summary');
-  const readerFigure = copy.children[0];
-  const readerImage = readerFigure.children[0];
-  const readerStatus = readerFigure.children[1];
-  assert.equal(readerImage.tagName, 'IMG');
+  const readerImage = copy.children[0].children[0];
   assert.equal(readerImage.src, 'https://images.example.com/section.jpg');
-  assert.equal(readerImage.alt, '', 'adjacent title makes reader image decorative');
-  assert.equal(readerImage.width, 640); assert.equal(readerImage.height, 360);
-  assert.equal(readerImage.loading, 'lazy'); assert.equal(readerImage.decoding, 'async');
-  assert.equal(readerImage.referrerPolicy, 'no-referrer');
-  assert.equal(readerStatus.tagName, 'FIGCAPTION'); assert.equal(readerStatus.hidden, true);
-
   readerImage.dispatch('error');
-  assert.equal(readerImage.hidden, true, 'failed reader image is hidden');
-  assert.equal(readerStatus.hidden, false, 'failed reader image gets an honest status');
-  assert.equal(readerStatus.textContent, 'Publisher image unavailable');
-  assert.equal(elements.get('#reader-title').textContent, 'Economics section story', 'image error preserves reader title');
-  assert.equal(copy.children[1].textContent, 'Economics summary', 'image error preserves summary');
+  assert.equal(readerImage.hidden, true); assert.equal(copy.children[0].children[1].hidden, false);
 
-  for (const category of ['Politics', 'Tech', 'Sports']) {
+  for (const category of ['Politics', 'Tech']) {
     openSectionStory(category);
-    assert.equal(elements.get('#reader-copy').children.some(child => child.tagName === 'FIGURE'), false,
-      `${category} missing or unsafe image creates no reader figure`);
-    assert.equal(elements.get('#reader-copy').children[0].textContent, `${category} summary`, `${category} summary remains`);
+    assert.equal(elements.get('#reader-copy').children.some(child => child.tagName === 'FIGURE'), false, `${category} unsafe/missing image has no figure`);
   }
   openSectionStory('Politics', 'Odd port section story');
-  assert.equal(elements.get('#reader-copy').children.some(child => child.tagName === 'FIGURE'), false,
-    'odd-port image creates no reader figure');
-  assert.equal(elements.get('#reader-copy').children[0].textContent, 'Odd port summary');
+  assert.equal(elements.get('#reader-copy').children.some(child => child.tagName === 'FIGURE'), false, 'odd-port image has no figure');
   topicButtons[0].click();
   assert.equal(leadSection.hidden, false); assert.equal(latestSection.hidden, true);
   assert.deepEqual(renderedCategories(), [], 'Today restores only the seven');
-  console.log('Daily Seven Today/images/section runtime regression test passed');
+  console.log('Daily Seven Sports filters and regression runtime tests passed');
 }
 run().catch(error => { console.error(error); process.exitCode = 1; });

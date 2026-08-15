@@ -58,6 +58,39 @@ class PipelineTests(unittest.TestCase):
         self.assertIn('white-space:nowrap', topic)
         self.assertIn('min-height:44px', topic)
 
+    def test_sports_subfilters_have_320px_mobile_contract(self):
+        css = (Path(__file__).parents[1] / 'assets' / 'news.css').read_text(encoding='utf-8')
+
+        def declarations(selector):
+            start = css.index(selector + '{') + len(selector) + 1
+            return css[start:css.index('}', start)]
+
+        row = declarations('.sports-filters')
+        pill = declarations('.sports-filter')
+        self.assertIn('display:flex', row)
+        self.assertIn('overflow-x:auto', row)
+        self.assertIn('flex-wrap:nowrap', row)
+        self.assertIn('flex:0 0 auto', pill)
+        self.assertIn('white-space:nowrap', pill)
+        self.assertIn('min-height:44px', pill)
+
+    def test_checked_in_edition_has_every_named_sports_filter(self):
+        data = json.loads((Path(__file__).parents[1] / 'data' / 'news.json').read_text(encoding='utf-8'))
+        sports = [story for story in data['stories'] if story['category'] == 'Sports']
+
+        def exact(story, focus, label, source):
+            return story.get('focus') == focus or label in story.get('labels', []) or story.get('source') == source
+
+        saracens = [story for story in sports if exact(story, 'Saracens', 'Saracens', 'Saracens')]
+        counts = {
+            'Rugby': sum((('Rugby' in story.get('labels', []) or 'England Rugby' in story.get('labels', []) or
+                           story.get('source') == 'BBC Rugby Union') and story not in saracens) for story in sports),
+            'Saracens': len(saracens),
+            'Blue Jays': sum(exact(story, 'Blue Jays', 'Blue Jays', 'Toronto Blue Jays') for story in sports),
+            'Leafs': sum(exact(story, 'Maple Leafs', 'Maple Leafs', 'Sportsnet Maple Leafs') for story in sports),
+        }
+        self.assertTrue(all(count > 0 for count in counts.values()), counts)
+
     def test_daily_seven_manifest_is_nested_path_safe(self):
         news_root = Path(__file__).parents[1]
         manifest = json.loads((news_root / 'manifest.webmanifest').read_text(encoding='utf-8'))
