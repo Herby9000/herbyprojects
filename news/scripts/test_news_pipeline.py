@@ -1,10 +1,13 @@
 import json
+import struct
 import subprocess
 import tempfile
 import unittest
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urljoin, urlparse
 from unittest.mock import patch
+from xml.etree import ElementTree
 
 import news_pipeline as pipeline
 
@@ -16,6 +19,48 @@ RSS = b'''<?xml version="1.0"?><rss><channel><item>
 </item></channel></rss>'''
 
 class PipelineTests(unittest.TestCase):
+    def test_daily_seven_manifest_is_nested_path_safe(self):
+        news_root = Path(__file__).parents[1]
+        manifest = json.loads((news_root / 'manifest.webmanifest').read_text(encoding='utf-8'))
+        deployed_manifest_url = 'https://herby9000.github.io/herbyprojects/news/manifest.webmanifest'
+        expected_app_url = 'https://herby9000.github.io/herbyprojects/news/'
+        for field in ('id', 'start_url', 'scope'):
+            self.assertEqual(urljoin(deployed_manifest_url, manifest[field]), expected_app_url)
+        self.assertEqual({icon['sizes'] for icon in manifest['icons']}, {'192x192', '512x512'})
+        for icon in manifest['icons']:
+            resolved = urljoin(deployed_manifest_url, icon['src'])
+            self.assertEqual(urlparse(resolved).path, f'/herbyprojects/news/assets/icons/daily-seven-{icon["sizes"].split("x")[0]}.png')
+            self.assertEqual(icon['type'], 'image/png')
+
+    def test_daily_seven_png_icons_have_signatures_and_exact_dimensions(self):
+        icon_root = Path(__file__).parents[1] / 'assets' / 'icons'
+        for size in (180, 192, 512):
+            payload = (icon_root / f'daily-seven-{size}.png').read_bytes()
+            self.assertEqual(payload[:8], b'\x89PNG\r\n\x1a\n')
+            self.assertEqual(payload[12:16], b'IHDR')
+            self.assertEqual(struct.unpack('>II', payload[16:24]), (size, size))
+
+    def test_daily_seven_html_has_complete_app_icon_metadata(self):
+        html = (Path(__file__).parents[1] / 'index.html').read_text(encoding='utf-8')
+        self.assertIn('<meta name="theme-color" content="#f4efe6">', html)
+        self.assertIn('<meta name="application-name" content="Daily Seven">', html)
+        self.assertIn('<meta name="apple-mobile-web-app-title" content="Daily Seven">', html)
+        self.assertIn('<link rel="manifest" href="manifest.webmanifest?v=2">', html)
+        self.assertIn('<link rel="icon" href="assets/icons/daily-seven.svg?v=1" type="image/svg+xml">', html)
+        self.assertIn('<link rel="icon" href="assets/icons/daily-seven-192.png?v=1" type="image/png" sizes="192x192">', html)
+        self.assertIn('<link rel="apple-touch-icon" href="assets/icons/daily-seven-180.png?v=1" sizes="180x180">', html)
+        self.assertNotIn('../assets/favicon', html)
+
+    def test_daily_seven_icon_is_original_editorial_art_not_a_generic_letter(self):
+        icon_path = Path(__file__).parents[1] / 'assets' / 'icons' / 'daily-seven.svg'
+        source = icon_path.read_text(encoding='utf-8')
+        root = ElementTree.fromstring(source)
+        self.assertEqual(root.attrib.get('viewBox'), '0 0 512 512')
+        self.assertIn('Daily Seven morning briefing icon', source)
+        self.assertEqual(len(root.findall(".//*[@class='editorial-rule']")), 7)
+        self.assertEqual(len(root.findall(".//*[@class='rising-sun']")), 1)
+        self.assertNotIn('>H<', source)
+
     def test_browser_javascript_initializes_and_starts_loading(self):
         script = Path(__file__).with_name('test_news_runtime.js')
         result = subprocess.run(['node', str(script)], capture_output=True, text=True)
