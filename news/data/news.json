@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-16T08:45:53.145073Z",
+  "generatedAt": "2026-08-16T12:59:26.853952Z",
   "topStoryIds": [
     "e72ec0b30c8f7106",
-    "f5c0f4bc97b50615",
+    "925286c157a90602",
+    "c3fe2caa450135c7",
     "3ac41a9afdf00add",
     "5bc4217e352dcb1d",
-    "5d95c4905ee12fe2",
-    "242dbdc0a4a85f5e",
+    "b7e4e4bb2f905613",
     "36b9ac7501a63165"
   ],
   "stories": [
@@ -32,24 +32,44 @@
       "imageHeight": 630
     },
     {
-      "id": "f5c0f4bc97b50615",
-      "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
-      "summary": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
+      "id": "925286c157a90602",
+      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+      "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+      "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
       "source": "Ars Technica",
-      "published": "2026-08-14T17:13:14Z",
+      "published": "2026-08-16T10:00:59Z",
       "category": "Tech",
-      "region": "US",
+      "region": "World",
       "labels": [
         "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285809260-1-1152x648.jpg",
+      "imageWidth": 1152,
+      "imageHeight": 648
+    },
+    {
+      "id": "c3fe2caa450135c7",
+      "title": "A positive new report raises the question: was Reeves undermined by dodgy data? | Heather Stewart",
+      "summary": "Assessment’s finding of a jump in UK productivity emphasises urgent need to appoint a national statistician The keen new chancellor, John Healey, responded to last week’s better-than-expected economic news by claiming the government was “bringing hope back”. Growth did not plunge as feared after Donald Trump unleashed war on Iran – with GDP expanding at a pretty decent 0.4% in the second quarter. But what if we should have held on to a bit more hope all along? A new assessment of the UK’s recent productivity suggests this critical measure of the country’s economic strength may have been systematically underestimated. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/business/2026/aug/16/uk-productivity-data-rachel-reeves-national-statistician",
+      "source": "The Guardian Economics",
+      "published": "2026-08-16T09:30:05Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
         "US"
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/kalshi-app-1152x648-1786725211.jpg",
-      "imageWidth": 1152,
-      "imageHeight": 648
+      "imageUrl": "https://i.guim.co.uk/img/media/02e91604c973694ec92513d9ca7a51f9a1b55fb9/779_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=f42ef68af08d38aa1d629b11a83604cb",
+      "imageWidth": 1200,
+      "imageHeight": 630
     },
     {
       "id": "3ac41a9afdf00add",
@@ -92,44 +112,25 @@
       "imageHeight": 630
     },
     {
-      "id": "5d95c4905ee12fe2",
-      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
-      "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump ’s One Big Beautiful Bill Act (OBBBA) last year – the one that paired a $5tn-plus tax cut with $1tn-plus of cuts from food stamps and Medicaid – the House speaker, Mike Johnson , explained that “this is not giving tax cuts to the millionaires”. The beneficiaries, he said, were “small business owners” that “provide the jobs in every community in America”. Johnson was playing to the myth of the modest, sturdy Main Street job creator. It is an appealing story. It’s also the most consequential piece of BS distorting American policy that deprives the government of tax revenue, stunts American capitalism, twists regulations, thwarts competition and overwhelmingly serves millionaires’ interests. Continue reading...",
+      "id": "b7e4e4bb2f905613",
+      "title": "As Trump blocks Medicaid funds, one trans teen's mom asks: What's next?",
+      "summary": "A longtime Republican living in California says the Trump administration's continuing actions to target transgender youth take a personal toll.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
-      "source": "The Guardian Economics",
-      "published": "2026-08-15T10:00:54Z",
-      "category": "Economics",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+      "source": "NPR Politics",
+      "published": "2026-08-16T11:54:19Z",
+      "category": "Politics",
       "region": "US",
       "labels": [
-        "Economics",
+        "Politics",
         "US"
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/9279099305e657622fd3938d007a475b177b2576/481_0_6507_5208/master/6507.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d63830ca6c536d7a33354fc3b9e8e51",
-      "imageWidth": 1200,
-      "imageHeight": 630
-    },
-    {
-      "id": "242dbdc0a4a85f5e",
-      "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
-      "summary": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo",
-      "source": "BBC Politics",
-      "published": "2026-08-16T00:39:22Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77d3/live/7a4b8400-98e8-11f1-b9f8-e148e8810dff.jpg",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4898x3265+0+0/resize/4898x3265!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F58%2F2e%2Fdf968958477bbc99511188a0dad6%2Fgettyimages-1257858410.jpg",
+      "imageAlt": "Transgender young people and their families rallied outside the Supreme Court in May 2023 after an event called the Trans Youth Prom in Washington, DC.",
+      "imageWidth": 4898,
+      "imageHeight": 3265
     },
     {
       "id": "36b9ac7501a63165",
@@ -148,6 +149,26 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5494/live/d99bd3e0-97e1-11f1-a76b-f1c27c51f3da.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "id": "ab5cc39b8b4330e3",
+      "title": "UK-made drones strike targets inside Russia",
+      "summary": "The drones have been used for the first time in mainland Russia to hit military and industrial targets.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywwv2pp44o",
+      "source": "BBC Politics",
+      "published": "2026-08-16T12:22:25Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b23/live/002f03a0-995f-11f1-9712-2936f8c80214.jpg",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -320,6 +341,24 @@
       "focus": "Blue Jays"
     },
     {
+      "id": "05d39df4ea025f3c",
+      "title": "In Florida, Congressman Byron Donalds' seat is up for grabs for Republicans",
+      "summary": "In southwest Florida, ten Republicans are vying for the nomination to replace Rep. Byron Donalds. With the majority of candidates from outside the state - it's raising questions about representation.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5927132/in-florida-congressman-byron-donalds-seat-is-up-for-grabs-for-republicans",
+      "source": "NPR Politics",
+      "published": "2026-08-16T11:46:25Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5927132"
+    },
+    {
       "id": "dc568d7f11d43d81",
       "title": "Blue Jays surging up Wild Card standings -- but holding breath over Vladdy",
       "summary": "This feed supplied a headline but no article summary.",
@@ -337,6 +376,62 @@
       ],
       "sourceWeight": 5,
       "focus": "Blue Jays"
+    },
+    {
+      "id": "5d95c4905ee12fe2",
+      "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
+      "summary": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the rich After the House passed its version of Donald Trump ’s One Big Beautiful Bill Act (OBBBA) last year – the one that paired a $5tn-plus tax cut with $1tn-plus of cuts from food stamps and Medicaid – the House speaker, Mike Johnson , explained that “this is not giving tax cuts to the millionaires”. The beneficiaries, he said, were “small business owners” that “provide the jobs in every community in America”. Johnson was playing to the myth of the modest, sturdy Main Street job creator. It is an appealing story. It’s also the most consequential piece of BS distorting American policy that deprives the government of tax revenue, stunts American capitalism, twists regulations, thwarts competition and overwhelmingly serves millionaires’ interests. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+      "source": "The Guardian Economics",
+      "published": "2026-08-15T10:00:54Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/9279099305e657622fd3938d007a475b177b2576/481_0_6507_5208/master/6507.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6d63830ca6c536d7a33354fc3b9e8e51",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "id": "ca266f391132675b",
+      "title": "Polls everywhere in primary season. Can they be trusted?",
+      "summary": "How reliable are political polls right now? NPR's Danielle Kurtzleben speaks to G. Elliott Morris from the data-driven news website, Strength In Numbers.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5929568/polls-everywhere-in-primary-season-can-they-be-trusted",
+      "source": "NPR Politics",
+      "published": "2026-08-16T11:46:24Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5929568"
+    },
+    {
+      "id": "888a14b30bfd8bf2",
+      "title": "Politics chat: Democrats take lessons from the primaries, set 2028 calendar",
+      "summary": "We look at how the Democrats are gearing up for the 2028 presidential primaries, as well as their takeaways from the current batch of primary races.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5929152/politics-chat-democrats-take-lessons-from-the-primaries-set-2028-calendar",
+      "source": "NPR Politics",
+      "published": "2026-08-16T11:46:22Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5929152"
     },
     {
       "id": "e335ac09a645b1ce",
@@ -374,6 +469,26 @@
       ],
       "sourceWeight": 5,
       "focus": "Blue Jays"
+    },
+    {
+      "id": "242dbdc0a4a85f5e",
+      "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
+      "summary": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo",
+      "source": "BBC Politics",
+      "published": "2026-08-16T00:39:22Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77d3/live/7a4b8400-98e8-11f1-b9f8-e148e8810dff.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 675
     },
     {
       "id": "cb4f3e9ec77e3d93",
@@ -793,9 +908,7 @@
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3016/live/a7f45110-97fe-11f1-bc94-d3a8a062b873.png",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3016/live/a7f45110-97fe-11f1-bc94-d3a8a062b873.png"
     },
     {
       "id": "6590c1f7ff1f5eb7",
@@ -815,6 +928,24 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5321/live/972b3e40-97e3-11f1-a76b-f1c27c51f3da.jpg"
+    },
+    {
+      "id": "f5c0f4bc97b50615",
+      "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+      "summary": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+      "source": "Ars Technica",
+      "published": "2026-08-14T17:13:14Z",
+      "category": "Tech",
+      "region": "US",
+      "labels": [
+        "Tech",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/kalshi-app-1152x648-1786725211.jpg"
     },
     {
       "id": "7057c2fb87c66f5b",
@@ -999,23 +1130,22 @@
       "focus": "Saracens"
     },
     {
-      "id": "35248a02a824976d",
-      "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln",
-      "summary": "The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln.",
+      "id": "ca8b7fdfb405877d",
+      "title": "European Championship marathon records fall in men's and women's races",
+      "summary": "Germany's Amanal Petros and Finland's Alisa Vainio both set new championship records on their way to gold in the men and women's marathons, on the final day of the 2026 European Athletics Championships in Birmingham.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
-      "source": "NPR Politics",
-      "published": "2026-08-14T06:31:29Z",
-      "category": "Politics",
-      "region": "US",
+      "url": "https://www.bbc.co.uk/sport/athletics/videos/cevmmn3jy1ro",
+      "source": "BBC Sport",
+      "published": "2026-08-16T12:14:17Z",
+      "category": "Sports",
+      "region": "UK",
       "labels": [
-        "Politics",
-        "US"
+        "Sports",
+        "UK"
       ],
-      "sourceWeight": 5,
+      "sourceWeight": 4,
       "focus": "",
-      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5885x3923+0+0/resize/5885x3923!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2Fad%2Fb2a60fd34607abef5c36ea6f2b3e%2Fap26225617337624.jpg",
-      "imageAlt": "FILE - The USS George Washington aircraft carrier is pictured off the coast of Argentina, May 30, 2024."
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ce/live/c37c9c30-996b-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "id": "0fcfa4c657a89a52",
@@ -1052,6 +1182,24 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/visionquest2-1152x648.jpg"
+    },
+    {
+      "id": "e7ef542c19b6054d",
+      "title": "Fery wins on return as Djokovic reveals health condition after loss",
+      "summary": "Britain's Arthur Fery beats Australia's James Duckworth at the Cincinnati Open but Novak Djokovic falls to a shock defeat by Argentina's Thiago Tirante.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o",
+      "source": "BBC Sport",
+      "published": "2026-08-16T12:51:19Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6261/live/b0b0c440-993f-11f1-9d32-93c6539c1530.jpg"
     },
     {
       "id": "1cfed25faf9f2fc9",
@@ -1108,25 +1256,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec55/live/23a26490-97a1-11f1-a696-5b8e9a3a668f.jpg"
     },
     {
-      "id": "b942abffdfb6f2ef",
-      "title": "Judge drops Nevada case against electors accused of forging certificate in 2020 election",
-      "summary": "The dismissal marks the latest setback in swing states' efforts to prosecute fake electors who tried to keep Trump in the White House after he lost to Joe Biden in 2020.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election",
-      "source": "NPR Politics",
-      "published": "2026-08-14T05:42:35Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3778x2519+0+0/resize/3778x2519!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F8a%2F6ce9a24641658d5a2605ab5081d8%2Fap26225853190400.jpg",
-      "imageAlt": "FILE - Nevada GOP chair Michael McDonald walks on stage before speaking ahead of Republican presidential candidate former President Donald Trump at a campaign event, Jan. 27, 2024, in Las Vegas."
-    },
-    {
       "id": "5c04ef407ee8ec0d",
       "title": "Blue Jays claim Sewald off waivers to bolster weary bullpen",
       "summary": "This feed supplied a headline but no article summary.",
@@ -1144,6 +1273,24 @@
       ],
       "sourceWeight": 5,
       "focus": "Blue Jays"
+    },
+    {
+      "id": "71079e7e367cb027",
+      "title": "Bronze for Donnelly and team gold for GB in women's marathon",
+      "summary": "Abbie Donnelly wins the bronze medal in the women's marathon, with Great Britain also winning a gold medal in the team event, on the final day of the 2026 European Championships in Birmingham.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/athletics/videos/cn8nneme3ygo",
+      "source": "BBC Sport",
+      "published": "2026-08-16T10:24:51Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b93/live/820bac00-995c-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "id": "b5cc05d2efae82ac",
@@ -1182,6 +1329,60 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c627/live/f7d07c70-97b0-11f1-870d-5d08c49babb2.jpg"
     },
     {
+      "id": "690c5bca86583ca0",
+      "title": "Donnelly wins GB's first women's marathon medal at Europeans",
+      "summary": "Abbie Donnelly became the first British woman to win a marathon medal at the European Championships as she claimed bronze in Birmingham on Sunday.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cjejjzg4vqwo",
+      "source": "BBC News",
+      "published": "2026-08-16T11:40:30Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb26/live/5141af60-9962-11f1-9712-2936f8c80214.jpg"
+    },
+    {
+      "id": "a146e0292d218949",
+      "title": "Medal ceremonies postponed at Europeans after fraud arrest",
+      "summary": "Transport was also delayed because of the arrest, leading to crowds building up outside the venue.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ee5e8w9do",
+      "source": "BBC Sport",
+      "published": "2026-08-16T12:33:31Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b15/live/a46b97a0-993f-11f1-9d32-93c6539c1530.jpg"
+    },
+    {
+      "id": "293e1ed91f092d20",
+      "title": "Maguire wants 'huge threat' Rashford to stay at Man Utd",
+      "summary": "Manchester United defender Harry Maguire says he hopes Marcus Rashford will stay at the club because he can improve Michael Carrick's team.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g442me1k8o",
+      "source": "BBC Sport",
+      "published": "2026-08-16T11:00:14Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48bd/live/a3963de0-994d-11f1-8f52-c9b39dabc99d.jpg"
+    },
+    {
       "id": "eb51112fe639ecc9",
       "title": "Centre Hall extends stay at Saracens",
       "summary": "Saracens' England 'A' centre Angus Hall signs a new contract with the Prem club.",
@@ -1218,6 +1419,42 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17e6/live/75e915c0-979f-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": "1aec4bdc784c5704",
+      "title": "Shields eyes Price after dominant middleweight return",
+      "summary": "Claressa Shields makes a powerful return to middleweight, stopping Kaye Scott in the sixth round to reclaim the WBA and WBC titles in Atlanta.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cd0xx4kgrlko",
+      "source": "BBC Sport",
+      "published": "2026-08-16T09:31:47Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4864/live/7e792ce0-9950-11f1-bb2a-85a90aa76778.jpg"
+    },
+    {
+      "id": "005a7fee37bf7420",
+      "title": "Makhachev beats Machado Garry to break UFC win record",
+      "summary": "Islam Makhachev cements his status as the best pound-for-pound fighter in the world with a commanding victory over Ian Machado Garry.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c8dnn7d01p5o",
+      "source": "BBC Sport",
+      "published": "2026-08-16T08:16:25Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c83/live/d3b3f4f0-9947-11f1-9c54-6bf455b73e04.jpg"
     },
     {
       "id": "d6e240b989531b36",
@@ -1276,7 +1513,7 @@
     {
       "id": "dff796fd5b04436f",
       "title": "Strong favourites or tougher task - will Arsenal defend their title?",
-      "summary": "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped as they for the challenge?",
+      "summary": "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped are they for the challenge?",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0l5927xr89o",
       "source": "BBC Sport",
@@ -1290,60 +1527,6 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b149/live/435b5a70-94c3-11f1-adb5-bd19050a74a5.jpg"
-    },
-    {
-      "id": "c988c13123f784a8",
-      "title": "Democratic socialism's next test is the Midwest",
-      "summary": "A democratic socialist narrowly lost Wisconsin's Democratic gubernatorial primary. But conversations with swing voters suggest voters may be more open to the \"socialist\" label than expected.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5929260/democratic-socialisms-next-test-is-the-midwest",
-      "source": "NPR Politics",
-      "published": "2026-08-13T21:12:53Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5929260"
-    },
-    {
-      "id": "b6b9a66aa02601e8",
-      "title": "AIPAC didn't always spend on campaigns. Now it faces criticism over money in politics",
-      "summary": "U.S. support for Israel has been a central issue in Democratic primary contests. That's put a spotlight on the pro-Israel lobbying group AIPAC and the strength of its political influence.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5923565/aipac-didnt-always-spend-on-campaigns-now-it-faces-criticism-over-money-in-politics",
-      "source": "NPR Politics",
-      "published": "2026-08-13T21:18:49Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5923565"
-    },
-    {
-      "id": "1339629b3874c647",
-      "title": "The Papers: UK-made drones 'strike Russia' and 'phone theft Britain'",
-      "summary": "Ukraine uses UK British-made drones to strike Russia and 230 phones a day stolen in the UK lead the Sunday papers.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c4gvv07ww42o",
-      "source": "BBC News",
-      "published": "2026-08-16T05:10:55Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69e0/live/ba051cb0-98f6-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "id": "32e70d5852cae242",
@@ -1513,12 +1696,12 @@
       "summary": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o",
-      "source": "BBC News",
+      "source": "BBC Sport",
       "published": "2026-08-15T21:13:17Z",
-      "category": "Politics",
+      "category": "Sports",
       "region": "UK",
       "labels": [
-        "Politics",
+        "Sports",
         "UK"
       ],
       "sourceWeight": 4,
@@ -1760,6 +1943,24 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1476/live/59a2ade0-96fa-11f1-bb0e-6d40312a1485.png"
     },
     {
+      "id": "1b1796217973e6a1",
+      "title": "Douglass breaks 50m freestyle world record twice in one day",
+      "summary": "American Kate Douglass breaks the 50m freestyle world record twice in one day as she dominates at the Pan Pacific Swimming Championships in Irvine, California.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/crk55emx3yjo",
+      "source": "BBC Sport",
+      "published": "2026-08-15T18:52:30Z",
+      "category": "Sports",
+      "region": "US",
+      "labels": [
+        "Sports",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb3a/live/0b34f320-9957-11f1-bb2a-85a90aa76778.jpg"
+    },
+    {
       "id": "5c87f7f611538354",
       "title": "With Hollywood struggling in China, can the Odyssey draw a crowd?",
       "summary": "Christopher Nolan’s epic will be released on Friday across most of the country’s 800 Imax screens, at a time when western films have been struggling The Odyssey, Christopher Nolan’s summer blockbuster juggernaut, has overcome an onslaught of attacks from the world’s richest man and stared down criticism from a classicist who translated the poem , to become one of the year’s most celebrated and highest-grossing films. But this week, the film faces one of its biggest challenges yet. Continue reading...",
@@ -1830,24 +2031,6 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66a9/live/461de070-98e2-11f1-89f0-8dbc5eb120ba.jpg"
-    },
-    {
-      "id": "12f23aa9e0fb0dcb",
-      "title": "Liebmann and Douglass set world records on same day",
-      "summary": "Germany's Johannes Liebmann and American Kate Douglass set swimming world records on Saturday, dazzling crowds at events in Paris and California.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/crk55emx3yjo",
-      "source": "BBC Sport",
-      "published": "2026-08-15T18:52:30Z",
-      "category": "Sports",
-      "region": "US",
-      "labels": [
-        "Sports",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f05/live/f71a90e0-98d7-11f1-8216-1399f248beea.jpg"
     },
     {
       "id": "94a063907455120a",
@@ -2103,24 +2286,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efb8/live/d6ac89d0-98aa-11f1-9dd3-79dbb17f6bca.jpg"
     },
     {
-      "id": "220d5d41122787de",
-      "title": "Ex-tennis player Bautista Agut scores on football debut",
-      "summary": "Roberto Bautista Agut scores twice on his debut for Spanish seventh-tier side CD Els Ibarsos - just over a month after retiring from tennis.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/articles/c0jllp431qqo",
-      "source": "BBC Sport",
-      "published": "2026-08-15T13:07:09Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b94/live/b8c99dd0-98a6-11f1-9d70-ef365dc3a762.png"
-    },
-    {
       "id": "2d6ddbf613c705ac",
       "title": "Last night's 4th-out ruling was weird. But it gets even weirder ...",
       "summary": "This feed supplied a headline but no article summary.",
@@ -2373,24 +2538,6 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632-1152x648.jpg"
-    },
-    {
-      "id": "0ba52dff65f52985",
-      "title": "PSG sign World Cup final match-winner Torres from Barcelona",
-      "summary": "Ferran Torres, who scored the winning goal for Spain at the World Cup, has joined European champions Paris St-Germain from Barcelona.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko",
-      "source": "BBC Sport",
-      "published": "2026-08-15T09:37:31Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f12/live/1e272b10-974f-11f1-9c09-a729ba578a81.jpg"
     },
     {
       "id": "8cb283e3d0a417ae",
@@ -2771,6 +2918,24 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B-1152x648.webp"
     },
     {
+      "id": "45fce2732f54f643",
+      "title": "Man under threat of deportation to Jamaica wins right to rejoin his British family",
+      "summary": "Mark Nelson released from immigration detention on bail after lawyers challenge decision to remove him A Jamaican man who has lived more than half his life in the UK and was facing imminent deportation has been allowed to reunite with his British family after a legal challenge. Mark Nelson, 47, came to the UK in 2000 and later set up his own car-mechanic business. He has five British children and a British partner. He faced deportation in 2022 after serving a four-year prison sentence for possession with intent to supply a class B drug, abstracting electricity and two offences of racially aggravated intentional harassment. He had not committed any further offences. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/man-under-threat-of-deportation-to-jamaica-wins-right-to-rejoin-his-british-family",
+      "source": "The Guardian UK",
+      "published": "2026-08-16T11:27:22Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/22bad502b4348fa4a6ed831c310d5fbba5f0bd7d/0_187_1500_1200/master/1500.jpg?width=700&quality=85&auto=format&fit=max&s=c94af1029e3d3a9827b230e4bbdf21ef"
+    },
+    {
       "id": "8cd222922e3c5d49",
       "title": "I got an £89 refund – how to cancel and avoid unwanted subscriptions",
       "summary": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
@@ -2805,6 +2970,60 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2ec/live/16acf510-9680-11f1-870d-5d08c49babb2.jpg"
+    },
+    {
+      "id": "6854065afbfe422f",
+      "title": "‘Why did it become personal?’: furore over plans to expand Kent oyster shack",
+      "summary": "James Green’s oyster company owns a chunk of Whitstable’s shoreline but success has not brought affection from residents The clink of glasses and the lapping of the tide was punctuated by giggling toddlers and the slurp of oysters at tables populated by people gently sizzling on a baking day on the Kent seaside. But James Green, of the Whitstable Oyster Fishery Company, had the demeanour of a man who had found grit in his mollusc. “I don’t like to use the term but it is nimbyism,” he said. “Why did it become personal? I don’t know really. Because we’re a family business, it’s a relatively small town?” Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/16/whitstable-plans-to-expand-oyster-shack-kent-coast-opposition",
+      "source": "The Guardian UK",
+      "published": "2026-08-16T12:00:24Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/a9fd0850b541e339a8fa813a4e15a12495ad52c8/681_0_6830_5464/master/6830.jpg?width=700&quality=85&auto=format&fit=max&s=1118bacb32020ae65d78d08d45f52509"
+    },
+    {
+      "id": "fa7823b34e44026b",
+      "title": "Elvedi set for Leeds move as £8.5m fee agreed",
+      "summary": "Leeds agree an £8.5m deal to sign defender Nico Elvedi, who is set to have a medical on Monday.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2lqqr15p2yo",
+      "source": "BBC News",
+      "published": "2026-08-16T12:52:42Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce24/live/2c1b1cf0-996f-11f1-aaab-c702cc6b4645.jpg"
+    },
+    {
+      "id": "0525b13416fc7b4a",
+      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+      "summary": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo",
+      "source": "BBC News",
+      "published": "2026-08-16T12:53:43Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3236/live/285f2960-994e-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "id": "2f9831068ec34d84",
@@ -2843,6 +3062,42 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d521/live/e5241750-981c-11f1-870d-5d08c49babb2.jpg"
     },
     {
+      "id": "df1d04c2a03d6e6f",
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o",
+      "source": "BBC News",
+      "published": "2026-08-16T12:37:21Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg"
+    },
+    {
+      "id": "5b390562f4331274",
+      "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
+      "summary": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo",
+      "source": "BBC News",
+      "published": "2026-08-16T12:18:09Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef6/live/8e3c33a0-9966-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
       "id": "0cee511529923f65",
       "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
       "summary": "Czinger used topological design and additive manufacturing to make the brakes.",
@@ -2859,6 +3114,42 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CZV-1-Dynamic-Front-3-4-1152x648.jpg"
+    },
+    {
+      "id": "08bdda2c6a7194b6",
+      "title": "Murder inquiry after man bitten by dog dies",
+      "summary": "Police appeal for two people who stopped to help the victim in Wakefield to come forward.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cx2dd0gd4z2o",
+      "source": "BBC News",
+      "published": "2026-08-16T12:36:11Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d939/live/b9a45410-996f-11f1-aaab-c702cc6b4645.jpg"
+    },
+    {
+      "id": "6121af69f2af33d7",
+      "title": "People who fled Stourbridge fires start to return home",
+      "summary": "Many families are only just discovering the extent of damage to their homes for the first time.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno",
+      "source": "BBC News",
+      "published": "2026-08-16T12:14:44Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a673/live/2ef14c90-995d-11f1-9712-2936f8c80214.jpg"
     },
     {
       "id": "3f0b1d78d89887a5",
@@ -2879,6 +3170,24 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03eb/live/fe1d6990-981d-11f1-870d-5d08c49babb2.jpg"
     },
     {
+      "id": "7fe69582a1f78d88",
+      "title": "Block export of ‘national treasure’ UK fossils, says MP",
+      "summary": "Sale of one of UK’s top collections overseas prompts call new rules to help keep items in country One of UK’s best fossil collections sold in ‘loss to the nation’ An MP has called on ministers to change export controls so that significant fossils can be classed as national treasures after one of the UK’s best collections, unearthed on Dorset beaches, was sold overseas. Last week, a Guardian investigation revealed that an unparalleled collection of fossils from the UK’s Jurassic Coast, comprising hundreds of specimens including ichthyosaurs, had been sold to the Natural History Museum in Abu Dhabi for what one source described as an “eight-figure sum”. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/science/2026/aug/16/block-export-of-national-treasure-uk-fossils-says-mp",
+      "source": "The Guardian UK",
+      "published": "2026-08-16T09:00:22Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/f48938d86acd223cf061cc24ec53cd828e7e8c7c/0_0_5250_4200/master/5250.jpg?width=700&quality=85&auto=format&fit=max&s=7902acc83bab89928102d7f008442ffb"
+    },
+    {
       "id": "76e3734de11d471d",
       "title": "Werro beats Hodgkinson to win 800m gold",
       "summary": "Great Britain's Keely Hodgkinson is unable to defend her 800m European title taking silver behind Switzerland's Audrey Werro who has too much in the tank down the back straight.",
@@ -2897,6 +3206,24 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea0c/live/1a7982f0-982c-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
+      "id": "e92306c47f5dd600",
+      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo",
+      "source": "BBC News",
+      "published": "2026-08-16T11:35:25Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b6/live/72212bd0-9961-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
       "id": "9d4464c1d29a4215",
       "title": "Hodgkinson motivated for next race with Werro after 800m silver",
       "summary": "Great Britain's Keely Hodgkinson says she has mixed emotions after settling for silver in the 800m final and says she is looks forward to her next race with Audrey Werro.",
@@ -2913,6 +3240,24 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/201f/live/60478320-9824-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "id": "744bec0c1e9e495a",
+      "title": "Coventry agree deal for Forest striker Awoniyi",
+      "summary": "Coventry City agree a deal worth about £17m for Nottingham Forest striker Taiwo Awoniyi.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjjr90l0lo",
+      "source": "BBC News",
+      "published": "2026-08-16T12:03:40Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b9/live/e58adf30-996b-11f1-aaab-c702cc6b4645.jpg"
     },
     {
       "id": "e3126cd40bd0b4fe",
@@ -2967,6 +3312,24 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1af/live/135977a0-981d-11f1-870d-5d08c49babb2.jpg"
+    },
+    {
+      "id": "e77489f6571cdc82",
+      "title": "Burnham urged to crack down on gig economy firms to protect 4m workers",
+      "summary": "Exclusive: Campaigners say millions are missing out on key rights including sick pay and protection against unfair dismissal Andy Burnham is being urged to protect 4 million gig economy workers by prosecuting companies that use widespread “bogus” self-employment practices to deny people their rights. As the prime minister fleshes out his agenda, the Fabian Society and the Joseph Rowntree Foundation have warned that millions of workers are missing out on key statutory rights including parental leave, redundancy pay and protection against unfair dismissal. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/business/2026/aug/16/andy-burnham-gig-economy-companies-employment-rights",
+      "source": "The Guardian UK",
+      "published": "2026-08-16T11:29:41Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/ba5ef7e25d2cb675df661cfad328b2eb475039dc/505_0_4886_3910/master/4886.jpg?width=700&quality=85&auto=format&fit=max&s=10acd0d68df9ceb4cc69cccc558c0b3c"
     },
     {
       "id": "2466d96c1e5d78de",
@@ -3096,6 +3459,24 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c86e/live/32be2360-9639-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
+      "id": "f8f14e710278e434",
+      "title": "Soldiers praised for 'phenomenal job' helping crews tackle wildfires",
+      "summary": "About 200 members of the Queen's Own Gurkha Logistic Regiment have been involved in the operation.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cgq55zv4ek8o",
+      "source": "BBC News",
+      "published": "2026-08-16T10:03:48Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a33a/live/2a7a1c50-995d-11f1-9712-2936f8c80214.jpg"
+    },
+    {
       "id": "ec00b9c22cf8f4b0",
       "title": "'What an innings' - Walter hits eight sixes in Hundred eliminator",
       "summary": "Paul Walter hits eight sixes as he hits 80, to help Manchester Super Giants set Sunrisers Leeds 187 to win in their Hundred eliminator match, with a place in the final on the line.",
@@ -3130,24 +3511,6 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bef/live/ab3a82f0-9820-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
-      "id": "005a7fee37bf7420",
-      "title": "Makhachev beats Machado Garry to break UFC win record",
-      "summary": "Islam Makhachev cements his status as the best pound-for-pound fighter in the world with a commanding victory over Ian Machado Garry.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c8dnn7d01p5o",
-      "source": "BBC News",
-      "published": "2026-08-16T08:16:25Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c83/live/d3b3f4f0-9947-11f1-9c54-6bf455b73e04.jpg"
     },
     {
       "id": "e3a691b9aef10ab5",
@@ -3223,8 +3586,8 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/643d/live/d25365b0-9635-11f1-acde-358da1a6646b.jpg"
     },
     {
-      "id": "98ee209b5836c275",
-      "title": "Bangladesh thrash Australia for historic win",
+      "id": "d89e507f5b56d0b4",
+      "title": "Bangladesh thrash Australia in one of Test cricket's greatest upsets",
       "summary": "Bangladesh thrash Australia by nine wickets on the fourth day of the series-opener in Darwin to complete one of Test cricket's greatest upsets.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/cn8nn37v22lo",
@@ -3239,24 +3602,6 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3104/live/d21ab520-9938-11f1-9be0-93fa1f20d4ea.jpg"
-    },
-    {
-      "id": "6121af69f2af33d7",
-      "title": "People who fled Stourbridge fires start to return home",
-      "summary": "Many families are only just discovering the extent of damage to their homes for the first time.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cr49932qrqno",
-      "source": "BBC News",
-      "published": "2026-08-16T08:32:57Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5de8/live/5f9d3050-994b-11f1-8f52-c9b39dabc99d.jpg"
     },
     {
       "id": "68c920b14fc4838b",
@@ -3275,42 +3620,6 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf17/live/d73f4760-964e-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
-      "id": "df1d04c2a03d6e6f",
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o",
-      "source": "BBC News",
-      "published": "2026-08-16T08:23:38Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg"
-    },
-    {
-      "id": "c4cd7c401f251715",
-      "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
-      "summary": "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo",
-      "source": "BBC News",
-      "published": "2026-08-16T08:14:56Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "id": "4be49c028fc24319",
@@ -3349,24 +3658,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7006/live/fe981460-9647-11f1-9d8e-b1efdebf2f99.jpg"
     },
     {
-      "id": "b089871629d16af0",
-      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-      "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo",
-      "source": "BBC News",
-      "published": "2026-08-16T07:58:02Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3236/live/285f2960-994e-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
       "id": "5eef612aabdc30ac",
       "title": "How important is Community Shield to a team's season?",
       "summary": "Premier League champions Arsenal take on FA Cup winners Manchester City in Sunday's Community Shield - but would winning suggest a successful season ahead?",
@@ -3383,303 +3674,13 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9cf/live/e9b50860-956f-11f1-98c3-1da4f20b80e4.jpg"
-    },
-    {
-      "id": "831525ca56080d6f",
-      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go",
-      "source": "BBC News",
-      "published": "2026-08-16T07:04:17Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/972b/live/dabb8db0-993f-11f1-9d32-93c6539c1530.jpg"
-    },
-    {
-      "id": "c2f55d463de6e195",
-      "title": "Athletics medal ceremonies postponed after fraud arrest",
-      "summary": "Transport was also delayed because of the arrest, leading to crowds building up outside the venue.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ee5e8w9do",
-      "source": "BBC News",
-      "published": "2026-08-16T07:09:12Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b15/live/a46b97a0-993f-11f1-9d32-93c6539c1530.jpg"
-    },
-    {
-      "id": "4969110b87e6150f",
-      "title": "Alarmed by the alarm: people react to ‘severe alert’ on phones over UK wildfires",
-      "summary": "Many complained online that piercingly loud tone was ‘overreach’ while others lamented lack of action on decarbonisation On Friday at 7pm, Thérèse Coffey was nine miles away from a nuclear power station when her phone made a loud, piercing and very worrying sound: it was a “severe” emergency alert . “Was expecting [a] much more specific alert, not a generic message on wildfires,” the former Conservative cabinet minister said on X. She wasn’t alone in being alarmed by the alarm sent to phones in England and Wales. In the aftermath, thousands of social media users expressed their shock at the alert. Some shared funny memes and others lamented what they viewed as lack of government action on decarbonisation. Academic John Ritzema called it a “massive overreach” and said the alert system should be “for ‘drop everything and prepare for something terrible’ situations”, something Coffey echoed, saying alerts should not become commonplace to avoid “Peter cries wolf situations”. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires",
-      "source": "The Guardian UK",
-      "published": "2026-08-15T15:54:15Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/c8ddaa2f96fff21941e65f1095ab4fa6411ded9c/2277_1630_3110_2487/master/3110.jpg?width=700&quality=85&auto=format&fit=max&s=1c36b6b2492237dd247f97fba6febc82"
-    },
-    {
-      "id": "a3a5b8cbffd50c96",
-      "title": "Nonu, 44, performs solo haka in response to All Blacks",
-      "summary": "Former All Blacks star Ma'a Nonu responds to the haka by performing one of his own before his side, the Sharks, take on New Zealand in Durban.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crl7p3e8xj5o",
-      "source": "BBC Rugby Union",
-      "published": "2026-08-12T09:01:38Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c642/live/9eeadd50-9623-11f1-adec-3f90c109009f.png"
-    },
-    {
-      "id": "6c5033d3bdd31b9e",
-      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-      "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o",
-      "source": "BBC Business",
-      "published": "2026-08-13T21:43:47Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg"
-    },
-    {
-      "id": "44527ab252867ce2",
-      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-      "summary": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo",
-      "source": "BBC Business",
-      "published": "2026-08-13T22:00:10Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deb9/live/fab7c360-8ee8-11f1-82dc-5d4d9e75125c.jpg"
-    },
-    {
-      "id": "c0d8de6fd49995bc",
-      "title": "We learned 5 important things about the economy this week",
-      "summary": "From inflation, to credit card debt, to who's actually doing the spending: These are key takeaways from this week in economic news.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
-      "source": "NPR Business",
-      "published": "2026-08-14T14:47:15Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3657x2438+0+0/resize/3657x2438!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2Fbe%2Fa1736ffe4917a630a08fd772afb0%2Fap26201840540144.jpg",
-      "imageAlt": "A shopper pushes a cart through a grocery store aisle in Cleveland, Texas."
-    },
-    {
-      "id": "b6d98b08f50045bf",
-      "title": "UK economic growth slows down as Iran war pushes up energy prices",
-      "summary": "GDP expanded by 0.4% in three months to June, but analysts warn growth is ‘likely to fade’ UK economy shows surprising resilience Business live – latest updates Economic growth slowed in the second quarter of the year, as the disruption unleashed by the Iran war began to take its toll, official figures show. The Office for National Statistics (ONS) said GDP expanded by 0.4% in the three months to June, down from 0.6% in the first quarter , in line with City economists’ expectations. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons",
-      "source": "The Guardian Economics",
-      "published": "2026-08-13T06:59:58Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/92f62ca1090219e79cd2ee4c3cd95cc1100bdf72/163_0_6709_5367/master/6709.jpg?width=700&quality=85&auto=format&fit=max&s=41ba4eb51b9516a1030a5c76fec33b10"
-    },
-    {
-      "id": "9b934d169461a924",
-      "title": "US wait times for cancer surgeries are getting longer and longer",
-      "summary": "Study finds wait times for cancer surgeries hit 10-year high.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
-      "source": "Ars Technica",
-      "published": "2026-08-13T22:17:29Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2018/03/GettyImages-869535440-1152x648.jpg"
-    },
-    {
-      "id": "b71d5607f98f8ee7",
-      "title": "'She knows how to deliver' - Johnson-Thompson's 'huge' high jump",
-      "summary": "Two-time world champion Katarina Johnson-Thompson gets a third-time clearance at 1.83m in the heptathlon high jump at the European Athletics Championships.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/athletics/videos/c04kyqzg4peo",
-      "source": "BBC Sport",
-      "published": "2026-08-14T12:38:55Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa71/live/6eaee130-97dc-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "id": "8f285629ce3d4086",
-      "title": "The Global Story",
-      "summary": "In Brazil and elsewhere, leaders raise concerns over alleged election meddling by the US.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8ml5",
-      "source": "BBC Politics",
-      "published": "2026-08-12T09:00:00Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p408w2.jpg"
-    },
-    {
-      "id": "4978f1660340d981",
-      "title": "Typhoon Dolphin hits Beijing as city braces for one-third of annual rainfall over 24 hours",
-      "summary": "Flooding already reported in some districts of Chinese capital and rains are expected to get worse overnight Typhoon Dolphin hit China’s capital on Tuesday as the storm caused flooding in parts of Beijing’s Shunyi district. Rains are forecast to intensify overnight. Although the storm has been downgraded to a tropical depression, several districts in Beijing activated the highest level of emergency flood responses as the city braced for one-third of its annual rainfall, which is expected over the next 24 hours. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/world/2026/aug/11/typhoon-dolphin-beijing-rainfall-flood-warnings-china",
-      "source": "The Guardian China",
-      "published": "2026-08-11T16:20:42Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/13322faf9fe478c78beb269bbe64d52387e43f72/311_17_6718_5377/master/6718.jpg?width=700&quality=85&auto=format&fit=max&s=84e30ac53989c8885fad4f30c3bbbca3"
-    },
-    {
-      "id": "88b03cb601178f80",
-      "title": "Ariana Grande leaves problems at home as her tour hits the UK",
-      "summary": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno",
-      "source": "BBC News",
-      "published": "2026-08-16T02:01:42Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e02d/live/6a514960-990e-11f1-921c-6b592e028b10.jpg"
-    },
-    {
-      "id": "8eee6d0af4432449",
-      "title": "PensionBee unveiled as a new Saracens Lead Partner",
-      "summary": "PensionBee becomes Saracens' new front-of-shirt Partner in landmark three-year extension. Saracens is delighted to announce PensionBee as the club's new front-of-shirt Partner, with the award-winning retirement savings provider extending its partnership with the club until the end of the 2028/29 season. Having joined the Saracens family as Official Pension Partner ahead of the 2025/26 campaign, […]",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://saracens.com/pensionbee-unveiled-as-new-saracens-front-of-shirt-partner/",
-      "source": "Saracens",
-      "published": "2026-08-10T09:00:00Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England",
-        "Rugby",
-        "Saracens"
-      ],
-      "sourceWeight": 5,
-      "focus": "Saracens"
-    },
-    {
-      "id": "1f9d48d4ace71795",
-      "title": "‘Strategic change and grasping nettles’: where now for John Lewis as boss exits?",
-      "summary": "Peter Ruis appeared ‘to be doing a good job in difficult circumstances’ at department store chain, says analyst “Going up?” After a tough week for department stores it feels as if that sales aspiration is as dated as the singsong phrase in the opening credits of Are You Being Served? Simpsons of Piccadilly, which inspired the fictional Grace Brothers department store in which the 1970s TV sitcom was set, is long gone , and several of its modern equivalents are now fighting oblivion. The boss of John Lewis, Peter Ruis, clearly decided it was time to exit the elevator this week, announcing his abrupt departure from the UK’s biggest department store chain in a surprise statement. Days later, Harvey Nichols, the luxury Knightsbridge store that was once a byword for 1990s chic, was bought out of administration for a knock-down price by the owner of Sports Direct, Mike Ashley’s Frasers Group. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/aug/15/john-lewis-boss-peter-ruis-department-store-chain",
-      "source": "The Guardian UK",
-      "published": "2026-08-15T14:00:01Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/0dff74a3f21f5825cf1b4821a333b585fb32b0df/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=d400ccacd313165384f0ea354353ee04"
-    },
-    {
-      "id": "96aedc1727a2dcf4",
-      "title": "Why did Saudi Arabia just spend billions on a video games company? – podcast",
-      "summary": "Last week Saudi Arabia’s wealth fund and a group of investors spent $55bn (£41bn) on Electronic Arts, the video games company behind the Sims, Madden NFL and Battlefield. Keith Stuart and George Osborn tell Annie Kelly why this soft-power move is worrying many in the industry Saudi Arabia’s crown prince, Mohammed bin Salman, loves a video game. That might explain why Saudi Arabia has borrowed billions to buy Electronic Arts. And that’s just the latest in a long list of ways the Middle Eastern powerhouse has invested in esports. But why would such a powerful government take a risk with video games? As Keith Stuart and George Osborn tell Annie Kelly, it’s part of a pattern of superpowers and authoritarian regimes seeing games as handy propaganda tools. And this is why critics are worried about countries such as Saudi Arabia having ready access to billions of players around the world Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/news/audio/2026/aug/11/why-did-saudi-arabia-just-spend-billions-on-a-video-games-company-podcast",
-      "source": "The Guardian China",
-      "published": "2026-08-11T02:00:00Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/ebe4f65a1b7e6f8711b280f07212a8df92992d51/25_0_3442_2754/master/3442.jpg?width=700&quality=85&auto=format&fit=max&s=56511eb48c151760c9d0fa40482e7fb6"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 32
+      "items": 30
     },
     {
       "source": "BBC Politics",
@@ -3709,7 +3710,7 @@
     {
       "source": "The Guardian UK",
       "ok": true,
-      "items": 44
+      "items": 42
     },
     {
       "source": "Ars Technica",
@@ -3754,7 +3755,7 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 72
+      "items": 73
     },
     {
       "source": "BBC Rugby Union",
