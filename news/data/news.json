@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-15T21:30:40.649022Z",
+  "generatedAt": "2026-08-16T01:56:31.061619Z",
   "topStoryIds": [
     "e72ec0b30c8f7106",
     "f5c0f4bc97b50615",
@@ -98,7 +98,7 @@
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo",
       "source": "BBC Politics",
-      "published": "2026-08-15T21:19:28Z",
+      "published": "2026-08-16T00:39:22Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
@@ -152,24 +152,6 @@
       "imageHeight": 630
     },
     {
-      "id": "0c642516a2191087",
-      "title": "Many Canadians are boycotting the US - here's where they're travelling instead",
-      "summary": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo",
-      "source": "BBC News",
-      "published": "2026-08-14T23:16:43Z",
-      "category": "Politics",
-      "region": "Canada",
-      "labels": [
-        "Politics",
-        "Canada"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ff2/live/1ac3c9a0-97f0-11f1-a579-3beb34ebe76c.jpg"
-    },
-    {
       "id": "936a7aa205606d39",
       "title": "Saracens Women confirm Senior Academy Graduates",
       "summary": "Four Oaklands College graduates join Saracens Women's Senior Academy Saracens Women are delighted to confirm that four players have progressed from the club's Academy into the Senior Academy, highlighting the continued success of the club's longstanding player pathway in partnership with Oaklands College. After two years of development within the Saracens pathway, Alix Ahad, Leila […]",
@@ -189,13 +171,13 @@
       "focus": "Saracens"
     },
     {
-      "id": "54f22ac57d9d23e9",
-      "title": "After long journey through injuries in Minors, Tiedemann called up to make MLB debut",
+      "id": "9b52bfc22daa660a",
+      "title": "After long journey through injuries in Minors, Tiedemann makes his MLB debut",
       "summary": "This feed supplied a headline but no article summary.",
       "contentStatus": "Headline only — no summary supplied",
       "url": "https://www.mlb.com/bluejays/news/ricky-tiedemann-call-up-blue-jays",
       "source": "Toronto Blue Jays",
-      "published": "2026-08-15T21:06:00Z",
+      "published": "2026-08-15T22:55:00Z",
       "category": "Sports",
       "region": "Canada",
       "labels": [
@@ -246,13 +228,32 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa5/live/d2c02e40-9656-11f1-9743-c91876572530.jpg"
     },
     {
-      "id": "49d8661b132728b6",
-      "title": "LIVE: Watch prospects play at Triple-A for FREE",
+      "id": "90303aa241dd8633",
+      "title": "McAdoo channels Vladdy Jr. as Blue Jays continue stunning climb",
       "summary": "This feed supplied a headline but no article summary.",
       "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/watch-minor-league-baseball-games-for-free-2026",
+      "url": "https://www.mlb.com/bluejays/news/charles-mcadoo-drives-in-2-as-blue-jays-beat-yankees",
       "source": "Toronto Blue Jays",
-      "published": "2026-08-15T20:00:00Z",
+      "published": "2026-08-15T22:53:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays"
+    },
+    {
+      "id": "f9e7f5c463aeae57",
+      "title": "Vlad placed on injured list day after exiting with head injury",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-out-of-blue-jays-lineup-vs-yankees-on-august-15-2026",
+      "source": "Toronto Blue Jays",
+      "published": "2026-08-15T22:47:00Z",
       "category": "Sports",
       "region": "Canada",
       "labels": [
@@ -290,24 +291,6 @@
       "url": "https://www.mlb.com/bluejays/news/cam-schlittler-dylan-cease-pitch-in-yankees-blue-jays-series",
       "source": "Toronto Blue Jays",
       "published": "2026-08-15T18:04:31Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays"
-    },
-    {
-      "id": "f9e7f5c463aeae57",
-      "title": "Vlad placed on injured list day after exiting with head injury",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-out-of-blue-jays-lineup-vs-yankees-on-august-15-2026",
-      "source": "Toronto Blue Jays",
-      "published": "2026-08-15T17:49:00Z",
       "category": "Sports",
       "region": "Canada",
       "labels": [
@@ -375,6 +358,24 @@
       "focus": "Blue Jays"
     },
     {
+      "id": "cb4f3e9ec77e3d93",
+      "title": "State Department spokesperson on Iran war and U.S. visa revocations",
+      "summary": "NPR's Rob Schmitz speaks with State Department spokesperson Tommy Pigott about the with Iran and the hundreds of thousands of foreign nationals who have had their U.S. visa revoked.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
+      "source": "NPR Politics",
+      "published": "2026-08-15T21:20:51Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5931811"
+    },
+    {
       "id": "e855a6618cfe881c",
       "title": "'We're a full send': Schneider, Blue Jays adopt all-in mentality amid Wild Card race",
       "summary": "This feed supplied a headline but no article summary.",
@@ -392,6 +393,26 @@
       ],
       "sourceWeight": 5,
       "focus": "Blue Jays"
+    },
+    {
+      "id": "c4e1d6ea948b696d",
+      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo",
+      "source": "BBC Politics",
+      "published": "2026-08-15T23:45:44Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 675
     },
     {
       "id": "e9b3a51369be80da",
@@ -929,6 +950,24 @@
       "imageUrl": "https://i.guim.co.uk/img/media/96ac372d7409315b7187f24be0185c5dc13730d9/307_0_4640_3712/master/4640.jpg?width=700&quality=85&auto=format&fit=max&s=019c2a4abf9a41998da1eba2dc27343a"
     },
     {
+      "id": "0c61950c654bcb4f",
+      "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+      "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+      "source": "Ars Technica",
+      "published": "2026-08-15T21:21:27Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/visionquest2-1152x648.jpg"
+    },
+    {
       "id": "1cfed25faf9f2fc9",
       "title": "US says dozens of countries helped China dodge Trump's tariffs",
       "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
@@ -1131,24 +1170,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg"
     },
     {
-      "id": "5b5da36cda4ded6c",
-      "title": "UK’s biggest EV battery gigafactory shelves expansion as Jaguar Land Rover talks stall",
-      "summary": "Chinese-owned AESC has pushed back plans in sign of slowing transition from petrol and diesel to electric cars Andy Burnham moves to cut new EV sales targets The UK’s biggest gigafactory has shelved plans to expand production in Sunderland because of stalled talks on a deal to supply electric car batteries to Jaguar Land Rover. Chinese-owned AESC produces batteries for Nissan at its gigafactory next door to the Japanese carmaker’s Sunderland plant. However, AESC has had to push back its ramp-up plans because of lower-than-expected demand from Nissan and the lack of a deal with JLR, according to people with knowledge of the situation. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/aug/15/uk-ev-battery-gigafactory-aesc-jaguar-land-rover-nissan",
-      "source": "The Guardian Business",
-      "published": "2026-08-15T11:00:54Z",
-      "category": "Economics",
-      "region": "China",
-      "labels": [
-        "Economics",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/1ebc842f555e9a252aa9f08271d730845eed33e1/881_0_4800_3840/master/4800.jpg?width=700&quality=85&auto=format&fit=max&s=ad086ce54867557305eff4c47681793a"
-    },
-    {
       "id": "c988c13123f784a8",
       "title": "Democratic socialism's next test is the Midwest",
       "summary": "A democratic socialist narrowly lost Wisconsin's Democratic gubernatorial primary. But conversations with swing voters suggest voters may be more open to the \"socialist\" label than expected.",
@@ -1201,24 +1222,6 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-1152x648.jpg"
-    },
-    {
-      "id": "e11008dd57383647",
-      "title": "‘I don’t even drink whisky’: Scotland reels in visitors as much of Europe swelters",
-      "summary": "More direct flights from North America and, say tourism chiefs, Highland warriors and Tartan Army have helped For the tourist industry, 2026 has been a rocky year, with war, EU border delays, climate and economic woes gnawing away at holiday plans. But while much of Britain is feeling the loss of visitors from the Middle East and beyond, one part is thriving. Scotland is reeling in ever more visitors, with strong annual growth and a 15% rise in flight bookings to Scottish airports in June and July, compared with a drop in bookings to London and the rest of England in recent months, according to VisitBritain figures. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/aug/15/scotland-visitors-tourists-europe-heat-north-america-tartan-army",
-      "source": "The Guardian Business",
-      "published": "2026-08-15T09:00:52Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/454d2b3d60e48ea05cddbd0f9f0f7ac13bdf5829/621_0_6211_4971/master/6211.jpg?width=700&quality=85&auto=format&fit=max&s=37ae90d75d38ee98a5bd8aa94ff9df6e"
     },
     {
       "id": "1c304495f797b61a",
@@ -1275,6 +1278,24 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a866/live/43cfed60-9764-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
+      "id": "a0b88a432980ee37",
+      "title": "'It was so up and down' - O'Connor wins heptathlon gold",
+      "summary": "Ireland's Kate O'Connor speaks after winning gold in the women's heptathlon at the European Athletics Championships, just weeks after winning the same event at the Commonwealth Games.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/athletics/videos/clyllwdwvexo",
+      "source": "BBC Sport",
+      "published": "2026-08-15T22:33:57Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6f5/live/cf9e2cf0-98f7-11f1-870d-5d08c49babb2.jpg"
+    },
+    {
       "id": "c64b875503b1c030",
       "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
       "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
@@ -1293,22 +1314,76 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg"
     },
     {
-      "id": "209ce5790dea3e2d",
-      "title": "Secondhand booksellers in UK and Ireland suspect AI firms behind ‘strange’ bulk orders",
-      "summary": "Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’ Secondhand booksellers in the UK and Ireland are reporting a flurry of bulk orders from mystery buyers, amid speculation AI companies are acquiring the tomes for their data. Bookshops contacted by the Guardian say they have been receiving orders from buyers in the US, Canada, continental Europe and the UK. The increase has been replicated around the world, with booksellers in the US, Australia and Europe also reporting unusual orders. Continue reading...",
+      "id": "8d9640c0e11933b5",
+      "title": "Scheffler in charge as he chases first win since January",
+      "summary": "World number one Scottie Scheffler will take a two-stroke lead into the final round of the St Jude Championship as he chases his first victory since January.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
-      "source": "The Guardian Business",
-      "published": "2026-08-15T08:00:51Z",
-      "category": "Economics",
-      "region": "Canada",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/c4g332dd2ezo",
+      "source": "BBC Sport",
+      "published": "2026-08-15T23:02:48Z",
+      "category": "Sports",
+      "region": "UK",
       "labels": [
-        "Economics",
-        "Canada"
+        "Sports",
+        "UK"
       ],
       "sourceWeight": 4,
       "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/c078d818bd3cc66f53834a54be2d78f7d8daefff/0_373_1533_1226/master/1533.jpg?width=700&quality=85&auto=format&fit=max&s=f4c091583347192df6984da9a732abb1"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0957/live/aed11fb0-98fb-11f1-9272-2db57c8d1bee.jpg"
+    },
+    {
+      "id": "18cbe14f96b25e74",
+      "title": "Hunt wins third gold as Asher-Smith makes history",
+      "summary": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o",
+      "source": "BBC News",
+      "published": "2026-08-15T21:13:17Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297d/live/d940b150-98ee-11f1-94a7-b9e415195b83.jpg"
+    },
+    {
+      "id": "5bd304cc297ca58f",
+      "title": "Djokovic suffers in heat as Tirante inflicts shock defeat",
+      "summary": "Novak Djokovic struggles with the heat and humidity as he falls to a shock defeat by Argentina's Thiago Tirante in the second round of the Cincinnati Open.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cj033qggmv3o",
+      "source": "BBC Sport",
+      "published": "2026-08-15T22:07:10Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b79f/live/f0fdcb50-98f5-11f1-aa0d-e3900609838d.jpg"
+    },
+    {
+      "id": "4d06c4fcd1fd26e1",
+      "title": "Johnson-Thompson grateful to still be competing",
+      "summary": "Great Britain's Katarina Johnson-Thompson reflects on her European Championships, where her heptathlon was impacted by a lack of training due to injury.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/athletics/videos/clyxx3x23dvo",
+      "source": "BBC Sport",
+      "published": "2026-08-15T22:06:42Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017c/live/71948630-98f3-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "id": "9c5ed64032247307",
@@ -1326,7 +1401,43 @@
       ],
       "sourceWeight": 4,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a28/live/9a034d80-98e0-11f1-89f0-8dbc5eb120ba.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c179/live/d3f52070-98f6-11f1-870d-5d08c49babb2.jpg"
+    },
+    {
+      "id": "6469beccf4bf019d",
+      "title": "Britain's youngest Formula E driver says talent isn't enough anymore",
+      "summary": "Taylor Barnard, 22, says talented young drivers often get shut out because of financial issues.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/ckg40e24wnpo",
+      "source": "BBC News",
+      "published": "2026-08-15T23:46:52Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a955/live/6e8fc030-987b-11f1-b148-b12e5ae08858.jpg"
+    },
+    {
+      "id": "1339629b3874c647",
+      "title": "The Papers: UK-made drones 'strike Russia' and 'phone theft Britain'",
+      "summary": "Ukraine uses UK British-made drones to strike Russia and 230 phones a day stolen in the UK lead the Sunday papers.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c4gvv07ww42o",
+      "source": "BBC News",
+      "published": "2026-08-15T22:36:36Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69e0/live/ba051cb0-98f6-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "id": "35e159662c7e8062",
@@ -1345,6 +1456,24 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c42e/live/26745a90-97f4-11f1-8170-33f7e8571fbe.jpg"
+    },
+    {
+      "id": "f6088d4ac0ec1653",
+      "title": "Great Britain win gold with mixed freestyle 4x200m championship record",
+      "summary": "Great Britain set a championship record as they take gold in the mixed freestyle 4x200m at the European Aquatics Championships.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/swimming/videos/ckgvvdvwr2go",
+      "source": "BBC Sport",
+      "published": "2026-08-15T21:49:21Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33e0/live/45c4f7c0-98f2-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "id": "e8d0c53e9a25b368",
@@ -1417,6 +1546,24 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f818/live/acac2820-971f-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": "e7634ca0b9476fc4",
+      "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
+      "summary": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo",
+      "source": "BBC News",
+      "published": "2026-08-15T21:28:54Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b70/live/2a89e850-98f0-11f1-b932-e778ed40fffe.jpg"
     },
     {
       "id": "870a6b300bc46e57",
@@ -1545,24 +1692,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f05/live/f71a90e0-98d7-11f1-8216-1399f248beea.jpg"
     },
     {
-      "id": "22bbbddaf036bf7d",
-      "title": "Primary voters send mixed signals about what they want from the Democratic Party",
-      "summary": "Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled picture of just how far to the left Democratic voters want their candidates to be come this fall's midterm elections.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
-      "source": "NPR Politics",
-      "published": "2026-08-13T10:59:33Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5929473"
-    },
-    {
       "id": "94a063907455120a",
       "title": "'Fury' at Tarling death as cycling union calls for better helmets",
       "summary": "The cyclists' union expresses \"fury\" over the death of British rider Fin Tarling during Friday's stage of the Volta a Portugal.",
@@ -1634,24 +1763,6 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e9/live/4b9eef10-96ff-11f1-b72c-211ea4e0afc4.jpg"
-    },
-    {
-      "id": "47373223fce10115",
-      "title": "Burnham announces £65m for drought-hit farmers after Labour pressure",
-      "summary": "PM steps up climate response with measures including better water access and support for building farm reservoirs Farmers must not carry the risks of the climate crisis alone, Andy Burnham has said, as he announced £65m of funding to help them manage the devastating drought. The prime minister is stepping up his response to the immediate climate crisis after facing a backlash from his own MPs and Labour’s grassroots for not addressing the climate crisis despite wildfires tearing through Britain and a drought affecting food producers. Labour MPs argued Burnham had taken too long to talk about the climate crisis and had not made it a priority. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-climate-response-drought-hit-farmers-labour-pressure",
-      "source": "The Guardian Business",
-      "published": "2026-08-14T21:30:38Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/df7be427e6cfbc469ded79f62c0d9115bd1cb541/162_0_6830_5464/master/6830.jpg?width=700&quality=85&auto=format&fit=max&s=08bb17c95123f17580787897270d2705"
     },
     {
       "id": "ff4151925c355ca3",
@@ -1834,24 +1945,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efb8/live/d6ac89d0-98aa-11f1-9dd3-79dbb17f6bca.jpg"
     },
     {
-      "id": "1c6fd55198d03c91",
-      "title": "GB's women and men through to 4x100m relay finals",
-      "summary": "Amy Hunt and Zharnel Hughes run as Great Britain's women and men make the 4x100m relay finals later on Saturday with convincing qualifying heats.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/athletics/videos/ckgdd2l9l12o",
-      "source": "BBC Sport",
-      "published": "2026-08-15T12:56:26Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9c5/live/71e6e100-98a8-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
       "id": "220d5d41122787de",
       "title": "Ex-tennis player Bautista Agut scores on football debut",
       "summary": "Roberto Bautista Agut scores twice on his debut for Spanish seventh-tier side CD Els Ibarsos - just over a month after retiring from tennis.",
@@ -1906,24 +1999,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75b3/live/07eca4f0-96f1-11f1-b9dc-4fc99fb88769.jpg"
     },
     {
-      "id": "fd92d28c75973607",
-      "title": "Trump threatens to declare strait of Hormuz ‘territory of the United States’",
-      "summary": "Seriousness of remark made in New York on Friday, and whether it signaled new policy ​position, not clear Donald Trump has threatened to declare the strait of Hormuz as “a territory of the United States” as his administration struggles to conclude the war with Iran. During a speech at a police academy on Long Island, New York, on Friday, the US president said he would “pretty soon” designate the waterway – a crucial chokepoint for global trade, through which about a fifth of the world’s seaborne oil supplies typically pass – a US territory. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/us-news/2026/aug/14/trump-threat-strait-hormuz-us-territory",
-      "source": "The Guardian Business",
-      "published": "2026-08-14T21:38:17Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/b5c83da9efbbf04d1758c3b4f20d9ba23182b70d/206_0_4535_3628/master/4535.jpg?width=700&quality=85&auto=format&fit=max&s=78afed65b1d521024bae93b3a337e2fa"
-    },
-    {
       "id": "94da364a47591ecf",
       "title": "Soaring heat, falling crowds - The Hundred's peculiar summer",
       "summary": "BBC Sport looks at the numbers behind the drop in attendances at The Hundred compared to 2025, in the tournament's first year under new private ownership.",
@@ -1940,24 +2015,6 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/223f/live/f4ce8220-9723-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
-      "id": "d8598cd612411d61",
-      "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
-      "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour of the province on Friday, overturning a lower court’s decision that decreed removal would violate constitutional rights. The win is significant for Ontario’s premier, Doug Ford, and his government, who have long railed against Toronto’s bike lanes, blaming the protected zones for the city’s traffic ills . Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
-      "source": "The Guardian Business",
-      "published": "2026-08-14T21:03:43Z",
-      "category": "Economics",
-      "region": "Canada",
-      "labels": [
-        "Economics",
-        "Canada"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/ec29699c3bb39571832cedf67de78d67314ebb95/296_0_2957_2366/master/2957.jpg?width=700&quality=85&auto=format&fit=max&s=bf2cec78bc637114c0e1ca57268310dd"
     },
     {
       "id": "e6784197c16ac638",
@@ -1994,6 +2051,24 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/370b/live/6449d010-98a9-11f1-9dd3-79dbb17f6bca.jpg"
+    },
+    {
+      "id": "4939bae87050ded0",
+      "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
+      "summary": "Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary The BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation lawsuit centered on a documentary on the January 6 insurrection. In a motion filed on Friday, the BBC sought authorization to serve Trump’s two eldest children, Donald Trump Jr and Ivanka Trump, and son-in-law Jared Kushner, with subpoenas for testimony and their records on the events of 6 January 2021. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
+      "source": "The Guardian Business",
+      "published": "2026-08-14T21:05:47Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/c519726d2d851d677c5334018aad733b64b7db60/1132_104_3152_2521/master/3152.jpg?width=700&quality=85&auto=format&fit=max&s=ad2c476df10b802c91c773402e13fdd8"
     },
     {
       "id": "54a142b3d10706a2",
@@ -2048,42 +2123,6 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/495c/live/5b8789a0-989e-11f1-9ae7-1bd1ccf14171.jpg"
-    },
-    {
-      "id": "0ef623b8d204c497",
-      "title": "Bangladesh move closer to historic win in Australia",
-      "summary": "Spinner Mehidy Hasan Miraz takes the crucial wicket of Steve Smith as Bangladesh move closer to a historic first Test victory in Australia on day three in Darwin.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c39eygmrlnjo",
-      "source": "BBC Sport",
-      "published": "2026-08-15T10:36:03Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ce/live/f7630e60-9891-11f1-a8d2-f13aa238c39c.jpg"
-    },
-    {
-      "id": "0394f7f86814573e",
-      "title": "Tarling family heartbroken as riders pay tribute to British cyclist",
-      "summary": "Finlay Tarling's father says it has been \"heartbreaking and heartwarming\" to receive messages of support and happy photos of his son following the British cyclist's death.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/cjd4g7vy5jzo",
-      "source": "BBC Sport",
-      "published": "2026-08-15T10:11:16Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd2/live/c625c9a0-98af-11f1-9a0b-ef36d15fc6b3.jpg"
     },
     {
       "id": "b5af6226285555cb",
@@ -2448,42 +2487,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5638/live/11896ec0-986e-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "id": "e827dc7748e8cad7",
-      "title": "Premier League clubs looking to EFL for next Semenyo and Eze",
-      "summary": "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y6w5972lyo",
-      "source": "BBC Sport",
-      "published": "2026-08-15T07:16:50Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dac3/live/07444830-97bb-11f1-870d-5d08c49babb2.png"
-    },
-    {
-      "id": "1f9d48d4ace71795",
-      "title": "‘Strategic change and grasping nettles’: where now for John Lewis as boss exits?",
-      "summary": "Peter Ruis appeared ‘to be doing a good job in difficult circumstances’ at department store chain, says analyst “Going up?” After a tough week for department stores it feels as if that sales aspiration is as dated as the singsong phrase in the opening credits of Are You Being Served? Simpsons of Piccadilly, which inspired the fictional Grace Brothers department store in which the 1970s TV sitcom was set, is long gone , and several of its modern equivalents are now fighting oblivion. The boss of John Lewis, Peter Ruis, clearly decided it was time to exit the elevator this week, announcing his abrupt departure from the UK’s biggest department store chain in a surprise statement. Days later, Harvey Nichols, the luxury Knightsbridge store that was once a byword for 1990s chic, was bought out of administration for a knock-down price by the owner of Sports Direct, Mike Ashley’s Frasers Group. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/aug/15/john-lewis-boss-peter-ruis-department-store-chain",
-      "source": "The Guardian Business",
-      "published": "2026-08-15T14:00:01Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/0dff74a3f21f5825cf1b4821a333b585fb32b0df/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=d400ccacd313165384f0ea354353ee04"
-    },
-    {
       "id": "15e94948c77ef3e1",
       "title": "No player bigger than a club - is that changing for some fans?",
       "summary": "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?",
@@ -2500,6 +2503,24 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dc2/live/6d005e60-926c-11f1-9f0c-8d4ddef91df6.jpg"
+    },
+    {
+      "id": "c329748a5e56581e",
+      "title": "US firms that kept DEI policies despite ‘go woke, go broke’ threats thrived",
+      "summary": "Exclusive: Companies that kept policies did just as well financially, even after Trump’s executive order, as those that didn’t Conservative backlash was supposed to put an end to the diversity, inclusion and equity ( DEI ) movement as companies were warned “go woke, go broke”. In January 2025, Donald Trump delivered a death knell, ending DEI within the federal government with executive orders and threatening to target companies that still supported it. Companies including Google, Goldman Sachs, McDonald’s and Walmart that had embraced DEI years earlier fell into line and announced an end to their policies. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/world/2026/aug/14/dei-policy-company-performance",
+      "source": "The Guardian Business",
+      "published": "2026-08-14T11:00:27Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/56970d026a4d4774d9908cb4bc8933deaae7c5d3/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=affe523c3379bd439466ee52d644a7b7"
     },
     {
       "id": "b0af105fdd13961c",
@@ -2646,24 +2667,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae0/live/7d93c650-9568-11f1-8b14-5d44448d174a.jpg"
     },
     {
-      "id": "dd9d7aeb242ab13d",
-      "title": "Energy nationalism and interconnectors: the next power threat? | Nils Pratley",
-      "summary": "Solar eclipses are far easier to manage than Europe’s cross-border electricity politics In the end, the solar eclipse did not cause the electricity grid to flicker. The early drop-off in solar generation was manageable, just as the National Energy System Operator (Neso), the state-owned body responsible for keeping the lights on, predicted. Gas-fired generators still had to be paid nose-bleed prices to fire up, and power via high-voltage interconnectors to continental Europe was also expensively sourced. But the system worked. A summer of heatwaves, however, has highlighted European grids’ reliance on those interconnectors – including seven between the UK and the continent – in an age of extreme weather and greater use of intermittent renewables. On Thursday, another low-wind “heat dome” day, a fifth of power to the British grid was coming from the continent at 10am. Cables from France alone were meeting 11%, or 3.54 gigawatts, of demand, or more than twice as much as the output at that time from the UK’s entire fleet of windfarms. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/13/energy-nationalism-interconnectors-next-power-",
-      "source": "The Guardian Business",
-      "published": "2026-08-13T17:13:45Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/c6b92511eb0d6a7d243baa1142f3fd0bc1cdac2d/491_0_4905_3924/master/4905.jpg?width=700&quality=85&auto=format&fit=max&s=aef5d16eb333341a3245d31141ae5f12"
-    },
-    {
       "id": "aca4c1890029d321",
       "title": "Burnham urges shops not to sell disposable BBQs over wildfire risks",
       "summary": "The PM wants the public to avoid using single-use grills during the current spell of extremely dry weather.",
@@ -2680,24 +2683,6 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2ec/live/16acf510-9680-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
-      "id": "b5f59d6c4afe2730",
-      "title": "Taiwan's simulated internet blackout, explained – video",
-      "summary": "In Taipei on Thursday, the streets swiftly emptied into shelters as air raid sirens rang out and alerts pinged on mobile phones. These kinds of drills are the norm in cities across Taiwan, amid the growing threat posed by China across the strait. But this time, internet speeds were drastically cut, simulating a coordinated attack for the first time. Rafqa Touma speaks to Yu-chen Li, Guardian researcher on China affairs, who was on the ground ‘Tiktok wouldn’t open at all’: Taiwan simulates an internet blackout, with an eye on China threat Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/global/video/2026/aug/14/taiwans-simulated-internet-blackout-explained-video",
-      "source": "The Guardian Business",
-      "published": "2026-08-14T08:22:58Z",
-      "category": "Economics",
-      "region": "China",
-      "labels": [
-        "Economics",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/50ba95caf7e073a6e371e9d555d7aff3a12efe87/660_0_6602_5284/master/6602.jpg?width=700&quality=85&auto=format&fit=max&s=681ca0b9a80151042eefb2dcbd838b4b"
     },
     {
       "id": "2f9831068ec34d84",
@@ -2790,24 +2775,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea0c/live/1a7982f0-982c-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "id": "76f63a46c975f2a1",
-      "title": "Milk, wine, salad: how your food will be affected by the summer of heat",
-      "summary": "There are parched fields, overheating sheep and potentially the worst cereal harvest since detailed records began – but it’s a good year for cider apples As parts of the UK swelter through a fifth successive climate crisis-driven heatwave and nearly three-quarters of England remains in drought, how are six homegrown products faring? Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/environment/2026/aug/14/how-england-summer-heatwave-affecting-farm-animals-crops",
-      "source": "The Guardian Business",
-      "published": "2026-08-14T14:40:46Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/8938b01ea471f9c7ca0df5d7f7c96e85e34c5bca/0_0_5325_4262/master/5325.jpg?width=700&quality=85&auto=format&fit=max&s=b7dff5dce18a2b8e91df0ba872fcbd6d"
-    },
-    {
       "id": "9d4464c1d29a4215",
       "title": "Hodgkinson motivated for next race with Werro after 800m silver",
       "summary": "Great Britain's Keely Hodgkinson says she has mixed emotions after settling for silver in the 800m final and says she is looks forward to her next race with Audrey Werro.",
@@ -2842,24 +2809,6 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00fb/live/14a782c0-966d-11f1-a6eb-474cf36e6c34.jpg"
-    },
-    {
-      "id": "a9c463bcd3bb1242",
-      "title": "Tougher crops and beaver dams: how UK farmers are tackling drought",
-      "summary": "Hit by heatwaves and low rainfall, food producers are finding novel solutions to help crops and cattle survive Ponds and collection tanks, drought-resistant crops and a certain rodent. As the climate crisis brings more extreme weather to Britain, farmers are experimenting with new tactics to tackle drought – and flooding. The string of heatwaves and drought conditions experienced across vast swathes of Britain this summer has brought a series of challenges for food producers, particularly those growing crops more suited to the UK’s traditional climate. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/environment/2026/aug/14/crops-beaver-dams-uk-farmers-drought-heatwaves",
-      "source": "The Guardian Business",
-      "published": "2026-08-14T06:00:20Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/521db8caab17a499ea6e4eee7fcbbe5efcbab898/332_0_3316_2653/master/3316.jpg?width=700&quality=85&auto=format&fit=max&s=0b4ad4f2b7c57b1a54ffb90f40f7e6e4"
     },
     {
       "id": "2fb2575f8ccdbe4a",
@@ -3061,60 +3010,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bef/live/ab3a82f0-9820-11f1-870d-5d08c49babb2.jpg"
     },
     {
-      "id": "aa142cb919a2bd32",
-      "title": "Royal estates rent out homes that fail to meet legal energy efficiency standards",
-      "summary": "Exclusive: More than 100 homes on King Charles and Prince William’s inherited estates have EPC ratings of F or G • ‘It’s archaic’: the struggle to heat poorly insulated homes let by royal estates More than 100 homes on the inherited royal estates of King Charles and Prince William fail to meet the legal minimum energy standards for landlords, the Guardian can reveal. An analysis of a large sample of domestic lets on the duchies of Lancaster and Cornwall and the Sandringham estate found that one in five have Energy Performance Certificate (EPC) ratings of F or G. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/society/2026/aug/15/royal-estates-rent-out-homes-that-fail-to-meet-legal-energy-efficiency-standards",
-      "source": "The Guardian Business",
-      "published": "2026-08-15T16:00:01Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/5e772cc596c6d07669eba138b3024ed64944ad0f/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=8a43b88753a89259d73ba53af6473dbb"
-    },
-    {
-      "id": "8cae9e79904501cf",
-      "title": "‘It’s archaic’: the struggle to heat poorly insulated homes let by royal estates",
-      "summary": "A number of idyllic-looking homes in estates owned by King Charles and Prince William do not meet energy standards for rentals • Royal estates rent out homes that fail to meet legal energy efficiency standards This summer, the duchy of Cornwall got a new-look website with a bold statement of intent at the top: “We’re on a mission to become a world-leading impact organisation.” Updating the website will have been the easiest part of that mission. Upgrading hundreds of ageing, mostly rural, rented cottages, farmhouses and country houses will be one of the hardest. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/society/2026/aug/15/poorly-insulated-homes-let-by-royal-estates-king-charles",
-      "source": "The Guardian Business",
-      "published": "2026-08-15T16:00:00Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/8b7884c015e10f53a784d977268043789bef8e82/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=f949d231116110e2fc2baab46a2dcecc"
-    },
-    {
-      "id": "a48b0b7d740ef727",
-      "title": "Heathrow airport roads reopen after flooding from burst water main",
-      "summary": "Heathrow says airport operating as normal after passengers told not to travel by road and use rail and tube instead Disruptions caused by flooding from a burst water main on a ring road at Heathrow airport restricted access to Terminals 2 and 3 on Saturday morning. The leak has been contained and the affected areas are operating as normal. Water in the central terminal area prevented anyone trying to travel by road to or from Terminals 2 and 3. Passengers had to travel by rail and tube instead. Access to the carparks was also impeded, leaving people with parked cars unable to access them. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/15/heathrow-passengers-face-disruption-after-flood-restricts-access",
-      "source": "The Guardian Business",
-      "published": "2026-08-15T14:58:52Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/f06f600992d24b2f5089b7bb32276006e839a537/0_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=b6b77a5aefd27c1d29dff76d36d1dec0"
-    },
-    {
       "id": "e3a691b9aef10ab5",
       "title": "Fry and Glamourdale win world individual dressage gold",
       "summary": "Charlotte Fry retains her world Individual Grand Prix Special dressage title with victory aboard Glamourdale in Aachen, Germany.",
@@ -3188,24 +3083,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/643d/live/d25365b0-9635-11f1-acde-358da1a6646b.jpg"
     },
     {
-      "id": "4058c5a9bb0ee460",
-      "title": "Mark Zuckerberg says the future of AI is for everyone. But who owns it? | Raffi Krikorian",
-      "summary": "It’s a nice sentiment, but all AI users should ask three questions about their preferred choice of AI platform On Monday, Mark Zuckerberg published a 6,500-word essay, The Future Is for Everyone. The essay came with something even rarer: a new Meta open-weight model. An open-weight AI model is the kind of AI with which you download the entire thing, and it works on your own computer (with or without the internet) and nobody can switch it off except for you. Almost every mainstream AI tool you use, whether it be Gemini, ChatGPT or Claude, is one you rent access to. Meta’s is one that you can download and actually own. I downloaded it before I finished the essay. So can you. This major move by the world’s largest tech heavyweight comes amid a summer heavy with AI news, full of nations at war. Washington against Beijing; tech founder against tech founder. But beneath those conflicts is a deeper contest between two kinds of power: a government that can order technology offline in an instant, and a company that can simply close your account. Neither is necessarily villainous. But the rest of us are not merely the audience in this fight; we are the prize. And the terms are already being written: intelligence on lease, a future we pay for but never quite own. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/13/mark-zuckerberg-future-of-ai",
-      "source": "The Guardian Business",
-      "published": "2026-08-13T12:00:00Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/7a7e6a226df067c7884c93e9a593c8aef1f4aff4/394_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=d94d59862fd1b1a015ac139571db0c1b"
-    },
-    {
       "id": "68c920b14fc4838b",
       "title": "Burnham warned Iran war could hit UK growth next year",
       "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
@@ -3258,24 +3135,6 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7006/live/fe981460-9647-11f1-9d8e-b1efdebf2f99.jpg"
-    },
-    {
-      "id": "1f848f7a9ad8327d",
-      "title": "Massive egg recall in US south and south-west due to salmonella outbreak",
-      "summary": "About 1.6m dozen eggs from Texas recalled amid one of the largest recorded foodborne illness outbreaks in US history A massive egg recall affecting nearly 1.6m dozen eggs has been elevated to the US Food and Drug Administration’s highest-risk warning as officials investigate a salmonella outbreak that has sickened nearly 100 people. The FDA on 12 August reclassified the recall of nearly 1.6m dozen white and brown cage-free eggs over concerns they may be contaminated with salmonella. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/us-news/2026/aug/15/egg-recall-us-south-and-south-west-salmonella-outbreak",
-      "source": "The Guardian Business",
-      "published": "2026-08-15T16:01:10Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/8db29763d7dd93fbeef64134375888b2dd0a1629/997_0_4972_3979/master/4972.jpg?width=700&quality=85&auto=format&fit=max&s=bbda949eb9d236f231d8cc84fe951b61"
     },
     {
       "id": "4969110b87e6150f",
@@ -3387,24 +3246,6 @@
       "imageUrl": "https://i.guim.co.uk/img/media/92f62ca1090219e79cd2ee4c3cd95cc1100bdf72/163_0_6709_5367/master/6709.jpg?width=700&quality=85&auto=format&fit=max&s=41ba4eb51b9516a1030a5c76fec33b10"
     },
     {
-      "id": "ef4526a4635cef1d",
-      "title": "From food to tech to travel: the best student deals and discounts",
-      "summary": "You can save money at university, especially using schemes such as UNiDAYS, Student Beans or TOTUM ‘Watch your spending, use free perks’: an insider’s tips on student money With rents on the up and food costing more, maintenance loans are stretched thinner than ever. Knowing how, and where, to get a discount can make a real difference. A golden rule is to register with the big discount websites and apps – UNiDAYS, Student Beans and TOTUM – using your university email address as soon as you have one. Each has a slightly different roster of retailers, so it is worth signing up to all three. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/money/2026/aug/15/food-tech-travel-best-student-deals-discounts-unidays-student-beans",
-      "source": "The Guardian Business",
-      "published": "2026-08-15T09:00:53Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/90a14cce8359a4f985bc35732079a8bae0ceb406/367_0_3542_2832/master/3542.jpg?width=700&quality=85&auto=format&fit=max&s=3bf180fa22fe96b44b2f643d3b277cb1"
-    },
-    {
       "id": "9b934d169461a924",
       "title": "US wait times for cancer surgeries are getting longer and longer",
       "summary": "Study finds wait times for cancer surgeries hit 10-year high.",
@@ -3459,42 +3300,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p408w2.jpg"
     },
     {
-      "id": "4198007e241c4de0",
-      "title": "Johnson-Thompson under way in the heptathlon",
-      "summary": "Two-time world champion Katarina Johnson-Thompson and Commonwealth silver medallist Jade O'Dowda begin their heptathlon campaigns in the 100m hurdles, with Commonwealth Games champion Kate O'Connor competing for Ireland.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/videos/cr7kx9ymx82o",
-      "source": "BBC Sport",
-      "published": "2026-08-14T10:12:58Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73b7/live/98d008e0-97c8-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
-      "id": "c0663f154af767b4",
-      "title": "Andy Burnham’s great British rip-off list just got even longer | Letters",
-      "summary": "Readers respond to the prime minister’s promise to end unexpected payments and hidden catches for consumers Misleading discounts and obstructive cancellation procedures certainly deserve regulation. But presenting this as a significant response to the cost of living crisis feels like rearranging the cushions while the sofa is on fire ( Subscriptions you can’t easily cancel, sales that aren’t sales – I’ll end the rip-offs that British people hate, 9 August ). For millions of households, the problem is not finding the “unsubscribe” button. It is finding that £50 buys remarkably little at the supermarket, while housing and essential bills consume ever more of their income. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/money/2026/aug/13/andy-burnham-great-british-rip-off-list-just-got-even-longer",
-      "source": "The Guardian Business",
-      "published": "2026-08-13T16:39:06Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/f2b1755bdf2794c7d9abe0c8248e16bcd7c75217/483_0_2517_2014/master/2517.jpg?width=700&quality=85&auto=format&fit=max&s=b7c05be8d6604cbb9c00dec36f76cd13"
-    },
-    {
       "id": "4978f1660340d981",
       "title": "Typhoon Dolphin hits Beijing as city braces for one-third of annual rainfall over 24 hours",
       "summary": "Flooding already reported in some districts of Chinese capital and rains are expected to get worse overnight Typhoon Dolphin hit China’s capital on Tuesday as the storm caused flooding in parts of Beijing’s Shunyi district. Rains are forecast to intensify overnight. Although the storm has been downgraded to a tropical depression, several districts in Beijing activated the highest level of emergency flood responses as the city braced for one-third of its annual rainfall, which is expected over the next 24 hours. Continue reading...",
@@ -3511,24 +3316,6 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://i.guim.co.uk/img/media/13322faf9fe478c78beb269bbe64d52387e43f72/311_17_6718_5377/master/6718.jpg?width=700&quality=85&auto=format&fit=max&s=84e30ac53989c8885fad4f30c3bbbca3"
-    },
-    {
-      "id": "367b251173a5184b",
-      "title": "Met apologises for exposing 143 email addresses of Mohamed Al Fayed victims",
-      "summary": "London police force tells Telegraph incident was result of ‘human error’ and it is conducting an investigation The Metropolitan police have apologised for accidentally exposing the email addresses of more than 140 victims of Mohamed Al Fayed. In a group update about its investigation into the former Harrods owner, the force copied the email addresses of 143 victims of Fayed in a message that included about 12 other recipients, the Telegraph reported. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/world/2026/aug/15/met-police-apologises-exposing-email-addresses-mohamed-al-fayed-victims",
-      "source": "The Guardian Business",
-      "published": "2026-08-15T12:22:47Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/527748c927dbdb9a4ab079cc69ae9fd58dff3f05/229_98_3364_2690/master/3364.jpg?width=700&quality=85&auto=format&fit=max&s=350fdd5bfcd177cc9f80299f7c89b5c0"
     },
     {
       "id": "8eee6d0af4432449",
@@ -3550,22 +3337,22 @@
       "focus": "Saracens"
     },
     {
-      "id": "50b2af3d5ca784bd",
-      "title": "Homes near pylons to get £250 a year off energy bills – first sites revealed",
-      "summary": "Households living within 1,600ft of upgraded pylons will get £250 a year off their electricity bills.",
+      "id": "1f9d48d4ace71795",
+      "title": "‘Strategic change and grasping nettles’: where now for John Lewis as boss exits?",
+      "summary": "Peter Ruis appeared ‘to be doing a good job in difficult circumstances’ at department store chain, says analyst “Going up?” After a tough week for department stores it feels as if that sales aspiration is as dated as the singsong phrase in the opening credits of Are You Being Served? Simpsons of Piccadilly, which inspired the fictional Grace Brothers department store in which the 1970s TV sitcom was set, is long gone , and several of its modern equivalents are now fighting oblivion. The boss of John Lewis, Peter Ruis, clearly decided it was time to exit the elevator this week, announcing his abrupt departure from the UK’s biggest department store chain in a surprise statement. Days later, Harvey Nichols, the luxury Knightsbridge store that was once a byword for 1990s chic, was bought out of administration for a knock-down price by the owner of Sports Direct, Mike Ashley’s Frasers Group. Continue reading...",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o",
-      "source": "BBC Politics",
-      "published": "2026-08-12T07:30:16Z",
+      "url": "https://www.theguardian.com/business/2026/aug/15/john-lewis-boss-peter-ruis-department-store-chain",
+      "source": "The Guardian UK",
+      "published": "2026-08-15T14:00:01Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
         "Politics",
         "UK"
       ],
-      "sourceWeight": 5,
+      "sourceWeight": 3,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc1/live/a81a4a70-959f-11f1-870d-5d08c49babb2.jpg"
+      "imageUrl": "https://i.guim.co.uk/img/media/0dff74a3f21f5825cf1b4821a333b585fb32b0df/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=d400ccacd313165384f0ea354353ee04"
     },
     {
       "id": "96aedc1727a2dcf4",
@@ -3586,42 +3373,6 @@
       "imageUrl": "https://i.guim.co.uk/img/media/ebe4f65a1b7e6f8711b280f07212a8df92992d51/25_0_3442_2754/master/3442.jpg?width=700&quality=85&auto=format&fit=max&s=56511eb48c151760c9d0fa40482e7fb6"
     },
     {
-      "id": "0e570b0cce9e4c83",
-      "title": "Trump has amassed staggering wealth in ‘most openly corrupt’ presidency",
-      "summary": "Ethics experts and Democrats express alarm as Trump uses office to grow his personal fortune to ‘unprecedented’ level Donald Trump ’s use of his second presidency to grow his personal fortune has alarmed legal and ethics experts and congressional Democrats as he has reaped an “unprecedented” $2.2bn in 2025 revenues by amassing big cryptocurrency holdings, benefiting from wealthy foreign interests, expanding his Truth Social business and more, while federal oversight of his actions has waned. Trump last year raked in at least $1.4bn from his crypto ventures according to financial disclosure forms he filed in June. Simultaneously, about one million investors in a Trump crypto scheme suffered almost $3.8bn in losses as their volatile crypto holdings tanked in value. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/us-news/2026/aug/13/trump-presidency-revenue-wealth",
-      "source": "The Guardian Business",
-      "published": "2026-08-13T12:00:03Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/501f7dc88b2aca174fb4d359c71fa885db8af59e/601_0_3001_2401/master/3001.jpg?width=700&quality=85&auto=format&fit=max&s=5968205209e8b1df563b8e64c52b57c8"
-    },
-    {
-      "id": "fa3305362e387624",
-      "title": "It’s the SUV tyranny: where have all the normal family cars gone? | Coco Khan",
-      "summary": "They rule the roads and, in their wake, even old-style saloons have been supersized. It’s an illusion of consumer choice Recently, while traipsing from showroom to showroom in search of a used car for my growing clan, the iconic line from Christopher Nolan’s seminal Batman movie The Dark Knight came to mind : “You either die a hero, or live long enough to see yourself become the villain.” And by villain, of course, I mean an SUV driver. Because, if you haven’t shopped for a secondhand family car recently, I’ll save you the shock: wherever you look, it’s SUVs. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/15/suv-normal-family-cars-roads-supersized-consumer-choice",
-      "source": "The Guardian Business",
-      "published": "2026-08-15T07:00:50Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/1125969f47e62e43f3cb4338df36a91ab5c41e19/205_0_2070_1655/master/2070.jpg?width=700&quality=85&auto=format&fit=max&s=ead3d42e450351dbf0590a729313a8ed"
-    },
-    {
       "id": "fc8dca0ed280e272",
       "title": "Floods, storms and landslides: Typhoon Dolphin ravages China – in pictures",
       "summary": "The most powerful tropical cyclone to hit China this year brings strong ⁠winds, torrential rain and flooding to the country’s east coast Typhoon Dolphin hits Beijing as city braces for one-third of annual rainfall over 24 hours Continue reading...",
@@ -3638,6 +3389,60 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://i.guim.co.uk/img/media/b8cab20d41bb29aa7881125e0872e5e1a8229843/125_0_5120_4096/master/5120.jpg?width=700&quality=85&auto=format&fit=max&s=e747b3a75f2aae1d018e0effd3565c84"
+    },
+    {
+      "id": "462a30ea1b80c807",
+      "title": "What's driving men to get penis fillers, despite the risks?",
+      "summary": "Men who have had the procedure can expect 10-20% more girth for the next six to nine months - but it can go wrong.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c626d3xqd83o",
+      "source": "BBC News",
+      "published": "2026-08-15T23:42:33Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78d0/live/953e6ee0-877b-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": "1eb088356826491a",
+      "title": "From making friends to managing money: Students' advice for this year's freshers",
+      "summary": "BC News asked current students about the worries they had before arriving at university how they overcame them.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kw0yek2yo",
+      "source": "BBC News",
+      "published": "2026-08-15T23:45:15Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a22/live/504be230-97f8-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "id": "60785a14082d4d67",
+      "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
+      "summary": "Scotland Yard copied in all those who had signed up to receive a monthly update.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo",
+      "source": "BBC News",
+      "published": "2026-08-16T00:51:29Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63ce/live/13d0f320-9881-11f1-a43c-2dc5e6bd5d94.jpg"
     },
     {
       "id": "df1a462507468c6e",
@@ -3674,13 +3479,211 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-081226a-lg-1152x648.jpg"
+    },
+    {
+      "id": "bb57b824d0ce8ac8",
+      "title": "Unauthorised sites are growing but travellers say they are forced to break the law",
+      "summary": "The government says such developments are unacceptable – so why do they keep springing up?",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cpq3w8q0j9go",
+      "source": "BBC News",
+      "published": "2026-08-15T23:46:03Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf5/live/46d5fc70-8684-11f1-b60e-a7e0943a9c78.jpg"
+    },
+    {
+      "id": "75ddcee320380ab2",
+      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo",
+      "source": "BBC News",
+      "published": "2026-08-15T23:34:24Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "id": "4e9cfb20450deb53",
+      "title": "US women in politics spark conversation about balancing family and career",
+      "summary": "The BBC spoke to working mothers about the challenges of a high-pressure career and making time for family.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cjwxgz95jvgo",
+      "source": "BBC News",
+      "published": "2026-08-15T23:01:50Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdba/live/bc3d3e00-9828-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": "e7096bdfbc0e0292",
+      "title": "O'Connor secures European gold in heptathlon",
+      "summary": "Kate O'Connor says her late grandmother \"would have been jumping for joy\" at the Irish athlete claims gold in the heptathlon at the European Championships in Birmingham.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cvgjjpe85z1o",
+      "source": "BBC News",
+      "published": "2026-08-15T20:18:18Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87c3/live/448cf350-98fa-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "id": "b2ee054ee3cdc4a9",
+      "title": "‘Dangerously hostile’: heatwaves leave hospital wards unsafe, data reveals",
+      "summary": "Figures disclosed by 33 NHS trusts show temperatures on wards during July rose above 28C limit set by NHS England Hospitals in England have recorded temperatures of almost 42C this summer, with surgeries being cancelled because operating theatres’ cooling units stopped working in the intense heat. The Northern Care Alliance NHS foundation trust, which runs four hospitals in Greater Manchester, recorded a temperature of 41.8C during last month’s heatwave – 14C above the recommended safe maximum. Some patients are also cancelling their own surgery because it is too hot for them to travel. Hospitals and GP surgeries are offering frail elderly patients appointments at the start and end of the day, when it is less hot, to make it easier for them to attend. Ambulance services are struggling to keep some medications at the right temperature because it gets so hot in the back of their vehicles. NHS ambulance trusts have relaxed their usual dress code rules to help crews stay cooler, for example by wearing shorts rather than trousers Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/society/2026/aug/15/dangerously-hostile-heatwaves-leave-hospital-wards-unsafe-data-reveals",
+      "source": "The Guardian UK",
+      "published": "2026-08-15T08:01:29Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/1b0058b296e4a9f90f853ad04297d144b782201c/468_0_4680_3744/master/4680.jpg?width=700&quality=85&auto=format&fit=max&s=3539a4eff16752858166fb38070ed8c2"
+    },
+    {
+      "id": "6175a602e3febea9",
+      "title": "The influencers getting bitten while chasing the perfect shark shot",
+      "summary": "Tayane Dalazen was on a shark-diving trip in Brazil when she was attacked.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c5yvrn7rpqpo",
+      "source": "BBC News",
+      "published": "2026-08-15T23:04:29Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c6/live/9c4c4980-9727-11f1-808c-532494fd22c7.png"
+    },
+    {
+      "id": "cafd9e7cafc37a01",
+      "title": "PM admits cost of living help is not enough and hints at further support",
+      "summary": "The PM has announced a rake of measures to help people since taking office three weeks ago.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkee248vdo",
+      "source": "BBC Politics",
+      "published": "2026-08-12T04:13:45Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e306/live/9bc93290-9581-11f1-8636-978a48bd79b6.jpg"
+    },
+    {
+      "id": "5c708656dbf58f6b",
+      "title": "Man City must act like champions as WSL rivals grow stronger",
+      "summary": "Manchester City have bolstered their squad this summer - but will they have enough to defend their Women's Super League crown?",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgwkl58xgvo",
+      "source": "BBC Sport",
+      "published": "2026-08-14T08:33:42Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58fc/live/3ecb82d0-94a7-11f1-afe9-fb1a837ec5d9.jpg"
+    },
+    {
+      "id": "d4bea7c856ca8475",
+      "title": "Rashford returns as AC Milan highlight issues facing Carrick",
+      "summary": "Manchester United finish their pre-season campaign with a 4-2 defeat by Ruben Amorim's AC Milan in Poland, as Marcus Rashford returns to Red Devils action.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o",
+      "source": "BBC News",
+      "published": "2026-08-15T19:25:09Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/130f/live/5dfdd470-98d8-11f1-8216-1399f248beea.jpg"
+    },
+    {
+      "id": "abd9b8065060c316",
+      "title": "West Ham break EFL record to sign Engels for £22m",
+      "summary": "West Ham United pay a £22m fee, a new EFL record, to sign Celtic's Belgium international midfielder Arne Engels.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c77ggr5nk7jo",
+      "source": "BBC News",
+      "published": "2026-08-15T20:19:40Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/379a/live/7dd3ae70-98ea-11f1-baa8-93026f9f7e66.jpg"
+    },
+    {
+      "id": "3e37512d4467ea46",
+      "title": "Harvey Nichols bought by owner of Sports Direct",
+      "summary": "The department store made famous by sitcom Absolutely Fabulous had warned it would cease trading.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cd69p89gl6xo",
+      "source": "BBC Business",
+      "published": "2026-08-13T14:27:43Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fcd/live/2351ff40-9720-11f1-870d-5d08c49babb2.jpg"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 31
+      "items": 33
     },
     {
       "source": "BBC Politics",
@@ -3725,7 +3728,7 @@
     {
       "source": "The Guardian Technology",
       "ok": true,
-      "items": 29
+      "items": 36
     },
     {
       "source": "BBC Business",
@@ -3740,7 +3743,7 @@
     {
       "source": "The Guardian Business",
       "ok": true,
-      "items": 37
+      "items": 19
     },
     {
       "source": "CBC Business",
