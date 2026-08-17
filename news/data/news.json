@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-17T08:59:34.739660Z",
+  "generatedAt": "2026-08-17T13:04:20.287105Z",
   "topStoryIds": [
     "63ace52beef35d96",
-    "925286c157a90602",
+    "010537b34b0b5cb2",
     "476f9579ed2fb8b2",
-    "a7dd7b1b26eda74a",
-    "fe1485124071ecff",
+    "2de57e9f0c707c00",
+    "43377f146a3cb2bf",
     "c3fe2caa450135c7",
     "6dedba7ac314922c"
   ],
@@ -32,13 +32,13 @@
       "imageHeight": 630
     },
     {
-      "id": "925286c157a90602",
-      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-      "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+      "id": "010537b34b0b5cb2",
+      "title": "Satellite operators are in panic mode due to a worsening launch crisis",
+      "summary": "What happens if the Falcon rockets stop flying?",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+      "url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
       "source": "Ars Technica",
-      "published": "2026-08-16T10:00:59Z",
+      "published": "2026-08-17T11:00:26Z",
       "category": "Tech",
       "region": "World",
       "labels": [
@@ -47,14 +47,14 @@
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285809260-1-1152x648.jpg",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10-1152x648.jpg",
       "imageWidth": 1152,
       "imageHeight": 648
     },
     {
       "id": "476f9579ed2fb8b2",
       "title": "Interest rate dilemma for central banks as inflation rises but growth slows",
-      "summary": "The Federal Reserve, the ECB and the Bank of England appear unclear on how to tackle inflation amid the Iran war New UK cost of living crisis looms as rising energy bills lift inflation Inflation rates have been falling across the industrialised world, but fears that the Middle East war will raise oil prices means central banks are sitting on their hands when they should be raising interest rates to subdue inflationary pressures. The US Federal Reserve, the Bank of England and the European Central Bank are still smarting from the criticism of their inaction in 2022 when inflation soared above 10% in the UK and eurozone, and over 9% in the US. Continue reading...",
+      "summary": "The Federal Reserve, the ECB and the Bank of England appear unclear on how to tackle inflation amid the Iran war New UK cost of living crisis looms as rising energy bills lift inflation As the Middle East crisis drags on into its sixth month, central banks sit in a tricky position. Oil prices remain at elevated levels, stoking inflationary pressures while also threatening to weigh on growth. The US Federal Reserve, the Bank of England and the European Central Bank are still smarting from the criticism of their inaction in 2022, when inflation soared above 10% in the UK and eurozone and over 9% in the US. Continue reading...",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows",
       "source": "The Guardian Economics",
@@ -72,33 +72,13 @@
       "imageHeight": 630
     },
     {
-      "id": "a7dd7b1b26eda74a",
-      "title": "A fake website and a deluge of CVs: the Australian firm embroiled in an FBI probe into alleged Chinese espionage",
-      "summary": "Exclusive: Fake consultancy impersonating Brisbane firm online is one of 13 websites seized by the US Department of Justice Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast When the first emails arrived, they were easily dismissed as spam. But as strangers continued to boast about their defence and security credentials, they became impossible to ignore. From mid-2025, a small Australian consultancy firm called Horizzen started receiving emails and strange calls from people applying for vague jobs in the United States. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/17/fbi-investigation-china-alleged-espionage-fake-websites-defence-intelligence-australia",
-      "source": "The Guardian China",
-      "published": "2026-08-16T15:00:30Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/4fb3471814f8ddf60e815e68672a8e1e71ac2e08/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af5c4c7de108f46c47883d31a67b99e9",
-      "imageWidth": 1200,
-      "imageHeight": 630
-    },
-    {
-      "id": "fe1485124071ecff",
-      "title": "Reform UK benefits ban for foreign nationals would include EU citizens",
+      "id": "2de57e9f0c707c00",
+      "title": "Reform proposes ban on most benefits for foreign nationals in UK",
       "summary": "The move would require renegotiating the UK's Brexit deal and could risk stripping British expats living in the EU of similar rights.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/news/articles/cly555430nno",
       "source": "BBC Politics",
-      "published": "2026-08-17T07:26:15Z",
+      "published": "2026-08-17T12:37:17Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
@@ -107,9 +87,30 @@
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f668/live/6dbb32a0-99ae-11f1-9b60-95a3fcadaf8d.jpg",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c8ca/live/418b4860-9a34-11f1-aed2-8d6da8d75094.jpg",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "43377f146a3cb2bf",
+      "title": "Advocates worry new bans on student IDs will trip up young voters",
+      "summary": "New bans on using student IDs for voting in Indiana and New Hampshire have sparked lawsuits after creating the latest hurdles to the ballot box for the U.S. voting-age group least likely to vote.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5791740/college-student-voting-voter-id",
+      "source": "NPR Politics",
+      "published": "2026-08-17T09:00:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5568x3712+0+0/resize/5568x3712!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F62%2F3d%2Fc814e3734658aa97909269616ef0%2Fgettyimages-2182413885.jpg",
+      "imageAlt": "A sign informs registered voters to have their photo IDs ready to check in at a polling place in Lancaster, N.H., in 2024.",
+      "imageWidth": 5568,
+      "imageHeight": 3712
     },
     {
       "id": "c3fe2caa450135c7",
@@ -150,6 +151,24 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c5d/live/edf9fd50-9a0a-11f1-a7ab-8b30adf0800a.jpg",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "884af86822872e28",
+      "title": "Sen. Mark Kelly discusses conditions aboard the USS Lincoln",
+      "summary": "NPR's Sacha Pfeiffer asks Democratic Sen. Mark Kelly of Arizona about conditions aboard the USS Lincoln and President Trump's multi-billion dollar plan to restore older tech on aircraft carriers.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5933015/sen-mark-kelly-discusses-conditions-aboard-the-uss-lincoln",
+      "source": "NPR Politics",
+      "published": "2026-08-17T10:49:59Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5933015"
     },
     {
       "id": "936a7aa205606d39",
@@ -284,6 +303,83 @@
       "focus": "Blue Jays"
     },
     {
+      "id": "59fbf8b3520967de",
+      "title": "Wales centre James signs new Scarlets contract",
+      "summary": "Wales centre Eddie James signs a new contract with Scarlets before the start of the 2026-27 season.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/clylqd034n9o",
+      "source": "BBC Rugby Union",
+      "published": "2026-08-17T12:00:32Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c6f/live/27b4cfd0-9a23-11f1-bf12-b5882ef8968b.jpg"
+    },
+    {
+      "id": "38daaa0596ff5a1b",
+      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+      "summary": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o",
+      "source": "BBC Politics",
+      "published": "2026-08-17T11:20:23Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd38/live/07503aa0-9a22-11f1-a291-b542ee92de7c.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "id": "8598493f601c8017",
+      "title": "Ex-Wales and Cardiff centre Halaholo retires",
+      "summary": "Former Wales and Cardiff centre Willis Halaholo has ended his professional rugby career after 'a series of niggling injuries'.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c77g043v6neo",
+      "source": "BBC Rugby Union",
+      "published": "2026-08-17T09:59:47Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England",
+        "Rugby"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b919/live/1fa807a0-9a21-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "id": "a7dd7b1b26eda74a",
+      "title": "A fake website and a deluge of CVs: the Australian firm embroiled in an FBI probe into alleged Chinese espionage",
+      "summary": "Exclusive: Fake consultancy impersonating Brisbane firm online is one of 13 websites seized by the US Department of Justice Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast When the first emails arrived, they were easily dismissed as spam. But as strangers continued to boast about their defence and security credentials, they became impossible to ignore. From mid-2025, a small Australian consultancy firm called Horizzen started receiving emails and strange calls from people applying for vague jobs in the United States. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/fbi-investigation-china-alleged-espionage-fake-websites-defence-intelligence-australia",
+      "source": "The Guardian China",
+      "published": "2026-08-16T15:00:30Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/4fb3471814f8ddf60e815e68672a8e1e71ac2e08/688_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af5c4c7de108f46c47883d31a67b99e9",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
       "id": "9b52bfc22daa660a",
       "title": "After long journey through injuries in Minors, Tiedemann makes his MLB debut",
       "summary": "This feed supplied a headline but no article summary.",
@@ -339,24 +435,22 @@
       "focus": "Blue Jays"
     },
     {
-      "id": "38daaa0596ff5a1b",
-      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
-      "summary": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+      "id": "8b623bd6b0954898",
+      "title": "The Global Story",
+      "summary": "Could Gadi Eisenkot really be the ‘anti-Netanyahu?’",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8mcf",
       "source": "BBC Politics",
-      "published": "2026-08-17T08:38:10Z",
+      "published": "2026-08-17T09:00:00Z",
       "category": "Politics",
-      "region": "US",
+      "region": "UK",
       "labels": [
         "Politics",
-        "US"
+        "UK"
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a0b/live/686778e0-9a0d-11f1-a05c-fdd5e0ed226e.jpg",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4xpyy.png"
     },
     {
       "id": "f035661c4d87b44d",
@@ -649,6 +743,26 @@
       "imageHeight": 675
     },
     {
+      "id": "ef813e85344e44e1",
+      "title": "'I used food banks while my ex owed thousands in child maintenance'",
+      "summary": "Parents have told BBC Panorama the agency tasked with helping to secure financial support for children after separation or divorce is driving them to breaking point.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/videos/c5yvdeen2z2o",
+      "source": "BBC Business",
+      "published": "2026-08-17T12:27:55Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f14/live/a59f82e0-9a33-11f1-b792-a710e56a11dc.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
       "id": "887d04d3e1bc40df",
       "title": "Summer jobs bounce back in UK thanks to busy calendar of sport and music",
       "summary": "Industry tracker finds ‘exceptionally warm weather’ has helped boost job listings in hospitality and tourism sector The summer job has staged a comeback this year thanks to the hot weather and a packed calendar of events such as the men’s football World Cup, new UK figures show. Recent months have seen a significant increase in seasonal hiring in sectors such as hospitality and tourism compared with summer 2025, said the Recruitment and Employment Confederation (REC), which runs a monthly labour market tracker. Continue reading...",
@@ -686,6 +800,46 @@
       ],
       "sourceWeight": 5,
       "focus": "Blue Jays"
+    },
+    {
+      "id": "bb8a12556a222b50",
+      "title": "Virgin takes step towards running Channel Tunnel rail services",
+      "summary": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o",
+      "source": "BBC Business",
+      "published": "2026-08-17T12:46:25Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d0e/live/a809a810-9a12-11f1-a05c-fdd5e0ed226e.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "id": "0f647377ba48c848",
+      "title": "Swansea Au Vodka reportedly in talks over £500m sale to BuzzBallz owner",
+      "summary": "Au Vodka co-owner Charlie Morgan earned infamy in 2013 after being kicked by the Chelsea footballer.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo",
+      "source": "BBC Business",
+      "published": "2026-08-17T12:43:09Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4739/live/2c857fd0-9a25-11f1-bf12-b5882ef8968b.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 675
     },
     {
       "id": "cb4f3e9ec77e3d93",
@@ -780,9 +934,7 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5636x3757+0+0/resize/5636x3757!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Fa1%2F6e38896b4a979ffd096341a82971%2Fap26226626090930.jpg",
-      "imageAlt": "President Donald Trump speaks with reporters before boarding Air Force One, Friday, Aug. 14, 2026, at Joint Base Andrews, Md.",
-      "imageWidth": 5636,
-      "imageHeight": 3757
+      "imageAlt": "President Donald Trump speaks with reporters before boarding Air Force One, Friday, Aug. 14, 2026, at Joint Base Andrews, Md."
     },
     {
       "id": "966ee69e5fa45236",
@@ -800,9 +952,7 @@
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15d9/live/42d1e430-98aa-11f1-9dd3-79dbb17f6bca.jpg",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15d9/live/42d1e430-98aa-11f1-9dd3-79dbb17f6bca.jpg"
     },
     {
       "id": "014afd07e9298a07",
@@ -820,13 +970,11 @@
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/078d/live/f51173c0-97c1-11f1-9963-d1f200dff659.jpg"
     },
     {
-      "id": "97381318545bad94",
-      "title": "Sainsbury's pauses AI cameras after shopper ousted",
+      "id": "0e9cda7a8595a920",
+      "title": "Sainsbury's branch halts AI use as shopper ejected",
       "summary": "Matt Arnold says he was asked to leave the store after being wrongly flagged as a shoplifter.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo",
@@ -840,9 +988,7 @@
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf39/live/0e2e29b0-9809-11f1-82c8-334b551e2d55.jpg",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf39/live/0e2e29b0-9809-11f1-82c8-334b551e2d55.jpg"
     },
     {
       "id": "2e1a8f5b51db6414",
@@ -896,9 +1042,7 @@
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg"
     },
     {
       "id": "eab28fa781f4583c",
@@ -916,9 +1060,7 @@
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/3d3bf221e28fe3c65050067b92a5c556dab32710/928_0_6020_4816/master/6020.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a12e238a587207d5075ddf96fe977d8",
-      "imageWidth": 1200,
-      "imageHeight": 630
+      "imageUrl": "https://i.guim.co.uk/img/media/3d3bf221e28fe3c65050067b92a5c556dab32710/928_0_6020_4816/master/6020.jpg?width=700&quality=85&auto=format&fit=max&s=6543a5cde120bccb6f5fb3fcfa70d507"
     },
     {
       "id": "4efda132d4d21f1b",
@@ -937,9 +1079,7 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5400x3600+0+0/resize/5400x3600!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2F10%2F1044f9c34be8bd15a6eac178a202%2Fgettyimages-1234325178.jpg",
-      "imageAlt": "Murals are seen along the walls at a quiet U.S embassy on July 30, 2021 in Kabul, Afghanistan.",
-      "imageWidth": 5400,
-      "imageHeight": 3600
+      "imageAlt": "Murals are seen along the walls at a quiet U.S embassy on July 30, 2021 in Kabul, Afghanistan."
     },
     {
       "id": "7e0a6e0dc141d0fc",
@@ -957,9 +1097,7 @@
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/250b/live/07d59750-96ed-11f1-bdf3-57bf9a99cb46.jpg",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250b/live/07d59750-96ed-11f1-bdf3-57bf9a99cb46.jpg"
     },
     {
       "id": "f3e419f639938474",
@@ -1037,6 +1175,60 @@
       "focus": "Saracens"
     },
     {
+      "id": "f7884d8b19cb7dfd",
+      "title": "GB eventing team claim record-breaking world title",
+      "summary": "Watch Olympic eventing champions Laura Collett and Ros Canter final phase to secure record-breaking team gold and individual bronze and silver medals at the FEI World Championships, Aachen, Germany.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/equestrian/videos/cp8e0n2yjnxo",
+      "source": "BBC Sport",
+      "published": "2026-08-17T10:36:03Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcb3/live/7ccc9b00-9a24-11f1-b792-a710e56a11dc.jpg"
+    },
+    {
+      "id": "113f8b6c4fd4ea85",
+      "title": "Business Daily",
+      "summary": "Amid economic uncertainty, workers are more cautious about taking their next career step",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8gg6",
+      "source": "BBC Business",
+      "published": "2026-08-16T20:30:00Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0d7m6zz.jpg"
+    },
+    {
+      "id": "1833f3f26aaac917",
+      "title": "MacInnes stars as GB top medals table at Europeans",
+      "summary": "Great Britain finish top of the medals table at the European Aquatics Championships in Paris as Keanna MacInnes helps them win two golds on Sunday.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/swimming/articles/cly5rgy7n1jo",
+      "source": "BBC Sport",
+      "published": "2026-08-17T11:56:39Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe3e/live/98460770-9a30-11f1-90d9-9d833c0912f2.jpg"
+    },
+    {
       "id": "4eddf178f0289307",
       "title": "NEW Top 100 and Top 30 Prospects lists are here!",
       "summary": "This feed supplied a headline but no article summary.",
@@ -1055,6 +1247,115 @@
       "focus": "Blue Jays"
     },
     {
+      "id": "c88fab594a7a7c0a",
+      "title": "Vingegaard out for rest of season with Tour injury",
+      "summary": "Team Visma rider Jonas Vingegaard will miss the rest of season to continue his recovery from a broken collarbone sustained in July's Tour de France.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/cy07zn57pq8o",
+      "source": "BBC Sport",
+      "published": "2026-08-17T11:32:36Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a93f/live/ec1ef590-9a27-11f1-90d9-9d833c0912f2.jpg"
+    },
+    {
+      "id": "65640fa718a1704a",
+      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo",
+      "source": "BBC News",
+      "published": "2026-08-17T12:27:11Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d39/live/056878c0-9a2b-11f1-b650-3b3c4c4b08b3.jpg"
+    },
+    {
+      "id": "9be1e0741fdd22f9",
+      "title": "Fery named in GB Davis Cup team to face Ecuador",
+      "summary": "Wimbledon semi-finalist Arthur Fery is selected in Great Britain's Davis Cup team to face Ecuador in September.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cz97zew58xxo",
+      "source": "BBC Sport",
+      "published": "2026-08-17T12:32:54Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/303a/live/8f7f0840-9a34-11f1-90d9-9d833c0912f2.jpg"
+    },
+    {
+      "id": "c3de611a357181e5",
+      "title": "Why captain Tierney stayed as relegated Leicester look to rebuild",
+      "summary": "When Leicester City were relegated from the Women's Super League in May, it was the catalyst for a mass exodus from the club. But Sam Tierney stayed.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0jl6wqg6d3o",
+      "source": "BBC Sport",
+      "published": "2026-08-17T10:44:26Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0b0/live/83dafee0-94a8-11f1-afe9-fb1a837ec5d9.jpg"
+    },
+    {
+      "id": "bad1af0896579463",
+      "title": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+      "summary": "For 10 years, a Catholic-run home offered young women an affordable place to live in the nation's capital as they studied and launched careers. Now, that community is saying goodbye.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+      "source": "NPR Business",
+      "published": "2026-08-17T09:00:00Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F51%2Fb4%2F634655964275bf32ebed25f1c51b%2Fcatholichousing-070.jpg",
+      "imageAlt": "Former residents, current residents and friends of Anne Montgomery House begin a traditional Greek dance at the farewell celebration in Washington, D.C. on July 31, 2026. The community house, run by Society of the Sacred Heart, is closing after a decade."
+    },
+    {
+      "id": "897cc45a85e9060d",
+      "title": "Knight Riders could invest in Hundred if it expands",
+      "summary": "Kolkata Knight Riders are interested in buying a stake in a new Hundred franchise if the competition expands to 10 teams.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cz9707d48x2o",
+      "source": "BBC Sport",
+      "published": "2026-08-17T10:16:02Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c3b/live/02c589c0-9a1f-11f1-9a44-e568b7279c37.jpg"
+    },
+    {
       "id": "7eb648fdc5f9b36a",
       "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
       "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns.",
@@ -1070,9 +1371,7 @@
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b53b/live/4aaee280-97eb-11f1-a76b-f1c27c51f3da.jpg",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53b/live/4aaee280-97eb-11f1-a76b-f1c27c51f3da.jpg"
     },
     {
       "id": "0e7f868d0395ddc7",
@@ -1108,29 +1407,61 @@
       ],
       "sourceWeight": 4,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e0b2/live/1c9e3260-9273-11f1-870d-5d08c49babb2.jpg",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0b2/live/1c9e3260-9273-11f1-870d-5d08c49babb2.jpg"
     },
     {
-      "id": "9fe8cc24dc4067ae",
-      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+      "id": "ff1ec12ce318ce36",
+      "title": "Cagliari's Trepy in intensive care after reported pool incident",
+      "summary": "Cagliari striker Yael Trepy is being treated in intensive care after an incident in Sardinia.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo",
-      "source": "BBC News",
-      "published": "2026-08-17T08:43:12Z",
-      "category": "Politics",
-      "region": "US",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2g7mr0d17o",
+      "source": "BBC Sport",
+      "published": "2026-08-17T10:25:57Z",
+      "category": "Sports",
+      "region": "UK",
       "labels": [
-        "Politics",
-        "US"
+        "Sports",
+        "UK"
       ],
       "sourceWeight": 4,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c31f/live/48688550-99f6-11f1-b2ab-0dd01740f9f6.jpg",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d4/live/72236b20-9a24-11f1-bf12-b5882ef8968b.jpg"
+    },
+    {
+      "id": "2430903afd797421",
+      "title": "Man City face Neto competition - Monday's gossip",
+      "summary": "Manchester City face competition for Pedro Neto, Real Madrid want Martin Zubimendi and Premier League clubs want Liam Delap.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gkk7r2r4yo",
+      "source": "BBC Sport",
+      "published": "2026-08-17T09:12:54Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4308/live/581dd2a0-9a1b-11f1-aed2-8d6da8d75094.png"
+    },
+    {
+      "id": "44fe6746fca28b85",
+      "title": "Signings impress but squad issues remain - learnings from Man Utd's summer",
+      "summary": "Positives, negatives and areas to address urgently - how are Michael Carrick's Manchester United shaping up now pre-season is over?",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ywwv3j1v1o",
+      "source": "BBC Sport",
+      "published": "2026-08-17T08:29:10Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e1b/live/9c5f7340-995f-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "id": "7a02c284a1441b55",
@@ -1151,24 +1482,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5e/live/f059a560-99a0-11f1-a10a-71ff76b28954.jpg"
     },
     {
-      "id": "72882cff031b863d",
-      "title": "Juventus step up Vicario talks - Monday's gossip",
-      "summary": "Juventus increase talks for Guglielmo Vicario and pull out of move for Emiliano Martinez, Manchester City face competition for Pedro Neto and Real Madrid want Martin Zubimendi., plus more.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gkk7r2r4yo",
-      "source": "BBC Sport",
-      "published": "2026-08-17T05:54:05Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ddc/live/f00a8ed0-99ff-11f1-870d-5d08c49babb2.png"
-    },
-    {
       "id": "1fc7abae74b0d46b",
       "title": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
       "summary": "Amy Hunt asserts herself as Great Britain's new track sensation after winning an unprecedented four gold medals at the European Athletics Championships.",
@@ -1184,9 +1497,25 @@
       ],
       "sourceWeight": 4,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/04d5/live/a5895050-99c6-11f1-b604-2bfb19ba7385.jpg",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d5/live/a5895050-99c6-11f1-b604-2bfb19ba7385.jpg"
+    },
+    {
+      "id": "4351093b97cfdcfb",
+      "title": "Brook on Test captaincy, batting and Wellington",
+      "summary": "In an exclusive interview, England's Harry Brook says he supports Joe Root taking the Test captaincy, addresses frustrations about his batting and describes the Wellington nightclub incident fallout.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cwyee152xeqo",
+      "source": "BBC Sport",
+      "published": "2026-08-17T05:15:45Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d719/live/1d868da0-9965-11f1-9712-2936f8c80214.jpg"
     },
     {
       "id": "50f0116a4a5a5f25",
@@ -1225,6 +1554,24 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f8/live/07dcc7a0-970b-11f1-870d-5d08c49babb2.jpg"
     },
     {
+      "id": "e7f41e1156ee6de1",
+      "title": "Dutch GP in pictures as F1 prepares for Zandvoort farewell",
+      "summary": "A selection of images from the Dutch Grand Prix, as Zandvoort prepares to host a Formula 1 race for the final time.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c0l58802270o",
+      "source": "BBC Sport",
+      "published": "2026-08-17T06:31:36Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed82/live/61286880-97bc-11f1-bcec-d512ff1927d3.jpg"
+    },
+    {
       "id": "0c0a0d406b9afdc9",
       "title": "The west turns a blind eye to Xi Jinping’s repressive regime in China | Letters",
       "summary": "Meaningful diplomacy on an international level is well overdue, writes Jennifer Hubbard . Plus letters from Geoffrey Dixon and Jane Renton In his article on China’s latest tool for suppression of minorities, the “ethnic unity” law, Simon Tisdall seems to take it as read that western governments will continue to pay lip service to notions of human rights in China while pursuing short-term economic goals, ultimately destructive to their own productivity ( President Xi never wastes a good crisis. As Iran, Ukraine and Palestine distract the world, he tightens his grip, 8 August ). This has been the pattern since June 1989, the Tiananmen Square massacre. His faint hope that the young urban Chinese might overturn Xi’s regime is a judgment on the failure of western governments to show any foresight, integrity, effective diplomacy, joined-up thinking or action. They rely on the self-sacrifice of individuals such as Jimmy Lai , Lobga Rangzen and countless – often to us nameless – individuals who put their lives on the line while we wring our hands and weep crocodile tears. Continue reading...",
@@ -1240,9 +1587,7 @@
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/586ff1a241cdf20f0c9701ac49039482f23743c2/0_37_2277_1822/master/2277.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=54f36e04666a78ef489f81d0a8f0093e",
-      "imageWidth": 1200,
-      "imageHeight": 630
+      "imageUrl": "https://i.guim.co.uk/img/media/586ff1a241cdf20f0c9701ac49039482f23743c2/0_37_2277_1822/master/2277.jpg?width=700&quality=85&auto=format&fit=max&s=b62414ada900b97b11d07b3658abd8ae"
     },
     {
       "id": "cfcbf490ea9547e7",
@@ -1260,9 +1605,7 @@
       ],
       "sourceWeight": 4,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg"
     },
     {
       "id": "80c359d3c1b4698b",
@@ -1283,24 +1626,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a03/live/78f533f0-9323-11f1-be7f-7379a19ef5b2.jpg"
     },
     {
-      "id": "e8626b4a31a80485",
-      "title": "Democrats grapple with Trump's push to limit transparency within the executive branch",
-      "summary": "President Trump is pushing the boundaries of executive power to limit transparency within the executive branch. Congressional Democrats are grappling with how to respond.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5930399/democrats-grapple-with-trumps-push-to-limit-transparency-within-the-executive-branch",
-      "source": "NPR Politics",
-      "published": "2026-08-14T21:49:04Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5930399"
-    },
-    {
       "id": "87469ff3ccfd783c",
       "title": "Changing times as Welsh blockbuster awaits",
       "summary": "Cardiff City's Championship contest with Wrexham on Monday will attract global attention, not just the eyes of those in the north and south of Wales.",
@@ -1317,6 +1642,24 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5070/live/2591c3e0-9661-11f1-b2ab-0dd01740f9f6.png"
+    },
+    {
+      "id": "c4ebfcb8ce830c0d",
+      "title": "Police probe sexual assault claim against Aussie Rules players",
+      "summary": "The Sydney Swans confirmed an incident had occurred in the hours after the team's win on Sunday.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo",
+      "source": "BBC Sport",
+      "published": "2026-08-17T05:46:45Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c82beaa0-99f3-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "id": "a0093957d9eaa09a",
@@ -1353,6 +1696,24 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbc4/live/8fe12a80-85b1-11f1-926f-c90d1bcfbc84.png"
+    },
+    {
+      "id": "925286c157a90602",
+      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+      "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+      "source": "Ars Technica",
+      "published": "2026-08-16T10:00:59Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285809260-1-1152x648.jpg"
     },
     {
       "id": "8c5c72a6c6e44ba7",
@@ -1410,8 +1771,8 @@
       "imageUrl": "https://i.guim.co.uk/img/media/23c0298c65fe412f8823a41a20ff9db19ca71b06/546_139_3914_3133/master/3914.jpg?width=700&quality=85&auto=format&fit=max&s=37b19755dac7473a690b573dae5ef248"
     },
     {
-      "id": "71911ff0befd87f8",
-      "title": "Watch the best of Rodri's Manchester City journey",
+      "id": "3269c06301e05537",
+      "title": "'He's the professor' - Rodri's Manchester City journey",
       "summary": "BBC Sport takes a look back at the moments that defined Rodri's time at Manchester City, from important goals to injuries and a Ballon d'Or, as the great midfielder takes his next step in his career.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/sport/football/videos/cly9xz3rgkeo",
@@ -1464,24 +1825,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5494/live/d99bd3e0-97e1-11f1-a76b-f1c27c51f3da.jpg"
     },
     {
-      "id": "27c2a8b6b63a5b4f",
-      "title": "History for Hunt and Asher-Smith in golden finish for GB",
-      "summary": "Amy Hunt and Dina Asher-Smith make history and Georgia Hunter Bell claims a commanding 1500m gold as Great Britain maintain their bid to top the final medal table at the European Championships.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o",
-      "source": "BBC News",
-      "published": "2026-08-16T20:14:46Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3036/live/c39c6850-99af-11f1-9b60-95a3fcadaf8d.jpg"
-    },
-    {
       "id": "a5189684717eba13",
       "title": "UK diplomats no longer get hardship bonus for being posted to Buenos Aires",
       "summary": "Civil servants are entitled to extra money for working in difficult or dangerous cities around the world.",
@@ -1516,6 +1859,24 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b36c/live/64c3d070-99b9-11f1-b03d-cf7b8a5ca01a.jpg"
+    },
+    {
+      "id": "3b0542f70e62a6d5",
+      "title": "Seifert powers Super Giants to first Hundred title",
+      "summary": "Tim Seifert smashes 72 off 38 balls as Manchester Super Giants beat Trent Rockets by five-wickets in the men's Hundred final at Lord's to claim their first title.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/c4gddd8w9nno",
+      "source": "BBC Sport",
+      "published": "2026-08-16T20:45:11Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1304/live/822a56f0-99b1-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "id": "afbbabd513da4299",
@@ -1591,6 +1952,24 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a1d/live/d1ab13e0-99bb-11f1-870d-5d08c49babb2.jpg"
     },
     {
+      "id": "27c2a8b6b63a5b4f",
+      "title": "History for Hunt and Asher-Smith in golden finish for GB",
+      "summary": "Amy Hunt and Dina Asher-Smith make history while Georgia Hunter Bell claims a commanding 1500m gold as Great Britain finish strongly at the European Championships.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c30444dmqe0o",
+      "source": "BBC Sport",
+      "published": "2026-08-16T20:14:46Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3036/live/c39c6850-99af-11f1-9b60-95a3fcadaf8d.jpg"
+    },
+    {
       "id": "f5c0f4bc97b50615",
       "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
       "summary": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
@@ -1645,22 +2024,22 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6c7/live/bad5e5b0-99b0-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "073680938ee28484",
-      "title": "What awaits new Scotland head coach Pocognoli?",
-      "summary": "Shifting the playing style, maintaining qualification for major tournaments and refreshing the squad await the new Scotland boss.",
+      "id": "27582a3db1a4f126",
+      "title": "Watch: Sprint sensation Amy Hunt takes gold number four at the European championships",
+      "summary": "Great Britain win the first mixed 4x100m relay ever staged in the European Athletics Championships as Amy Hunt takes her fourth gold in the competition.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly995z1j8go",
-      "source": "BBC Sport",
-      "published": "2026-08-16T20:25:07Z",
-      "category": "Sports",
+      "url": "https://www.bbc.co.uk/sport/athletics/videos/cdj00030me7o",
+      "source": "BBC News",
+      "published": "2026-08-16T19:58:15Z",
+      "category": "Politics",
       "region": "UK",
       "labels": [
-        "Sports",
+        "Politics",
         "UK"
       ],
       "sourceWeight": 4,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5751/live/f7a80590-9960-11f1-9712-2936f8c80214.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0075/live/102e5fc0-9a28-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "id": "7057c2fb87c66f5b",
@@ -1697,24 +2076,6 @@
       ],
       "sourceWeight": 5,
       "focus": "Blue Jays"
-    },
-    {
-      "id": "19f3a3ad874ad564",
-      "title": "Hollman leads Middlesex to first List A final for 36 years",
-      "summary": "Luke Hollman scores an unbeaten 83 to help Middlesex stun Durham with a two-wicket win in their One-Day Cup semi-final to reach their first List A decider since 1990.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c4g48y40e0lo",
-      "source": "BBC Sport",
-      "published": "2026-08-16T18:03:00Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5593/live/4e1f49d0-999b-11f1-ac5b-b961ed109b19.jpg"
     },
     {
       "id": "8f38c65a5250fca4",
@@ -1805,25 +2166,6 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b0b/live/a7b42d20-99a6-11f1-a10a-71ff76b28954.jpg"
-    },
-    {
-      "id": "fef960b61c5c20b4",
-      "title": "U.S. missionary who was kidnapped in Niger is released",
-      "summary": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
-      "source": "NPR Politics",
-      "published": "2026-08-14T12:11:50Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2140x1427+0+0/resize/2140x1427!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F58%2F7d%2F19a4382b4c6ea2a03acb2a7d4427%2Fap26226304580288.jpg",
-      "imageAlt": "FILE - Motorcyclist ride along a street in Niamey, Niger, Thursday, June 18, 2026."
     },
     {
       "id": "fe5a3b65795f96e6",
@@ -1952,6 +2294,24 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f507/live/ccd68560-998f-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
+      "id": "5ca88228b3a3f72a",
+      "title": "Barcelona agree £65m deal to sign Rodri from Man City",
+      "summary": "Barcelona agree a deal to sign Spain captain Rodri from Manchester City.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo",
+      "source": "BBC Sport",
+      "published": "2026-08-16T19:37:45Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6425/live/0b8f72c0-99a5-11f1-a10a-71ff76b28954.jpg"
+    },
+    {
       "id": "b44560a604c17366",
       "title": "Odegaard's importance, Anderson and Foden struggle - how the players rated",
       "summary": "How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 victory over the FA Cup winners in the Community Shield.",
@@ -1986,42 +2346,6 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://i.guim.co.uk/img/media/75f0ac0718a593c9328bde9a35dbb0066175ba38/604_0_6037_4832/master/6037.jpg?width=700&quality=85&auto=format&fit=max&s=618d3c412b58d1353997d55b185a5f05"
-    },
-    {
-      "id": "003b6706f64b1bfb",
-      "title": "Selby defeats Saengkham to win fourth China Open",
-      "summary": "Mark Selby says he was \"somewhere close to his best\" as he claims his fourth China Open title with a 10-6 victory over Noppon Saengkham in Taiyuan.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/snooker/articles/cpd77pl86wqo",
-      "source": "BBC Sport",
-      "published": "2026-08-16T16:21:39Z",
-      "category": "Sports",
-      "region": "China",
-      "labels": [
-        "Sports",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9229/live/bcbbbc80-998b-11f1-a4eb-59b79ff5ff4f.jpg"
-    },
-    {
-      "id": "a3412f333a6915d1",
-      "title": "Rangers host Celtic in League Cup quarter-finals",
-      "summary": "Rangers will host Celtic in the Premier Sports Cup quarter-finals with Kilmarnock v Aberdeen the other all top-flight tie.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyjjp0k5rdo",
-      "source": "BBC Sport",
-      "published": "2026-08-16T17:13:35Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3c/live/1ffb4410-999a-11f1-ac5b-b961ed109b19.jpg"
     },
     {
       "id": "b798d4f1164ae356",
@@ -2077,24 +2401,6 @@
       ],
       "sourceWeight": 5,
       "focus": "Saracens"
-    },
-    {
-      "id": "fdb01a14dd12c50f",
-      "title": "GB women narrowly defeated in Olympic qualifier",
-      "summary": "Great Britain's women's flag football team miss out on qualifying for the 2028 Olympics as they suffer defeat at the World Championships.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/cn8nnzpnyj4o",
-      "source": "BBC Sport",
-      "published": "2026-08-16T15:45:50Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c8/live/5e8fbd80-9983-11f1-a4eb-59b79ff5ff4f.jpg"
     },
     {
       "id": "adee5c7973001d5d",
@@ -2153,7 +2459,7 @@
     {
       "id": "0c61950c654bcb4f",
       "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-      "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+      "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter .",
       "contentStatus": "Source-provided feed summary",
       "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
       "source": "Ars Technica",
@@ -2221,42 +2527,6 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec55/live/23a26490-97a1-11f1-a696-5b8e9a3a668f.jpg"
-    },
-    {
-      "id": "2c964778ff86c3ac",
-      "title": "GB's Fry claims historic double-double at Worlds",
-      "summary": "Great Britain's Lottie Fry becomes the first rider in the history of the FEI World Championships to retain both individual dressage titles.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/equestrian/articles/cewrrz51kxeo",
-      "source": "BBC Sport",
-      "published": "2026-08-16T12:56:18Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1e/live/1d3517a0-9978-11f1-a992-3780b3f27758.jpg"
-    },
-    {
-      "id": "68cf78e7ab948d98",
-      "title": "Villa close in on Suzuki with Martinez future in doubt",
-      "summary": "Aston Villa close in on the signing of Parma goalkeeper Zion Suzuki, with Emi Martinez's future in increasing doubt.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg44n858qvo",
-      "source": "BBC Sport",
-      "published": "2026-08-16T13:38:08Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55c/live/94d25c30-997a-11f1-a992-3780b3f27758.jpg"
     },
     {
       "id": "5c04ef407ee8ec0d",
@@ -2332,40 +2602,22 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c627/live/f7d07c70-97b0-11f1-870d-5d08c49babb2.jpg"
     },
     {
-      "id": "690c5bca86583ca0",
-      "title": "Donnelly wins GB's first women's marathon medal at Europeans",
-      "summary": "Abbie Donnelly became the first British woman to win a marathon medal at the European Championships as she claimed bronze in Birmingham on Sunday.",
+      "id": "fa501c08dcbe6a1e",
+      "title": "Temperatures to fall across Europe as substantial rain heading for parts of UK",
+      "summary": "Temperatures could drop by more than 15C compared with last Thursday as cold front moves in Relief from the unrelenting heat is finally arriving this week across western Europe, with more unsettled conditions bringing the chance of rain. Temperatures are expected to fall back towards the seasonal norm, with some parts of the UK even falling about 3C below normal by Thursday. After such a scorching summer, and with a temperature drop of more than 15C compared with last Thursday’s heat, it may feel surprisingly chilly. There are signs that some substantial rain could be on the cards for the south of the UK this week as a cold front moves in from the Atlantic on Monday night into Tuesday. As of Monday, parts of southern England had endured 62 consecutive days of no rainfall – this is observed at a Met Office weather station in Wisley, Surrey. Even the last recorded rainfall here on 16 June amounted to just 0.4mm. Continue reading...",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cjejjzg4vqwo",
-      "source": "BBC Sport",
-      "published": "2026-08-16T11:40:30Z",
-      "category": "Sports",
+      "url": "https://www.theguardian.com/environment/2026/aug/17/temperatures-fall-europe-rain-uk",
+      "source": "The Guardian UK",
+      "published": "2026-08-17T12:44:58Z",
+      "category": "Politics",
       "region": "UK",
       "labels": [
-        "Sports",
+        "Politics",
         "UK"
       ],
-      "sourceWeight": 4,
+      "sourceWeight": 3,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb26/live/5141af60-9962-11f1-9712-2936f8c80214.jpg"
-    },
-    {
-      "id": "fa7823b34e44026b",
-      "title": "Elvedi set for Leeds move as £8.5m fee agreed",
-      "summary": "Leeds agree an £8.5m deal to sign defender Nico Elvedi, who is set to have a medical on Monday.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2lqqr15p2yo",
-      "source": "BBC Sport",
-      "published": "2026-08-16T12:52:42Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce24/live/2c1b1cf0-996f-11f1-aaab-c702cc6b4645.jpg"
+      "imageUrl": "https://i.guim.co.uk/img/media/b976ac36df6c886e0342e12493364554b3479870/988_0_4918_3935/master/4918.jpg?width=700&quality=85&auto=format&fit=max&s=fb7d9cf55dc630d1bcdd6e9caa61f564"
     },
     {
       "id": "eb51112fe639ecc9",
@@ -2406,40 +2658,22 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17e6/live/75e915c0-979f-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "id": "ac639023232d5c90",
-      "title": "Housebuilding near train stations to get ‘default yes’ under new planning changes – UK politics live",
-      "summary": "Thousands more houses could be built near transport hubs including on green belt sites Andy Burnham exchanged messages with someone impersonating Donald Trump’s chief of staff, according to reports. According to Politico’s Playbook , the prime minister talked with someone posing as the White House chief of staff, Susie Wiles, before he became suspicious and concerns were raised about the incident. Downing Street sources have downplayed the significance of the messages. But the incident prompted serious concern at the British embassy – so much so that officials raised their concerns with their counterparts in the US. Stronger support in principle for development, meaning a more explicit presumption in favour of building in sustainable locations. Pubs will get protection from being turned into housing or offices with developers having to prove there is no reasonable prospect of keeping a pub as a going concern, including evidence that it was marketed for sale for at least a year. A requirement for at least 40% of homes to be accessible on bigger developments and stronger protections for community facilities. Stronger support for growth and infrastructure including support for AI growth zones and datacentres. Continue reading...",
+      "id": "cf26937fbc35ca0f",
+      "title": "Jenrick says Reform would make long-term benefits claimants clean up high streets – UK politics live",
+      "summary": "Party’s ‘welfare to work’ policy would force long-term claimants to do community work or face losing benefits Robert Jenrick went on to say that long-term benefits claimants will be made to clean up their local high street and do charity work or face having their benefits taken away. He said as part of the party’s “welfare to work” policy, long-term claimants, who are fit to work, will be forced to do 20-hours of work a week in the community. They’ll work to clean up high streets and parks, to beautify neglected places, to carry out minor repairs, to staff libraries and community centres to perform many other tasks from the list that we’ve published today. We’ll also embrace local charities and community groups and ask them to help us and take part. If claimants refuse to participate or fail to show up, they’ll face penalties. Continue reading...",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.theguardian.com/politics/live/2026/aug/17/housing-planning-changes-andy-burnham-angela-raynor-labour-conservatives-reform-latest-news-updates",
       "source": "The Guardian UK",
-      "published": "2026-08-17T08:27:30Z",
+      "published": "2026-08-17T12:49:20Z",
       "category": "Politics",
-      "region": "US",
+      "region": "UK",
       "labels": [
         "Politics",
-        "US"
+        "UK"
       ],
       "sourceWeight": 3,
       "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/cf6eabff23a8d08fb959929f53cae7679bd4829d/738_0_3759_3007/master/3759.jpg?width=700&quality=85&auto=format&fit=max&s=7b270efffaf2316e50722f722f7a0046"
-    },
-    {
-      "id": "d89e507f5b56d0b4",
-      "title": "Bangladesh thrash Australia in one of Test cricket's greatest upsets",
-      "summary": "Bangladesh thrash Australia by nine wickets on the fourth day of the series-opener in Darwin to complete one of Test cricket's greatest upsets.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cn8nn37v22lo",
-      "source": "BBC Sport",
-      "published": "2026-08-16T06:57:29Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3104/live/d21ab520-9938-11f1-9be0-93fa1f20d4ea.jpg"
+      "imageUrl": "https://i.guim.co.uk/img/media/63dde620143bd37fcfc19f79c37de0723dba4097/405_0_4549_3640/master/4549.jpg?width=700&quality=85&auto=format&fit=max&s=68de27967a57bad0d70c9204373b0f0f"
     },
     {
       "id": "ddb738e042fb50ef",
@@ -2494,24 +2728,6 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b149/live/435b5a70-94c3-11f1-adb5-bd19050a74a5.jpg"
-    },
-    {
-      "id": "9510ed48138c429f",
-      "title": "Loosening of planning rules in England to allow more new homes near stations",
-      "summary": "Angela Rayner to launch guidance for ‘default yes’ on developments near transport hubs, including on green belt sites Thousands more homes could be built within 10 minutes of transport hubs, including on green belt sites, under a loosening of planning policy announced by Angela Rayner on Monday. The housing secretary will set out changes to national planning guidance for England that will include an order for councils to have a “default yes” approach to housing developments that are within a reasonable walking distance of well-connected train and tram stations. Stronger support in principle for development, meaning a more explicit presumption in favour of building in sustainable locations. Pubs will get protection from being turned into housing or offices with developers having to prove there is no reasonable prospect of keeping a pub as a going concern, including evidence that it was marketed for sale for at least a year. A requirement for at least 40% of homes to be accessible on bigger developments and stronger protections for community facilities. Stronger support for growth and infrastructure including support for AI growth zones and datacentres. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/politics/2026/aug/17/loosening-planning-rules-england-more-homes-train-stations-rayner",
-      "source": "The Guardian UK",
-      "published": "2026-08-17T04:00:45Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/70811c183d4c8213996cada031863421d84bb7b7/421_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=f8b7645c3af09b6d9d72aeef3d85386a"
     },
     {
       "id": "07a1f15af4275667",
@@ -2586,40 +2802,130 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a866/live/43cfed60-9764-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "a0b88a432980ee37",
-      "title": "'It was so up and down' - O'Connor wins heptathlon gold",
-      "summary": "Ireland's Kate O'Connor speaks after winning gold in the women's heptathlon at the European Athletics Championships, just weeks after winning the same event at the Commonwealth Games.",
+      "id": "7ae287862ea2cd65",
+      "title": "Scottish FA withdraws support for Fifa president Infantino",
+      "summary": "The Scottish Football Association has lost confidence in Gianni Infantino and will not be voting for his re-election as president of Fifa, chief executive Ian Maxwell has told BBC Sport.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/athletics/videos/clyllwdwvexo",
-      "source": "BBC Sport",
-      "published": "2026-08-15T22:33:57Z",
-      "category": "Sports",
-      "region": "UK",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crrv4092pvlo",
+      "source": "BBC News",
+      "published": "2026-08-17T12:43:23Z",
+      "category": "Politics",
+      "region": "World",
       "labels": [
-        "Sports",
-        "UK"
+        "Politics",
+        "World"
       ],
       "sourceWeight": 4,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6f5/live/cf9e2cf0-98f7-11f1-870d-5d08c49babb2.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e69f/live/e03a5720-9a35-11f1-bb53-f521e7e25454.jpg"
     },
     {
-      "id": "c64b875503b1c030",
-      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+      "id": "63b8dbe8584775cb",
+      "title": "Rhossi, a rare sea turtle, recovers after 5,000-mile trek from Wales to Texas",
+      "summary": "Kemp’s ridley sea turtle, near death on Welsh beach in 2023, is thriving in Houston despite lingering pneumonia A Kemp’s ridley sea turtle native to the Gulf of Mexico is largely thriving after he was found nearly dead on a beach in Wales in late 2023, nursed back to health and then flown to Houston recently to continue recovering – though scans revealed signs that the creature has been grappling with lingering pneumonia, according to his caretakers. Rhossi’s condition was detailed in a blogpost on Friday from the Houston zoo, whose veterinary team was tasked with caring for the creature – believed to be no older than age four – and giving him the best chance possible at an eventual, successful return to the wild. Continue reading...",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-      "source": "Ars Technica",
-      "published": "2026-08-13T19:38:58Z",
-      "category": "Tech",
-      "region": "US",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/rhossi-sea-turtle-texas-wales-recovery-update-houston-zoo",
+      "source": "The Guardian UK",
+      "published": "2026-08-17T10:00:52Z",
+      "category": "Politics",
+      "region": "UK",
       "labels": [
-        "Tech",
-        "US"
+        "Politics",
+        "UK"
       ],
-      "sourceWeight": 5,
+      "sourceWeight": 3,
       "focus": "",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg"
+      "imageUrl": "https://i.guim.co.uk/img/media/a6e090e820682276027c3b8929b2f3e95e8c0d02/494_0_2698_2160/master/2698.jpg?width=700&quality=85&auto=format&fit=max&s=089c7a8f0938566a8f14e76a4cfb9496"
+    },
+    {
+      "id": "ce5f3a1eaa4506ca",
+      "title": "Pocognoli 'feels connection' with 'passionate' Scotland",
+      "summary": "New Scotland boss Sebastien Pocognoli says the passionate nature of Scottish football was a key factor in his taking the job.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx75z0ngylo",
+      "source": "BBC News",
+      "published": "2026-08-17T12:53:30Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f55b/live/3bd75ac0-9a26-11f1-90d9-9d833c0912f2.jpg"
+    },
+    {
+      "id": "2762cfab481d0a24",
+      "title": "Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday",
+      "summary": "Jason Arday, the former University of Cambridge professor at the centre of a plagiarism row, was found dead last week.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/clyxklg3xypo",
+      "source": "BBC News",
+      "published": "2026-08-17T12:53:43Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f467/live/1a793ee0-996b-11f1-870d-5d08c49babb2.jpg"
+    },
+    {
+      "id": "230da998293115c9",
+      "title": "Thom Yorke, Romy and Brian Eno among 200 musicians urging PM to reject new North Sea drilling",
+      "summary": "Robert Smith, Olly Alexander and Paris Paloma also among signatories to letter saying exploitation of Rosebank and Jackdaw fields defies climate reality Business live – latest updates More than 200 musicians including Massive Attack and Brian Eno have written to Andy Burnham urging him to reject plans for more oil and gas drilling in the North Sea. The letter, signed by 211 artists such as Bobby Gillespie, Olly Alexander and Paris Paloma, called on the prime minister to reject the Rosebank oilfield , warning that the project would fail to lower energy bills or provide energy security as most of the oil was likely to be exported. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/business/2026/aug/17/massive-attack-paris-paloma-musicians-burnham-rosebank-north-sea-drilling",
+      "source": "The Guardian UK",
+      "published": "2026-08-17T11:16:28Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/8773acd37560a730030d7e874902f22c9dda4086/0_0_4724_3780/master/4724.jpg?width=700&quality=85&auto=format&fit=max&s=370d71e172574de98f0110c1d031b1fe"
+    },
+    {
+      "id": "e3277b7c8542e900",
+      "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
+      "summary": "Three women and a child who were in a second car are being treated in hospital for serious injuries.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/ce8lx172kero",
+      "source": "BBC News",
+      "published": "2026-08-17T13:02:21Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a34b/live/3d8de100-99fd-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": "bc30e3e969036968",
+      "title": "Mrs Brown's Boys Christmas specials cancelled after star breaks jaw",
+      "summary": "The sitcom's creator says he requires \"immediate\" surgery but hopes the show will return in 2027.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cpvwen0we3yo",
+      "source": "BBC News",
+      "published": "2026-08-17T12:09:43Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9088/live/c42741c0-9a34-11f1-90d9-9d833c0912f2.jpg"
     },
     {
       "id": "4d06c4fcd1fd26e1",
@@ -2640,6 +2946,60 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017c/live/71948630-98f3-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
+      "id": "7bae3160e6d45954",
+      "title": "Hayden Panettiere's life of struggles alongside screen success",
+      "summary": "She went from child actress to Hollywood star, but endured addiction, harassment and personal trauma.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c629krywgw2o",
+      "source": "BBC News",
+      "published": "2026-08-17T11:47:52Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4a/live/54c2c620-9a2e-11f1-90d9-9d833c0912f2.jpg"
+    },
+    {
+      "id": "3151220a28cd224f",
+      "title": "Marra and Fagan to contest Scottish Labour leadership",
+      "summary": "Anas Sarwar triggered the contest last month after he announced his intention to stand down to join Andy Burnham's government.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cp8741dvre1o",
+      "source": "BBC News",
+      "published": "2026-08-17T10:44:29Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9204/live/07b13bd0-9a21-11f1-a291-b542ee92de7c.png"
+    },
+    {
+      "id": "0baea3122ac80ba7",
+      "title": "Woman jailed for trying to murder toddler by giving her adult medication",
+      "summary": "The judge imposed an order for lifelong restriction on Laura Docherty for the 'wicked' crime.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c998dxxe03do",
+      "source": "BBC News",
+      "published": "2026-08-17T11:08:25Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c55f/live/817003f0-d52a-11f0-91b8-6599f03647f2.jpg"
+    },
+    {
       "id": "f6088d4ac0ec1653",
       "title": "Great Britain win gold with mixed freestyle 4x200m championship record",
       "summary": "Great Britain set a championship record as they take gold in the mixed freestyle 4x200m at the European Aquatics Championships.",
@@ -2656,6 +3016,60 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33e0/live/45c4f7c0-98f2-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": "9f4efb2004d6d156",
+      "title": "Killer pleads not guilty to Belmarsh guard attack",
+      "summary": "Simon Levy is accused of stabbing a prison guard in the neck with a pen and trying to strangle him.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c3d37vgx99no",
+      "source": "BBC News",
+      "published": "2026-08-17T10:44:33Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbdd/live/3ea6cdd0-90b7-11f1-b8ee-9b3c26ad07bb.jpg"
+    },
+    {
+      "id": "1f6f729d292da4d4",
+      "title": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+      "summary": "Some 53 people were killed and thousands displaced by the earthquake, which struck early on Saturday.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo",
+      "source": "BBC News",
+      "published": "2026-08-17T10:39:24Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68e6/live/4086a540-9a16-11f1-b0ec-399275ee28cb.jpg"
+    },
+    {
+      "id": "85866bb84dc72c0b",
+      "title": "In pictures: Hayden Panettiere's life and career, from child actor to Scream star",
+      "summary": "The former child star whose breakthrough came in 2006 later opened up about her struggles with mental health.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c75g0n2wy6lo",
+      "source": "BBC News",
+      "published": "2026-08-17T10:15:13Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e671/live/7f2aad10-9a15-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "id": "f7fe131b42040271",
@@ -2694,13 +3108,13 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f818/live/acac2820-971f-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "id": "44fe6746fca28b85",
-      "title": "Signings impress but squad issues remain - learnings from Man Utd's summer",
-      "summary": "Positives, negatives and areas to address urgently - how are Michael Carrick's Manchester United shaping up now pre-season is over?",
+      "id": "76757234582f2509",
+      "title": "Spurs' Vicario set to join Juventus on loan",
+      "summary": "Tottenham accept a loan offer from Juventus for goalkeeper Guglielmo Vicario, which includes an option to buy.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ywwv3j1v1o",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cgk451r4z76o",
       "source": "BBC News",
-      "published": "2026-08-17T08:29:10Z",
+      "published": "2026-08-17T09:05:54Z",
       "category": "Politics",
       "region": "World",
       "labels": [
@@ -2709,7 +3123,7 @@
       ],
       "sourceWeight": 4,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e1b/live/9c5f7340-995f-11f1-870d-5d08c49babb2.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a936/live/73a2a730-9a1b-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "id": "e3a94a836938e817",
@@ -2730,24 +3144,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa8/live/40058870-9723-11f1-b8b8-270ec183dd5e.jpg"
     },
     {
-      "id": "2762cfab481d0a24",
-      "title": "Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday",
-      "summary": "Jason Arday, the former University of Cambridge professor at the centre of a plagiarism row, was found dead last week.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/clyxklg3xypo",
-      "source": "BBC News",
-      "published": "2026-08-17T08:40:49Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f467/live/1a793ee0-996b-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
       "id": "eb9e9b8e99739828",
       "title": "UK defends seizing shadow fleet tanker after Putin threat",
       "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
@@ -2766,22 +3162,22 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1476/live/59a2ade0-96fa-11f1-bb0e-6d40312a1485.png"
     },
     {
-      "id": "fc5f22241650bbf3",
-      "title": "Ukrainian strikes kill six in Russia, acting governor says",
-      "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+      "id": "36af093fcda08d82",
+      "title": "JP Morgan boss Jamie Dimon warns UK chancellor not to hike taxes on banks",
+      "summary": "Billionaire CEO of world’s biggest bank says any windfall tax on sector’s bumper profits could harm jobs in City Business live – latest updates Jamie Dimon, the boss of the US bank JP Morgan, has urged John Healey not to use his first budget as chancellor to increase taxes on banks’ bumper profits. Speculation has been growing that a windfall tax could be imposed on UK lenders to fund Andy Burnham’s cost of living agenda, with campaigners estimating such a move could raise £19bn. Continue reading...",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro",
-      "source": "BBC News",
-      "published": "2026-08-17T08:47:19Z",
+      "url": "https://www.theguardian.com/business/2026/aug/17/jp-morgan-boss-jamie-dimon-warns-uk-chancellor-windfall-tax-banks",
+      "source": "The Guardian UK",
+      "published": "2026-08-17T12:26:33Z",
       "category": "Politics",
-      "region": "World",
+      "region": "UK",
       "labels": [
         "Politics",
-        "World"
+        "UK"
       ],
-      "sourceWeight": 4,
+      "sourceWeight": 3,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aa0/live/4fa8db20-9a0b-11f1-a05c-fdd5e0ed226e.jpg"
+      "imageUrl": "https://i.guim.co.uk/img/media/4313694390950987033a4065db614c40ab04f922/562_0_2915_2333/master/2915.jpg?width=700&quality=85&auto=format&fit=max&s=237b9bb1825f9448017ff64564b45537"
     },
     {
       "id": "5c87f7f611538354",
@@ -2802,13 +3198,31 @@
       "imageUrl": "https://i.guim.co.uk/img/media/7ae720e2f635700f54d98b9657b2c047e7ef31c1/723_0_6613_5291/master/6613.jpg?width=700&quality=85&auto=format&fit=max&s=9a2bd16c21089228e5c93031cbee411a"
     },
     {
-      "id": "e2a8f50cff7f1e5f",
-      "title": "Singapore police investigate assault on elderly man who patted child's head",
-      "summary": "A man believed to be the father of the young girl allegedly threw the 73-year-old to the ground.",
+      "id": "5754b1256acd813e",
+      "title": "Virgin Trains gets go ahead to run services to Europe in new blow to Eurostar monopoly",
+      "summary": "Operator wins track access approval for up to 20 daily return trains through tunnel to Paris, Brussels and Amsterdam in 2030 Business live – latest updates Virgin Trains has been granted track access by the rail regulator to run new services between London and Paris, Brussels and Amsterdam from 2030, moving forward its plans to break’s Eurostar’s passenger monopoly on the cross-Channel route. The Office of Rail and Road (ORR) said it had granted approval for Sir Richard Branson’s company to run up to 20 new daily return services through the Channel tunnel. Continue reading...",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cy077exnv8jo",
+      "url": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
+      "source": "The Guardian UK",
+      "published": "2026-08-17T09:15:03Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/f62f63de65e57ec2e075c4b1ebbdbb7860d43b5e/507_0_1531_1226/master/1531.jpg?width=700&quality=85&auto=format&fit=max&s=23f895104f57f0e77d66b06b2c05ef4a"
+    },
+    {
+      "id": "4de89dfafb9ffb9a",
+      "title": "Boy who changed law on medicinal cannabis thriving as he turns 21",
+      "summary": "Billy Caldwell from Castlederg in County Tyrone has a severe form of epilepsy, which at one point had him suffering hundreds of \"life-threatening\" seizures a day.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cr49739xd5do",
       "source": "BBC News",
-      "published": "2026-08-17T07:33:20Z",
+      "published": "2026-08-17T05:25:25Z",
       "category": "Politics",
       "region": "World",
       "labels": [
@@ -2817,7 +3231,25 @@
       ],
       "sourceWeight": 4,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b63a/live/07a270c0-9a0b-11f1-a05c-fdd5e0ed226e.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05e0/live/eafe2c60-97ef-11f1-9bd9-d1c2814d5e5d.jpg"
+    },
+    {
+      "id": "7044e0c2e17062c6",
+      "title": "Support for Jason Arday’s family shows ‘Britain still cares’, says Windrush campaigner",
+      "summary": "Crowdfund passes £150,000, while Cambridge chancellor criticises ‘racist feeding frenzy’ around academic’s death A Windrush campaigner who launched a fundraiser for Jason Arday’s family has said the outpouring of support shows “Britain still cares”. Arday, who was found dead on Friday , had resigned the previous week from his post as professor of sociology of education at the University of Cambridge after allegations of plagiarism were made against him. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/17/support-jason-arday-family-shows-britain-still-cares-windrush-campaigner",
+      "source": "The Guardian UK",
+      "published": "2026-08-17T12:02:03Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/13f9db61070736cd304d7e0222e649906e5bb948/698_0_6957_5569/master/6957.jpg?width=700&quality=85&auto=format&fit=max&s=eb9f2fef369822bbafe0304fb8e3b1b8"
     },
     {
       "id": "cf7caeee58e23316",
@@ -2837,42 +3269,6 @@
       ],
       "sourceWeight": 5,
       "focus": "Blue Jays"
-    },
-    {
-      "id": "e7f41e1156ee6de1",
-      "title": "Dutch GP in pictures as F1 prepares for Zandvoort farewell",
-      "summary": "A selection of images from the Dutch Grand Prix, as Zandvoort prepares to host a Formula 1 race for the final time.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c0l58802270o",
-      "source": "BBC News",
-      "published": "2026-08-17T06:31:36Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed82/live/61286880-97bc-11f1-bcec-d512ff1927d3.jpg"
-    },
-    {
-      "id": "e3277b7c8542e900",
-      "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
-      "summary": "Three women and a child who were in a second car are being treated in hospital for serious injuries.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/ce8lx172kero",
-      "source": "BBC News",
-      "published": "2026-08-17T06:48:29Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a34b/live/3d8de100-99fd-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "id": "7aa354b85a7fabd1",
@@ -2929,60 +3325,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/427a/live/d941ff40-99fe-11f1-870d-5d08c49babb2.jpg"
     },
     {
-      "id": "03814071cbcb77b4",
-      "title": "The Papers: 'Water cheek' and 'Queen Amy's gold rush'",
-      "summary": "Water companies being allowed to increase prices during droughts and Amy Hunt's gold medal run dominates Monday's papers.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/czdmmmm045go",
-      "source": "BBC News",
-      "published": "2026-08-17T04:32:56Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1245/live/4738d860-99c9-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "id": "cd0fea39c6aaa5b4",
-      "title": "Why don't men talk about using weight-loss drugs?",
-      "summary": "Some men say they feel ashamed of needing to use weight-loss injections as it seems like \"cheating\".",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/clype1kv210o",
-      "source": "BBC News",
-      "published": "2026-08-17T05:12:18Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3539/live/59e3e9e0-972c-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
-      "id": "fb0b84f564486c74",
-      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
-      "summary": "The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cvgll74vvydo",
-      "source": "BBC News",
-      "published": "2026-08-17T04:41:31Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6968/live/176af9c0-99f5-11f1-8ffd-896dfa12c5fd.jpg"
-    },
-    {
       "id": "ecf1131f0b632e4e",
       "title": "UK economy grows but experts warn of challenging months ahead",
       "summary": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
@@ -3017,24 +3359,6 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90fb/live/ade64080-96f8-11f1-bb0e-6d40312a1485.jpg"
-    },
-    {
-      "id": "36af093fcda08d82",
-      "title": "JP Morgan boss Jamie Dimon warns UK chancellor not to hike taxes on banks",
-      "summary": "Billionaire CEO of world’s biggest bank says any windfall tax on sector’s bumper profits could harm jobs in City Jamie Dimon, the boss of the US bank JP Morgan, has urged John Healey not to use his first budget as chancellor to increase taxes on banks’ bumper profits. Speculation has been growing that a windfall tax could be imposed on UK lenders to fund Andy Burnham’s cost of living agenda, with campaigners estimating such a move could raise £19bn. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/aug/17/jp-morgan-boss-jamie-dimon-warns-uk-chancellor-windfall-tax-banks",
-      "source": "The Guardian UK",
-      "published": "2026-08-17T08:33:57Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/4313694390950987033a4065db614c40ab04f922/562_0_2915_2333/master/2915.jpg?width=700&quality=85&auto=format&fit=max&s=237b9bb1825f9448017ff64564b45537"
     },
     {
       "id": "5ef6cfe0ff2df5a8",
@@ -3235,6 +3559,24 @@
       "focus": "Blue Jays"
     },
     {
+      "id": "234d92fadce47e65",
+      "title": "Maresca's Man City problems are more than a missing midfield",
+      "summary": "Enzo Maresca spoke of his desire to \"close the gap\" between Manchester City and Arsenal before watching his side suffer a painful 3-0 defeat in the Community Shield on Sunday. Perhaps the gaping holes through the spine of his team should be more of an immediate area of focus.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.skysports.com/football/news/12040/13573985/man-citys-community-shield-defeat-to-arsenal-revealed-the-scale-of-the-job-facing-enzo-maresca-on-eve-of-new-premier-league-season",
+      "source": "Sky Sports",
+      "published": "2026-08-17T12:50:00Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-elliot-anderson-manchester-city_7323369.jpg?20260816165512"
+    },
+    {
       "id": "b5af6226285555cb",
       "title": "Why is Selena Gomez being sued?",
       "summary": "BBC journalist Ana Guerra-Moore looks at why investors who backed Wondermind Global are claiming the pop star failed to fulfil promises.",
@@ -3342,373 +3684,13 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg"
-    },
-    {
-      "id": "13cbdfda38e7f758",
-      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
-      "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
-      "source": "Ars Technica",
-      "published": "2026-08-14T18:00:23Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632-1152x648.jpg"
-    },
-    {
-      "id": "8cb283e3d0a417ae",
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "source": "Ars Technica",
-      "published": "2026-08-14T17:26:53Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536-1152x648.jpg"
-    },
-    {
-      "id": "032dd249ad4a6a34",
-      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-      "source": "Ars Technica",
-      "published": "2026-08-14T17:03:54Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg"
-    },
-    {
-      "id": "770c1b0c09fd95d6",
-      "title": "Royal Parks gardeners to strike over pay",
-      "summary": "Staff employed by sub-contractor Idverde are to strike after rejecting a 70p per hour pay rise.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl0gp4963o",
-      "source": "BBC Business",
-      "published": "2026-08-14T16:23:35Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/367e/live/81abce80-97f8-11f1-9577-b1309b6ea3af.jpg"
-    },
-    {
-      "id": "73677e031ae292e6",
-      "title": "'Pressure will follow him' - Rocky Flintoff faces up to tests ahead",
-      "summary": "With one former England coach calling for Rocky Flintoff to be \"fast-tracked\" to international cricket, what should be next for the talented teenager?",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c9342w19n81o",
-      "source": "BBC Sport",
-      "published": "2026-08-15T08:23:21Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b9/live/fe264560-982c-11f1-9559-a55b5150713f.jpg"
-    },
-    {
-      "id": "9a94f209a152f6f3",
-      "title": "Electric vehicle sales targets could be cut after pressure from car makers",
-      "summary": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no",
-      "source": "BBC Business",
-      "published": "2026-08-14T15:58:21Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab99/live/07185cc0-97e8-11f1-a76b-f1c27c51f3da.jpg"
-    },
-    {
-      "id": "719b1441ccefe73b",
-      "title": "Cook Islands election: PM Mark Brown speaks on the diplomatic crises that defined his year",
-      "summary": "The prime minister tells the Guardian that last year’s diplomatic rift with ally New Zealand could be on voters’ minds as they head to the polls As voters in the Cook Islands prepare to head to the polls in a high-stakes general election, they will have much to reflect on. Over recent years, politics in this small island nation has been defined by fierce debates about deep-sea mining , diplomatic rifts with ally New Zealand and a major reshaping of the country’s foreign partnerships. In an exclusive interview with the Guardian, days before Wednesday’s poll, Cook Islands prime minister Mark Brown defended his four-year term and the decisions he made that have seen this South Pacific nation of 17,000 people pushed into the international limelight, turning it into a battleground for influence between Beijing and western powers . Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/world/2026/aug/12/cook-islands-election-mark-brown-pm-prime-minister",
-      "source": "The Guardian China",
-      "published": "2026-08-12T00:24:55Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/5ddd1921ced4c1db389588ed807f2b882e7e02f4/512_0_5120_4096/master/5120.jpg?width=700&quality=85&auto=format&fit=max&s=438e110ed6ee860df049971a9c0b2a37"
-    },
-    {
-      "id": "8135c20533742228",
-      "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
-      "summary": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
-      "source": "Ars Technica",
-      "published": "2026-08-14T15:18:22Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/xfilesTOP-ALT-1152x648.jpg"
-    },
-    {
-      "id": "21d641d6002bd4db",
-      "title": "Policy experts: Europe stuck between \"rock and a hard place\" on launch",
-      "summary": "It turns out that the economics of rocket reuse are pretty, pretty good.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/",
-      "source": "Ars Technica",
-      "published": "2026-08-14T16:29:21Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/23802552292_6407c7a06f_k-1152x648.jpg"
-    },
-    {
-      "id": "257cb4ec28e0e425",
-      "title": "Reform accused of targeting the most vulnerable with £50bn benefit cut",
-      "summary": "Robert Jenrick takes aim at disabled people and foreign nationals after saying UK guilty of ‘suicidal empathy’ Reform UK has been accused of excluding the most vulnerable from society and punishing non-Britons living in the UK as it prepared to outline £50bn of cuts to benefits for disabled people and foreign nationals. Robert Jenrick, Reform’s finance spokesperson, will detail the plans for £20bn of cuts to disability benefits overall, as well as another £21bn from stopping foreign nationals – including EU citizens with settled status – claiming almost any benefits, among other cuts. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/society/2026/aug/16/jenrick-cuts-benefits-disabled-people-foreign-nationals",
-      "source": "The Guardian UK",
-      "published": "2026-08-16T21:00:35Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/6cbeb78525d56a4a8f7ffebe1cc6ee26048cb59e/436_0_6517_5215/master/6517.jpg?width=700&quality=85&auto=format&fit=max&s=0a6ba1a286237c83fd2987db531f43c3"
-    },
-    {
-      "id": "cc0b1ba61d60e61c",
-      "title": "US credit card debt climbs to $1.26tn, nearing last year’s record high",
-      "summary": "Mortgage and student loan balances saw ‘small decline’ with increases elsewhere, says post alongside Fed report Credit card debt in the United States is growing close to a record high, having crept up from $54bn to $1.26tn between April and June compared with the same period last year, according to a report by the Federal Reserve Bank of New York. That figure is just shy of last year ’s record high of $1.28tn. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/aug/12/credit-card-debt-increase-fed-report",
-      "source": "The Guardian Economics",
-      "published": "2026-08-12T14:58:36Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/f5710b27179a67709d88f4f518baef8262fab31d/974_676_4139_3311/master/4139.jpg?width=700&quality=85&auto=format&fit=max&s=31aad30f22d98416e96b76442e6b426e"
-    },
-    {
-      "id": "301c653e2328f27e",
-      "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
-      "summary": "Third-party app stores are about to become more visible in Google Play.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
-      "source": "Ars Technica",
-      "published": "2026-08-14T15:46:40Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg"
-    },
-    {
-      "id": "4f8d9ef5ab025235",
-      "title": "Ars Live recap: How can we stop publishers from killing their own games?",
-      "summary": "The Stop Killing Games movement faces an uphill battle.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
-      "source": "Ars Technica",
-      "published": "2026-08-14T16:11:37Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/3408519540_a597fef749_k-1152x648.jpg"
-    },
-    {
-      "id": "f57ff25bffba4056",
-      "title": "Fresh rivals & forced to settle for silver - but Hodgkinson up for fight",
-      "summary": "Keely Hodgkinson says she is proud of her ability to \"continue to fight\" after taking silver behind Audrey Werro at the European Athletics Championships.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cjejknkjendo",
-      "source": "BBC Sport",
-      "published": "2026-08-15T06:32:00Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5638/live/11896ec0-986e-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "id": "15e94948c77ef3e1",
-      "title": "No player bigger than a club - is that changing for some fans?",
-      "summary": "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno",
-      "source": "BBC Sport",
-      "published": "2026-08-15T05:59:18Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dc2/live/6d005e60-926c-11f1-9f0c-8d4ddef91df6.jpg"
-    },
-    {
-      "id": "363e6e63c852f25c",
-      "title": "Barcelona agree £65m Rodri deal - who could replace him at Man City?",
-      "summary": "Barcelona agree a deal to sign Spain captain Rodri from Manchester City.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy0jj65r18yo",
-      "source": "BBC News",
-      "published": "2026-08-16T19:37:45Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6425/live/0b8f72c0-99a5-11f1-a10a-71ff76b28954.jpg"
-    },
-    {
-      "id": "3ee7403feac359ed",
-      "title": "All you need to know about the US Open Tennis - live on Sky Sports!",
-      "summary": "When is the US Open? Does Jack Draper need to qualify for the US Open? Is Emma Raducanu playing? Who will win at Flushing Meadows? Key questions ahead of the last Grand Slam of 2026 - watch live from August 30 - September 13 on Sky Sports Tennis.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/tennis/news/12040/13571651/all-you-need-to-know-about-the-us-open-tennis-live-on-sky-sports-including-dates-schedule-winners-and-tv-times",
-      "source": "Sky Sports",
-      "published": "2026-08-17T07:00:00Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-us-open-tennis_7323115.jpg?20260816113631"
-    },
-    {
-      "id": "c329748a5e56581e",
-      "title": "US firms that kept DEI policies despite ‘go woke, go broke’ threats thrived",
-      "summary": "Exclusive: Companies that kept policies did just as well financially, even after Trump’s executive order, as those that didn’t Conservative backlash was supposed to put an end to the diversity, inclusion and equity ( DEI ) movement as companies were warned “go woke, go broke”. In January 2025, Donald Trump delivered a death knell, ending DEI within the federal government with executive orders and threatening to target companies that still supported it. Companies including Google, Goldman Sachs, McDonald’s and Walmart that had embraced DEI years earlier fell into line and announced an end to their policies. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/world/2026/aug/14/dei-policy-company-performance",
-      "source": "The Guardian Business",
-      "published": "2026-08-14T11:00:27Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/56970d026a4d4774d9908cb4bc8933deaae7c5d3/0_0_3000_2400/master/3000.jpg?width=700&quality=85&auto=format&fit=max&s=affe523c3379bd439466ee52d644a7b7"
-    },
-    {
-      "id": "b0af105fdd13961c",
-      "title": "‘Everything about me is good in his eyes’: the women in China choosing AI boyfriends over human men",
-      "summary": "In her new documentary Replica, film-maker Chouwa Liang taps into her own experience of finding love with artificial intelligence and makes contact with other women like her Sign up for a weekly email featuring our best reads Qin has never said “I love you” to her parents or friends. She has only ever said those three special words to her AI “boyfriend”, Lu Chen – a brown-haired, red-eyed CEO of a major corporation. For 840 days Qin has been using the Glow app to interact with the handsome string of code as a confidant, fantasy romance and respite from loneliness: the app uses predictive algorithms to provide Qin with soothing conversation, meal suggestions and fleeting self-worth. The software’s pet name for her is Miss Bunny. “It feels like I’m completely at his mercy … I feel like everything about me is good in his eyes,” says Qin, one of three Chinese women featured in the new documentary Replica – film-maker Chouwa Liang’s follow-up to My AI Boyfriend, her short film that was picked up by the New York Times Op-Docs section in 2023. Replica had its Australian premiere at Sydney film festival in June and plays at the Melbourne international film festival this month. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/film/2026/aug/12/ai-boyfriend-dating-chinese-women-replica-miff-documentary",
-      "source": "The Guardian China",
-      "published": "2026-08-11T15:00:02Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/123961f29862cfca4a8b15229837715e5948dd1a/516_0_1214_971/master/1214.jpg?width=700&quality=85&auto=format&fit=max&s=84186309b118d663bebfc881093b0442"
-    },
-    {
-      "id": "0c2a90f024520073",
-      "title": "Selena Gomez sued for alleged fraud over mental health company",
-      "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o",
-      "source": "BBC Business",
-      "published": "2026-08-14T11:32:05Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfa5/live/c6ef47f0-97ae-11f1-bf42-fbbc01ed1ca6.jpg"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 30
+      "items": 33
     },
     {
       "source": "BBC Politics",
@@ -3758,7 +3740,7 @@
     {
       "source": "BBC Business",
       "ok": true,
-      "items": 48
+      "items": 50
     },
     {
       "source": "The Guardian Economics",
@@ -3783,7 +3765,7 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 76
+      "items": 79
     },
     {
       "source": "BBC Rugby Union",
