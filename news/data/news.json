@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-17T01:54:12.029038Z",
+  "generatedAt": "2026-08-17T04:57:17.912170Z",
   "topStoryIds": [
     "63ace52beef35d96",
     "925286c157a90602",
@@ -801,6 +801,26 @@
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5929131"
     },
     {
+      "id": "09d9c8f4136c62e2",
+      "title": "Ferrari's first ever electric car sold for record $40m at auction",
+      "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do",
+      "source": "BBC Business",
+      "published": "2026-08-17T02:22:04Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
       "id": "eab28fa781f4583c",
       "title": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
       "summary": "Low river levels have stalled German freight traffic and forced closure of nuclear plants in France Across Europe this scorching summer, workers have struggled in the heat as wildfires raged and critical infrastructure was shut down. Here we look at the impact of the heatwaves on several major economies across mainland Europe – with the help of analysis from economists at the Dutch bank Triodos , who estimate a total of €180bn could be wiped off EU GDP by the heatwaves. In the UK, the green thinktank Verdant said this week that the heat had already cost the economy £4.4bn by the end of July. Continue reading...",
@@ -819,26 +839,6 @@
       "imageUrl": "https://i.guim.co.uk/img/media/3d3bf221e28fe3c65050067b92a5c556dab32710/928_0_6020_4816/master/6020.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a12e238a587207d5075ddf96fe977d8",
       "imageWidth": 1200,
       "imageHeight": 630
-    },
-    {
-      "id": "09d9c8f4136c62e2",
-      "title": "Ferrari's first ever electric car sold for record $40m at auction",
-      "summary": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do",
-      "source": "BBC Business",
-      "published": "2026-08-17T01:47:33Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg",
-      "imageWidth": 1200,
-      "imageHeight": 675
     },
     {
       "id": "4efda132d4d21f1b",
@@ -1071,6 +1071,62 @@
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5930399"
     },
     {
+      "id": "87469ff3ccfd783c",
+      "title": "Changing times as Welsh blockbuster awaits",
+      "summary": "Cardiff City's Championship contest with Wrexham on Monday will attract global attention, not just the eyes of those in the north and south of Wales.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ye0qekjelo",
+      "source": "BBC Sport",
+      "published": "2026-08-17T04:15:48Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5070/live/2591c3e0-9661-11f1-b2ab-0dd01740f9f6.png"
+    },
+    {
+      "id": "9fe8cc24dc4067ae",
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "summary": "Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo",
+      "source": "BBC News",
+      "published": "2026-08-17T04:50:56Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c31f/live/48688550-99f6-11f1-b2ab-0dd01740f9f6.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "id": "0b333aaf9dbbf3be",
+      "title": "Trump says US to scale back South Korea military drills after it stayed out of Iran war",
+      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o",
+      "source": "BBC News",
+      "published": "2026-08-17T02:51:27Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg"
+    },
+    {
       "id": "ac3747717b4bb72c",
       "title": "Start of England's community rugby season postponed",
       "summary": "The Rugby Football Union delays the start of the community rugby season because of concerns about player welfare and pitch conditions affecting much of England.",
@@ -1124,24 +1180,6 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aadf/live/4233aae0-9756-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "id": "56a375dc2f78775e",
-      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o",
-      "source": "BBC News",
-      "published": "2026-08-17T00:06:05Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg"
     },
     {
       "id": "3b1b096c8da13867",
@@ -1612,24 +1650,6 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bac0/live/786e1df0-9997-11f1-870d-5d08c49babb2.jpg"
-    },
-    {
-      "id": "1e6e753e2ca49f64",
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-      "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo",
-      "source": "BBC News",
-      "published": "2026-08-16T19:58:14Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b3a/live/65ee2c30-99a4-11f1-a10a-71ff76b28954.jpg"
     },
     {
       "id": "45a48da87c639170",
@@ -2120,24 +2140,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb26/live/5141af60-9962-11f1-9712-2936f8c80214.jpg"
     },
     {
-      "id": "2048dab528b4431d",
-      "title": "Hull's £10m bid for Swansea's Vipotnik 'pathetic'",
-      "summary": "Former Swansea City forward Andy Robinson says Hull City's bid of approximately £10m for striker Zan Vipotnik falls well short of his true worth.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cnvnn2jr3ydo",
-      "source": "BBC Sport",
-      "published": "2026-08-16T11:19:43Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e342/live/3f3a9d50-9952-11f1-bb2a-85a90aa76778.jpg"
-    },
-    {
       "id": "fa7823b34e44026b",
       "title": "Elvedi set for Leeds move as £8.5m fee agreed",
       "summary": "Leeds agree an £8.5m deal to sign defender Nico Elvedi, who is set to have a medical on Monday.",
@@ -2300,6 +2302,24 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b149/live/435b5a70-94c3-11f1-adb5-bd19050a74a5.jpg"
+    },
+    {
+      "id": "9510ed48138c429f",
+      "title": "Loosening of planning rules in England to allow more new homes near stations",
+      "summary": "Angela Rayner to launch guidance for ‘default yes’ on developments near transport hubs, including on green belt sites Thousands more homes could be built within 10 minutes of transport hubs, including on green belt sites, under a loosening of planning policy announced by Angela Rayner on Monday. The housing secretary will set out changes to national planning guidance for England that will include an order for councils to have a “default yes” approach to housing developments that are within a reasonable walking distance of well-connected train and tram stations. Stronger support in principle for development, meaning a more explicit presumption in favour of building in sustainable locations. Pubs will get protection from being turned into housing or offices with developers having to prove there is no reasonable prospect of keeping a pub as a going concern, including evidence that it was marketed for sale for at least a year. A requirement for at least 40% of homes to be accessible on bigger developments and stronger protections for community facilities. Stronger support for growth and infrastructure including support for AI growth zones and datacentres. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/politics/2026/aug/17/loosening-planning-rules-england-more-homes-train-stations-rayner",
+      "source": "The Guardian UK",
+      "published": "2026-08-17T04:00:45Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/70811c183d4c8213996cada031863421d84bb7b7/421_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=f8b7645c3af09b6d9d72aeef3d85386a"
     },
     {
       "id": "07a1f15af4275667",
@@ -2609,6 +2629,42 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e9/live/4b9eef10-96ff-11f1-b72c-211ea4e0afc4.jpg"
     },
     {
+      "id": "8cee4be57b1719be",
+      "title": "Heroes actress Hayden Panettiere dies aged 36",
+      "summary": "Panettiere starred in TV shows including Heroes and Nashville along with films Remember the Titans and Raising Helen.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po",
+      "source": "BBC News",
+      "published": "2026-08-17T04:53:27Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14bb/live/a28c5570-99f1-11f1-828b-990ef72ac649.jpg"
+    },
+    {
+      "id": "03814071cbcb77b4",
+      "title": "The Papers: 'Water cheek' and 'Queen Amy's gold rush'",
+      "summary": "Water companies being allowed to increase prices during droughts and Amy Hunt's gold medal run dominates Monday's papers.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/czdmmmm045go",
+      "source": "BBC News",
+      "published": "2026-08-17T04:32:56Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1245/live/4738d860-99c9-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
       "id": "ecf1131f0b632e4e",
       "title": "UK economy grows but experts warn of challenging months ahead",
       "summary": "Hot weather and the men's football World Cup boosted the economy but the Iran war may weigh on growth",
@@ -2681,6 +2737,24 @@
       "imageUrl": "https://i.guim.co.uk/img/media/81dc64d90244308d48be1975e7eb7eaf5c2d6999/184_0_1615_1292/master/1615.jpg?width=700&quality=85&auto=format&fit=max&s=43f66d9565b715a04a81e56084ab9b3f"
     },
     {
+      "id": "34be2baaa4179e78",
+      "title": "UK to turn cooler with rain after exceptional heat and dry spell",
+      "summary": "After and exceptional summer of heatwaves and drought, the weather will turn wetter and cooler this week, as Simon King explains",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo",
+      "source": "BBC News",
+      "published": "2026-08-17T02:08:56Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f957/live/2ee17340-994b-11f1-8f52-c9b39dabc99d.jpg"
+    },
+    {
       "id": "66f202b268b47a81",
       "title": "Protein or pickled garlic? What's new in ice cream",
       "summary": "There's a constant battle in ice cream to come up with new flavours and to keep costs down.",
@@ -2733,6 +2807,24 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75b3/live/07eca4f0-96f1-11f1-b9dc-4fc99fb88769.jpg"
+    },
+    {
+      "id": "de8370b90b3153f8",
+      "title": "Asking prices for newly listed homes in UK’s richest borough fall by £100k in one month",
+      "summary": "Fierce competition in some areas of London means landlord purchasers are making successful lowball offers The average price of a home coming up for sale in Britain’s richest borough has dropped by almost £100,000 in a month as fierce competition among sellers in many areas prompts some to slash their price expectations, data shows. The property website Rightmove said that for Britain as a whole, average newly listed asking prices for homes had fallen by 2% over the past month, the largest August price drop in eight years. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/business/2026/aug/17/newly-listed-asking-prices-kensington-chelsea-london-uk-lowball-offers",
+      "source": "The Guardian UK",
+      "published": "2026-08-17T04:00:46Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/313ba6801ef9f906211d58f565b5733eaaea06d6/162_0_3560_2848/master/3560.jpg?width=700&quality=85&auto=format&fit=max&s=64e5b71d7e25cc4970ecf0b3276ca2f1"
     },
     {
       "id": "e6784197c16ac638",
@@ -2805,24 +2897,6 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e7/live/5f20d3f0-99c5-11f1-b885-e3bffd46cc19.jpg"
-    },
-    {
-      "id": "03814071cbcb77b4",
-      "title": "The Papers: 'Water cheek' and 'Queen Amy's gold rush'",
-      "summary": "Water companies being allowed to increase prices during droughts and Amy Hunt's gold medal run dominates Monday's papers.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/czdmmmm045go",
-      "source": "BBC News",
-      "published": "2026-08-17T00:04:26Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1245/live/4738d860-99c9-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "id": "b5af6226285555cb",
@@ -3112,24 +3186,6 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5751/live/f7a80590-9960-11f1-9712-2936f8c80214.jpg"
-    },
-    {
-      "id": "5117747627e99628",
-      "title": "US commander says mental health a 'priority' on USS Lincoln",
-      "summary": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o",
-      "source": "BBC News",
-      "published": "2026-08-16T21:04:27Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfe2/live/6ee53b10-99ab-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "id": "257cb4ec28e0e425",
@@ -3492,6 +3548,24 @@
       "imageUrl": "https://i.guim.co.uk/img/media/6ca9066891fc1b2892a31be8d7e69144999809d1/933_358_6067_4852/master/6067.jpg?width=700&quality=85&auto=format&fit=max&s=2ea89410a60536ef0631832decc80883"
     },
     {
+      "id": "e03ed59e92010939",
+      "title": "‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech",
+      "summary": "Amid fears for jobs, some film-makers say AI could enable them bypass studio giants and take more creative risks Near the collonaded entrance to Sony Pictures’ historic Culver City film studio, a tech-powered rival has sprung up this summer. The artists at Promise, a new studio feeding off the potential of AI, can glimpse the lots where Singin’ in the Rain and Men in Black were shot, but no longer do they need to get beyond the studio’s high walls to make their visions come true. From far more modest premises, they are making movies with rapidly accelerating AI models that create backgrounds, special effects and even “synthetic performers” – using US models but also driven by market-leading Chinese AI. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making",
+      "source": "The Guardian Technology",
+      "published": "2026-08-16T12:00:25Z",
+      "category": "Tech",
+      "region": "China",
+      "labels": [
+        "Tech",
+        "China"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/11a00570cfd4542a9e8d2ce575e18f8e04d4853b/292_0_2917_2333/master/2917.jpg?width=700&quality=85&auto=format&fit=max&s=c4caa335d05487de67b78c4c22314db7"
+    },
+    {
       "id": "123d95345a221513",
       "title": "Just 20 of 6,600 Defra staff working on climate adaptation amid drought and wildfires",
       "summary": "Exclusive: England ‘desperately unprepared’ for effects of crisis including water shortages and heatwaves UK heatwave live – latest updates Just 20 staff are working on climate adaptation within a key government department tasked with protecting the environment and maintaining food security, a freedom of information request has revealed. The officials make up 0.3% of staff within the Department for Environment, Food and Rural Affairs. Continue reading...",
@@ -3508,6 +3582,24 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://i.guim.co.uk/img/media/34c4aa973a32bedb4c7873b1293d8c3c67312dc9/0_0_4587_3670/master/4587.jpg?width=700&quality=85&auto=format&fit=max&s=bfb5b78da6b661deeeecc5810eeb708c"
+    },
+    {
+      "id": "1fd58af4c9d4e165",
+      "title": "Revisited: The Andy Burnham I know – Today in Focus podcast",
+      "summary": "Today in Focus host and former north of England editor Helen Pidd has watched Andy Burnham’s career for years, and here she talks to his friends, colleagues and mentors to find out more about his rise to power. This episode was originally broadcast on 16 July Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/politics/audio/2026/aug/17/revisited-the-andy-burnham-i-know-today-in-focus-podcast",
+      "source": "The Guardian UK",
+      "published": "2026-08-17T04:00:44Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/490016b64746c6aaaa520a60e2d8d54087e327b8/0_0_4580_3664/master/4580.jpg?width=700&quality=85&auto=format&fit=max&s=551af18f94f6c66752ccf8f66e9a5c60"
     },
     {
       "id": "448b510df302bfec",
@@ -3598,103 +3690,13 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/256b/live/a2580550-8e88-11f1-b8ee-9b3c26ad07bb.jpg"
-    },
-    {
-      "id": "956527e12e6400ff",
-      "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
-      "summary": "\"We’ve never seen launch capacity so constrained.\"",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
-      "source": "Ars Technica",
-      "published": "2026-08-14T11:00:49Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B-1152x648.webp"
-    },
-    {
-      "id": "45fce2732f54f643",
-      "title": "Man under threat of deportation to Jamaica wins right to rejoin his British family",
-      "summary": "Mark Nelson released from immigration detention on bail after lawyers challenge decision to remove him A Jamaican man who has lived more than half his life in the UK and was facing imminent deportation has been allowed to reunite with his British family after a legal challenge. Mark Nelson, 47, came to the UK in 2000 and later set up his own car-mechanic business. He has five British children and a British partner. He faced deportation in 2022 after serving a four-year prison sentence for possession with intent to supply a class B drug, abstracting electricity and two offences of racially aggravated intentional harassment. He had not committed any further offences. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/16/man-under-threat-of-deportation-to-jamaica-wins-right-to-rejoin-his-british-family",
-      "source": "The Guardian UK",
-      "published": "2026-08-16T11:27:22Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/22bad502b4348fa4a6ed831c310d5fbba5f0bd7d/0_187_1500_1200/master/1500.jpg?width=700&quality=85&auto=format&fit=max&s=c94af1029e3d3a9827b230e4bbdf21ef"
-    },
-    {
-      "id": "2745eecce2cb0399",
-      "title": "Water companies in England and Wales explore ‘surge pricing’ during drought",
-      "summary": "Suppliers could factor water scarcity into charges as part of Ofwat proposal to reduce consumption Water companies could be allowed to raise bills for customers during periods of drought under proposals being considered by the sector’s regulator for England and Wales. Suppliers would be permitted to factor “water scarcity” into bills as part of efforts to reduce consumption under Ofwat’s plans, which are being likened to surge pricing – the practice where private hire firms raise taxi fares at times of higher demand. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/aug/16/water-companies-england-and-wales-explore-surge-pricing-bills-drought",
-      "source": "The Guardian UK",
-      "published": "2026-08-16T16:28:00Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/063bd40584adf6d02c3db14de72bee43568eef39/443_0_4429_3543/master/4429.jpg?width=700&quality=85&auto=format&fit=max&s=dbd26ee1fb5c3a0891e59ebb600c4f78"
-    },
-    {
-      "id": "8cd222922e3c5d49",
-      "title": "I got an £89 refund – how to cancel and avoid unwanted subscriptions",
-      "summary": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo",
-      "source": "BBC Business",
-      "published": "2026-08-14T07:45:51Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae0/live/7d93c650-9568-11f1-8b14-5d44448d174a.jpg"
-    },
-    {
-      "id": "16ea6b51dd439969",
-      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo",
-      "source": "BBC News",
-      "published": "2026-08-16T13:34:38Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad24/live/d18d0100-996d-11f1-aaab-c702cc6b4645.jpg"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 32
+      "items": 34
     },
     {
       "source": "BBC Politics",
