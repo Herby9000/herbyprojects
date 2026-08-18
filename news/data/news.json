@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-18T01:49:37.558381Z",
+  "generatedAt": "2026-08-18T04:50:07.478231Z",
   "topStoryIds": [
     "cc2776ae726f571f",
     "494daa6a173627c2",
@@ -210,13 +210,13 @@
       "focus": "Saracens"
     },
     {
-      "id": "7f4fad225016139f",
-      "title": "Triple-A 3B Keys hits his way on Prospect Team of the Week",
+      "id": "4b4f755e58482974",
+      "title": "Cease garners first-place votes in latest Cy Young poll",
       "summary": "This feed supplied a headline but no article summary.",
       "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/prospect-team-of-the-week-august-17-2026",
+      "url": "https://www.mlb.com/bluejays/news/cam-schlittler-jacob-misiorowski-lead-fifth-2026-cy-young-poll",
       "source": "Toronto Blue Jays",
-      "published": "2026-08-17T22:12:41Z",
+      "published": "2026-08-18T04:00:00Z",
       "category": "Sports",
       "region": "Canada",
       "labels": [
@@ -265,6 +265,42 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa5/live/d2c02e40-9656-11f1-9743-c91876572530.jpg"
+    },
+    {
+      "id": "a7bb4dfc5cf55a20",
+      "title": "Watch top prospect Parker play at High-A for FREE on Thursday",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/watch-minor-league-baseball-games-for-free-2026",
+      "source": "Toronto Blue Jays",
+      "published": "2026-08-17T23:51:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays"
+    },
+    {
+      "id": "05028d33ff1aee91",
+      "title": "Triple-A 3B Keys hits his way onto Prospect Team of the Week",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/prospect-team-of-the-week-august-17-2026",
+      "source": "Toronto Blue Jays",
+      "published": "2026-08-17T22:12:41Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays"
     },
     {
       "id": "a7b5fd18ccbf7b23",
@@ -401,6 +437,26 @@
       "imageHeight": 675
     },
     {
+      "id": "b588f2050d06895d",
+      "title": "Labour MP suspended as party launches investigation into Covid loans",
+      "summary": "Alaba has said he took out two taxpayer-funded loans during the pandemic but insisted he had not tried to avoid paying the money back.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c5y34gm7rp0o",
+      "source": "BBC Politics",
+      "published": "2026-08-17T16:08:10Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/acbc/live/8cc507a0-9a50-11f1-96c4-e7f87215742d.jpg",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
       "id": "0030fb677dc314cc",
       "title": "DHS defends investigating agency critics and giving them warning notices",
       "summary": "Federal officials acknowledged that ICE special agents tracked a New York man to his house, the airport and a hotel to question him about a critical email he sent to the former head of ICE in January.",
@@ -495,9 +551,7 @@
       ],
       "sourceWeight": 5,
       "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc2e/live/a5bded10-9a43-11f1-a86b-519b4d19bbee.jpg",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc2e/live/a5bded10-9a43-11f1-a86b-519b4d19bbee.jpg"
     },
     {
       "id": "e2a344ca3edd49a3",
@@ -769,6 +823,26 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff85/live/bb0fc5c0-9981-11f1-a4eb-59b79ff5ff4f.jpg",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "4aa38626cffe7489",
+      "title": "Top economists urge Burnham to sign UK up to UN initiative on global inequality",
+      "summary": "Open letter signed by 40 academics including Nobel winner Joseph Stiglitz and Kate Pickett, co-author of The Spirit Level Forty prominent progressive academics are urging Andy Burnham’s government to join a new global push to tackle inequality. The experts include Nobel winner Joseph Stiglitz , University College London professor Mariana Mazzucato, vice-chancellor of the London School of Economics Larry Kramer, and Kate Pickett, co-author of The Spirit Level . Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/inequality/2026/aug/18/economists-andy-burnham-uk-un-initiative-global-international-panel-inequality",
+      "source": "The Guardian Economics",
+      "published": "2026-08-18T04:00:15Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/e7345fd45ab79c12b1f5759b20821fc70effe535/999_82_4897_3918/master/4897.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=77428e9ec0bc9eda06d0d6cdb4cd2f1e",
+      "imageWidth": 1200,
+      "imageHeight": 630
     },
     {
       "id": "c3fe2caa450135c7",
@@ -1554,6 +1628,24 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg"
+    },
+    {
+      "id": "1672c166445c744d",
+      "title": "Parkinson's double frustration as Wrexham denied",
+      "summary": "Phil Parkinson bemoans his team's lack of ruthlessness – and the amount of stoppage time at the end – after a 98th-minute equaliser denies Wrexham victory at Cardiff.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpq80217wplo",
+      "source": "BBC Sport",
+      "published": "2026-08-17T22:30:10Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a561/live/c25fa080-9a89-11f1-aa04-af541863e946.jpg"
     },
     {
       "id": "aa1dda80d3ecd0da",
@@ -2532,6 +2624,24 @@
       "imageUrl": "https://i.guim.co.uk/img/media/586ff1a241cdf20f0c9701ac49039482f23743c2/0_37_2277_1822/master/2277.jpg?width=700&quality=85&auto=format&fit=max&s=b62414ada900b97b11d07b3658abd8ae"
     },
     {
+      "id": "10ff50c1139cc80a",
+      "title": "Democracy v the machine: the birth of the digital age and the warnings that were ignored",
+      "summary": "Many hoped that the march of technology would usher in an egalitarian utopia – but some foresaw the threat it would pose to liberal society. Why did nobody listen? One of the stranger things about this dizzying, headlong moment in time is that it doesn’t have much of a past. Everything is about the future of this, the future of that: the future of work, the future of humanity, the future of the planet. It’s as if everyone is screaming (some ecstatically, most terror-stricken): robots are taking over the world! Meanwhile, you can’t put down your phone, unplug, delete your AI apps, tell Zoom to piss off; it feels as if you are racing toward something, and can’t stop, or look back, or think straight. But of course this weird moment in history does have a past. It comes from somewhere. It wasn’t inevitable. Things could have turned out differently. They still can. And if you look back, one thing you’ll see is that a lot of people saw this all coming. They foresaw our present when it was still the future. They thought it might turn out fabulously, a computer utopia. And they worried it might turn out disastrously. Above all, they issued warning after warning about the rise of what I call the artificial state, the replacement of the liberal democratic nation-state, the consent of the governed, with the rule of people by machines. They warned of a future in which democratic deliberation would be replaced by prediction by calculation, the public sphere would be supplanted by data-driven commerce, and drones would take the place of the demos. Why didn’t anyone listen? The new underworld is made up of innocent and well-intentioned people who work with slide rules and calculating machines and computers which can retain an almost infinite number of bits of information as well as sort, categorise, and reproduce this information at the press of a button. Most of these people are highly educated, many of them are PhDs, and none that I have met have malignant political designs on the American public. They may, however, radically reconstruct the American political system, build a new politics, and even modify revered and venerable American institutions – facts of which they are blissfully innocent. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/news/2026/aug/18/the-long-read-democracy-v-the-machine-digital-age-warnings-computer-history-technology",
+      "source": "The Guardian Technology",
+      "published": "2026-08-18T04:00:13Z",
+      "category": "Tech",
+      "region": "US",
+      "labels": [
+        "Tech",
+        "US"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/649a756435dbd3c93e403544046ef977e9ac9ca4/713_0_3673_2939/master/3673.jpg?width=700&quality=85&auto=format&fit=max&s=03a034fc7578b45af4b8c48ef50ac389"
+    },
+    {
       "id": "80c359d3c1b4698b",
       "title": "Dublin Dons? The failed attempt to bring a Premier League club to Ireland",
       "summary": "Just how close did an Irish consortium come to buying a Premier League team and moving them to Dublin?",
@@ -2804,6 +2914,24 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6c7/live/bad5e5b0-99b0-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
+      "id": "c2232267a5ce8d9f",
+      "title": "The ultra rich are collecting fossils, and that’s bad for science – podcast",
+      "summary": "One of the UK’s best fossil collections has been sold overseas in what experts have called a loss to the nation. The collection, which is now on display at the Natural History Museum in Abu Dhabi, was gathered on Dorset’s Jurassic Coast. As dinosaur fossils sell to private collectors for increasingly large sums, scientists are worried that domestic museums are being priced out of the market, and in turn scientists are missing out on the opportunity to make new observations. To find out how fossils became big business and what it could mean for research, Madeleine Finlay hears from science correspondent Nicola Davis One of UK’s best fossil collections sold overseas in ‘loss to the nation’ Support the Guardian: theguardian.com/sciencepod Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/science/audio/2026/aug/18/ultra-rich-collecting-fossils-bad-for-science-podcast",
+      "source": "The Guardian UK",
+      "published": "2026-08-18T04:00:15Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/1784993cbad64b61d0ea2938ceb1f54698841d48/837_0_6830_5464/master/6830.jpg?width=700&quality=85&auto=format&fit=max&s=ef2e4326d40e334b05bcb52b67902047"
+    },
+    {
       "id": "7057c2fb87c66f5b",
       "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
       "summary": "As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result.",
@@ -2966,6 +3094,24 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39ca/live/eea330e0-9731-11f1-bbb3-ebc49f706d46.png"
     },
     {
+      "id": "7c23bb24fd519b24",
+      "title": "What to know about Tupac's murder trial and the gang leader accused of orchestrating his death",
+      "summary": "Opening statements in the trial transported a Las Vegas jury back in time to 1990s hip-hop, filled with rap feuds, gang street violence and a distrust in police.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo",
+      "source": "BBC News",
+      "published": "2026-08-18T03:32:56Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c59/live/6f5426a0-9ab5-11f1-ac7b-dbe517089a6e.jpg"
+    },
+    {
       "id": "21e3b1aea8412081",
       "title": "Fry and Glamourdale complete historic double-double",
       "summary": "Great Britain's Charlotte Fry retains her Grand Prix freestyle title in Aachen, Germany - becoming the first rider in the history of the FEI World Championships to win both individual dressage titles back-to-back.",
@@ -3021,6 +3167,24 @@
       "focus": "Saracens"
     },
     {
+      "id": "e5598bd651ef0c3a",
+      "title": "Over 8,000 affected by water supply disruption",
+      "summary": "South East Water says its teams are exhausted as it tries to restore water to areas in Kent.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cwymzly270zo",
+      "source": "BBC News",
+      "published": "2026-08-18T04:48:38Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f86/live/76137060-9a2c-11f1-90d9-9d833c0912f2.jpg"
+    },
+    {
       "id": "ca8b7fdfb405877d",
       "title": "European Championship marathon records fall in men's and women's races",
       "summary": "Germany's Amanal Petros and Finland's Alisa Vainio both set new championship records on their way to gold in the men and women's marathons, on the final day of the 2026 European Athletics Championships in Birmingham.",
@@ -3037,6 +3201,24 @@
       "sourceWeight": 4,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ce/live/c37c9c30-996b-11f1-870d-5d08c49babb2.jpg"
+    },
+    {
+      "id": "73aa2127cb2ddf40",
+      "title": "Watch: What we learned from opening statements in Tupac murder trial",
+      "summary": "The BBC's Shaimaa Khalil breaks down the key arguments as the long-awaited trial gets under way.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/videos/cevmw1pl9kvo",
+      "source": "BBC News",
+      "published": "2026-08-18T04:05:05Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12f3/live/af2297f0-9aa4-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "id": "0fcfa4c657a89a52",
@@ -3145,25 +3327,6 @@
       "sourceWeight": 5,
       "focus": "",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec55/live/23a26490-97a1-11f1-a696-5b8e9a3a668f.jpg"
-    },
-    {
-      "id": "5c04ef407ee8ec0d",
-      "title": "Blue Jays claim Sewald off waivers to bolster weary bullpen",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/paul-sewald-claimed-off-waivers-by-blue-jays",
-      "source": "Toronto Blue Jays",
-      "published": "2026-08-12T21:34:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays"
     },
     {
       "id": "71079e7e367cb027",
@@ -3402,6 +3565,24 @@
       "imageUrl": "https://i.guim.co.uk/img/media/a691c45f7cdae6db55fbe1014798e8e482a70230/547_0_5465_4372/master/5465.jpg?width=700&quality=85&auto=format&fit=max&s=ff2df5b0d6c50819472ad9560c2a222a"
     },
     {
+      "id": "a9559f4c7bea0858",
+      "title": "A bestselling true crime author, and the crimes he’s accused of – podcast",
+      "summary": "Investigations correspondent Sirin Kale reports on the allegations of violence and sexual assault against author Christopher Berry-Dee Christopher Berry-Dee has been a pioneer of the true crime genre for years. The UK’s all-time bestselling true crime author is a self-proclaimed expert in serial killers, persuading them to give interviews and laying out their crimes in extensive detail. ‘Persuasive,’ says Sirin Kale after speaking to many who know him, ‘that’s a word that comes up a lot.’ Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/news/audio/2026/aug/18/bestselling-true-author-christopher-berry-dee-crimes-podcast",
+      "source": "The Guardian UK",
+      "published": "2026-08-18T02:00:10Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "imageUrl": "https://i.guim.co.uk/img/media/90d089608b9b572ac486812a67922b126e1e657f/264_0_3281_2624/master/3281.jpg?width=700&quality=85&auto=format&fit=max&s=696711a0de301516d0a7b0fcd1b25fa9"
+    },
+    {
       "id": "0b2bc35aeddcff47",
       "title": "Reform’s Tice accused of misinformation after urging people to enjoy heatwaves",
       "summary": "Nurses, medical experts and green campaigners reject party deputy leader’s dismissal of efforts to reach net zero Reform’s deputy leader has been accused of spreading misinformation after he dismissed efforts to tackle the climate crisis and urged British people to enjoy the warmth of the recent heatwaves. Richard Tice prompted a backlash from nurses, medical experts and green campaigners on Monday after he told a press conference he believed it was “arrogant” to try to stop the climate emergency, while encouraging people to focus on upsides such as better English wine. Continue reading...",
@@ -3526,193 +3707,13 @@
       "sourceWeight": 3,
       "focus": "",
       "imageUrl": "https://i.guim.co.uk/img/media/6a370944d1e4b853e9ec0498ba90b55e8ea88aff/31_80_1579_1262/master/1579.jpg?width=700&quality=85&auto=format&fit=max&s=ed1b540f77b733e718a5cbb8c038e1dc"
-    },
-    {
-      "id": "325c5e17f3443654",
-      "title": "LIV cancels final event to focus on 'next chapter'",
-      "summary": "LIV Golf cancels its Team Championships in Michigan after weeks of speculation, saying it needs to focus on \"building its next chapter\".",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/c7vg4rn7v6ro",
-      "source": "BBC News",
-      "published": "2026-08-17T19:33:13Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f33c/live/938e0990-9a70-11f1-b68f-817a5a696299.jpg"
-    },
-    {
-      "id": "ddb738e042fb50ef",
-      "title": "The Guardian view on Japan’s yen: Trump wants to keep the easy-money machine running | Editorial",
-      "summary": "A cheap currency helps finance the US tech boom. Washington is intervening because allies matter only when they are useful Japan’s yen has slid back towards 160 to the dollar, despite last month’s extraordinary US-Japanese intervention. Traders are betting that its role as a cheap funding pipeline for global finance will continue. Earlier this month the Trump administration stepped in to help Tokyo stabilise its currency. “Japan’s been very good to us, with the exception, of course, of Pearl Harbor,” Donald Trump explained . More help is likely to be on its way. But this is less a rescue of the yen than an attempt by Scott Bessent, the US treasury secretary, to preserve a cash spigot that benefits the US. Japan’s ultra-cheap money has become a global funding utility: bankers borrow yen, sell them for dollars and buy higher-returning US assets, notably tech shares. Rising American stock markets support collateral and investment. Japan’s “carry trade” is one of the reasons Wall Street can lever hundreds of billions into AI. Research suggests AI sucks up more than 1% of US GDP. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/12/the-guardian-view-on-japans-yen-trump-wants-to-keep-the-easy-money-machine-running",
-      "source": "The Guardian Economics",
-      "published": "2026-08-12T17:39:46Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/07eedea56b5bb2a0fbcd71b2de1350bbb5ca6d7f/452_0_3333_2666/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=e7b57cc9bbe7581861b8e821b6344840"
-    },
-    {
-      "id": "12089a85a49f4468",
-      "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-      "summary": "\"Flamingo missiles were used. A good achievement.\"",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-      "source": "Ars Technica",
-      "published": "2026-08-15T15:46:05Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg"
-    },
-    {
-      "id": "dff796fd5b04436f",
-      "title": "Strong favourites or tougher task - will Arsenal defend their title?",
-      "summary": "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped are they for the challenge?",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0l5927xr89o",
-      "source": "BBC Sport",
-      "published": "2026-08-16T05:20:47Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b149/live/435b5a70-94c3-11f1-adb5-bd19050a74a5.jpg"
-    },
-    {
-      "id": "e5598bd651ef0c3a",
-      "title": "Over 8,000 affected by water supply disruption",
-      "summary": "South East Water says its teams are exhausted as it tries to restore water to areas in Kent.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cwymzly270zo",
-      "source": "BBC News",
-      "published": "2026-08-17T19:06:26Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f86/live/76137060-9a2c-11f1-90d9-9d833c0912f2.jpg"
-    },
-    {
-      "id": "27e34b4f19a26ac7",
-      "title": "Boy, seven, among four injured after crash that killed five teenagers",
-      "summary": "A car in which the five teenagers were travelling in was going the wrong way down a motorway in County Kildare.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/ce8lx172kero",
-      "source": "BBC News",
-      "published": "2026-08-17T18:10:22Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a34b/live/3d8de100-99fd-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "id": "9510ed48138c429f",
-      "title": "Loosening of planning rules in England to allow more new homes near stations",
-      "summary": "Angela Rayner to launch guidance for ‘default yes’ on developments near transport hubs, including on green belt sites Thousands more homes could be built within 10 minutes of transport hubs, including on green belt sites, under a loosening of planning policy announced by Angela Rayner on Monday. The housing secretary will set out changes to national planning guidance for England that will include an order for councils to have a “default yes” approach to housing developments that are within a reasonable walking distance of well-connected train and tram stations. Stronger support in principle for development, meaning a more explicit presumption in favour of building in sustainable locations. Pubs will get protection from being turned into housing or offices with developers having to prove there is no reasonable prospect of keeping a pub as a going concern, including evidence that it was marketed for sale for at least a year. A requirement for at least 40% of homes to be accessible on bigger developments and stronger protections for community facilities. Stronger support for growth and infrastructure including support for AI growth zones and datacentres. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/politics/2026/aug/17/loosening-planning-rules-england-more-homes-train-stations-rayner",
-      "source": "The Guardian UK",
-      "published": "2026-08-17T04:00:45Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/70811c183d4c8213996cada031863421d84bb7b7/421_0_7200_5760/master/7200.jpg?width=700&quality=85&auto=format&fit=max&s=f8b7645c3af09b6d9d72aeef3d85386a"
-    },
-    {
-      "id": "77644d3b091265ac",
-      "title": "Australia's mushroom murderer Erin Patterson is appealing - here's what you need to know",
-      "summary": "The Australian, who notoriously poisoned her family members, is trying to overturn her conviction.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo",
-      "source": "BBC News",
-      "published": "2026-08-17T18:03:23Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3578/live/30fa3180-9a45-11f1-a86b-519b4d19bbee.jpg"
-    },
-    {
-      "id": "a81df7cd55f09188",
-      "title": "Huge number of children would fall into poverty under Reform’s benefits plans, say campaigners",
-      "summary": "Party wants to cut £50bn from UK welfare bill but charity says proposals would cause ‘horrific levels of destitution’ Hundreds of thousands of children would be tipped into poverty and destitution under plans unveiled by Reform UK to slash £50bn a year from the UK benefits bill, campaigners have warned. The warnings came after Reform published plans to drastically reduce disability payments, ban non-UK citizens from claiming benefits and introduce compulsory 20 hours a week unpaid workfare for thousands of long-term unemployed people. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/politics/2026/aug/17/children-poverty-reform-uk-benefits",
-      "source": "The Guardian UK",
-      "published": "2026-08-17T19:11:25Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "imageUrl": "https://i.guim.co.uk/img/media/b554f48b6cfb2985e9f897d0483a505cbf441577/515_0_4488_3591/master/4488.jpg?width=700&quality=85&auto=format&fit=max&s=85ea7c91f0c3c4d51910466a164b0daa"
-    },
-    {
-      "id": "de1ecdc786096428",
-      "title": "Princess Eugenie announces name of baby daughter",
-      "summary": "The couple's third child was born earlier this month at a hospital in Lisbon, Portugal, weighing 6lb 9oz.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cn4nkww841xo",
-      "source": "BBC News",
-      "published": "2026-08-17T17:12:36Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa4b/live/bcc7b6e0-9029-11f1-9cf2-316ac336c337.jpg"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 34
+      "items": 35
     },
     {
       "source": "BBC Politics",
@@ -3787,7 +3788,7 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 78
+      "items": 79
     },
     {
       "source": "BBC Rugby Union",
