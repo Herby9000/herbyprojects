@@ -29,33 +29,42 @@ The apps may be personal, but the code is public. Private user data, credentials
 
 ## The Daily Seven
 
-### Architecture
+### Architecture and privacy
 
-`news/scripts/news_pipeline.py` is a standard-library-only RSS/Atom normalizer. It fetches each source independently, converts publisher markup to plain text, collects all publisher-supplied feed image variants, enriches ranked stories from publisher OG/Twitter metadata, rejects unsafe links, normalizes timestamps to UTC, tags regions/categories/teams, deduplicates similar events, and ranks for recency, source quality, focus and diversity. Bounded image downloads are parsed as JPEG, PNG, GIF or WebP and measured intrinsically. Top selection requires exactly seven successfully fetched non-Sports images at least 960×540, preserves Politics/Tech/Economics and publisher diversity, and fails without replacing the prior edition rather than publishing an incomplete or blurry edition. It writes:
+`news/scripts/news_pipeline.py` is a standard-library-only RSS/Atom normalizer. It fetches every source independently, converts publisher markup to inert text, rejects unsafe links, normalizes timestamps to UTC, tags regions/categories/teams, deduplicates similar events, and ranks for recency, quality, substance and diversity. Publisher pages and images are fetched through bounded, public-HTTPS-only requests with DNS checks that reject local/private destinations. Publisher HTML is never rendered in the app.
 
-- `news/data/news.json`, the progressively enhanced app data;
-- `news/snapshot.html`, a readable generated fragment;
-- the same seven source-attributed stories inside `news/index.html`, so an edition remains readable without JavaScript or after a failed refresh.
-
-The browser app creates all publisher-derived text with `textContent`, opens stories in a native accessible dialog, and provides the original source only as a secondary link. It never iframes or renders publisher markup. Today contains only the masthead/navigation and seven swipeable image cards; Politics, Tech, Economics and Sports lists are available through their tabs. Sports adds accessible, horizontally scrollable All, Rugby, Saracens, Blue Jays and Leafs pills with exact team/source/label matching and full-edition counts; named choices show every match while All remains a concise 12-story view. Versioned CSS/JavaScript assets and `fetch(..., {cache: "no-store"})` prevent indefinite client staleness; deploys also replace the static JSON on each refresh.
+The pipeline writes `news/data/news.json`, `news/snapshot.html`, and the same seven source-attributed fallback cards inside `news/index.html`. The browser creates all external text with `textContent`, opens stories in a native accessible dialog, and offers the attributed publisher page as an optional secondary link. There are no accounts, analytics, application secrets or personal data. The public fallback and private-reader deployment, where configured outside this public repository, use the same sanitized static edition and stable `/news/` URL.
 
 ### Sources and coverage
 
-The current feed registry uses BBC News, Politics, Technology, Business, Sport and Rugby Union; CBC Canada, World and Business; NPR Politics and Business; Guardian UK, China, Technology, Economics and Business; Ars Technica; Sky Sports; the official Saracens feed; the official MLB Toronto Blue Jays feed; and a Sportsnet NHL feed filtered specifically for Maple Leafs stories. These are freely readable public feeds/pages and require no key or subscription. Dedicated business and economics feeds remain classified Economics. A failed publisher is recorded in `sourceStatus` and does not invalidate successful sources.
+Normal news currently draws from:
 
-Source summaries vary in length. The reader labels them as source-provided summaries (or headline-only) and never claims to reproduce a full article. Publisher content and links remain the publishers’ property.
+- public and general news: BBC, CBC News, NPR, Al Jazeera, DW and UN News;
+- technology and digital policy: Ars Technica, BBC Technology, TechCrunch, the Electronic Frontier Foundation, Rest of World and Guardian Technology;
+- economics/business: BBC Business, CBC Business, NPR Business and Guardian business/economics feeds;
+- sport: BBC Sport and Rugby Union, CBC Sports, Sky Sports, the official Saracens and MLB Blue Jays feeds, and a Sportsnet NHL feed narrowly filtered to Maple Leafs stories.
 
-### Refresh and deployment
+Editorial candidates come from The Conversation’s Africa and UK editions, ProPublica, Noema, Undark, Foreign Policy in Focus and Yale Environment 360. These feeds and sampled article pages were checked for anonymous free access. Candidate feeds that returned persistent 403/404 responses, redirects the safe fetcher could not validate, hard paywalls, or no extractable legally usable article text were not added. `sourceStatus` records every feed as succeeded or failed for each refresh; `editorialStatus` separately records article extraction as succeeded, failed or skipped.
 
-`.github/workflows/news.yml` runs on every main-branch push, on manual dispatch, and at minute 17 every four hours. Every run executes deterministic tests and asset validation and deploys the repository to GitHub Pages. Scheduled/manual runs also refresh feeds; an emergency fallback may reuse only a previously verified Top 7 and must re-download and re-verify every selected image during that build. Push runs deploy the checked-in edition without creating a refresh loop. There are no application secrets, logins, analytics or personal data.
+### Diversity, substance and Editorial policy
 
-### Development and verification
+Feed names are normalized to publisher families (for example every BBC, CBC, Guardian or Conversation edition shares one publisher identity). The Top 7 is always exactly seven non-Sports, non-Editorial stories, normally capped at two per publisher and seeded across Politics, Tech and Economics. Each normal section’s concise default also uses a two-per-publisher cap. If healthy alternatives are unavailable, selection relaxes deterministically rather than publishing an empty section or an incomplete Top 7. Sports team filters continue to show all exact matches.
 
-Run the pipeline tests with Python’s built-in `unittest`, then run `news/scripts/news_pipeline.py --allow-fallback --status`. Serve the repository root with any static HTTP server; the app is at `/news/`. JavaScript can be syntax-checked with Node. Tests cover largest-variant feed extraction, social metadata, intrinsic dimensions and truncation, the 960×540 floor, URL safety, normalization and UTC timestamps, active-markup removal, event deduplication, ranking, economics and requested category/region/team rules, verified fallback invariants, the no-JS snapshot, Today/section behavior, image failures and exactly seven high-resolution sport-free top stories.
+Available text is counted with a deterministic Unicode word tokenizer; reading time is `ceil(words / 220)` with a one-minute minimum. Entries under 180 available words are omitted from featured/default views while enough substantial alternatives exist. A narrow, explicit breaking-title rule allows emergency/live items through. If feeds fail, short entries may fill otherwise empty views, and labels continue to say whether text is a feed summary, headline only, or extracted publisher-page text. Missing prose is never invented.
 
-### Limitations and source maintenance
+Editorial is a first-class long-read section for essays, analysis, investigations and explainers. Qualification requires both a source registered as `editorial` and at least 900 words (about five minutes) extracted from a freely readable publisher article page. A feed excerpt alone never passes. When a feed supplies only an excerpt, the documented fallback is conservative page extraction from semantic `<article>` prose; if extraction fails or remains below 900 words, the item is skipped. Editorial’s concise view is capped at two items per normalized publisher and displays publisher, region/topic labels, publication date, measured words/reading time, and the sanitized body in the in-app reader.
 
-RSS is not guaranteed to contain full article text, and publishers can change or retire feeds without notice. Feed discovery, extraction and ranking are therefore intentionally conservative. To maintain a source, update the `SOURCES` registry, prefer an official or reputable free HTTPS RSS/Atom endpoint, add a narrow `required_terms` filter for shared feeds, and add deterministic tests before deployment. Hard-paywalled sources should not be added. The pipeline caps normalized summaries and the total checked-in story set to keep the static payload bounded.
+### Refresh, deployment and verification
+
+`.github/workflows/news.yml` runs on every main push, on manual dispatch, and at minute 17 every four hours. Every run executes the Python/Node behavior suite, JSON/JavaScript validation and GitHub Pages deployment. Scheduled/manual runs refresh feeds and check in the generated edition. An emergency fallback may reuse only a previously verified Top 7 and must re-download and re-verify selected images during that build; push runs deploy the checked-in edition without a refresh loop.
+
+The tests cover publisher normalization/caps and graceful degradation, short-content handling, reading-time math, editorial qualification/extraction/sanitization/rendering, source URL and SSRF safety, feed/image parsing, fallback and refreshed dataset invariants, exact Top 7 shape, topic/team filters, responsive control contracts and in-app reader behavior. The generated dataset exposes its selection thresholds in `policies` and its concise choices in `sectionStoryIds`, making production diversity auditable.
+
+### Known limitations and source maintenance
+
+RSS availability, summaries, semantic article markup and anonymous page access can change without notice. Generic extraction intentionally ignores navigation, scripts, embeds and arbitrary layout containers; some freely readable stories will therefore be skipped. Reading time measures only text actually available in the static edition, not inaccessible text on a publisher page. Images must be safe HTTPS, successfully downloaded and intrinsically at least 960×540 for Top 7 use.
+
+To add or remove a source, edit the `SOURCES` registry, use an official/reputable free HTTPS RSS or Atom endpoint, set a stable category/region and `source_type`, and add a narrow `required_terms` filter only for shared feeds. Verify feed parsing plus multiple anonymous article pages, confirm there is no hard paywall, add a deterministic behavior test, run the full suite and a live refresh, then inspect `sourceStatus`, `editorialStatus`, publisher counts and extracted word counts. Remove endpoints that are persistently broken, paywalled, unsafe, or unable to provide usable attributed text.
 
 ## License
 

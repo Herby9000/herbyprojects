@@ -22,7 +22,12 @@
     if (text !== undefined) node.textContent = text;
     return node;
   }
-  function meta(story) { return `${story.source} · ${safeDate(story.published)} · ${story.region}`; }
+  function lengthLabel(story) {
+    const minutes = Number(story.readingMinutes); const words = Number(story.wordCount);
+    if (Number.isInteger(minutes) && minutes > 0 && Number.isInteger(words) && words >= 0) return `${minutes} min read · ${words.toLocaleString()} words available`;
+    return 'Length unavailable';
+  }
+  function meta(story) { return `${story.publisher || story.source} · ${safeDate(story.published)} · ${story.region} · ${lengthLabel(story)}`; }
   function matchesSportsFilter(story, filter) {
     if (filter === 'All') return story.category === 'Sports';
     const labels = Array.isArray(story.labels) ? story.labels : [];
@@ -36,7 +41,8 @@
   function safeSourceUrl(value) {
     try {
       const url = new URL(value);
-      return ['http:', 'https:'].includes(url.protocol) ? url.href : '';
+      const normalPort = !url.port || (url.protocol === 'https:' && url.port === '443') || (url.protocol === 'http:' && url.port === '80');
+      return ['http:', 'https:'].includes(url.protocol) && !url.username && !url.password && normalPort ? url.href : '';
     } catch (_) { return ''; }
   }
   function safeImageUrl(value) {
@@ -54,7 +60,8 @@
     $('#reader-title').textContent = story.title;
     $('#reader-byline').textContent = meta(story);
     const copy = $('#reader-copy');
-    const summary = el('p', '', story.summary);
+    const body = story.body || story.summary;
+    const prose = String(body || '').split(/\n{2,}/).filter(Boolean).map(paragraph => el('p', '', paragraph));
     const imageUrl = safeImageUrl(story.imageUrl);
     if (imageUrl) {
       const figure = el('figure', 'reader-image');
@@ -68,9 +75,9 @@
         image.hidden = true; unavailable.hidden = false; figure.classList.add('image-unavailable');
       });
       figure.append(image, unavailable);
-      copy.replaceChildren(figure, summary);
+      copy.replaceChildren(figure, ...prose);
     } else {
-      copy.replaceChildren(summary);
+      copy.replaceChildren(...prose);
     }
     const storyLabels = Array.isArray(story.labels) ? story.labels : [story.category, story.region];
     const labels = $('#reader-labels'); labels.replaceChildren(...storyLabels.map(label => el('span', '', label)));
@@ -116,11 +123,14 @@
     const categories = state.filter === 'All' ? [] : [state.filter];
     categories.forEach(category => {
       const allCategoryStories = stories.filter(story => story.category === category);
+      const selectedIds = state.data.sectionStoryIds && state.data.sectionStoryIds[category];
+      const selected = Array.isArray(selectedIds)
+        ? selectedIds.map(id => stories.find(story => story.id === id)).filter(Boolean)
+        : allCategoryStories.slice(0, 12);
       const categoryStories = category === 'Sports'
-        ? (state.sportsFilter === 'All' ? allCategoryStories.slice(0, 12) : allCategoryStories.filter(story => matchesSportsFilter(story, state.sportsFilter)))
-        : allCategoryStories.sort((a, b) => Number(Boolean(b.focus)) - Number(Boolean(a.focus))).slice(0, 12);
-      if (!categoryStories.length && category !== 'Sports') return;
-      const wrapper = el('section', 'news-section');
+        ? (state.sportsFilter === 'All' ? selected : allCategoryStories.filter(story => matchesSportsFilter(story, state.sportsFilter)))
+        : selected;
+      const wrapper = el('section', category === 'Editorial' ? 'news-section editorial-section' : 'news-section');
       wrapper.append(el('h3', 'news-section-title', category));
       if (category === 'Sports') {
         const row = el('div', 'sports-filters');
@@ -142,13 +152,16 @@
       }
       const list = el('div', 'story-list');
       categoryStories.forEach(story => {
-        const item = el('article', 'list-story');
+        const item = el('article', category === 'Editorial' ? 'list-story editorial-story' : 'list-story');
         const title = el('h3'); title.append(storyButton(story, true));
-        item.append(el('p', 'story-meta', meta(story)), title, el('p', 'labels', (story.labels || []).join(' · ')));
+        item.append(el('p', 'story-meta', meta(story)), title,
+          el('p', 'list-dek', story.summary), el('p', 'labels', (story.labels || []).join(' · ')));
         list.append(item);
       });
       if (categoryStories.length) wrapper.append(list);
-      else wrapper.append(el('p', 'empty-state', `No ${state.sportsFilter} stories are available in this edition.`));
+      else wrapper.append(el('p', 'empty-state', category === 'Editorial'
+        ? 'Editorial feeds are temporarily unavailable or no articles met the long-read standard. The next refresh will try again.'
+        : `No ${state.sportsFilter} stories are available in this edition.`));
       sections.append(wrapper);
     });
     if (state.filter !== 'All' && !sections.children.length) {
@@ -157,6 +170,7 @@
   }
   function applyFilter(filter) {
     state.filter = filter;
+    $('#latest-heading').textContent = filter === 'Editorial' ? 'Substantial essays & investigations' : 'Latest by section';
     leadSection.hidden = filter !== 'All';
     latestSection.hidden = filter === 'All';
     latestSection.setAttribute('aria-hidden', String(filter === 'All'));

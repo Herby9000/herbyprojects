@@ -31,6 +31,7 @@ MAX_HTML_BYTES = 1_000_000
 MAX_IMAGE_BYTES = 12_000_000
 MAX_ENRICH_STORIES = 50
 MAX_CANDIDATES_PER_STORY = 8
+MAX_EDITORIAL_PROBES = 45
 
 @dataclass(frozen=True)
 class Source:
@@ -41,6 +42,7 @@ class Source:
     weight: int = 1
     required_terms: tuple[str, ...] = ()
     focus: str = ""
+    source_type: str = "news"
 
 SOURCES = (
     Source("BBC News", "https://feeds.bbci.co.uk/news/rss.xml", "Politics", "World", 4),
@@ -48,11 +50,17 @@ SOURCES = (
     Source("CBC Canada", "https://www.cbc.ca/cmlink/rss-canada", "Politics", "Canada", 5),
     Source("CBC World", "https://www.cbc.ca/cmlink/rss-world", "Politics", "World", 3),
     Source("NPR Politics", "https://feeds.npr.org/1014/rss.xml", "Politics", "US", 5),
+    Source("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml", "Politics", "World", 4),
+    Source("DW", "https://rss.dw.com/rdf/rss-en-all", "Politics", "Europe", 4),
+    Source("UN News", "https://news.un.org/feed/subscribe/en/news/all/rss.xml", "Politics", "World", 4),
     Source("The Guardian China", "https://www.theguardian.com/world/china/rss", "Politics", "China", 5),
     Source("The Guardian UK", "https://www.theguardian.com/uk-news/rss", "Politics", "UK", 3),
     Source("Ars Technica", "https://feeds.arstechnica.com/arstechnica/index", "Tech", "World", 5),
     Source("BBC Technology", "https://feeds.bbci.co.uk/news/technology/rss.xml", "Tech", "World", 4),
     Source("The Guardian Technology", "https://www.theguardian.com/technology/rss", "Tech", "World", 3),
+    Source("TechCrunch", "https://techcrunch.com/feed/", "Tech", "World", 4),
+    Source("Electronic Frontier Foundation", "https://www.eff.org/rss/updates.xml", "Tech", "US", 4),
+    Source("Rest of World", "https://restofworld.org/feed/", "Tech", "World", 5),
     Source("BBC Business", "https://feeds.bbci.co.uk/news/business/rss.xml", "Economics", "World", 5),
     Source("The Guardian Economics", "https://www.theguardian.com/business/economics/rss", "Economics", "World", 5),
     Source("The Guardian Business", "https://www.theguardian.com/business/rss", "Economics", "World", 4),
@@ -64,12 +72,21 @@ SOURCES = (
     Source("Toronto Blue Jays", "https://www.mlb.com/bluejays/feeds/news/rss.xml", "Sports", "Canada", 5, focus="Blue Jays"),
     Source("Sportsnet Maple Leafs", "https://www.sportsnet.ca/hockey/nhl/feed/", "Sports", "Canada", 5, ("maple leafs", "leafs"), "Maple Leafs"),
     Source("Sky Sports", "https://www.skysports.com/rss/12040", "Sports", "UK", 3),
+    Source("CBC Sports", "https://www.cbc.ca/cmlink/rss-sports", "Sports", "Canada", 4),
+    Source("The Conversation — Africa", "https://theconversation.com/africa/articles.atom", "Editorial", "Africa", 5, source_type="editorial"),
+    Source("The Conversation — UK", "https://theconversation.com/uk/articles.atom", "Editorial", "UK", 5, source_type="editorial"),
+    Source("ProPublica", "https://www.propublica.org/feeds/propublica/main", "Editorial", "US", 5, source_type="editorial"),
+    Source("Noema", "https://www.noemamag.com/feed/", "Editorial", "World", 4, source_type="editorial"),
+    Source("Undark", "https://undark.org/feed/", "Editorial", "World", 4, source_type="editorial"),
+    Source("Foreign Policy in Focus", "https://fpif.org/feed/", "Editorial", "World", 4, source_type="editorial"),
+    Source("Yale Environment 360", "https://e360.yale.edu/feed.xml", "Editorial", "World", 4, source_type="editorial"),
 )
 
 TAG_RE = re.compile(r"<[^>]*>")
 SCRIPT_RE = re.compile(r"<(script|style|iframe|object|embed)[^>]*>.*?</\1\s*>", re.I | re.S)
 SPACE_RE = re.compile(r"\s+")
 TOKEN_RE = re.compile(r"[a-z0-9]+")
+WORD_RE = re.compile(r"\b[\w’'-]+\b", re.UNICODE)
 TRACKING_QUERY_RE = re.compile(r"([?&])(utm_[^=&]+|cmpid|at_medium|at_campaign)=[^&]*", re.I)
 
 REGION_RULES = {
@@ -77,6 +94,9 @@ REGION_RULES = {
     "US": ("united states", "u.s.", "washington", "white house", "congress", "trump", "american"),
     "China": ("china", "chinese", "beijing", "xi jinping"),
     "UK": ("united kingdom", "britain", "british", "england", "westminster", "downing street", "starmer"),
+    "Africa": ("africa", "african", "kenya", "nigeria", "south africa", "ethiopia", "ghana"),
+    "Middle East": ("middle east", "iran", "israel", "gaza", "lebanon", "syria", "yemen"),
+    "Latin America": ("latin america", "brazil", "mexico", "argentina", "colombia", "chile"),
 }
 SPORT_RULES = ("rugby", "saracens", "blue jays", "baseball", "maple leafs", "nhl", "mlb", "premiership")
 TECH_RULES = ("technology", "tech", "software", "ai ", "artificial intelligence", "cyber", "apple", "google", "microsoft", "robot", "chip")
@@ -86,6 +106,25 @@ TEAM_RULES = {
     "Maple Leafs": ("maple leafs", "leafs"),
     "England Rugby": ("england rugby", "red roses", "six nations"),
 }
+
+PUBLISHER_PREFIXES = (
+    ("The Guardian", "The Guardian"),
+    ("BBC", "BBC"),
+    ("CBC", "CBC News"),
+    ("NPR", "NPR"),
+    ("Sky Sports", "Sky Sports"),
+    ("The Conversation", "The Conversation"),
+    ("Toronto Blue Jays", "MLB"),
+)
+
+
+def normalize_publisher(source_name: str) -> str:
+    """Return a stable publisher family shared by all of its feed editions."""
+    cleaned = sanitize(source_name)
+    for prefix, publisher in PUBLISHER_PREFIXES:
+        if cleaned == prefix or cleaned.startswith(prefix + " "):
+            return publisher
+    return cleaned
 
 
 def text_of(node: ET.Element | None) -> str:
@@ -114,11 +153,53 @@ def sanitize(value: str) -> str:
 
 def safe_url(value: str) -> str:
     value = html.unescape((value or "").strip())
-    parsed = urlparse(value)
-    if parsed.scheme not in ("http", "https") or not parsed.netloc:
+    try:
+        parsed = urlparse(value)
+        port = parsed.port
+    except ValueError:
+        return ""
+    expected_port = 443 if parsed.scheme == "https" else 80 if parsed.scheme == "http" else None
+    if (expected_port is None or not parsed.hostname or parsed.username or parsed.password
+            or port not in (None, expected_port) or any(ord(character) < 32 for character in value)):
         return ""
     cleaned = TRACKING_QUERY_RE.sub(r"\1", value).replace("?&", "?").rstrip("?&")
     return cleaned
+
+
+def reading_metrics(text: str) -> tuple[int, int, bool]:
+    """Return honest available-word count, 220-wpm reading time and short flag."""
+    words = len(WORD_RE.findall(sanitize(text)))
+    return words, max(1, (words + 219) // 220), words < 180
+
+
+def sanitize_body(text: str) -> str:
+    """Sanitize prose while preserving publisher paragraph boundaries."""
+    paragraphs = [sanitize(paragraph) for paragraph in re.split(r"\n\s*\n", text or "")]
+    return "\n\n".join(paragraph for paragraph in paragraphs if paragraph)
+
+
+def breaking_title(title: str) -> bool:
+    lowered = title.lower()
+    return any(term in lowered for term in ("breaking:", "live:", "declares emergency", "major earthquake", "evacuation ordered"))
+
+
+EDITORIAL_MIN_WORDS = 900
+
+
+def qualify_editorial(story: dict, extracted_body: str) -> dict | None:
+    """Qualify source-declared editorial only when readable text is substantial."""
+    if story.get("sourceType") != "editorial":
+        return None
+    body = sanitize_body(extracted_body)
+    words, minutes, _ = reading_metrics(body)
+    if words < EDITORIAL_MIN_WORDS:
+        return None
+    story.update(body=body, wordCount=words, readingMinutes=minutes, isShort=False,
+                 category="Editorial",
+                 contentStatus="Freely readable article text extracted from publisher page")
+    labels = ["Editorial", story.get("region", "World")]
+    story["labels"] = list(dict.fromkeys(labels + story.get("labels", [])))
+    return story
 
 
 def safe_image_url(value: str) -> str:
@@ -143,6 +224,56 @@ def _positive_int(value: object) -> int:
         return result if result > 0 else 0
     except (TypeError, ValueError):
         return 0
+
+
+class _ReadableBodyParser(HTMLParser):
+    """Conservatively retain prose elements nested inside an article element."""
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.article_depth = 0
+        self.blocked_depth = 0
+        self.capture_tag = ""
+        self.capture_depth = 0
+        self.buffer: list[str] = []
+        self.paragraphs: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        tag = tag.lower()
+        if tag == "article":
+            self.article_depth += 1
+        elif self.article_depth and tag in ("script", "style", "nav", "aside", "footer", "form"):
+            self.blocked_depth += 1
+        if self.article_depth and not self.blocked_depth and not self.capture_tag and tag in ("p", "h2", "h3", "blockquote", "li"):
+            self.capture_tag, self.capture_depth, self.buffer = tag, 1, []
+        elif self.capture_tag:
+            self.capture_depth += 1
+
+    def handle_endtag(self, tag: str) -> None:
+        tag = tag.lower()
+        if self.capture_tag:
+            self.capture_depth -= 1
+            if self.capture_depth == 0:
+                text = sanitize(" ".join(self.buffer))
+                if text:
+                    self.paragraphs.append(text)
+                self.capture_tag, self.buffer = "", []
+        if self.blocked_depth and tag in ("script", "style", "nav", "aside", "footer", "form"):
+            self.blocked_depth -= 1
+        elif tag == "article" and self.article_depth:
+            self.article_depth -= 1
+
+    def handle_data(self, data: str) -> None:
+        if self.capture_tag and not self.blocked_depth:
+            self.buffer.append(data)
+
+
+def extract_readable_body(payload: bytes) -> str:
+    parser = _ReadableBodyParser()
+    try:
+        parser.feed(payload.decode("utf-8", "replace"))
+    except Exception:
+        return ""
+    return "\n\n".join(parser.paragraphs)
 
 
 class _ImageParser(HTMLParser):
@@ -370,6 +501,7 @@ def parse_feed(payload: bytes, source: Source) -> list[dict]:
         if len(summary) > 2400:
             summary = summary[:2399].rsplit(" ", 1)[0] + "…"
         category, region, labels = categorize(title, summary, source)
+        word_count, reading_minutes, is_short = reading_metrics(summary)
         image_candidates = extract_image_candidates(item)
         image_url = image_candidates[0]["url"] if image_candidates else ""
         image_alt = image_candidates[0]["alt"] if image_candidates else ""
@@ -377,9 +509,12 @@ def parse_feed(payload: bytes, source: Source) -> list[dict]:
         story = {
             "id": identity, "title": title, "summary": summary or "This feed supplied a headline but no article summary.",
             "contentStatus": "Source-provided feed summary" if summary else "Headline only — no summary supplied",
-            "url": link, "source": source.name, "published": published.isoformat().replace("+00:00", "Z"),
+            "url": link, "source": source.name, "publisher": normalize_publisher(source.name),
+            "published": published.isoformat().replace("+00:00", "Z"),
             "category": category, "region": region, "labels": labels, "sourceWeight": source.weight,
-            "focus": source.focus,
+            "focus": source.focus, "sourceType": source.source_type,
+            "wordCount": word_count, "readingMinutes": reading_minutes,
+            "isShort": is_short, "isBreaking": breaking_title(title),
         }
         if image_url:
             story["imageUrl"] = image_url
@@ -425,17 +560,22 @@ def rank(stories: list[dict], now: datetime) -> list[dict]:
 def select_top(stories: list[dict], count: int = 7) -> list[dict]:
     """Select an image-complete, sport-free and category-diverse Top 7."""
     stories = [story for story in stories
-               if story.get("category") != "Sports"
+               if story.get("category") not in ("Sports", "Editorial")
+               and (not story.get("isShort") or story.get("isBreaking"))
                and bool(story.get("imageUrl"))
                and safe_image_url(story.get("imageUrl", "")) == story.get("imageUrl")
                and meets_image_floor(story.get("imageWidth"), story.get("imageHeight"))]
     if len(stories) < count:
         raise ValueError(f"Need at least {count} image-bearing non-Sports stories verified at 960x540, got {len(stories)}")
-    selected, source_counts, category_counts, focus_counts = [], {}, {}, {}
+    selected, publisher_counts, category_counts, focus_counts = [], {}, {}, {}
+
+    def publisher(story: dict) -> str:
+        return story.get("publisher") or normalize_publisher(story.get("source", ""))
 
     def add(story: dict) -> None:
         selected.append(story)
-        source_counts[story["source"]] = source_counts.get(story["source"], 0) + 1
+        family = publisher(story)
+        publisher_counts[family] = publisher_counts.get(family, 0) + 1
         category_counts[story["category"]] = category_counts.get(story["category"], 0) + 1
         if story.get("focus"):
             focus_counts[story["focus"]] = focus_counts.get(story["focus"], 0) + 1
@@ -445,7 +585,7 @@ def select_top(stories: list[dict], count: int = 7) -> list[dict]:
     required_categories = ("Politics", "Tech", "Economics")
     for category in required_categories:
         story = next((item for item in stories
-                      if item["category"] == category and not source_counts.get(item["source"])), None)
+                      if item["category"] == category and not publisher_counts.get(publisher(item))), None)
         if story is None:
             story = next((item for item in stories if item["category"] == category), None)
         if story:
@@ -453,15 +593,47 @@ def select_top(stories: list[dict], count: int = 7) -> list[dict]:
     for story in stories:
         if story in selected:
             continue
-        if (source_counts.get(story["source"], 0) >= 2
+        if (publisher_counts.get(publisher(story), 0) >= 2
                 or category_counts.get(story["category"], 0) >= 3
                 or (story.get("focus") and focus_counts.get(story["focus"], 0) >= 1)):
             continue
         add(story)
         if len(selected) == count:
             break
+    # Feed failures must reduce diversity, not the edition. Relax the caps only
+    # after exhausting every candidate that meets them.
+    for story in stories:
+        if len(selected) == count:
+            break
+        if story not in selected and (not story.get("focus") or not focus_counts.get(story["focus"])):
+            add(story)
     if len(selected) != count or not set(required_categories) <= {story["category"] for story in selected}:
         raise ValueError("Could not assemble a diverse verified Top 7")
+    return selected
+
+
+def select_section(stories: list[dict], count: int = 12, publisher_cap: int = 2) -> list[dict]:
+    """Select a concise substantial and publisher-diverse view, relaxing when needed."""
+    substantial = [story for story in stories if not story.get("isShort") or story.get("isBreaking")]
+    candidates = substantial or stories
+    selected, counts = [], {}
+    for story in candidates:
+        family = story.get("publisher") or normalize_publisher(story.get("source", ""))
+        if counts.get(family, 0) >= publisher_cap:
+            continue
+        selected.append(story)
+        counts[family] = counts.get(family, 0) + 1
+        if len(selected) == count:
+            return selected
+    # Two or more healthy publisher families are a useful concise section;
+    # do not dilute it merely to hit the display ceiling.
+    if len(counts) >= 2:
+        return selected
+    for story in stories:
+        if story not in selected:
+            selected.append(story)
+            if len(selected) == count:
+                break
     return selected
 
 
@@ -564,7 +736,7 @@ def enrich_verified(stories: list[dict], article_fetch=fetch_article, image_fetc
     qualified, article_cache, probe_cache = [], {}, {}
     attempts = 0
     for story in stories:
-        if story.get("category") == "Sports":
+        if story.get("category") in ("Sports", "Editorial"):
             continue
         attempts += 1
         if attempts > max_stories:
@@ -577,10 +749,16 @@ def enrich_verified(stories: list[dict], article_fetch=fetch_article, image_fetc
                                "alt": story.get("imageAlt", ""), "kind": "feed"})
         try:
             if story["url"] not in article_cache:
-                article_cache[story["url"]] = extract_social_images(_call_article_fetch(article_fetch, story["url"]))
-            candidates = article_cache[story["url"]] + candidates
+                payload = _call_article_fetch(article_fetch, story["url"])
+                article_cache[story["url"]] = (extract_social_images(payload), extract_readable_body(payload))
+            social_images, body = article_cache[story["url"]]
+            candidates = social_images + candidates
+            words, minutes, is_short = reading_metrics(body)
+            if body and words > story.get("wordCount", 0):
+                story.update(body=sanitize_body(body), wordCount=words, readingMinutes=minutes, isShort=is_short,
+                             contentStatus="Freely readable article text extracted from publisher page")
         except Exception:
-            article_cache[story["url"]] = []
+            article_cache[story["url"]] = ([], "")
         unique = {}
         for candidate in candidates:
             url = safe_image_url(candidate.get("url", ""))
@@ -611,11 +789,45 @@ def enrich_verified(stories: list[dict], article_fetch=fetch_article, image_fetc
                 story["imageAlt"] = best["alt"]
             qualified.append(story)
             try:
-                select_top(qualified)
-                break
+                candidate_top = select_top(qualified)
+                families = [item.get("publisher") or normalize_publisher(item.get("source", ""))
+                            for item in candidate_top]
+                if max(families.count(family) for family in set(families)) <= 2:
+                    break
             except ValueError:
                 pass
     return qualified
+
+
+def enrich_editorials(stories: list[dict], article_fetch=fetch_article,
+                      max_probes: int = MAX_EDITORIAL_PROBES) -> tuple[list[dict], list[dict]]:
+    """Extract and deterministically qualify free long reads across publishers."""
+    qualified, probes, status, publisher_probes, source_probes = [], 0, {}, {}, {}
+    for story in stories:
+        if story.get("sourceType") != "editorial" or probes >= max_probes:
+            continue
+        publisher = story.get("publisher") or normalize_publisher(story.get("source", ""))
+        source = story["source"]
+        if publisher_probes.get(publisher, 0) >= 6 or source_probes.get(source, 0) >= 3:
+            continue
+        entry = status.setdefault(source, {"source": source, "succeeded": 0, "failed": 0, "skipped": 0})
+        probes += 1
+        publisher_probes[publisher] = publisher_probes.get(publisher, 0) + 1
+        source_probes[source] = source_probes.get(source, 0) + 1
+        try:
+            body = extract_readable_body(_call_article_fetch(article_fetch, story["url"]))
+            item = qualify_editorial(story, body)
+            if item:
+                qualified.append(item)
+                entry["succeeded"] += 1
+            else:
+                entry["skipped"] += 1
+        except Exception:
+            entry["failed"] += 1
+    for story in stories:
+        if story.get("sourceType") == "editorial" and story["source"] not in status:
+            status[story["source"]] = {"source": story["source"], "succeeded": 0, "failed": 0, "skipped": 1}
+    return qualified, list(status.values())
 
 
 def valid_fallback_stories(previous: dict) -> list[dict]:
@@ -628,6 +840,22 @@ def valid_fallback_stories(previous: dict) -> list[dict]:
                 and safe_image_url(story.get("imageUrl", "")) == story.get("imageUrl")
                 and meets_image_floor(story.get("imageWidth"), story.get("imageHeight"))):
             result.append(story)
+    return result
+
+
+def valid_fallback_editorials(previous: dict) -> list[dict]:
+    """Reuse only checked-in Editorial items that still satisfy every invariant."""
+    by_id = {story.get("id"): story for story in previous.get("stories", [])}
+    result = []
+    for identifier in previous.get("sectionStoryIds", {}).get("Editorial", []):
+        story = by_id.get(identifier)
+        if not story or story.get("category") != "Editorial" or story.get("sourceType") != "editorial":
+            continue
+        body = sanitize_body(story.get("body", ""))
+        words, minutes, _ = reading_metrics(body)
+        if safe_url(story.get("url", "")) != story.get("url") or words < EDITORIAL_MIN_WORDS:
+            continue
+        result.append(dict(story, body=body, wordCount=words, readingMinutes=minutes, isShort=False))
     return result
 
 
@@ -645,7 +873,7 @@ def render_snapshot(top: list[dict]) -> str:
             f'<article class="snapshot-card"><div class="story-image-frame">'
             f'<img class="story-image" src="{html.escape(story["imageUrl"], quote=True)}" alt="" width="{story["imageWidth"]}" height="{story["imageHeight"]}" loading="lazy" decoding="async" referrerpolicy="no-referrer">'
             f'</div><p class="snapshot-number">{i:02d}</p>'
-            f'<p class="story-meta">{html.escape(story["source"])} · <time datetime="{story["published"]}">{story["published"][:10]}</time></p>'
+            f'<p class="story-meta">{html.escape(story.get("publisher", story["source"]))} · <time datetime="{story["published"]}">{story["published"][:10]}</time> · {story.get("readingMinutes", 1)} min · {story.get("wordCount", 0)} words available</p>'
             f'<h3>{html.escape(story["title"])}</h3><p>{html.escape(story["summary"])}</p>'
             f'<p class="labels">{html.escape(labels)}</p><a href="{html.escape(story["url"], quote=True)}" rel="noopener noreferrer">Read at source</a></article>'
         )
@@ -678,24 +906,46 @@ def build(allow_fallback: bool = False) -> dict:
             statuses.append({"source": source.name, "ok": True, "items": len(stories)})
         except Exception as exc:  # one broken publisher must not stop refresh
             statuses.append({"source": source.name, "ok": False, "error": sanitize(str(exc))[:180]})
-    ranked = rank(dedupe(all_stories), now)
+    ranked_all = rank(dedupe(all_stories), now)
+    editorial_ranked = [story for story in ranked_all if story.get("sourceType") == "editorial"]
+    ranked = [story for story in ranked_all if story.get("sourceType") != "editorial"]
+    editorials, editorial_status = enrich_editorials(editorial_ranked)
+    previous = json.loads(DATA_PATH.read_text(encoding="utf-8")) if allow_fallback and DATA_PATH.exists() else None
+    if len({story.get("publisher") for story in editorials}) < 3 and previous:
+        editorials = rank(dedupe(editorials + valid_fallback_editorials(previous)), now)
     qualified = enrich_verified(ranked)
     try:
         top = select_top(qualified)
     except ValueError:
         if not allow_fallback or not DATA_PATH.exists():
             raise
-        previous = json.loads(DATA_PATH.read_text(encoding="utf-8"))
+        previous = previous or json.loads(DATA_PATH.read_text(encoding="utf-8"))
         fallback = valid_fallback_stories(previous)
         ranked = rank(dedupe(ranked + fallback), now)
         qualified = enrich_verified(ranked)
         top = select_top(qualified)
-    ordered = order_for_output(top, ranked)
+    section_story_ids = {}
+    selected_sections = []
+    for category in ("Politics", "Tech", "Economics", "Sports"):
+        selected = select_section([story for story in ranked if story["category"] == category],
+                                  publisher_cap=3 if category == "Sports" else 2)
+        section_story_ids[category] = [story["id"] for story in selected]
+        selected_sections.extend(selected)
+    selected_editorials = select_section(editorials, 12, publisher_cap=2)
+    section_story_ids["Editorial"] = [story["id"] for story in selected_editorials]
+    ordered = list(top)
+    for story in selected_sections + selected_editorials + order_for_output(top, ranked) + editorials:
+        if story not in ordered:
+            ordered.append(story)
+    ordered = ordered[:200]
     ordered = [{key: value for key, value in story.items() if not key.startswith("_")} for story in ordered]
     output = {
         "schemaVersion": 2, "generatedAt": now.isoformat().replace("+00:00", "Z"),
-        "topStoryIds": [story["id"] for story in top], "stories": ordered,
-        "sourceStatus": statuses,
+        "topStoryIds": [story["id"] for story in top], "sectionStoryIds": section_story_ids,
+        "stories": ordered, "sourceStatus": statuses, "editorialStatus": editorial_status,
+        "policies": {"topPublisherCap": 2, "sectionPublisherCap": 2,
+                     "shortWordThreshold": 180, "editorialMinWords": EDITORIAL_MIN_WORDS,
+                     "readingWordsPerMinute": 220},
     }
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
     DATA_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

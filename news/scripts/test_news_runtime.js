@@ -31,7 +31,7 @@ function walk(root) {
   return [root, ...root.children.flatMap(walk)];
 }
 
-const filters = ['All', 'Politics', 'Tech', 'Economics', 'Sports'];
+const filters = ['All', 'Politics', 'Tech', 'Economics', 'Sports', 'Editorial'];
 const topicButtons = filters.map((filter, index) => {
   const button = element('button'); button.dataset.filter = filter;
   button.setAttribute('aria-pressed', String(index === 0)); return button;
@@ -46,7 +46,7 @@ const elements = new Map([
   ['.lead-section', leadSection], ['.latest-section', latestSection],
 ]);
 for (const selector of ['#reader-kicker', '#reader-title', '#reader-byline', '#reader-copy', '#reader-labels',
-  '#reader-disclosure', '#reader-source', '#refresh-time', '#dateline', '.no-script']) elements.set(selector, element());
+  '#reader-disclosure', '#reader-source', '#refresh-time', '#dateline', '#latest-heading', '.no-script']) elements.set(selector, element());
 
 const topStories = Array.from({ length: 7 }, (_, index) => ({
   id: `top-${index}`, title: `Top story ${index}`, summary: `Top summary ${index}`, source: 'Test source',
@@ -82,7 +82,15 @@ const sportsStories = [
   title: story.id, summary: `${story.id} summary`, published: '2026-08-15T12:00:00Z', region: 'World',
   category: 'Sports', url: `https://example.com/${story.id}`, contentStatus: 'Summary', ...story,
 }));
-const fixtureEdition = { schemaVersion: 2, generatedAt: '2026-08-15T12:00:00Z', topStoryIds: topStories.map(story => story.id), stories: [...topStories, ...sectionStories, ...sportsStories] };
+const editorialStory = {
+  id: 'editorial-long', title: 'A substantial investigation', summary: 'A concise editorial introduction.',
+  body: 'First safe paragraph.\n\nSecond safe paragraph.', source: 'Essay source', publisher: 'Essay publisher',
+  published: '2026-08-15T12:00:00Z', region: 'Africa', category: 'Editorial', labels: ['Editorial', 'Africa'],
+  url: 'https://example.com/editorial', contentStatus: 'Freely readable article text extracted from publisher page',
+  readingMinutes: 7, wordCount: 1400,
+};
+const fixtureEdition = { schemaVersion: 2, generatedAt: '2026-08-15T12:00:00Z', topStoryIds: topStories.map(story => story.id),
+  sectionStoryIds: { Editorial: [editorialStory.id] }, stories: [...topStories, ...sectionStories, ...sportsStories, editorialStory] };
 const productionMode = Boolean(process.env.NEWS_DATA_PATH);
 const edition = productionMode ? JSON.parse(fs.readFileSync(process.env.NEWS_DATA_PATH, 'utf8')) : fixtureEdition;
 let fetchCalled = false;
@@ -98,11 +106,11 @@ const context = {
 context.globalThis = context;
 
 function renderedCategories() {
-  return elements.get('#story-sections').children.filter(child => child.className === 'news-section').map(section => section.children[0].textContent);
+  return elements.get('#story-sections').children.filter(child => child.className.split(' ').includes('news-section')).map(section => section.children[0].textContent);
 }
 
 function sectionList() {
-  const section = elements.get('#story-sections').children.find(child => child.className === 'news-section');
+  const section = elements.get('#story-sections').children.find(child => child.className.split(' ').includes('news-section'));
   return section && section.children.find(child => child.className === 'story-list');
 }
 
@@ -163,16 +171,32 @@ async function run() {
         `${filter} production has zero mismatches`);
       if (filter === 'Blue Jays') assert.ok(titles.length > 12, 'production Blue Jays displays more than 12');
     }
-    console.log('Daily Seven production Sports DOM assertions passed');
+    topicButtons.find(button => button.dataset.filter === 'Editorial').click();
+    const editorialIds = edition.sectionStoryIds && edition.sectionStoryIds.Editorial || [];
+    assert.equal(sectionList().children.length, editorialIds.length, 'production Editorial renders selected long reads');
+    assert.ok(editorialIds.length >= 4, 'production Editorial is populated');
+    sectionList().children[0].children[1].children[0].click();
+    assert.ok(elements.get('#reader-copy').children.some(child => child.textContent.length > 100), 'production Editorial opens readable body');
+    reader.dispatch('close');
+    console.log('Daily Seven production Sports and Editorial DOM assertions passed');
     return;
   }
 
-  for (const category of filters.slice(1, -1)) {
+  for (const category of ['Politics', 'Tech', 'Economics']) {
     topicButtons.find(button => button.dataset.filter === category).click();
     assert.equal(leadSection.hidden, true, `${category} hides Top 7`);
     assert.equal(latestSection.hidden, false, `${category} shows latest`);
     assert.deepEqual(renderedCategories(), [category], `${category} renders only itself`);
   }
+
+  topicButtons.find(button => button.dataset.filter === 'Editorial').click();
+  assert.deepEqual(renderedCategories(), ['Editorial'], 'Editorial renders as a first-class section');
+  assert.equal(sectionList().children.length, 1, 'Editorial renders qualified long reads');
+  assert.match(sectionList().children[0].children[0].textContent, /7 min read · 1,400 words available/);
+  sectionList().children[0].children[1].children[0].click();
+  assert.deepEqual(elements.get('#reader-copy').children.map(child => child.textContent),
+    ['First safe paragraph.', 'Second safe paragraph.'], 'Editorial opens its extracted body in app');
+  reader.dispatch('close');
 
   topicButtons.find(button => button.dataset.filter === 'Sports').click();
   assert.equal(leadSection.hidden, true, 'Sports keeps Top 7 hidden');
@@ -187,7 +211,7 @@ async function run() {
     assert.equal(button.children[1].textContent, String(count), `${filter} count`);
     assert.equal(button.getAttribute('aria-label'), `${filter}, ${count} stories`, `${filter} accessible count`);
     button.click();
-    assert.equal(topicButtons.at(-1).getAttribute('aria-pressed'), 'true', 'primary Sports remains active');
+    assert.equal(topicButtons.find(candidate => candidate.dataset.filter === 'Sports').getAttribute('aria-pressed'), 'true', 'primary Sports remains active');
     assert.equal(leadSection.hidden, true, `${filter} keeps Top 7 hidden`);
     assert.equal(sectionList().children.length, count, `${filter} renders all matches`);
     const titles = sectionList().children.map(item => item.children[1].children[0].textContent);

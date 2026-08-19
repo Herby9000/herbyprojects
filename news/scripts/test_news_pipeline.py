@@ -1,4 +1,5 @@
 import json
+import os
 import struct
 import subprocess
 import tempfile
@@ -91,6 +92,14 @@ class PipelineTests(unittest.TestCase):
         }
         self.assertTrue(all(count > 0 for count in counts.values()), counts)
 
+    def test_editorial_is_first_class_navigation_with_empty_state_and_length_metadata(self):
+        html = (Path(__file__).parents[1] / 'index.html').read_text(encoding='utf-8')
+        script = (Path(__file__).parents[1] / 'assets' / 'news.js').read_text(encoding='utf-8')
+        self.assertIn('data-filter="Editorial"', html)
+        self.assertIn('Editorial feeds are temporarily unavailable', script)
+        self.assertIn('readingMinutes', script)
+        self.assertIn("story.body", script)
+
     def test_daily_seven_manifest_is_nested_path_safe(self):
         news_root = Path(__file__).parents[1]
         manifest = json.loads((news_root / 'manifest.webmanifest').read_text(encoding='utf-8'))
@@ -138,9 +147,39 @@ class PipelineTests(unittest.TestCase):
         result = subprocess.run(['node', str(script)], capture_output=True, text=True)
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
+    def test_checked_in_refreshed_data_passes_production_dom_behavior(self):
+        script = Path(__file__).with_name('test_news_runtime.js')
+        data = Path(__file__).parents[1] / 'data' / 'news.json'
+        result = subprocess.run(['node', str(script)], capture_output=True, text=True,
+                                env={**os.environ, 'NEWS_DATA_PATH': str(data)})
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+
+    def test_publisher_normalization_collapses_feed_editions(self):
+        self.assertEqual(pipeline.normalize_publisher('The Guardian China'), 'The Guardian')
+        self.assertEqual(pipeline.normalize_publisher('BBC Technology'), 'BBC')
+        self.assertEqual(pipeline.normalize_publisher('CBC Canada'), 'CBC News')
+        self.assertEqual(pipeline.normalize_publisher('Ars Technica'), 'Ars Technica')
+
     def test_sanitization_strips_active_markup_and_decodes_entities(self):
         self.assertEqual(pipeline.sanitize('<style>x</style><p>A &amp; B</p><iframe>x</iframe>'), 'A & B')
         self.assertEqual(pipeline.safe_url('javascript:alert(1)'), '')
+
+    def test_story_links_reject_credentials_and_nonstandard_ports(self):
+        self.assertEqual(pipeline.safe_url('https://user:secret@example.com/story'), '')
+        self.assertEqual(pipeline.safe_url('https://example.com:8443/story'), '')
+        self.assertEqual(pipeline.safe_url('https://example.com/story'), 'https://example.com/story')
+
+    def test_article_body_extraction_is_sanitized_and_article_scoped(self):
+        markup = b'''<html><body><nav>Menu poison</nav><article><h2>Context &amp; evidence</h2>
+        <p>First paragraph with useful detail.</p><script>alert(1)</script>
+        <p>Second paragraph <a href="javascript:bad()">with a link</a>.</p></article>
+        <footer>Footer poison</footer></body></html>'''
+        body = pipeline.extract_readable_body(markup)
+        self.assertIn('Context & evidence', body)
+        self.assertIn('First paragraph with useful detail.', body)
+        self.assertNotIn('alert', body)
+        self.assertNotIn('poison', body)
+        self.assertNotIn('<', body)
 
     def test_image_extraction_covers_media_enclosure_and_description(self):
         source = pipeline.Source('Test', 'https://example.com/feed', 'Politics', 'World')
@@ -230,6 +269,21 @@ class PipelineTests(unittest.TestCase):
         self.assertNotIn('<', story['summary'])
         self.assertNotIn('alert', story['summary'])
 
+    def test_reading_time_and_short_content_are_derived_from_available_text(self):
+        self.assertEqual(pipeline.reading_metrics('word ' * 1), (1, 1, True))
+        self.assertEqual(pipeline.reading_metrics('word ' * 440), (440, 2, False))
+        self.assertEqual(pipeline.reading_metrics('word ' * 441), (441, 3, False))
+
+    def test_editorial_requires_editorial_source_and_extracted_long_body(self):
+        base = self.verified_story('essay', 'Editorial', source='Essay Journal')
+        base.update(sourceType='editorial', summary='A feed excerpt.', region='Africa')
+        self.assertIsNone(pipeline.qualify_editorial(dict(base), 'word ' * 899))
+        qualified = pipeline.qualify_editorial(dict(base), 'word ' * 900)
+        self.assertEqual((qualified['wordCount'], qualified['readingMinutes']), (900, 5))
+        self.assertEqual(qualified['contentStatus'], 'Freely readable article text extracted from publisher page')
+        ordinary = dict(base, sourceType='news')
+        self.assertIsNone(pipeline.qualify_editorial(ordinary, 'word ' * 1200))
+
     def test_dedupe_collapses_same_event_and_keeps_newer(self):
         base = {'summary': 'x', 'sourceWeight': 3, 'source': 'A', 'category': 'Politics', 'region': 'UK', 'labels': []}
         old = dict(base, id='1', title='Prime minister announces major new housing plan', url='https://a.test/1', published='2026-08-15T10:00:00Z')
@@ -291,6 +345,37 @@ class PipelineTests(unittest.TestCase):
         self.assertLessEqual(max(sum(s['source'] == name for s in top) for name in {s['source'] for s in top}), 2)
         self.assertLessEqual(max((sum(s.get('focus') == focus for s in top)
                                   for focus in {s.get('focus') for s in top if s.get('focus')}), default=0), 1)
+
+    def test_top_cap_uses_normalized_publisher_not_feed_name(self):
+        categories = ['Politics', 'Tech', 'Economics', 'Politics', 'Tech', 'Economics', 'Politics', 'Tech', 'Economics', 'Politics', 'Tech']
+        stories = [self.verified_story(str(i), category, source=(f'The Guardian Feed {i}' if i < 6 else f'Independent {i}'))
+                   for i, category in enumerate(categories)]
+        for story in stories:
+            story['publisher'] = 'The Guardian' if story['source'].startswith('The Guardian') else story['source']
+        top = pipeline.select_top(stories)
+        self.assertEqual(len(top), 7)
+        self.assertLessEqual(sum(story['publisher'] == 'The Guardian' for story in top), 2)
+
+    def test_section_selection_is_diverse_and_degrades_when_alternatives_fail(self):
+        stories = []
+        for i in range(10):
+            story = self.verified_story(str(i), 'Tech', source='Dominant feed' if i < 6 else f'Alternative {i}')
+            story['publisher'] = 'Dominant' if i < 6 else story['source']
+            stories.append(story)
+        selected = pipeline.select_section(stories, 6)
+        self.assertLessEqual(sum(story['publisher'] == 'Dominant' for story in selected), 2)
+        self.assertEqual(len({story['publisher'] for story in selected}), 5)
+        self.assertEqual(len(pipeline.select_section(stories[:4], 6)), 4)
+
+    def test_short_stories_are_excluded_from_default_view_until_needed(self):
+        stories = []
+        for i in range(5):
+            story = self.verified_story(str(i), 'Politics')
+            story.update(publisher=f'Publisher {i}', isShort=i < 2, wordCount=40 if i < 2 else 300)
+            stories.append(story)
+        selected = pipeline.select_section(stories, 3)
+        self.assertEqual([story['id'] for story in selected], ['2', '3', '4'])
+        self.assertEqual(len(pipeline.select_section(stories[:2], 3)), 2)
 
     def test_selection_skips_low_resolution_ranked_candidate(self):
         categories = ['Politics', 'Tech', 'Economics', 'Politics', 'Tech', 'Economics', 'Politics', 'Tech']
@@ -355,6 +440,27 @@ class PipelineTests(unittest.TestCase):
         self.assertTrue(all(story['category'] != 'Sports' for story in top))
         self.assertTrue(all(pipeline.safe_image_url(story.get('imageUrl', '')) == story.get('imageUrl') for story in top))
         self.assertTrue(all(pipeline.meets_image_floor(story.get('imageWidth'), story.get('imageHeight')) for story in top))
+
+    def test_checked_in_fallback_has_diverse_substantial_editorial_and_length_metadata(self):
+        data = json.loads((Path(__file__).parents[1] / 'data' / 'news.json').read_text(encoding='utf-8'))
+        self.assertIn('Editorial', data['sectionStoryIds'])
+        by_id = {story['id']: story for story in data['stories']}
+        editorial = [by_id[identifier] for identifier in data['sectionStoryIds']['Editorial']]
+        self.assertGreaterEqual(len(editorial), 4)
+        self.assertGreaterEqual(len({story['publisher'] for story in editorial}), 3)
+        self.assertTrue(all(story['category'] == 'Editorial' and story['wordCount'] >= 900 and
+                            story['readingMinutes'] >= 5 and story.get('body') for story in editorial))
+        self.assertTrue(all('readingMinutes' in story and 'wordCount' in story for story in data['stories']))
+
+    def test_editorial_fallback_reuses_only_previously_qualified_safe_long_reads(self):
+        good = self.verified_story('good-editorial', 'Editorial', source='Essay source')
+        good.update(sourceType='editorial', publisher='Essay source', body='word ' * 900,
+                    wordCount=900, readingMinutes=5, isShort=False)
+        short = dict(good, id='short-editorial', body='word ' * 899, wordCount=899)
+        unsafe = dict(good, id='unsafe-editorial', url='javascript:alert(1)')
+        previous = {'sectionStoryIds': {'Editorial': [good['id'], short['id'], unsafe['id']]},
+                    'stories': [good, short, unsafe]}
+        self.assertEqual([story['id'] for story in pipeline.valid_fallback_editorials(previous)], ['good-editorial'])
 
     def test_no_js_snapshot_has_seven_safe_story_images(self):
         snapshot = (Path(__file__).parents[1] / 'snapshot.html').read_text(encoding='utf-8')
