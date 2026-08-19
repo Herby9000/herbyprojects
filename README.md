@@ -19,7 +19,7 @@ The apps may be personal, but the code is public. Private user data, credentials
 
 ## Projects
 
-- [The Daily Seven](https://herbyprojects.com/news/)
+- [The Daily Seven](https://herby9000.github.io/herbyprojects/news/)
 - [Three Smiles](https://github.com/Herby9000/three-smiles)
 - [StickLab](https://github.com/Herby9000/sticklab)
 - [Next Rugby Match](https://github.com/Herby9000/rugby-next-match)
