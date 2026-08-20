@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-20T01:50:27.740256Z",
+  "generatedAt": "2026-08-20T04:51:53.763817Z",
   "topStoryIds": [
     "500644e34b7d88d7",
     "cdf529cadc2bfc52",
-    "0772b92e1db08400",
+    "f7e04cafa77726dc",
     "85a708460a6af932",
-    "1e233d29f615536a",
+    "f7dd2ce2c7de971c",
     "584afc8de8b04543",
     "725cbd6fe6984c7d"
   ],
@@ -29,16 +29,16 @@
     ],
     "Economics": [
       "85a708460a6af932",
-      "9c8b9d48cb4f3570",
-      "0772b92e1db08400",
-      "1e233d29f615536a"
+      "f7e04cafa77726dc",
+      "f7dd2ce2c7de971c",
+      "9c8b9d48cb4f3570"
     ],
     "Sports": [
-      "a7bb4dfc5cf55a20",
+      "6079561c909520af",
       "2431af0d98f1c620",
+      "a7bb4dfc5cf55a20",
       "97d8204adf93f1d4",
-      "d6b75a7d98c84830",
-      "1f64b853e6e115e8",
+      "eadb3c0094cab86e",
       "446014f5425e0c4b",
       "7ef10d7c42cfab3d",
       "be476dfa2adb8a0e",
@@ -114,29 +114,29 @@
       "imageHeight": 648
     },
     {
-      "id": "0772b92e1db08400",
-      "title": "Canada and US say they are finalising a trade deal, but details remain murky",
-      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
+      "id": "f7e04cafa77726dc",
+      "title": "Founder of China's Evergrande sentenced to life in prison",
+      "summary": "Hui's sentencing marks a pivotal moment in the fallout from Evergrande's collapse, which shook China's property sector.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o",
+      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo",
       "source": "BBC Business",
       "publisher": "BBC",
-      "published": "2026-08-20T00:18:01Z",
+      "published": "2026-08-20T04:42:13Z",
       "category": "Economics",
-      "region": "Canada",
+      "region": "China",
       "labels": [
         "Economics",
-        "Canada"
+        "China"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 950,
-      "readingMinutes": 5,
+      "wordCount": 213,
+      "readingMinutes": 1,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg",
-      "body": "US trade representative Jamieson Greer (right) said the deal eliminates several trade irritants that the Americans had with Canada.\n\nPublished 19 August 2026\n\nCanada and the US are finalising a highly anticipated trade deal, with President Donald Trump and Prime Minister Mark Carney touting it as a success.\n\nTrump said the proposed deal will be welcomed by US farmers and manufacturers, while Carney said it will secure \"the best terms\" for Canada's strategic sectors and provide certainty on the future of US-Canada trade.\n\nTrade negotiators met on Wednesday for the third time in as many days after Trump paused a new wave of tariffs he had threatened to impose overnight on a range of Canadian goods.\n\nBut details on what the agreement covers, what concessions both sides have made, and what still needs to be ironed out, remain unclear.\n\nSpeaking to reporters briefly on Wednesday after a 45-minute meeting with his Canadian counterpart, US Trade Representative Jamieson Greer said the Americans are \"very happy\" with the latest discussions.\n\nHe said he will soon brief Congress and US stakeholders on the deal's details.\n\n\"We feel confident that we've reached an agreement that will not only continue to protect American workers, American jobs, American supply chains, but really strengthen the North American economy,\" Greer said.\n\nThe deal eliminates \"some of the irritants\" that the US has had with Canada, he added.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nThe BBC's Samira Hussain explains the impact of Trump's tariffs on the US\n\nTrump said Canada has agreed to eliminate tariffs on US farmers, though he did not specify which specific agricultural sectors would benefit.\n\nAsked whether the US will also be reducing some tariffs it has placed on Canada, Trump said by \"a little bit\".\n\nIn a post on X, Carney congratulated Greer and Canada-US Trade Minister Dominic LeBlanc \"for the significant progress\" made in negotiations.\n\n\"We are now moving towards an agreement that reinforces that Canadian advantage, including by securing the best terms in each of Canada's most important strategic sectors and providing greater certainty about our future trading relationship,\" Carney wrote on Wednesday.\n\nThe prime minister met with his cabinet and leaders of Canadian provinces on Wednesday afternoon to brief them on the deal.\n\nHis office said in a statement following the meeting that the prime minister \"underscored the importance of a strong Team Canada approach\" and emphasised \"continued collaboration with provincial and territorial governments as the federal government works to finalise a deal\".\n\nCarney \"reiterated that the government's goal is to secure the best deal for Canadians – one that provides the greatest possible U.S. market access for Canadian businesses\", the statement says.\n\nFollowing Carney's meeting, Nova Scotia Premier Tim Houston said the prime minister asked provinces to return US alcohol to Canadian markets.\n\n\"It's been an irritant. It's been something that has kind of really bothered the United States for so many reasons,\" Houston said. \"Now, whether Canadians will really buy it when it's back on the shelf, that's a whole other discussion.\"\n\nSaskatchewan Premier Scott Moe told reporters that bilateral negotiations are still ongoing, adding that Canada is still seeking \"potential reductions to existing sectoral tariffs\".\n\nLeBlanc and his team have been camped out in Washington for more than a week to hammer out a deal ahead of a wave of new 50% tariffs the Trump administration planned to implement on Wednesday. Those have now been paused until the weekend.\n\nCanada has been in pursuit of a deal that would have the US drop or reduce tariffs on its steel, aluminium, automobiles and lumber.\n\nThe US, meanwhile, has been asking for a number of concessions from Canada, including removing its remaining retaliatory tariffs on American autos and adjusting its dairy quotas to allow greater access for US cheese producers.\n\nIt has also asked for the ban on US alcohol sales, imposed last year by most Canadian provinces in retaliation to Trump's tariffs, be removed.\n\nAsked on Wednesday if the latest deal will include significant concessions on dairy, Minister LeBlanc said that Canada's dairy supply management programme - which sees production quotas, set pricing, and import quotas on dairy, eggs, and poultry - will remain \"entirely intact\".\n\nPolls suggest that a majority of Canadians would be unhappy if the Carney government made significant concessions to the US, with 56% surveyed by polling firm Leger , external saying they want Canada to take a hardline approach.\n\nBut business organisations from both sides of the border have urged for a deal to be reached, cautioning that additional tariffs between the two major trading partners would be harmful for both countries.\n\nDennis Darby, president of Canadian Manufacturers and Exporters and a member of Carney's advisory committee on Canada-US trade, told the BBC that he is optimistic a finalised deal is on the horizon.\n\n\"The committee was informed this morning that the negotiations continue and that and we're close, and that's more positive than we've seen in some time,\" Darby said.\n\nHe added that businesses hope this will be the first step towards a return to the terms set under the North American free trade agreement, known as USMCA, with most goods flowing tariff-free through Canada, the US and Mexico.\n\n\"Let's hope that whatever they have to negotiate gets us closer to that,\" he said.\n\nRelated topics\n\nCanada\n\nDonald Trump\n\nMark Carney\n\nUnited States\n\nTrump tariffs\n\nMore on this story\n\nTrump pauses new tariffs on Canada for three days, saying deal close Published 10 hours ago\n\nCanada's 'powerful' dairy sector is in Trump's trade crosshairs Published 23 July\n\nMany Canadians are boycotting the US, so this is where they're travelling instead Published 5 days ago",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7941/live/f514e1b0-9c4c-11f1-a7e0-fd27165ce529.jpg",
+      "body": "Hui Ka Yan, centre, the founder of China's Evergrande Group\n\nPublished 9 minutes ago\n\nThe founder of Evergrande, the property giant at the centre of China's housing market slump, has been sentenced to life in prison and had all of his personal property confiscated.\n\nHui Ka Yan pleaded guilty in April to several charges, including embezzlement of assets and corporate bribery.\n\nShenzhen Intermediate People's Court also fined Evergrande Group 8.82bn yuan (£960m; $1.31bn), while its real estate unit was ordered to pay 7bn yuan, according to state media.\n\nHui's sentencing marks a pivotal moment in the fallout from Evergrande's collapse, which shook China's property sector and left investors and domestic banks reeling.\n\nHui, also known as Xu Jiayin, rose from humble beginnings in rural China, where he was raised by his grandmother before venturing into property development and setting up Evergrande in 1996.\n\nHe oversaw the company's rapid rise through an aggressive expansion funded with large amounts of borrowed money.\n\nThe firm became China's biggest real estate developer, with a stock market valuation of more than $50bn (£36.7bn), but collapsed in 2021.\n\nEvergrande's implosion has often been blamed for triggering a broader slump in China's property market that continues to weigh heavily on the economy.\n\nRelated topics\n\nInternational Business\n\nChina",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -168,29 +168,29 @@
       "imageHeight": 630
     },
     {
-      "id": "1e233d29f615536a",
-      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "id": "f7dd2ce2c7de971c",
+      "title": "Canada and US say they are finalising a trade deal",
+      "summary": "Prime Minister Carney hailed \"significant progress\" in trade talks as the two countries seek to hammer out final details ahead of a new weekend tariff deadline.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o",
       "source": "BBC Business",
       "publisher": "BBC",
-      "published": "2026-08-20T01:02:51Z",
+      "published": "2026-08-20T03:10:48Z",
       "category": "Economics",
-      "region": "US",
+      "region": "Canada",
       "labels": [
         "Economics",
-        "US"
+        "Canada"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 520,
-      "readingMinutes": 3,
+      "wordCount": 799,
+      "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
-      "body": "Published 20 August 2026, 01:25 BST\n\nPresident Donald Trump has said the US will inflict \"TREMENDOUS Economic Consequences\" on any country that helps or does business with Iran.\n\nHe wrote in all capital letters on Truth Social that he was launching \"the most crushing economic operation ever taken against any country!\" He gave no further details, and did not name any other nation.\n\nIt comes after a 60-day ceasefire with Iran expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict that the US and Israel began at the end of February.\n\nTrump's latest move appears to extend the pressure campaign of Operation Economic Fury, launched in April to sanction foreign banks or firms that do business with Tehran.\n\nIn Wednesday evening's social media post, Trump said he was launching \"economic D-Day\" on Iran because the Islamic Republic had failed to make a deal with the US.\n\n\"ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences,\" Trump said.\n\nHe did not specify what punishment countries might face.\n\nTrump continued: \"Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies - It all needs to stop NOW. You know who you are.\"\n\nIt comes a day after United Arab Emirates, a US ally, announced it would be severing all financial and economic ties with Iran, following a new missile threat from the country.\n\nThe UAE's defence ministry said it had detected two ballistic missiles launched from Iran targeting maritime traffic, both of which landed in the sea.\n\nIranian entities have long used Dubai's financial system to transfer money through exchange houses and shell companies.\n\nFollowing the UAE's decision, Iran's armed forces warned neighbouring Gulf countries against providing support to the US military, saying any assistance given to US forces would be considered collusion.\n\nThe president's comments come nearly a week after Treasury Secretary Scott Bessent said the US would impose economic isolation on Iran \"like the world has never seen before\".\n\nThe BBC has asked the White House and US treasury department for comment.\n\nEarlier this week, Trump also reportedly threatened to bomb Oman - a US ally - if it \"gets in the way\" of his administration's own talks with Iran, during a phone interview with a Fox News reporter.\n\nThe US and Oman have been negotiating separately with Tehran to reopen the Strait of Hormuz, a waterway that is vital to the global economy.\n\nThe conflict has significantly disrupted traffic through the key Strait of Hormuz shipping route, pushing up global energy prices.\n\nAround 20% of the world's crude oil and liquified natural gas (LNG) usually passes through the strait.\n\nAhead of the US midterm elections in November, Trump faces pressure over how much the war is costing American consumers.\n\nRelated topics\n\nIran\n\nDonald Trump\n\nIran war\n\nUnited States\n\nMiddle East\n\nMore on this story\n\nAs the US pauses the war with Iran, is Trump really running out of weapons? Published 27 July\n\nTrump's dramatic plane swap hints at personal stakes of Iran war Published 12 August",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg",
+      "body": "US trade representative Jamieson Greer (right) said the deal eliminates several trade irritants that the Americans had with Canada\n\nPublished 19 August 2026\n\nCanada and the US are finalising a highly anticipated trade deal, with President Donald Trump and Prime Minister Mark Carney touting it as a success.\n\nTrump said the proposed deal will be welcomed by US farmers and manufacturers, while Carney said it will secure \"the best terms\" for Canada's strategic sectors and provide certainty on the future of US-Canada trade.\n\nTrade negotiators met on Wednesday for the third time in as many days after Trump paused a new wave of tariffs he had threatened to impose overnight on a range of Canadian goods.\n\nDetails on what the agreement includes have not yet been announced but reports suggest it may cover Canadian steel, aluminium and cars as well as US alcohol.\n\nSpeaking to reporters on Wednesday after a 45-minute meeting with his Canadian counterpart, US Trade Representative Jamieson Greer said the Americans are \"very happy\" and the deal eliminates \"some of the irritants\" the US had with Canada.\n\n\"We feel confident that we've reached an agreement that will not only continue to protect American workers, American jobs, American supply chains, but really strengthen the North American economy,\" Greer said.\n\nHe said he will soon brief Congress and US stakeholders on the deal's details.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nThe BBC's Samira Hussain explains the impact of Trump's tariffs on the US\n\nTrump said Canada has agreed to eliminate tariffs on US farmers, though he did not specify which specific agricultural sectors would benefit.\n\nAsked whether the US will also reduce some tariffs it has placed on Canada, Trump said by \"a little bit\".\n\nIn a post on X on Wednesday, Carney said \"significant progress\" had been made and they were moving towards an agreement that addresses \"Canada's most important strategic sectors\".\n\nWhat could be in the deal?\n\nCanada has been in pursuit of a deal that would have the US drop or reduce tariffs on its steel, aluminium, automobiles and lumber.\n\nUnder a deal that could be completed by Friday, US tariffs on Canadian steel and aluminum would reportedly be cut to 25% from 50%.\n\nThe US may also lower its headline tariff rate on Canadian-made vehicles from 25% to 15%, according to reports from US and Canadian media.\n\nThe prime minister met his cabinet and leaders of Canadian provinces on Wednesday afternoon to brief them.\n\nFollowing Carney's meeting, Nova Scotia Premier Tim Houston said the prime minister asked provinces to return US alcohol to Canadian markets.\n\n\"It's been something that has kind of really bothered the United States for so many reasons,\" Houston said. \"Now, whether Canadians will really buy it when it's back on the shelf, that's a whole other discussion.\"\n\nMost Canadian provinces banned US alcohol sales last year in retaliation to Trump's tariffs.\n\nThe US, meanwhile, has been asking for a number of concessions from Canada, including removing its remaining retaliatory tariffs on American autos and adjusting its dairy quotas to allow greater access for US cheese producers.\n\nAsked on Wednesday if the latest deal will include significant concessions on dairy, Minister LeBlanc said that Canada's dairy supply management programme - which oversees production quotas and sets pricing and import quotas on dairy, eggs, and poultry - will remain \"entirely intact\".\n\nPolls suggest that a majority of Canadians would be unhappy if the Carney government made significant concessions to the US, with 56% surveyed by polling firm Leger , external saying they want Canada to take a hardline approach.\n\nBut business organisations from both sides of the border have lobbied for a deal to be reached, cautioning that additional tariffs between the two trading partners would be harmful for both countries.\n\nDennis Darby, president of Canadian Manufacturers and Exporters and a member of Carney's advisory committee on Canada-US trade, told the BBC he is optimistic a finalised deal is on the horizon.\n\n\"The committee was informed this morning that the negotiations continue and that and we're close, and that's more positive than we've seen in some time,\" Darby said.\n\nHe added that businesses hope this will be the first step towards a return to the terms set under the North American free trade agreement, known as USMCA, with most goods flowing tariff-free through Canada, the US and Mexico.\n\nAdditional reporting by Peter Hoskins\n\nRelated topics\n\nCanada\n\nDonald Trump\n\nMark Carney\n\nUnited States\n\nTrump tariffs\n\nMore on this story\n\nTrump pauses new tariffs on Canada for three days, saying deal close Published 13 hours ago\n\nCanada's 'powerful' dairy sector is in Trump's trade crosshairs Published 23 July\n\nMany Canadians are boycotting the US, so this is where they're travelling instead Published 5 days ago",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -298,7 +298,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8ed6/live/18b0d390-9bdf-11f1-b109-879e35c24276.jpg",
-      "body": "The dangers of politicians being 'too online' - or not online enough\n\nPublished 54 minutes ago\n\nIn early 2015, flower crowns started appearing on Ed Miliband's head. Petals and hearts were photoshopped on to the then-Labour leader by the \"Milifandom\", a movement of young, mostly female, voters sharing romanticised images on Twitter to protest against Miliband's \"distorted media portrayal\".\n\nIt was the brainchild of Abby Tomlinson, a 17-year-old sixth-form student, who came to the defence of the man she called \"Milibae\". The hashtag #Milifandom trended. Then Labour lost the 2015 election.\n\nThis prompted David Cameron, whose Conservatives increased their number of seats, to boast: \"Britain and Twitter are not the same thing.\" Tomlinson later told me that having her hopes of Milibae in No10 dashed had made her a \"political pessimist\", after realising winning over voters online \"doesn't happen in a day, a week or even months, it's going to take years\".\n\nMore than a decade on and she is again using social media to big up a Labour leader, but this time in the heart of government. She sits in the press office in No 12 Downing Street as head of content for Andy Burnham. The government has spent the last few weeks recruiting producers, videographers and strategists, working out of both Whitehall and No 10 North in Manchester.\n\nIn his first month as PM, Burnham posted more than 50 times on Instagram, ranging from meetings with world leaders, campaigners, farmers and influencers, to meme-based content like ranking pub snacks with Chancellor John Healey as part of an announcement on business rates. Strategists believe Instagram and TikTok can play to Burnham's communication strengths and sense of humour.\n\nThe PM's social media game has been a hit with pundits\n\nThey're all at it, of course. Videos of Conservative leader Kemi Badenoch tearing into the budget or mocking ex-PM Sir Keir Starmer have gone viral. Reform UK's Nigel Farage has by far the biggest online audience of any UK party leader, with 7.6 million followers across Facebook, Instagram, X, TikTok and YouTube.\n\nIn Scotland, the SNP have long mobilised their online army to campaign for independence, building a following larger than that of the Lib Dems, which campaigns across Britain, whose leader Ed Davey has achieved some success with campaign stunts going viral.\n\nRestore Britain, founded by former Reform MP Rupert Lowe, enjoys its highest level of support among users of X. The platform is owned by Elon Musk who has publicly endorsed the party, expanding its reach.\n\nPlaid Cymru, newly installed in government in Wales, is still experimenting with its approach, using First Minister Rhun Ap Iorweth in \"fun\" memes while also posting more serious interview excerpts. The Greens' Zack Polanski has made much of running his own accounts, though as he has found in recent weeks, this comes with risks too.\n\nSo how much is enough? In a world where reputations can be made (or broken) with one comment or collaboration, getting the balance right is tricky – being accessible, authentic and approachable, without being cringe. And does it make any difference to elections?\n\nBring on the hashtag coffee\n\nCameron's successor, Theresa May, was similarly doubtful about the merits of social media. When she took office she rebuffed aides who suggested she start tweeting: \"People don't say 'pass me the hashtag newspaper, or I'd like a hashtag coffee'.\" Announcements were to be made formally. When cabinet ministers were appointed in May's first reshuffle, it was heralded in press statements beneath the UK government coat of arms.\n\nBy contrast, this summer, presenting my 5 Live show from Downing Street during Burnham's first reshuffle, I could predict the appearance of another new minister because the two-person social media team from No 10 would move into position to capture the new arrivals on their cameras.\n\nOf course, prime ministers (and wannabes) have long adapted to new technology. Winston Churchill harnessed the power of radio, but thought television a vulgar diversion. In the 1960s, Labour's Harold Wilson modelled his TV campaigning on JFK in America. In the 1990s, and 2000s leaders like Tony Blair were just as likely to be found on the chatshow sofa as on the Today programme.\n\nNigel Farage's social media following is larger than that of any other UK leader\n\nNow, podcasts give long-form - and less combative - opportunities to connect with voters, while social media gives a quick hit of direct democratic dopamine.\n\nPeter Hyman, a former adviser to both Tony Blair and Keir Starmer when in Downing Street, said the success of Burnham's early digital output was about \"quantity as well as quality\".\n\n\"You have to narrate the story of what you are doing three or four or five times a day so that you are out there regularly,\" Hyman said. \"Keir Starmer wasn't out there enough and therefore it wasn't landing.\"\n\nThere is a causality dilemma here. Is Burnham more popular in the polls because he is racking up the likes on social media, or is he doing better online because people like him?\n\nNot everyone is convinced. Cody Dahler, a comedian who posts sweary political explainers to his two million followers, warns voters will become cynical if they sense politicians are just using social media simply \"as a comms tool\". Burnham, Dahler told me on Newsnight, comes across like a \"cool substitute teacher\".\n\nAnd after Burnham released a video discussing what a bread roll is called in different parts of the country – barm, cob or bap - to promote his plans for devolution, broadcaster Piers Morgan asked him to \"stop wasting your time and ours with these cringe videos\".\n\nAnd therein lies the difficulty of striking a balance. Bea Timpson, a former press secretary to Liz Truss and Rishi Sunak who says she prefers \"trad media\" like broadcast and print, added: \"I have to accept that it's now non-negotiable to be online a bit, but you definitely can be too much.\"\n\nThe arms race for audiences\n\nTV and online websites remain the most used sources for news, but more and more of us say we also get news from social media, according to media watchdog Ofcom. While this is highest among 16-24 year olds at 78%, a majority of adults in every age group use social media to access news, apart from the over-65s. Even among over 75s, 22% find out what is happening in the world from social media. For politicians, this is no longer just about reaching young people – this is all voters.\n\nSome platforms are more important than others. Even after Elon Musk's conversion of Twitter into X, you will still see MPs, spin doctors and journalists in the Westminster village scrolling through the platform, but digital strategists say \"real voters\" are found on other platforms. The main parties have far more followers on Facebook (four million combined), which is much more widely used overall, than X (where they have a combined 3.2 million).\n\nPoliticians have always looked abroad for policy and campaigning ideas, and social media is no different.\n\nThose on the right seek to emulate the impact Donald Trump has on TruthSocial, while left-wing politicians look to the success of Zohran Mamdani becoming mayor of New York.\n\nSome have even imported social media experts from overseas. In 2019 Boris Johnson hired New Zealand duo Ben Guerin and Sean Topham to run the digital campaign for the general election. They imported into UK politics the concept of \"shitposting\", releasing deliberately bad images in order to generate a reaction. This included posting a tweet featuring the slogan \"Get Brexit Done\" in Comic Sans, a font loathed by graphic designers.\n\nThere was a method in the madness. \"People are more likely to engage with something if they feel like it's been written by a human, not by a committee of design experts,\" Guerin told me. \"It's pretty easy to go viral for doing something weird and wacky, but that doesn't always advance the objectives of your campaign.\"\n\nThis seems to be borne out by some recent hits. Burnham's TikTok post rating pub snacks attracted a million views. Yet a less gimmicky video, straightforwardly listing the five things he said he had done in his first week as PM, got five million.\n\nSpoiling the magic?\n\nThere is an inherent tension in political social media. Authenticity is key. Yet who really expects the prime minister to be shooting and uploading his own content?\n\nBack in 2013 I wrote a story about how Cameron's Twitter account had favourited a tweet mocking William Hague from an account handle that made a crude joke about former Tory MP Norman Tebbit being injured in the Brighton bombing.\n\nThe prime minister's director of communications called me to complain about my \"slapdash and crappy\" reporting. My crime? Including a sentence which allowed for the possibility that someone other than Cameron had clicked on the like button by mistake. This would, apparently, spoil the magic for those that thought the prime minister was running his own account for his 500,000 followers.\n\nZack Polanski has faced criticism for a controversial post and collaboration\n\nWe now know that Zack Polanski does indeed have his own log-ins. The leader of the Green Party in England and Wales faced criticism in May for sharing a post condemning police actions in the Golders Green attack, for which he apologised. Then in July he accepted an Instagram collaboration which included a man wearing a T-shirt featuring a cartoon guillotine and the song lyrics \"we're only making plans for Nigel\". Reform UK said it amounted to incitement of violence against Farage. \"I'm accepting my responsibility in that I shouldn't have accepted that collaboration,\" Polanski said, but refused to apologise.\n\nReform UK's Gawain Towler, a long-time media adviser to Nigel Farage, says: \" My big takeaway is: don't be a berk on social media, which I think was Zack Polanski's big takeaway too.\"\n\nKemi Badenoch's performances at Prime Minister's Questions have gone viral\n\nDov Forman, who helped Tory-turned-Reform MP Robert Jenrick grow his following from 20,000 to more than half a million with viral clips including confronting fare dodgers on the London Underground, says it is \"risky\" for a leader to run their own social media. But sometimes it can be a risk worth taking.\n\nBadenoch has taken to directing her own videos, telling aides what she wants to post. She has attracted backing on X from American rappers Nicki Minaj and Azealia Banks. Those are the sort of authentic third-party endorsements politicians crave.\n\nUp the ladder\n\nOn the day he became prime minister, a video was released of Burnham being interviewed on the Career Ladder, a series run by Ukrainian TikToker Max Klymenko who interviews guests about their career, while standing on a ladder. \"If they personally haven't seen the channel it's sometimes quite difficult to make sense for them,\" Klymenko says. Burnham had seen the show, and did use the ladder.\n\nWhich leads us to the big question: Does any of this actually work? Emma Connolly, an academic who has researched this at the Digital Speech Lab at UCL, isn't sure. \"We don't necessarily have really strong evidence or convincing evidence that it could really persuade or transform the opinion of opponent voters or even those that are undecided,\" she says.\n\nMore from InDepth\n\nYoung adults are taking prescription drugs instead of alcohol - and it's dividing experts Published 2 days ago\n\nFive years after the Taliban swept to power, does the West have any influence? Published 5 days ago\n\nWhy phones on loudspeaker may become just another noise Published 6 August\n\nAnd this in turn raises the question of how long the Burnham digital honeymoon might last. Can a prime minister TikTok his way through a war, terror attack or controversial court case? Announcing a new giveaway may go viral, but what about the details of the cuts to pay for it?\n\nThe truth is none of this is new, as Hyman explains: \"The politicians who get this wrong think that social media is now the only place to be, and a substitute for doing the hard work and the heavy lifting of actually getting the right policy, getting the right narrative, and telling that story properly,\" he says. \"Politics is about winning arguments.\"\n\nAfter all, politicians have always wanted to be liked. It's just these days they can see it instantly if you hit that heart button on your feed.\n\nListen to Matt Chorley live from Westminster, weekdays from 14:00 on BBC Radio 5 Live.\n\nBBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here\n\nGet in touch\n\nAre you personally affected by the issues raised in this story?\n\nRelated topics\n\nSocial media campaign\n\nSocial media\n\nTwitter\n\nFacebook\n\nLiberal Democrats\n\nSNP (Scottish National Party)\n\nGreen Party (England and Wales)\n\nInstagram\n\nConservative Party\n\nLabour Party\n\nEd Miliband\n\nAndy Burnham\n\nReform UK\n\nNigel Farage\n\nZack Polanski\n\nTikTok\n\nYouTube\n\nKemi Badenoch\n\nEd Davey\n\nPlaid Cymru",
+      "body": "The dangers of politicians being 'too online' - or not online enough\n\nPublished 3 hours ago\n\nIn early 2015, flower crowns started appearing on Ed Miliband's head. Petals and hearts were photoshopped on to the then-Labour leader by the \"Milifandom\", a movement of young, mostly female, voters sharing romanticised images on Twitter to protest against Miliband's \"distorted media portrayal\".\n\nIt was the brainchild of Abby Tomlinson, a 17-year-old sixth-form student, who came to the defence of the man she called \"Milibae\". The hashtag #Milifandom trended. Then Labour lost the 2015 election.\n\nThis prompted David Cameron, whose Conservatives increased their number of seats, to boast: \"Britain and Twitter are not the same thing.\" Tomlinson later told me that having her hopes of Milibae in No10 dashed had made her a \"political pessimist\", after realising winning over voters online \"doesn't happen in a day, a week or even months, it's going to take years\".\n\nMore than a decade on and she is again using social media to big up a Labour leader, but this time in the heart of government. She sits in the press office in No 12 Downing Street as head of content for Andy Burnham. The government has spent the last few weeks recruiting producers, videographers and strategists, working out of both Whitehall and No 10 North in Manchester.\n\nIn his first month as PM, Burnham posted more than 50 times on Instagram, ranging from meetings with world leaders, campaigners, farmers and influencers, to meme-based content like ranking pub snacks with Chancellor John Healey as part of an announcement on business rates. Strategists believe Instagram and TikTok can play to Burnham's communication strengths and sense of humour.\n\nThe PM's social media game has been a hit with pundits\n\nThey're all at it, of course. Videos of Conservative leader Kemi Badenoch tearing into the budget or mocking ex-PM Sir Keir Starmer have gone viral. Reform UK's Nigel Farage has by far the biggest online audience of any UK party leader, with 7.6 million followers across Facebook, Instagram, X, TikTok and YouTube.\n\nIn Scotland, the SNP have long mobilised their online army to campaign for independence, building a following larger than that of the Lib Dems, which campaigns across Britain, whose leader Ed Davey has achieved some success with campaign stunts going viral.\n\nRestore Britain, founded by former Reform MP Rupert Lowe, enjoys its highest level of support among users of X. The platform is owned by Elon Musk who has publicly endorsed the party, expanding its reach.\n\nPlaid Cymru, newly installed in government in Wales, is still experimenting with its approach, using First Minister Rhun Ap Iorweth in \"fun\" memes while also posting more serious interview excerpts. The Greens' Zack Polanski has made much of running his own accounts, though as he has found in recent weeks, this comes with risks too.\n\nSo how much is enough? In a world where reputations can be made (or broken) with one comment or collaboration, getting the balance right is tricky – being accessible, authentic and approachable, without being cringe. And does it make any difference to elections?\n\nBring on the hashtag coffee\n\nCameron's successor, Theresa May, was similarly doubtful about the merits of social media. When she took office she rebuffed aides who suggested she start tweeting: \"People don't say 'pass me the hashtag newspaper, or I'd like a hashtag coffee'.\" Announcements were to be made formally. When cabinet ministers were appointed in May's first reshuffle, it was heralded in press statements beneath the UK government coat of arms.\n\nBy contrast, this summer, presenting my 5 Live show from Downing Street during Burnham's first reshuffle, I could predict the appearance of another new minister because the two-person social media team from No 10 would move into position to capture the new arrivals on their cameras.\n\nOf course, prime ministers (and wannabes) have long adapted to new technology. Winston Churchill harnessed the power of radio, but thought television a vulgar diversion. In the 1960s, Labour's Harold Wilson modelled his TV campaigning on JFK in America. In the 1990s, and 2000s leaders like Tony Blair were just as likely to be found on the chatshow sofa as on the Today programme.\n\nNigel Farage's social media following is larger than that of any other UK leader\n\nNow, podcasts give long-form - and less combative - opportunities to connect with voters, while social media gives a quick hit of direct democratic dopamine.\n\nPeter Hyman, a former adviser to both Tony Blair and Keir Starmer when in Downing Street, said the success of Burnham's early digital output was about \"quantity as well as quality\".\n\n\"You have to narrate the story of what you are doing three or four or five times a day so that you are out there regularly,\" Hyman said. \"Keir Starmer wasn't out there enough and therefore it wasn't landing.\"\n\nThere is a causality dilemma here. Is Burnham more popular in the polls because he is racking up the likes on social media, or is he doing better online because people like him?\n\nNot everyone is convinced. Cody Dahler, a comedian who posts sweary political explainers to his two million followers, warns voters will become cynical if they sense politicians are just using social media simply \"as a comms tool\". Burnham, Dahler told me on Newsnight, comes across like a \"cool substitute teacher\".\n\nAnd after Burnham released a video discussing what a bread roll is called in different parts of the country – barm, cob or bap - to promote his plans for devolution, broadcaster Piers Morgan asked him to \"stop wasting your time and ours with these cringe videos\".\n\nAnd therein lies the difficulty of striking a balance. Bea Timpson, a former press secretary to Liz Truss and Rishi Sunak who says she prefers \"trad media\" like broadcast and print, added: \"I have to accept that it's now non-negotiable to be online a bit, but you definitely can be too much.\"\n\nThe arms race for audiences\n\nTV and online websites remain the most used sources for news, but more and more of us say we also get news from social media, according to media watchdog Ofcom. While this is highest among 16-24 year olds at 78%, a majority of adults in every age group use social media to access news, apart from the over-65s. Even among over 75s, 22% find out what is happening in the world from social media. For politicians, this is no longer just about reaching young people – this is all voters.\n\nSome platforms are more important than others. Even after Elon Musk's conversion of Twitter into X, you will still see MPs, spin doctors and journalists in the Westminster village scrolling through the platform, but digital strategists say \"real voters\" are found on other platforms. The main parties have far more followers on Facebook (four million combined), which is much more widely used overall, than X (where they have a combined 3.2 million).\n\nPoliticians have always looked abroad for policy and campaigning ideas, and social media is no different.\n\nThose on the right seek to emulate the impact Donald Trump has on TruthSocial, while left-wing politicians look to the success of Zohran Mamdani becoming mayor of New York.\n\nSome have even imported social media experts from overseas. In 2019 Boris Johnson hired New Zealand duo Ben Guerin and Sean Topham to run the digital campaign for the general election. They imported into UK politics the concept of \"shitposting\", releasing deliberately bad images in order to generate a reaction. This included posting a tweet featuring the slogan \"Get Brexit Done\" in Comic Sans, a font loathed by graphic designers.\n\nThere was a method in the madness. \"People are more likely to engage with something if they feel like it's been written by a human, not by a committee of design experts,\" Guerin told me. \"It's pretty easy to go viral for doing something weird and wacky, but that doesn't always advance the objectives of your campaign.\"\n\nThis seems to be borne out by some recent hits. Burnham's TikTok post rating pub snacks attracted a million views. Yet a less gimmicky video, straightforwardly listing the five things he said he had done in his first week as PM, got five million.\n\nSpoiling the magic?\n\nThere is an inherent tension in political social media. Authenticity is key. Yet who really expects the prime minister to be shooting and uploading his own content?\n\nBack in 2013 I wrote a story about how Cameron's Twitter account had favourited a tweet mocking William Hague from an account handle that made a crude joke about former Tory MP Norman Tebbit being injured in the Brighton bombing.\n\nThe prime minister's director of communications called me to complain about my \"slapdash and crappy\" reporting. My crime? Including a sentence which allowed for the possibility that someone other than Cameron had clicked on the like button by mistake. This would, apparently, spoil the magic for those that thought the prime minister was running his own account for his 500,000 followers.\n\nZack Polanski has faced criticism for a controversial post and collaboration\n\nWe now know that Zack Polanski does indeed have his own log-ins. The leader of the Green Party in England and Wales faced criticism in May for sharing a post condemning police actions in the Golders Green attack, for which he apologised. Then in July he accepted an Instagram collaboration which included a man wearing a T-shirt featuring a cartoon guillotine and the song lyrics \"we're only making plans for Nigel\". Reform UK said it amounted to incitement of violence against Farage. \"I'm accepting my responsibility in that I shouldn't have accepted that collaboration,\" Polanski said, but refused to apologise.\n\nReform UK's Gawain Towler, a long-time media adviser to Nigel Farage, says: \" My big takeaway is: don't be a berk on social media, which I think was Zack Polanski's big takeaway too.\"\n\nKemi Badenoch's performances at Prime Minister's Questions have gone viral\n\nDov Forman, who helped Tory-turned-Reform MP Robert Jenrick grow his following from 20,000 to more than half a million with viral clips including confronting fare dodgers on the London Underground, says it is \"risky\" for a leader to run their own social media. But sometimes it can be a risk worth taking.\n\nBadenoch has taken to directing her own videos, telling aides what she wants to post. She has attracted backing on X from American rappers Nicki Minaj and Azealia Banks. Those are the sort of authentic third-party endorsements politicians crave.\n\nUp the ladder\n\nOn the day he became prime minister, a video was released of Burnham being interviewed on the Career Ladder, a series run by Ukrainian TikToker Max Klymenko who interviews guests about their career, while standing on a ladder. \"If they personally haven't seen the channel it's sometimes quite difficult to make sense for them,\" Klymenko says. Burnham had seen the show, and did use the ladder.\n\nWhich leads us to the big question: Does any of this actually work? Emma Connolly, an academic who has researched this at the Digital Speech Lab at UCL, isn't sure. \"We don't necessarily have really strong evidence or convincing evidence that it could really persuade or transform the opinion of opponent voters or even those that are undecided,\" she says.\n\nMore from InDepth\n\nYoung adults are taking prescription drugs instead of alcohol - and it's dividing experts Published 2 days ago\n\nFive years after the Taliban swept to power, does the West have any influence? Published 5 days ago\n\nWhy phones on loudspeaker may become just another noise Published 6 August\n\nAnd this in turn raises the question of how long the Burnham digital honeymoon might last. Can a prime minister TikTok his way through a war, terror attack or controversial court case? Announcing a new giveaway may go viral, but what about the details of the cuts to pay for it?\n\nThe truth is none of this is new, as Hyman explains: \"The politicians who get this wrong think that social media is now the only place to be, and a substitute for doing the hard work and the heavy lifting of actually getting the right policy, getting the right narrative, and telling that story properly,\" he says. \"Politics is about winning arguments.\"\n\nAfter all, politicians have always wanted to be liked. It's just these days they can see it instantly if you hit that heart button on your feed.\n\nListen to Matt Chorley live from Westminster, weekdays from 14:00 on BBC Radio 5 Live.\n\nBBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here\n\nGet in touch\n\nAre you personally affected by the issues raised in this story?\n\nRelated topics\n\nSocial media campaign\n\nSocial media\n\nTwitter\n\nFacebook\n\nLiberal Democrats\n\nSNP (Scottish National Party)\n\nGreen Party (England and Wales)\n\nInstagram\n\nConservative Party\n\nLabour Party\n\nEd Miliband\n\nAndy Burnham\n\nReform UK\n\nNigel Farage\n\nZack Polanski\n\nTikTok\n\nYouTube\n\nKemi Badenoch\n\nEd Davey\n\nPlaid Cymru",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -325,7 +325,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d2c1/live/1d42c130-9620-11f1-a7ab-8b30adf0800a.jpg",
-      "body": "Published 5 hours ago\n\nMale prisons have fewer than 1,800 spaces available in England and Wales, the lowest level since March.\n\nMore than 83,000 spaces are occupied by male inmates, despite the government introducing a presumption against jailing anyone for under one year to free up more space.\n\nPrison staff told the BBC the high level of offenders being recalled to prison for breaching licence conditions given on their release or re-offending has cancelled out much of the extra room. Since June, there has been a downward trend in the number of vacant spaces.\n\nThe spike comes before the government is set to release about 5,000 inmates early from October to alleviate overcrowding.\n\nPlan to scrap most short jail terms comes into effect Published 23 March\n\nPM asks justice secretary to find way to keep PC Harper's killers in jail Published 11 August\n\nThe Ministry of Justice (MoJ) said it was building more prisons while exploring early release options and expanding electronic tagging.\n\nThe figures come after Prime Minister Andy Burnham made more prisoners exempt from the upcoming early release scheme following backlash from victims.\n\nBurnham came under further pressure after the killers of PC Andrew Harper would still be eligible for early release.\n\nPC Harper, 28, was killed in 2019 when he was dragged by a car down a country road as three teenagers fled the scene of a quad bike theft in Berkshire.\n\nLast week, Burnham said he was \"confident\" PC Harper's killers could be excluded from the government's early release scheme\n\nOn August 3, Burnham said in a written article , external he had \"wanted to go even further\" but had \"pushed to the very limits of what is possible to do\".\n\nA spokesperson for the MoJ said \"public safety will always be our priority\".\n\n\"We are fast-tracking a plan to keep more of the most serious offenders behind bars, on top of murderers, anyone on life sentences and those in prison for rape, serious child sexual abuse and grooming offences who are already blocked from any changes,\" they said.\n\n\"We share the public's anger that these options are even being considered, after we inherited a prison system on the brink of collapse.\"\n\nRelated topics\n\nUK prisons\n\nPrisons\n\nMinistry of Justice",
+      "body": "Published 8 hours ago\n\nMale prisons have fewer than 1,800 spaces available in England and Wales, the lowest level since March.\n\nMore than 83,000 spaces are occupied by male inmates, despite the government introducing a presumption against jailing anyone for under one year to free up more space.\n\nPrison staff told the BBC the high level of offenders being recalled to prison for breaching licence conditions given on their release or re-offending has cancelled out much of the extra room. Since June, there has been a downward trend in the number of vacant spaces.\n\nThe spike comes before the government is set to release about 5,000 inmates early from October to alleviate overcrowding.\n\nPlan to scrap most short jail terms comes into effect Published 23 March\n\nPM asks justice secretary to find way to keep PC Harper's killers in jail Published 11 August\n\nThe Ministry of Justice (MoJ) said it was building more prisons while exploring early release options and expanding electronic tagging.\n\nThe figures come after Prime Minister Andy Burnham made more prisoners exempt from the upcoming early release scheme following backlash from victims.\n\nBurnham came under further pressure after the killers of PC Andrew Harper would still be eligible for early release.\n\nPC Harper, 28, was killed in 2019 when he was dragged by a car down a country road as three teenagers fled the scene of a quad bike theft in Berkshire.\n\nLast week, Burnham said he was \"confident\" PC Harper's killers could be excluded from the government's early release scheme\n\nOn August 3, Burnham said in a written article , external he had \"wanted to go even further\" but had \"pushed to the very limits of what is possible to do\".\n\nA spokesperson for the MoJ said \"public safety will always be our priority\".\n\n\"We are fast-tracking a plan to keep more of the most serious offenders behind bars, on top of murderers, anyone on life sentences and those in prison for rape, serious child sexual abuse and grooming offences who are already blocked from any changes,\" they said.\n\n\"We share the public's anger that these options are even being considered, after we inherited a prison system on the brink of collapse.\"\n\nRelated topics\n\nUK prisons\n\nPrisons\n\nMinistry of Justice",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -477,14 +477,14 @@
       "imageHeight": 630
     },
     {
-      "id": "a7bb4dfc5cf55a20",
-      "title": "Watch top prospect Parker play at High-A for FREE on Thursday",
+      "id": "6079561c909520af",
+      "title": "Sánchez's adventurous day in left proves costly when comeback falls short",
       "summary": "This feed supplied a headline but no article summary.",
       "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/watch-minor-league-baseball-games-for-free-2026",
+      "url": "https://www.mlb.com/bluejays/news/jesus-sanchez-s-rough-day-in-left-costs-blue-jays",
       "source": "Toronto Blue Jays",
       "publisher": "MLB",
-      "published": "2026-08-20T00:48:00Z",
+      "published": "2026-08-20T04:05:32Z",
       "category": "Sports",
       "region": "Canada",
       "labels": [
@@ -508,13 +508,37 @@
       "url": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
       "source": "Toronto Blue Jays",
       "publisher": "MLB",
-      "published": "2026-08-20T00:33:00Z",
+      "published": "2026-08-20T03:00:00Z",
       "category": "Sports",
       "region": "Canada",
       "labels": [
         "Sports",
         "Canada",
         "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "a7bb4dfc5cf55a20",
+      "title": "Watch top prospect Parker play at High-A for FREE on Thursday",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/watch-minor-league-baseball-games-for-free-2026",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-20T00:48:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
         "Blue Jays"
       ],
       "sourceWeight": 5,
@@ -552,8 +576,8 @@
       "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/08/morgan-rielly.jpg"
     },
     {
-      "id": "d6b75a7d98c84830",
-      "title": "‘Enjoyed every minute of it’: Rielly on playing for the Leafs organization",
+      "id": "eadb3c0094cab86e",
+      "title": "‘Enjoyed every minute of it’: Rielly on playing for Maple Leafs",
       "summary": "17871883946685099",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.sportsnet.ca/nhl/video/enjoyed-every-minute-of-it-rielly-on-playing-for-the-leafs-organization/",
@@ -565,6 +589,7 @@
       "labels": [
         "Sports",
         "Canada",
+        "Hockey",
         "Maple Leafs"
       ],
       "sourceWeight": 5,
@@ -575,30 +600,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/08/6403737981112.jpg"
-    },
-    {
-      "id": "1f64b853e6e115e8",
-      "title": "Vladdy (concussion) continues to progress, on track to return this weekend",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-hits-from-cage-during-concussion-recovery",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-19T21:36:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "446014f5425e0c4b",
@@ -1021,6 +1022,54 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa5/live/d2c02e40-9656-11f1-9743-c91876572530.jpg"
     },
     {
+      "id": "5b34e8b3bd0a2ce0",
+      "title": "Perry enjoying one of Minors' biggest breakouts in 2026",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/biggest-breakouts-on-top-100-prospects-list-2026",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-19T23:15:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "1f64b853e6e115e8",
+      "title": "Vladdy (concussion) continues to progress, on track to return this weekend",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-hits-from-cage-during-concussion-recovery",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-19T21:36:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "eaa57c5733a29927",
       "title": "Kirk, Blue Jays exorcise their Trop tribulations with 10-run performance",
       "summary": "This feed supplied a headline but no article summary.",
@@ -1069,6 +1118,33 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
+    },
+    {
+      "id": "1e233d29f615536a",
+      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-08-20T03:22:57Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 667,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
+      "body": "Published 20 August 2026, 01:25 BST\n\nPresident Donald Trump has said the US will inflict \"TREMENDOUS Economic Consequences\" on any country that helps or does business with Iran.\n\nHe wrote in all capital letters on Truth Social that he was launching \"the most crushing economic operation ever taken against any country!\" He gave no further details, and did not name any other nation.\n\nIt comes after a 60-day ceasefire with Iran expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict that the US and Israel began at the end of February.\n\nTrump's latest move appears to extend the pressure campaign of Operation Economic Fury, launched in April to sanction foreign banks or firms that do business with Tehran.\n\nIn Wednesday evening's social media post, Trump said he was launching \"economic D-Day\" on Iran because the Islamic Republic had failed to make a deal with the US.\n\n\"ANY country that allows its financial institutions, businesses, airports, or government entities to provide any type of lifeline to Iran will itself face TREMENDOUS Economic Consequences,\" Trump said.\n\nHe did not specify what punishment countries might face.\n\nTrump continued: \"Oil smuggling, swap lines, cash transfers, exchange houses, ship registries, front companies - It all needs to stop NOW. You know who you are.\"\n\nIt comes a day after the United Arab Emirates, a US ally, announced it would be severing all financial and economic ties with Iran, following a new missile threat from the country.\n\nThe UAE's defence ministry said it had detected two ballistic missiles launched from Iran targeting maritime traffic, both of which landed in the sea.\n\nIranian entities have long used Dubai's financial system to transfer money through exchange houses and shell companies.\n\nFollowing the UAE's decision, Iran's armed forces warned neighbouring Gulf countries against providing support to the US military, saying any assistance given to US forces would be considered collusion.\n\nWhile China was not named in the post, businesses there are the biggest buyers of oil from Iran, a key source of Tehran's funding.\n\nSince the start of the war, Washington has sanctioned several so-called teapot refineries - privately owned oil processing plants, mostly based in Shandong province, eastern China.\n\nAt the time, China's Ministry of Commerce said the sanctions were \"in violation of international law and the basic norms governing international relations\".\n\nIt also issued an order stipulating that the sanctions \"shall not be recognised, enforced, or complied with\".\n\nThe BBC has contacted the Chinese embassy in Washington for comment in response to Trump's latest post.\n\nLast week, Treasury Secretary Scott Bessent said the US would soon impose economic isolation on Iran \"like the world has never seen before\".\n\nIn April, the US treasury department and the Pentagon announced Operation Economic Fury.\n\nIt aimed to dismantle Iran's revenue streams through sanctions and by stopping foreign international entities doing business with Iran. It also included a naval blockade to stop exports from the Islamic Republic.\n\nThe BBC has asked the White House and US treasury department for comment.\n\nEarlier this week, Trump also reportedly threatened to bomb Oman - a US ally - if it \"gets in the way\" of his administration's own talks with Iran, during a phone interview with a Fox News reporter.\n\nThe US and Oman have been negotiating separately with Tehran to reopen the Strait of Hormuz, a waterway that is vital to the global economy.\n\nThe conflict has significantly disrupted traffic through the key Strait of Hormuz shipping route, pushing up global energy prices.\n\nAround 20% of the world's crude oil and liquified natural gas (LNG) usually passes through the strait.\n\nAhead of the US midterm elections in November, Trump faces pressure over how much the war is costing American consumers.\n\nRelated topics\n\nIran\n\nDonald Trump\n\nIran war\n\nUnited States\n\nMiddle East\n\nMore on this story\n\nAs the US pauses the war with Iran, is Trump really running out of weapons? Published 27 July\n\nTrump's dramatic plane swap hints at personal stakes of Iran war Published 12 August",
+      "imageWidth": 1200,
+      "imageHeight": 675
     },
     {
       "id": "ac3821c35f628e4f",
@@ -1176,6 +1252,33 @@
       "imageHeight": 630
     },
     {
+      "id": "1db16f39b89d8e42",
+      "title": "Pentagon threatens to cut federal funding to 30 universities over foreign academic partnerships",
+      "summary": "Harvard, Stanford and others face directive to review and cut alliances Pentagon deems national security risk Thirty US universities could lose federal funding unless they review and cut foreign academic partnerships the Pentagon considers a national security risk within the next two weeks, under a Pentagon directive aimed largely at ties to Chinese institutions. Harvard, the Massachusetts Institute of Technology, Johns Hopkins, Georgetown and Cornell are among the institutions ordered to conduct and report the reviews – and end partnerships deemed problematic – by 31 August, according to a US official who provided the full list to the Guardian. This article was amended on 19 August 2026 to remove a reference to Yale University in the subheading. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/us-news/2026/aug/18/pentagon-funding-colleges-harvard",
+      "source": "The Guardian China",
+      "publisher": "The Guardian",
+      "published": "2026-08-18T20:01:35Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 618,
+      "readingMinutes": 3,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/7fa65ad313d07622e6bbc9cd9e97896196bba758/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87af98941400395df7a44384d53bf0b0",
+      "body": "Harvard, Stanford and others face directive to review and cut alliances Pentagon deems national security risk\n\nThirty US universities could lose federal funding unless they review and cut foreign academic partnerships the Pentagon considers a national security risk within the next two weeks, under a Pentagon directive aimed largely at ties to Chinese institutions.\n\nHarvard, the Massachusetts Institute of Technology, Johns Hopkins, Georgetown and Cornell are among the institutions ordered to conduct and report the reviews – and end partnerships deemed problematic – by 31 August, according to a US official who provided the full list to the Guardian.\n\n“The Department of War has zero tolerance for academic partnerships that compromise our national security,” Emil Michael, the Pentagon’s chief technology officer, said in a news release from Monday .\n\nThe Pentagon said the reviews are intended to protect taxpayer-funded research from unauthorized technology transfers, intellectual-property theft and exploitation by foreign adversaries.\n\nAccording to the US official, the 30 institutions also include the University of California, Berkeley; the University of California, San Diego; Penn State University; the University of California, Los Angeles; the University of Southern California; Duke University; and New York University.\n\nThe department’s public release did not name the universities.\n\nThe order follows the Pentagon’s release last month of an updated list of 130 foreign universities and research institutions that it says engage in activities increasing the risk that US-funded research and development could be misappropriated. Most are Chinese institutions, including the University of Science and Technology of China and the Academy of Military Medical Sciences; several Russian and Iranian institutions are also listed.\n\nThe Pentagon has claimed the foreign institutions on its list have been linked to activity that could allow US research and technology to be diverted to foreign governments. The list, required under a provision of the 2019 National Defense Authorization Act, was first developed during Donald Trump’s first term with help from the American Council on Education.\n\nThe administration’s campaign has increasingly placed US universities themselves under scrutiny.\n\nLast November, more than three dozen universities, including Harvard, Yale, Stanford and Duke, faced potential suspension from the state department’s Diplomacy Lab program, which pairs university researchers with state department policy offices on foreign policy projects, over their diversity, equity and inclusion hiring practices. An internal memo and spreadsheet obtained by the Guardian at the time showed the department moving to remove 38 institutions from the program while adding 10 schools.\n\nHarvard has been a particular target of the administration. A US federal ⁠judge ⁠ recently dismissed its lawsuit that ⁠claimed ​the university failed ‌to protect Jewish ‌and Israeli students from harassment in the aftermath of the war on Gaza.\n\nThe justice department is also investigating whether Harvard allowed Chinese donors to establish scholarships that excluded American students, part of a wider series of federal investigations and disputes involving the Ivy League institution.\n\nThe Trump administration has repeatedly portrayed Beijing’s access to American technology, research and infrastructure as a national security concern. It has also sought to counter Chinese influence across the western hemisphere, including Chinese involvement in ports near the Panama Canal, infrastructure financed through Beijing’s Belt and Road initiative and investment in telecommunications networks.\n\nChina has rejected Washington’s characterization of academic cooperation as a security threat.\n\nA Chinese embassy spokesperson told the Associated Press that Beijing opposed the politicization of “normal scientific, educational, and academic exchanges” and urged Washington to “abandon the cold war mentality and foster an open, fair, and non-discriminatory environment” for academic and scientific exchanges between the two countries.\n\nThis article was amended on 19 August 2026 to remove a reference to Yale University in the subheading.\n\nTrump administration\n\nUS education\n\nHigher education\n\nChina\n\nHarvard University\n\nYale University\n\nMIT - Massachusetts Institute of Technology\n\nnews",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
       "id": "f0c87d8e0b1a3a04",
       "title": "People smuggler exposed by BBC investigation arrested and charged",
       "summary": "Twana Jamal Khdir has been arrested and charged with immigration offences.",
@@ -1198,7 +1301,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e68/live/7284e2f0-9c0f-11f1-bab6-dd87b521d67e.jpg",
-      "body": "Twana Jamal Khdir appeared at Leicester Magistrates' Court on Wednesday afternoon\n\nPublished 4 hours ago\n\nA convicted people smuggler who was found by the BBC to be living in Leicestershire has been arrested and charged with immigration offences.\n\nTwana Jamal Khdir, an Iraqi national who was once described as \"the godfather\" of the French migrant camps, previously served a sentence for people smuggling in France.\n\nLast month, the BBC revealed he was now living in the UK.\n\nThe BBC has been told he was arrested on Tuesday near Uppingham in a joint operation led by the Midlands Criminal Financial Investigations team, with the support of Leicestershire Police.\n\nHe was charged by the Crown Prosecution Service and appeared at Leicester Magistrates' Court on Wednesday.\n\nHe pleaded guilty to entering the UK without valid entry clearance, but not guilty to seeking to obtain leave to enter or remain by deceptive means.\n\nHe has been remanded in custody and will next appear at Leicester Crown Court on 5 October.\n\nKhdir was given a five-year jail sentence in France in 2016, where authorities described him as one of the most successful people smugglers ever caught.\n\nProsecutors said the Iraqi Kurd, aged 36 at the time, had earned up to £100,000 a week for moving illegal immigrants across the Channel.",
+      "body": "Twana Jamal Khdir appeared at Leicester Magistrates' Court on Wednesday afternoon\n\nPublished 7 hours ago\n\nA convicted people smuggler who was found by the BBC to be living in Leicestershire has been arrested and charged with immigration offences.\n\nTwana Jamal Khdir, an Iraqi national who was once described as \"the godfather\" of the French migrant camps, previously served a sentence for people smuggling in France.\n\nLast month, the BBC revealed he was now living in the UK.\n\nThe BBC has been told he was arrested on Tuesday near Uppingham in a joint operation led by the Midlands Criminal Financial Investigations team, with the support of Leicestershire Police.\n\nHe was charged by the Crown Prosecution Service and appeared at Leicester Magistrates' Court on Wednesday.\n\nHe pleaded guilty to entering the UK without valid entry clearance, but not guilty to seeking to obtain leave to enter or remain by deceptive means.\n\nHe has been remanded in custody and will next appear at Leicester Crown Court on 5 October.\n\nKhdir was given a five-year jail sentence in France in 2016, where authorities described him as one of the most successful people smugglers ever caught.\n\nProsecutors said the Iraqi Kurd, aged 36 at the time, had earned up to £100,000 a week for moving illegal immigrants across the Channel.",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1257,33 +1360,6 @@
       "imageHeight": 630
     },
     {
-      "id": "1db16f39b89d8e42",
-      "title": "Pentagon threatens to cut federal funding to 30 universities over foreign academic partnerships",
-      "summary": "Harvard, Yale, Stanford and others face directive to review and cut alliances Pentagon deems national security risk Thirty US universities could lose federal funding unless they review and cut foreign academic partnerships the Pentagon considers a national security risk within the next two weeks, under a Pentagon directive aimed largely at ties to Chinese institutions. Harvard, the Massachusetts Institute of Technology, Johns Hopkins, Georgetown and Cornell are among the institutions ordered to conduct and report the reviews – and end partnerships deemed problematic – by 31 August, according to a US official who provided the full list to the Guardian. Continue reading...",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/us-news/2026/aug/18/pentagon-funding-colleges-harvard",
-      "source": "The Guardian China",
-      "publisher": "The Guardian",
-      "published": "2026-08-18T20:01:35Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 601,
-      "readingMinutes": 3,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/7fa65ad313d07622e6bbc9cd9e97896196bba758/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87af98941400395df7a44384d53bf0b0",
-      "body": "Harvard, Yale, Stanford and others face directive to review and cut alliances Pentagon deems national security risk\n\nThirty US universities could lose federal funding unless they review and cut foreign academic partnerships the Pentagon considers a national security risk within the next two weeks, under a Pentagon directive aimed largely at ties to Chinese institutions.\n\nHarvard, the Massachusetts Institute of Technology, Johns Hopkins, Georgetown and Cornell are among the institutions ordered to conduct and report the reviews – and end partnerships deemed problematic – by 31 August, according to a US official who provided the full list to the Guardian.\n\n“The Department of War has zero tolerance for academic partnerships that compromise our national security,” Emil Michael, the Pentagon’s chief technology officer, said in a news release from Monday .\n\nThe Pentagon said the reviews are intended to protect taxpayer-funded research from unauthorized technology transfers, intellectual-property theft and exploitation by foreign adversaries.\n\nAccording to the US official, the 30 institutions also include the University of California, Berkeley; the University of California, San Diego; Penn State University; the University of California, Los Angeles; the University of Southern California; Duke University; and New York University.\n\nThe department’s public release did not name the universities.\n\nThe order follows the Pentagon’s release last month of an updated list of 130 foreign universities and research institutions that it says engage in activities increasing the risk that US-funded research and development could be misappropriated. Most are Chinese institutions, including the University of Science and Technology of China and the Academy of Military Medical Sciences; several Russian and Iranian institutions are also listed.\n\nThe Pentagon has claimed the foreign institutions on its list have been linked to activity that could allow US research and technology to be diverted to foreign governments. The list, required under a provision of the 2019 National Defense Authorization Act, was first developed during Donald Trump’s first term with help from the American Council on Education.\n\nThe administration’s campaign has increasingly placed US universities themselves under scrutiny.\n\nLast November, more than three dozen universities, including Harvard, Yale, Stanford and Duke, faced potential suspension from the state department’s Diplomacy Lab program, which pairs university researchers with state department policy offices on foreign policy projects, over their diversity, equity and inclusion hiring practices. An internal memo and spreadsheet obtained by the Guardian at the time showed the department moving to remove 38 institutions from the program while adding 10 schools.\n\nHarvard has been a particular target of the administration. A US federal ⁠judge ⁠ recently dismissed its lawsuit that ⁠claimed ​the university failed ‌to protect Jewish ‌and Israeli students from harassment in the aftermath of the war on Gaza.\n\nThe justice department is also investigating whether Harvard allowed Chinese donors to establish scholarships that excluded American students, part of a wider series of federal investigations and disputes involving the Ivy League institution.\n\nThe Trump administration has repeatedly portrayed Beijing’s access to American technology, research and infrastructure as a national security concern. It has also sought to counter Chinese influence across the western hemisphere, including Chinese involvement in ports near the Panama Canal, infrastructure financed through Beijing’s Belt and Road initiative and investment in telecommunications networks.\n\nChina has rejected Washington’s characterization of academic cooperation as a security threat.\n\nA Chinese embassy spokesperson told the Associated Press that Beijing opposed the politicization of “normal scientific, educational, and academic exchanges” and urged Washington to “abandon the cold war mentality and foster an open, fair, and non-discriminatory environment” for academic and scientific exchanges between the two countries.\n\nTrump administration\n\nUS education\n\nHigher education\n\nChina\n\nHarvard University\n\nYale University\n\nMIT - Massachusetts Institute of Technology\n\nnews",
-      "imageWidth": 1200,
-      "imageHeight": 630
-    },
-    {
       "id": "144ea984d8f3d5d5",
       "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
       "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
@@ -1306,7 +1382,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nThe BBC's Samira Hussain explains the impact of Trump's tariffs on the US\n\nPublished 19 August 2026\n\nUS President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.\n\n\"I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL!\" Trump said in a social media post.\n\nThe announcement came less than two hours before a 50% levy on nearly $20bn (£14.8bn; C$28bn) of Canadian imports was set to go in place.\n\nThe two sides have been at an impasse on several issues, including US tariffs on autos and many Canadian provinces banning American liquor sales.\n\nSenior trade representatives for both countries met on Wednesday morning in Washington after Trump's tariff pause, indicating that discussions on a possible deal are still ongoing.\n\nSpeaking to reporters on Wednesday, Trump characterised the deal as \"very good\" for both countries.\n\nHe suggested it would include concessions from Canada on agriculture and manufacturing, as well as a reduction of certain US tariffs on Canada.\n\nTrump and Canadian Prime Minister Mark Carney spoke twice this week, and trade negotiators have been engaged in intense talks since July, after the US president threatened the new levy with a deadline of 19 August.\n\n\"Substantial progress has been made, although there is important work still to be done,\" Carney said in a letter posted on X.\n\nIn his post on Tuesday night, Trump also said a final trade deal could allow the revival of the Keystone XL pipeline. The oil pipeline, which would connect Alberta to the US, was blocked by both the Obama and Biden administrations.\n\nEnvironmentalists and indigenous groups have long opposed the pipeline but Trump has said multiple times he would like to revive the project, which would carry 830,000 barrels of oil a day.\n\n\"The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave!\" Trump wrote on Truth Social.\n\n\"The deal will include comprehensive market access for all American goods, economic security commitments, digital trade alignment\", US Trade Representative Jamieson Greer's office posted on X.\n\nIt will also include \"many important provisions that will continue to protect our market and American workers, along with our Canadian partners\", it added.\n\nCanada's 'powerful' dairy sector is in Trump's trade crosshairs Published 23 July\n\nWhat tariffs has Trump introduced and why? Published 12 hours ago\n\nTuesday's extension is welcome news for Canadian negotiators and for businesses on both sides of the border, who have warned that the new tariffs would be harmful to both countries.\n\nTensions have mounted between the two major trading partners since Trump returned to office in January last year and he unleashed a wide-ranging global programme of tariffs, upending decades of free trade between Canada and the US.\n\nThe latest tariffs threatened by Trump were to be applied on a range of Canadian imports, including wine, dairy, cement, clothing and hockey equipment.\n\nThey would have been in addition to existing tariffs the US had already imposed on Canadian steel and aluminium, autos and lumber.\n\nCanada has been in pursuit of a deal that would have the US drop or reduce tariffs on these key sectors.\n\nThe US, meanwhile, has been asking for a number of concessions from Canada, including removing its remaining retaliatory tariffs on American autos and adjusting its dairy quotas to allow greater access for US cheese producers.\n\nIt has also asked for the ban on US alcohol sales, imposed last year by most Canadian provinces in retaliation to Trump's tariffs, be removed.\n\nIn the final hours before Wednesday's deadline, negotiators were discussing a deal that would reduce US tariffs on Canadian autos from 25% to 15%, according to a Reuters report citing anonymous sources.\n\nBut the two countries could not agree on which vehicles would be eligible for tariff reductions, with the US pushing for it to only apply on cars with a high amount of American-made content.\n\nCarney will also need buy-in from provincial premiers to reinstate the sale of US alcohol, as liquor sales are controlled by the provinces, not the federal government.\n\nOntario Premier Doug Ford, whose province is hardest hit by US tariffs on autos, said he was open to lifting the liquor ban only if a \"fair deal\" is reached.\n\nOn Tuesday, the US Chamber of Commerce pushed for a deal to be reached, saying in a statement that \"higher tariffs would damage both economies, drive up costs for US families, further disrupt critical supply chains, and risk the 13 million American jobs that depend on trade under the US-Mexico-Canada Trade Agreement\".\n\nAdditional reporting by Peter Hoskins\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: 'It's frustrating' Canadians react to the US tariffs\n\nRelated topics\n\nCanada\n\nUnited States\n\nTrump tariffs\n\nDonald Trump\n\nMore on this story\n\nMany Canadians are boycotting the US, so this is where they're travelling instead Published 5 days ago\n\nUS says dozens of countries helped China dodge Trump's tariffs Published 5 days ago\n\nTrump administration pays back $100bn in 'Liberation Day' tariffs to businesses Published 5 August",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nThe BBC's Samira Hussain explains the impact of Trump's tariffs on the US\n\nPublished 19 August 2026\n\nUS President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.\n\n\"I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL!\" Trump said in a social media post.\n\nThe announcement came less than two hours before a 50% levy on nearly $20bn (£14.8bn; C$28bn) of Canadian imports was set to go in place.\n\nThe two sides have been at an impasse on several issues, including US tariffs on autos and many Canadian provinces banning American liquor sales.\n\nSenior trade representatives for both countries met on Wednesday morning in Washington after Trump's tariff pause, indicating that discussions on a possible deal are still ongoing.\n\nSpeaking to reporters on Wednesday, Trump characterised the deal as \"very good\" for both countries.\n\nHe suggested it would include concessions from Canada on agriculture and manufacturing, as well as a reduction of certain US tariffs on Canada.\n\nTrump and Canadian Prime Minister Mark Carney spoke twice this week, and trade negotiators have been engaged in intense talks since July, after the US president threatened the new levy with a deadline of 19 August.\n\n\"Substantial progress has been made, although there is important work still to be done,\" Carney said in a letter posted on X.\n\nIn his post on Tuesday night, Trump also said a final trade deal could allow the revival of the Keystone XL pipeline. The oil pipeline, which would connect Alberta to the US, was blocked by both the Obama and Biden administrations.\n\nEnvironmentalists and indigenous groups have long opposed the pipeline but Trump has said multiple times he would like to revive the project, which would carry 830,000 barrels of oil a day.\n\n\"The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave!\" Trump wrote on Truth Social.\n\n\"The deal will include comprehensive market access for all American goods, economic security commitments, digital trade alignment\", US Trade Representative Jamieson Greer's office posted on X.\n\nIt will also include \"many important provisions that will continue to protect our market and American workers, along with our Canadian partners\", it added.\n\nCanada's 'powerful' dairy sector is in Trump's trade crosshairs Published 23 July\n\nWhat tariffs has Trump introduced and why? Published 15 hours ago\n\nTuesday's extension is welcome news for Canadian negotiators and for businesses on both sides of the border, who have warned that the new tariffs would be harmful to both countries.\n\nTensions have mounted between the two major trading partners since Trump returned to office in January last year and he unleashed a wide-ranging global programme of tariffs, upending decades of free trade between Canada and the US.\n\nThe latest tariffs threatened by Trump were to be applied on a range of Canadian imports, including wine, dairy, cement, clothing and hockey equipment.\n\nThey would have been in addition to existing tariffs the US had already imposed on Canadian steel and aluminium, autos and lumber.\n\nCanada has been in pursuit of a deal that would have the US drop or reduce tariffs on these key sectors.\n\nThe US, meanwhile, has been asking for a number of concessions from Canada, including removing its remaining retaliatory tariffs on American autos and adjusting its dairy quotas to allow greater access for US cheese producers.\n\nIt has also asked for the ban on US alcohol sales, imposed last year by most Canadian provinces in retaliation to Trump's tariffs, be removed.\n\nIn the final hours before Wednesday's deadline, negotiators were discussing a deal that would reduce US tariffs on Canadian autos from 25% to 15%, according to a Reuters report citing anonymous sources.\n\nBut the two countries could not agree on which vehicles would be eligible for tariff reductions, with the US pushing for it to only apply on cars with a high amount of American-made content.\n\nCarney will also need buy-in from provincial premiers to reinstate the sale of US alcohol, as liquor sales are controlled by the provinces, not the federal government.\n\nOntario Premier Doug Ford, whose province is hardest hit by US tariffs on autos, said he was open to lifting the liquor ban only if a \"fair deal\" is reached.\n\nOn Tuesday, the US Chamber of Commerce pushed for a deal to be reached, saying in a statement that \"higher tariffs would damage both economies, drive up costs for US families, further disrupt critical supply chains, and risk the 13 million American jobs that depend on trade under the US-Mexico-Canada Trade Agreement\".\n\nAdditional reporting by Peter Hoskins\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: 'It's frustrating' Canadians react to the US tariffs\n\nRelated topics\n\nCanada\n\nUnited States\n\nTrump tariffs\n\nDonald Trump\n\nMore on this story\n\nMany Canadians are boycotting the US, so this is where they're travelling instead Published 5 days ago\n\nUS says dozens of countries helped China dodge Trump's tariffs Published 5 days ago\n\nTrump administration pays back $100bn in 'Liberation Day' tariffs to businesses Published 5 August",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1333,7 +1409,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8763/live/725b1f30-9be0-11f1-b109-879e35c24276.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more here.\n\nSubsection Northern Ireland Politics\n\nPublished 10 hours ago\n\nRelated topics\n\nNorthern Ireland Follow Northern Ireland close panel You are now following Northern Ireland Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUUP (Ulster Unionist Party) Follow UUP (Ulster Unionist Party) close panel You are now following UUP (Ulster Unionist Party) Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more here.\n\nSubsection Northern Ireland Politics\n\nPublished 13 hours ago\n\nRelated topics\n\nNorthern Ireland Follow Northern Ireland close panel You are now following Northern Ireland Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUUP (Ulster Unionist Party) Follow UUP (Ulster Unionist Party) close panel You are now following UUP (Ulster Unionist Party) Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1411,7 +1487,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfe8/live/54e10600-3e38-11f1-929e-dd2b5d4dae7a.jpg",
-      "body": "Published 16 July 2021\n\nThe Bank of England has held UK interest rates at 3.75% for a fifth time, keeping them at the lowest level since February 2023.\n\nBefore the US-Israeli war with Iran, rates had been expected to fall in 2026, but the economic fallout from the conflict has pushed up inflation across the globe, making cuts unlikely.\n\nInterest rates affect mortgage, credit card and savings rates for millions of people.\n\nWhat are interest rates and why do they change?\n\nAn interest rate tells you how much it costs to borrow money, or the reward for saving it.\n\nThe Bank of England's base rate is what it charges other banks and building societies to borrow money, which influences what they charge their own customers for mortgages as well as the interest rate they pay on savings.\n\nThe Bank moves its base rate up and down in order to keep UK inflation — the rate at which prices are increasing — at or near 2%.\n\nWhen inflation is above that target, the Bank typically puts rates up.\n\nThe idea is to encourage people to spend less, reducing demand for goods and services and limiting price rises.\n\nWhat is happening to UK interest rates and inflation?\n\nThe Bank of England's base rate rose to 5.25% in 2023. It remained at that level until August 2024, when the Bank started cutting.\n\nFive cuts brought rates down to 4%, before the Bank held rates at its meetings in September and November 2025.\n\nIt then cut in December 2025 before holding rates steady in January, March, April, June and July 2026.\n\nMeanwhile, the main UK inflation measure, CPI, has dropped significantly since the high of 11.1% recorded in October 2022 as a result of the war in Ukraine.\n\nIt was 2.9% in the year to July 2026 , up from 2.6% the previous month.\n\nThe Office for National Statistics (ONS), which tracks UK inflation, said the uptick was a result of higher energy costs.\n\nThe US-Israel war with Iran has put up energy and fuel costs around the world which has increased the pace of price rises more generally.\n\nWhat is happening to UK prices? Published 16 hours ago\n\nWhat is expected to happen to UK interest rates?\n\nAt the start of the year, the Bank had been expected to cut interest rates twice in 2026, with the first drop predicted to come in March or April.\n\nHowever, the increase in fuel prices and inflation after the outbreak of the conflict has upended all of this. Oil prices initially rose sharply as a result of disruption to supplies in the region, but dropped back when various ceasefires were agreed.\n\nOil prices rose again when the US and Iran resumed attacks in the Strait of Hormuz in July.\n\n\"Inflation has fallen faster than we'd expected, but the conflict in the Middle East continues to mean high and volatile energy prices,\" said the Bank's governor, Andrew Bailey.\n\n\"That will cause inflation to rise again later this year. However the conflict unfolds, our job is to make sure any increase in inflation is temporary and that it comes back to our 2% target.\"\n\nUK household energy bills rose after the latest increase in the price cap which took effect on 1 July, which could push UK inflation higher.\n\nGiven the uncertainty, many analysts think rates are likely to stay at 3.75% for the foreseeable future.\n\nWhat will the energy cap changes mean for my bills? Published 1 July\n\nWhy are UK fuel prices rising again? Published 5 August\n\nWhat does an Andy Burnham-led government mean for your money? Published 22 July\n\nHow do interest rate cuts affect mortgages, loans and savings rates?\n\nMortgages\n\nJust under a third of households have a mortgage, according to the government's English Housing Survey , external .\n\nAbout 500,000 homeowners have a mortgage that \"tracks\" the Bank of England's rate. That means any cut means a reduction in the monthly repayments on their outstanding loan.\n\nAn additional 500,000 homeowners on standard variable (SVR) rates rely on their lender choosing to pass on any Bank rate cut.\n\nBut the vast majority of mortgage customers - some 87% - have fixed-rate deals. While their monthly payments aren't immediately affected by a rate change, their future deals are.\n\nAs at 30 July, the average rate on a new two-year fixed deal was 5.62%, up from 4.83% at the start of March, according to the financial information service Moneyfacts.\n\nFor those looking for a five-year deal, the average rate was 5.66%, up from 4.95% over the same period.\n\nThe average two-year tracker rate was 4.51%.\n\nAbout 800,000 fixed-rate mortgages with an interest rate of 3% or below are expected to expire every year, on average, until the end of 2027. Borrowing costs for customers coming off those deals are likely to rise sharply.\n\nMortgage calculator\n\nYou can see how your mortgage may be affected by future interest rate changes by using our calculator:\n\nA modern browser with JavaScript and a stable internet connection is required to view this interactive.\n\nHow much could my mortgage payments change?\n\nAt this rate, your payments could change by…\n\nmonthly change\n\nto\n\nmonthly total\n\nThe information you provided on your monthly payments would not be sufficient to pay off your mortgage within the number of years given.\n\nThis calculator does not constitute financial advice. It is based on a standard mortgage repayment formula dependent on the mortgage size and length and a fixed interest rate. It should be used as a guide only and does not represent the suitability, eligibility or availability of mortgage offers for users. For exact figures, users will need to approach an official mortgage lender.\n\nInterest rates fluctuate based on the Bank of England's base rate and market conditions\n\nIf you can't see the mortgage calculator, click here\n\nFive ways to save money on your mortgage\n\nCredit cards and loans\n\nBank of England interest rates also influence the amount charged on credit cards, bank loans and car loans.\n\nLenders can decide to reduce their own interest rates if Bank cuts make borrowing costs cheaper.\n\nHowever, this tends to happen very slowly.\n\nSavings\n\nThe Bank base rate also affects how much savers earn on their money.\n\nA falling base rate is likely to mean a reduction in the returns offered to savers by banks and building societies and vice versa.\n\nAs at 29 July, Moneyfacts said the average rate for an easy access savings account based on a balance of £10,000 was 2.55%. The average rate for an easy access cash ISA was 2.73%.\n\nThe average rate for customers who were prepared to lock their money away for a year was 4.27%.\n\nCuts in rates particularly affect those who rely on the interest from their savings to top up their income.\n\nWhat is happening to interest rates in other countries?\n\nIn recent years, the UK has had one of the highest interest rates in the G7 - the group representing the world's seven largest so-called \"advanced\" economies.\n\nIn June 2024, the European Central Bank (ECB) started cutting the main interest rate for the eurozone from an all-time high of 4%, falling to 2% in June 2025.\n\nHowever, in June 2026, the ECB raised rates to 2.25% as it reacted to the Iran war.\n\nThe US central bank - the Federal Reserve - has cut interest rates three times since September 2025, taking them to the current range of 3.5% to 3.75%, the lowest since 2022.\n\nThe Fed most recently voted to hold rates at that level at its July meeting, the second under new chair Kevin Warsh.\n\nUS President Donald Trump had repeatedly attacked the previous Fed chair Jerome Powell for not cutting rates.\n\nWarsh is expected to be generally more supportive of cuts, but will also have to respond to the fallout from the Iranian conflict.\n\nRelated topics\n\nSavings\n\nMoney\n\nPersonal finance\n\nCost of Living\n\nUK economy\n\nBank of England\n\nMortgages\n\nAndrew Bailey\n\nInflation",
+      "body": "Published 16 July 2021\n\nThe Bank of England has held UK interest rates at 3.75% for a fifth time, keeping them at the lowest level since February 2023.\n\nBefore the US-Israeli war with Iran, rates had been expected to fall in 2026, but the economic fallout from the conflict has pushed up inflation across the globe, making cuts unlikely.\n\nInterest rates affect mortgage, credit card and savings rates for millions of people.\n\nWhat are interest rates and why do they change?\n\nAn interest rate tells you how much it costs to borrow money, or the reward for saving it.\n\nThe Bank of England's base rate is what it charges other banks and building societies to borrow money, which influences what they charge their own customers for mortgages as well as the interest rate they pay on savings.\n\nThe Bank moves its base rate up and down in order to keep UK inflation — the rate at which prices are increasing — at or near 2%.\n\nWhen inflation is above that target, the Bank typically puts rates up.\n\nThe idea is to encourage people to spend less, reducing demand for goods and services and limiting price rises.\n\nWhat is happening to UK interest rates and inflation?\n\nThe Bank of England's base rate rose to 5.25% in 2023. It remained at that level until August 2024, when the Bank started cutting.\n\nFive cuts brought rates down to 4%, before the Bank held rates at its meetings in September and November 2025.\n\nIt then cut in December 2025 before holding rates steady in January, March, April, June and July 2026.\n\nMeanwhile, the main UK inflation measure, CPI, has dropped significantly since the high of 11.1% recorded in October 2022 as a result of the war in Ukraine.\n\nIt was 2.9% in the year to July 2026 , up from 2.6% the previous month.\n\nThe Office for National Statistics (ONS), which tracks UK inflation, said the uptick was a result of higher energy costs.\n\nThe US-Israel war with Iran has put up energy and fuel costs around the world which has increased the pace of price rises more generally.\n\nWhat is happening to UK prices? Published 19 hours ago\n\nWhat is expected to happen to UK interest rates?\n\nAt the start of the year, the Bank had been expected to cut interest rates twice in 2026, with the first drop predicted to come in March or April.\n\nHowever, the increase in fuel prices and inflation after the outbreak of the conflict has upended all of this. Oil prices initially rose sharply as a result of disruption to supplies in the region, but dropped back when various ceasefires were agreed.\n\nOil prices rose again when the US and Iran resumed attacks in the Strait of Hormuz in July.\n\n\"Inflation has fallen faster than we'd expected, but the conflict in the Middle East continues to mean high and volatile energy prices,\" said the Bank's governor, Andrew Bailey.\n\n\"That will cause inflation to rise again later this year. However the conflict unfolds, our job is to make sure any increase in inflation is temporary and that it comes back to our 2% target.\"\n\nUK household energy bills rose after the latest increase in the price cap which took effect on 1 July, which could push UK inflation higher.\n\nGiven the uncertainty, many analysts think rates are likely to stay at 3.75% for the foreseeable future.\n\nWhat will the energy cap changes mean for my bills? Published 1 July\n\nWhy are UK fuel prices rising again? Published 5 August\n\nWhat does an Andy Burnham-led government mean for your money? Published 22 July\n\nHow do interest rate cuts affect mortgages, loans and savings rates?\n\nMortgages\n\nJust under a third of households have a mortgage, according to the government's English Housing Survey , external .\n\nAbout 500,000 homeowners have a mortgage that \"tracks\" the Bank of England's rate. That means any cut means a reduction in the monthly repayments on their outstanding loan.\n\nAn additional 500,000 homeowners on standard variable (SVR) rates rely on their lender choosing to pass on any Bank rate cut.\n\nBut the vast majority of mortgage customers - some 87% - have fixed-rate deals. While their monthly payments aren't immediately affected by a rate change, their future deals are.\n\nAs at 30 July, the average rate on a new two-year fixed deal was 5.62%, up from 4.83% at the start of March, according to the financial information service Moneyfacts.\n\nFor those looking for a five-year deal, the average rate was 5.66%, up from 4.95% over the same period.\n\nThe average two-year tracker rate was 4.51%.\n\nAbout 800,000 fixed-rate mortgages with an interest rate of 3% or below are expected to expire every year, on average, until the end of 2027. Borrowing costs for customers coming off those deals are likely to rise sharply.\n\nMortgage calculator\n\nYou can see how your mortgage may be affected by future interest rate changes by using our calculator:\n\nA modern browser with JavaScript and a stable internet connection is required to view this interactive.\n\nHow much could my mortgage payments change?\n\nAt this rate, your payments could change by…\n\nmonthly change\n\nto\n\nmonthly total\n\nThe information you provided on your monthly payments would not be sufficient to pay off your mortgage within the number of years given.\n\nThis calculator does not constitute financial advice. It is based on a standard mortgage repayment formula dependent on the mortgage size and length and a fixed interest rate. It should be used as a guide only and does not represent the suitability, eligibility or availability of mortgage offers for users. For exact figures, users will need to approach an official mortgage lender.\n\nInterest rates fluctuate based on the Bank of England's base rate and market conditions\n\nIf you can't see the mortgage calculator, click here\n\nFive ways to save money on your mortgage\n\nCredit cards and loans\n\nBank of England interest rates also influence the amount charged on credit cards, bank loans and car loans.\n\nLenders can decide to reduce their own interest rates if Bank cuts make borrowing costs cheaper.\n\nHowever, this tends to happen very slowly.\n\nSavings\n\nThe Bank base rate also affects how much savers earn on their money.\n\nA falling base rate is likely to mean a reduction in the returns offered to savers by banks and building societies and vice versa.\n\nAs at 29 July, Moneyfacts said the average rate for an easy access savings account based on a balance of £10,000 was 2.55%. The average rate for an easy access cash ISA was 2.73%.\n\nThe average rate for customers who were prepared to lock their money away for a year was 4.27%.\n\nCuts in rates particularly affect those who rely on the interest from their savings to top up their income.\n\nWhat is happening to interest rates in other countries?\n\nIn recent years, the UK has had one of the highest interest rates in the G7 - the group representing the world's seven largest so-called \"advanced\" economies.\n\nIn June 2024, the European Central Bank (ECB) started cutting the main interest rate for the eurozone from an all-time high of 4%, falling to 2% in June 2025.\n\nHowever, in June 2026, the ECB raised rates to 2.25% as it reacted to the Iran war.\n\nThe US central bank - the Federal Reserve - has cut interest rates three times since September 2025, taking them to the current range of 3.5% to 3.75%, the lowest since 2022.\n\nThe Fed most recently voted to hold rates at that level at its July meeting, the second under new chair Kevin Warsh.\n\nUS President Donald Trump had repeatedly attacked the previous Fed chair Jerome Powell for not cutting rates.\n\nWarsh is expected to be generally more supportive of cuts, but will also have to respond to the fallout from the Iranian conflict.\n\nRelated topics\n\nSavings\n\nMoney\n\nPersonal finance\n\nCost of Living\n\nUK economy\n\nBank of England\n\nMortgages\n\nAndrew Bailey\n\nInflation",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1759,60 +1835,6 @@
       "imageHeight": 630
     },
     {
-      "id": "ec58d3853dd5caec",
-      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "summary": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-18T20:39:36Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 720,
-      "readingMinutes": 4,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32bd/live/f9b07010-9b1e-11f1-afea-3b9b9f2d3a59.jpg",
-      "body": "Published 18 August 2026\n\nDisney and ABC have filed a lawsuit to stop the Trump administration from launching an early licence renewal process, arguing that the network is being unfairly targeted over its editorial content.\n\n\"Government censorship is deeply un-American,\" the lawsuit says. \"This case concerns the Administration's sustained effort to do just that.\"\n\nThe lawsuit says the Federal Communication Commission - the government's media regulator - is being pressured to renew broadcast licences years early. It alleges the push stems from complaints from, and under the direction of, President Donald Trump.\n\nFCC chairman Brendan Carr has said that the renewal requests were focused on \"public interest\", not retaliation.\n\nThe FCC reiterated Carr's message in an emailed response to the BBC on Tuesday, saying \"all broadcasters have a legal obligation to operate in the public interest—even Disney\".\n\n\"The FCC has been examining claims that Disney engaged in illegal DEI discrimination for over a year,\" the statement said. \"The FCC will continue to follow the facts and law wherever they lead.\"\n\nDisney and its eight owned-and-operated TV stations are plaintiffs in the lawsuit filed on Tuesday against FCC and its chairman.\n\nThe FCC ordered licence renewals for the Disney-owned ABC stations in April.\n\nDisney previously had been under investigation for its alleged diversity, equity, and inclusion (DEI) practices and for ABC's daytime talk show, The View.\n\nBut the notice for early renewal of licence from the FCC came a day after ABC's late-night host Jimmy Kimmel made a joke about first lady Melania Trump.\n\nIn the lawsuit, Disney calls the order by the FCC \"unprecedented\", saying that before then the commission had not called for early renewal in over 50 years.\n\n\"Acting through the Federal Communications Commission, the Administration has waged a retaliatory campaign against ABC for a single reason: it disapproves of what ABC broadcasts,\" the lawsuit says.\n\nIt cites Trump's own social media posts as evidence, including one in which Trump complained about ABC's coverage of him being \"almost 100% negative\".\n\nIn the same social media post, Trump also questioned whether their broadcast licences should \"be terminated\", and answered his own question: \"I say, Yes!\".\n\nThe FCC gave ABC and Disney 30 days to file applications, which, according to plaintiffs in the lawsuit, \"ordinarily take months to prepare\".\n\nThe lawsuit also notes that the FCC has never demanded early renewal applications from a group of stations commonly owned by a single broadcast network.\n\nABC and Disney have requested a \"speedy hearing\" from the court and a temporary restraining order.\n\nBrendan Carr with President Trump (File picture)\n\nCarr - who President Trump once hailed as a \"warrior for free speech\" - has long found himself at the centre of the administration's increasingly combative relationship with the media.\n\nEven before assuming his position in January last year after years on the commission, Carr made clear that he would take an expansive view of his power.\n\nABC in particular has repeatedly drawn Carr's ire.\n\nIn September 2025, he openly threatened to take action against media companies that did not push back against comedian Jimmy Kimmel after he made remarks about the murder of conservative activist and Trump ally, Charlie Kirk.\n\n\"We can do this the easy way or the hard way,\" Carr told conservative podcaster Benny Johnson. \"These companies can find a way to change conduct and take action, frankly, on Kimmel, or you know there's going to be additional work for the FCC ahead.\"\n\nUnder pressure from Carr, Disney pulled Kimmel off air.\n\nBut he was quickly returned to his role after widespread public backlash over alleged free speech violations, including from Republican Senator Ted Cruz.\n\nEarlier, Trump successfully sued ABC News and George Stephanopoulos for defamation after the TV anchor said that the president had been found \"liable for rape\" in the E Jean Carroll case, rather than sexual abuse and defamation.\n\nABC settled the case and agreed to pay $15m for his presidential foundation and museum, plus $1m in legal fees.\n\nRelated topics\n\nDisney\n\nMedia\n\nUnited States\n\nMore on this story\n\nWhat does the FCC do - and can it revoke a TV network's licence? Published 20 September 2025\n\nUS regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump Published 28 April\n\nSenator Ted Cruz says US broadcast regulator acted like 'mafioso' on Jimmy Kimmel Published 20 September 2025",
-      "imageWidth": 1200,
-      "imageHeight": 675
-    },
-    {
-      "id": "a285d7491f22629a",
-      "title": "American Airlines to bring back TV screens on US flights",
-      "summary": "It is also adding more premium seats, with the changes aimed at improving the travel experience and boosting revenue.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/c70glp55y95o",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-18T20:17:33Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 395,
-      "readingMinutes": 2,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c0a/live/d01e1d10-9b41-11f1-bd52-f9704e8e5c82.jpg",
-      "body": "American Airlines removed TVs from US domestic flights in 2017.\n\nPublished 18 August 2026\n\nAmerican Airlines wants its flyers to have screens – and not just the ones its passengers bring on board with them.\n\nThe carrier says it will restore seatback displays across its domestic fleet, reversing a years-long strategy of removing them from most US routes.\n\nThe company is also adding more premium seats, saying the changes are aimed at improving the travel experience and boosting revenue. American Airlines says the upgrades form part of a wider cabin investment announced this week.\n\nIts move follows years of complaints from passengers, who said that relying on personal devices left them with drained batteries, awkward viewing angles, and patchy Wi-Fi.\n\nIt also comes as US carriers try to steady demand in a cooling market.\n\nAmerican Airlines spent much of the past decade phasing out seatback screens from its Boeing 737s and Airbus A320-family jets, arguing that most travellers preferred to stream entertainment on their own devices.\n\nThe airline also said removing built-in displays reduced weight and maintenance costs at a time when carriers were focused on efficiency.\n\nBut the strategy left the carrier out of step with competitors like Delta and United, which have invested heavily in onboard entertainment to support a more premium cabin experience.\n\nJetBlue, meanwhile, has kept seatback TVs. Analysts say those choices have helped shift passenger expectations, making screens feel less like a luxury and more like a standard feature on many US flights.\n\n\"The long pull in the tent is technology,\" Raymond James analyst Savanthi Syth told the BBC, noting that Delta was the first major US carrier to introduce a basic economy fare and has continued adding new products since.\n\nSyth said those early moves put Delta further along in its \"commercial journey\", and the pace at which an airline introduces new offerings often depends on how developed its strategy already is.\n\nAs technology improves – with lighter hardware, lower power use, and cheaper installation – screens have become easier for airlines to justify. American Airlines says it will roll out the new displays as quickly as possible, with full installation expected by early next decade.\n\nIts reversal suggests the carrier is trying to stay competitive and consistent, betting that more reliable onboard amenities will help it win customers while still appealing to budget-conscious travellers.\n\nRelated topics\n\nAir travel\n\nUnited States\n\nCompanies",
-      "imageWidth": 1200,
-      "imageHeight": 675
-    },
-    {
       "id": "94d7a79be7c27831",
       "title": "Disney sues FCC and its chair, escalating fight against Trump's chief censor",
       "summary": "FCC demands \"total capitulation\" in Trump censorship campaign, Disney suit says.",
@@ -1957,30 +1979,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c600/live/6b7a29d0-9bff-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "da8e364a281127d4",
-      "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
-      "summary": "Negotiators want a deal to avoid fresh US tariffs - though Canadians are not in the mood to offer many concessions.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/crl7600rpnko",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-18T12:27:47Z",
-      "category": "Economics",
-      "region": "Canada",
-      "labels": [
-        "Economics",
-        "Canada"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1962/live/397b2430-9a87-11f1-b792-a710e56a11dc.jpg"
-    },
-    {
       "id": "bc1a4698725cdedd",
       "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
       "summary": "The GOP primary in Florida's 19th District includes candidates who are new to the state, candidates who've run for Congress before and two candidates who have received pardons from President Trump.",
@@ -2100,30 +2098,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b0d/live/04272360-9bd1-11f1-bb4d-1147ef2e78e5.jpg"
-    },
-    {
-      "id": "a109783a1d481e8a",
-      "title": "From jumpers to slug pellets - how British wool is back in demand",
-      "summary": "An increased demand in wool has meant prices have increased more than 70% in the last year.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c8xnkjwdn5wo",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-18T11:18:39Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b5/live/3df8bb70-9ae7-11f1-930b-57cfba7235f9.jpg"
     },
     {
       "id": "a06f2cc654dd31fc",
@@ -2874,6 +2848,29 @@
       "imageAlt": "The U.S. Department of Justice Building on Aug.17, in Washington, D.C."
     },
     {
+      "id": "99b808bfbe2b724d",
+      "title": "Harry and Meghan moving back to Britain: reports",
+      "summary": "Prince Harry and Meghan Markle will return to the UK after living in the US for over six years, according to reports. The former senior royals will reportedly live in a private residence.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/harry-and-meghan-moving-back-to-britain-reports/a-78438052?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-20T03:10:00Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 33,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "792b933bcafe4fb5",
       "title": "Inflation is heating up but don't expect another crisis",
       "summary": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months.",
@@ -2920,6 +2917,29 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg"
+    },
+    {
+      "id": "fa2c784c984213b1",
+      "title": "Trump vows ‘economic warfare’ on countries helping Iran",
+      "summary": "US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-20T04:31:10Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "583cf210ed38931c",
@@ -2969,6 +2989,29 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f689/live/98e559c0-9ba6-11f1-a4e6-dfdb59e74cb0.jpg"
+    },
+    {
+      "id": "7ec4ea7f99414238",
+      "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+      "summary": "Trump's order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-20T01:56:41Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "448f66a959b7bc87",
@@ -3446,30 +3489,6 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
-    },
-    {
-      "id": "60349de94e406681",
-      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-08-19T21:32:15Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a600/live/64fb2200-9c07-11f1-b0bd-839fb1d8b591.jpg"
     },
     {
       "id": "263f4632a6214e30",
@@ -4042,30 +4061,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffe/live/831c08d0-7b87-11f1-bee8-53ce494e1abc.jpg"
-    },
-    {
-      "id": "4b4dfac7ddcac3c5",
-      "title": "Meta hooked children on Facebook and Instagram, US court hears",
-      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-18T22:11:07Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/4f771a70-9b84-11f1-bdab-bd265066e1df.jpg"
     },
     {
       "id": "8598493f601c8017",
@@ -4861,30 +4856,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Fairphone-6-plus-1152x648.jpg"
     },
     {
-      "id": "bcdaba2a217399f5",
-      "title": "Wetherspoons bans customers playing music from phones in pubs",
-      "summary": "The pub chain says the decision follows complaints about \"other people's videos and amplified phone conversations\".",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-18T15:23:31Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 16,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbde/live/1b00c8d0-9af4-11f1-930b-57cfba7235f9.jpg"
-    },
-    {
       "id": "a0d18e92db39ab0f",
       "title": "To the well and back - how Malaga returned to La Liga",
       "summary": "After tumbling from the Champions League to the depths of Spain's semi-professional third tier, Malaga are back in La Liga after almost a decade away.",
@@ -4979,6 +4950,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1238249061-1024x648.jpg"
+    },
+    {
+      "id": "5b933a2e7a2e021c",
+      "title": "I won FPL last season - here are my five best tips",
+      "summary": "Want to win your Fantasy Premier League mini-league but need some expert advice? Here are some tips from last season's champion Erik Ibsen.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ekq87e214o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-19T07:11:05Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 23,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9039/live/99b07210-9a1e-11f1-aed2-8d6da8d75094.jpg"
     }
   ],
   "sourceStatus": [
@@ -5015,7 +5010,7 @@
     {
       "source": "DW",
       "ok": true,
-      "items": 139
+      "items": 140
     },
     {
       "source": "UN News",
@@ -5065,7 +5060,7 @@
     {
       "source": "BBC Business",
       "ok": true,
-      "items": 50
+      "items": 43
     },
     {
       "source": "The Guardian Economics",
