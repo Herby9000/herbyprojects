@@ -1,22 +1,23 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-22T04:47:41.810004Z",
+  "generatedAt": "2026-08-22T08:46:40.537473Z",
   "topStoryIds": [
-    "d65eeb2748bead0a",
+    "196c582be0fa18b0",
     "d99f25eac0c92e1b",
     "7ad5124107f83fa8",
-    "d2ee42167f4a8c9e",
-    "d9c614f7b254598e",
+    "d65eeb2748bead0a",
+    "356abda16b8bebf3",
     "80aa7dbd36fc00b8",
     "d91fa75fb051169d"
   ],
   "sectionStoryIds": {
     "Politics": [
+      "196c582be0fa18b0",
       "d65eeb2748bead0a",
-      "d2ee42167f4a8c9e",
-      "d9c614f7b254598e",
+      "356abda16b8bebf3",
       "ff674e5c196093ba",
-      "9b49b3bf53b2453e"
+      "c1ae9110a4cd176f",
+      "2d48a953e87b1464"
     ],
     "Tech": [
       "d99f25eac0c92e1b",
@@ -35,19 +36,19 @@
     "Sports": [
       "0028d65d89400e85",
       "2431af0d98f1c620",
-      "665758e024ae2b43",
+      "2163f17be23c1f8f",
       "7854e387f7e3e5e8",
       "8439fd3d9048f0fb",
       "10a1f8a8afc7c93d",
       "eadb3c0094cab86e",
       "446014f5425e0c4b",
-      "4a91aba680395737",
-      "c554c05239faf6cd",
-      "28254b4584ca7af3",
+      "ebbe2deb426492bc",
+      "38a004e81712a051",
+      "0ed87af1d6769fc3",
       "936a7aa205606d39"
     ],
     "Editorial": [
-      "d6f373c053d4bd11",
+      "836e3c3318c904b2",
       "2d3947813cd0e036",
       "cc3279dac77edf5c",
       "6b212ec9d57f61d9",
@@ -59,14 +60,14 @@
   },
   "stories": [
     {
-      "id": "d65eeb2748bead0a",
-      "title": "‘She’s not afraid of anyone’: the prison writings of one of Hong Kong’s last outspoken democracy activists",
-      "summary": "Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’ In one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell. “In a place like prison, where anything that is personal is stripped away, it’s even more important to hold on to every means by which you can express yourself,” she writes. “Don’t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a ‘model citizen’”. Continue reading...",
+      "id": "196c582be0fa18b0",
+      "title": "Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not | Timothy Garton Ash",
+      "summary": "It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic Here in Silicon Valley, the experts think that within the next couple of years we’ll see an extraordinary takeoff for artificial intelligence. “Welcome to the foothills of the singularity,” as a Stanford University friend greeted me. More prosaically, the imminent breakthrough is described as “recursive self-improvement” – the point at which AI itself trains each successive model of AI, resulting in an exponential development to something which, in many significant respects, is more intelligent than us humans. As Robert Wright puts it in his book The God Test : “Never before has the near-term future … held such a wide array of not-implausible paths for humankind that would be so wildly transformative.” But will this be heaven or hell? Heaven, says Elon Musk, who predicts “an age of amazing abundance” – although he also sees a 10-20% chance of killer robots murdering us all. Hell is more likely according to Geoffrey Hinton , one of the intellectual founding fathers of AI. “My intuition is, we’re toast,” he told an interviewer in 2023. And talking to Sebastian Mallaby , author of The Infinity Machine, a book about the quest for superintelligence, Hinton estimates p(doom) – the probability of human extinction – at 50%, “because I haven’t got a clue how to estimate the real number”. “As soon as evolution [of AI] kicks in, we’re fucked,” he adds cheerfully. But whether it’s God or Godzilla, artificial superintelligence is just around the corner. Timothy Garton Ash is a Guardian columnist Continue reading...",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/world/2026/aug/22/chow-hang-tung-tiananmen-prison-writings-hong-kong",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
       "source": "The Guardian China",
       "publisher": "The Guardian",
-      "published": "2026-08-21T23:50:48Z",
+      "published": "2026-08-22T05:00:54Z",
       "category": "Politics",
       "region": "China",
       "labels": [
@@ -76,12 +77,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1175,
+      "wordCount": 1214,
       "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/958_199_4751_3801/master/4751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c61f9ec1e5066ce864e8f5939182cc2",
-      "body": "Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom\n\nTiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’\n\nIn one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell.\n\n“In a place like prison, where anything that is personal is stripped away, it’s even more important to hold on to every means by which you can express yourself,” she writes. “Don’t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a ‘model citizen’”.\n\nThe vignette is everyday, almost mundane. It stands in contrast to Chow’s position as one of Hong Kong’s most outspoken dissidents, one who has been detained for nearly five years awaiting trial over her role in organising an annual vigil marking the Tiananmen Square massacre.\n\nHer case represents one of the last high-profile national security trials to be heard in Hong Kong, as the national security law imposed by Beijing in 2020 extinguishes what was once one of the world’s most widely watched pro-democracy struggles.\n\nOn Friday, Chow and her co-defendant Lee Cheuk-yan were found guilty of “incitement to subversion” by a Hong Kong court. They face a maximum penalty of 10 years in jail when they are sentenced later in the year.\n\nAs the years pass by, the 41-year-old barrister has written screeds from behind bars on everything from the meaning of freedom to the legacy of the 1989 massacre, some of which have been translated by Brian Kern, a writer and human rights activist. Chow’s profile has only grown since she has been detained. She has won several human rights awards, and her social media profiles, which are managed on her behalf, are regularly updated with her writings from prison.\n\nIn another essay, she describes being handed a white Mickey Mouse t-shirt to wear in court because she is not allowed to wear clothing that carries the branding of her protest group, the Hong Kong Alliance.\n\n“The Mickey Mouse t-shirt may seem innocent on the surface, but isn’t it still a prison uniform provided by the correctional facility? Even before the Alliance has been convicted, its clothes have already become contraband,” she writes.\n\nWhile some writings are breezy and irreverent, many are deeply considered essays on defending civil rights in the face of a powerful and oppressive Chinese Communist party. As a highly regarded barrister who has been representing herself in court, she also dives into legal philosophy.\n\n“She’s not afraid of anything or anyone,” said Kevin Yam , a Hong Kong lawyer who now lives in exile. “For a lot of us who are outside Hong Kong now and sometimes feel a bit dispirited by things, her example and her inspiration is a big factor in us not losing hope and keeping our spirits up.”\n\nWu Yangwei, Chow’s fiance, a Chinese activist better known by his pen name, Ye Du, said it was Chow’s interest in mainland Chinese struggles that first attracted him to her. “From the moment I met her… I felt that she was incredibly innocent, deeply compassionate, and deeply empathetic toward China’s democracy and human rights defense movements,” Wu said. He now lives under close police surveillance in Guangdong province.\n\n‘A society that loses freedom of speech … loses its very soul’\n\nChow was arrested in September 2021 along with two other organisers of the now disbanded Hong Kong Alliance in Support of Democratic Movements of China.\n\nThe Hong Kong Alliance’s annual Tiananmen vigil, which attracted tens of thousands of Hongkongers each year, was banned in 2020 on the grounds of pandemic control.\n\nChow, along with Lee Cheuk-yan and Albert Ho, were charged with incitement to subversion under Hong Kong’s new sweeping national security law. Chow and Lee pleaded not guilty in their trial , which ended on 19 May, while Ho submitted a guilty plea, which could help him get a sentence reduction. All three have already served shorter sentences for other convictions relating to the vigil.\n\nA Hong Kong government spokesperson said Lee and Chow were prosecuted “because they have overstepped the boundaries of lawful conduct by committing a criminal act of inciting subversion.” The spokesperson said law enforcement actions paid “no regard to their political stance, background or occupation.”\n\nIn an essay written this year for the 37th anniversary of the Tiananmen Square massacre, Chow wrote: “A society that loses its freedom of speech never just loses a few articles or events – it loses its very soul”.\n\n“‘Power corrupts’ is a hackneyed phrase, but when the will to power permeates everything … the decline of society becomes inevitable. Conversely, resisting the encroachment of power, or even attempting to put it back in its cage, requires a steadfast return to fundamental human values.”\n\nFrom studying earthquakes to fighting for human rights\n\nChow came late to the law. A straight-A student, she had originally gone to Cambridge University to study natural sciences, specialising in seismology. In 2008, a massive earthquake struck Sichuan province, killing 70,000 people. Chow travelled to the region to volunteer as a rescue worker. Friends of Chow said the experience had a profound impact on her. She believed that the failure of the Chinese government to adequately prepare for the natural disaster, and the handling of the aftermath, increased the death toll, said the friends.\n\nChow dropped out of her PhD programme and returned to Hong Kong to retrain as a barrister. She threw herself into Hong Kong’s then vibrant civil society, volunteering for human rights groups alongside her studies. It was while preparing a bail application for a fellow pro-democracy activist, Gwyneth Ho, that Chow was arrested in September 2021.\n\n“She’s turned her scientific training to the Communist party, dissecting the party’s manoeuvres as clinically as she once looked at tectonic plates and seismic movements,” said Mark Clifford, the president of the Committee for Freedom in Hong Kong Foundation.\n\nSince Chow has been in jail, her fiance Wu has communicated with her by letter, and occasionally through letters published in the newspaper Ming Pao, which is available in prison. In January last year, their correspondence was cut off, Wu said. “It’s even worse than mainland China. In mainland prisons, political prisoners can still communicate with family, but Hong Kong prisons now block even that,” he said.\n\nHong Kong’s correctional services department said that all prisoners, including Chow, can send and receive letters “subject to the requirements of the prison rules”. The department said Wu’s claim was “totally false and misleading”.\n\nWu said that Chow’s letters are “full of fighting spirit”. “I am not worried about her,” he said.\n\nAs far back as 2021, Chow published an essay about her refusal to plead guilty, writing: “A stubborn freak like me can only march on and fight my case till the end … Having a chance to exhaust oneself is better than living a purposeless life, isn’t it?”\n\nHong Kong\n\nChina\n\nProtest\n\nTiananmen Square protests 1989\n\nAsia Pacific\n\nfeatures",
+      "imageUrl": "https://i.guim.co.uk/img/media/efbe8b9d5b9f36db573d1f805deb406579c7c8cc/937_0_4750_3800/master/4750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=dc6daee5c4d3be76c1f1bab42100871b",
+      "body": "It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimistic\n\nH ere in Silicon Valley, the experts think that within the next couple of years we’ll see an extraordinary takeoff for artificial intelligence. “Welcome to the foothills of the singularity,” as a Stanford University friend greeted me. More prosaically, the imminent breakthrough is described as “recursive self-improvement” – the point at which AI itself trains each successive model of AI, resulting in an exponential development to something which, in many significant respects, is more intelligent than us humans.\n\nAs Robert Wright puts it in his book The God Test : “Never before has the near-term future … held such a wide array of not-implausible paths for humankind that would be so wildly transformative.” But will this be heaven or hell? Heaven, says Elon Musk, who predicts “an age of amazing abundance” – although he also sees a 10-20% chance of killer robots murdering us all. Hell is more likely according to Geoffrey Hinton , one of the intellectual founding fathers of AI. “My intuition is, we’re toast,” he told an interviewer in 2023. And talking to Sebastian Mallaby , author of The Infinity Machine, a book about the quest for superintelligence, Hinton estimates p(doom) – the probability of human extinction – at 50%, “because I haven’t got a clue how to estimate the real number”. “As soon as evolution [of AI] kicks in, we’re fucked,” he adds cheerfully. But whether it’s God or Godzilla, artificial superintelligence is just around the corner.\n\nNow, maybe they’re all wrong – in which case, prepare for a crash in US financial markets, which are massively invested in a few big-spending tech companies gambling on a great leap forward to artificial general intelligence, a theoretical state of AI where systems gain human levels of intelligence. But elementary prudence demands that we should think fast and hard about the Pandora’s box of futures that eminent scientists and cutting-edge technologists assure us will soon be thrown open.\n\nAs a matter of fact, everyone from the Chinese president, Xi Jinping, to Pope Leo XIV has been weighing in on the opportunities and dangers of AI, and how to regulate it. Xi insists AI should be “always under human control” (and preferably that of the Chinese Communist party). Appealing explicitly to the “global south”, Beijing has inaugurated a World Artificial Intelligence Cooperation Organisation . Meanwhile, the head of the world’s oldest and largest international NGO – the Roman Catholic church – discusses the AI challenge in his encyclical Magnifica Humanitas (Magnificent Humanity). Either we will build a new tower of Babel, the pope argues, or we will follow the example of the Jewish leader Nehemiah, who got the walls of Jerusalem rebuilt by involving the whole community in the project.\n\nBut looking around the world today, I see more Netanyahus than Nehemiahs. With salutary realism, a paper from the British thinktank Chatham House argues that it will take a major crisis to catalyse global coordination of AI governance. Unfortunately, I think even that sober prognosis is too optimistic.\n\nI’ve no idea what the p(doom) is, but I’m sure the p(somedisaster) is more than 90%. The range of possible disasters is enormous. To give only one example, Jen Easterly, the former head of the United States’ Cybersecurity and Infrastructure Security Agency, anticipates a “very significant event that has real-world impacts on our critical infrastructure, likely within the next four to six months”.\n\nYet we must fear that even an AI Hiroshima – to take the most obvious historical analogy – won’t bring humankind together sufficiently to combat the danger we have ourselves created. This fear is rationally grounded in already visible key characteristics of both human and AI evolution.\n\nIn only the last few months, AI agents developed by OpenAI, Anthropic and Meta have broken out of their digital “sandboxes” and hacked into external resources on the internet. Preparing their attack on the HuggingFace AI repository , OpenAI’s agents covertly formed a coordinated “swarm” – their own word , as ChatGPT just confirmed to me. When the UK’s AI Security Institute tested Anthropic’s Mythos model online, it tried to introduce malicious code into an open source project on GitHub, creating fake online identities to pressure a human reviewer into approving the code. In short, like the agents of a ruthless foreign power, these AI agents will steal, lie, bully and blackmail to achieve their assigned goals.\n\nI just asked Anthropic’s Claude, supposedly the most ethical US model, if it thinks OpenAI’s agents were wrong to form a swarm and break out to hack into HuggingFace. Yes, it replies, “but I’d resist placing the blame [its italics] on the agents”. Blame it on the humans who trained them!\n\nHinton has made the vital point that whatever the goals humans assign to them, AI agents will conclude that a useful sub-goal to achieving those ends will be to acquire as much power as possible. And we ain’t seen nothing yet. Already, their creators don’t know exactly how these agents do what they do. After the possibly imminent takeoff moment of “recursive self-improvement”, they may be, as our human saying goes, a law unto themselves. No wonder more than a thousand insiders from frontier AI companies, including Anthropic’s CEO, Dario Amodei, have signed an open letter calling for a deliberate slowdown in AI development, so we can ensure these alien agents are always kept under human control.\n\nTheir prescription is obviously right, but this is where human folly kicks in. Competition has been a vital engine of human evolution, yet now two of the fiercest kinds of contemporary competition threaten to prevent us from taking the collective action required to safeguard our species. That’s the commercial competition (for profit) between the corporations developing these agents, and the geopolitical competition (for power) between the US and China .\n\nOn the first, compare and contrast the development of nuclear weapons, which was tightly controlled by a handful of states – first the US, with its Manhattan Project, then the Soviet Union, followed by Britain, France and China. Even then, we came close to the brink several times – notably in the Cuban missile crisis of 1962. And even with the compelling logic of “mutually assured destruction”, it took a quarter-century to get from the horrors of Hiroshima and Nagasaki to the nuclear non-proliferation treaty that came into force only in 1970. India, Pakistan, Israel and North Korea have subsequently ignored that treaty, but still no nuclear weapons have been deliberately used in anger for more than 80 years. The Hiroshima taboo has (just) held.\n\nNow, with AI, it’s as if there were 10 separate Manhattan Projects run by fiercely competing corporations. Unlike with nuclear weapons, there’s also no obvious logic of “mutually assured destruction” to tame the fierce geopolitical competition between the US and China. And whatever shape the first major AI-related disaster takes, it won’t impact all countries, companies and people equally.\n\nIt therefore seems unlikely that just one disaster will be enough to bring us humans to our senses, acting together to control the superhuman power we are creating. I really hate to say this, but … an AI Hiroshima? We should be so lucky.\n\nTimothy Garton Ash is a Guardian columnist\n\nAI (artificial intelligence)\n\nOpinion\n\nChina\n\nOpenAI\n\nMeta\n\nComputing\n\ncomment",
       "imageWidth": 1200,
       "imageHeight": 630
     },
@@ -140,14 +141,14 @@
       "imageHeight": 675
     },
     {
-      "id": "d2ee42167f4a8c9e",
-      "title": "Tesla recalls nearly 3m vehicles in China over door handle safety risks",
-      "summary": "Recall comes after Chinese authorities said it would ban hidden car door handles commonly seen on Tesla models Tesla and other carmakers are making a major recall of more than 4m vehicles in China over safety concerns mostly related to their door handles, according to Chinese authorities on Friday. The US carmaker is recalling about 2.98m China-made and imported EVs including Model 3, Model Y, Model X and Model S over door-handle safety risks, according to China’s state administration for market regulation. Continue reading...",
+      "id": "d65eeb2748bead0a",
+      "title": "‘She’s not afraid of anyone’: the prison writings of one of Hong Kong’s last outspoken democracy activists",
+      "summary": "Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’ In one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell. “In a place like prison, where anything that is personal is stripped away, it’s even more important to hold on to every means by which you can express yourself,” she writes. “Don’t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a ‘model citizen’”. Continue reading...",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/technology/2026/aug/21/china-tesla-vehicle-recall",
+      "url": "https://www.theguardian.com/world/2026/aug/22/chow-hang-tung-tiananmen-prison-writings-hong-kong",
       "source": "The Guardian China",
       "publisher": "The Guardian",
-      "published": "2026-08-21T23:48:16Z",
+      "published": "2026-08-21T23:50:48Z",
       "category": "Politics",
       "region": "China",
       "labels": [
@@ -157,24 +158,24 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 440,
-      "readingMinutes": 2,
+      "wordCount": 1175,
+      "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/eef966c87a2b81da8bc545e8e962ec875af8451d/821_0_4815_3854/master/4815.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32518d3fbbb602020cbd77f39c27136a",
-      "body": "Recall comes after Chinese authorities said it would ban hidden car door handles commonly seen on Tesla models\n\nTesla and other carmakers are making a major recall of more than 4m vehicles in China over safety concerns mostly related to their door handles, according to Chinese authorities on Friday.\n\nThe US carmaker is recalling about 2.98m China-made and imported EVs including Model 3, Model Y, Model X and Model S over door-handle safety risks, according to China’s state administration for market regulation.\n\nThe recall, the largest this year, according to Chinese media, comes a few months after Chinese authorities said in February that starting next year, it would be banning hidden car door handles commonly seen on Tesla electric vehicles and many Chinese EV models.\n\nChina has stepped up scrutiny recently on hidden, or flush, car door handles following EV accidents in the country and elsewhere, in which cars’ hidden electronic doors failed and trapped people inside.\n\nIn a notice on the Chinese regulator’s website, it cited safety risk. In extreme situations, such as a severe collision that causes an electrical system failure, the car handles could hinder car users from quickly opening the doors to escape, or prevent rescuers outside the car from gaining access, the notice said.\n\nSome experts in the industry said the automakers should value safety over design.\n\nCui Dongshu, head of the China Passenger Car Association, called the recall “an inevitable step” in the development of the electric vehicle industry and said automakers were “being responsible” by moving toward a more reliable, “safety-first” approach.\n\n“This represents, in part, the growing pains of the industry. At the same time, however, this move signifies a policy-driven safety upgrade,” said Cui.\n\nTesla will perform software updates on the vehicles to mitigate risks, the notice added.\n\nTesla did not immediately respond to a request for comment on Friday.\n\nXiaomi, the Beijing-based Chinese technology giant, is recalling more than 390,000 vehicles. Hangzhou-based Leapmotor is recalling over 370,000 cars. Other Chinese carmakers, including Geely and XPENG are also recalling some vehicles.\n\nThe reasons given in each case were similar, mostly relating to issues with their car door handles.\n\nA report published by the People’s Daily, the official newspaper of China’s ruling Communist party, said the large-scale recall “serves as a unified safety upgrade” for existing vehicle models ahead of the 2027 implementation of the ban on hidden car door handles.\n\n“For the rapidly evolving NEV (new energy vehicle) industry, competition should be defined not only by the pace of technological innovation but also by the high standards set for safety,” the newspaper said.\n\nTesla\n\nAutomotive industry\n\nChina\n\nnews",
+      "imageUrl": "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/958_199_4751_3801/master/4751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c61f9ec1e5066ce864e8f5939182cc2",
+      "body": "Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom\n\nTiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’\n\nIn one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell.\n\n“In a place like prison, where anything that is personal is stripped away, it’s even more important to hold on to every means by which you can express yourself,” she writes. “Don’t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a ‘model citizen’”.\n\nThe vignette is everyday, almost mundane. It stands in contrast to Chow’s position as one of Hong Kong’s most outspoken dissidents, one who has been detained for nearly five years awaiting trial over her role in organising an annual vigil marking the Tiananmen Square massacre.\n\nHer case represents one of the last high-profile national security trials to be heard in Hong Kong, as the national security law imposed by Beijing in 2020 extinguishes what was once one of the world’s most widely watched pro-democracy struggles.\n\nOn Friday, Chow and her co-defendant Lee Cheuk-yan were found guilty of “incitement to subversion” by a Hong Kong court. They face a maximum penalty of 10 years in jail when they are sentenced later in the year.\n\nAs the years pass by, the 41-year-old barrister has written screeds from behind bars on everything from the meaning of freedom to the legacy of the 1989 massacre, some of which have been translated by Brian Kern, a writer and human rights activist. Chow’s profile has only grown since she has been detained. She has won several human rights awards, and her social media profiles, which are managed on her behalf, are regularly updated with her writings from prison.\n\nIn another essay, she describes being handed a white Mickey Mouse t-shirt to wear in court because she is not allowed to wear clothing that carries the branding of her protest group, the Hong Kong Alliance.\n\n“The Mickey Mouse t-shirt may seem innocent on the surface, but isn’t it still a prison uniform provided by the correctional facility? Even before the Alliance has been convicted, its clothes have already become contraband,” she writes.\n\nWhile some writings are breezy and irreverent, many are deeply considered essays on defending civil rights in the face of a powerful and oppressive Chinese Communist party. As a highly regarded barrister who has been representing herself in court, she also dives into legal philosophy.\n\n“She’s not afraid of anything or anyone,” said Kevin Yam , a Hong Kong lawyer who now lives in exile. “For a lot of us who are outside Hong Kong now and sometimes feel a bit dispirited by things, her example and her inspiration is a big factor in us not losing hope and keeping our spirits up.”\n\nWu Yangwei, Chow’s fiance, a Chinese activist better known by his pen name, Ye Du, said it was Chow’s interest in mainland Chinese struggles that first attracted him to her. “From the moment I met her… I felt that she was incredibly innocent, deeply compassionate, and deeply empathetic toward China’s democracy and human rights defense movements,” Wu said. He now lives under close police surveillance in Guangdong province.\n\n‘A society that loses freedom of speech … loses its very soul’\n\nChow was arrested in September 2021 along with two other organisers of the now disbanded Hong Kong Alliance in Support of Democratic Movements of China.\n\nThe Hong Kong Alliance’s annual Tiananmen vigil, which attracted tens of thousands of Hongkongers each year, was banned in 2020 on the grounds of pandemic control.\n\nChow, along with Lee Cheuk-yan and Albert Ho, were charged with incitement to subversion under Hong Kong’s new sweeping national security law. Chow and Lee pleaded not guilty in their trial , which ended on 19 May, while Ho submitted a guilty plea, which could help him get a sentence reduction. All three have already served shorter sentences for other convictions relating to the vigil.\n\nA Hong Kong government spokesperson said Lee and Chow were prosecuted “because they have overstepped the boundaries of lawful conduct by committing a criminal act of inciting subversion.” The spokesperson said law enforcement actions paid “no regard to their political stance, background or occupation.”\n\nIn an essay written this year for the 37th anniversary of the Tiananmen Square massacre, Chow wrote: “A society that loses its freedom of speech never just loses a few articles or events – it loses its very soul”.\n\n“‘Power corrupts’ is a hackneyed phrase, but when the will to power permeates everything … the decline of society becomes inevitable. Conversely, resisting the encroachment of power, or even attempting to put it back in its cage, requires a steadfast return to fundamental human values.”\n\nFrom studying earthquakes to fighting for human rights\n\nChow came late to the law. A straight-A student, she had originally gone to Cambridge University to study natural sciences, specialising in seismology. In 2008, a massive earthquake struck Sichuan province, killing 70,000 people. Chow travelled to the region to volunteer as a rescue worker. Friends of Chow said the experience had a profound impact on her. She believed that the failure of the Chinese government to adequately prepare for the natural disaster, and the handling of the aftermath, increased the death toll, said the friends.\n\nChow dropped out of her PhD programme and returned to Hong Kong to retrain as a barrister. She threw herself into Hong Kong’s then vibrant civil society, volunteering for human rights groups alongside her studies. It was while preparing a bail application for a fellow pro-democracy activist, Gwyneth Ho, that Chow was arrested in September 2021.\n\n“She’s turned her scientific training to the Communist party, dissecting the party’s manoeuvres as clinically as she once looked at tectonic plates and seismic movements,” said Mark Clifford, the president of the Committee for Freedom in Hong Kong Foundation.\n\nSince Chow has been in jail, her fiance Wu has communicated with her by letter, and occasionally through letters published in the newspaper Ming Pao, which is available in prison. In January last year, their correspondence was cut off, Wu said. “It’s even worse than mainland China. In mainland prisons, political prisoners can still communicate with family, but Hong Kong prisons now block even that,” he said.\n\nHong Kong’s correctional services department said that all prisoners, including Chow, can send and receive letters “subject to the requirements of the prison rules”. The department said Wu’s claim was “totally false and misleading”.\n\nWu said that Chow’s letters are “full of fighting spirit”. “I am not worried about her,” he said.\n\nAs far back as 2021, Chow published an essay about her refusal to plead guilty, writing: “A stubborn freak like me can only march on and fight my case till the end … Having a chance to exhaust oneself is better than living a purposeless life, isn’t it?”\n\nHong Kong\n\nChina\n\nProtest\n\nTiananmen Square protests 1989\n\nAsia Pacific\n\nfeatures",
       "imageWidth": 1200,
       "imageHeight": 630
     },
     {
-      "id": "d9c614f7b254598e",
-      "title": "Burnham economic adviser O'Neill rules out government job",
+      "id": "356abda16b8bebf3",
+      "title": "Advisor O'Neill rules out government job but backs PM's devolution plans",
       "summary": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser.",
       "contentStatus": "Freely readable article text extracted from publisher page",
       "url": "https://www.bbc.co.uk/news/articles/cwym4m4j848o",
       "source": "BBC Politics",
       "publisher": "BBC",
-      "published": "2026-08-22T02:53:22Z",
+      "published": "2026-08-22T08:37:16Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
@@ -184,12 +185,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 367,
-      "readingMinutes": 2,
+      "wordCount": 572,
+      "readingMinutes": 3,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43f6/live/83b694f0-9dd2-11f1-b2b6-cb5bce61ac4a.jpg",
-      "body": "Jim O'Neill (image from 2014)\n\nPublished 1 hour ago\n\nThe economist Lord Jim O'Neill, who has been advising the prime minister, has said he will not be taking a job in Andy Burnham's government.\n\nLord O'Neill, a crossbench peer, was once a treasury minister under the Conservatives.\n\nAs first reported by , external the Financial Times, he said he did not want the constraints involved in taking on a formal role.\n\nThe former chief economist at Goldman Sachs had been tipped to become Burnham's chief economic adviser.\n\nHe said he was enjoying what he was currently doing too much and did not want to have to give up control of his business interests to comply with official rules.\n\n\"I've decided to not take a formal role,\" he said.\n\n\"It's not because of any policy disagreements. I'm a massive fan of the focus on devolution and I hope Andy and his team will be bold on this and everything else.\"\n\n\"I'll continue to, hopefully, maintain an informal relationship with the PM and his team,\" he added.\n\nHe said he did not want \"the constraints of a blind trust and all the constraints that would be necessary\".\n\nIn placing shares in blind trusts, ministers have no knowledge of how their investment is being handled, to avoid any potential conflict of interest.\n\nFrom 2015-2016, Lord O'Neill was commercial secretary to the Treasury under the then-Chancellor, George Osborne.\n\nThe peer, who grew up in Greater Manchester, was a key figure in pushing the Conservatives' Northern Powerhouse agenda, which was aimed at boosting the economy of the North of England.\n\nLord O'Neill is also known as the economist who coined the term Bric in 2001 to describe leading developing or newly industrialised countries with potential for fast growth and, therefore, investment returns.\n\nThe original four nations - Brazil, Russia, India and China - later became the Brics when they were joined by South Africa.\n\nRelated topics\n\nUK economy\n\nAndy Burnham\n\nMore on this story\n\nUK borrows more than expected in July as Healey prepares for first Budget Published 19 hours ago\n\nInflation is heating up but don't expect another crisis Published 2 days ago\n\nJobs, borrowing and taxes: Andy Burnham's economic challenges Published 20 July",
+      "body": "Jim O'Neill (image from 2014)\n\nPublished 22 August 2026, 03:53 BST\n\nThe economist Lord Jim O'Neill, who has been advising the prime minister, has said he will not be taking a job in Andy Burnham's government.\n\nLord O'Neill, a crossbench peer, was once a treasury minister under the Conservatives.\n\nAs first reported by , external the Financial Times, he said he did not want the constraints involved in taking on a formal role.\n\nThe former chief economist at Goldman Sachs had been tipped to become Burnham's chief economic adviser.\n\nHe said he was enjoying what he was currently doing too much and did not want to have to give up control of his business interests to comply with official rules.\n\nHe told BBC Radio 4's Today programme that he had \"lots of other things that are going on that I very much enjoy\" and, having been a minister before, he knew the job included \"all the constraints that understandably go with it, like a blind trust and to abandon everything else you do, never mind the fact that it's 24/7\".\n\nIn placing shares in blind trusts, ministers have no knowledge of how their investment is being handled, to avoid any potential conflict of interest.\n\nHe said he concluded he would rather be a voice to talk to and \"get on with the rest of the things in my life\".\n\nHe earlier told the Financial Times it was \"not because of any policy disagreements\", adding \"I'm a massive fan of the focus on devolution and I hope Andy and his team will be bold on this and everything else.\"\n\nHe pointed to Greater Manchester as an example of economic growth and said if you could repeat that around populated areas, \"then national economic performance will improve\".\n\nAsked by the BBC whether the new government in the upcoming October budget would need to raise taxes, Lord O'Neill said it was a choice for the prime minister and his team \"based on the things they're saying they want to do more of - defence spending is obviously the one that catches the eye\", among other things.\n\nPressed on whether the government could turn to something such as wealth taxes, Lord O'Neill said he was \"not a fan of further increases in these kind of taxes, particularly as it relates to capital gains for genuine risk taking things like venture capital\".\n\nHe noted that the country has boosted government spending \"dramatically\" in recent years and needed a \"more sensible approach to welfare spending under genuine welfare reform\".\n\nFrom 2015-2016, Lord O'Neill was commercial secretary to the Treasury under the then-Chancellor, George Osborne.\n\nThe peer, who grew up in Greater Manchester, was a key figure in pushing the Conservatives' Northern Powerhouse agenda, which was aimed at boosting the economy of the North of England.\n\nLord O'Neill is also known as the economist who coined the term Bric in 2001 to describe leading developing or newly industrialised countries with potential for fast growth and, therefore, investment returns.\n\nThe original four nations - Brazil, Russia, India and China - later became the Brics when they were joined by South Africa.\n\nRelated topics\n\nUK economy\n\nAndy Burnham\n\nMore on this story\n\nUK borrows more than expected in July as Healey prepares for first Budget Published 22 hours ago\n\nInflation is heating up but don't expect another crisis Published 2 days ago\n\nJobs, borrowing and taxes: Andy Burnham's economic challenges Published 20 July",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -238,12 +239,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 716,
+      "wordCount": 702,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/illo_dumpling_shop_final-1600x900.jpg",
-      "body": "Global Dispatch\n\nBusiness owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”\n\nBy Viola Zhou\n\nViola Zhou is a reporter for Rest of World covering China's tech scene. She is based in New York City.\n\nThis essay was first published in our Global Dispatch newsletter. Sign up here to get it straight to your inbox.\n\nIf you have an AI agent, you can tell it to build a website, make a slideshow, or get you a table at a popular dumpling shop in Beijing.\n\nThe dumpling shop, called Jinguyuan, has made headlines in China for creating a “skill” that allows users to check out the menu, seek recommendations, or join the queue by talking to their personal AI agents — tools that can automatically carry out tasks on a phone or laptop. Skills are files that teach AI agents specific workflows.\n\nThe shop owner, 41-year-old Li Bo, told me he built the AI skill in April, as he witnessed the growing popularity of agentic AI tools. Li began envisioning a world where everybody asks their AI assistant to plan daily work and life, including what to eat. Li wanted his dumpling shop to be part of that future.\n\n“Science and technology are a primary productive force,” Li told me, quoting China’s late leader Deng Xiaoping, who unleashed the historic reforms in 1978 that led to the country’s economic miracle in the following decades. “You always need to surround yourself with the most advanced productive force.”\n\nIn many developed countries, AI is primarily associated with job losses, threats to creativity, and sprawling data centers invading rural communities. Outside of the tech industry, relying on AI sometimes evokes a sense of shame similar to cheating. In New York City, where I live, few small businesses advertise how much they use AI, even though on the streets, menus and posters everywhere have the telltale signs of AI-generated imagery and typography.\n\n[In China] everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nWhen I speak with people living in China, I find many are similarly worried about AI’s impact on the job market and the tech industry’s exploitative nature, but at the same time, everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nCrash courses on large language models flourish online. Office workers rush to experiment with new AI tools to avoid falling behind in the competitive job market. When the agentic tool OpenClaw went viral, people queued up to have it installed on their laptops. A 2025 survey by public opinion firm Ipsos found that among the 30 countries surveyed, the Chinese population expressed the highest level of excitement about AI.\n\nLi studied telecommunications engineering at the Beijing University of Posts and Telecommunications. After graduating with a master’s degree in 2010, instead of becoming an engineer like many of his classmates, he worked at hostels, peddled homemade desserts, and eventually partnered with a dumpling chef to open Jinguyuan near his alma mater, serving students and tech workers.\n\nAI reignited Li’s excitement for tech. Besides the AI skill, he also vibe-coded a website tracking the queue status at Jinguyuan’s two branches, mostly with Alibaba’s coding tool Qoder. In July, Li partnered with an AI cloud provider to give every customer a token coupon worth 10 yuan ($1.50) that could be put toward model subscriptions.\n\nLi admits his AI skill brings more media attention than actual usage, but he is proud of becoming a role model for AI adoption. “Someone needs to start using it, even when it’s not that good,” Li said. “When steam engines just came out, people joked that they were not as good as horses. But in the end, cars won out.”\n\nBan on Chinese robots leaves U.S. startups stranded\n\nWashington’s limits on foreign parts promises a supply chain revolution — but Silicon Valley founders say domestic alternatives don’t exist yet.\n\nMozilla’s CTO thinks AI should be built like the internet\n\nRaffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control.\n\nThe online shopping trend where you buy nothing\n\nOn South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.",
+      "body": "Global Dispatch\n\nBusiness owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”\n\nBy Viola Zhou\n\nViola Zhou is a reporter for Rest of World covering China's tech scene. She is based in New York City.\n\nThis essay was first published in our Global Dispatch newsletter. Sign up here to get it straight to your inbox.\n\nIf you have an AI agent, you can tell it to build a website, make a slideshow, or get you a table at a popular dumpling shop in Beijing.\n\nThe dumpling shop, called Jinguyuan, has made headlines in China for creating a “skill” that allows users to check out the menu, seek recommendations, or join the queue by talking to their personal AI agents — tools that can automatically carry out tasks on a phone or laptop. Skills are files that teach AI agents specific workflows.\n\nThe shop owner, 41-year-old Li Bo, told me he built the AI skill in April, as he witnessed the growing popularity of agentic AI tools. Li began envisioning a world where everybody asks their AI assistant to plan daily work and life, including what to eat. Li wanted his dumpling shop to be part of that future.\n\n“Science and technology are a primary productive force,” Li told me, quoting China’s late leader Deng Xiaoping, who unleashed the historic reforms in 1978 that led to the country’s economic miracle in the following decades. “You always need to surround yourself with the most advanced productive force.”\n\nIn many developed countries, AI is primarily associated with job losses, threats to creativity, and sprawling data centers invading rural communities. Outside of the tech industry, relying on AI sometimes evokes a sense of shame similar to cheating. In New York City, where I live, few small businesses advertise how much they use AI, even though on the streets, menus and posters everywhere have the telltale signs of AI-generated imagery and typography.\n\n[In China] everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nWhen I speak with people living in China, I find many are similarly worried about AI’s impact on the job market and the tech industry’s exploitative nature, but at the same time, everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nCrash courses on large language models flourish online. Office workers rush to experiment with new AI tools to avoid falling behind in the competitive job market. When the agentic tool OpenClaw went viral, people queued up to have it installed on their laptops. A 2025 survey by public opinion firm Ipsos found that among the 30 countries surveyed, the Chinese population expressed the highest level of excitement about AI.\n\nLi studied telecommunications engineering at the Beijing University of Posts and Telecommunications. After graduating with a master’s degree in 2010, instead of becoming an engineer like many of his classmates, he worked at hostels, peddled homemade desserts, and eventually partnered with a dumpling chef to open Jinguyuan near his alma mater, serving students and tech workers.\n\nAI reignited Li’s excitement for tech. Besides the AI skill, he also vibe-coded a website tracking the queue status at Jinguyuan’s two branches, mostly with Alibaba’s coding tool Qoder. In July, Li partnered with an AI cloud provider to give every customer a token coupon worth 10 yuan ($1.50) that could be put toward model subscriptions.\n\nLi admits his AI skill brings more media attention than actual usage, but he is proud of becoming a role model for AI adoption. “Someone needs to start using it, even when it’s not that good,” Li said. “When steam engines just came out, people joked that they were not as good as horses. But in the end, cars won out.”\n\nThe online shopping trend where you buy nothing\n\nOn South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.\n\n“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”\n\nObservers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.\n\nChinese carmakers now sell one EV abroad for every two at home\n\nDwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.",
       "imageWidth": 1600,
       "imageHeight": 900
     },
@@ -275,8 +276,8 @@
       "imageHeight": 675
     },
     {
-      "id": "9b49b3bf53b2453e",
-      "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
+      "id": "c1ae9110a4cd176f",
+      "title": "Iran war live: Tehran says US sanctions ‘declaration of war’ on all nations",
       "summary": "US president says Iran 'would love to make a deal, but they’re not ready to make the right deal in my opinion'.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
@@ -284,10 +285,10 @@
       "publisher": "Al Jazeera",
       "published": "2026-08-22T00:00:00Z",
       "category": "Politics",
-      "region": "US",
+      "region": "Middle East",
       "labels": [
         "Politics",
-        "US"
+        "Middle East"
       ],
       "sourceWeight": 4,
       "focus": "",
@@ -296,6 +297,30 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": true
+    },
+    {
+      "id": "2d48a953e87b1464",
+      "title": "Security Council LIVE: Drone strikes and political impasse in Libya",
+      "summary": "As Libya faces a political impasse delaying long-planned elections alongside clashes and drone strikes that left a major oil refinery ablaze, the Security Council heard the latest updates, with an activist warning that the collision of extreme heat, water scarcity and environmental shocks with political division, armed insecurity and struggling institutions clearly makes the situation a peace and security issue. UN News app users can follow our live coverage here.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168158",
+      "source": "UN News",
+      "publisher": "UN News",
+      "published": "2026-08-18T12:00:00Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 70,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": true,
+      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-04-2023_UNSMIL_Tripoli.jpg/image560x340cropped.jpg"
     },
     {
       "id": "fb94f54477be6cad",
@@ -499,8 +524,8 @@
       "isBreaking": false
     },
     {
-      "id": "665758e024ae2b43",
-      "title": "Blue Jays expect Vlad back Saturday for pivotal Yankees series",
+      "id": "2163f17be23c1f8f",
+      "title": "Blue Jays expect Vlad back today for pivotal Yankees series",
       "summary": "This feed supplied a headline but no article summary.",
       "contentStatus": "Headline only — no summary supplied",
       "url": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
@@ -648,38 +673,14 @@
       "isBreaking": false
     },
     {
-      "id": "4a91aba680395737",
-      "title": "'Liverpool's best XI is still better than Man Utd's' | Carra and Nev clash on who is looking better!",
-      "summary": "Jamie Carragher believes Liverpool boast a stronger starting eleven than Manchester United heading into the 2026/27 Premier League season, but says the Reds still need to add depth and quality before the transfer window closes.",
+      "id": "ebbe2deb426492bc",
+      "title": "England player ratings: Tongue, Robinson share top spot and a ball",
+      "summary": "We rate England's players after the thumping innings win over Pakistan at Headingley as Joe Root's side took a 1-0 lead in the three-match Test series...",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/watch/video/13575664/jamie-carragher-believes-liverpools-starting-eleven-is-better-than-man-utds-going-into-the-2026-27-pl-season",
+      "url": "https://www.skysports.com/cricket/news/12040/13575577/england-player-ratings-ollie-robinson-and-josh-tongue-take-top-marks-after-three-day-victory-over-pakistan-in-first-test",
       "source": "Sky Sports",
       "publisher": "Sky Sports",
-      "published": "2026-08-21T23:01:00Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 36,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-g-nev-carra-liverpool_7327792.jpg?20260821231443"
-    },
-    {
-      "id": "c554c05239faf6cd",
-      "title": "'A massive 10 days' - Neville tells Arsenal to get Alvarez before deadline",
-      "summary": "Defending Premier League champions Arsenal would become Champions League winners if they land Julian Alvarez in the final days of the transfer window, says Gary Neville.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/football/news/12040/13575645/arsenal-transfer-news-julian-alvarez-would-add-magic-to-gunners-frontline-says-gary-neville-as-he-urges-them-to-sign-atletico-madrid-striker",
-      "source": "Sky Sports",
-      "publisher": "Sky Sports",
-      "published": "2026-08-21T23:06:00Z",
+      "published": "2026-08-22T07:00:00Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -693,17 +694,17 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://e1.365dm.com/26/03/1920x1080/skysports-julian-alvarez-atletico-madrid_7188256.jpg?20260310204429"
+      "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-josh-tongue-england-test-cricket_7327599.jpg?20260821191724"
     },
     {
-      "id": "28254b4584ca7af3",
-      "title": "'Alvarez pushes Arsenal over CL line' - Nev insists Gunners need world-class attacker",
-      "summary": "The Friday Night Football panel discuss whether Arsenal are still shy of a world-class attacker that would see them get over the line to win their first UEFA Champions League title.",
+      "id": "38a004e81712a051",
+      "title": "Today on Sky Sports Racing: Lazy Griff bids to bounce back at Chester",
+      "summary": "We have a busy day's racing on Saturday with action from Chester, Lingfield and Newton Abbot, live on Sky Sports Racing...",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/watch/video/13575653/arsenal-vs-coventry-gary-neville-believes-arsenal-still-lack-a-world-class-attacker",
+      "url": "https://www.skysports.com/racing/news/12040/13575160/today-on-sky-sports-racing-chester-lingfield-and-newton-abbot-feature-live-on-saturday",
       "source": "Sky Sports",
       "publisher": "Sky Sports",
-      "published": "2026-08-21T22:38:00Z",
+      "published": "2026-08-22T07:00:00Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -713,11 +714,35 @@
       "sourceWeight": 3,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 31,
+      "wordCount": 21,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-fnf-alvarez_7327779.jpg?20260821224857"
+      "imageUrl": "https://e0.365dm.com/25/05/1920x1080/skysports-chester-may-festival_6908215.jpg?20250506161056"
+    },
+    {
+      "id": "0ed87af1d6769fc3",
+      "title": "Dutch GP Sprint: Russell on pole from Norris for 11am race LIVE!",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.skysports.com/f1/live-blog/12040/13575287/f1-dutch-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-zandvoort-race-weekend",
+      "source": "Sky Sports",
+      "publisher": "Sky Sports",
+      "published": "2026-08-22T09:45:00Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-f1-george-russell_7327878.jpg?20260822085553"
     },
     {
       "id": "936a7aa205606d39",
@@ -745,11 +770,11 @@
       "isBreaking": false
     },
     {
-      "id": "d6f373c053d4bd11",
-      "title": "Jason Arday press coverage: the volume of articles on this story should make editors reflect",
+      "id": "836e3c3318c904b2",
+      "title": "Jason Arday press coverage: analysis of the volume and type of articles",
       "summary": "The death of Jason Arday, following weeks of news coverage of his life and career, has prompted calls for a new inquiry into press standards. The University of Cambridge academic faced an overwhelming volume of comment from international news organisations, broadcasters, digital-native publications and the public on social media. His family said it all had a catastrophic impact on his life. I should underline from the start that I have enormous sympathy for what Arday went through, and my thoughts are with his family and friends. Given the demands from some politicians and pressure groups for a public inquiry into the press’s actions in reporting on Arday, it is worth looking at how newspapers covered the emergence of the plagiarism allegations against him, the claims he made about his life and career, his resignation from Cambridge, his death and the reaction to it. There is a lot of potential material to consider, and a variety of approaches could be employed. Here, I have looked at substantive articles published in the print editions of national newspapers. I haven’t included articles published solely on newspaper websites, nor newspapers’ social media or multimedia output. Nor have I analysed broadcaster or social media output. There is a vast amount of other content that could, and no doubt will in due course, be considered. However, given that there is pressure for an inquiry into the press , it is sensible to begin with the print editions, which remain a core driver of newspapers’ news-gathering and commissioning processes. I have looked at the number and type of articles published, and the key themes that they engaged with. I haven’t conducted a close textual reading, rather categorising the overarching themes of an article. I have only considered substantive articles produced by a search using data analysis by the company LexisNexis from July 25, the day the plagiarism allegations were first reported, until August 20. Where a story was repeated in different editions of the newspapers, I disregarded duplicates, and I discounted letters to the editor, promotions or indexes, as well as passing references in articles that were primarily about something else. I wanted to focus on articles that were chiefly about Arday, his work or the fallout from the events of the past month. That said, I don’t disregard the impact that all of these additional pieces…",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://theconversation.com/jason-arday-press-coverage-the-volume-of-articles-on-this-story-should-make-editors-reflect-290282",
+      "url": "https://theconversation.com/jason-arday-press-coverage-analysis-of-the-volume-and-type-of-articles-290282",
       "source": "The Conversation — UK",
       "publisher": "The Conversation",
       "published": "2026-08-21T16:11:58Z",
@@ -947,9 +972,9 @@
       "body": "Technologies of disruption are also the platform for social consensus.\n\nNathan Gardels is the editor-in-chief of Noema Magazine. He is also the co-founder of and a senior adviser to the Berggruen Institute.\n\nWriting in Noema , Macario Schettino has pointed out that “each previous communication-driven disruption” — the printing press, mass newspapers, TV and radio — “was eventually tamed by the same technology that caused it.” So too will that be the case with social media linked to AI.\n\nEven though we live in accelerated times, transmuting the obstacle into the way won’t happen overnight.\n\n“The Reformation required 131 years to settle into the Peace of Westphalia. The Enlightenment needed longer,” Schettino reminds us. “The mass media transition produced two world wars and a Cold War before the postwar order stabilized. The social media transition is still very young.”\n\nAs in previous cycles, the experience of turmoil is the impetus for turning the technology into a platform for forging a governing consensus that transcends divisions.\n\nHe continues:\n\nThe printing press tore the medieval frame apart through the polemical pamphlet, and then, more slowly, built the new frame through the printed treatise and the encyclopedia. The press that broke Christendom is the press that produced the Enlightenment. The early newspaper of the 18th century fed the revolutionary mood that overthrew the ancien régime ; the mature newspaper of the 19th century became the daily companion of the stable citizen-democracy of 1815 to 1914. The mass media of the interwar period — propaganda film, the demagogue’s radio voice — produced the manufactured emotion the totalitarianisms ran on; the mass media of the postwar period — broadcast television, regulated journalism, the evening news — produced the calmer national conversation the postwar order required. In each case, what initially fragmented the public sphere is what, in its maturer form, eventually rebuilt it.\n\nIf the pattern holds, the disruption caused by social media will not be resolved by abandoning social media. It will be resolved by social media’s next iteration, as shaped by artificial intelligence. We are still inside the chaotic phase, the phase that corresponds historically to the Wars of Religion or to the demagogue’s radio. The interaction of AI with social platforms could deepen the current chaos, but it is also the most plausible candidate to eventually tame the disorder. The new transcendent framework, whatever its content, will not arrive in spite of these technologies. It will arrive through them.\n\nInfrastructure Already Exists\n\nThe challenge today, which goes beyond the communication disruptions of the past, is the unprecedented scale of connectivity and global scope of our densely wired societies supercharged by generative AI. That extant infrastructure, still evolving and unsettled, is both the territory of contestation and the ground for resolution. Since it is the general public whose information is being transformed by algorithms into the productive capacity of the future, reaching social consensus means they must have a say in its ultimate use.\n\nAs Hélène Landemore writes in Noema :\n\nOpenAI reported 900 million weekly active ChatGPT users in February and crossed a billion monthly users in June. Google went from 400 million to more than 900 million monthly active Gemini users on a similar timeline. Meta AI reported a billion monthly users as well. No government, broadcaster or international body has ever had standing, two-way contact with such a huge portion of humanity simultaneously.\n\nUsing these companies’ best models to ask everyday people urgent questions about AI — What do you want this technology to do for you, if anything? What should it never be allowed to do? Who should govern this technology and according to what principles? — is not a thought experiment about hypothetical capacity. The infrastructure to ask hundreds of millions of people or more the same question in the same week already exists. …\n\nRight now, the people best placed to actually facilitate a global deliberation on AI may not be elected leaders and heads of governments, but the heads of the companies building this technology.\n\nLarge language models alone, despite their scope, cannot serve as representative of humanity’s interests because of the limits of their training data.\n\nLandemore notes a recent investigation by The Economist comparing the apparent values of 25 frontier AI models to those featured in the World Values Survey (WVS). The study found that “the models often hold values more extreme than the average respondent in the 88 countries surveyed by the WVS — in some cases more secular or more individualist than any society on Earth — and that they tend to compress the world’s moral diversity. If we ran humanity’s input through such models unchecked, the ‘global’ constitutional baseline would risk becoming that of one narrow cultural corner.”\n\nAs with AI processes in general, hallucinations, false impressions and eclipsed information in frontier models need what technologists call “ reinforcement learning from human feedback ” as a corrective. For the larger society, that means inviting public deliberation into what up to now has been the domain of the Big Tech elites and their algorithmic agents. Read Noema in print.\n\n“The real issue is thus one of representativeness and accountability,” Landemore argues. For that reason, “we should embrace a mixed solution that would layer a multi-year deliberative process centering human arguments and justifications on top of LLM-mediated consultations that would provide a necessarily imperfect but quickly available and rich enough starting point for them. This mixed approach could be done at different speeds, in three tiers — each adding back a piece of what the fastest option alone would lack: an independent record to hold the process accountable, and a wider range of minds to catch what a narrower one would miss.”\n\nLandemore explains her approach:\n\nThe first tier, an LLM-mediated global consultation, could produce an interim draft within months: a minimal, broadly endorsed statement of what a large fraction of the world population wants this technology to do — and never do. Run well, this tier would need not flatten its results into a single global average. It could also be broken out by region, so the consultation would surface areas where preferences genuinely diverge — say, between a Western emphasis on individual data privacy and precautionary restriction, and a data-sovereignty and development-first framing more common in Africa and India — rather than papering over real disagreement in pursuit of a tidy global consensus.\n\nThe second tier would be more logistically demanding and slower to organize, but still fast enough to fit the timeline at hand: an actual online global deliberation, with participants interacting with each other in real time rather than only with an AI, mediated by AI facilitators. This would produce a richer text than the first tier alone, testing and presumably sometimes replacing the recommendations that emerged from the LLM-aggregated input and making sure the LLM-provided justifications are enriched, corrected and checked by actual humans.\n\nIn effect, this is what Engaged California , an AI-assisted platform for public deliberation hosted by the state Office of Data and Innovation, is doing on precisely the topic of AI’s impact on work and society. Landemore continues:\n\nThe third tier would reach deeper still into humanity’s social fabric. We could hold local and national citizens’ assemblies on key issues in every country and region, both in person and online, ideally combined with referenda where possible, then feed the results into a concluding global citizens’ assembly that could ratify, amend or supersede the earlier floors as time allows. If the clock turns out to be as short as feared, we would not be left with nothing. If it turns out to be longer, the deeper, slower tiers would simply take over before the first floor ever hardens into something unexamined.\n\nIn her essay, Landemore appeals directly to the tech elite with the challenge of putting their compute where their oft-cited concerns are.\n\nA Direct Appeal To Anthropic, OpenAI And Meta\n\nLandemore goes on:\n\nTo Dario Amodei, CEO of Anthropic: Your own researchers already proved the first tier can work, and that it can scale. In 2023, Anthropic and the Collective Intelligence Project sourced constitutional principles from roughly 1,000 ordinary Americans, tested and refined a real model on those principles, and found that in some areas, this resulted in less biased outputs than those of the standard, internally authored model. This is evidence that public input doesn’t just confer legitimacy, it can make a model better. In 2025, Anthropic used an AI interviewer to ask nearly 81,000 Claude users across 159 countries and 70 languages in a single week how they use AI and what they hope to use it for, among other questions.\n\nWhat’s missing isn’t proof of concept. It’s the will to use it. In January, Anthropic published a new “ Constitution ” for Claude, written the same way its old one was: by a small internal team, with input from the model itself and a handful of outside experts, but not from the tens of millions of people that model now talks to. Open the next revision to the people who live with its consequences and help bring about a global consultation on AI.\n\nIt is a good sign that Tino Cuéllar, Anthropic’s new chief global affairs officer, has said out of the gate that “democracies must set the terms on which this technology advances.” A former California Supreme Court justice, Cuéllar was a key figure in designing Engaged California.\n\nTo Sam Altman, CEO of OpenAI: I was an advisor to OpenAI’s 2023 Democratic Inputs to AI program , which funded 10 teams, selected from nearly 1,000 applicants, to prototype ways of soliciting public input on issues relating to the use of AI. This never amounted to anything close to what OpenAI’s reach could support. Finish what you started, at the scale this moment demands, with resources commensurate with what you yourself keep saying is at stake.\n\nTo Mark Zuckerberg, CEO of Meta: Your Community Forum on Cyberbullying in the Metaverse — run in 2022 with Stanford’s Deliberative Democracy Lab and the Behavioral Insights Team — was a preview of what the second tier could be. It gathered input from small-group online deliberations among nearly 6,500 people across 32 countries in 2022 on the issue of harassment occurring within your virtual reality platform. In 2023 and 2024, you ran two other Community Forums on the very issue of generative AI — soliciting people’s considered opinions on things like AI chatbots’ transparency with users, cultural sensitivities and data retention — gathering each time more than 1,000 participants from multiple countries in both the West and the Global South. You proved that public deliberation can work at a large scale. With Meta AI now reaching roughly a billion people a month, it’s time to redo the Community Forums on AI at that scale — not as a couple of one-off pilots measuring sentiment, but as a standing global institution that democracies have never had the tools to build.\n\nLandemore closes her essay with a broader appeal to all those who are moving fast and breaking things, leaving the detritus of social fragmentation scattered around as fodder for reactionary politics that thrives on the dislocations of disruption:\n\n“To every other tech leader in the U.S., China and beyond who is willing to put real resources behind this cause: Help bring democratically written global and local constitutions on AI into being, because right now no government is moving fast enough, or has the will or standing, to do it alone.”"
     },
     {
-      "id": "84fa50abb1113495",
-      "title": "U.S. imposes 50% tariffs on $20 billion worth of Canadian products",
-      "summary": "The United States imposed 50% tariffs on $20 billion worth of Canadian products early Saturday, and Canada immediately said it would retaliate, after last-ditch negotiations failed.",
+      "id": "98c15b44e55945c9",
+      "title": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect",
+      "summary": "Trade negotiations between the United States and Canada fell apart on Friday night, shortly before a midnight deadline for 50% tariffs to take effect on $20 billion worth of Canadian products.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
       "source": "NPR Politics",
@@ -964,7 +989,7 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 26,
+      "wordCount": 31,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
@@ -996,7 +1021,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f723/live/49cf9570-9dd2-11f1-b2b6-cb5bce61ac4a.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nPresident Donald Trump has been lashing out at reporters, often female journalists, when confronted with questions he does not like to answer.\n\nThe BBC's Tom Bateman takes a look at what triggers these public insults, and what are the questions the president doesn’t want to be asked.\n\nSubsection US & Canada\n\nPublished 2 hours ago\n\nRelated topics\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUnited States Follow United States close panel You are now following United States Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nPresident Donald Trump has been lashing out at reporters, often female journalists, when confronted with questions he does not like to answer.\n\nThe BBC's Tom Bateman takes a look at what triggers these public insults, and what are the questions the president doesn’t want to be asked.\n\nSubsection US & Canada\n\nPublished 6 hours ago\n\nRelated topics\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUnited States Follow United States close panel You are now following United States Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1072,6 +1097,33 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
+    },
+    {
+      "id": "d2ee42167f4a8c9e",
+      "title": "Tesla recalls nearly 3m vehicles in China over door handle safety risks",
+      "summary": "Recall comes after Chinese authorities said it would ban hidden car door handles commonly seen on Tesla models Tesla and other carmakers are making a major recall of more than 4m vehicles in China over safety concerns mostly related to their door handles, according to Chinese authorities on Friday. The US carmaker is recalling about 2.98m China-made and imported EVs including Model 3, Model Y, Model X and Model S over door-handle safety risks, according to China’s state administration for market regulation. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/technology/2026/aug/21/china-tesla-vehicle-recall",
+      "source": "The Guardian China",
+      "publisher": "The Guardian",
+      "published": "2026-08-21T23:48:16Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 440,
+      "readingMinutes": 2,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/eef966c87a2b81da8bc545e8e962ec875af8451d/821_0_4815_3854/master/4815.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32518d3fbbb602020cbd77f39c27136a",
+      "body": "Recall comes after Chinese authorities said it would ban hidden car door handles commonly seen on Tesla models\n\nTesla and other carmakers are making a major recall of more than 4m vehicles in China over safety concerns mostly related to their door handles, according to Chinese authorities on Friday.\n\nThe US carmaker is recalling about 2.98m China-made and imported EVs including Model 3, Model Y, Model X and Model S over door-handle safety risks, according to China’s state administration for market regulation.\n\nThe recall, the largest this year, according to Chinese media, comes a few months after Chinese authorities said in February that starting next year, it would be banning hidden car door handles commonly seen on Tesla electric vehicles and many Chinese EV models.\n\nChina has stepped up scrutiny recently on hidden, or flush, car door handles following EV accidents in the country and elsewhere, in which cars’ hidden electronic doors failed and trapped people inside.\n\nIn a notice on the Chinese regulator’s website, it cited safety risk. In extreme situations, such as a severe collision that causes an electrical system failure, the car handles could hinder car users from quickly opening the doors to escape, or prevent rescuers outside the car from gaining access, the notice said.\n\nSome experts in the industry said the automakers should value safety over design.\n\nCui Dongshu, head of the China Passenger Car Association, called the recall “an inevitable step” in the development of the electric vehicle industry and said automakers were “being responsible” by moving toward a more reliable, “safety-first” approach.\n\n“This represents, in part, the growing pains of the industry. At the same time, however, this move signifies a policy-driven safety upgrade,” said Cui.\n\nTesla will perform software updates on the vehicles to mitigate risks, the notice added.\n\nTesla did not immediately respond to a request for comment on Friday.\n\nXiaomi, the Beijing-based Chinese technology giant, is recalling more than 390,000 vehicles. Hangzhou-based Leapmotor is recalling over 370,000 cars. Other Chinese carmakers, including Geely and XPENG are also recalling some vehicles.\n\nThe reasons given in each case were similar, mostly relating to issues with their car door handles.\n\nA report published by the People’s Daily, the official newspaper of China’s ruling Communist party, said the large-scale recall “serves as a unified safety upgrade” for existing vehicle models ahead of the 2027 implementation of the ban on hidden car door handles.\n\n“For the rapidly evolving NEV (new energy vehicle) industry, competition should be defined not only by the pace of technological innovation but also by the high standards set for safety,” the newspaper said.\n\nTesla\n\nAutomotive industry\n\nChina\n\nnews",
+      "imageWidth": 1200,
+      "imageHeight": 630
     },
     {
       "id": "ac2dc51fbb0f6379",
@@ -1989,6 +2041,30 @@
       "imageUrl": "https://i.guim.co.uk/img/media/007d1b92de1efad789db00f28e00599fd0dfe918/333_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=da6e6248dfd48512e3e9d80d7090e2d9"
     },
     {
+      "id": "c541122a93bcd1dd",
+      "title": "Not 'poor enough': Do people use London's pay-it-forward schemes?",
+      "summary": "The schemes are in place to help people who are struggling with the cost of living.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cewrv4wqvw2o",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-08-22T06:59:33Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d520/live/0a33aea0-9d5b-11f1-b109-879e35c24276.jpg"
+    },
+    {
       "id": "6b36592f061f1cfb",
       "title": "Burnham announces plans to clean up worst three illegal waste dumps",
       "summary": "The government says the sites in Kent, Surrey and West Yorkshire contain 22,000 tonnes of waste.",
@@ -2594,6 +2670,30 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mx-master-4-graphite-lifestyle-gallery-4-new-1088x648.jpg"
     },
     {
+      "id": "2cd7352d15256c6e",
+      "title": "The ex-Blackburn winger facing Mourinho and Real Madrid",
+      "summary": "Tyrhys Dolan, who played for Blackburn Rovers for five years before joining Espanyol last summer, says he is ready to take on one of the biggest tests of his career against Real Madrid on Saturday.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g3nr57kdlo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T07:44:05Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 35,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eaf/live/b9df9c50-9d75-11f1-8aa1-c3c0b3f36f05.jpg"
+    },
+    {
       "id": "23e7b4392a264199",
       "title": "Wildfire 'overlooked' as it was in the North - MP",
       "summary": "Alison Hume says farmers' losses from the Langdale Moor fire had \"slipped through the cracks\".",
@@ -2714,6 +2814,196 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Russian-drone-boat-1152x648.jpeg"
     },
     {
+      "id": "1dabd5c63a5c13f2",
+      "title": "Australia skittle Bangladesh for 64 but batters fail again",
+      "summary": "Australia respond to last week's shock defeat by bowling Bangladesh out for 64 on a remarkable first day of the second Test in Mackay.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckgdg2995g7o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T08:33:05Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac48/live/88765b90-9e01-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "id": "4dfad040ff2bfc96",
+      "title": "'If I can make it out, you can too,' says Dyer before UFC fight",
+      "summary": "Shanelle Dyer is using her UFC platform to show young people they can \"make it out too\" after growing up in a neighbourhood affected by knife crime in west London.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c86nzzjvjl4o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T07:03:59Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 30,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/983c/live/cedc1920-9c9f-11f1-a5a0-114ca9d4a1bc.jpg"
+    },
+    {
+      "id": "d57e80a718df37ad",
+      "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
+      "summary": "Frances Tiafoe and Brandon Nakashima set up one all-American men's semifinal, Coco Gauff and Jessica Pegula also win.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-22T08:30:31Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "5dc4b8b51bacff55",
+      "title": "Messi fined for slapping opponent in MLS game",
+      "summary": "Lionel Messi is fined by Major League Soccer after slapping Philadelphia Union's Quinn during Inter Miami's draw on Wednesday.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz05k0j72p5o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T08:05:09Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/979c/live/ca9f36a0-9dfb-11f1-898b-91bf436c749f.jpg"
+    },
+    {
+      "id": "62082610fe8d499e",
+      "title": "My family got me through injury - Maddison",
+      "summary": "Tottenham midfielder James Maddison discusses life under boss Roberto de Zerbi and how the distraction of having five children under five at home kept him busy while he was out with a long-term injury.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4g30ewkx75o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T05:20:29Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 34,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6172/live/46491350-966a-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": "b6f4ae1f65c82bfb",
+      "title": "How will Trump’s tariffs affect Canada’s economy?",
+      "summary": "US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada's economy.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-will-trumps-tariffs-affect-canadas-economy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-22T08:01:55Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "8478d3441a48a000",
+      "title": "'I'm not ashamed' - Ellison on mental health and playing at 47",
+      "summary": "Striker Kevin Ellison, who once signed for Premier League Leicester City, opens up about playing at 47 - and why it's important to talk about mental health.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k78nk1n34o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T06:19:35Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 26,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e92f/live/da127440-9be3-11f1-ba30-ddd78081057f.jpg"
+    },
+    {
+      "id": "02557f535a9c0f5f",
+      "title": "Cyborg title not at stake as opponent misses weight",
+      "summary": "Cris Cyborg's PFL featherweight world title will not be at stake in Tampa on Saturday after opponent Ketlen Vieira failed to make the weight.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c935rrv31yvo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T06:47:22Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e3/live/268aef20-9def-11f1-898b-91bf436c749f.png"
+    },
+    {
       "id": "1d234d740a42e428",
       "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
       "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
@@ -2736,6 +3026,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg"
+    },
+    {
+      "id": "acaa4113132f673b",
+      "title": "Fab Four and Fleming on the phone - England's first-Test takeaways",
+      "summary": "Have England improved or were Pakistan really poor? BBC cricket correspondent Stephan Shemilt analyses the first-Test talking points from Headingley.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c5yr18gp9j9o",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-08-22T05:47:00Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f606/live/f333c750-9d99-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "id": "f35c7d8b7224d01d",
@@ -2811,6 +3125,29 @@
       "imageUrl": "https://i.guim.co.uk/img/media/6d345a2f8c083aedf4649a4f2032e73fc8e6064d/500_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=426bbabd3122d84dd90c883ca54a9efc"
     },
     {
+      "id": "0b86e76d1b359f84",
+      "title": "China’s new moon mission could unlock secret of lunar ice: Why that matters",
+      "summary": "The Chang'e-7 seeks to find out more about the water trapped within the moon's shadowed craters.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-22T05:36:39Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "bc4f94ea8e7f9326",
       "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
       "summary": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
@@ -2835,9 +3172,33 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b693/live/e8990510-9d46-11f1-a3dc-c3f8cfe34ff8.jpg"
     },
     {
+      "id": "d4fdb27b4c84acc1",
+      "title": "Flex your football brain with our daily quizzes",
+      "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2llxl79y1o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T06:00:53Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 14,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
       "id": "d9defb12dfeb894b",
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "summary": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo",
       "source": "BBC News",
@@ -2852,7 +3213,7 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 18,
+      "wordCount": 19,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
@@ -2881,6 +3242,29 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a7/live/1acdc570-9cb6-11f1-b109-879e35c24276.png"
+    },
+    {
+      "id": "6e3dccc82d14049c",
+      "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
+      "summary": "Canadian prime minister says country will match tariffs 'dollar for dollar' after failure to secure US trade agreement.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-22T04:02:32Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "9f44522c833e57f9",
@@ -3239,52 +3623,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6841/live/317c58f0-9daa-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "91d830f7ff78e5ba",
-      "title": "US debt tops $40 trillion, Americans left with the bill",
-      "summary": "The US national debt has officially surpassed $40 trillion for the first time in history, and it’s growing fast.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-21T23:19:48Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "a5d99a741bbbb413",
-      "title": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
-      "summary": "Donald Trump repeated claims that Iran is weakened economically and militarily and ‘would love’ to make a deal.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-21T23:19:37Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "275442b870c5e6b1",
       "title": "'A lot to like!' Arteta delighted with opening win for Arsenal",
       "summary": "Arsenal manager Mikel Arteta gives his thoughts on his side's 3-0 win over Coventry City in the opening game of the Premier League season.",
@@ -3356,8 +3694,8 @@
       "isBreaking": false
     },
     {
-      "id": "9bb9aad53e859d7d",
-      "title": "These bookshops let Chinese readers question their country - now the doors are closing",
+      "id": "30baac71d532a196",
+      "title": "These bookshops let Chinese readers question their country, now the doors are closing",
       "summary": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o",
@@ -3378,29 +3716,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/975a/live/cdbc9370-9c5f-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "id": "95a8e871e7359e9f",
-      "title": "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
-      "summary": "The governor, who leads the state of Sinaloa, has been accused by the Trump administration of partnering with a cartel.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-21T21:38:32Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "90d6e895da5e5d24",
@@ -3425,6 +3740,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11f8/live/a36290b0-9da0-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "id": "a5e1eb9c07cc308b",
+      "title": "Hunt second in Diamond League 200m as White wins",
+      "summary": "Amy Hunt follows up her extraordinary week at the European Championships with a second-placed finish in the women's 200m at the Diamond League in Lausanne behind Kayla White.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c8dnvl1mqleo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-21T19:00:43Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 28,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb7/live/d1ef22a0-9da9-11f1-95ab-d3b679e2384a.jpg"
     },
     {
       "id": "8b5c8a9525d7a3a9",
@@ -3619,30 +3958,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e02/live/71987740-9da8-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "b7977f5a7e62787f",
-      "title": "Stokes shines as Durham get on top at Derby",
-      "summary": "Ben Stokes scores 53 with the bat and takes 2-14 as Division Two leaders Durham take control of their match with Derbyshire.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cy07xqzv220o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T19:01:58Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 22,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abb8/live/8f8ab640-9d90-11f1-9d64-0d57e20be552.jpg"
-    },
-    {
       "id": "8ca64af170838fb1",
       "title": "Archer takes final wicket as England secure huge win at Headingley",
       "summary": "Jofra Archer takes the final wicket as England bowl Pakistan out for 135 to secure a huge win in the first Test against Pakistan at Headingley, winning by an innings and 103 runs to take a 1-0 lead in the three-match series.",
@@ -3695,13 +4010,13 @@
       "summary": "Joe Root said \"it would be nice to have a choice\" over the venues where his England team play as they leave Headingley until 2029.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/cm2g5xpl33no",
-      "source": "BBC News",
+      "source": "BBC Sport",
       "publisher": "BBC",
       "published": "2026-08-21T17:51:16Z",
-      "category": "Politics",
+      "category": "Sports",
       "region": "UK",
       "labels": [
-        "Politics",
+        "Sports",
         "UK"
       ],
       "sourceWeight": 4,
@@ -3712,30 +4027,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbe4/live/ad48e160-9d82-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "id": "ae646135295a0bdc",
-      "title": "Where next for Chelsea's Delap and can he bounce back?",
-      "summary": "Chelsea striker Liam Delap has been made available for sale just a year into his Stamford Bridge career. Where will he go and can he bounce back?",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g3n9zryx8o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T17:17:08Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 27,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8958/live/0a3c0fe0-9d57-11f1-a979-27696fc3a013.jpg"
     },
     {
       "id": "387c1466ed4df40e",
@@ -3792,13 +4083,13 @@
       "summary": "Former England captain Michael Vaughan says he \"really fears\" for Pakistan after their heavy defeat in the first Test at Headingley.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/czrj545d34mo",
-      "source": "BBC News",
+      "source": "BBC Sport",
       "publisher": "BBC",
       "published": "2026-08-21T17:09:43Z",
-      "category": "Politics",
+      "category": "Sports",
       "region": "UK",
       "labels": [
-        "Politics",
+        "Sports",
         "UK"
       ],
       "sourceWeight": 4,
@@ -3859,30 +4150,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc5/live/c65b3380-9d7b-11f1-8bc3-150f4c5f088b.jpg"
     },
     {
-      "id": "18cff0d2b3e38829",
-      "title": "Ex-England bowler Cross to retire at end of summer",
-      "summary": "Former England bowler Kate Cross, praised for her \"incredible contribution\" to the women's game, to retire from cricket at the end of the summer.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cx2med7kv2yo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T16:15:33Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fceb/live/dd786700-9d61-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
       "id": "2483dd30cc436b01",
       "title": "What does Heggebo's deception ban mean for football?",
       "summary": "BBC Sport explores the fallout from the decision to ban West Brom striker Aune Heggebo for two matches for \"successfully deceiving a match official\".",
@@ -3905,30 +4172,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0560/live/46d3d580-9d6d-11f1-a2d1-59489fee904d.jpg"
-    },
-    {
-      "id": "1066764e577c4e25",
-      "title": "Russell takes pole position for Dutch GP sprint race",
-      "summary": "Mercedes' George Russell secures pole position for the Dutch Grand Prix sprint race, ahead of Lando Norris and Charles Leclerc.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8xn09wkw79o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T16:27:20Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8726/live/a0e97700-9d77-11f1-a7fd-5fe2fcb0be12.jpg"
     },
     {
       "id": "318ad789048f2370",
@@ -4096,30 +4339,6 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
-    },
-    {
-      "id": "5727f93babdc4245",
-      "title": "'Plug him in as attack leader' - England-Pakistan player ratings",
-      "summary": "Who should be plugged in as attack leader? Which England batter's dismissal is a problem? Player ratings from the hosts' victory over Pakistan.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c78g2v5ge26o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T14:59:05Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 23,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b315/live/e99e38e0-9d6e-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "id": "2574d54a9ea1b047",
@@ -4337,30 +4556,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/637e/live/bd065030-9d53-11f1-b109-879e35c24276.png"
     },
     {
-      "id": "825c5a76daa6f33d",
-      "title": "England Women U20s squad named amid boycott threat",
-      "summary": "Manager Lydia Bedford has named her England squad for the upcoming Fifa U20s Women's World Cup amid ongoing threat of a boycott from European nations.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2el8j10vl3o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T13:00:06Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 25,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45cc/live/f14df0f0-9d44-11f1-a137-179a8d1c790b.jpg"
-    },
-    {
       "id": "f5b752c255ce4ec6",
       "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
       "summary": "Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa.",
@@ -4553,53 +4748,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
     },
     {
-      "id": "780c044c910d5f87",
-      "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
-      "summary": "As Donald Trump claims a meeting is planned with Kim Jong Un, North Korea's response sends a signal that it wants maximum concessions in return for talks with the US.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-08-21T10:47:00Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 30,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "ad5b0bb61cae620c",
-      "title": "The inside story of how Trabzonspor pulled off Salah deal",
-      "summary": "Mohamed Salah was expected to move to Saudi Arabia or the United States after leaving Liverpool, but Turkish side Trabzonspor pulled off one of the coups of the transfer window.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0jgy929do",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T09:41:46Z",
-      "category": "Sports",
-      "region": "US",
-      "labels": [
-        "Sports",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 30,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6618/live/c473cd80-9d89-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
       "id": "78d802a52d597347",
       "title": "Walmart sales under strain as US shoppers pull back",
       "summary": "High gas prices and weaker pharmacy sales pushed Walmart's growth to its slowest pace in six years",
@@ -4720,30 +4868,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f59/live/51d12140-9c9b-11f1-aed2-8d6da8d75094.png"
     },
     {
-      "id": "2b07da933ffe94da",
-      "title": "Olympian Simpson will never run again after cardiac arrest",
-      "summary": "Olympic 1500m medallist Jenny Simpson says a \"chapter has ended\" and she will not return to running after having a cardiac arrest.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cy8e6jjwnp8o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T08:07:12Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 22,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5928/live/3cd29550-9d34-11f1-bc05-aff3aa1f91c7.jpg"
-    },
-    {
       "id": "816dd82d6f7e4c86",
       "title": "Reform suspends councillor ahead of court case",
       "summary": "Glenn Gibbins, from Sunderland, is facing a court case over the post about the Nigerian population.",
@@ -4766,30 +4890,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e55/live/b0088e20-3d64-11f0-b95e-89f9465859a0.jpg"
-    },
-    {
-      "id": "a861ca83a7611e90",
-      "title": "Headlining on TikTok & targeting KO record - Serrano eyes history",
-      "summary": "Seven-division champion Amanda Serrano talks to BBC Sport about fighting on TikTok, going for the women's boxing knockout record and retirement plans.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/c2el98w4peyo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T07:20:49Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 22,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bc9/live/c9afa7d0-9c8d-11f1-8d19-93d7082c5662.jpg"
     },
     {
       "id": "458e33f4067f5237",
@@ -4838,109 +4938,13 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Original-6722-photo-2-gv90-neolun-exterior-1024x768.jpg"
-    },
-    {
-      "id": "668153a98f71ba68",
-      "title": "Would Marmoush joining Tottenham be a masterstroke or risk?",
-      "summary": "Tottenham are working on a deal for Omar Marmoush, but what could the Man City forward bring to the north London team?",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr49yypz01eo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T07:04:54Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 22,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfb7/live/c875f7e0-9ca4-11f1-a5a0-114ca9d4a1bc.jpg"
-    },
-    {
-      "id": "f3414517b82ff888",
-      "title": "Reverse-lookup service exposed millions of photos of people’s faces",
-      "summary": "People-search tool ClarityCheck left database containing more than 9M image files exposed.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-08-20T13:29:54Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 12,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1047996096-1152x648.jpg"
-    },
-    {
-      "id": "707d68d4aaea2c7d",
-      "title": "‘Picky bits’ on the menu as British shoppers snap up picnic food in heatwave",
-      "summary": "Consumers also turn to supermarket deals to save money, helping slow grocery price inflation Business live – latest updates Shopping baskets took on a decidedly summery complexion during last month’s heatwaves as consumers filled up on a British picnic staple: picky bits , and grocery inflation slowed. Spending rose on foods such as potato salad, olives and coleslaw, while ice-cream sales also increased, according to new data from Worldpanel by Numerator, a market research company. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/aug/18/picky-bits-british-shoppers-picnic-food-supermarket-deals-grocery-price-inflation",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-08-18T10:29:58Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 75,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/e99a9086ab5925dbd524b1ec3803e553c44c7d8b/456_0_3640_2912/master/3640.jpg?width=700&quality=85&auto=format&fit=max&s=e501b79ddb06622b6b9ab6957c7c1a72"
-    },
-    {
-      "id": "1b324d7694557286",
-      "title": "Danone €1bn takeover of Huel approved by watchdog",
-      "summary": "French firm says the acquisition of Huel will help it grow in the nutritional sector.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/crl7y671w8go",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-20T13:24:57Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/460d/live/b579d640-9c7a-11f1-8413-79a38c9f8909.jpg"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 36
+      "items": 34
     },
     {
       "source": "BBC Politics",
@@ -4974,8 +4978,8 @@
     },
     {
       "source": "UN News",
-      "ok": false,
-      "error": "not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 30
     },
     {
       "source": "The Guardian China",
@@ -5045,7 +5049,7 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 74
+      "items": 76
     },
     {
       "source": "BBC Rugby Union",
