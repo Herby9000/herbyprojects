@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-22T16:39:07.117792Z",
+  "generatedAt": "2026-08-22T20:38:10.615604Z",
   "topStoryIds": [
     "196c582be0fa18b0",
     "867af1e4d1d680ca",
     "7ad5124107f83fa8",
-    "d65eeb2748bead0a",
+    "63aeae6dd6c29ebd",
     "5e77a8b12d59091c",
     "d99f25eac0c92e1b",
     "d91fa75fb051169d"
@@ -13,10 +13,10 @@
   "sectionStoryIds": {
     "Politics": [
       "196c582be0fa18b0",
-      "d65eeb2748bead0a",
+      "63aeae6dd6c29ebd",
       "5e77a8b12d59091c",
       "ff674e5c196093ba",
-      "2d48a953e87b1464"
+      "c3eafd825b0eba6a"
     ],
     "Tech": [
       "867af1e4d1d680ca",
@@ -33,17 +33,17 @@
       "8054d76697312338"
     ],
     "Sports": [
-      "db939c27f2f8c078",
-      "0028d65d89400e85",
+      "63f22a85862c9210",
       "2431af0d98f1c620",
+      "0028d65d89400e85",
       "e490b9cf5b975ac2",
       "7854e387f7e3e5e8",
       "8439fd3d9048f0fb",
       "eadb3c0094cab86e",
       "446014f5425e0c4b",
-      "5ea533a4d9167293",
-      "c1b4e291e544e891",
-      "feb92cfb3dc2b117",
+      "aadcfc225c022444",
+      "068f086042e21195",
+      "1a30fa0d13e5fa7c",
       "936a7aa205606d39"
     ],
     "Editorial": [
@@ -140,14 +140,14 @@
       "imageHeight": 675
     },
     {
-      "id": "d65eeb2748bead0a",
-      "title": "‘She’s not afraid of anyone’: the prison writings of one of Hong Kong’s last outspoken democracy activists",
-      "summary": "Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’ In one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell. “In a place like prison, where anything that is personal is stripped away, it’s even more important to hold on to every means by which you can express yourself,” she writes. “Don’t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a ‘model citizen’”. Continue reading...",
+      "id": "63aeae6dd6c29ebd",
+      "title": "Chinese robot runs 100m sprint quicker than Usain Bolt’s world record",
+      "summary": "Lightning the humanoid ⁠robot clocks 9.32sec in Beijing Quicker than ​9.58sec men’s world record set 17 years ago A ⁠robot named Lightning ⁠has run ​the 100m in 9.32 seconds, ⁠beating the human world ⁠record, China’s ​state broadcaster ‌has reported. The humanoid, developed by the Chinese smartphone manufacturer Honor, ‌reached a peak speed of 14.5 metres per second during ‌a test event for ​the second World Humanoid Robot Games, which ⁠began on Saturday. The ​performance surpassed ​the ​9.58sec men’s ​100m world record ​set ​by Usain Bolt 17 years ago at the World Athletics Championships in Berlin. Continue reading...",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/world/2026/aug/22/chow-hang-tung-tiananmen-prison-writings-hong-kong",
+      "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
       "source": "The Guardian China",
       "publisher": "The Guardian",
-      "published": "2026-08-21T23:50:48Z",
+      "published": "2026-08-22T10:25:01Z",
       "category": "Politics",
       "region": "China",
       "labels": [
@@ -157,12 +157,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1175,
-      "readingMinutes": 6,
+      "wordCount": 631,
+      "readingMinutes": 3,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/958_199_4751_3801/master/4751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c61f9ec1e5066ce864e8f5939182cc2",
-      "body": "Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom\n\nTiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’\n\nIn one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell.\n\n“In a place like prison, where anything that is personal is stripped away, it’s even more important to hold on to every means by which you can express yourself,” she writes. “Don’t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a ‘model citizen’”.\n\nThe vignette is everyday, almost mundane. It stands in contrast to Chow’s position as one of Hong Kong’s most outspoken dissidents, one who has been detained for nearly five years awaiting trial over her role in organising an annual vigil marking the Tiananmen Square massacre.\n\nHer case represents one of the last high-profile national security trials to be heard in Hong Kong, as the national security law imposed by Beijing in 2020 extinguishes what was once one of the world’s most widely watched pro-democracy struggles.\n\nOn Friday, Chow and her co-defendant Lee Cheuk-yan were found guilty of “incitement to subversion” by a Hong Kong court. They face a maximum penalty of 10 years in jail when they are sentenced later in the year.\n\nAs the years pass by, the 41-year-old barrister has written screeds from behind bars on everything from the meaning of freedom to the legacy of the 1989 massacre, some of which have been translated by Brian Kern, a writer and human rights activist. Chow’s profile has only grown since she has been detained. She has won several human rights awards, and her social media profiles, which are managed on her behalf, are regularly updated with her writings from prison.\n\nIn another essay, she describes being handed a white Mickey Mouse t-shirt to wear in court because she is not allowed to wear clothing that carries the branding of her protest group, the Hong Kong Alliance.\n\n“The Mickey Mouse t-shirt may seem innocent on the surface, but isn’t it still a prison uniform provided by the correctional facility? Even before the Alliance has been convicted, its clothes have already become contraband,” she writes.\n\nWhile some writings are breezy and irreverent, many are deeply considered essays on defending civil rights in the face of a powerful and oppressive Chinese Communist party. As a highly regarded barrister who has been representing herself in court, she also dives into legal philosophy.\n\n“She’s not afraid of anything or anyone,” said Kevin Yam , a Hong Kong lawyer who now lives in exile. “For a lot of us who are outside Hong Kong now and sometimes feel a bit dispirited by things, her example and her inspiration is a big factor in us not losing hope and keeping our spirits up.”\n\nWu Yangwei, Chow’s fiance, a Chinese activist better known by his pen name, Ye Du, said it was Chow’s interest in mainland Chinese struggles that first attracted him to her. “From the moment I met her… I felt that she was incredibly innocent, deeply compassionate, and deeply empathetic toward China’s democracy and human rights defense movements,” Wu said. He now lives under close police surveillance in Guangdong province.\n\n‘A society that loses freedom of speech … loses its very soul’\n\nChow was arrested in September 2021 along with two other organisers of the now disbanded Hong Kong Alliance in Support of Democratic Movements of China.\n\nThe Hong Kong Alliance’s annual Tiananmen vigil, which attracted tens of thousands of Hongkongers each year, was banned in 2020 on the grounds of pandemic control.\n\nChow, along with Lee Cheuk-yan and Albert Ho, were charged with incitement to subversion under Hong Kong’s new sweeping national security law. Chow and Lee pleaded not guilty in their trial , which ended on 19 May, while Ho submitted a guilty plea, which could help him get a sentence reduction. All three have already served shorter sentences for other convictions relating to the vigil.\n\nA Hong Kong government spokesperson said Lee and Chow were prosecuted “because they have overstepped the boundaries of lawful conduct by committing a criminal act of inciting subversion.” The spokesperson said law enforcement actions paid “no regard to their political stance, background or occupation.”\n\nIn an essay written this year for the 37th anniversary of the Tiananmen Square massacre, Chow wrote: “A society that loses its freedom of speech never just loses a few articles or events – it loses its very soul”.\n\n“‘Power corrupts’ is a hackneyed phrase, but when the will to power permeates everything … the decline of society becomes inevitable. Conversely, resisting the encroachment of power, or even attempting to put it back in its cage, requires a steadfast return to fundamental human values.”\n\nFrom studying earthquakes to fighting for human rights\n\nChow came late to the law. A straight-A student, she had originally gone to Cambridge University to study natural sciences, specialising in seismology. In 2008, a massive earthquake struck Sichuan province, killing 70,000 people. Chow travelled to the region to volunteer as a rescue worker. Friends of Chow said the experience had a profound impact on her. She believed that the failure of the Chinese government to adequately prepare for the natural disaster, and the handling of the aftermath, increased the death toll, said the friends.\n\nChow dropped out of her PhD programme and returned to Hong Kong to retrain as a barrister. She threw herself into Hong Kong’s then vibrant civil society, volunteering for human rights groups alongside her studies. It was while preparing a bail application for a fellow pro-democracy activist, Gwyneth Ho, that Chow was arrested in September 2021.\n\n“She’s turned her scientific training to the Communist party, dissecting the party’s manoeuvres as clinically as she once looked at tectonic plates and seismic movements,” said Mark Clifford, the president of the Committee for Freedom in Hong Kong Foundation.\n\nSince Chow has been in jail, her fiance Wu has communicated with her by letter, and occasionally through letters published in the newspaper Ming Pao, which is available in prison. In January last year, their correspondence was cut off, Wu said. “It’s even worse than mainland China. In mainland prisons, political prisoners can still communicate with family, but Hong Kong prisons now block even that,” he said.\n\nHong Kong’s correctional services department said that all prisoners, including Chow, can send and receive letters “subject to the requirements of the prison rules”. The department said Wu’s claim was “totally false and misleading”.\n\nWu said that Chow’s letters are “full of fighting spirit”. “I am not worried about her,” he said.\n\nAs far back as 2021, Chow published an essay about her refusal to plead guilty, writing: “A stubborn freak like me can only march on and fight my case till the end … Having a chance to exhaust oneself is better than living a purposeless life, isn’t it?”\n\nHong Kong\n\nChina\n\nProtest\n\nTiananmen Square protests 1989\n\nAsia Pacific\n\nfeatures",
+      "imageUrl": "https://i.guim.co.uk/img/media/bb4d6f1140a40f0b781db0cc686820f5cab64b8b/438_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=028c359072bd5dab4e11a499d8b1b8f1",
+      "body": "Lightning the humanoid ⁠robot clocks 9.32sec in Beijing\n\nQuicker than ​9.58sec men’s world record set 17 years ago\n\nA ⁠robot named Lightning ⁠has run ​the 100m in 9.32 seconds, ⁠beating the human world ⁠record, China’s ​state broadcaster ‌has reported.\n\nThe humanoid, developed by the Chinese smartphone manufacturer Honor, ‌reached a peak speed of 14.5 metres per second during ‌a test event for ​the second World Humanoid Robot Games, which ⁠began on Saturday. The ​performance surpassed ​the ​9.58sec men’s ​100m world record ​set ​by Usain Bolt 17 years ago at the World Athletics Championships in Berlin.\n\nChina has been promoting humanoid robots as an emerging industry, with policymakers and companies ‌betting that advances in AI and hardware will accelerate their deployment in manufacturing, logistics ​and consumer applications.\n\nLightning also won the Beijing half marathon in April in 50 minutes and 26 seconds, faster than the men’s world record. The robot stood 169cm tall and ​had ​95cm-long legs at ​the half marathon. Researchers have since lengthened ​its legs ‌by 10​cm for these Games.\n\nMore than 2,000 humanoid robots were participating in the five-day games, now in its second year, a spectacle intended to demonstrate China’s rapid progress in advanced robotics as the technology race with the US heats up. There are 51 events and more than 1,000 competitions taking place including running, table tennis and football.\n\nThe games, which are taking place in the National Speed Skating Oval built for the 2022 Winter Olympics, opened the same week as Beijing held the 2026 World Robot Conference, where companies showcased around 3,000 products, including humanoid robots. China makes the majority of the world’s humanoid robots.\n\nLast month, the US Federal Communications Commission announced a ban on imports of new foreign-made humanoid robots. The FCC cited national security reasons in a move that targeted China. The Pentagon recently also added Unitree, one of China’s leading humanoid robot makers, to its list of companies that it deemed have ties with the Chinese military. Beijing has hit back at the accusations.\n\nAt Saturday’s opening of the robot games, the organisers and robot makers said that Chinese humanoid robots defeated human world records, as hundreds of humanoid robots marched in formation on to the field in a massive display of synchronised coordination.\n\nIn a standing high jump, a humanoid robot was able to reach 2.88m, well above the 0.95m best result by a humanoid in last year’s first edition of the games . It surpassed the human high jump record of 2.45m set by Cuba’s Javier Sotomayor in 1993. Both robots were from Beijing-based X-Humanoid.\n\nExperts say humanoid robots are still mostly used for demonstrations, performances and research – at least for now – and it will take time to achieve mass real-world deployment. Some spectators at the robot games said they were excited about the humanoid robots’ quickly improving abilities.\n\nafter newsletter promotion\n\nHumanoid robots are “evolving rapidly”, said Li Yanfeng, an education worker and a Beijing resident. “At first, I wasn’t very accepting of artificial intelligence. I was even a bit resistant to it, because of the possibility that it might replace or displace humans,” she said. “But now that I see this development is unstoppable, I decided to come and take a look.”\n\nYang Shangzheng, another spectator, said: “These sports are perfectly normal for humans, but now robots can do them. I find it amazing.” Liu Tao, who was watching the games with his son, said he was hoping to see “the best robots China currently has to offer”.\n\nThis year’s robot games – which the organisers say has 16 countries participating, among them Germany, Japan and the US – also includes other events such as weightlifting and tug of war.\n\nSport\n\nAthletics\n\nRobots\n\nChina\n\nUsain Bolt\n\nnews",
       "imageWidth": 1200,
       "imageHeight": 630
     },
@@ -238,12 +238,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 713,
+      "wordCount": 703,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/illo_dumpling_shop_final-1600x900.jpg",
-      "body": "Global Dispatch\n\nBusiness owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”\n\nBy Viola Zhou\n\nViola Zhou is a reporter for Rest of World covering China's tech scene. She is based in New York City.\n\nThis essay was first published in our Global Dispatch newsletter. Sign up here to get it straight to your inbox.\n\nIf you have an AI agent, you can tell it to build a website, make a slideshow, or get you a table at a popular dumpling shop in Beijing.\n\nThe dumpling shop, called Jinguyuan, has made headlines in China for creating a “skill” that allows users to check out the menu, seek recommendations, or join the queue by talking to their personal AI agents — tools that can automatically carry out tasks on a phone or laptop. Skills are files that teach AI agents specific workflows.\n\nThe shop owner, 41-year-old Li Bo, told me he built the AI skill in April, as he witnessed the growing popularity of agentic AI tools. Li began envisioning a world where everybody asks their AI assistant to plan daily work and life, including what to eat. Li wanted his dumpling shop to be part of that future.\n\n“Science and technology are a primary productive force,” Li told me, quoting China’s late leader Deng Xiaoping, who unleashed the historic reforms in 1978 that led to the country’s economic miracle in the following decades. “You always need to surround yourself with the most advanced productive force.”\n\nIn many developed countries, AI is primarily associated with job losses, threats to creativity, and sprawling data centers invading rural communities. Outside of the tech industry, relying on AI sometimes evokes a sense of shame similar to cheating. In New York City, where I live, few small businesses advertise how much they use AI, even though on the streets, menus and posters everywhere have the telltale signs of AI-generated imagery and typography.\n\n[In China] everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nWhen I speak with people living in China, I find many are similarly worried about AI’s impact on the job market and the tech industry’s exploitative nature, but at the same time, everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nCrash courses on large language models flourish online. Office workers rush to experiment with new AI tools to avoid falling behind in the competitive job market. When the agentic tool OpenClaw went viral, people queued up to have it installed on their laptops. A 2025 survey by public opinion firm Ipsos found that among the 30 countries surveyed, the Chinese population expressed the highest level of excitement about AI.\n\nLi studied telecommunications engineering at the Beijing University of Posts and Telecommunications. After graduating with a master’s degree in 2010, instead of becoming an engineer like many of his classmates, he worked at hostels, peddled homemade desserts, and eventually partnered with a dumpling chef to open Jinguyuan near his alma mater, serving students and tech workers.\n\nAI reignited Li’s excitement for tech. Besides the AI skill, he also vibe-coded a website tracking the queue status at Jinguyuan’s two branches, mostly with Alibaba’s coding tool Qoder. In July, Li partnered with an AI cloud provider to give every customer a token coupon worth 10 yuan ($1.50) that could be put toward model subscriptions.\n\nLi admits his AI skill brings more media attention than actual usage, but he is proud of becoming a role model for AI adoption. “Someone needs to start using it, even when it’s not that good,” Li said. “When steam engines just came out, people joked that they were not as good as horses. But in the end, cars won out.”\n\nMozilla’s CTO thinks AI should be built like the internet\n\nRaffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control.\n\nChinese carmakers now sell one EV abroad for every two at home\n\nDwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.\n\nThe online shopping trend where you buy nothing\n\nOn South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.",
+      "body": "Global Dispatch\n\nBusiness owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”\n\nBy Viola Zhou\n\nViola Zhou is a reporter for Rest of World covering China's tech scene. She is based in New York City.\n\nThis essay was first published in our Global Dispatch newsletter. Sign up here to get it straight to your inbox.\n\nIf you have an AI agent, you can tell it to build a website, make a slideshow, or get you a table at a popular dumpling shop in Beijing.\n\nThe dumpling shop, called Jinguyuan, has made headlines in China for creating a “skill” that allows users to check out the menu, seek recommendations, or join the queue by talking to their personal AI agents — tools that can automatically carry out tasks on a phone or laptop. Skills are files that teach AI agents specific workflows.\n\nThe shop owner, 41-year-old Li Bo, told me he built the AI skill in April, as he witnessed the growing popularity of agentic AI tools. Li began envisioning a world where everybody asks their AI assistant to plan daily work and life, including what to eat. Li wanted his dumpling shop to be part of that future.\n\n“Science and technology are a primary productive force,” Li told me, quoting China’s late leader Deng Xiaoping, who unleashed the historic reforms in 1978 that led to the country’s economic miracle in the following decades. “You always need to surround yourself with the most advanced productive force.”\n\nIn many developed countries, AI is primarily associated with job losses, threats to creativity, and sprawling data centers invading rural communities. Outside of the tech industry, relying on AI sometimes evokes a sense of shame similar to cheating. In New York City, where I live, few small businesses advertise how much they use AI, even though on the streets, menus and posters everywhere have the telltale signs of AI-generated imagery and typography.\n\n[In China] everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nWhen I speak with people living in China, I find many are similarly worried about AI’s impact on the job market and the tech industry’s exploitative nature, but at the same time, everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nCrash courses on large language models flourish online. Office workers rush to experiment with new AI tools to avoid falling behind in the competitive job market. When the agentic tool OpenClaw went viral, people queued up to have it installed on their laptops. A 2025 survey by public opinion firm Ipsos found that among the 30 countries surveyed, the Chinese population expressed the highest level of excitement about AI.\n\nLi studied telecommunications engineering at the Beijing University of Posts and Telecommunications. After graduating with a master’s degree in 2010, instead of becoming an engineer like many of his classmates, he worked at hostels, peddled homemade desserts, and eventually partnered with a dumpling chef to open Jinguyuan near his alma mater, serving students and tech workers.\n\nAI reignited Li’s excitement for tech. Besides the AI skill, he also vibe-coded a website tracking the queue status at Jinguyuan’s two branches, mostly with Alibaba’s coding tool Qoder. In July, Li partnered with an AI cloud provider to give every customer a token coupon worth 10 yuan ($1.50) that could be put toward model subscriptions.\n\nLi admits his AI skill brings more media attention than actual usage, but he is proud of becoming a role model for AI adoption. “Someone needs to start using it, even when it’s not that good,” Li said. “When steam engines just came out, people joked that they were not as good as horses. But in the end, cars won out.”\n\n“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”\n\nObservers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.\n\nThe online shopping trend where you buy nothing\n\nOn South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.\n\nWhy we should all be worried about AI in elections\n\nDeepfakes dominate headlines, but the real danger lies in opaque AI systems that make up election infrastructure.",
       "imageWidth": 1600,
       "imageHeight": 900
     },
@@ -275,14 +275,14 @@
       "imageHeight": 675
     },
     {
-      "id": "2d48a953e87b1464",
-      "title": "Security Council LIVE: Drone strikes and political impasse in Libya",
-      "summary": "As Libya faces a political impasse delaying long-planned elections alongside clashes and drone strikes that left a major oil refinery ablaze, the Security Council heard the latest updates, with an activist warning that the collision of extreme heat, water scarcity and environmental shocks with political division, armed insecurity and struggling institutions clearly makes the situation a peace and security issue. UN News app users can follow our live coverage here.",
+      "id": "c3eafd825b0eba6a",
+      "title": "LIVE: Espanyol vs Real Madrid: La Liga",
+      "summary": "Follow updates as Jose Mourinho returns to lead Madrid - including the build-up, analysis and live text commentary.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168158",
-      "source": "UN News",
-      "publisher": "UN News",
-      "published": "2026-08-18T12:00:00Z",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-22T16:30:09Z",
       "category": "Politics",
       "region": "World",
       "labels": [
@@ -292,11 +292,10 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 70,
+      "wordCount": 17,
       "readingMinutes": 1,
       "isShort": true,
-      "isBreaking": true,
-      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-04-2023_UNSMIL_Tripoli.jpg/image560x340cropped.jpg"
+      "isBreaking": true
     },
     {
       "id": "fb94f54477be6cad",
@@ -450,14 +449,39 @@
       "imageHeight": 630
     },
     {
-      "id": "db939c27f2f8c078",
-      "title": "Vlad Jr. returning from IL as Blue Jays continue pivotal series vs. Yanks",
+      "id": "63f22a85862c9210",
+      "title": "Vlad Jr. returns from IL as Blue Jays continue pivotal series vs. Yanks",
       "summary": "This feed supplied a headline but no article summary.",
       "contentStatus": "Headline only — no summary supplied",
       "url": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
       "source": "Toronto Blue Jays",
       "publisher": "MLB",
-      "published": "2026-08-22T16:08:00Z",
+      "published": "2026-08-22T18:11:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "2431af0d98f1c620",
+      "title": "Latest Blue Jays injuries & transactions",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-22T16:50:00Z",
       "category": "Sports",
       "region": "Canada",
       "labels": [
@@ -483,31 +507,6 @@
       "source": "Toronto Blue Jays",
       "publisher": "MLB",
       "published": "2026-08-22T04:03:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "2431af0d98f1c620",
-      "title": "Latest Blue Jays injuries & transactions",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-21T23:32:00Z",
       "category": "Sports",
       "region": "Canada",
       "labels": [
@@ -650,14 +649,14 @@
       "isBreaking": false
     },
     {
-      "id": "5ea533a4d9167293",
-      "title": "Castellanos misses late penalty as West Ham beaten by Charlton",
-      "summary": "Charlton maintained their perfect start to the Championship season with a 2-1 victory at West Ham in a pulsating London derby to pile pressure on Hammers boss Nuno Espirito Santo.",
+      "id": "aadcfc225c022444",
+      "title": "Sherrock claims first Women's Series title of 2026 in the absence of Greaves",
+      "summary": "Lisa Ashton and Fallon Sherrock shared the spoils at Events 17-18 of the PDC Women’s Series on Saturday, as the duo scooped a title each to reinforce their positions of second and third in the rankings respectively.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/football/west-ham-united-vs-charlton-athletic/report/560520",
+      "url": "https://www.skysports.com/darts/news/12040/13576068/fallon-sherrock-sweeps-aside-lisa-ashton-5-0-to-claim-her-first-womens-series-title-of-2026",
       "source": "Sky Sports",
       "publisher": "Sky Sports",
-      "published": "2026-08-22T17:15:00Z",
+      "published": "2026-08-22T19:45:00Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -667,21 +666,21 @@
       "sourceWeight": 3,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 30,
+      "wordCount": 37,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-west-ham-charlton_7328304.jpg?20260822162051"
+      "imageUrl": "https://e0.365dm.com/25/07/1920x1080/skysports-fallon-sherrock-darts_6965888.jpg?20250716090159"
     },
     {
-      "id": "c1b4e291e544e891",
-      "title": "Blackburn hit back to sink Middlesbrough",
-      "summary": "Blackburn stunned Middlesbrough with two goals in the space of six second-half minutes to earn a 2-1 victory at Ewood Park which continues their impressive start to the season.",
+      "id": "068f086042e21195",
+      "title": "Stokes stars as Durham thump Derbyshire to lift Championship promotion hopes",
+      "summary": "Ben Stokes starred again with bat and ball as Durham boosted their Rothesay County Championship promotion hopes with a crushing 338-run win at Derbyshire with a day to spare.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/football/blackburn-rovers-vs-middlesbrough/report/560511",
+      "url": "https://www.skysports.com/cricket/news/12040/13576108/former-england-captain-ben-stokes-stars-as-durham-thump-derbyshire-to-lift-rothesay-county-championship-promotion-hopes",
       "source": "Sky Sports",
       "publisher": "Sky Sports",
-      "published": "2026-08-22T17:15:00Z",
+      "published": "2026-08-22T20:57:00Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -695,17 +694,17 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-efl-championship_7328404.jpg?20260822170304"
+      "imageUrl": "https://e0.365dm.com/26/06/1920x1080/skysports-ben-stokes-durham_7277877.jpg?20260619162126"
     },
     {
-      "id": "feb92cfb3dc2b117",
-      "title": "Wrexham hit back to hold Watford",
-      "summary": "Wrexham were kept waiting for their first Sky Bet Championship win of the season as they drew 1-1 with Watford in front of Hollywood owners Ryan Reynolds and Rob Mac.",
+      "id": "1a30fa0d13e5fa7c",
+      "title": "Dundee claim derby bragging rights with victory over winless Dundee United",
+      "summary": "Dundee enjoyed another memorable trip across the road as they secured a deserved 2-0 derby victory away to Dundee United to move joint-top of the fledgling Scottish Premiership table.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/football/wrexham-vs-watford/report/560521",
+      "url": "https://www.skysports.com/football/dundee-united-vs-dundee/report/558345",
       "source": "Sky Sports",
       "publisher": "Sky Sports",
-      "published": "2026-08-22T17:15:00Z",
+      "published": "2026-08-22T20:00:00Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -715,11 +714,11 @@
       "sourceWeight": 3,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 30,
+      "wordCount": 29,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-wrexham-afc_7328251.jpg?20260822155814"
+      "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-owen-bevan-dundee_7328614.jpg?20260822192706"
     },
     {
       "id": "936a7aa205606d39",
@@ -995,7 +994,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f723/live/49cf9570-9dd2-11f1-b2b6-cb5bce61ac4a.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nPresident Donald Trump has been lashing out at reporters, often female journalists, when confronted with questions he does not like to answer.\n\nThe BBC's Tom Bateman takes a look at what triggers these public insults, and what are the questions the president doesn’t want to be asked.\n\nSubsection US & Canada\n\nPublished 13 hours ago\n\nRelated topics\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUnited States Follow United States close panel You are now following United States Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nPresident Donald Trump has been lashing out at reporters, often female journalists, when confronted with questions he does not like to answer.\n\nThe BBC's Tom Bateman takes a look at what triggers these public insults, and what are the questions the president doesn’t want to be asked.\n\nSubsection US & Canada\n\nPublished 17 hours ago\n\nRelated topics\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUnited States Follow United States close panel You are now following United States Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1071,6 +1070,33 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
+    },
+    {
+      "id": "d65eeb2748bead0a",
+      "title": "‘She’s not afraid of anyone’: the prison writings of one of Hong Kong’s last outspoken democracy activists",
+      "summary": "Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’ In one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell. “In a place like prison, where anything that is personal is stripped away, it’s even more important to hold on to every means by which you can express yourself,” she writes. “Don’t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a ‘model citizen’”. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/world/2026/aug/22/chow-hang-tung-tiananmen-prison-writings-hong-kong",
+      "source": "The Guardian China",
+      "publisher": "The Guardian",
+      "published": "2026-08-21T23:50:48Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 1175,
+      "readingMinutes": 6,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/958_199_4751_3801/master/4751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c61f9ec1e5066ce864e8f5939182cc2",
+      "body": "Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom\n\nTiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’\n\nIn one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell.\n\n“In a place like prison, where anything that is personal is stripped away, it’s even more important to hold on to every means by which you can express yourself,” she writes. “Don’t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a ‘model citizen’”.\n\nThe vignette is everyday, almost mundane. It stands in contrast to Chow’s position as one of Hong Kong’s most outspoken dissidents, one who has been detained for nearly five years awaiting trial over her role in organising an annual vigil marking the Tiananmen Square massacre.\n\nHer case represents one of the last high-profile national security trials to be heard in Hong Kong, as the national security law imposed by Beijing in 2020 extinguishes what was once one of the world’s most widely watched pro-democracy struggles.\n\nOn Friday, Chow and her co-defendant Lee Cheuk-yan were found guilty of “incitement to subversion” by a Hong Kong court. They face a maximum penalty of 10 years in jail when they are sentenced later in the year.\n\nAs the years pass by, the 41-year-old barrister has written screeds from behind bars on everything from the meaning of freedom to the legacy of the 1989 massacre, some of which have been translated by Brian Kern, a writer and human rights activist. Chow’s profile has only grown since she has been detained. She has won several human rights awards, and her social media profiles, which are managed on her behalf, are regularly updated with her writings from prison.\n\nIn another essay, she describes being handed a white Mickey Mouse t-shirt to wear in court because she is not allowed to wear clothing that carries the branding of her protest group, the Hong Kong Alliance.\n\n“The Mickey Mouse t-shirt may seem innocent on the surface, but isn’t it still a prison uniform provided by the correctional facility? Even before the Alliance has been convicted, its clothes have already become contraband,” she writes.\n\nWhile some writings are breezy and irreverent, many are deeply considered essays on defending civil rights in the face of a powerful and oppressive Chinese Communist party. As a highly regarded barrister who has been representing herself in court, she also dives into legal philosophy.\n\n“She’s not afraid of anything or anyone,” said Kevin Yam , a Hong Kong lawyer who now lives in exile. “For a lot of us who are outside Hong Kong now and sometimes feel a bit dispirited by things, her example and her inspiration is a big factor in us not losing hope and keeping our spirits up.”\n\nWu Yangwei, Chow’s fiance, a Chinese activist better known by his pen name, Ye Du, said it was Chow’s interest in mainland Chinese struggles that first attracted him to her. “From the moment I met her… I felt that she was incredibly innocent, deeply compassionate, and deeply empathetic toward China’s democracy and human rights defense movements,” Wu said. He now lives under close police surveillance in Guangdong province.\n\n‘A society that loses freedom of speech … loses its very soul’\n\nChow was arrested in September 2021 along with two other organisers of the now disbanded Hong Kong Alliance in Support of Democratic Movements of China.\n\nThe Hong Kong Alliance’s annual Tiananmen vigil, which attracted tens of thousands of Hongkongers each year, was banned in 2020 on the grounds of pandemic control.\n\nChow, along with Lee Cheuk-yan and Albert Ho, were charged with incitement to subversion under Hong Kong’s new sweeping national security law. Chow and Lee pleaded not guilty in their trial , which ended on 19 May, while Ho submitted a guilty plea, which could help him get a sentence reduction. All three have already served shorter sentences for other convictions relating to the vigil.\n\nA Hong Kong government spokesperson said Lee and Chow were prosecuted “because they have overstepped the boundaries of lawful conduct by committing a criminal act of inciting subversion.” The spokesperson said law enforcement actions paid “no regard to their political stance, background or occupation.”\n\nIn an essay written this year for the 37th anniversary of the Tiananmen Square massacre, Chow wrote: “A society that loses its freedom of speech never just loses a few articles or events – it loses its very soul”.\n\n“‘Power corrupts’ is a hackneyed phrase, but when the will to power permeates everything … the decline of society becomes inevitable. Conversely, resisting the encroachment of power, or even attempting to put it back in its cage, requires a steadfast return to fundamental human values.”\n\nFrom studying earthquakes to fighting for human rights\n\nChow came late to the law. A straight-A student, she had originally gone to Cambridge University to study natural sciences, specialising in seismology. In 2008, a massive earthquake struck Sichuan province, killing 70,000 people. Chow travelled to the region to volunteer as a rescue worker. Friends of Chow said the experience had a profound impact on her. She believed that the failure of the Chinese government to adequately prepare for the natural disaster, and the handling of the aftermath, increased the death toll, said the friends.\n\nChow dropped out of her PhD programme and returned to Hong Kong to retrain as a barrister. She threw herself into Hong Kong’s then vibrant civil society, volunteering for human rights groups alongside her studies. It was while preparing a bail application for a fellow pro-democracy activist, Gwyneth Ho, that Chow was arrested in September 2021.\n\n“She’s turned her scientific training to the Communist party, dissecting the party’s manoeuvres as clinically as she once looked at tectonic plates and seismic movements,” said Mark Clifford, the president of the Committee for Freedom in Hong Kong Foundation.\n\nSince Chow has been in jail, her fiance Wu has communicated with her by letter, and occasionally through letters published in the newspaper Ming Pao, which is available in prison. In January last year, their correspondence was cut off, Wu said. “It’s even worse than mainland China. In mainland prisons, political prisoners can still communicate with family, but Hong Kong prisons now block even that,” he said.\n\nHong Kong’s correctional services department said that all prisoners, including Chow, can send and receive letters “subject to the requirements of the prison rules”. The department said Wu’s claim was “totally false and misleading”.\n\nWu said that Chow’s letters are “full of fighting spirit”. “I am not worried about her,” he said.\n\nAs far back as 2021, Chow published an essay about her refusal to plead guilty, writing: “A stubborn freak like me can only march on and fight my case till the end … Having a chance to exhaust oneself is better than living a purposeless life, isn’t it?”\n\nHong Kong\n\nChina\n\nProtest\n\nTiananmen Square protests 1989\n\nAsia Pacific\n\nfeatures",
+      "imageWidth": 1200,
+      "imageHeight": 630
     },
     {
       "id": "d2ee42167f4a8c9e",
@@ -1852,30 +1878,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/305b/live/510d0290-9cca-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "901c0abe63194a70",
-      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
-      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and the country’s prime minister, Mark Carney, has vowed to match them “dollar for dollar” after the collapse of trade talks. The tariffs came into force on about $20bn (£14.6bn) of goods – ranging from hockey sticks to tongue depressors – at 04.00 GMT. Trade experts said the tariffs could result in some job losses, but the largest impact is expected to be political, driving a further wedge between the traditional allies. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "source": "The Guardian Business",
-      "publisher": "The Guardian",
-      "published": "2026-08-22T14:04:57Z",
-      "category": "Economics",
-      "region": "Canada",
-      "labels": [
-        "Economics",
-        "Canada"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 105,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=700&quality=85&auto=format&fit=max&s=03920ff6d052f3f77d474d9591414f45"
-    },
-    {
       "id": "ae43d603652c8f06",
       "title": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
       "summary": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines Business live – latest updates The founder of Evergrande, one of China’s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated. Hui Ka Yan, 67 and once named by Forbes as China’s richest man, with a net worth of $42.5bn (£31.2bn) in 2017, pleaded guilty in April to eight charges. Continue reading...",
@@ -1898,6 +1900,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/709754c9a4198b956f1c2acc98bb9478b6dedbde/542_0_5415_4332/master/5415.jpg?width=700&quality=85&auto=format&fit=max&s=ae56f61bf208c520378e45cb446d328c"
+    },
+    {
+      "id": "901c0abe63194a70",
+      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The trade row is the biggest rupture in recent relations between Washington and one of its closest allies and trading partners as Donald Trump’s bellicose foreign policy angered officials in Ottawa. The two sides appeared close to a deal on Friday to lower tariffs on steel, aluminium and cars, but the deal was scuttled at the last minute. The two sides blamed each other for the collapse. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "source": "The Guardian Business",
+      "publisher": "The Guardian",
+      "published": "2026-08-22T14:04:57Z",
+      "category": "Economics",
+      "region": "Canada",
+      "labels": [
+        "Economics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 89,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=700&quality=85&auto=format&fit=max&s=03920ff6d052f3f77d474d9591414f45"
     },
     {
       "id": "3c006dfd65b6c061",
@@ -2213,6 +2239,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a512/live/18f6bb50-9c91-11f1-bd28-a9dd56c45ed7.jpg"
     },
     {
+      "id": "8943f857ebefe50f",
+      "title": "Spurs 'didn't fight in the right way' - De Zerbi",
+      "summary": "Tottenham Hotspur head coach Roberto Di Zerbi believes his side \"didn't fight in the right way\" in their 3-0 loss to Brentford in the opening match of the 2026-27 Premier League season.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cp8x8jl4yj2o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T19:23:56Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 32,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/999e/live/04701f00-9e5d-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
       "id": "f6d7b97e49d98bd3",
       "title": "Reform's leader in Scotland Malcolm Offord reveals cancer diagnosis",
       "summary": "Malcolm Offord said he had a procedure last week to remove his prostate and was now \"clear\" and \"raring to go\".",
@@ -2285,6 +2335,102 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9b/live/84da9fd0-a44e-11f0-8a21-ff96e44d1cc2.jpg"
     },
     {
+      "id": "fb40bfa984d3c989",
+      "title": "Is Barry emerging as frontman Everton can finally count on?",
+      "summary": "After finding the back of the net in Everton's 2-0 win over Crystal Palace, is Thierno Barry on course to become Everton's main man up front?",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39e9vpjg1do",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T20:10:40Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 26,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e3/live/7017a160-9e5d-11f1-92d9-fda6ee78d386.jpg"
+    },
+    {
+      "id": "6c42e6d2684e25d5",
+      "title": "Wasteful Palace punished by Everton in Sage's first game",
+      "summary": "Everton beat Crystal Palace 2–0 to win their opening game of the Premier League season for the first time in five years, with goals from Kiernan Dewsbury‑Hall and Thierno.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c0m7dk4z82ro",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T19:00:58Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 31,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53bc/live/30d71700-9e54-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "id": "7f7320cd53d588c8",
+      "title": "Could Brooks be Crusaders' next Scottish sensation?",
+      "summary": "BBC Sport NI considers whether Adam Brooks can be Crusaders' next top Scottish striker after his hat-trick against Portadown on Saturday.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0kmkg047dxo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T20:12:20Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 21,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91d/live/d2ac9640-9e59-11f1-92d9-fda6ee78d386.jpg"
+    },
+    {
+      "id": "99f0c0654e9fb4ce",
+      "title": "Brentford beat lacklustre Spurs in comfortable opening day win",
+      "summary": "Tottenham Hotspur's Premier League season under Roberto De Zerbi gets off to a dismal start as they lose 3-0 to a dominant Brentford side at the Gtech Community Stadium.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqx75yq28rwo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T19:02:31Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 29,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9aa/live/4fc6ca00-9e56-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
       "id": "7a609ca4f3fa5100",
       "title": "Meet the men applying for the 'hardest job in British politics'",
       "summary": "Labour MSPs Michael Marra and Joe Fagan are making their pitches as they aim to succeed Anas Sarwar.",
@@ -2309,6 +2455,125 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e47/live/f9487be0-9be1-11f1-b109-879e35c24276.jpg"
     },
     {
+      "id": "20342522e631d7ea",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-08-22T20:02:46Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa28/live/becb6d00-9e49-11f1-8871-ff7211da55c9.jpg"
+    },
+    {
+      "id": "4bfae00d405ad894",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch",
+      "publisher": "TechCrunch",
+      "published": "2026-08-22T19:00:00Z",
+      "category": "Tech",
+      "region": "UK",
+      "labels": [
+        "Tech",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 26,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "3ecc02687ed07caa",
+      "title": "Farke turnaround has Leeds aiming to thrive not just survive",
+      "summary": "With exciting new signings and growing belief, Leeds United will hope a winning start to the Premier League means they can aim to thrive rather than just survive this time around.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjwxw2365wpo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T18:31:17Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 31,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/437c/live/86ac1be0-9e4e-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "id": "6d2d65d530f3e5d1",
+      "title": "Hull shock Man Utd with dream Premier League return",
+      "summary": "Watch highlights as Hull City make a dream start to their return to the Premier League, beating Manchester United 2-0 on the opening weekend at the MKM Stadium.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/clyl5ejxj2wo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T19:00:18Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 28,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d669/live/58e57960-9e42-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "id": "80d84bc25aa0b406",
+      "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-08-22T20:10:00Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/7ee35600-9e56-11f1-92d9-fda6ee78d386.jpg"
+    },
+    {
       "id": "d4c7d5e4d6665f7c",
       "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
       "summary": "The nine-page booklet covers issues including respect in public, sex and consent, and gender equality.",
@@ -2331,6 +2596,77 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4a0/live/b9488090-9c71-11f1-a291-b542ee92de7c.png"
+    },
+    {
+      "id": "0268577adce04598",
+      "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
+      "summary": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying that tariffs would follow the collapse of talks.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-22T17:28:00Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 33,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "130d9ea0fe6e1eed",
+      "title": "'Maybe people will stop sleeping on us' - Hull enjoy dream return",
+      "summary": "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62x2z0k0p6o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T19:07:15Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 25,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/9279f370-9e3f-11f1-bb45-576721ee33bb.jpg"
+    },
+    {
+      "id": "aa56abe4d3c6fab9",
+      "title": "Leeds score late winner to silence Forest fans",
+      "summary": "Anton Stach scores in the 88th minute to give Leeds United a win in Oliver Glasner's first game in charge of Nottingham Forest in the Premier League.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwyr0n7vyrgo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T19:01:04Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 27,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dea/live/d711fe20-9e57-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "id": "2cf6757b969e4ae7",
@@ -2358,6 +2694,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a260/live/480b3c90-9c87-11f1-95d8-5b0dba89a322.jpg"
     },
     {
+      "id": "dc94f980f36b303e",
+      "title": "Late drama as Ipswich stun Sunderland",
+      "summary": "Ipswich Town beat Sunderland as Jack Clarke scores a 90th minute winner to open their account on their return to the Premier League.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvg0214evlmo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T19:01:50Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 23,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2368/live/38bcc7d0-9e59-11f1-b109-879e35c24276.jpg"
+    },
+    {
       "id": "eaa57c5733a29927",
       "title": "Kirk, Blue Jays exorcise their Trop tribulations with 10-run performance",
       "summary": "This feed supplied a headline but no article summary.",
@@ -2381,6 +2741,54 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
+    },
+    {
+      "id": "9506cc46067d59a9",
+      "title": "I'm very happy and have many compliments for my players - Farke",
+      "summary": "Leeds United manager Daniel Farke reacts to his side's 1–0 win against Nottingham Forest, sealed by Anton Stach's free‑kick in the opening game of their 2026-27 Premier League season.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cn5n57dwewko",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T16:55:35Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 31,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0592/live/9cfd2b20-9e47-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "id": "525c14c6fa44b773",
+      "title": "Hull KR's top-four hopes hit by loss to Toulouse",
+      "summary": "Hull KR's hopes of a top-four finish in Super League are damaged by a loss to Toulouse, their second successive home defeat.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c79gpe1y7r8o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T18:59:47Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca2/live/9ce4cde0-9e57-11f1-92d9-fda6ee78d386.jpg"
     },
     {
       "id": "2476e7cf47f045ae",
@@ -2408,6 +2816,76 @@
       "isBreaking": false
     },
     {
+      "id": "41dabc9d6f5d9bb3",
+      "title": "Tarling third in Vuelta opener after brother's death",
+      "summary": "Britain's Josh Tarling finishes third in the opening stage of the Vuelta a Espana just eight days after his brother Fin lost his life in a crash.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/cq6d6y0e500o",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-08-22T18:03:45Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 27,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a533/live/58063060-9e57-11f1-92d9-fda6ee78d386.jpg"
+    },
+    {
+      "id": "33b995f7481f3835",
+      "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
+      "summary": "The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-22T19:00:25Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "61ca17ed7870a67e",
+      "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
+      "summary": "Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dollar for dollar.\"",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-22T19:13:02Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "9fe5f6841f5f3b91",
       "title": "Kazakhstan's future after the elections: Russia, EU or China",
       "summary": "Kazakhstan, where power is being continuously consolidated in the president's hands, will have to continue its tough balancing act between the EU, Russia and China following the parliamentary elections this Sunday.",
@@ -2426,6 +2904,29 @@
       "focus": "",
       "sourceType": "news",
       "wordCount": 31,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "7cb5e722bae06d01",
+      "title": "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
+      "summary": "While lawyers for the US president argue the subpoenas are 'cynical', the BBC says they could help shine light on case.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-22T17:52:42Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 21,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -2480,30 +2981,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f2b/live/baa83ad0-9c75-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "130d9ea0fe6e1eed",
-      "title": "'Maybe people will stop sleeping on us' - Hull enjoy dream return",
-      "summary": "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62x2z0k0p6o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T16:17:18Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 25,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/9279f370-9e3f-11f1-bb45-576721ee33bb.jpg"
-    },
-    {
       "id": "b472f7ce62b43dcd",
       "title": "US battery startups have found a lifeline in defense",
       "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were slashed.",
@@ -2551,28 +3028,28 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0438/live/d4046fd0-9e32-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "20342522e631d7ea",
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "summary": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "id": "51b5cb4231ba1da1",
+      "title": "Mateta claims final year of Palace deal is invalid",
+      "summary": "Jean-Philippe Mateta is challenging the validity of the final 10 months on his Crystal Palace contract.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo",
-      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdx7x90dxywo",
+      "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-08-22T16:20:51Z",
-      "category": "Politics",
-      "region": "Canada",
+      "published": "2026-08-22T17:49:41Z",
+      "category": "Sports",
+      "region": "UK",
       "labels": [
-        "Politics",
-        "Canada"
+        "Sports",
+        "UK"
       ],
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 24,
+      "wordCount": 16,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7965/live/5fe534d0-9e38-11f1-aed2-8d6da8d75094.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8479/live/19fea790-9e14-11f1-95e0-53a570c83624.jpg"
     },
     {
       "id": "bc0f84ee01034bf3",
@@ -2600,28 +3077,76 @@
       "imageAlt": "Delaney Hall detention center in Newark, N.J., on June 3. An NPR review has found that the grievance system in immigration detention, originally designed as a way to report violations of detention standards, is now barely operational."
     },
     {
-      "id": "80d84bc25aa0b406",
-      "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "summary": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
+      "id": "4138a75c6580e18c",
+      "title": "St Helens beat Castleford despite Hastings dismissal",
+      "summary": "St Helens beat Castleford Tigers to boost their faint Super League play-off hopes - despite Jackson Hastings' needless red card.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo",
-      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c0m7erz71nyo",
+      "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-08-22T16:05:04Z",
-      "category": "Politics",
-      "region": "Canada",
+      "published": "2026-08-22T16:22:06Z",
+      "category": "Sports",
+      "region": "UK",
       "labels": [
-        "Politics",
-        "Canada"
+        "Sports",
+        "UK"
       ],
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 22,
+      "wordCount": 19,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa9/live/22262a40-9e43-11f1-bb45-576721ee33bb.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d075/live/4934eb60-9e3b-11f1-bb45-576721ee33bb.jpg"
+    },
+    {
+      "id": "d49d6ea407b9976b",
+      "title": "Norris beats Russell to pole position at Zandvoort",
+      "summary": "Lando Norris beats George Russell to pole position at the Dutch Grand Prix in a frantic scramble to complete laps before a late shower of rain.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T15:41:26Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 26,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a4/live/d01f3ad0-9e3c-11f1-bb45-576721ee33bb.jpg"
+    },
+    {
+      "id": "69a7c930bb4da90c",
+      "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
+      "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-08-22T17:02:06Z",
+      "category": "Tech",
+      "region": "China",
+      "labels": [
+        "Tech",
+        "China"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee7/live/c783fb00-9e4a-11f1-8871-ff7211da55c9.jpg"
     },
     {
       "id": "5cf384293ff420f5",
@@ -2744,30 +3269,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaf0/live/4b7dd670-9c79-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "ea384600f3985806",
-      "title": "Wigan score 11 tries in victory against St Helens",
-      "summary": "Wigan Warriors convincingly beat neighbours St Helens to make it 10 wins out of 10 in the Women's Super League this season.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cvg0j91ynkmo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T14:52:36Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 22,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27a4/live/36a399b0-9e36-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
       "id": "1ef30a93e889b345",
       "title": "Wade wins first World Series title in Australia",
       "summary": "England's James Wade beats Australian qualifier Brody Klinge 8-5 in the Australian Masters final for his first World Series darts title.",
@@ -2816,28 +3317,28 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f8f/live/fcaa3ab0-9c74-11f1-8efc-bf1ca073197a.jpg"
     },
     {
-      "id": "6e03b889dd0a08cc",
-      "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
-      "summary": "An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says.",
+      "id": "fba1f007b2bd4cef",
+      "title": "Williams and Alcaraz to play US Open mixed doubles",
+      "summary": "Serena Williams will pair up with Carlos Alcaraz for the mixed doubles at the US Open at Flushing Meadows.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo",
-      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c4g3gp9k2njo",
+      "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-08-22T14:10:05Z",
-      "category": "Tech",
-      "region": "China",
+      "published": "2026-08-22T14:41:20Z",
+      "category": "Sports",
+      "region": "UK",
       "labels": [
-        "Tech",
-        "China"
+        "Sports",
+        "UK"
       ],
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 18,
+      "wordCount": 19,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/234d/live/2510b660-9d9b-11f1-a291-b542ee92de7c.png"
     },
     {
       "id": "5673d11d2b8871c4",
@@ -3032,30 +3533,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f8e/live/eb6ae880-9df0-11f1-898b-91bf436c749f.jpg"
     },
     {
-      "id": "af4200f18c96fd57",
-      "title": "Martinelli deserves better from Arsenal - Wright",
-      "summary": "Ian Wright says Gabriel Martinelli deserves \"more respect\" from Arsenal and questions the way the club have handled the winger's potential exit.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj636ewwz46o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T11:49:08Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 22,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c227/live/96954180-9e12-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
       "id": "bce315eb91bcc2c1",
       "title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
       "summary": "July data shows total public debt was £2.98tn, or 94% of GDP – up £96bn on a year earlier Business live – latest updates The UK government ran a larger-than-expected £1.8bn deficit in July, underlining the challenges facing the chancellor, John Healey, as he draws up his first budget. City economists had expected a shortfall of zero for July, a month when Treasury receipts tend to be swollen by self-assessment income tax payments. Continue reading...",
@@ -3152,30 +3629,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d4d/live/6f65e260-9e01-11f1-9d7c-99ef97a9447f.jpg"
     },
     {
-      "id": "47e056b1b60efa43",
-      "title": "Ajayi is rock at the back as Hull stun Man Utd - player ratings",
-      "summary": "How Hull City and Manchester United's players rated following their Premier League match.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpw94jp02xxo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T13:24:59Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 13,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a10/live/e889d910-9e26-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
       "id": "bb75045ba2a0ede4",
       "title": "Councils turn to AI in attempt to fill £4bn black hole",
       "summary": "Councils across the UK are making cuts of £3bn this financial year, despite recent funding reforms.",
@@ -3200,29 +3653,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/740e/live/615bb8c0-8f51-11f1-99e6-95543b07d23d.jpg"
     },
     {
-      "id": "2db8b723855c3b1a",
-      "title": "Is Trump making Latin America great again?",
-      "summary": "A right-wing wave is sweeping through the region and that is not good news.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-22T13:23:56Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "d8561f7917008f7e",
       "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
       "summary": "The private Android-based OS will expand beyond Pixels next year.",
@@ -3245,29 +3675,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Motorola-X-GrapheneOS-1152x648.jpg"
-    },
-    {
-      "id": "c02f7c22c6c2e2c5",
-      "title": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
-      "summary": "Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt's 100m record in Beijing, says state media.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-22T11:30:51Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "f83a9020b9253068",
@@ -3414,30 +3821,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4911/live/003dd3f0-9d81-11f1-adf5-2dc21c9cc109.jpg"
     },
     {
-      "id": "3df5dddbb4b29df1",
-      "title": "Mercedes' Russell secures Zandvoort sprint victory",
-      "summary": "Mercedes' George Russell leads from start to finish to win the sprint race at the Dutch Grand Prix.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T10:45:13Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9431/live/ff2acc20-9e16-11f1-95e0-53a570c83624.jpg"
-    },
-    {
       "id": "9c8b9d48cb4f3570",
       "title": "UK inflation rises to 2.9% as Iran war drives up energy bills",
       "summary": "Accelerating price increases in July add to pressure on households, with chancellor saying ‘there is more to do to restore hope’ Analysis: Rising inflation underlines scale of Burnham’s cost of living challenge Business live – latest updates UK inflation rose to 2.9% in July as the impact of the Iran war on energy prices triggered a renewed cost of living squeeze for British households. The Office for National Statistics said inflation rose from a 15-month low of 2.6% in June, driven by the rising price of gas and electricity. Matching City economists’ forecasts, it was the first rise in the annual rate as measured by the consumer prices index since March. Continue reading...",
@@ -3484,29 +3867,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/f9e05771e9095905adb6140934ef1786fbc90ce9/810_840_3494_2798/master/3494.jpg?width=700&quality=85&auto=format&fit=max&s=fb60f2872acf0cb7b1509bd4d8080afe"
-    },
-    {
-      "id": "0062d945b86a3fb5",
-      "title": "Iran says new US sanctions violate sovereignty of other states",
-      "summary": "Foreign Ministry spokesman Esmaeil Baghaei slams Trump's latest threat as a return to 'full-scale classic colonialism'.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-22T09:14:09Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 16,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "3d7262ad4fcaa440",
@@ -4036,30 +4396,6 @@
       "imageUrl": "https://i.guim.co.uk/img/media/8d7f03d88b7b8112881e3e6bddd3dfbe85bd8099/531_0_4679_3744/master/4679.jpg?width=700&quality=85&auto=format&fit=max&s=921413e3059f83f67aeebea415264344"
     },
     {
-      "id": "1dc69d33ed0e4674",
-      "title": "Lessons learned, but Coventry's top-flight return about more than result",
-      "summary": "Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T23:13:13Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 34,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03e0/live/5b50d680-9db2-11f1-9537-fb0a2e1c2505.jpg"
-    },
-    {
       "id": "f0c87d8e0b1a3a04",
       "title": "People smuggler exposed by BBC investigation arrested and charged",
       "summary": "Twana Jamal Khdir has been arrested and charged with immigration offences.",
@@ -4275,30 +4611,6 @@
       "isBreaking": false
     },
     {
-      "id": "30baac71d532a196",
-      "title": "These bookshops let Chinese readers question their country, now the doors are closing",
-      "summary": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-08-21T22:26:25Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/975a/live/cdbc9370-9c5f-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
       "id": "90d6e895da5e5d24",
       "title": "Bavidge earns Inverness CT a point against Partick Thistle",
       "summary": "Watch the goals as Alfie Bavidge's late goal earns Inverness Caledonian Thistle a draw against Partick Thistle in the Scottish Championship.",
@@ -4321,30 +4633,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11f8/live/a36290b0-9da0-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "id": "a5e1eb9c07cc308b",
-      "title": "Hunt second in Diamond League 200m as White wins",
-      "summary": "Amy Hunt follows up her extraordinary week at the European Championships with a second-placed finish in the women's 200m at the Diamond League in Lausanne behind Kayla White.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c8dnvl1mqleo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T19:00:43Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 28,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb7/live/d1ef22a0-9da9-11f1-95ab-d3b679e2384a.jpg"
     },
     {
       "id": "8b5c8a9525d7a3a9",
@@ -4417,30 +4705,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8763/live/725b1f30-9be0-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "id": "2c44691effcb3380",
-      "title": "Liverpool make Endrick enquiry - Saturday's gossip",
-      "summary": "Liverpool make Endrick enquiry, Chelsea brace for a Nicolas Jackson offer and Arsenal make request to Victor Osimhen, plus more.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy4kjg3j4d3o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T19:48:23Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90aa/live/fb636880-9d95-11f1-a291-b542ee92de7c.png"
     },
     {
       "id": "4b4f755e58482974",
@@ -4658,30 +4922,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a26/live/a80a27a0-754f-11f1-a627-714adb4eed6e.jpg"
     },
     {
-      "id": "42dde0d0c12ab2b0",
-      "title": "Gyokeres proud of impact at Arsenal last season",
-      "summary": "Striker Viktor Gyokeres says he is proud of his contribution to Arsenal last season as they begin the defence of their Premier League title at home to his former side Coventry City on Friday.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy5dxg3kv6eo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T12:46:52Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 34,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7710/live/fe82dd50-9d5b-11f1-b109-879e35c24276.jpg"
-    },
-    {
       "id": "9b64b3d195c6dabf",
       "title": "New Zealand great Tui joins Trailfinders",
       "summary": "World Cup-winning New Zealand international Ruby Tui, 34, signs a one-year deal with Trailfinders Women.",
@@ -4704,253 +4944,13 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e139/live/14c55ed0-9bae-11f1-92e6-b1dfcecd4308.jpg"
-    },
-    {
-      "id": "75955d8e8425010f",
-      "title": "McIlroy bounces back to take share of BMW Championship lead",
-      "summary": "Rory McIlroy bounces back from the disappointment of his 66th place at the St Jude Championship, to take a share of the lead at the BMW Championship in St Louis.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/golf/videos/cx2j8dxjq90o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T13:18:14Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 30,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1217/live/c809f090-9d5d-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "54d841338ff24957",
-      "title": "Not hanging around - England lose final two wickets early on day three",
-      "summary": "After resuming on 366-8, England bat for just 39 minutes at the start of day three, as they lose Jamie Smith and Josh Tongue quickly, bowled out for 409, giving the home side a lead of 238 at Headingley.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/c9d876q4d5qo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T11:17:06Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 39,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c657/live/c9c6d940-9d51-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "fc195e863ece36ed",
-      "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
-      "summary": "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited .",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-08-20T21:25:25Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 13,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/reunited8-1152x648.jpg"
-    },
-    {
-      "id": "1c7ced59754b6e4b",
-      "title": "Europe cancels planned upgrades for Ariane 6 rocket",
-      "summary": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-08-20T21:40:52Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 11,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GlYHDKoWQAAxQiG-1152x648.jpg"
-    },
-    {
-      "id": "05028d33ff1aee91",
-      "title": "Triple-A 3B Keys hits his way onto Prospect Team of the Week",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/prospect-team-of-the-week-august-17-2026",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-17T22:12:41Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "cafcb350f385c22f",
-      "title": "Strained smiles and uncertainty - the strange end of LIV Golf 1.0",
-      "summary": "BBC Sport visits LIV Golf's final event in its current guise to investigate what the future holds for the circuit that shook up the sport.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/crk5gzgl1rzo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T12:47:18Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 25,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abc5/live/587d7530-9d44-11f1-a137-179a8d1c790b.jpg"
-    },
-    {
-      "id": "8517ca2c828958de",
-      "title": "De Zerbi let us bond over a few beers - Maddison",
-      "summary": "Midfielder James Maddison says Tottenham boss Roberto de Zerbi let the team bond over some beers before the new season, where they hope to improve on finishing 17th last term.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c0km6pzplrzo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T11:22:59Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 30,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7f5/live/1c7de300-9d51-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "3151fb83a8108f14",
-      "title": "Is Andy Burnham Actually Popular Or Just New?",
-      "summary": "And, Sue Gray gives her first interview since leaving Downing Street.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p4z216",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-08-21T14:35:00Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 11,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
-    },
-    {
-      "id": "78d802a52d597347",
-      "title": "Walmart sales under strain as US shoppers pull back",
-      "summary": "High gas prices and weaker pharmacy sales pushed Walmart's growth to its slowest pace in six years",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-20T17:59:59Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40c0/live/b7baf560-9cb6-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "48de74ca298e9803",
-      "title": "Roblox must make changes after failing to block adults creeping on kids",
-      "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-08-20T17:14:08Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483-1024x648.jpg"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 27
+      "items": 32
     },
     {
       "source": "BBC Politics",
@@ -4984,8 +4984,8 @@
     },
     {
       "source": "UN News",
-      "ok": true,
-      "items": 30
+      "ok": false,
+      "error": "not well-formed (invalid token): line 1, column 0"
     },
     {
       "source": "The Guardian China",
@@ -5055,12 +5055,12 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 66
+      "items": 72
     },
     {
       "source": "BBC Rugby Union",
       "ok": true,
-      "items": 49
+      "items": 50
     },
     {
       "source": "Saracens",
