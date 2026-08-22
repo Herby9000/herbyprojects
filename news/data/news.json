@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-22T08:46:40.537473Z",
+  "generatedAt": "2026-08-22T12:59:43.999531Z",
   "topStoryIds": [
     "196c582be0fa18b0",
-    "d99f25eac0c92e1b",
+    "867af1e4d1d680ca",
     "7ad5124107f83fa8",
     "d65eeb2748bead0a",
     "356abda16b8bebf3",
-    "80aa7dbd36fc00b8",
+    "d99f25eac0c92e1b",
     "d91fa75fb051169d"
   ],
   "sectionStoryIds": {
@@ -16,12 +16,11 @@
       "d65eeb2748bead0a",
       "356abda16b8bebf3",
       "ff674e5c196093ba",
-      "c1ae9110a4cd176f",
       "2d48a953e87b1464"
     ],
     "Tech": [
+      "867af1e4d1d680ca",
       "d99f25eac0c92e1b",
-      "80aa7dbd36fc00b8",
       "d91fa75fb051169d",
       "fb94f54477be6cad",
       "ca84d580f730affd",
@@ -37,14 +36,14 @@
       "0028d65d89400e85",
       "2431af0d98f1c620",
       "2163f17be23c1f8f",
+      "e490b9cf5b975ac2",
       "7854e387f7e3e5e8",
       "8439fd3d9048f0fb",
-      "10a1f8a8afc7c93d",
       "eadb3c0094cab86e",
       "446014f5425e0c4b",
-      "ebbe2deb426492bc",
-      "38a004e81712a051",
-      "0ed87af1d6769fc3",
+      "7342bcacbc13fc7e",
+      "b613a44cabc07a9f",
+      "3fd134e72f93619d",
       "936a7aa205606d39"
     ],
     "Editorial": [
@@ -52,8 +51,6 @@
       "2d3947813cd0e036",
       "cc3279dac77edf5c",
       "6b212ec9d57f61d9",
-      "4b06c906b405236a",
-      "8b7686dc3840ceb9",
       "8093037de36288b8",
       "30335ee92bf28562"
     ]
@@ -87,14 +84,14 @@
       "imageHeight": 630
     },
     {
-      "id": "d99f25eac0c92e1b",
-      "title": "Trump's space transportation policy calls for new spaceport on federal land",
-      "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
+      "id": "867af1e4d1d680ca",
+      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+      "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+      "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
       "source": "Ars Technica",
       "publisher": "Ars Technica",
-      "published": "2026-08-21T23:32:17Z",
+      "published": "2026-08-22T11:08:53Z",
       "category": "Tech",
       "region": "US",
       "labels": [
@@ -104,14 +101,14 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 739,
-      "readingMinutes": 4,
+      "wordCount": 1111,
+      "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-1152x648-1787353404.jpg",
-      "body": "“We probably need another site that’s capable of heavy and super heavy launch capability.”\n\nA new national space transportation policy signed by President Donald Trump on Thursday calls for the development of more spaceports to support more than 1,000 launches and reentries per year by 2030.\n\nThe presidential memorandum replaces a 2013 policy signed by former President Barack Obama. Both policies share an emphasis on supporting the commercial space industry and underscore the importance of assured access to space. But the launch sector has changed immensely since then. There were 176 orbital launch attempts from US soil last year, nearly 10 times the number in 2013. SpaceX led the pack last year with 165 orbital launches of its Falcon 9 rocket, plus five suborbital test flights of the much larger Starship.\n\n“By 2030, our space transportation ranges must grow to support more than 1,000 launches and reentries every year,” the policy says. “The policies set forth in this memorandum will secure America’s continued superiority in space.”\n\nThe projected surge is driven by commercial and military demand for communications services, overhead surveillance, space-based targeting, and orbital data centers.\n\nSchedule transparency\n\nThe most notable updates to the national space transportation policy focus on increasing the country’s ability to enable those lofty forecasts. The Trump administration calls on the Pentagon and NASA to “prioritize and coordinate on infrastructure investments” to boost launch and reentry capacity and flexibility at federal launch and reentry ranges.\n\nThese federal spaceports include Cape Canaveral Space Force Station and NASA’s Kennedy Space Center, which sit on adjoining property in Florida. The others are Vandenberg Space Force Base, California, and NASA’s Wallops Flight Facility in Virginia. Only the Florida and California spaceports are currently outfitted for heavy-lift launches.\n\nThe policy document supports more efficient range scheduling criteria at federally owned spaceports, balancing the needs of commercial users and US government missions. It also directs the military and NASA to “regularly publish range schedules to ensure transparent allocation of resources and optimize launch capacity.” Today, the schedules for most rocket launches are not public until a few days or weeks in advance.\n\nThe government will also identify potential locations for additional launch facilities in the United States, improve integration of space launch and reentry operations into airspace and air traffic control modernization efforts, and designate “priority airspace for critical space launch corridors.”\n\nMore specifically, the White House is directing the Department of the Interior to identify federal lands to serve as an additional designated federal land reentry site. This comes after the Interior Department’s Bureau of Ocean Energy Management issued a request for public comment last month regarding the potential use of submerged lands and abandoned offshore oil rigs for sea-based space launches and reentry activities.\n\nGeographic resiliency\n\nThis section of the directive appears to endorse the results of a recent Pentagon study that identified the need for the government to have a third heavy-lift launch site in the United States. The report hasn’t been released, but Air Force Secretary Troy Meink described the finding in a May hearing before the House Armed Services Committee.\n\n“At a high level, what it says is we probably need another site that’s capable of heavy and super heavy launch capability, both from a resiliency perspective and just, even at the Cape, limitations on how much space we’ve got,” Meink said.\n\n“We’re going to have to increase the capacity,” said Gen. Chance Saltzman, the Space Force’s top general, in the same hearing in May. “And then, maybe connected to that, is the geographic resiliency that you might need to have separate launch locations and not be so tied to just the two specific launch ports that we have.”\n\nAnother element of the new space transportation policy aims for more responsive launch operations , such as putting high-priority payloads into orbit within 48 hours of need, potentially from “expeditionary locations” far away from conventional launch ranges. Some companies, like Rocket Lab and Astra, are already working on portable launch infrastructure.\n\nThe memo also supports NASA’s ongoing work on commercial transportation to and from the Moon, and directs the agency to support future commercial robotic and human expeditions to Mars.\n\nThe government is already pursuing other tenets of the national space transportation policy, such as facilitating more access for commercial users at federal ranges, expediting permitting and environmental reviews , and charging user fees to commercial launch companies operating out of NASA or US military spaceports.",
-      "imageWidth": 1152,
-      "imageHeight": 648
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-626466246-2560x1440.jpg",
+      "body": "Lands free of roads are under threat from the Trump administration’s proposed rollback.\n\nPause for a moment and listen. What do you hear? Chances are, somewhere in the background, is the ever-present hum of a road.\n\nMore than 4.2 million miles of public roads crisscross the lower 48 states—enough to reach the Moon and back almost nine times. This vast network of roads spiderwebs its way across the contiguous US, leaving only about 5 percent as an inventoried roadless area or wilderness .\n\nNow, some of those last remaining lands free of roads are under threat from the Trump administration’s proposed rollback of the 2001 Roadless Rule . That includes southeast Alaska’s Tongass National Forest , where eagles, bears, salmon, and many other species thrive in old-growth coastal forest along the Inside Passage.\n\nIn announcing its plan , the administration said rescinding the rule would remove prohibitions on road construction and logging on nearly 59 million acres of national forest, arguing that the rule slowed economic development. A 30-day public comment period on the formal proposal starts once it is published in the Federal Register . Instructions on how to submit comments are included in the proposal.\n\nIn Congress, another effort is underway to try to change the law through an amendment to the Wildfire Prevention Act . That change, if approved, would both remove the Roadless Rule and prevent the US Forest Service from reinstituting it in the future, despite overwhelming public support for the rule.\n\nAs ecologists who have spent decades studying wilderness and the animals and ecological functions that depend on undisturbed habitats, we believe it’s important to understand that preserving roadless areas has value for environmental health, clean water, wildlife survival and people’s own well-being.\n\nWhat is the Roadless Rule?\n\nThe National Forest Roadless Area Conservation Policy, better known as the Roadless Rule, was issued in January 2001 by President Bill Clinton. It has had overwhelming public support and received more public comments than any other rule in history.\n\nThe rule prohibits road construction, maintenance and commercial timber harvest in inventoried roadless areas within the National Forest System. It applies to over 58 million acres across the country , excluding Idaho and Colorado, which have their own state-specific roadless rules. While most of these roadless areas are in the western states and Alaska, 38 total states as well as Puerto Rico host roadless areas.\n\nThe primary goal of the Roadless Rule is to maintain forest health and productivity for future generations. It also helps avoid exacerbating the US Forest Service’s road maintenance backlog by not making new roads.\n\nThe Roadless Rule prohibits new road construction, with very limited exceptions, as well as commercial logging in designated roadless areas. It does not restrict other uses that are compatible with the management plan, such as hiking and mountain biking, or resource uses such as grazing livestock and working existing mining claims.\n\nBeyond providing vital habitat for species and enabling healthy forests, the rule protects drinking water for the millions of Americans whose water flows from national forests. It also preserves high-quality recreation opportunities—hiking, camping, hunting, and fishing—that Americans cherish.\n\nThe problem with roads in national forests\n\nWhile roads can provide benefits, such as access to forests, they can also do ecological harm.\n\nRoads enable invasive weeds to spread by being carried on vehicle tires and deposited in exposed soils, erode sediments into streams and fragment habitat that wildlife rely on. Vehicles directly kill and injure animals through collisions. They occasionally start fires, too. A recent study found that fires are more likely to start in areas with roads than in areas without.\n\nStudies show that road noise displaces wildlife, increases stress , and can affect wildlife behavior patterns at distances of over a mile from the road.\n\nAnd roads don’t just cause problems for species on land. Most roads cross streams and rivers, which requires building a way for those waters to keep flowing under the road (structures called culverts). While culverts can be designed to allow fish to pass through and maintain ecological connections, they are rarely built to do so . This leads to declines in the health of fish populations and can leave some species locally extinct .\n\nThe benefits of roadless areas\n\nInventoried roadless areas are among the most ecologically intact and wildest places left in the United States, yet—unlike Wilderness Areas and National Parks—there are no signs acknowledging their boundaries when you enter one.\n\nMost are part of larger ecosystems , directly adjacent or ecologically connected to better known national parks and wilderness areas. Removing Roadless Rule protections would erode ecological buffers to these more famous protected lands.\n\nFor some species, roadless areas protect critical core habitat . For instance, over half the suitable habitat for relictual slender salamander, a critically imperiled species native to the Sierra Mountains of California, occurs in a roadless area. Nearly 40 percent of Mount Pinos, lodgepole chipmunk, an imperiled subspecies of the lodgepole chipmunk, also live in roadless areas in California.\n\nResearch shows that every formal roadless area provides habitat for at least two wildlife species of conservation concern – those facing risks to their long-term survival – with the median roadless area supporting 10 of these imperiled species. Some Arizona roadless areas contain habitat for up to 62 of these species.\n\nRoadless areas also protect watersheds that supply drinking water to 47 million Americans.\n\nWithout this protection, these watersheds would still provide water, but their long-term health and hydrological sustainability could be compromised if roads block stream flow and increase sediments flowing into waterways. The result can be higher costs for water purification.\n\nThe Forest Service’s own watershed health assessment, known as the Watershed Condition Framework , uses road density as a key indicator of conditions that can disrupt water quantity and quality.\n\nWhat is at risk in rescinding the Roadless Rule?\n\nThe Trump administration’s proposed rollback, expected to be formalized in 2026, would open these last wild places to development, fragmenting habitats that can never be restored.\n\nThe American public spoke loudly in 2001 when they supported the Roadless Rule. Two decades later, the public comments submitted on the rescission notice overwhelming opposed rolling back the rules , a Center for Western Priorities review found, reaffirming that US roadless forests remain as vital and valued as ever.\n\nProtecting these areas is about promoting healthy ecosystems on public lands so they can provide hiking, hunting, and fishing opportunities for generations to come to enjoy the tranquility of being in nature.\n\nMariah Meek , Associate Professor of Integrative Biology, Michigan State University and Travis Belote , Assistant Professor of Landscape Ecology, Montana State University . This article is republished from The Conversation under a Creative Commons license. Read the original article .",
+      "imageWidth": 2560,
+      "imageHeight": 1440
     },
     {
       "id": "7ad5124107f83fa8",
@@ -190,34 +187,34 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43f6/live/83b694f0-9dd2-11f1-b2b6-cb5bce61ac4a.jpg",
-      "body": "Jim O'Neill (image from 2014)\n\nPublished 22 August 2026, 03:53 BST\n\nThe economist Lord Jim O'Neill, who has been advising the prime minister, has said he will not be taking a job in Andy Burnham's government.\n\nLord O'Neill, a crossbench peer, was once a treasury minister under the Conservatives.\n\nAs first reported by , external the Financial Times, he said he did not want the constraints involved in taking on a formal role.\n\nThe former chief economist at Goldman Sachs had been tipped to become Burnham's chief economic adviser.\n\nHe said he was enjoying what he was currently doing too much and did not want to have to give up control of his business interests to comply with official rules.\n\nHe told BBC Radio 4's Today programme that he had \"lots of other things that are going on that I very much enjoy\" and, having been a minister before, he knew the job included \"all the constraints that understandably go with it, like a blind trust and to abandon everything else you do, never mind the fact that it's 24/7\".\n\nIn placing shares in blind trusts, ministers have no knowledge of how their investment is being handled, to avoid any potential conflict of interest.\n\nHe said he concluded he would rather be a voice to talk to and \"get on with the rest of the things in my life\".\n\nHe earlier told the Financial Times it was \"not because of any policy disagreements\", adding \"I'm a massive fan of the focus on devolution and I hope Andy and his team will be bold on this and everything else.\"\n\nHe pointed to Greater Manchester as an example of economic growth and said if you could repeat that around populated areas, \"then national economic performance will improve\".\n\nAsked by the BBC whether the new government in the upcoming October budget would need to raise taxes, Lord O'Neill said it was a choice for the prime minister and his team \"based on the things they're saying they want to do more of - defence spending is obviously the one that catches the eye\", among other things.\n\nPressed on whether the government could turn to something such as wealth taxes, Lord O'Neill said he was \"not a fan of further increases in these kind of taxes, particularly as it relates to capital gains for genuine risk taking things like venture capital\".\n\nHe noted that the country has boosted government spending \"dramatically\" in recent years and needed a \"more sensible approach to welfare spending under genuine welfare reform\".\n\nFrom 2015-2016, Lord O'Neill was commercial secretary to the Treasury under the then-Chancellor, George Osborne.\n\nThe peer, who grew up in Greater Manchester, was a key figure in pushing the Conservatives' Northern Powerhouse agenda, which was aimed at boosting the economy of the North of England.\n\nLord O'Neill is also known as the economist who coined the term Bric in 2001 to describe leading developing or newly industrialised countries with potential for fast growth and, therefore, investment returns.\n\nThe original four nations - Brazil, Russia, India and China - later became the Brics when they were joined by South Africa.\n\nRelated topics\n\nUK economy\n\nAndy Burnham\n\nMore on this story\n\nUK borrows more than expected in July as Healey prepares for first Budget Published 22 hours ago\n\nInflation is heating up but don't expect another crisis Published 2 days ago\n\nJobs, borrowing and taxes: Andy Burnham's economic challenges Published 20 July",
+      "body": "Jim O'Neill (image from 2014)\n\nPublished 22 August 2026, 03:53 BST\n\nThe economist Lord Jim O'Neill, who has been advising the prime minister, has said he will not be taking a job in Andy Burnham's government.\n\nLord O'Neill, a crossbench peer, was once a treasury minister under the Conservatives.\n\nAs first reported by , external the Financial Times, he said he did not want the constraints involved in taking on a formal role.\n\nThe former chief economist at Goldman Sachs had been tipped to become Burnham's chief economic adviser.\n\nHe said he was enjoying what he was currently doing too much and did not want to have to give up control of his business interests to comply with official rules.\n\nHe told BBC Radio 4's Today programme that he had \"lots of other things that are going on that I very much enjoy\" and, having been a minister before, he knew the job included \"all the constraints that understandably go with it, like a blind trust and to abandon everything else you do, never mind the fact that it's 24/7\".\n\nIn placing shares in blind trusts, ministers have no knowledge of how their investment is being handled, to avoid any potential conflict of interest.\n\nHe said he concluded he would rather be a voice to talk to and \"get on with the rest of the things in my life\".\n\nHe earlier told the Financial Times it was \"not because of any policy disagreements\", adding \"I'm a massive fan of the focus on devolution and I hope Andy and his team will be bold on this and everything else.\"\n\nHe pointed to Greater Manchester as an example of economic growth and said if you could repeat that around populated areas, \"then national economic performance will improve\".\n\nAsked by the BBC whether the new government in the upcoming October budget would need to raise taxes, Lord O'Neill said it was a choice for the prime minister and his team \"based on the things they're saying they want to do more of - defence spending is obviously the one that catches the eye\", among other things.\n\nPressed on whether the government could turn to something such as wealth taxes, Lord O'Neill said he was \"not a fan of further increases in these kind of taxes, particularly as it relates to capital gains for genuine risk taking things like venture capital\".\n\nHe noted that the country has boosted government spending \"dramatically\" in recent years and needed a \"more sensible approach to welfare spending under genuine welfare reform\".\n\nFrom 2015-2016, Lord O'Neill was commercial secretary to the Treasury under the then-Chancellor, George Osborne.\n\nThe peer, who grew up in Greater Manchester, was a key figure in pushing the Conservatives' Northern Powerhouse agenda, which was aimed at boosting the economy of the North of England.\n\nLord O'Neill is also known as the economist who coined the term Bric in 2001 to describe leading developing or newly industrialised countries with potential for fast growth and, therefore, investment returns.\n\nThe original four nations - Brazil, Russia, India and China - later became the Brics when they were joined by South Africa.\n\nRelated topics\n\nUK economy\n\nAndy Burnham\n\nMore on this story\n\nUK borrows more than expected in July as Healey prepares for first Budget Published 1 day ago\n\nInflation is heating up but don't expect another crisis Published 3 days ago\n\nJobs, borrowing and taxes: Andy Burnham's economic challenges Published 20 July",
       "imageWidth": 1200,
       "imageHeight": 675
     },
     {
-      "id": "80aa7dbd36fc00b8",
-      "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
-      "summary": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
+      "id": "d99f25eac0c92e1b",
+      "title": "Trump's space transportation policy calls for new spaceport on federal land",
+      "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
+      "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
       "source": "Ars Technica",
       "publisher": "Ars Technica",
-      "published": "2026-08-21T18:07:15Z",
+      "published": "2026-08-21T23:32:17Z",
       "category": "Tech",
-      "region": "China",
+      "region": "US",
       "labels": [
         "Tech",
-        "China"
+        "US"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 339,
-      "readingMinutes": 2,
+      "wordCount": 739,
+      "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2290777035-1152x648.jpg",
-      "body": "Chinese safety regulators have cracked down on doors that don’t open in a crash.\n\nTesla is facing a massive recall in China today. Chinese regulators are taking a stricter approach to safety, and the automaker now has to add warning labels to 2.98 million Model 3 and Model Y electric vehicles in China that make it clearer how to open the rear doors in the case of an emergency that causes the car to lose power.\n\nAs we learned earlier this year , Chinese regulators are getting more serious about the recent trend of electronically controlled car doors; a growing number of crashes have had fatal consequences when the occupants have been trapped in burning cars. Starting next year, new rules give specific dimensions for handles that must be followed by all newly approved vehicles. But cars that have already been on sale for some time, like the Models 3 and Y, are grandfathered in, at least until the end of 2028.\n\nBut China wants Tesla to do something about the nearly 3 million cars already on its roads. It is requiring the automaker to add warning labels to the car interiors—something that will require physical access to the car. Additionally, Tesla will push out a software update that automatically lowers all the cars’ windows in the event of a collision.\n\nTesla is also facing a second Chinese recall, this one only affecting 2.74 million cars. These require new software for their driver monitoring system, which currently only uses a torque sensor on the steering wheel to determine if the driver is holding the wheel and remaining engaged in the task of driving. Now, the update will leverage the interior camera in the Models 3 and Y to track the driver’s gaze instead.\n\nHowever, Electrek has previously reported that Chinese Tesla owners have been able to defeat the cabin driver monitoring system—which it has rolled out to customers with its more advanced partially automated driving system—by mounting a doll’s head in front of the camera.",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-1152x648-1787353404.jpg",
+      "body": "“We probably need another site that’s capable of heavy and super heavy launch capability.”\n\nA new national space transportation policy signed by President Donald Trump on Thursday calls for the development of more spaceports to support more than 1,000 launches and reentries per year by 2030.\n\nThe presidential memorandum replaces a 2013 policy signed by former President Barack Obama. Both policies share an emphasis on supporting the commercial space industry and underscore the importance of assured access to space. But the launch sector has changed immensely since then. There were 176 orbital launch attempts from US soil last year, nearly 10 times the number in 2013. SpaceX led the pack last year with 165 orbital launches of its Falcon 9 rocket, plus five suborbital test flights of the much larger Starship.\n\n“By 2030, our space transportation ranges must grow to support more than 1,000 launches and reentries every year,” the policy says. “The policies set forth in this memorandum will secure America’s continued superiority in space.”\n\nThe projected surge is driven by commercial and military demand for communications services, overhead surveillance, space-based targeting, and orbital data centers.\n\nSchedule transparency\n\nThe most notable updates to the national space transportation policy focus on increasing the country’s ability to enable those lofty forecasts. The Trump administration calls on the Pentagon and NASA to “prioritize and coordinate on infrastructure investments” to boost launch and reentry capacity and flexibility at federal launch and reentry ranges.\n\nThese federal spaceports include Cape Canaveral Space Force Station and NASA’s Kennedy Space Center, which sit on adjoining property in Florida. The others are Vandenberg Space Force Base, California, and NASA’s Wallops Flight Facility in Virginia. Only the Florida and California spaceports are currently outfitted for heavy-lift launches.\n\nThe policy document supports more efficient range scheduling criteria at federally owned spaceports, balancing the needs of commercial users and US government missions. It also directs the military and NASA to “regularly publish range schedules to ensure transparent allocation of resources and optimize launch capacity.” Today, the schedules for most rocket launches are not public until a few days or weeks in advance.\n\nThe government will also identify potential locations for additional launch facilities in the United States, improve integration of space launch and reentry operations into airspace and air traffic control modernization efforts, and designate “priority airspace for critical space launch corridors.”\n\nMore specifically, the White House is directing the Department of the Interior to identify federal lands to serve as an additional designated federal land reentry site. This comes after the Interior Department’s Bureau of Ocean Energy Management issued a request for public comment last month regarding the potential use of submerged lands and abandoned offshore oil rigs for sea-based space launches and reentry activities.\n\nGeographic resiliency\n\nThis section of the directive appears to endorse the results of a recent Pentagon study that identified the need for the government to have a third heavy-lift launch site in the United States. The report hasn’t been released, but Air Force Secretary Troy Meink described the finding in a May hearing before the House Armed Services Committee.\n\n“At a high level, what it says is we probably need another site that’s capable of heavy and super heavy launch capability, both from a resiliency perspective and just, even at the Cape, limitations on how much space we’ve got,” Meink said.\n\n“We’re going to have to increase the capacity,” said Gen. Chance Saltzman, the Space Force’s top general, in the same hearing in May. “And then, maybe connected to that, is the geographic resiliency that you might need to have separate launch locations and not be so tied to just the two specific launch ports that we have.”\n\nAnother element of the new space transportation policy aims for more responsive launch operations , such as putting high-priority payloads into orbit within 48 hours of need, potentially from “expeditionary locations” far away from conventional launch ranges. Some companies, like Rocket Lab and Astra, are already working on portable launch infrastructure.\n\nThe memo also supports NASA’s ongoing work on commercial transportation to and from the Moon, and directs the agency to support future commercial robotic and human expeditions to Mars.\n\nThe government is already pursuing other tenets of the national space transportation policy, such as facilitating more access for commercial users at federal ranges, expediting permitting and environmental reviews , and charging user fees to commercial launch companies operating out of NASA or US military spaceports.",
       "imageWidth": 1152,
       "imageHeight": 648
     },
@@ -274,29 +271,6 @@
       "body": "Published 21 August 2026\n\nRegulator Ofcom has launched an investigation into Sky News over claims of harassment made by Reform UK leader Nigel Farage.\n\nLast month, Farage accused the broadcaster of infringing his family's privacy by sending reporters to a house where his adult daughter was living.\n\nReform UK made an official complaint to Ofcom, and called on Sky News to apologise on air and undertake not to seek to contact Farage's family at their homes.\n\nIn a post on Facebook on Friday, the Clacton MP said Ofcom was now investigating and that he was \"appalled at the way various members of my family have been treated\".\n\nThe broadcaster denied approaching Farage's daughter when he initially made the allegation.\n\nChris Mason: Farage attempts to seize back the agenda after finance row Published 7 July\n\nOfcom would not comment on any investigation but said it treated complaints in strict confidence and would not \"publicly confirm the identities of individuals concerned\".\n\nFarage claims reporters from Sky News approached his daughter's home while he was out of the country.\n\nSky News says it did not interact with his daughter, and was trying to ask Farage about a £5m gift he received from cryptocurrency investor Christopher Harborne before he entered Parliament in July 2024.\n\nA parliamentary standards investigation into whether the gift broke any rules resumed earlier this month after Farage was re-elected as MP for Clacton following a by-election he triggered that was boycotted by the other major parties.\n\nUpon returning to the country, Farage was questioned by Sky News over the undeclared gift, to which he responded: \"You tell your bosses, you harass my family any more, there will be serious consequences, that's what your organisation has done this morning, now go away.\"\n\nWhen pressed on the donation again, he said: \"Did you not hear me? You have broken all the rules, Leveson and everything else, cut.\"\n\nAt the time, Sky News said in a post on X: \"Sky News was not at the property at 7.41am. As has already been acknowledged, and as shown in the footage from 10.19am, Sky News was outside a property where Mr Farage was registered to vote at the last election.\n\n\"Sky News did not interact with Mr Farage's daughter.\n\n\"On a single occasion, we approached the property without a camera operator, identified ourselves as Sky News and the adult occupant chose not to engage. We were seeking to contact Mr Farage to ask questions about the gift he accepted from Mr Cottrell.\n\n\"This is a well-established and routine journalistic practice when reporting on matters of legitimate public interest.\n\n\"The footage clearly demonstrates that Sky News did not 'hound' or pursue Mr Farage's daughter.\n\n\"At no stage did we seek to speak to anyone other than Mr Farage in connection with this story.\"\n\nThe BBC has contacted Sky News for comment.\n\nOfcom says it aims to conclude fairness and privacy complaints within 90 working days.\n\nRelated topics\n\nNigel Farage\n\nReform UK\n\nOfcom\n\nMore on this story\n\nCount Binface receives over a quarter of votes in Clacton by-election Published 14 August\n\nFarage's by-election victory won't stop questions about finances Published 14 August",
       "imageWidth": 1200,
       "imageHeight": 675
-    },
-    {
-      "id": "c1ae9110a4cd176f",
-      "title": "Iran war live: Tehran says US sanctions ‘declaration of war’ on all nations",
-      "summary": "US president says Iran 'would love to make a deal, but they’re not ready to make the right deal in my opinion'.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-22T00:00:00Z",
-      "category": "Politics",
-      "region": "Middle East",
-      "labels": [
-        "Politics",
-        "Middle East"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 22,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": true
     },
     {
       "id": "2d48a953e87b1464",
@@ -549,6 +523,31 @@
       "isBreaking": false
     },
     {
+      "id": "e490b9cf5b975ac2",
+      "title": "Leicester sign Tonga hooker Moli",
+      "summary": "Prem Rugby side Leicester Tigers sign New Zealand-born Tonga international hooker Sam Moli.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9989vmgz48o",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-08-22T10:49:27Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England",
+        "Rugby"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 13,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b7d/live/c7f119b0-9e13-11f1-95e0-53a570c83624.jpg"
+    },
+    {
       "id": "7854e387f7e3e5e8",
       "title": "High court allows rugby brain injury case to go on",
       "summary": "The cases of hundreds of players in rugby's multi-million-pound concussion legal battle allowed to continue after High Court ruling.",
@@ -596,30 +595,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e786/live/46428dd0-9d74-11f1-8aa1-c3c0b3f36f05.jpg"
-    },
-    {
-      "id": "10a1f8a8afc7c93d",
-      "title": "Exeter lock Zambonin to miss start of new season",
-      "summary": "Exeter Chiefs' Italy international lock Andrea Zambonin is set to be out until the end of November following shoulder surgery.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cpd7w9l9n2eo",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-08-21T10:09:21Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae0/live/d1542850-9d3f-11f1-bc05-aff3aa1f91c7.jpg"
     },
     {
       "id": "eadb3c0094cab86e",
@@ -673,14 +648,14 @@
       "isBreaking": false
     },
     {
-      "id": "ebbe2deb426492bc",
-      "title": "England player ratings: Tongue, Robinson share top spot and a ball",
-      "summary": "We rate England's players after the thumping innings win over Pakistan at Headingley as Joe Root's side took a 1-0 lead in the three-match Test series...",
+      "id": "7342bcacbc13fc7e",
+      "title": "Antonelli to take Monza grid penalty for engine change",
+      "summary": "World championship leader Kimi Antonelli will take a grid penalty at the upcoming Italian Grand Prix, Mercedes team principal Toto Wolff has confirmed.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/cricket/news/12040/13575577/england-player-ratings-ollie-robinson-and-josh-tongue-take-top-marks-after-three-day-victory-over-pakistan-in-first-test",
+      "url": "https://www.skysports.com/f1/news/12040/13575701/kimi-antonelli-to-take-grid-penalty-at-italian-gp-in-monza-for-engine-change-mercedes-boss-toto-wolff-confirms",
       "source": "Sky Sports",
       "publisher": "Sky Sports",
-      "published": "2026-08-22T07:00:00Z",
+      "published": "2026-08-22T12:30:00Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -690,21 +665,21 @@
       "sourceWeight": 3,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 26,
+      "wordCount": 23,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-josh-tongue-england-test-cricket_7327599.jpg?20260821191724"
+      "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-kimi-antonelli-mercedes_7327986.jpg?20260822120630"
     },
     {
-      "id": "38a004e81712a051",
-      "title": "Today on Sky Sports Racing: Lazy Griff bids to bounce back at Chester",
-      "summary": "We have a busy day's racing on Saturday with action from Chester, Lingfield and Newton Abbot, live on Sky Sports Racing...",
+      "id": "b613a44cabc07a9f",
+      "title": "Australia skittle Bangladesh for 64 before slumping with the bat",
+      "summary": "Australia torpedoed Bangladesh for just 64 before slumping to 165-8 with the bat themselves on a frantic 18-wicket opening day of the second and final Test in Mackay.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/racing/news/12040/13575160/today-on-sky-sports-racing-chester-lingfield-and-newton-abbot-feature-live-on-saturday",
+      "url": "https://www.skysports.com/cricket/news/12040/13575728/australia-skittle-bangladesh-for-64-before-slipping-to-165-8-in-reply-on-18-wicket-opening-day-of-second-test",
       "source": "Sky Sports",
       "publisher": "Sky Sports",
-      "published": "2026-08-22T07:00:00Z",
+      "published": "2026-08-22T10:55:00Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -714,21 +689,21 @@
       "sourceWeight": 3,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 21,
+      "wordCount": 28,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://e0.365dm.com/25/05/1920x1080/skysports-chester-may-festival_6908215.jpg?20250506161056"
+      "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-australia-test-cricket_7327914.jpg?20260822105447"
     },
     {
-      "id": "0ed87af1d6769fc3",
-      "title": "Dutch GP Sprint: Russell on pole from Norris for 11am race LIVE!",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.skysports.com/f1/live-blog/12040/13575287/f1-dutch-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-zandvoort-race-weekend",
+      "id": "3fd134e72f93619d",
+      "title": "Promising signs for new England but Pakistan absolutely dire",
+      "summary": "Joe Root's return match as England Test captain could hardly have gone better - a three-day win and a weekend off.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.skysports.com/cricket/news/12040/13575703/england-vs-pakistan-joe-roots-captaincy-and-harry-brooks-maturity-promising-for-hosts-in-first-test-as-tourists-outclassed",
       "source": "Sky Sports",
       "publisher": "Sky Sports",
-      "published": "2026-08-22T09:45:00Z",
+      "published": "2026-08-22T12:00:00Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -738,11 +713,11 @@
       "sourceWeight": 3,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 0,
+      "wordCount": 20,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-f1-george-russell_7327878.jpg?20260822085553"
+      "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-joe-root-harry-brook_7327898.jpg?20260822101113"
     },
     {
       "id": "936a7aa205606d39",
@@ -874,54 +849,6 @@
       "body": "The state has given developers an unprecedented $1.4 billion, and the cost of developing each subsidized apartment has nearly doubled. But, thanks to a carve-out in its public records law, Oregon doesn’t have to provide the details of that spending.\n\nCo-published with Oregon Public Broadcasting and The Oregonian/OregonLive\n\nOregon’s spending on low-income housing has exploded in the past five years. The state has given developers an unprecedented $1.4 billion, and the cost of developing each apartment has nearly doubled, to $540,000. Dozens of projects are lined up for an additional $850 million in future state funding. Federal tax credits, which the state oversees, will bring even more money to bear.\n\nYet one thing has remained constant: The public isn’t allowed to see the details of how all these dollars are being spent.\n\nOregon is one of the only states in the country with a carve-out in its public records law that prevents disclosing the financial details of subsidized housing projects, thwarting researchers and journalists who have tried to examine their costs.\n\nThe issue is especially pressing in the Pacific Northwest, where leaders have tied the lack of affordable housing to the region’s dire homelessness crisis. Understanding and controlling the cost of construction could make it possible, with the same amount of money, to either build more rent-restricted apartments or to discount rents more steeply.\n\nMargaret Van Vliet, a former director of Oregon’s state housing agency, told ProPublica that lawmakers should revisit the exemption. Despite all the state’s spending on housing, Oregon’s homeless population continues to grow.\n\n“For all the public money, we seem to be digging a deeper hole,” Van Vliet said.\n\nIn other states, researchers and journalists have used developers’ financial records to investigate spiraling costs of subsidized housing.\n\nLos Angeles Times reporters in 2020 revealed that the cost of some low-income housing units in California had grown to more than $1 million each , driven in part by government rules that pushed construction prices higher. The Times found that 12,000 more low-income families could have received homes between 2011 and 2015 had costs been as low as they were elsewhere.\n\nResearchers from the University of California, Berkeley showed earlier this year that California was spending $300 million a year just in development fees on subsidized housing, enough to have financed another 1,250 apartments each year. In July, California Gov. Gavin Newsom signed legislation that aims to slash those fees.\n\nA study published last year and co-authored by Jason Ward, an economist who directs the nonpartisan Rand Corp.’s Housing Center, compared the costs of constructing subsidized housing among California, Texas and Colorado, finding that California’s highest-in-the-nation prices were driven by requirements to pay “substantially above-market wages and unusually large architectural and engineering fees.”\n\nIf California had Colorado’s production costs, the study found, it could have built four times as many rent-subsidized apartments.\n\nThose types of analyses are impossible to perform in Oregon.\n\n“For all the public money” spent on housing, “we seem to be digging a deeper hole.” Margaret Van Vliet, former director of Oregon’s state housing agency\n\nWard said Oregon’s secrecy is difficult to defend. He said cost information about subsidized housing is typically public. In his research, he said, he’s gotten such data from 17 states and been denied it only in New Jersey.\n\n“When you’re just looking at how public funds are used, there should be an incredibly strong bias towards transparency,” he said. “And when you see costs going up and up and up and the outcomes aren’t good, there’s an almost unqualified public case that these things should be open to scrutiny by taxpayers, policymakers, the media, whomever.”\n\nOregon’s Legislature approved the exemption in 1997, when Oregon’s state housing agency had a staff and budget that were both one-fifth what they are today.\n\nState housing officials warned about the consequences of revealing the finances behind low-income apartment projects.\n\n“Not that we’re concerned that there’d be something in there,” Lynn Schoessler, then the deputy director of Oregon Housing and Community Services, told lawmakers in a public hearing.\n\nBut Schoessler said there could be problems if the public were allowed to see detailed financial information that developers submit to the state while applying for funding. Disclosing the records might “give somebody an indication whether this corporation was ripe for takeover or a buyout or whatever,” Schoessler said in a hearing. “So we’re concerned on the corporate level.”\n\nLawmakers almost unanimously agreed to exempt the records from disclosure.\n\nNot all details about subsidized housing in Oregon were made secret.\n\nThe Portland area’s regional government, which manages a local low-income-housing bond, publishes the costs of projects the bond has funded, showing some units have reached $900,000 apiece. And fine-grained cost information may be obtained, on request, if the project is run by a public housing authority like Portland’s. But these account for just 20% of the subsidized housing units that Oregon is building. The bulk are sponsored by private developers and funded through the state housing finance agency, Oregon Housing and Community Services.\n\nAlthough the state agency will divulge how much a developer said a project would cost when it applied for funding, it redacts the itemized expenses — things like the costs of construction materials, the contractor’s profits or the fees paid to lawyers, brokers, loan agents, developers and the state agency itself.\n\nA spokesperson said the agency knows the cost per unit, per square foot and per bedroom for each development it has subsidized. But the state said that information, which would allow the public to see which projects were the most expensive, is not subject to disclosure.\n\nOregon has a sunshine committee that reviews public records exemptions and identifies ones that should be rolled back. Charlie Fisher, its co-chair, said the committee should examine the low-income housing carve-out.\n\n“Verifying how public dollars are being spent, especially at this scale, is one of the fundamental reasons why people should have access to public records,” Fisher said. “Given the amount of money we’re talking about, the case is even stronger.”\n\nThe secrecy mandate in state law shrouds more than just the financial details of a project.\n\nWhen we requested financial records for three apartment projects around Portland, the agency redacted a list of languages spoken by the tenants that a developer hoped to attract. In application material for that developer’s project, the agency also redacted the plan for translating tenant outreach brochures from English. And it blacked out an explanation of any financial risks the project might face, along with the developer’s plan for covering cost overruns.\n\nIt turns out that the developer, in this case, was Home Forward, the Portland housing authority. The local agency released a copy of its application material to ProPublica without redactions, revealing mundane details the state had tried to keep secret. Here’s a sample of what Home Forward identified as the project’s financial risks: “market volatility, site-specific challenges, and unforeseen design modifications. Economic factors such as inflation, material price fluctuations, and labor shortages could impact overall construction costs.”\n\nA spokesperson for the state said the information about languages and financial risks was redacted because the public records exemption shields “market studies and analyses” as well as pro forma statements, which show a development’s anticipated cash flows.\n\nAndrea Bell, the state housing agency’s director, said in an emailed statement that she is committed to transparency and expects her agency to be open, accessible and accountable to the public. But she said she takes seriously the agency’s responsibility to comply with the exemption in Oregon records law for housing financials.\n\nAsked to comment on whether she supported the exemption and thought it was necessary, Bell said in a statement: “The cost of construction is a topic of growing interest. We will take your request under consideration as we assess ways to proactively share construction costs so that they are more readily available to the public.”\n\nIn the meantime, the agency charged ProPublica $130 for the cost of collecting and redacting the documents it provided us. It denied our request to waive the fees, saying that “the interest of the general public would be better served by preserving public resources.”\n\nTransparency hasn’t slowed development in other West Coast states.\n\nRead More\n\nIn California, where the financial details of housing projects are public records, the funding remains highly competitive, with more than half of shovel-ready applications being turned away because demand exceeds available funding. “We have not encountered any difficulty in developing affordable housing because those documents are public,” said a spokesperson for the California state treasurer’s office.\n\nIn Washington state, officials have repeatedly released financial information about the housing projects they’ve funded to developers, researchers, media and other members of the public. A housing official there said developers know the information is open to the public, and it hasn’t been an issue.\n\nProPublica asked the Washington counterpart of Oregon Housing and Community Services for financial documents for three projects around Seattle. They were released without redactions — and for free."
     },
     {
-      "id": "4b06c906b405236a",
-      "title": "World Hunger and Starvation Have Reached a Crisis Level",
-      "summary": "The Trump administration has tried to eliminate all U.S. food assistance. The post World Hunger and Starvation Have Reached a Crisis Level appeared first on Foreign Policy In Focus .",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://fpif.org/world-hunger-and-starvation-have-reached-a-crisis-level/",
-      "source": "Foreign Policy in Focus",
-      "publisher": "Foreign Policy in Focus",
-      "published": "2026-08-21T15:51:51Z",
-      "category": "Editorial",
-      "region": "US",
-      "labels": [
-        "Editorial",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "editorial",
-      "wordCount": 1026,
-      "readingMinutes": 5,
-      "isShort": false,
-      "isBreaking": false,
-      "body": "Shutterstock\n\nStarvation is a particularly cruel and horrible way to die. Beginning with intense hunger and pain and followed by exhaustion and mental deterioration, starvation continues with the body gradually consuming its own tissues on a downward spiral toward death.\n\nThe major safeguard against mass starvation around the globe is the World Food Program (WFP), which received the Nobel Peace Prize in 2020 for its vital humanitarian work. With hundreds of millions of people in jeopardy thanks to poverty, famines, violent conflict, and extreme weather, this UN agency distributes massive quantities of food aid―last year alone, reaching more than 100 million people facing acute hunger―thereby saving millions of lives.\n\nBut with the advent of the second Trump administration in January 2025, the WFP, which in 2024 received nearly half of its funding from the U.S. government, entered a period of crisis that has only deepened in the months since then.\n\nOn his first day in office, President Donald Trump signed an executive order freezing all U.S. foreign assistance, declaring that the “foreign aid industry and bureaucracy are not aligned with American interests and in many cases [are] antithetical to American values.” Within short order, the DOGE operation of multibillionaire Elon Musk terminated the U.S. Agency for International Development (USAID), which provided the bulk of U.S. overseas humanitarian aid to impoverished nations. Calling USAID a “criminal organization,” Musk declared that it was “time for it to die.”\n\nEmergency food assistance, a component of U.S. foreign aid, was a key administration target. In April 2025, the Trump administration ended funding to the WFP for food programs in 14 of the world’s most impoverished nations. Responding to the action, the WFP warned that “this could amount to a death sentence for millions of people facing extreme hunger and starvation.”\n\nIn response to sharp public criticism of the cutbacks, some of the food aid cuts were restored . And in June 2025, the administration suddenly gave the WFP an $800 million grant . Although these actions brought total U.S. overseas food aid for 2025 to about $2 billion, during the final year of the Biden administration the U.S. contribution to the WFP had been $4.5 billion .\n\nThanks almost entirely to the shift in U.S. policy, the WFP experienced a 40 percent drop in funding during 2025.\n\nThe results of the financial cutbacks were horrific. In Kenya , where the Trump administration abruptly ended all U.S. funding for WFP operations, there resided about 720,000 refugees, among the most vulnerable people on earth. Although aid workers and local U.S. officials repeatedly appealed for a renewal of U.S. food assistance, none was forthcoming. As a result, a ProPublica study reported, the refugees “began to starve, and many―mostly children―died because their malnourished bodies couldn’t fight off infections.” In these circumstances, “mothers had to choose which of their kids to feed. Young men took to the streets in protests, some of which devolved into violent riots. Pregnant women with life-threatening anemia were so desperate for calories that they ate mud.”\n\nElsewhere, too, the situation grew increasingly desperate . In numerous impoverished nations where special packets of food paste had been distributed to 9.3 million children on the brink of starvation, the packets virtually disappeared. In one region of Nigeria alone, 150 clinics, operated by the WFP and providing nutrition treatment for 300,000 children below the age of two, shut down in July 2025.\n\nNot surprisingly, acute food insecurity rose among people around the world , including an estimated 118 million children .\n\nMeanwhile, the Trump administration pressed for further cuts in overseas U.S. food aid . Trump’s FY 2026 budget proposal, advanced in May 2025, called for the elimination of two long-established U.S. ventures partially channeled through the WFP—the Food for Peace program and the McGovern-Dole child nutrition program. But, as things turned out, Republican legislators with agricultural constituencies blocked the move. Anxious to keep farmers happy by providing a market for their excess commodities distributed through the programs, they joined Democrats in re-enacting both of them, though with a 23 percent cut in funding .\n\nThe Trump administration, however, remains determined to destroy what’s left of the existing U.S. government overseas food assistance program. In April 2026, its FY 2027 budget proposal called for the total elimination of the Food for Peace and the McGovern-Dole programs. For the first time since the establishment of the World Food Program in 1961, no U.S. funding has been earmarked for that UN agency,\n\nInstead, this August, probably to deflect public criticism and win favor with Trump’s religious base, the administration announced a new initiative for distribution of overseas humanitarian aid under the direction of Christian organizations. Compared to the U.S. government’s humanitarian aid of the past (e.g., $8 billion in 2024 ), the total funding was minuscule: $2 billion over five years . Moreover, although the new program would apparently provide some food assistance, it wouldn’t amount to much, as nearly three-quarters of the total funding was allocated for healthcare.\n\nNaturally, thanks to the collapse of traditional U.S. food assistance policy, world hunger and starvation have soared. According to the WFP , “a staggering 266 million people are . . . facing crisis levels of hunger or worse” in 2026. Meanwhile, “severe funding shortfalls are forcing WFP to scale back assistance,” and “lost lives . . . will be the price to pay.”\n\nClearly, a new direction is needed to avert massive human suffering and death. In the immediate future, other wealthy nations could step up to fill the funding gap left by the Trump administration. Longer term, the United Nations and its agencies could be provided with an independent source of income, thereby ending their dependence on the whims of individual nations―especially those nations directed by people so fantastically wealthy that they lack any comprehension of hunger and its effects.\n\nUntil remedial action is taken, however, world hunger and starvation will continue as a disgrace to humanity.\n\nShare this:\n\nPrint (Opens in new window) Print\n\nTweet\n\nShare on Bluesky (Opens in new window) Bluesky\n\nEmail a link to a friend (Opens in new window) Email"
-    },
-    {
-      "id": "8b7686dc3840ceb9",
-      "title": "Europe Is Embracing Green Protectionism — At the Cost of a Global Green Transition",
-      "summary": "Developed countries pledged to support poorer countries in their green transitions. Under a new EU policy, they’re applying penalties instead — and the U.S. may follow suit. The post Europe Is Embracing Green Protectionism — At the Cost of a Global Green Transition appeared first on Foreign Policy In Focus .",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://fpif.org/europe-is-embracing-green-protectionism-at-the-cost-of-a-global-green-transition/",
-      "source": "Foreign Policy in Focus",
-      "publisher": "Foreign Policy in Focus",
-      "published": "2026-08-20T17:30:52Z",
-      "category": "Editorial",
-      "region": "US",
-      "labels": [
-        "Editorial",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "editorial",
-      "wordCount": 1397,
-      "readingMinutes": 7,
-      "isShort": false,
-      "isBreaking": false,
-      "body": "The port of Barcelona, Spain (Shutterstock)\n\nThe world needs to burn less carbon. But while many countries have moved to limit the emissions produced within their own borders, some are also grappling with the emissions produced by their imports. The resulting policies walk a line between environmentalism and protectionism — and may end up punishing some of the Global South countries most impacted by, yet least responsible for, climate change.\n\nThis year, the EU began imposing the world’s first carbon border adjustment mechanism (CBAM): essentially a tariff on imported products that have carbon-intensive production, matching the EU’s existing internal carbon restrictions that put a price on carbon emissions. Following a three-year transition period when importers reported their emissions, 2026 marked the start of the carbon tax — and the renewal of a debate on equity in climate justice.\n\nCBAM proponents have touted it as a necessary measure to advance environmental objectives, leading to similar proposals in the United Kingdom and the United States. Its critics, on the other hand, have expressed concern about economic consequences that will be primarily borne by developing countries.\n\nGreen Protectionism\n\nIn its current phase, CBAM targets specific high-emitting sectors: cement, aluminium, fertilizers, iron and steel, hydrogen, and electricity. The carbon tax operates in accordance with the EU Emissions Trading System (EU ETS), a form of cap and trade applied within the EU.\n\nThe EU’s cap and trade system puts a maximum cap on carbon emissions and has emitters purchase allowances to cover emissions, which can then be traded by allowance holders. With CBAM, EU importers must purchase CBAM certificates at the price of EU ETS allowances, effectively applying the existing EU standard for the cost of emissions onto non-EU states.\n\nIn the context of the EU’s climate goals, CBAM primarily serves to address carbon leakage, where emissions are directed to countries with fewer environmental regulations instead of being meaningfully reduced — either by businesses offshoring carbon-intensive processes or by increasing high-emission imports to avoid costs incurred by adhering to domestic emission-cutting efforts.\n\nAs a result, CBAM has also been promoted as a measure to protect the competitiveness of industry in the EU. In this sense, CBAM is as much a matter of trade policy as it is environmental, with the former becoming the main target of international condemnation. The current structure of CBAM as a protectionist policy produces a zero-sum relationship between the economic competitiveness of the EU and exporting countries, disproportionately harming those in the Global South.\n\nPenalizing Poor Countries\n\nCBAM presents exporting countries with a choice: reduce production emissions or face sharp economic consequences. The problem here is not pressuring other countries to commit to reducing emissions, but that the application of CBAM does not acknowledge varying capacities to accomplish this.\n\nPenalizing countries that do not have the financial means to rapidly transition to lower-emission infrastructure, and consequently reduce production emissions, only perpetuates the economic inequality that restricted them to begin with.\n\nThere are massive infrastructure costs for transitioning to low-emission technology, which developing countries have difficulty accommodating. And the Global North hasn’t made it easy to access this technology either. Environmentally sustainable technologies get locked behind patents with costly licensing and limited resources to implement.\n\nThere are further logistical issues that complicate the adjustment to CBAM for all exporters, such as calculating and reporting emissions, which pose a particular threat to smaller firms. While enforcing this may be a headache for wealthy and low-income countries alike, the financial strain felt by poorer countries is further compounded. Exporters could respond by exacting retaliatory policies , but poorer countries have less leverage to do this effectively.\n\nCBAM also incentivizes exporting countries to strengthen their own domestic carbon markets to avoid incurring a fee through CBAM once products reach importers. CBAM stipulates that carbon prices paid prior to importing can be deducted, meaning countries with an existing robust emissions trading system can better mitigate potential losses. China, for example, can reduce losses by 30-60 percent under its carbon pricing scheme. Countries with weaker systems or none at all, however, are left at a steep disadvantage .\n\nTrading Aid for Tariffs\n\nImposing a tariff in the name of climate justice is not only discriminatory, but deeply hypocritical for the Global North.\n\nDeveloped countries, including both the EU and its member states, have failed to deliver on their commitments to climate finance under the Copenhagen Accord, which could have supported the financial burden of transitioning to green technologies. Developed nations pledged to provide $100 billion annually to support developing countries in combating climate change. Though they agreed to hit this target by 2020, this promise has been left unfulfilled year by year.\n\nEven after the OECD reported that the $100 billion goal was finally met in 2022, donor countries received backlash for providing loans and not grants. EU member states France, Austria, and Spain heavily rely on loans as a form of financing, which risks debt-trapping developing countries and jeopardizes the long-term maintenance of a green transition.\n\nFraming CBAM as a crucial measure to uphold the Paris Agreement also reflects selective adherence to international agreements. Opponents have accused CBAM of violating Article 3.5 of the UNFCCC, which discourages climate initiatives that serve as a “disguised restriction on international trade,” especially unilateral measures. Both informal challenges and formal disputes have been brought against the EU at the WTO, following similar criticisms alleging that CBAM violates WTO rules against discriminatory practices.\n\nThe EU’s CBAM comes at a time of rising protectionist trade policy among states in the Global North. What distinguishes CBAM is its green veneer, the hallmark of green protectionism . As the EU fully rolls out CBAM, international actors look to carbon border adjustments as a model for climate policy — and the U.S. has already taken note.\n\nA Bad Model for Climate Action in the U.S.\n\nCarbon border adjustments have historically had bipartisan support in the United States.\n\nPoliticians have made no secret of the geopolitical motivations behind that support. Democratic Senator Chris Coons described the policy as a tool “that will bring us closer to our allies and disadvantage some of our adversaries,” while Republican Senator Kevin Cramer has called it an “America-first climate policy” that “Donald Trump should love.” Observers have noted that CBAM takes after Trump’s tariff policies, just with better marketing.\n\nWhile there’s been nothing “green” about the Trump administration’s aggressive tariff regime, the U.S. also has a history with green protectionism.\n\nThough the Inflation Reduction Act (IRA) under Biden was the largest U.S. climate investment in history, it was also “widely believed to be a part of the U.S. strategy to weaken China’s dominance in the green economy,” World Finance reports. The IRA greatly privileged U.S. production by providing tax credits for electric vehicles that are assembled in North America using U.S.-sourced critical minerals.\n\nThe IRA, similarly to CBAM, was met with global backlash — and also pushed other states to adopt their own protectionist policies. (The GOP’s “Big Beautiful Bill” subsequently ended the IRA’s tax credits for electric vehicles , although it preserves some favorable tax treatment for U.S.-made vehicles overall.)\n\nAttempting to address trade and climate simultaneously has led to the undercutting of progressive climate action in favor of geopolitical interests. As the country with the highest historic emissions, focusing on advancing national commercial interests while failing to provide adequate climate finance abroad reflects the continued U.S. neglect of equity in climate justice.\n\nIn Europe, CBAM normalizes exerting discriminatory unilateral measures in the name of environmentalism. It would be a mistake to replicate the model in the United States when conditions become more favorable to climate action.\n\nAs the international community grapples with the growing climate crisis, developed countries in the Global North must examine their role in supporting a global green transition. Pursuing truly progressive climate policy involves the dismantling of historic tools of empire that maintain the North-South divide, rather than utilizing them to enact discriminatory unilateral measures.\n\nUnless an equal playing field is established in the global economy, policies like CBAM will only deepen existing economic dependencies. If wealthy states are to live up to their climate commitments under international agreements, equity has to be at the forefront of their climate policy.\n\nShare this:\n\nPrint (Opens in new window) Print\n\nTweet\n\nShare on Bluesky (Opens in new window) Bluesky\n\nEmail a link to a friend (Opens in new window) Email"
-    },
-    {
       "id": "8093037de36288b8",
       "title": "Introducing Noema Issue VII: The Next Axial Age",
       "summary": "The post Introducing Noema Issue VII: The Next Axial Age appeared first on NOEMA .",
@@ -972,14 +899,14 @@
       "body": "Technologies of disruption are also the platform for social consensus.\n\nNathan Gardels is the editor-in-chief of Noema Magazine. He is also the co-founder of and a senior adviser to the Berggruen Institute.\n\nWriting in Noema , Macario Schettino has pointed out that “each previous communication-driven disruption” — the printing press, mass newspapers, TV and radio — “was eventually tamed by the same technology that caused it.” So too will that be the case with social media linked to AI.\n\nEven though we live in accelerated times, transmuting the obstacle into the way won’t happen overnight.\n\n“The Reformation required 131 years to settle into the Peace of Westphalia. The Enlightenment needed longer,” Schettino reminds us. “The mass media transition produced two world wars and a Cold War before the postwar order stabilized. The social media transition is still very young.”\n\nAs in previous cycles, the experience of turmoil is the impetus for turning the technology into a platform for forging a governing consensus that transcends divisions.\n\nHe continues:\n\nThe printing press tore the medieval frame apart through the polemical pamphlet, and then, more slowly, built the new frame through the printed treatise and the encyclopedia. The press that broke Christendom is the press that produced the Enlightenment. The early newspaper of the 18th century fed the revolutionary mood that overthrew the ancien régime ; the mature newspaper of the 19th century became the daily companion of the stable citizen-democracy of 1815 to 1914. The mass media of the interwar period — propaganda film, the demagogue’s radio voice — produced the manufactured emotion the totalitarianisms ran on; the mass media of the postwar period — broadcast television, regulated journalism, the evening news — produced the calmer national conversation the postwar order required. In each case, what initially fragmented the public sphere is what, in its maturer form, eventually rebuilt it.\n\nIf the pattern holds, the disruption caused by social media will not be resolved by abandoning social media. It will be resolved by social media’s next iteration, as shaped by artificial intelligence. We are still inside the chaotic phase, the phase that corresponds historically to the Wars of Religion or to the demagogue’s radio. The interaction of AI with social platforms could deepen the current chaos, but it is also the most plausible candidate to eventually tame the disorder. The new transcendent framework, whatever its content, will not arrive in spite of these technologies. It will arrive through them.\n\nInfrastructure Already Exists\n\nThe challenge today, which goes beyond the communication disruptions of the past, is the unprecedented scale of connectivity and global scope of our densely wired societies supercharged by generative AI. That extant infrastructure, still evolving and unsettled, is both the territory of contestation and the ground for resolution. Since it is the general public whose information is being transformed by algorithms into the productive capacity of the future, reaching social consensus means they must have a say in its ultimate use.\n\nAs Hélène Landemore writes in Noema :\n\nOpenAI reported 900 million weekly active ChatGPT users in February and crossed a billion monthly users in June. Google went from 400 million to more than 900 million monthly active Gemini users on a similar timeline. Meta AI reported a billion monthly users as well. No government, broadcaster or international body has ever had standing, two-way contact with such a huge portion of humanity simultaneously.\n\nUsing these companies’ best models to ask everyday people urgent questions about AI — What do you want this technology to do for you, if anything? What should it never be allowed to do? Who should govern this technology and according to what principles? — is not a thought experiment about hypothetical capacity. The infrastructure to ask hundreds of millions of people or more the same question in the same week already exists. …\n\nRight now, the people best placed to actually facilitate a global deliberation on AI may not be elected leaders and heads of governments, but the heads of the companies building this technology.\n\nLarge language models alone, despite their scope, cannot serve as representative of humanity’s interests because of the limits of their training data.\n\nLandemore notes a recent investigation by The Economist comparing the apparent values of 25 frontier AI models to those featured in the World Values Survey (WVS). The study found that “the models often hold values more extreme than the average respondent in the 88 countries surveyed by the WVS — in some cases more secular or more individualist than any society on Earth — and that they tend to compress the world’s moral diversity. If we ran humanity’s input through such models unchecked, the ‘global’ constitutional baseline would risk becoming that of one narrow cultural corner.”\n\nAs with AI processes in general, hallucinations, false impressions and eclipsed information in frontier models need what technologists call “ reinforcement learning from human feedback ” as a corrective. For the larger society, that means inviting public deliberation into what up to now has been the domain of the Big Tech elites and their algorithmic agents. Read Noema in print.\n\n“The real issue is thus one of representativeness and accountability,” Landemore argues. For that reason, “we should embrace a mixed solution that would layer a multi-year deliberative process centering human arguments and justifications on top of LLM-mediated consultations that would provide a necessarily imperfect but quickly available and rich enough starting point for them. This mixed approach could be done at different speeds, in three tiers — each adding back a piece of what the fastest option alone would lack: an independent record to hold the process accountable, and a wider range of minds to catch what a narrower one would miss.”\n\nLandemore explains her approach:\n\nThe first tier, an LLM-mediated global consultation, could produce an interim draft within months: a minimal, broadly endorsed statement of what a large fraction of the world population wants this technology to do — and never do. Run well, this tier would need not flatten its results into a single global average. It could also be broken out by region, so the consultation would surface areas where preferences genuinely diverge — say, between a Western emphasis on individual data privacy and precautionary restriction, and a data-sovereignty and development-first framing more common in Africa and India — rather than papering over real disagreement in pursuit of a tidy global consensus.\n\nThe second tier would be more logistically demanding and slower to organize, but still fast enough to fit the timeline at hand: an actual online global deliberation, with participants interacting with each other in real time rather than only with an AI, mediated by AI facilitators. This would produce a richer text than the first tier alone, testing and presumably sometimes replacing the recommendations that emerged from the LLM-aggregated input and making sure the LLM-provided justifications are enriched, corrected and checked by actual humans.\n\nIn effect, this is what Engaged California , an AI-assisted platform for public deliberation hosted by the state Office of Data and Innovation, is doing on precisely the topic of AI’s impact on work and society. Landemore continues:\n\nThe third tier would reach deeper still into humanity’s social fabric. We could hold local and national citizens’ assemblies on key issues in every country and region, both in person and online, ideally combined with referenda where possible, then feed the results into a concluding global citizens’ assembly that could ratify, amend or supersede the earlier floors as time allows. If the clock turns out to be as short as feared, we would not be left with nothing. If it turns out to be longer, the deeper, slower tiers would simply take over before the first floor ever hardens into something unexamined.\n\nIn her essay, Landemore appeals directly to the tech elite with the challenge of putting their compute where their oft-cited concerns are.\n\nA Direct Appeal To Anthropic, OpenAI And Meta\n\nLandemore goes on:\n\nTo Dario Amodei, CEO of Anthropic: Your own researchers already proved the first tier can work, and that it can scale. In 2023, Anthropic and the Collective Intelligence Project sourced constitutional principles from roughly 1,000 ordinary Americans, tested and refined a real model on those principles, and found that in some areas, this resulted in less biased outputs than those of the standard, internally authored model. This is evidence that public input doesn’t just confer legitimacy, it can make a model better. In 2025, Anthropic used an AI interviewer to ask nearly 81,000 Claude users across 159 countries and 70 languages in a single week how they use AI and what they hope to use it for, among other questions.\n\nWhat’s missing isn’t proof of concept. It’s the will to use it. In January, Anthropic published a new “ Constitution ” for Claude, written the same way its old one was: by a small internal team, with input from the model itself and a handful of outside experts, but not from the tens of millions of people that model now talks to. Open the next revision to the people who live with its consequences and help bring about a global consultation on AI.\n\nIt is a good sign that Tino Cuéllar, Anthropic’s new chief global affairs officer, has said out of the gate that “democracies must set the terms on which this technology advances.” A former California Supreme Court justice, Cuéllar was a key figure in designing Engaged California.\n\nTo Sam Altman, CEO of OpenAI: I was an advisor to OpenAI’s 2023 Democratic Inputs to AI program , which funded 10 teams, selected from nearly 1,000 applicants, to prototype ways of soliciting public input on issues relating to the use of AI. This never amounted to anything close to what OpenAI’s reach could support. Finish what you started, at the scale this moment demands, with resources commensurate with what you yourself keep saying is at stake.\n\nTo Mark Zuckerberg, CEO of Meta: Your Community Forum on Cyberbullying in the Metaverse — run in 2022 with Stanford’s Deliberative Democracy Lab and the Behavioral Insights Team — was a preview of what the second tier could be. It gathered input from small-group online deliberations among nearly 6,500 people across 32 countries in 2022 on the issue of harassment occurring within your virtual reality platform. In 2023 and 2024, you ran two other Community Forums on the very issue of generative AI — soliciting people’s considered opinions on things like AI chatbots’ transparency with users, cultural sensitivities and data retention — gathering each time more than 1,000 participants from multiple countries in both the West and the Global South. You proved that public deliberation can work at a large scale. With Meta AI now reaching roughly a billion people a month, it’s time to redo the Community Forums on AI at that scale — not as a couple of one-off pilots measuring sentiment, but as a standing global institution that democracies have never had the tools to build.\n\nLandemore closes her essay with a broader appeal to all those who are moving fast and breaking things, leaving the detritus of social fragmentation scattered around as fodder for reactionary politics that thrives on the dislocations of disruption:\n\n“To every other tech leader in the U.S., China and beyond who is willing to put real resources behind this cause: Help bring democratically written global and local constitutions on AI into being, because right now no government is moving fast enough, or has the will or standing, to do it alone.”"
     },
     {
-      "id": "98c15b44e55945c9",
-      "title": "U.S.-Canada trade talks collapse minutes before deadline for tariffs to take effect",
-      "summary": "Trade negotiations between the United States and Canada fell apart on Friday night, shortly before a midnight deadline for 50% tariffs to take effect on $20 billion worth of Canadian products.",
+      "id": "4ffeb2cea6f0526d",
+      "title": "Week in Politics: Canada talks collapse; U.S. 'Economic D-Day; record national debt",
+      "summary": "Trade talks with Canada collapse hours before a new tariff deadline. President Trump threatens Iran with an \"Economic D-Day\" the same week the U.S. national debt surpassed $40 trillion.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5937895/week-in-politics-canada-talks-collapse-u-s-economic-d-day-record-national-debt",
       "source": "NPR Politics",
       "publisher": "NPR",
-      "published": "2026-08-22T04:36:27Z",
+      "published": "2026-08-22T11:43:25Z",
       "category": "Politics",
       "region": "Canada",
       "labels": [
@@ -989,14 +916,11 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 31,
+      "wordCount": 30,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2523x1682+0+0/resize/2523x1682!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F15%2Fc487165c448d8e4448e1b79c9afc%2Fap26234112017787.jpg",
-      "imageAlt": "President Donald Trump walks on the Ellipse as he arrives on Marine One near the White House, Friday, Aug. 21, 2026, in Washington.",
-      "imageWidth": 2523,
-      "imageHeight": 1682
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5937895"
     },
     {
       "id": "470ba1abc3cb4e7d",
@@ -1021,7 +945,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f723/live/49cf9570-9dd2-11f1-b2b6-cb5bce61ac4a.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nPresident Donald Trump has been lashing out at reporters, often female journalists, when confronted with questions he does not like to answer.\n\nThe BBC's Tom Bateman takes a look at what triggers these public insults, and what are the questions the president doesn’t want to be asked.\n\nSubsection US & Canada\n\nPublished 6 hours ago\n\nRelated topics\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUnited States Follow United States close panel You are now following United States Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nPresident Donald Trump has been lashing out at reporters, often female journalists, when confronted with questions he does not like to answer.\n\nThe BBC's Tom Bateman takes a look at what triggers these public insults, and what are the questions the president doesn’t want to be asked.\n\nSubsection US & Canada\n\nPublished 10 hours ago\n\nRelated topics\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUnited States Follow United States close panel You are now following United States Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1205,6 +1129,33 @@
       "imageHeight": 630
     },
     {
+      "id": "bf0caca9e0dddef4",
+      "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
+      "summary": "The midnight deadline means the U.S. has imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada \"will match those tariffs dollar for dollar.\"",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+      "source": "NPR Politics",
+      "publisher": "NPR",
+      "published": "2026-08-22T04:36:27Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 31,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2523x1682+0+0/resize/2523x1682!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F15%2Fc487165c448d8e4448e1b79c9afc%2Fap26234112017787.jpg",
+      "imageAlt": "President Trump walks on the Ellipse as he arrives on Marine One near the White House on Friday.",
+      "imageWidth": 2523,
+      "imageHeight": 1682
+    },
+    {
       "id": "a3a43e2372fe1df3",
       "title": "Sánchez holds himself accountable for LF mistakes; Vladdy to begin rehab games",
       "summary": "This feed supplied a headline but no article summary.",
@@ -1305,6 +1256,33 @@
       "imageAlt": "President Trump displays a rendering of his proposed $250 million White House ballroom on Oct. 22, 2025.",
       "imageWidth": 3282,
       "imageHeight": 2188
+    },
+    {
+      "id": "80aa7dbd36fc00b8",
+      "title": "Chinese regulators tell Tesla to fix nearly 3 million cars",
+      "summary": "Chinese safety regulators have cracked down on doors that don't open in a crash.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-08-21T18:07:15Z",
+      "category": "Tech",
+      "region": "China",
+      "labels": [
+        "Tech",
+        "China"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 339,
+      "readingMinutes": 2,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2290777035-1152x648.jpg",
+      "body": "Chinese safety regulators have cracked down on doors that don’t open in a crash.\n\nTesla is facing a massive recall in China today. Chinese regulators are taking a stricter approach to safety, and the automaker now has to add warning labels to 2.98 million Model 3 and Model Y electric vehicles in China that make it clearer how to open the rear doors in the case of an emergency that causes the car to lose power.\n\nAs we learned earlier this year , Chinese regulators are getting more serious about the recent trend of electronically controlled car doors; a growing number of crashes have had fatal consequences when the occupants have been trapped in burning cars. Starting next year, new rules give specific dimensions for handles that must be followed by all newly approved vehicles. But cars that have already been on sale for some time, like the Models 3 and Y, are grandfathered in, at least until the end of 2028.\n\nBut China wants Tesla to do something about the nearly 3 million cars already on its roads. It is requiring the automaker to add warning labels to the car interiors—something that will require physical access to the car. Additionally, Tesla will push out a software update that automatically lowers all the cars’ windows in the event of a collision.\n\nTesla is also facing a second Chinese recall, this one only affecting 2.74 million cars. These require new software for their driver monitoring system, which currently only uses a torque sensor on the steering wheel to determine if the driver is holding the wheel and remaining engaged in the task of driving. Now, the update will leverage the interior camera in the Models 3 and Y to track the driver’s gaze instead.\n\nHowever, Electrek has previously reported that Chinese Tesla owners have been able to defeat the cabin driver monitoring system—which it has rolled out to customers with its more advanced partially automated driving system—by mounting a doll’s head in front of the camera.",
+      "imageWidth": 1152,
+      "imageHeight": 648
     },
     {
       "id": "6b1b28aec6a4d5d7",
@@ -1484,6 +1462,30 @@
       "isBreaking": false,
       "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7749x5204+0+0/resize/7749x5204!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F53%2F25%2F8320060943b1b033b55c2310f69c%2Fgettyimages-2285911393.jpg",
       "imageAlt": "President Trump speaks as Bud Denker, president of the Penske Corp., also in a suit and tie, applauds at a Freedom 250 Grand Prix showcase outside the White House in July."
+    },
+    {
+      "id": "10a1f8a8afc7c93d",
+      "title": "Exeter lock Zambonin to miss start of new season",
+      "summary": "Exeter Chiefs' Italy international lock Andrea Zambonin is set to be out until the end of November following shoulder surgery.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cpd7w9l9n2eo",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-08-21T10:09:21Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae0/live/d1542850-9d3f-11f1-bc05-aff3aa1f91c7.jpg"
     },
     {
       "id": "1fcb4dae4178bc72",
@@ -1894,6 +1896,54 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5930693"
+    },
+    {
+      "id": "497ceb3eddbff29b",
+      "title": "Taxi drivers urge council to agree 8% fare hike",
+      "summary": "Taxi fares could rise by 8% to help drivers combat rising fuel prices and the cost of living.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nlyxrz51o",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-08-22T10:53:26Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c6/live/b26db490-9d73-11f1-bdcc-8926c4a74c43.jpg"
+    },
+    {
+      "id": "364acd24914b12fa",
+      "title": "Putting mice into hibernation causes a major loss of synapses",
+      "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-08-22T11:22:32Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 12,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-535196267-1152x648.jpg"
     },
     {
       "id": "4d48cc59c837e776",
@@ -2454,6 +2504,29 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eaf0/live/4b7dd670-9c79-11f1-a291-b542ee92de7c.jpg"
     },
     {
+      "id": "411f38d44acb1597",
+      "title": "Chinese robot beats Usain Bolt's 100m world record",
+      "summary": "The Chinese humanoid robot \"Lightning\" ran a 100-meter trial race faster than human world-record holder Usain Bolt. A year ago, humanoid robots struggled to finish a race.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-22T12:41:00Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 27,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "214b9d268b058a10",
       "title": "Wales appoint Leicester's Davies as kicking coach",
       "summary": "Alex Davies joins Steve Tandy's Wales management team as kicking coach after leaving Leicester.",
@@ -2500,6 +2573,102 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae29/live/a71ff590-9d9a-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "id": "a3ec5bf892804e35",
+      "title": "Bipartisan spending pushes U.S. national debt past the historic $40 trillion mark",
+      "summary": "The national debt reached $40 trillion this week. It's an eye-popping figure -- one that has grown as the influence of debt and deficit hawks has receded in Congress.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5939552/bipartisan-spending-pushes-u-s-national-debt-past-the-historic-40-trillion-mark",
+      "source": "NPR Business",
+      "publisher": "NPR",
+      "published": "2026-08-22T11:43:32Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 28,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5939552"
+    },
+    {
+      "id": "eb106a1ca39746d4",
+      "title": "Ireland below standards in World Cup loss to Scotland",
+      "summary": "Ireland coach Gareth Grundie describes the performance in the 2-1 World Cup defeat by Scotland as \"not to the standard that we'd set ourselves\".",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/hockey/articles/c20d0n3nrzyo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T12:24:58Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca7c/live/83967b70-9e22-11f1-ac9e-fff6c50f95cd.jpg"
+    },
+    {
+      "id": "e50b4f0cf76d4761",
+      "title": "CBC senior business correspondent Peter Armstrong on U.S.-Canada trade talks collapse",
+      "summary": "NPR's Scott Simon talks to Peter Armstrong, senior business correspondent at the Canadian Broadcasting Corporation, about the collapse in US-Canada trade talks.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941629/cbc-senior-business-correspondent-peter-armstrong-on-u-s-canada-trade-talks-collapse",
+      "source": "NPR Business",
+      "publisher": "NPR",
+      "published": "2026-08-22T11:43:35Z",
+      "category": "Economics",
+      "region": "Canada",
+      "labels": [
+        "Economics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5941629"
+    },
+    {
+      "id": "d80031c9a33f91a0",
+      "title": "Robot horse and rider steal the spotlight at Chinese conference",
+      "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o",
+      "source": "BBC Technology",
+      "publisher": "BBC",
+      "published": "2026-08-22T12:47:28Z",
+      "category": "Tech",
+      "region": "China",
+      "labels": [
+        "Tech",
+        "China"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8751/live/8f4be4d0-9e1a-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "id": "e9d21cbd7dcfafed",
@@ -2550,6 +2719,30 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-922788110-1152x648-1787340488.jpg"
     },
     {
+      "id": "74e37ca9046931a2",
+      "title": "Serrano draws 3.4m views on TikTok for 50th win",
+      "summary": "Amanda Serrano is made to work for her 50th career win against Lucrecia Manzur., which draws over three million views on TikTok.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/ce97kk98ey4o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T12:34:16Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f8e/live/eb6ae880-9df0-11f1-898b-91bf436c749f.jpg"
+    },
+    {
       "id": "bce315eb91bcc2c1",
       "title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
       "summary": "July data shows total public debt was £2.98tn, or 94% of GDP – up £96bn on a year earlier Business live – latest updates The UK government ran a larger-than-expected £1.8bn deficit in July, underlining the challenges facing the chancellor, John Healey, as he draws up his first budget. City economists had expected a shortfall of zero for July, a month when Treasury receipts tend to be swollen by self-assessment income tax payments. Continue reading...",
@@ -2598,6 +2791,54 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8357/live/efef0c70-9c00-11f1-a742-1b527746bd0d.jpg"
     },
     {
+      "id": "7cc059fe322b7c86",
+      "title": "Depay defends music video showing Corinthians HQ on fire",
+      "summary": "Netherlands forward Memphis Depay says having Corinthians HQ, Parque São Jorge, in flames for a music video is \"just art\".",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2l2565l90o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T12:22:26Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/178f/live/24a70990-9e13-11f1-95e0-53a570c83624.png"
+    },
+    {
+      "id": "cad161e388e7bfdc",
+      "title": "Bejlek continues stunning run to set up Gauff semi",
+      "summary": "Czech Sara Bejlek continued her stunning run at the Cincinnati Open as she upset American Madison Keys to reach her first WTA 1000 semi-final where she will face fourth seed Coco Gauff.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c9v4v8ke01xo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T10:03:42Z",
+      "category": "Sports",
+      "region": "US",
+      "labels": [
+        "Sports",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 32,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d4d/live/6f65e260-9e01-11f1-9d7c-99ef97a9447f.jpg"
+    },
+    {
       "id": "bb75045ba2a0ede4",
       "title": "Councils turn to AI in attempt to fill £4bn black hole",
       "summary": "Councils across the UK are making cuts of £3bn this financial year, despite recent funding reforms.",
@@ -2622,6 +2863,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/740e/live/615bb8c0-8f51-11f1-99e6-95543b07d23d.jpg"
     },
     {
+      "id": "d9defb12dfeb894b",
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-08-22T12:20:46Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg"
+    },
+    {
       "id": "d8561f7917008f7e",
       "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
       "summary": "The private Android-based OS will expand beyond Pixels next year.",
@@ -2644,6 +2909,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Motorola-X-GrapheneOS-1152x648.jpg"
+    },
+    {
+      "id": "f83a9020b9253068",
+      "title": "Sex toys again thrown on court during WNBA matches",
+      "summary": "Chicago Sky guard Natasha Cloud brands spectators \"weird\" for throwing sex toys on court, disrupting matches on consecutive nights in the WNBA.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/cp30e33kkxyo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T09:57:51Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a8f/live/f2c7d8f0-9e03-11f1-afde-61b39e745f81.jpg"
     },
     {
       "id": "a2cb4739379b4586",
@@ -2694,6 +2983,54 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eaf/live/b9df9c50-9d75-11f1-8aa1-c3c0b3f36f05.jpg"
     },
     {
+      "id": "06049765c8969d4a",
+      "title": "'Shambolic' - Stokes and Root question Ashes venues",
+      "summary": "Captain Joe Root said it is \"a shame\" his England team will not play at Headingley again until 2029, with predecessor Ben Stokes calling it \"shambolic\".",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cm2g5xpl33no",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T09:11:15Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 26,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b51/live/ad7b3a90-9e07-11f1-afde-61b39e745f81.jpg"
+    },
+    {
+      "id": "67f46497597b0579",
+      "title": "How Liverpool are preparing to face six new managers in first six games",
+      "summary": "For Liverpool and Andoni Iraola, the Premier League schedule means they will face six teams with new managers in their first six matches.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg5l9qz1dvno",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T09:36:48Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 23,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d385/live/c6adbd60-9a67-11f1-9fe8-4300bbf9dc7e.jpg"
+    },
+    {
       "id": "23e7b4392a264199",
       "title": "Wildfire 'overlooked' as it was in the North - MP",
       "summary": "Alison Hume says farmers' losses from the Langdale Moor fire had \"slipped through the cracks\".",
@@ -2742,6 +3079,54 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4911/live/003dd3f0-9d81-11f1-adf5-2dc21c9cc109.jpg"
     },
     {
+      "id": "cbb05e94a6a2a4b6",
+      "title": "Laptop catches fire on US flight, with passenger treated at airport",
+      "summary": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/ce979zpjj85o",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-08-22T10:27:25Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c85e/live/8f3dc3c0-9e09-11f1-95e0-53a570c83624.jpg"
+    },
+    {
+      "id": "ce3aa3f98967372d",
+      "title": "Joao Pedro extends Chelsea stay until 2034",
+      "summary": "Chelsea striker Joao Pedro signs a new contract with the club until 2032, with the option of two further years.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79g2z11r81o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T10:07:37Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/479e/live/7c70f030-9cc6-11f1-a5cd-a14170183a2c.jpg"
+    },
+    {
       "id": "9c8b9d48cb4f3570",
       "title": "UK inflation rises to 2.9% as Iran war drives up energy bills",
       "summary": "Accelerating price increases in July add to pressure on households, with chancellor saying ‘there is more to do to restore hope’ Analysis: Rising inflation underlines scale of Burnham’s cost of living challenge Business live – latest updates UK inflation rose to 2.9% in July as the impact of the Iran war on energy prices triggered a renewed cost of living squeeze for British households. The Office for National Statistics said inflation rose from a 15-month low of 2.6% in June, driven by the rising price of gas and electricity. Matching City economists’ forecasts, it was the first rise in the annual rate as measured by the consumer prices index since March. Continue reading...",
@@ -2788,6 +3173,29 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/f9e05771e9095905adb6140934ef1786fbc90ce9/810_840_3494_2798/master/3494.jpg?width=700&quality=85&auto=format&fit=max&s=fb60f2872acf0cb7b1509bd4d8080afe"
+    },
+    {
+      "id": "0062d945b86a3fb5",
+      "title": "Iran says new US sanctions violate sovereignty of other states",
+      "summary": "Foreign Ministry spokesman Esmaeil Baghaei slams Trump's latest threat as a return to 'full-scale classic colonialism'.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-22T09:14:09Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "3d7262ad4fcaa440",
@@ -3004,6 +3412,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e3/live/268aef20-9def-11f1-898b-91bf436c749f.png"
     },
     {
+      "id": "fb495568d4a091b0",
+      "title": "Second set of twins a good distraction from injury - Maddison",
+      "summary": "Tottenham midfielder James Maddison says having five children aged four and under - including a second set of twins - helpfully distracted him from his ACL injury last season.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20j3vx6ne4o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T05:28:50Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 27,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a155/live/9df36a60-9c78-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
       "id": "1d234d740a42e428",
       "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
       "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
@@ -3033,13 +3465,13 @@
       "summary": "Have England improved or were Pakistan really poor? BBC cricket correspondent Stephan Shemilt analyses the first-Test talking points from Headingley.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/c5yr18gp9j9o",
-      "source": "BBC News",
+      "source": "BBC Sport",
       "publisher": "BBC",
       "published": "2026-08-22T05:47:00Z",
-      "category": "Politics",
+      "category": "Sports",
       "region": "UK",
       "labels": [
-        "Politics",
+        "Sports",
         "UK"
       ],
       "sourceWeight": 4,
@@ -3074,31 +3506,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ed6/live/18b0d390-9bdf-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "id": "ac3821c35f628e4f",
-      "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
-      "summary": "A Trump-aligned think tank has ties to a highly unusual Census Bureau report that the president is using to renew false claims of widespread voting by non-U.S. citizens in 2020, NPR has learned.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
-      "source": "NPR Politics",
-      "publisher": "NPR",
-      "published": "2026-08-19T21:27:51Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 34,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7559x5039+0+0/resize/7559x5039!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2F18%2F98ffac4743f685cc1e9adab74ed2%2Fgettyimages-2199418003.jpg",
-      "imageAlt": "President Trump is joined by Commerce Secretary Howard Lutnick, who oversees the Census Bureau, as he speaks in the White House"
     },
     {
       "id": "216e5d54792a6597",
@@ -3143,6 +3550,29 @@
       "focus": "",
       "sourceType": "news",
       "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "77c7c09dea8cba70",
+      "title": "US imposes 50% tariffs on some Canadian products as trade talks fail",
+      "summary": "US Trade Representative Jamieson Greer said Canada had declined to finalize a trade deal, minutes before fresh Trump tariffs were due to take effect. Canada's Mark Carney said the terms proposed were \"unfair.\"",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/us-imposes-50-tariffs-on-some-canadian-products-as-trade-talks-fail/a-78466352?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-22T01:26:00Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 33,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -3196,30 +3626,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "d9defb12dfeb894b",
-      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-08-22T04:46:33Z",
-      "category": "Politics",
-      "region": "Canada",
-      "labels": [
-        "Politics",
-        "Canada"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg"
-    },
-    {
       "id": "430e99cbd82b68f5",
       "title": "Millennials have found it hard to buy homes – but things may be turning a corner",
       "summary": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be improving.",
@@ -3242,29 +3648,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a7/live/1acdc570-9cb6-11f1-b109-879e35c24276.png"
-    },
-    {
-      "id": "6e3dccc82d14049c",
-      "title": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
-      "summary": "Canadian prime minister says country will match tariffs 'dollar for dollar' after failure to secure US trade agreement.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-22T04:02:32Z",
-      "category": "Politics",
-      "region": "Canada",
-      "labels": [
-        "Politics",
-        "Canada"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "9f44522c833e57f9",
@@ -3313,29 +3696,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/04_4panel_enlarge_2x-1152x648-1787265662.jpg"
-    },
-    {
-      "id": "151e42f8d6e476fe",
-      "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
-      "summary": "A federal judge in Manhattan ruled against the State Department's suspension of immigrant visas.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-22T03:19:58Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "1db16f39b89d8e42",
@@ -3434,6 +3794,30 @@
       "imageUrl": "https://i.guim.co.uk/img/media/8d7f03d88b7b8112881e3e6bddd3dfbe85bd8099/531_0_4679_3744/master/4679.jpg?width=700&quality=85&auto=format&fit=max&s=921413e3059f83f67aeebea415264344"
     },
     {
+      "id": "1dc69d33ed0e4674",
+      "title": "Lessons learned, but Coventry's top-flight return about more than result",
+      "summary": "Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-21T23:13:13Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 34,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03e0/live/5b50d680-9db2-11f1-9537-fb0a2e1c2505.jpg"
+    },
+    {
       "id": "f0c87d8e0b1a3a04",
       "title": "People smuggler exposed by BBC investigation arrested and charged",
       "summary": "Twana Jamal Khdir has been arrested and charged with immigration offences.",
@@ -3456,29 +3840,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e68/live/7284e2f0-9c0f-11f1-bab6-dd87b521d67e.jpg"
-    },
-    {
-      "id": "f50416ea359e9b3d",
-      "title": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
-      "summary": "Saja el-Khawas's death follows that of her mother, father and sister on Tuesday, all of whom drowned.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-22T01:42:33Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "463a0f1f88545f00",
@@ -3505,27 +3866,28 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db42/live/677fca00-9d18-11f1-bd22-47519fb87a16.jpg"
     },
     {
-      "id": "d23302c311ad157d",
-      "title": "Iranian president says time to end war with US from ‘position of strength’",
-      "summary": "Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.",
+      "id": "b2135ce7c0c1af73",
+      "title": "Swaggering Arsenal want title attack, not defence",
+      "summary": "Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-22T00:59:37Z",
-      "category": "Politics",
-      "region": "US",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-21T22:55:40Z",
+      "category": "Sports",
+      "region": "UK",
       "labels": [
-        "Politics",
-        "US"
+        "Sports",
+        "UK"
       ],
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 13,
+      "wordCount": 25,
       "readingMinutes": 1,
       "isShort": true,
-      "isBreaking": false
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f54a/live/2cad59d0-9dac-11f1-b8c4-c1e59b96cddc.jpg"
     },
     {
       "id": "56de58cae4881e17",
@@ -3550,29 +3912,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2499/live/1c353190-9a2d-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "id": "57ff1f9df47a66d8",
-      "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
-      "summary": "Editor-in-chief Erik Slavin has suggested his firing was retaliation for speaking out about editorial independence.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/8/21/editor-of-us-military-newspaper-stars-and-stripes-says-he-was-fired?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-21T23:51:40Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "da9ead6dfa22bc78",
@@ -3621,6 +3960,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6841/live/317c58f0-9daa-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "id": "60de60ba1c8ef5d8",
+      "title": "Wigan beat Wakefield to go top of Super League",
+      "summary": "Jai Field scores a length-of-the-field try to help send Wigan Warriors top of the Super League table with a hard-fought win against Wakefield Trinity.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cx2ldq5lg44o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-21T21:50:57Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc66/live/09a379c0-9da1-11f1-b160-9b29341ab62f.jpg"
     },
     {
       "id": "275442b870c5e6b1",
@@ -3838,30 +4201,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8763/live/725b1f30-9be0-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "de5723ddb674fcd3",
-      "title": "New owner deal values Timberwolves and Lynx at $4.5bn",
-      "summary": "The Minnesota Timberwolves change owners in a deal which makes them the fourth-most expensive NBA franchise to be sold.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/c78g2xg69n2o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T20:19:46Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59ce/live/23771ce0-9d96-11f1-9233-8716b68cda7b.jpg"
-    },
-    {
       "id": "2c44691effcb3380",
       "title": "Liverpool make Endrick enquiry - Saturday's gossip",
       "summary": "Liverpool make Endrick enquiry, Chelsea brace for a Nicolas Jackson offer and Arsenal make request to Victor Osimhen, plus more.",
@@ -3886,30 +4225,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90aa/live/fb636880-9d95-11f1-a291-b542ee92de7c.png"
     },
     {
-      "id": "276e060d7e3c27c4",
-      "title": "Inter complete £30m deal for Liverpool's Jones",
-      "summary": "Inter Milan sign midfielder Curtis Jones from Liverpool in a deal worth £30m.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czdm9pjd0ero",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T21:23:29Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 13,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2100/live/de0dcb70-9cac-11f1-84cf-fd4cfd9d6c84.jpg"
-    },
-    {
       "id": "4b4f755e58482974",
       "title": "Cease garners first-place votes in latest Cy Young poll",
       "summary": "This feed supplied a headline but no article summary.",
@@ -3932,30 +4247,6 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
-    },
-    {
-      "id": "b52adbcd07d6f0d1",
-      "title": "Tzolis shines in Premier League opener - Arsenal v Coventry player ratings",
-      "summary": "How Arsenal and Coventry's players rated following their Premier League match.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crl7g4e4pdno",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T20:52:32Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 11,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e02/live/71987740-9da8-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "id": "8ca64af170838fb1",
@@ -4005,14 +4296,14 @@
       "isBreaking": false
     },
     {
-      "id": "0554525985f4d977",
-      "title": "It would be 'nice to have choice' over Ashes venues - Root",
-      "summary": "Joe Root said \"it would be nice to have a choice\" over the venues where his England team play as they leave Headingley until 2029.",
+      "id": "b9ac4e848a6a4c1a",
+      "title": "Man Utd agree £70m fee for Brighton's Baleba",
+      "summary": "Manchester United agree a fee of up to £70m for Brighton midfielder Carlos Baleba.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cm2g5xpl33no",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwy452d662ko",
       "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-08-21T17:51:16Z",
+      "published": "2026-08-21T19:58:11Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -4022,11 +4313,11 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 25,
+      "wordCount": 14,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbe4/live/ad48e160-9d82-11f1-b109-879e35c24276.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30b6/live/c4242c40-9d9c-11f1-bff5-1bcd013e5a56.jpg"
     },
     {
       "id": "387c1466ed4df40e",
@@ -4051,103 +4342,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1536/live/024564c0-9d76-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "id": "7ef10d7c42cfab3d",
-      "title": "Wales sports minister meets WRU after fans' fears",
-      "summary": "Wales' sports minister Heledd Fychan meets with Welsh Rugby Union to express fears of split with fans over three-team plan.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm2gd4ken4jo",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-08-19T11:38:06Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England",
-        "Rugby"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6835/live/b48f56a0-9bb3-11f1-ae8a-8d57110c5ba6.jpg"
-    },
-    {
-      "id": "63c57cc9250020f9",
-      "title": "'I fear for them' - Vaughan & Raja lament 'desperate times' for Pakistan",
-      "summary": "Former England captain Michael Vaughan says he \"really fears\" for Pakistan after their heavy defeat in the first Test at Headingley.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/czrj545d34mo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T17:09:43Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc5/live/83526340-9d82-11f1-adf5-2dc21c9cc109.jpg"
-    },
-    {
-      "id": "b6597d15e4a8fe0e",
-      "title": "Bolt registers to play for Manchester Sunday league team",
-      "summary": "Eight-time Olympic champion sprinter Usain Bolt has registered to play for a veterans' Sunday league football team in Manchester.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2reg3de87o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T17:14:32Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a3d/live/ee7ae710-9d81-11f1-adf5-2dc21c9cc109.jpg"
-    },
-    {
-      "id": "074e677e33483876",
-      "title": "Le Court takes Tour green jersey with Great Orme stage win",
-      "summary": "Kim Le Court of Mauritius wins stage three of the Lloyd's Tour of Britain Women to the Great Orme to move into the overall leader's green jersey.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/c4gxnv8zgj1o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T16:36:31Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 27,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc5/live/c65b3380-9d7b-11f1-8bc3-150f4c5f088b.jpg"
     },
     {
       "id": "2483dd30cc436b01",
@@ -4246,30 +4440,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2f6/live/d6ed93b0-9c8a-11f1-8d19-93d7082c5662.jpg"
     },
     {
-      "id": "ba0f391cb04e14f1",
-      "title": "Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho",
-      "summary": "Real Madrid trio Jude Bellingham, Vinicius Jr and Kylian Mbappe can all play together in the same team successfully, new head coach Jose Mourinho says.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdrv1nx150jo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T15:17:27Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 25,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fec/live/14f36c60-9d5e-11f1-a979-27696fc3a013.jpg"
-    },
-    {
       "id": "ade84dfb1b642f6a",
       "title": "Three wickets in six balls - Tricky Tongue troubles Pakistan",
       "summary": "Josh Tongue takes three wickets in six balls as Pakistan fall from 68-3 to 76-6 in their second innings of the first Test, as England close in on an innings victory at Headingley.",
@@ -4292,30 +4462,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f974/live/525c4600-9d66-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "3f9900ef49db6507",
-      "title": "Injured Sinner & Draper withdraw from US Open",
-      "summary": "World number one Jannik Sinner and Britain's Jack Draper pull out of the upcoming US Open through injury.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T16:31:26Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0108/live/52c72c10-9d82-11f1-adf5-2dc21c9cc109.png"
     },
     {
       "id": "6a6e58deedce7acc",
@@ -4437,30 +4583,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1217/live/c809f090-9d5d-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "715201cf25504e9a",
-      "title": "Chelsea reject initial Leeds loan bid for Mudryk",
-      "summary": "Chelsea reject an initial season-long loan offer from Leeds United for winger Mykhailo Mudryk.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gjv4xq2l8o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T15:22:37Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6737/live/d3936e50-9aec-11f1-930b-57cfba7235f9.jpg"
-    },
-    {
       "id": "d416065d0dfffe04",
       "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
       "summary": "Tesla and eight other automakers will install warning labels that help occupants identify the often hard-to-find manual door releases.",
@@ -4532,54 +4654,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/reunited8-1152x648.jpg"
     },
     {
-      "id": "32b603d8c2473bab",
-      "title": "Joshua fight doesn't look like it will happen - Fury",
-      "summary": "Tyson Fury says his fight with Anthony Joshua \"doesn't look like it's going to happen\" in a verbal tirade against his British rival and promoter Eddie Hearn posted on social media.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cm2gj7dkl6lo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T11:56:34Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 31,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/637e/live/bd065030-9d53-11f1-b109-879e35c24276.png"
-    },
-    {
-      "id": "f5b752c255ce4ec6",
-      "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
-      "summary": "Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T15:20:45Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 13,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d64/live/46e0da90-9d7d-11f1-8bc3-150f4c5f088b.jpg"
-    },
-    {
       "id": "1c7ced59754b6e4b",
       "title": "Europe cancels planned upgrades for Ariane 6 rocket",
       "summary": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
@@ -4626,30 +4700,6 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
-    },
-    {
-      "id": "c20f4899e50b492c",
-      "title": "Watkins could leave Villa before transfer deadline - Emery",
-      "summary": "Aston Villa boss Unai Emery says striker Ollie Watkins could follow several star players out of the door this summer.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4wj07e8eo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T13:47:42Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6af9/live/3cef6b50-9d64-11f1-a07c-85afe5c51b6f.jpg"
     },
     {
       "id": "cafcb350f385c22f",
@@ -4772,6 +4822,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40c0/live/b7baf560-9cb6-11f1-a291-b542ee92de7c.jpg"
     },
     {
+      "id": "5e898299c73889bd",
+      "title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
+      "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the world’s eyes and called for urgent action including trade and arms sales bans to press Israel to accept a Palestinian state. An unprecedented joint letter dispenses with diplomatic language by accusing Israel of ethnic cleansing and warning that the world no longer sees Israel as a genuine democracy. Uphold the decisions of the international court of justice and the international criminal court. Suspend the EU-Israel association agreement and the UK-Israel trade and partnership agreement for breach of human rights provisions. Suspend arms transfers to and from Israel and all bilateral military cooperation. Insist on unrestricted aid access to Gaza, led by the UN Relief and Works Agency, other UN agencies and international NGOs, with consequences for non-compliance, and access too for journalists, diplomats and parliamentarians. Ban all trade with settlements, including goods, investment, insurance and other financial services. Warn potential bidders for the “red line” E1 settlement or other settlement financing/construction that their interests in and with the UK and France will suffer. Make it an offence for British and French citizens to buy property on stolen Palestinian land and remove charitable status from “charities” funding settlements. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
+      "source": "The Guardian UK",
+      "publisher": "The Guardian",
+      "published": "2026-08-22T09:00:04Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 231,
+      "readingMinutes": 2,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/dd5b33bf9f870a1fc5c8de54279eac6bbbe6119d/402_0_5484_4387/master/5484.jpg?width=700&quality=85&auto=format&fit=max&s=1596e868e6eceb98d4b1c7453c3c991d"
+    },
+    {
       "id": "48de74ca298e9803",
       "title": "Roblox must make changes after failing to block adults creeping on kids",
       "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
@@ -4844,30 +4918,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1d9/live/6ab16810-9cae-11f1-84cf-fd4cfd9d6c84.jpg"
     },
     {
-      "id": "51c0e0c743054b67",
-      "title": "Five things in EFL: Fallen giants and ambitious upstarts",
-      "summary": "West Ham and Leicester look to bounce back - BBC Sport highlights five things to keep an eye on in this weekend's EFL schedule.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2ldd3yyy0o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T08:42:12Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 23,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f59/live/51d12140-9c9b-11f1-aed2-8d6da8d75094.png"
-    },
-    {
       "id": "816dd82d6f7e4c86",
       "title": "Reform suspends councillor ahead of court case",
       "summary": "Glenn Gibbins, from Sunderland, is facing a court case over the post about the Nigerian population.",
@@ -4890,61 +4940,13 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e55/live/b0088e20-3d64-11f0-b95e-89f9465859a0.jpg"
-    },
-    {
-      "id": "458e33f4067f5237",
-      "title": "Governments’ borrowing costs hit further multi-decade highs as US-Iran peace hopes fade",
-      "summary": "Bond yields in US, UK, Germany France and Japan rise after ceasefire ends and Trump threatens to bomb Oman Business live – latest updates Government borrowing costs in several advanced economies continued to rise to levels not seen in decades on Tuesday, as hopes of an end to the US-Iran war faded. Concerns about the inflation outlook worsened after the ceasefire between Washington DC and Tehran ended on Monday night without an agreement , with no progress on the reopening of the strait of Hormuz. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/aug/18/governments-borrowing-costs-us-iran-bond-yields-trump",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-08-18T10:54:43Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 85,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/83f0129ef93107a6f281d77a92512d561980575e/0_0_4476_3581/master/4476.jpg?width=700&quality=85&auto=format&fit=max&s=4b04a7bd44adb541baf8e59874a7298f"
-    },
-    {
-      "id": "8ddf82684753e6cc",
-      "title": "Genesis joins the giant electric SUV club with new GV90",
-      "summary": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-08-20T14:35:58Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 13,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Original-6722-photo-2-gv90-neolun-exterior-1024x768.jpg"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 34
+      "items": 29
     },
     {
       "source": "BBC Politics",
@@ -5004,7 +5006,7 @@
     {
       "source": "The Guardian Technology",
       "ok": true,
-      "items": 36
+      "items": 35
     },
     {
       "source": "TechCrunch",
@@ -5049,7 +5051,7 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 76
+      "items": 69
     },
     {
       "source": "BBC Rugby Union",
@@ -5108,8 +5110,8 @@
     },
     {
       "source": "Foreign Policy in Focus",
-      "ok": true,
-      "items": 10
+      "ok": false,
+      "error": "XML or text declaration not at start of entity: line 3, column 0"
     },
     {
       "source": "Yale Environment 360",
@@ -5132,12 +5134,6 @@
     },
     {
       "source": "ProPublica",
-      "succeeded": 3,
-      "failed": 0,
-      "skipped": 0
-    },
-    {
-      "source": "Foreign Policy in Focus",
       "succeeded": 3,
       "failed": 0,
       "skipped": 0
