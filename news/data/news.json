@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-23T01:59:13.132237Z",
+  "generatedAt": "2026-08-23T04:51:02.905541Z",
   "topStoryIds": [
     "196c582be0fa18b0",
     "867af1e4d1d680ca",
     "7ad5124107f83fa8",
-    "63aeae6dd6c29ebd",
+    "d65eeb2748bead0a",
     "5e77a8b12d59091c",
     "d99f25eac0c92e1b",
     "d91fa75fb051169d"
@@ -13,10 +13,9 @@
   "sectionStoryIds": {
     "Politics": [
       "196c582be0fa18b0",
-      "63aeae6dd6c29ebd",
+      "d65eeb2748bead0a",
       "5e77a8b12d59091c",
-      "ff674e5c196093ba",
-      "2d48a953e87b1464"
+      "ff674e5c196093ba"
     ],
     "Tech": [
       "867af1e4d1d680ca",
@@ -140,14 +139,14 @@
       "imageHeight": 675
     },
     {
-      "id": "63aeae6dd6c29ebd",
-      "title": "Chinese robot runs 100m sprint quicker than Usain Bolt’s world record",
-      "summary": "Lightning the humanoid ⁠robot clocks 9.32sec in Beijing Quicker than ​9.58sec men’s world record set 17 years ago A ⁠robot named Lightning ⁠has run ​the 100m in 9.32 seconds, ⁠beating the human world ⁠record, China’s ​state broadcaster ‌has reported. The humanoid, developed by the Chinese smartphone manufacturer Honor, ‌reached a peak speed of 14.5 metres per second during ‌a test event for ​the second World Humanoid Robot Games, which ⁠began on Saturday. The ​performance surpassed ​the ​9.58sec men’s ​100m world record ​set ​by Usain Bolt 17 years ago at the World Athletics Championships in Berlin. Continue reading...",
+      "id": "d65eeb2748bead0a",
+      "title": "‘She’s not afraid of anyone’: the prison writings of one of Hong Kong’s last outspoken democracy activists",
+      "summary": "Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’ In one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell. “In a place like prison, where anything that is personal is stripped away, it’s even more important to hold on to every means by which you can express yourself,” she writes. “Don’t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a ‘model citizen’”. Continue reading...",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+      "url": "https://www.theguardian.com/world/2026/aug/22/chow-hang-tung-tiananmen-prison-writings-hong-kong",
       "source": "The Guardian China",
       "publisher": "The Guardian",
-      "published": "2026-08-22T10:25:01Z",
+      "published": "2026-08-21T23:50:48Z",
       "category": "Politics",
       "region": "China",
       "labels": [
@@ -157,12 +156,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 631,
-      "readingMinutes": 3,
+      "wordCount": 1175,
+      "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/bb4d6f1140a40f0b781db0cc686820f5cab64b8b/438_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=028c359072bd5dab4e11a499d8b1b8f1",
-      "body": "Lightning the humanoid ⁠robot clocks 9.32sec in Beijing\n\nQuicker than ​9.58sec men’s world record set 17 years ago\n\nA ⁠robot named Lightning ⁠has run ​the 100m in 9.32 seconds, ⁠beating the human world ⁠record, China’s ​state broadcaster ‌has reported.\n\nThe humanoid, developed by the Chinese smartphone manufacturer Honor, ‌reached a peak speed of 14.5 metres per second during ‌a test event for ​the second World Humanoid Robot Games, which ⁠began on Saturday. The ​performance surpassed ​the ​9.58sec men’s ​100m world record ​set ​by Usain Bolt 17 years ago at the World Athletics Championships in Berlin.\n\nChina has been promoting humanoid robots as an emerging industry, with policymakers and companies ‌betting that advances in AI and hardware will accelerate their deployment in manufacturing, logistics ​and consumer applications.\n\nLightning also won the Beijing half marathon in April in 50 minutes and 26 seconds, faster than the men’s world record. The robot stood 169cm tall and ​had ​95cm-long legs at ​the half marathon. Researchers have since lengthened ​its legs ‌by 10​cm for these Games.\n\nMore than 2,000 humanoid robots were participating in the five-day games, now in its second year, a spectacle intended to demonstrate China’s rapid progress in advanced robotics as the technology race with the US heats up. There are 51 events and more than 1,000 competitions taking place including running, table tennis and football.\n\nThe games, which are taking place in the National Speed Skating Oval built for the 2022 Winter Olympics, opened the same week as Beijing held the 2026 World Robot Conference, where companies showcased around 3,000 products, including humanoid robots. China makes the majority of the world’s humanoid robots.\n\nLast month, the US Federal Communications Commission announced a ban on imports of new foreign-made humanoid robots. The FCC cited national security reasons in a move that targeted China. The Pentagon recently also added Unitree, one of China’s leading humanoid robot makers, to its list of companies that it deemed have ties with the Chinese military. Beijing has hit back at the accusations.\n\nAt Saturday’s opening of the robot games, the organisers and robot makers said that Chinese humanoid robots defeated human world records, as hundreds of humanoid robots marched in formation on to the field in a massive display of synchronised coordination.\n\nIn a standing high jump, a humanoid robot was able to reach 2.88m, well above the 0.95m best result by a humanoid in last year’s first edition of the games . It surpassed the human high jump record of 2.45m set by Cuba’s Javier Sotomayor in 1993. Both robots were from Beijing-based X-Humanoid.\n\nExperts say humanoid robots are still mostly used for demonstrations, performances and research – at least for now – and it will take time to achieve mass real-world deployment. Some spectators at the robot games said they were excited about the humanoid robots’ quickly improving abilities.\n\nafter newsletter promotion\n\nHumanoid robots are “evolving rapidly”, said Li Yanfeng, an education worker and a Beijing resident. “At first, I wasn’t very accepting of artificial intelligence. I was even a bit resistant to it, because of the possibility that it might replace or displace humans,” she said. “But now that I see this development is unstoppable, I decided to come and take a look.”\n\nYang Shangzheng, another spectator, said: “These sports are perfectly normal for humans, but now robots can do them. I find it amazing.” Liu Tao, who was watching the games with his son, said he was hoping to see “the best robots China currently has to offer”.\n\nThis year’s robot games – which the organisers say has 16 countries participating, among them Germany, Japan and the US – also includes other events such as weightlifting and tug of war.\n\nSport\n\nAthletics\n\nRobots\n\nChina\n\nUsain Bolt\n\nnews",
+      "imageUrl": "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/958_199_4751_3801/master/4751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c61f9ec1e5066ce864e8f5939182cc2",
+      "body": "Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom\n\nTiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’\n\nIn one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell.\n\n“In a place like prison, where anything that is personal is stripped away, it’s even more important to hold on to every means by which you can express yourself,” she writes. “Don’t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a ‘model citizen’”.\n\nThe vignette is everyday, almost mundane. It stands in contrast to Chow’s position as one of Hong Kong’s most outspoken dissidents, one who has been detained for nearly five years awaiting trial over her role in organising an annual vigil marking the Tiananmen Square massacre.\n\nHer case represents one of the last high-profile national security trials to be heard in Hong Kong, as the national security law imposed by Beijing in 2020 extinguishes what was once one of the world’s most widely watched pro-democracy struggles.\n\nOn Friday, Chow and her co-defendant Lee Cheuk-yan were found guilty of “incitement to subversion” by a Hong Kong court. They face a maximum penalty of 10 years in jail when they are sentenced later in the year.\n\nAs the years pass by, the 41-year-old barrister has written screeds from behind bars on everything from the meaning of freedom to the legacy of the 1989 massacre, some of which have been translated by Brian Kern, a writer and human rights activist. Chow’s profile has only grown since she has been detained. She has won several human rights awards, and her social media profiles, which are managed on her behalf, are regularly updated with her writings from prison.\n\nIn another essay, she describes being handed a white Mickey Mouse t-shirt to wear in court because she is not allowed to wear clothing that carries the branding of her protest group, the Hong Kong Alliance.\n\n“The Mickey Mouse t-shirt may seem innocent on the surface, but isn’t it still a prison uniform provided by the correctional facility? Even before the Alliance has been convicted, its clothes have already become contraband,” she writes.\n\nWhile some writings are breezy and irreverent, many are deeply considered essays on defending civil rights in the face of a powerful and oppressive Chinese Communist party. As a highly regarded barrister who has been representing herself in court, she also dives into legal philosophy.\n\n“She’s not afraid of anything or anyone,” said Kevin Yam , a Hong Kong lawyer who now lives in exile. “For a lot of us who are outside Hong Kong now and sometimes feel a bit dispirited by things, her example and her inspiration is a big factor in us not losing hope and keeping our spirits up.”\n\nWu Yangwei, Chow’s fiance, a Chinese activist better known by his pen name, Ye Du, said it was Chow’s interest in mainland Chinese struggles that first attracted him to her. “From the moment I met her… I felt that she was incredibly innocent, deeply compassionate, and deeply empathetic toward China’s democracy and human rights defense movements,” Wu said. He now lives under close police surveillance in Guangdong province.\n\n‘A society that loses freedom of speech … loses its very soul’\n\nChow was arrested in September 2021 along with two other organisers of the now disbanded Hong Kong Alliance in Support of Democratic Movements of China.\n\nThe Hong Kong Alliance’s annual Tiananmen vigil, which attracted tens of thousands of Hongkongers each year, was banned in 2020 on the grounds of pandemic control.\n\nChow, along with Lee Cheuk-yan and Albert Ho, were charged with incitement to subversion under Hong Kong’s new sweeping national security law. Chow and Lee pleaded not guilty in their trial , which ended on 19 May, while Ho submitted a guilty plea, which could help him get a sentence reduction. All three have already served shorter sentences for other convictions relating to the vigil.\n\nA Hong Kong government spokesperson said Lee and Chow were prosecuted “because they have overstepped the boundaries of lawful conduct by committing a criminal act of inciting subversion.” The spokesperson said law enforcement actions paid “no regard to their political stance, background or occupation.”\n\nIn an essay written this year for the 37th anniversary of the Tiananmen Square massacre, Chow wrote: “A society that loses its freedom of speech never just loses a few articles or events – it loses its very soul”.\n\n“‘Power corrupts’ is a hackneyed phrase, but when the will to power permeates everything … the decline of society becomes inevitable. Conversely, resisting the encroachment of power, or even attempting to put it back in its cage, requires a steadfast return to fundamental human values.”\n\nFrom studying earthquakes to fighting for human rights\n\nChow came late to the law. A straight-A student, she had originally gone to Cambridge University to study natural sciences, specialising in seismology. In 2008, a massive earthquake struck Sichuan province, killing 70,000 people. Chow travelled to the region to volunteer as a rescue worker. Friends of Chow said the experience had a profound impact on her. She believed that the failure of the Chinese government to adequately prepare for the natural disaster, and the handling of the aftermath, increased the death toll, said the friends.\n\nChow dropped out of her PhD programme and returned to Hong Kong to retrain as a barrister. She threw herself into Hong Kong’s then vibrant civil society, volunteering for human rights groups alongside her studies. It was while preparing a bail application for a fellow pro-democracy activist, Gwyneth Ho, that Chow was arrested in September 2021.\n\n“She’s turned her scientific training to the Communist party, dissecting the party’s manoeuvres as clinically as she once looked at tectonic plates and seismic movements,” said Mark Clifford, the president of the Committee for Freedom in Hong Kong Foundation.\n\nSince Chow has been in jail, her fiance Wu has communicated with her by letter, and occasionally through letters published in the newspaper Ming Pao, which is available in prison. In January last year, their correspondence was cut off, Wu said. “It’s even worse than mainland China. In mainland prisons, political prisoners can still communicate with family, but Hong Kong prisons now block even that,” he said.\n\nHong Kong’s correctional services department said that all prisoners, including Chow, can send and receive letters “subject to the requirements of the prison rules”. The department said Wu’s claim was “totally false and misleading”.\n\nWu said that Chow’s letters are “full of fighting spirit”. “I am not worried about her,” he said.\n\nAs far back as 2021, Chow published an essay about her refusal to plead guilty, writing: “A stubborn freak like me can only march on and fight my case till the end … Having a chance to exhaust oneself is better than living a purposeless life, isn’t it?”\n\nHong Kong\n\nChina\n\nProtest\n\nTiananmen Square protests 1989\n\nAsia Pacific\n\nfeatures",
       "imageWidth": 1200,
       "imageHeight": 630
     },
@@ -238,12 +237,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 708,
+      "wordCount": 702,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/illo_dumpling_shop_final-1600x900.jpg",
-      "body": "Global Dispatch\n\nBusiness owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”\n\nBy Viola Zhou\n\nViola Zhou is a reporter for Rest of World covering China's tech scene. She is based in New York City.\n\nThis essay was first published in our Global Dispatch newsletter. Sign up here to get it straight to your inbox.\n\nIf you have an AI agent, you can tell it to build a website, make a slideshow, or get you a table at a popular dumpling shop in Beijing.\n\nThe dumpling shop, called Jinguyuan, has made headlines in China for creating a “skill” that allows users to check out the menu, seek recommendations, or join the queue by talking to their personal AI agents — tools that can automatically carry out tasks on a phone or laptop. Skills are files that teach AI agents specific workflows.\n\nThe shop owner, 41-year-old Li Bo, told me he built the AI skill in April, as he witnessed the growing popularity of agentic AI tools. Li began envisioning a world where everybody asks their AI assistant to plan daily work and life, including what to eat. Li wanted his dumpling shop to be part of that future.\n\n“Science and technology are a primary productive force,” Li told me, quoting China’s late leader Deng Xiaoping, who unleashed the historic reforms in 1978 that led to the country’s economic miracle in the following decades. “You always need to surround yourself with the most advanced productive force.”\n\nIn many developed countries, AI is primarily associated with job losses, threats to creativity, and sprawling data centers invading rural communities. Outside of the tech industry, relying on AI sometimes evokes a sense of shame similar to cheating. In New York City, where I live, few small businesses advertise how much they use AI, even though on the streets, menus and posters everywhere have the telltale signs of AI-generated imagery and typography.\n\n[In China] everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nWhen I speak with people living in China, I find many are similarly worried about AI’s impact on the job market and the tech industry’s exploitative nature, but at the same time, everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nCrash courses on large language models flourish online. Office workers rush to experiment with new AI tools to avoid falling behind in the competitive job market. When the agentic tool OpenClaw went viral, people queued up to have it installed on their laptops. A 2025 survey by public opinion firm Ipsos found that among the 30 countries surveyed, the Chinese population expressed the highest level of excitement about AI.\n\nLi studied telecommunications engineering at the Beijing University of Posts and Telecommunications. After graduating with a master’s degree in 2010, instead of becoming an engineer like many of his classmates, he worked at hostels, peddled homemade desserts, and eventually partnered with a dumpling chef to open Jinguyuan near his alma mater, serving students and tech workers.\n\nAI reignited Li’s excitement for tech. Besides the AI skill, he also vibe-coded a website tracking the queue status at Jinguyuan’s two branches, mostly with Alibaba’s coding tool Qoder. In July, Li partnered with an AI cloud provider to give every customer a token coupon worth 10 yuan ($1.50) that could be put toward model subscriptions.\n\nLi admits his AI skill brings more media attention than actual usage, but he is proud of becoming a role model for AI adoption. “Someone needs to start using it, even when it’s not that good,” Li said. “When steam engines just came out, people joked that they were not as good as horses. But in the end, cars won out.”\n\nBan on Chinese robots leaves U.S. startups stranded\n\nWashington’s limits on foreign parts promises a supply chain revolution — but Silicon Valley founders say domestic alternatives don’t exist yet.\n\nChinese carmakers now sell one EV abroad for every two at home\n\nDwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.\n\nThe online shopping trend where you buy nothing\n\nOn South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.",
+      "body": "Global Dispatch\n\nBusiness owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”\n\nBy Viola Zhou\n\nViola Zhou is a reporter for Rest of World covering China's tech scene. She is based in New York City.\n\nThis essay was first published in our Global Dispatch newsletter. Sign up here to get it straight to your inbox.\n\nIf you have an AI agent, you can tell it to build a website, make a slideshow, or get you a table at a popular dumpling shop in Beijing.\n\nThe dumpling shop, called Jinguyuan, has made headlines in China for creating a “skill” that allows users to check out the menu, seek recommendations, or join the queue by talking to their personal AI agents — tools that can automatically carry out tasks on a phone or laptop. Skills are files that teach AI agents specific workflows.\n\nThe shop owner, 41-year-old Li Bo, told me he built the AI skill in April, as he witnessed the growing popularity of agentic AI tools. Li began envisioning a world where everybody asks their AI assistant to plan daily work and life, including what to eat. Li wanted his dumpling shop to be part of that future.\n\n“Science and technology are a primary productive force,” Li told me, quoting China’s late leader Deng Xiaoping, who unleashed the historic reforms in 1978 that led to the country’s economic miracle in the following decades. “You always need to surround yourself with the most advanced productive force.”\n\nIn many developed countries, AI is primarily associated with job losses, threats to creativity, and sprawling data centers invading rural communities. Outside of the tech industry, relying on AI sometimes evokes a sense of shame similar to cheating. In New York City, where I live, few small businesses advertise how much they use AI, even though on the streets, menus and posters everywhere have the telltale signs of AI-generated imagery and typography.\n\n[In China] everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nWhen I speak with people living in China, I find many are similarly worried about AI’s impact on the job market and the tech industry’s exploitative nature, but at the same time, everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nCrash courses on large language models flourish online. Office workers rush to experiment with new AI tools to avoid falling behind in the competitive job market. When the agentic tool OpenClaw went viral, people queued up to have it installed on their laptops. A 2025 survey by public opinion firm Ipsos found that among the 30 countries surveyed, the Chinese population expressed the highest level of excitement about AI.\n\nLi studied telecommunications engineering at the Beijing University of Posts and Telecommunications. After graduating with a master’s degree in 2010, instead of becoming an engineer like many of his classmates, he worked at hostels, peddled homemade desserts, and eventually partnered with a dumpling chef to open Jinguyuan near his alma mater, serving students and tech workers.\n\nAI reignited Li’s excitement for tech. Besides the AI skill, he also vibe-coded a website tracking the queue status at Jinguyuan’s two branches, mostly with Alibaba’s coding tool Qoder. In July, Li partnered with an AI cloud provider to give every customer a token coupon worth 10 yuan ($1.50) that could be put toward model subscriptions.\n\nLi admits his AI skill brings more media attention than actual usage, but he is proud of becoming a role model for AI adoption. “Someone needs to start using it, even when it’s not that good,” Li said. “When steam engines just came out, people joked that they were not as good as horses. But in the end, cars won out.”\n\nBan on Chinese robots leaves U.S. startups stranded\n\nWashington’s limits on foreign parts promises a supply chain revolution — but Silicon Valley founders say domestic alternatives don’t exist yet.\n\nChinese carmakers now sell one EV abroad for every two at home\n\nDwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.\n\n“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”\n\nObservers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
       "imageWidth": 1600,
       "imageHeight": 900
     },
@@ -273,30 +272,6 @@
       "body": "Published 21 August 2026\n\nRegulator Ofcom has launched an investigation into Sky News over claims of harassment made by Reform UK leader Nigel Farage.\n\nLast month, Farage accused the broadcaster of infringing his family's privacy by sending reporters to a house where his adult daughter was living.\n\nReform UK made an official complaint to Ofcom, and called on Sky News to apologise on air and undertake not to seek to contact Farage's family at their homes.\n\nIn a post on Facebook on Friday, the Clacton MP said Ofcom was now investigating and that he was \"appalled at the way various members of my family have been treated\".\n\nThe broadcaster denied approaching Farage's daughter when he initially made the allegation.\n\nChris Mason: Farage attempts to seize back the agenda after finance row Published 7 July\n\nOfcom would not comment on any investigation but said it treated complaints in strict confidence and would not \"publicly confirm the identities of individuals concerned\".\n\nFarage claims reporters from Sky News approached his daughter's home while he was out of the country.\n\nSky News says it did not interact with his daughter, and was trying to ask Farage about a £5m gift he received from cryptocurrency investor Christopher Harborne before he entered Parliament in July 2024.\n\nA parliamentary standards investigation into whether the gift broke any rules resumed earlier this month after Farage was re-elected as MP for Clacton following a by-election he triggered that was boycotted by the other major parties.\n\nUpon returning to the country, Farage was questioned by Sky News over the undeclared gift, to which he responded: \"You tell your bosses, you harass my family any more, there will be serious consequences, that's what your organisation has done this morning, now go away.\"\n\nWhen pressed on the donation again, he said: \"Did you not hear me? You have broken all the rules, Leveson and everything else, cut.\"\n\nAt the time, Sky News said in a post on X: \"Sky News was not at the property at 7.41am. As has already been acknowledged, and as shown in the footage from 10.19am, Sky News was outside a property where Mr Farage was registered to vote at the last election.\n\n\"Sky News did not interact with Mr Farage's daughter.\n\n\"On a single occasion, we approached the property without a camera operator, identified ourselves as Sky News and the adult occupant chose not to engage. We were seeking to contact Mr Farage to ask questions about the gift he accepted from Mr Cottrell.\n\n\"This is a well-established and routine journalistic practice when reporting on matters of legitimate public interest.\n\n\"The footage clearly demonstrates that Sky News did not 'hound' or pursue Mr Farage's daughter.\n\n\"At no stage did we seek to speak to anyone other than Mr Farage in connection with this story.\"\n\nThe BBC has contacted Sky News for comment.\n\nOfcom says it aims to conclude fairness and privacy complaints within 90 working days.\n\nRelated topics\n\nNigel Farage\n\nReform UK\n\nOfcom\n\nMore on this story\n\nCount Binface receives over a quarter of votes in Clacton by-election Published 14 August\n\nFarage's by-election victory won't stop questions about finances Published 14 August",
       "imageWidth": 1200,
       "imageHeight": 675
-    },
-    {
-      "id": "2d48a953e87b1464",
-      "title": "Security Council LIVE: Drone strikes and political impasse in Libya",
-      "summary": "As Libya faces a political impasse delaying long-planned elections alongside clashes and drone strikes that left a major oil refinery ablaze, the Security Council heard the latest updates, with an activist warning that the collision of extreme heat, water scarcity and environmental shocks with political division, armed insecurity and struggling institutions clearly makes the situation a peace and security issue. UN News app users can follow our live coverage here.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168158",
-      "source": "UN News",
-      "publisher": "UN News",
-      "published": "2026-08-18T12:00:00Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 70,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": true,
-      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-04-2023_UNSMIL_Tripoli.jpg/image560x340cropped.jpg"
     },
     {
       "id": "fb94f54477be6cad",
@@ -1118,33 +1093,6 @@
       "isBreaking": false
     },
     {
-      "id": "d65eeb2748bead0a",
-      "title": "‘She’s not afraid of anyone’: the prison writings of one of Hong Kong’s last outspoken democracy activists",
-      "summary": "Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom Tiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’ In one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell. “In a place like prison, where anything that is personal is stripped away, it’s even more important to hold on to every means by which you can express yourself,” she writes. “Don’t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a ‘model citizen’”. Continue reading...",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/world/2026/aug/22/chow-hang-tung-tiananmen-prison-writings-hong-kong",
-      "source": "The Guardian China",
-      "publisher": "The Guardian",
-      "published": "2026-08-21T23:50:48Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 1175,
-      "readingMinutes": 6,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/4b5da48979090d4203cf9c69ba99f66d03f35628/958_199_4751_3801/master/4751.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c61f9ec1e5066ce864e8f5939182cc2",
-      "body": "Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom\n\nTiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’\n\nIn one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell.\n\n“In a place like prison, where anything that is personal is stripped away, it’s even more important to hold on to every means by which you can express yourself,” she writes. “Don’t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a ‘model citizen’”.\n\nThe vignette is everyday, almost mundane. It stands in contrast to Chow’s position as one of Hong Kong’s most outspoken dissidents, one who has been detained for nearly five years awaiting trial over her role in organising an annual vigil marking the Tiananmen Square massacre.\n\nHer case represents one of the last high-profile national security trials to be heard in Hong Kong, as the national security law imposed by Beijing in 2020 extinguishes what was once one of the world’s most widely watched pro-democracy struggles.\n\nOn Friday, Chow and her co-defendant Lee Cheuk-yan were found guilty of “incitement to subversion” by a Hong Kong court. They face a maximum penalty of 10 years in jail when they are sentenced later in the year.\n\nAs the years pass by, the 41-year-old barrister has written screeds from behind bars on everything from the meaning of freedom to the legacy of the 1989 massacre, some of which have been translated by Brian Kern, a writer and human rights activist. Chow’s profile has only grown since she has been detained. She has won several human rights awards, and her social media profiles, which are managed on her behalf, are regularly updated with her writings from prison.\n\nIn another essay, she describes being handed a white Mickey Mouse t-shirt to wear in court because she is not allowed to wear clothing that carries the branding of her protest group, the Hong Kong Alliance.\n\n“The Mickey Mouse t-shirt may seem innocent on the surface, but isn’t it still a prison uniform provided by the correctional facility? Even before the Alliance has been convicted, its clothes have already become contraband,” she writes.\n\nWhile some writings are breezy and irreverent, many are deeply considered essays on defending civil rights in the face of a powerful and oppressive Chinese Communist party. As a highly regarded barrister who has been representing herself in court, she also dives into legal philosophy.\n\n“She’s not afraid of anything or anyone,” said Kevin Yam , a Hong Kong lawyer who now lives in exile. “For a lot of us who are outside Hong Kong now and sometimes feel a bit dispirited by things, her example and her inspiration is a big factor in us not losing hope and keeping our spirits up.”\n\nWu Yangwei, Chow’s fiance, a Chinese activist better known by his pen name, Ye Du, said it was Chow’s interest in mainland Chinese struggles that first attracted him to her. “From the moment I met her… I felt that she was incredibly innocent, deeply compassionate, and deeply empathetic toward China’s democracy and human rights defense movements,” Wu said. He now lives under close police surveillance in Guangdong province.\n\n‘A society that loses freedom of speech … loses its very soul’\n\nChow was arrested in September 2021 along with two other organisers of the now disbanded Hong Kong Alliance in Support of Democratic Movements of China.\n\nThe Hong Kong Alliance’s annual Tiananmen vigil, which attracted tens of thousands of Hongkongers each year, was banned in 2020 on the grounds of pandemic control.\n\nChow, along with Lee Cheuk-yan and Albert Ho, were charged with incitement to subversion under Hong Kong’s new sweeping national security law. Chow and Lee pleaded not guilty in their trial , which ended on 19 May, while Ho submitted a guilty plea, which could help him get a sentence reduction. All three have already served shorter sentences for other convictions relating to the vigil.\n\nA Hong Kong government spokesperson said Lee and Chow were prosecuted “because they have overstepped the boundaries of lawful conduct by committing a criminal act of inciting subversion.” The spokesperson said law enforcement actions paid “no regard to their political stance, background or occupation.”\n\nIn an essay written this year for the 37th anniversary of the Tiananmen Square massacre, Chow wrote: “A society that loses its freedom of speech never just loses a few articles or events – it loses its very soul”.\n\n“‘Power corrupts’ is a hackneyed phrase, but when the will to power permeates everything … the decline of society becomes inevitable. Conversely, resisting the encroachment of power, or even attempting to put it back in its cage, requires a steadfast return to fundamental human values.”\n\nFrom studying earthquakes to fighting for human rights\n\nChow came late to the law. A straight-A student, she had originally gone to Cambridge University to study natural sciences, specialising in seismology. In 2008, a massive earthquake struck Sichuan province, killing 70,000 people. Chow travelled to the region to volunteer as a rescue worker. Friends of Chow said the experience had a profound impact on her. She believed that the failure of the Chinese government to adequately prepare for the natural disaster, and the handling of the aftermath, increased the death toll, said the friends.\n\nChow dropped out of her PhD programme and returned to Hong Kong to retrain as a barrister. She threw herself into Hong Kong’s then vibrant civil society, volunteering for human rights groups alongside her studies. It was while preparing a bail application for a fellow pro-democracy activist, Gwyneth Ho, that Chow was arrested in September 2021.\n\n“She’s turned her scientific training to the Communist party, dissecting the party’s manoeuvres as clinically as she once looked at tectonic plates and seismic movements,” said Mark Clifford, the president of the Committee for Freedom in Hong Kong Foundation.\n\nSince Chow has been in jail, her fiance Wu has communicated with her by letter, and occasionally through letters published in the newspaper Ming Pao, which is available in prison. In January last year, their correspondence was cut off, Wu said. “It’s even worse than mainland China. In mainland prisons, political prisoners can still communicate with family, but Hong Kong prisons now block even that,” he said.\n\nHong Kong’s correctional services department said that all prisoners, including Chow, can send and receive letters “subject to the requirements of the prison rules”. The department said Wu’s claim was “totally false and misleading”.\n\nWu said that Chow’s letters are “full of fighting spirit”. “I am not worried about her,” he said.\n\nAs far back as 2021, Chow published an essay about her refusal to plead guilty, writing: “A stubborn freak like me can only march on and fight my case till the end … Having a chance to exhaust oneself is better than living a purposeless life, isn’t it?”\n\nHong Kong\n\nChina\n\nProtest\n\nTiananmen Square protests 1989\n\nAsia Pacific\n\nfeatures",
-      "imageWidth": 1200,
-      "imageHeight": 630
-    },
-    {
       "id": "d2ee42167f4a8c9e",
       "title": "Tesla recalls nearly 3m vehicles in China over door handle safety risks",
       "summary": "Recall comes after Chinese authorities said it would ban hidden car door handles commonly seen on Tesla models Tesla and other carmakers are making a major recall of more than 4m vehicles in China over safety concerns mostly related to their door handles, according to Chinese authorities on Friday. The US carmaker is recalling about 2.98m China-made and imported EVs including Model 3, Model Y, Model X and Model S over door-handle safety risks, according to China’s state administration for market regulation. Continue reading...",
@@ -1324,7 +1272,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f723/live/49cf9570-9dd2-11f1-b2b6-cb5bce61ac4a.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nPresident Donald Trump has been lashing out at reporters, often female journalists, when confronted with questions he does not like to answer.\n\nThe BBC's Tom Bateman takes a look at what triggers these public insults, and what are the questions the president doesn’t want to be asked.\n\nSubsection US & Canada\n\nPublished 23 hours ago\n\nRelated topics\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUnited States Follow United States close panel You are now following United States Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nPresident Donald Trump has been lashing out at reporters, often female journalists, when confronted with questions he does not like to answer.\n\nThe BBC's Tom Bateman takes a look at what triggers these public insults, and what are the questions the president doesn’t want to be asked.\n\nSubsection US & Canada\n\nPublished 1 day ago\n\nRelated topics\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUnited States Follow United States close panel You are now following United States Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1999,6 +1947,29 @@
       "imageUrl": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=700&quality=85&auto=format&fit=max&s=03920ff6d052f3f77d474d9591414f45"
     },
     {
+      "id": "9fe5f6841f5f3b91",
+      "title": "Kazakhstan's future after the elections: Russia, EU or China",
+      "summary": "Kazakhstan, where power is being continuously consolidated in the president's hands, will have to continue its tough balancing act between the EU, Russia and China following the parliamentary elections this Sunday.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-23T04:23:00Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 31,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "ae43d603652c8f06",
       "title": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
       "summary": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines Business live – latest updates The founder of Evergrande, one of China’s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated. Hui Ka Yan, 67 and once named by Forbes as China’s richest man, with a net worth of $42.5bn (£31.2bn) in 2017, pleaded guilty in April to eight charges. Continue reading...",
@@ -2021,6 +1992,53 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/709754c9a4198b956f1c2acc98bb9478b6dedbde/542_0_5415_4332/master/5415.jpg?width=700&quality=85&auto=format&fit=max&s=ae56f61bf208c520378e45cb446d328c"
+    },
+    {
+      "id": "0268577adce04598",
+      "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
+      "summary": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying that tariffs would follow the collapse of talks.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-23T03:08:00Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 33,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "a0784164f599d2b8",
+      "title": "Wales pushing the pain barrier in bid to improve",
+      "summary": "BBC Sport spends a day in Wales' pre-season camp, watching players put through their paces ahead of the new WXV Global Series.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqx7n5gw0wxo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-23T04:49:04Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c62d/live/9a0807f0-9c8f-11f1-8d19-93d7082c5662.jpg"
     },
     {
       "id": "3c006dfd65b6c061",
@@ -2166,6 +2184,29 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-535196267-1152x648.jpg"
     },
     {
+      "id": "25175ae423919392",
+      "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
+      "summary": "Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-23T03:42:22Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "4d48cc59c837e776",
       "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
       "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
@@ -2212,6 +2253,29 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg"
+    },
+    {
+      "id": "2326e9cc69d329b0",
+      "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
+      "summary": "A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-23T03:16:19Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "f3a023cad29219c8",
@@ -2308,29 +2372,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/388d/live/bcd018c0-9e76-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "0268577adce04598",
-      "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
-      "summary": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying that tariffs would follow the collapse of talks.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-08-22T22:12:00Z",
-      "category": "Politics",
-      "region": "Canada",
-      "labels": [
-        "Politics",
-        "Canada"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 33,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "938eeb3a456cc56e",
@@ -3269,52 +3310,6 @@
       "isBreaking": false
     },
     {
-      "id": "9fe5f6841f5f3b91",
-      "title": "Kazakhstan's future after the elections: Russia, EU or China",
-      "summary": "Kazakhstan, where power is being continuously consolidated in the president's hands, will have to continue its tough balancing act between the EU, Russia and China following the parliamentary elections this Sunday.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-08-22T14:42:00Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 31,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "7cb5e722bae06d01",
-      "title": "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
-      "summary": "While lawyers for the US president argue the subpoenas are 'cynical', the BBC says they could help shine light on case.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-22T17:52:42Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "e18df3a582aa82a7",
       "title": "Privacy advocates call on Maryland to investigate data brokers",
       "summary": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies.",
@@ -3457,30 +3452,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a4/live/d01f3ad0-9e3c-11f1-bb45-576721ee33bb.jpg"
-    },
-    {
-      "id": "69a7c930bb4da90c",
-      "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-      "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-08-22T17:02:06Z",
-      "category": "Tech",
-      "region": "China",
-      "labels": [
-        "Tech",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee7/live/c783fb00-9e4a-11f1-8871-ff7211da55c9.jpg"
     },
     {
       "id": "a37510a4cd3ace45",
@@ -4943,6 +4914,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8763/live/725b1f30-9be0-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "id": "4b4f755e58482974",
+      "title": "Cease garners first-place votes in latest Cy Young poll",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/cam-schlittler-jacob-misiorowski-lead-fifth-2026-cy-young-poll",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-18T04:00:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     }
   ],
   "sourceStatus": [
@@ -4983,8 +4978,8 @@
     },
     {
       "source": "UN News",
-      "ok": true,
-      "items": 30
+      "ok": false,
+      "error": "not well-formed (invalid token): line 1, column 0"
     },
     {
       "source": "The Guardian China",
