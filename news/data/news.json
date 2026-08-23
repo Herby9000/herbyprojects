@@ -1,21 +1,22 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-23T04:51:02.905541Z",
+  "generatedAt": "2026-08-23T08:47:04.038674Z",
   "topStoryIds": [
     "196c582be0fa18b0",
     "867af1e4d1d680ca",
-    "7ad5124107f83fa8",
+    "371c9cd3d9ccf052",
+    "8a039172e5ce81d6",
     "d65eeb2748bead0a",
-    "5e77a8b12d59091c",
     "d99f25eac0c92e1b",
     "d91fa75fb051169d"
   ],
   "sectionStoryIds": {
     "Politics": [
       "196c582be0fa18b0",
+      "8a039172e5ce81d6",
       "d65eeb2748bead0a",
       "5e77a8b12d59091c",
-      "ff674e5c196093ba"
+      "2d48a953e87b1464"
     ],
     "Tech": [
       "867af1e4d1d680ca",
@@ -27,27 +28,28 @@
       "17e84493323fff29"
     ],
     "Economics": [
+      "371c9cd3d9ccf052",
       "e7e94e73f93288b2",
       "7ad5124107f83fa8",
       "8054d76697312338"
     ],
     "Sports": [
+      "930eab54436ba96a",
       "b9ee67a72f663c70",
       "e081f536c3bfaad8",
       "63f22a85862c9210",
+      "2431af0d98f1c620",
+      "0028d65d89400e85",
+      "a0784164f599d2b8",
+      "f42c96abe3c2b021",
+      "1bc43ae691798293",
       "e490b9cf5b975ac2",
-      "7854e387f7e3e5e8",
-      "8439fd3d9048f0fb",
-      "eadb3c0094cab86e",
-      "446014f5425e0c4b",
-      "0890e7df202be301",
-      "eadf3e2637417675",
-      "12f8c08b3a6879da",
-      "936a7aa205606d39"
+      "6f6acff13277b8f9",
+      "a3a43e2372fe1df3"
     ],
     "Editorial": [
-      "836e3c3318c904b2",
-      "2d3947813cd0e036",
+      "e6c9261ec0179009",
+      "50dff65f474f057c",
       "cc3279dac77edf5c",
       "6b212ec9d57f61d9",
       "4b06c906b405236a",
@@ -112,14 +114,14 @@
       "imageHeight": 1440
     },
     {
-      "id": "7ad5124107f83fa8",
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+      "id": "371c9cd3d9ccf052",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo",
       "source": "BBC Business",
       "publisher": "BBC",
-      "published": "2026-08-22T00:40:47Z",
+      "published": "2026-08-23T05:46:43Z",
       "category": "Economics",
       "region": "Canada",
       "labels": [
@@ -129,12 +131,39 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 802,
-      "readingMinutes": 4,
+      "wordCount": 901,
+      "readingMinutes": 5,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/064f/live/86495a50-9dbd-11f1-aed2-8d6da8d75094.jpg",
-      "body": "Canada-US trade minister Dominic LeBlanc has been in Washington for two weeks trying to hammer out a deal\n\nPublished 21 August 2026\n\nCanada-US trade minister Dominic LeBlanc said negotiators \"have more work to do\" as he left a meeting with US counterparts ahead of a midnight deadline to finalise a tentative trade deal with the Trump administration.\n\n\"We're going to continue working up until the last minute,\" he told reporters in Washington on Friday evening. \"Our job is not finished.\"\n\nNegotiators have until Friday night to hammer out the details of the deal or risk a fresh wave of additional US tariffs on a wide range of Canadian goods.\n\nLeBlanc spent some eight hours in meetings with US trade representative Jamieson Greer and other negotiators - one of the longest sessions so far as talks go down to the wire.\n\nTrump pauses new tariffs on Canada for three days, saying deal close Published 3 days ago\n\nCanada's 'powerful' dairy sector is in Trump's trade crosshairs Published 23 July\n\nHours before the deadline, President Donald Trump did not say whether a definitive deal had been agreed, but that it was \"moving along\".\n\n\"We should be able to have a deal with Canada. We're also starting on a new deal with Mexico. A much better deal for the United States. I only make good deals,\" he told reporters on Friday.\n\nThe full framework of the deal has yet to be made public, but details leaked to several media outlets suggest the US will agree to reduce tariffs on Canadian steel and aluminium from 50% to 25%, and tariffs on Canadian automobiles from 25% to 15%.\n\nIn addition to restoring the sale of American alcohol, Canada is said to be considering allowing American dairy producers greater access to its market and removing its retaliatory tariffs on the US.\n\nConservative opposition leader Pierre Poilievre said that any agreement that includes \"one-sided\" tariffs on Canadian industry is \"a bad deal\".\n\n\"I am concerned with the de-industrialisation of our economy if our key industries pay one-sided tariffs,\" Poilievre told reporters on Friday.\n\nOne of Canada's provincial leaders has criticised a prospective trade deal with the US and pushed his country to hold out for favourable terms, showing Prime Minister Mark Carney faces a tough battle in getting buy-in on the agreement hours away from a US-set deadline.\n\nStill, Manitoba Premier Wab Kinew said Canada \"should fight\" and not rush to make concessions.\n\nCarney needs Kinew and other premiers to restore sales of US alcohol on liquor store shelves, so that the US will reportedly agree to reduce some of its tariffs on Canadian metals and autos.\n\nManitoba premier Wab Kinew publicly criticised the trade deal being discussed by the US and Canada, and called Donald Trump a \"bad person\"\n\nQuebec Premier Christine Fréchette, whose province is home to a large dairy industry, said on Thursday that she was analysing what the deal will mean for Quebec farmers before deciding on whether to restore US alcohol sales.\n\nDoug Ford, the traditionally outspoken premier of Canada's largest province Ontario, has yet to comment publicly on the deal.\n\nMeanwhile, other premiers, namely of Nova Scotia and the Yukon territory, said they were prepared to restore US alcohol sales.\n\nThe mayor of an Ontario city that is home to the country's second-largest steel producer told the CBC that a deal that includes 25% tariffs on the sector \"wouldn't be something to celebrate\".\n\n\"I am worried with the news that's coming out that we are not seeing a deal that will benefit our community at the very least,\" Mayor Matthew Shoemaker said.\n\nBut Carney has also faced pressure from businesses and stakeholders to reach a deal that would avert an additional 50% tariff that Trump has threatened on a range of Canadian goods, from hockey equipment to wine to cement.\n\nCanada could lose 90,000 jobs if the new tariffs were implemented, according to estimates in an analysis published on Thursday , external by Trevor Tombe, a Calgary-based economist.\n\nThe mixed reaction so far is a glimpse of the task ahead for Prime Minister Carney after he campaigned on a tough \"elbows-up\" approach to dealing with Trump.\n\nPolls suggest a majority of Canadians would be unhappy if the Carney government made significant concessions to the US, with 56% surveyed by polling firm Leger , external saying they wanted Canada to take a hardline approach.\n\nIn a leaked audio recording reported by the Canadian Press, US Vice-President JD Vance told attendees at a private fundraiser on Wednesday that Carney has tried to \"out-tough Donald Trump\" in trade talks.\n\n\"It's hilarious because Carney presents this as some victory for Canada when fundamentally, like, they climb down on a lot of issues,\" Vance reportedly told the room.\n\nRelated topics\n\nCanada\n\nMark Carney\n\nUnited States\n\nTrump tariffs\n\nTrade\n\nTrade war",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
+      "body": "Trump has repeatedly mentioned making Canada the \"51st state\" of America since returning to office\n\nPublished 22 August 2026\n\nUS President Donald Trump has said Canada wants \"the benefits of being a State, without being one\" after trade talks between the two countries collapsed late on Friday.\n\nIn his first comments since negotiations broke down, triggering new 50% US tariffs on a range of Canadian goods, Trump also said American farmers had been charged \"massive amounts of Tariffs\" for years.\n\nIt comes after Canadian Prime Minister Mark Carney called the fresh tariffs a \"miscalculation\" designed to \"hurt and divide us\".\n\nCarney confirmed he would match Trump's tariffs \"dollar-for-dollar\" from 8 September, including levies on steel, dairy, appliances and electronics. The US and Canada are now in a trade \"war\", he said.\n\n\"They asked too much and they offered too little,\" Carney said on Saturday. \"You're at war when you get attacked. We got attacked,\" he added.\n\nTrump's latest comments echo his repeated references to making Canada the \"51st state\" of America since returning to office, sparking frustration among its leaders and residents.\n\nThe collapse of the trade talks upended a deeply integrated trading relationship, with no clear path to resolution.\n\n\"We cannot accept what they've offered, and we will not give what they've asked,\" Carney said.\n\nBoth countries were optimistic of a deal earlier in the week, but talks fell apart after both sides accused the other of making last-minute changes.\n\nThe new 50% US tariffs will apply to a range of Canadian goods, in addition to existing US tariffs on Canadian steel, aluminium, automobiles and lumber.\n\nThey are limited in scope, covering about $20bn (£15bn; C$28bn) of Canadian imports, or about 5% in total, including wine, dairy, cement, clothing and hockey equipment.\n\nThe prime minister said Canada was retaliating \"reluctantly\" to protect its interests. Details of the counter-measures will be released in the coming days, he said.\n\nCarney faces crucial test after walking away from Trump's deal Published 12 hours ago\n\nLeaders of other federal parties in Canada, including the Conservative opposition, voiced support for the prime minister, as have the leaders of some Canadian provinces.\n\nTariffs - a tax placed on imports from other countries - have been a key component of Trump's trade policy, with the US president arguing they will boost American manufacturing and create jobs at home.\n\nCritics, however, say tariffs have raised prices for American consumers and have disrupted and damaged the global economy.\n\nCarney's speech on Saturday was his first address to Canadians after he announced late on Friday night that a deal would not be reached, accusing the Americans of making \"last-minute changes\" that were \"unfair\" and \"uneconomic\".\n\nUS negotiators, meanwhile, accused Canada of making \"new demands and walk backs\" on terms which had been previously agreed.\n\nOn Saturday, US trade representative Jamieson Greer told Fox News there were no plans to resume talks.\n\nHe added that the US had been prepared to cut some of its tariffs on Canada as part of the ill-fated deal.\n\nCarney, however, said the US presented \"unacceptable\" terms that were too restrictive, including curbing Canada's ability to strike new trade deals with other countries.\n\nHe also rejected the assertion that Canada had made last-minute requests: \"We clarified what was on offer and were continually disappointed by the answers.\"\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: 'US asked too much and offered too little,' says Canada's PM Mark Carney\n\nDoug Ford, the leader of Canada's most populous province Ontario, backed Carney and said Trump \"can't be trusted\".\n\nBritish Columbia Premier David Eby said the US demand for restrictions on Canada's ability to have other trade deals \"would reduce us to the economic equivalent of the 51st state\".\n\n\"It was never acceptable to Canadians,\" Eby said.\n\nThe Conservative opposition leader Pierre Poilievre also appeared to support Carney, calling the latest US levies \"unjustified\".\n\nQuebec's premier, Christine Fréchette, warned jobs would likely be lost as a result of the new US tariffs.\n\n\"Behind these numbers are real people,\" she said, vowing to introduce measures to support impacted sectors.\n\nAlberta Premier Danielle Smith, whose oil-rich province has worked to make inroads with the Trump administration, urged both sides to resume talks.\n\nThe collapse comes after more than a year of on-again, off-again trade talks, which intensified in recent weeks after a US-imposed deadline to strike a deal or face further tariffs.\n\nThe two countries were also engaged in a mandatory review of an existing North American free trade agreement, known as USMCA, with Mexico.\n\nThe pact was signed by Trump during his first term to replace the 1994 North American Free Trade Agreement. It underpins $1.6tn (£1.2tn) in annual trilateral trade across Canada, the US and Mexico.\n\nEarlier this summer, Canada and Mexico had formally requested for USMCA to be renewed for another 16 years. The US, however, declined to renew it in its current form.\n\nAsked how Friday's trade talk collapse would impact the North American free trade pact, Carney said it was \"certainly not good news\".\n\nRelated topics\n\nCanada\n\nUnited States\n\nTrump tariffs\n\nDonald Trump\n\nMark Carney\n\nMore on this story\n\nCanada says it will match US tariffs 'dollar for dollar' as trade talks break down Published 20 hours ago\n\nMany Canadians are boycotting the US, so this is where they're travelling instead Published 15 August",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "id": "8a039172e5ce81d6",
+      "title": "Restriction zone scheme for offenders to start in October",
+      "summary": "Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-08-23T02:37:03Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 558,
+      "readingMinutes": 3,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4e93/live/e7605c80-9e8f-11f1-8854-6b09b84b2062.jpg",
+      "body": "Published 6 hours ago\n\nA scheme that could see serious sexual and violent offenders confined to areas just a few miles wide after leaving prison will be launched in October, Justice Secretary Alex Norris has announced.\n\nGovernment ministers say this is designed to give victims greater freedom and further reduce the possibility of unwanted contact\n\nThe intention to introduce \"restriction zones\" for violent offenders who leave prison and who are on probation was first announced by the government last year.\n\nProbation officers will be able to limit where serious offenders can go for as long as it is deemed necessary. Those who breach their new boundaries could be recalled to prison.\n\nThis would go beyond the current practice of imposing \"exclusion zones\" which ban offenders from specific locations such as a victim's home or place of work.\n\nNorris is expected to come up with proposals to further restrict the early release of some prisoners when Parliament resumes next month.\n\nBut the Conservatives say that the best thing Labour could do to protect victims is to bring forward emergency legislation which would stop the early release of thousands of criminals.\n\nThere is a risk that serious sexual and violent offenders and victims could encounter one another outside exclusion zones.\n\nThe new scheme will specify confined areas for offenders in plans tailored to them and developed in consultation with victims.\n\nNorris said the scheme would use GPS technology monitored by probation officers so that \"those who step outside the boundaries can be quickly identified and face being sent back to prison\".\n\n\"Offenders should carry the consequences of their crimes, not their victims,\" he added.\n\nAmy Glover, director of domestic abuse services at Advance, a charity supporting women and girls who have experienced domestic abuse, praised the \"change in focus\".\n\nHowever, she also called for reform to the criminal justice system saying many survivors of abuse chose \"not to pursue a criminal conviction, and for those that do only 5% reach conviction.\"\n\nA domestic abuse survivor named only as Kristina called the restriction zones a \"fantastic concept\" but noted that a perpetrator had continuously breached her indefinite restraining order \"without consequence\".\n\n\"The biggest challenge would be to gain victims' confidence in authorities to follow through their promises of protection,\" she added.\n\nThe announcement of the restriction zone scheme's start date comes after a change to the government's early release scheme following a backlash.\n\nIntroduced to ease prison overcrowding, on 4 August the policy was updated so people sentenced for rape, serious child sex offences and grooming would not be eligible for early release.\n\nThe Prison Governors' association warned this change to plans at a \"very late stage\" put further pressure on prison staff.\n\nThe restriction zone scheme was criticised when it was announced last year for potentially putting pressure on probation staff, something the government says it hopes to alleviate with more staff and a greater use of technology.\n\nIf you are suffering from domestic abuse, details of help and support in the UK are available at BBC Action Line\n\nRelated topics\n\nSexual violence\n\nPrison reform\n\nUK prisons\n\nWomen's rights\n\nMore on this story\n\nSerious offenders to be kept in restricted zones under plans Published 8 August 2025\n\nWhat's behind having to release some prisoners early? Published 4 August\n\nWhat could happen to prisoner early release scheme now? Published 4 August",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -164,33 +193,6 @@
       "body": "Chow Hang-tung has been detained since 2021, and written about everything from clothes to Tiananmen Square and the meaning of freedom\n\nTiananmen Square vigil organisers in Hong Kong found guilty of ‘inciting subversion’\n\nIn one essay written from prison, Chow Hang-tung worries about her hairstyle before court appearances because there are no combs or mirrors in her cell.\n\n“In a place like prison, where anything that is personal is stripped away, it’s even more important to hold on to every means by which you can express yourself,” she writes. “Don’t let uniform, depersonalised rules, dress codes, schedules, and behavioural requirements grind down your edges and mould you into a ‘model citizen’”.\n\nThe vignette is everyday, almost mundane. It stands in contrast to Chow’s position as one of Hong Kong’s most outspoken dissidents, one who has been detained for nearly five years awaiting trial over her role in organising an annual vigil marking the Tiananmen Square massacre.\n\nHer case represents one of the last high-profile national security trials to be heard in Hong Kong, as the national security law imposed by Beijing in 2020 extinguishes what was once one of the world’s most widely watched pro-democracy struggles.\n\nOn Friday, Chow and her co-defendant Lee Cheuk-yan were found guilty of “incitement to subversion” by a Hong Kong court. They face a maximum penalty of 10 years in jail when they are sentenced later in the year.\n\nAs the years pass by, the 41-year-old barrister has written screeds from behind bars on everything from the meaning of freedom to the legacy of the 1989 massacre, some of which have been translated by Brian Kern, a writer and human rights activist. Chow’s profile has only grown since she has been detained. She has won several human rights awards, and her social media profiles, which are managed on her behalf, are regularly updated with her writings from prison.\n\nIn another essay, she describes being handed a white Mickey Mouse t-shirt to wear in court because she is not allowed to wear clothing that carries the branding of her protest group, the Hong Kong Alliance.\n\n“The Mickey Mouse t-shirt may seem innocent on the surface, but isn’t it still a prison uniform provided by the correctional facility? Even before the Alliance has been convicted, its clothes have already become contraband,” she writes.\n\nWhile some writings are breezy and irreverent, many are deeply considered essays on defending civil rights in the face of a powerful and oppressive Chinese Communist party. As a highly regarded barrister who has been representing herself in court, she also dives into legal philosophy.\n\n“She’s not afraid of anything or anyone,” said Kevin Yam , a Hong Kong lawyer who now lives in exile. “For a lot of us who are outside Hong Kong now and sometimes feel a bit dispirited by things, her example and her inspiration is a big factor in us not losing hope and keeping our spirits up.”\n\nWu Yangwei, Chow’s fiance, a Chinese activist better known by his pen name, Ye Du, said it was Chow’s interest in mainland Chinese struggles that first attracted him to her. “From the moment I met her… I felt that she was incredibly innocent, deeply compassionate, and deeply empathetic toward China’s democracy and human rights defense movements,” Wu said. He now lives under close police surveillance in Guangdong province.\n\n‘A society that loses freedom of speech … loses its very soul’\n\nChow was arrested in September 2021 along with two other organisers of the now disbanded Hong Kong Alliance in Support of Democratic Movements of China.\n\nThe Hong Kong Alliance’s annual Tiananmen vigil, which attracted tens of thousands of Hongkongers each year, was banned in 2020 on the grounds of pandemic control.\n\nChow, along with Lee Cheuk-yan and Albert Ho, were charged with incitement to subversion under Hong Kong’s new sweeping national security law. Chow and Lee pleaded not guilty in their trial , which ended on 19 May, while Ho submitted a guilty plea, which could help him get a sentence reduction. All three have already served shorter sentences for other convictions relating to the vigil.\n\nA Hong Kong government spokesperson said Lee and Chow were prosecuted “because they have overstepped the boundaries of lawful conduct by committing a criminal act of inciting subversion.” The spokesperson said law enforcement actions paid “no regard to their political stance, background or occupation.”\n\nIn an essay written this year for the 37th anniversary of the Tiananmen Square massacre, Chow wrote: “A society that loses its freedom of speech never just loses a few articles or events – it loses its very soul”.\n\n“‘Power corrupts’ is a hackneyed phrase, but when the will to power permeates everything … the decline of society becomes inevitable. Conversely, resisting the encroachment of power, or even attempting to put it back in its cage, requires a steadfast return to fundamental human values.”\n\nFrom studying earthquakes to fighting for human rights\n\nChow came late to the law. A straight-A student, she had originally gone to Cambridge University to study natural sciences, specialising in seismology. In 2008, a massive earthquake struck Sichuan province, killing 70,000 people. Chow travelled to the region to volunteer as a rescue worker. Friends of Chow said the experience had a profound impact on her. She believed that the failure of the Chinese government to adequately prepare for the natural disaster, and the handling of the aftermath, increased the death toll, said the friends.\n\nChow dropped out of her PhD programme and returned to Hong Kong to retrain as a barrister. She threw herself into Hong Kong’s then vibrant civil society, volunteering for human rights groups alongside her studies. It was while preparing a bail application for a fellow pro-democracy activist, Gwyneth Ho, that Chow was arrested in September 2021.\n\n“She’s turned her scientific training to the Communist party, dissecting the party’s manoeuvres as clinically as she once looked at tectonic plates and seismic movements,” said Mark Clifford, the president of the Committee for Freedom in Hong Kong Foundation.\n\nSince Chow has been in jail, her fiance Wu has communicated with her by letter, and occasionally through letters published in the newspaper Ming Pao, which is available in prison. In January last year, their correspondence was cut off, Wu said. “It’s even worse than mainland China. In mainland prisons, political prisoners can still communicate with family, but Hong Kong prisons now block even that,” he said.\n\nHong Kong’s correctional services department said that all prisoners, including Chow, can send and receive letters “subject to the requirements of the prison rules”. The department said Wu’s claim was “totally false and misleading”.\n\nWu said that Chow’s letters are “full of fighting spirit”. “I am not worried about her,” he said.\n\nAs far back as 2021, Chow published an essay about her refusal to plead guilty, writing: “A stubborn freak like me can only march on and fight my case till the end … Having a chance to exhaust oneself is better than living a purposeless life, isn’t it?”\n\nHong Kong\n\nChina\n\nProtest\n\nTiananmen Square protests 1989\n\nAsia Pacific\n\nfeatures",
       "imageWidth": 1200,
       "imageHeight": 630
-    },
-    {
-      "id": "5e77a8b12d59091c",
-      "title": "Economic adviser O'Neill rules out government job but backs PM's devolution plans",
-      "summary": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/cwym4m4j848o",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-08-22T08:37:16Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 568,
-      "readingMinutes": 3,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43f6/live/83b694f0-9dd2-11f1-b2b6-cb5bce61ac4a.jpg",
-      "body": "Jim O'Neill (image from 2014)\n\nPublished 22 August 2026\n\nEconomist Lord Jim O'Neill, who has been advising the prime minister, has said he will not be taking a job in Andy Burnham's government.\n\nAs first reported by , external the Financial Times, Lord O'Neill, a crossbench peer who was once a treasury minister under the Conservatives, said he did not want the constraints involved in taking on a formal role.\n\nThe former chief economist at Goldman Sachs had been tipped to become Burnham's chief economic adviser.\n\nHe said he was enjoying what he was currently doing too much and did not want to have to give up control of his business interests to comply with official rules.\n\nHe told BBC Radio 4's Today programme that he had \"lots of other things that are going on that I very much enjoy\" and, having been a minister before, he knew the job included \"all the constraints that understandably go with it, like a blind trust and to abandon everything else you do, never mind the fact that it's 24/7\".\n\nIn placing shares in blind trusts, ministers have no knowledge of how their investment is being handled, to avoid any potential conflict of interest.\n\nHe said he concluded he would rather be a voice to talk to and \"get on with the rest of the things in my life\".\n\nHe earlier told the Financial Times it was \"not because of any policy disagreements\", adding \"I'm a massive fan of the focus on devolution and I hope Andy and his team will be bold on this and everything else.\"\n\nHe pointed to Greater Manchester as an example of economic growth and said if you could repeat that around populated areas, \"then national economic performance will improve\".\n\nAsked by the BBC whether the new government in the upcoming October budget would need to raise taxes, Lord O'Neill said it was a choice for the prime minister and his team \"based on the things they're saying they want to do more of - defence spending is obviously the one that catches the eye\", among other things.\n\nPressed on whether the government could turn to something such as wealth taxes, Lord O'Neill said he was \"not a fan of further increases in these kind of taxes, particularly as it relates to capital gains for genuine risk taking things like venture capital\".\n\nHe noted that the country has boosted government spending \"dramatically\" in recent years and needed a \"more sensible approach to welfare spending under genuine welfare reform\".\n\nFrom 2015-2016, Lord O'Neill was commercial secretary to the Treasury under the then-Chancellor, George Osborne.\n\nThe peer, who grew up in Greater Manchester, was a key figure in pushing the Conservatives' Northern Powerhouse agenda, which was aimed at boosting the economy of the North of England.\n\nLord O'Neill is also known as the economist who coined the term Bric in 2001 to describe leading developing or newly industrialised countries with potential for fast growth and, therefore, investment returns.\n\nThe original four nations - Brazil, Russia, India and China - later became the Brics when they were joined by South Africa.\n\nRelated topics\n\nUK economy\n\nAndy Burnham\n\nMore on this story\n\nUK borrows more than expected in July as Healey prepares for first Budget Published 1 day ago\n\nInflation is heating up but don't expect another crisis Published 3 days ago\n\nJobs, borrowing and taxes: Andy Burnham's economic challenges Published 20 July",
-      "imageWidth": 1200,
-      "imageHeight": 675
     },
     {
       "id": "d99f25eac0c92e1b",
@@ -237,24 +239,24 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 702,
+      "wordCount": 710,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/illo_dumpling_shop_final-1600x900.jpg",
-      "body": "Global Dispatch\n\nBusiness owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”\n\nBy Viola Zhou\n\nViola Zhou is a reporter for Rest of World covering China's tech scene. She is based in New York City.\n\nThis essay was first published in our Global Dispatch newsletter. Sign up here to get it straight to your inbox.\n\nIf you have an AI agent, you can tell it to build a website, make a slideshow, or get you a table at a popular dumpling shop in Beijing.\n\nThe dumpling shop, called Jinguyuan, has made headlines in China for creating a “skill” that allows users to check out the menu, seek recommendations, or join the queue by talking to their personal AI agents — tools that can automatically carry out tasks on a phone or laptop. Skills are files that teach AI agents specific workflows.\n\nThe shop owner, 41-year-old Li Bo, told me he built the AI skill in April, as he witnessed the growing popularity of agentic AI tools. Li began envisioning a world where everybody asks their AI assistant to plan daily work and life, including what to eat. Li wanted his dumpling shop to be part of that future.\n\n“Science and technology are a primary productive force,” Li told me, quoting China’s late leader Deng Xiaoping, who unleashed the historic reforms in 1978 that led to the country’s economic miracle in the following decades. “You always need to surround yourself with the most advanced productive force.”\n\nIn many developed countries, AI is primarily associated with job losses, threats to creativity, and sprawling data centers invading rural communities. Outside of the tech industry, relying on AI sometimes evokes a sense of shame similar to cheating. In New York City, where I live, few small businesses advertise how much they use AI, even though on the streets, menus and posters everywhere have the telltale signs of AI-generated imagery and typography.\n\n[In China] everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nWhen I speak with people living in China, I find many are similarly worried about AI’s impact on the job market and the tech industry’s exploitative nature, but at the same time, everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nCrash courses on large language models flourish online. Office workers rush to experiment with new AI tools to avoid falling behind in the competitive job market. When the agentic tool OpenClaw went viral, people queued up to have it installed on their laptops. A 2025 survey by public opinion firm Ipsos found that among the 30 countries surveyed, the Chinese population expressed the highest level of excitement about AI.\n\nLi studied telecommunications engineering at the Beijing University of Posts and Telecommunications. After graduating with a master’s degree in 2010, instead of becoming an engineer like many of his classmates, he worked at hostels, peddled homemade desserts, and eventually partnered with a dumpling chef to open Jinguyuan near his alma mater, serving students and tech workers.\n\nAI reignited Li’s excitement for tech. Besides the AI skill, he also vibe-coded a website tracking the queue status at Jinguyuan’s two branches, mostly with Alibaba’s coding tool Qoder. In July, Li partnered with an AI cloud provider to give every customer a token coupon worth 10 yuan ($1.50) that could be put toward model subscriptions.\n\nLi admits his AI skill brings more media attention than actual usage, but he is proud of becoming a role model for AI adoption. “Someone needs to start using it, even when it’s not that good,” Li said. “When steam engines just came out, people joked that they were not as good as horses. But in the end, cars won out.”\n\nBan on Chinese robots leaves U.S. startups stranded\n\nWashington’s limits on foreign parts promises a supply chain revolution — but Silicon Valley founders say domestic alternatives don’t exist yet.\n\nChinese carmakers now sell one EV abroad for every two at home\n\nDwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.\n\n“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”\n\nObservers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
+      "body": "Global Dispatch\n\nBusiness owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”\n\nBy Viola Zhou\n\nViola Zhou is a reporter for Rest of World covering China's tech scene. She is based in New York City.\n\nThis essay was first published in our Global Dispatch newsletter. Sign up here to get it straight to your inbox.\n\nIf you have an AI agent, you can tell it to build a website, make a slideshow, or get you a table at a popular dumpling shop in Beijing.\n\nThe dumpling shop, called Jinguyuan, has made headlines in China for creating a “skill” that allows users to check out the menu, seek recommendations, or join the queue by talking to their personal AI agents — tools that can automatically carry out tasks on a phone or laptop. Skills are files that teach AI agents specific workflows.\n\nThe shop owner, 41-year-old Li Bo, told me he built the AI skill in April, as he witnessed the growing popularity of agentic AI tools. Li began envisioning a world where everybody asks their AI assistant to plan daily work and life, including what to eat. Li wanted his dumpling shop to be part of that future.\n\n“Science and technology are a primary productive force,” Li told me, quoting China’s late leader Deng Xiaoping, who unleashed the historic reforms in 1978 that led to the country’s economic miracle in the following decades. “You always need to surround yourself with the most advanced productive force.”\n\nIn many developed countries, AI is primarily associated with job losses, threats to creativity, and sprawling data centers invading rural communities. Outside of the tech industry, relying on AI sometimes evokes a sense of shame similar to cheating. In New York City, where I live, few small businesses advertise how much they use AI, even though on the streets, menus and posters everywhere have the telltale signs of AI-generated imagery and typography.\n\n[In China] everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nWhen I speak with people living in China, I find many are similarly worried about AI’s impact on the job market and the tech industry’s exploitative nature, but at the same time, everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nCrash courses on large language models flourish online. Office workers rush to experiment with new AI tools to avoid falling behind in the competitive job market. When the agentic tool OpenClaw went viral, people queued up to have it installed on their laptops. A 2025 survey by public opinion firm Ipsos found that among the 30 countries surveyed, the Chinese population expressed the highest level of excitement about AI.\n\nLi studied telecommunications engineering at the Beijing University of Posts and Telecommunications. After graduating with a master’s degree in 2010, instead of becoming an engineer like many of his classmates, he worked at hostels, peddled homemade desserts, and eventually partnered with a dumpling chef to open Jinguyuan near his alma mater, serving students and tech workers.\n\nAI reignited Li’s excitement for tech. Besides the AI skill, he also vibe-coded a website tracking the queue status at Jinguyuan’s two branches, mostly with Alibaba’s coding tool Qoder. In July, Li partnered with an AI cloud provider to give every customer a token coupon worth 10 yuan ($1.50) that could be put toward model subscriptions.\n\nLi admits his AI skill brings more media attention than actual usage, but he is proud of becoming a role model for AI adoption. “Someone needs to start using it, even when it’s not that good,” Li said. “When steam engines just came out, people joked that they were not as good as horses. But in the end, cars won out.”\n\nThe online shopping trend where you buy nothing\n\nOn South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.\n\nMozilla’s CTO thinks AI should be built like the internet\n\nRaffi Krikorian explains that while consumers flock to ChatGPT and Claude, companies are increasingly turning to open models that they can customize and control.\n\n“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”\n\nObservers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
       "imageWidth": 1600,
       "imageHeight": 900
     },
     {
-      "id": "ff674e5c196093ba",
-      "title": "Ofcom investigating Sky News over Farage harassment claims",
-      "summary": "The Reform UK leader has accused Sky News of sending reporters to a house where his adult daughter lives.",
+      "id": "5e77a8b12d59091c",
+      "title": "Economic adviser O'Neill rules out government job but backs PM's devolution plans",
+      "summary": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/ce8k52186mmo",
+      "url": "https://www.bbc.co.uk/news/articles/cwym4m4j848o",
       "source": "BBC Politics",
       "publisher": "BBC",
-      "published": "2026-08-21T18:44:19Z",
+      "published": "2026-08-22T08:37:16Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
@@ -264,14 +266,38 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 527,
+      "wordCount": 568,
       "readingMinutes": 3,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/275c/live/9e5735b0-94ab-11f1-870d-5d08c49babb2.jpg",
-      "body": "Published 21 August 2026\n\nRegulator Ofcom has launched an investigation into Sky News over claims of harassment made by Reform UK leader Nigel Farage.\n\nLast month, Farage accused the broadcaster of infringing his family's privacy by sending reporters to a house where his adult daughter was living.\n\nReform UK made an official complaint to Ofcom, and called on Sky News to apologise on air and undertake not to seek to contact Farage's family at their homes.\n\nIn a post on Facebook on Friday, the Clacton MP said Ofcom was now investigating and that he was \"appalled at the way various members of my family have been treated\".\n\nThe broadcaster denied approaching Farage's daughter when he initially made the allegation.\n\nChris Mason: Farage attempts to seize back the agenda after finance row Published 7 July\n\nOfcom would not comment on any investigation but said it treated complaints in strict confidence and would not \"publicly confirm the identities of individuals concerned\".\n\nFarage claims reporters from Sky News approached his daughter's home while he was out of the country.\n\nSky News says it did not interact with his daughter, and was trying to ask Farage about a £5m gift he received from cryptocurrency investor Christopher Harborne before he entered Parliament in July 2024.\n\nA parliamentary standards investigation into whether the gift broke any rules resumed earlier this month after Farage was re-elected as MP for Clacton following a by-election he triggered that was boycotted by the other major parties.\n\nUpon returning to the country, Farage was questioned by Sky News over the undeclared gift, to which he responded: \"You tell your bosses, you harass my family any more, there will be serious consequences, that's what your organisation has done this morning, now go away.\"\n\nWhen pressed on the donation again, he said: \"Did you not hear me? You have broken all the rules, Leveson and everything else, cut.\"\n\nAt the time, Sky News said in a post on X: \"Sky News was not at the property at 7.41am. As has already been acknowledged, and as shown in the footage from 10.19am, Sky News was outside a property where Mr Farage was registered to vote at the last election.\n\n\"Sky News did not interact with Mr Farage's daughter.\n\n\"On a single occasion, we approached the property without a camera operator, identified ourselves as Sky News and the adult occupant chose not to engage. We were seeking to contact Mr Farage to ask questions about the gift he accepted from Mr Cottrell.\n\n\"This is a well-established and routine journalistic practice when reporting on matters of legitimate public interest.\n\n\"The footage clearly demonstrates that Sky News did not 'hound' or pursue Mr Farage's daughter.\n\n\"At no stage did we seek to speak to anyone other than Mr Farage in connection with this story.\"\n\nThe BBC has contacted Sky News for comment.\n\nOfcom says it aims to conclude fairness and privacy complaints within 90 working days.\n\nRelated topics\n\nNigel Farage\n\nReform UK\n\nOfcom\n\nMore on this story\n\nCount Binface receives over a quarter of votes in Clacton by-election Published 14 August\n\nFarage's by-election victory won't stop questions about finances Published 14 August",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43f6/live/83b694f0-9dd2-11f1-b2b6-cb5bce61ac4a.jpg",
+      "body": "Jim O'Neill (image from 2014)\n\nPublished 22 August 2026\n\nEconomist Lord Jim O'Neill, who has been advising the prime minister, has said he will not be taking a job in Andy Burnham's government.\n\nAs first reported by , external the Financial Times, Lord O'Neill, a crossbench peer who was once a treasury minister under the Conservatives, said he did not want the constraints involved in taking on a formal role.\n\nThe former chief economist at Goldman Sachs had been tipped to become Burnham's chief economic adviser.\n\nHe said he was enjoying what he was currently doing too much and did not want to have to give up control of his business interests to comply with official rules.\n\nHe told BBC Radio 4's Today programme that he had \"lots of other things that are going on that I very much enjoy\" and, having been a minister before, he knew the job included \"all the constraints that understandably go with it, like a blind trust and to abandon everything else you do, never mind the fact that it's 24/7\".\n\nIn placing shares in blind trusts, ministers have no knowledge of how their investment is being handled, to avoid any potential conflict of interest.\n\nHe said he concluded he would rather be a voice to talk to and \"get on with the rest of the things in my life\".\n\nHe earlier told the Financial Times it was \"not because of any policy disagreements\", adding \"I'm a massive fan of the focus on devolution and I hope Andy and his team will be bold on this and everything else.\"\n\nHe pointed to Greater Manchester as an example of economic growth and said if you could repeat that around populated areas, \"then national economic performance will improve\".\n\nAsked by the BBC whether the new government in the upcoming October budget would need to raise taxes, Lord O'Neill said it was a choice for the prime minister and his team \"based on the things they're saying they want to do more of - defence spending is obviously the one that catches the eye\", among other things.\n\nPressed on whether the government could turn to something such as wealth taxes, Lord O'Neill said he was \"not a fan of further increases in these kind of taxes, particularly as it relates to capital gains for genuine risk taking things like venture capital\".\n\nHe noted that the country has boosted government spending \"dramatically\" in recent years and needed a \"more sensible approach to welfare spending under genuine welfare reform\".\n\nFrom 2015-2016, Lord O'Neill was commercial secretary to the Treasury under the then-Chancellor, George Osborne.\n\nThe peer, who grew up in Greater Manchester, was a key figure in pushing the Conservatives' Northern Powerhouse agenda, which was aimed at boosting the economy of the North of England.\n\nLord O'Neill is also known as the economist who coined the term Bric in 2001 to describe leading developing or newly industrialised countries with potential for fast growth and, therefore, investment returns.\n\nThe original four nations - Brazil, Russia, India and China - later became the Brics when they were joined by South Africa.\n\nRelated topics\n\nUK economy\n\nAndy Burnham\n\nMore on this story\n\nUK borrows more than expected in July as Healey prepares for first Budget Published 1 day ago\n\nInflation is heating up but don't expect another crisis Published 3 days ago\n\nJobs, borrowing and taxes: Andy Burnham's economic challenges Published 20 July",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "2d48a953e87b1464",
+      "title": "Security Council LIVE: Drone strikes and political impasse in Libya",
+      "summary": "As Libya faces a political impasse delaying long-planned elections alongside clashes and drone strikes that left a major oil refinery ablaze, the Security Council heard the latest updates, with an activist warning that the collision of extreme heat, water scarcity and environmental shocks with political division, armed insecurity and struggling institutions clearly makes the situation a peace and security issue. UN News app users can follow our live coverage here.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168158",
+      "source": "UN News",
+      "publisher": "UN News",
+      "published": "2026-08-18T12:00:00Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 70,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": true,
+      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-04-2023_UNSMIL_Tripoli.jpg/image560x340cropped.jpg"
     },
     {
       "id": "fb94f54477be6cad",
@@ -398,6 +424,33 @@
       "imageHeight": 630
     },
     {
+      "id": "7ad5124107f83fa8",
+      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+      "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-08-22T00:40:47Z",
+      "category": "Economics",
+      "region": "Canada",
+      "labels": [
+        "Economics",
+        "Canada"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 802,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/064f/live/86495a50-9dbd-11f1-aed2-8d6da8d75094.jpg",
+      "body": "Canada-US trade minister Dominic LeBlanc has been in Washington for two weeks trying to hammer out a deal\n\nPublished 21 August 2026\n\nCanada-US trade minister Dominic LeBlanc said negotiators \"have more work to do\" as he left a meeting with US counterparts ahead of a midnight deadline to finalise a tentative trade deal with the Trump administration.\n\n\"We're going to continue working up until the last minute,\" he told reporters in Washington on Friday evening. \"Our job is not finished.\"\n\nNegotiators have until Friday night to hammer out the details of the deal or risk a fresh wave of additional US tariffs on a wide range of Canadian goods.\n\nLeBlanc spent some eight hours in meetings with US trade representative Jamieson Greer and other negotiators - one of the longest sessions so far as talks go down to the wire.\n\nTrump pauses new tariffs on Canada for three days, saying deal close Published 3 days ago\n\nCanada's 'powerful' dairy sector is in Trump's trade crosshairs Published 23 July\n\nHours before the deadline, President Donald Trump did not say whether a definitive deal had been agreed, but that it was \"moving along\".\n\n\"We should be able to have a deal with Canada. We're also starting on a new deal with Mexico. A much better deal for the United States. I only make good deals,\" he told reporters on Friday.\n\nThe full framework of the deal has yet to be made public, but details leaked to several media outlets suggest the US will agree to reduce tariffs on Canadian steel and aluminium from 50% to 25%, and tariffs on Canadian automobiles from 25% to 15%.\n\nIn addition to restoring the sale of American alcohol, Canada is said to be considering allowing American dairy producers greater access to its market and removing its retaliatory tariffs on the US.\n\nConservative opposition leader Pierre Poilievre said that any agreement that includes \"one-sided\" tariffs on Canadian industry is \"a bad deal\".\n\n\"I am concerned with the de-industrialisation of our economy if our key industries pay one-sided tariffs,\" Poilievre told reporters on Friday.\n\nOne of Canada's provincial leaders has criticised a prospective trade deal with the US and pushed his country to hold out for favourable terms, showing Prime Minister Mark Carney faces a tough battle in getting buy-in on the agreement hours away from a US-set deadline.\n\nStill, Manitoba Premier Wab Kinew said Canada \"should fight\" and not rush to make concessions.\n\nCarney needs Kinew and other premiers to restore sales of US alcohol on liquor store shelves, so that the US will reportedly agree to reduce some of its tariffs on Canadian metals and autos.\n\nManitoba premier Wab Kinew publicly criticised the trade deal being discussed by the US and Canada, and called Donald Trump a \"bad person\"\n\nQuebec Premier Christine Fréchette, whose province is home to a large dairy industry, said on Thursday that she was analysing what the deal will mean for Quebec farmers before deciding on whether to restore US alcohol sales.\n\nDoug Ford, the traditionally outspoken premier of Canada's largest province Ontario, has yet to comment publicly on the deal.\n\nMeanwhile, other premiers, namely of Nova Scotia and the Yukon territory, said they were prepared to restore US alcohol sales.\n\nThe mayor of an Ontario city that is home to the country's second-largest steel producer told the CBC that a deal that includes 25% tariffs on the sector \"wouldn't be something to celebrate\".\n\n\"I am worried with the news that's coming out that we are not seeing a deal that will benefit our community at the very least,\" Mayor Matthew Shoemaker said.\n\nBut Carney has also faced pressure from businesses and stakeholders to reach a deal that would avert an additional 50% tariff that Trump has threatened on a range of Canadian goods, from hockey equipment to wine to cement.\n\nCanada could lose 90,000 jobs if the new tariffs were implemented, according to estimates in an analysis published on Thursday , external by Trevor Tombe, a Calgary-based economist.\n\nThe mixed reaction so far is a glimpse of the task ahead for Prime Minister Carney after he campaigned on a tough \"elbows-up\" approach to dealing with Trump.\n\nPolls suggest a majority of Canadians would be unhappy if the Carney government made significant concessions to the US, with 56% surveyed by polling firm Leger , external saying they wanted Canada to take a hardline approach.\n\nIn a leaked audio recording reported by the Canadian Press, US Vice-President JD Vance told attendees at a private fundraiser on Wednesday that Carney has tried to \"out-tough Donald Trump\" in trade talks.\n\n\"It's hilarious because Carney presents this as some victory for Canada when fundamentally, like, they climb down on a lot of issues,\" Vance reportedly told the room.\n\nRelated topics\n\nCanada\n\nMark Carney\n\nUnited States\n\nTrump tariffs\n\nTrade\n\nTrade war",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
       "id": "8054d76697312338",
       "title": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
       "summary": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP planned Why is the Trump administration causing turmoil in the bond markets? You could pin the US’s staggering $40tn in government debt to Donald Trump’s Keystone Cops-style governance. Tariffs he sold as a new source of revenue were struck down by the supreme court, forcing the government to return tens of billions of dollars to importers. Elon Musk’s “department of government efficiency” (Doge), ostensibly created to stop wasteful government spending, decimated federal programs and probably killed millions of children , but did nothing to close the budget deficit. The burst of inflation following Trump’s misguided adventure in Iran sharply raised the cost of serving the government’s obligations. Yet as the federal debt hits an all-time high, up from about $35tn when Trump took office less than two years ago, it is worth noting that the US’s gargantuan indebtedness is in fact the product of a longstanding Republican strategy that took shape well before Trump could even dream about gold-plating the White House. It was called “starve the beast”. Continue reading...",
@@ -423,6 +476,30 @@
       "body": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP planned\n\nWhy is the Trump administration causing turmoil in the bond markets?\n\nYou could pin the US’s staggering $40tn in government debt to Donald Trump’s Keystone Cops-style governance. Tariffs he sold as a new source of revenue were struck down by the supreme court, forcing the government to return tens of billions of dollars to importers. Elon Musk’s “department of government efficiency” (Doge), ostensibly created to stop wasteful government spending, decimated federal programs and probably killed millions of children , but did nothing to close the budget deficit. The burst of inflation following Trump’s misguided adventure in Iran sharply raised the cost of serving the government’s obligations.\n\nYet as the federal debt hits an all-time high, up from about $35tn when Trump took office less than two years ago, it is worth noting that the US’s gargantuan indebtedness is in fact the product of a longstanding Republican strategy that took shape well before Trump could even dream about gold-plating the White House. It was called “starve the beast”.\n\nOne might recall Ronald Reagan’s address to the nation on 5 February 1981, just two weeks after he had taken office, when he delivered the sad news that “we’re in the worst economic mess since the Great Depression”. Government spending was out of control, he said. The budget deficit the year before had hit 2.6% of the nation’s gross domestic product. Federal debt added up to a mind-boggling trillion dollars, a third of gross domestic product (GDP) – the broadest measure of the national economy.\n\nTo end the government’s profligacy, Reagan argued, required depriving it of revenue. “There were always those who told us that taxes couldn’t be cut until spending was reduced,” Reagan said. “Well, you know, we can lecture our children about extravagance until we run out of voice and breath. Or we can cure their extravagance by simply reducing their allowance.” And starving the government beast of tax revenue became the goal of Republican economic policy.\n\nThe staggering budget deficit left behind by Reagan forced his successor, George H. W. Bush, to raise taxes, which cost him re-election. Every Republican administration since that speech has taken a machete to the tax schedule, slashing income tax rates for businesses and individuals, cutting estate taxes, and carving out broad tax deductions for preferred constituencies.\n\nWhat remained unsaid, over nearly half a century worth of tax cuts, was that the ultimate goal of the plan was not really to cure the “extravagance” and fix the government’s finances. It was, instead, to cement the Republicans’ hold on power.\n\nDespite Republicans’ sloganeering, their tax cuts never “paid for themselves” by generating a burst of economic growth. Instead, they borrowed the money to keep up spending. That invariably left Democrats in a budgetary mess to clean up every time they came into office.\n\nBruce Bartlett, a former Republican policy adviser who worked on a precursor to Reagan’s 1981 tax cut plan, explained the strategy thus: “It’s all part of Republican plan going on for quite a long time to tie the hands of Democratic presidents.” The huge tax cuts in Trump’s signature One Big Beautiful Bill Act (OBBBA) will “make sure the next Democratic president is a complete and total failure”.\n\nHistory may come to see Trump’s “beautiful bill” as an unprecedented attack on the nation’s public finances. The federal deficit (the annual shortfall when the government spends more money than it takes in) is now running at about 6% of GDP. The federal debt (the total owed) is running at about 123% of GDP, higher than during its peak in the second world war. Last year, paying interest on that debt cost 3.2% of GDP, about a trillion dollars, more than was spent on national defense or Medicare.\n\nDestructive though it appears, the OBBBA was just one big step along a path set 45 years ago. Federal government revenues declined as a share of GDP in every Republican administration since Reagan’s. Budget deficits widened every time. The precedent bodes ill for the Democratic administration that seems likely to succeed Trump’s unhinged four years in power.\n\nBill Clinton’s administration offers the starkest example. Boxed in by a budget deficit equal to 4.5% of GDP that he inherited from George HW Bush, Clinton was forced to focus on deficit reduction . “Clinton comes with all these plans and ideas but they all get stomped on,” Bartlett recalled.\n\nRather than shore up the US’s threadbare safety net, Clinton ended “ welfare as we know it ”, putting a stop to Democrats’ longstanding commitment to poverty alleviation. He raised taxes, despite their unpopularity, raising federal revenues over his eight years in the White House from 17% to 20% of GDP.\n\nAt the end of his term, he bequeathed a budget surplus of 2.3% of GDP. His successor, George W Bush, happily spent the inheritance on huge tax cuts that largely benefited the rich.\n\nTo be fair, the OBBBA, the latest chapter in the Republican’s fiscal path of destruction, did cut spending – $1tn-plus from Medicaid and food assistance programs for the poor. But that was no match for $5tn-plus worth of tax cuts doled out largely to the most affluent Americans .\n\nAnd this leaves Democrats , again, in a budgetary pickle. If the optimistic predictions come to pass and they win control of both houses of Congress in November and the presidency in 2028, they will arrive into the seat of power with at least one hand tied behind their back.\n\nAmbitious, expensive ideas like Medicare for All or allowances for families with children will struggle, given the ballooning deficits and debt Trump left in their way. Even undoing Trump’s cuts to Medicaid, food stamps and subsidies for health insurance under Obamacare will seem forbidding.\n\nRepublicans have never been punished politically for their dismal stewardship of the budget. Clinton, Barack Obama and Joe Biden didn’t gain much from efforts towards deficit reduction. But it won’t be easy for Democrats to simply take a page from the GOP’s playbook. Financial markets are jittery. Rising bond yields alone will raise the government’s cost of servicing the debt, crowding out Democratic spending priorities.\n\nThat’s hardly the end of it. Once Democrats are in the White House, Republicans will surely rediscover their long-lost concerns about the government’s lack of fiscal restraint, and do their standard budget hawk cosplay thing to force Democrats to fix the budget.\n\nEduardo Porter is a journalist focused on economics and politics. He writes the newsletter Being There on Substack\n\nUS economy\n\nDonald Trump\n\nRonald Reagan\n\nBill Clinton\n\nGeorge HW Bush\n\nGeorge Bush\n\nRepublicans\n\nanalysis",
       "imageWidth": 1200,
       "imageHeight": 630
+    },
+    {
+      "id": "930eab54436ba96a",
+      "title": "Relive: Keegan's Newcastle lose thriller to Liverpool",
+      "summary": "BBC Sport looks back at one of the Premier League's best ever games as Newcastle, then managed by Kevin Keegan, lost a thriller to Liverpool. Both clubs will pay tribute to Keegan before their Premier League opener at St James' Park.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gvjep9wr2o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-23T05:17:21Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 41,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": true,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a61/live/ba82a210-9a5f-11f1-b792-a710e56a11dc.jpg"
     },
     {
       "id": "b9ee67a72f663c70",
@@ -498,6 +575,128 @@
       "isBreaking": false
     },
     {
+      "id": "2431af0d98f1c620",
+      "title": "Latest Blue Jays injuries & transactions",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-22T16:50:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "0028d65d89400e85",
+      "title": "Blue Jays' margin for error shrinks in Wild Card chase",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-al-wild-card-race-postseason-push",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-22T04:03:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "a0784164f599d2b8",
+      "title": "Wales pushing the pain barrier in bid to improve",
+      "summary": "BBC Sport spends a day in Wales' pre-season camp, watching players put through their paces ahead of the new WXV Global Series.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqx7n5gw0wxo",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-08-23T04:49:04Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c62d/live/9a0807f0-9c8f-11f1-8d19-93d7082c5662.jpg"
+    },
+    {
+      "id": "f42c96abe3c2b021",
+      "title": "One potential prospect callup for each team",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/one-potential-prospect-callup-for-each-team-2026",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-21T15:13:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "1bc43ae691798293",
+      "title": "Card collecting both a 'hobby and semi-obsession' for Straw",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/myles-straw-blue-jays-card-collecting-connoisseur",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-21T14:10:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "e490b9cf5b975ac2",
       "title": "Leicester sign Tonga hooker Moli",
       "summary": "Prem Rugby side Leicester Tigers sign New Zealand-born Tonga international hooker Sam Moli.",
@@ -523,253 +722,105 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b7d/live/c7f119b0-9e13-11f1-95e0-53a570c83624.jpg"
     },
     {
-      "id": "7854e387f7e3e5e8",
-      "title": "High court allows rugby brain injury case to go on",
-      "summary": "The cases of hundreds of players in rugby's multi-million-pound concussion legal battle allowed to continue after High Court ruling.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/articles/c70g2n4w49lo",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-08-21T16:23:44Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England",
-        "Rugby"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dca/live/77573c20-9d7b-11f1-8bc3-150f4c5f088b.jpg"
-    },
-    {
-      "id": "8439fd3d9048f0fb",
-      "title": "Wales great Jones returns to Ospreys as a director",
-      "summary": "Ospreys confirm former Wales captain Alun Wyn Jones as a new member of their board before the 2026-27 season.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cp870222y26o",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-08-21T15:28:42Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e786/live/46428dd0-9d74-11f1-8aa1-c3c0b3f36f05.jpg"
-    },
-    {
-      "id": "eadb3c0094cab86e",
-      "title": "‘Enjoyed every minute of it’: Rielly on playing for Maple Leafs",
-      "summary": "17871883946685099",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/video/enjoyed-every-minute-of-it-rielly-on-playing-for-the-leafs-organization/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-08-20T01:14:18Z",
+      "id": "6f6acff13277b8f9",
+      "title": "Blue Jays bats keep persisting despite the rash of injury scares",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-survive-injuries-to-secure-series-win-vs-tampa-bay",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-20T22:03:00Z",
       "category": "Sports",
       "region": "Canada",
       "labels": [
         "Sports",
         "Canada",
-        "Hockey",
-        "Maple Leafs"
+        "Baseball",
+        "Blue Jays"
       ],
       "sourceWeight": 5,
-      "focus": "Maple Leafs",
+      "focus": "Blue Jays",
       "sourceType": "news",
-      "wordCount": 1,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/08/6403737981112.jpg"
-    },
-    {
-      "id": "446014f5425e0c4b",
-      "title": "Saracens launch 150th anniversary home kit",
-      "summary": "Saracens are proud to unveil the club’s new home kit for the 2026/27 season, celebrating 150 years of Saracens rugby. The iconic black and gold design pays tribute to the club’s rich history while looking ahead to the next chapter, bringing together traditional Saracens colours with a modern design for the club’s 150th anniversary season. […]",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://saracens.com/saracens-launch-150th-anniversary-home-kit/",
-      "source": "Saracens",
-      "publisher": "Saracens",
-      "published": "2026-08-18T09:00:00Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England",
-        "Rugby",
-        "Saracens"
-      ],
-      "sourceWeight": 5,
-      "focus": "Saracens",
-      "sourceType": "news",
-      "wordCount": 56,
+      "wordCount": 0,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
     },
     {
-      "id": "0890e7df202be301",
-      "title": "Saints keep Super League play-off hopes alive over 10-man Castleford",
-      "summary": "St Helens built on a strong first half and relied on six different try-scorers to beat 10-man Castleford 36-12 at the Brewdog Stadium to keep their play-off hopes alive.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/rugby-league/news/12040/13575914/super-league-st-helens-keep-play-off-hopes-alive-with-victory-against-castleford-as-toulouse-and-hull-both-win",
-      "source": "Sky Sports",
-      "publisher": "Sky Sports",
-      "published": "2026-08-22T23:14:00Z",
+      "id": "a3a43e2372fe1df3",
+      "title": "Sánchez holds himself accountable for LF mistakes; Vladdy to begin rehab games",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/jesus-sanchez-takes-responsibility-for-defensive-miscues-in-loss",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-20T17:00:20Z",
       "category": "Sports",
-      "region": "UK",
+      "region": "Canada",
       "labels": [
         "Sports",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 29,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-st-helens-super-league_7328541.jpg?20260822182335"
-    },
-    {
-      "id": "eadf3e2637417675",
-      "title": "De Zerbi admits 'we're not a team yet' as Redknapp labels Spurs 'strangers'",
-      "summary": "Tottenham boss Roberto De Zerbi believes their dismal 3-0 opening-season defeat at Brentford shows his new-look side are \"not a team yet\" after a big summer of spending.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/football/news/12040/13575888/roberto-de-zerbi-tottenham-boss-admits-were-not-a-team-yet-after-new-look-side-suffer-dismal-brentford-loss",
-      "source": "Sky Sports",
-      "publisher": "Sky Sports",
-      "published": "2026-08-22T22:20:00Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 28,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-tottenham-spurs-sandro-tonali_7328773.jpg?20260822221504"
-    },
-    {
-      "id": "12f8c08b3a6879da",
-      "title": "McIlroy pulls himself back into contention at BMW Championship",
-      "summary": "Rory McIlroy pulled himself back into contention at the BMW Championship with a strong finish for a five-under par third round in St Louis.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/golf/news/12040/13576081/rory-mcilroy-world-no-2-pulls-himself-back-into-contention-at-the-bmw-championship-after-five-under-par-third-round",
-      "source": "Sky Sports",
-      "publisher": "Sky Sports",
-      "published": "2026-08-22T23:03:00Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-rory-mcilroy-golf_7328626.jpg?20260822193907"
-    },
-    {
-      "id": "936a7aa205606d39",
-      "title": "Saracens Women confirm Senior Academy Graduates",
-      "summary": "Four Oaklands College graduates join Saracens Women's Senior Academy Saracens Women are delighted to confirm that four players have progressed from the club's Academy into the Senior Academy, highlighting the continued success of the club's longstanding player pathway in partnership with Oaklands College. After two years of development within the Saracens pathway, Alix Ahad, Leila […]",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://saracens.com/saracens-women-confirm-senior-academy-graduates/",
-      "source": "Saracens",
-      "publisher": "Saracens",
-      "published": "2026-08-13T14:30:00Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England",
-        "Rugby",
-        "Saracens"
+        "Canada",
+        "Blue Jays"
       ],
       "sourceWeight": 5,
-      "focus": "Saracens",
+      "focus": "Blue Jays",
       "sourceType": "news",
-      "wordCount": 55,
+      "wordCount": 0,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
     },
     {
-      "id": "836e3c3318c904b2",
-      "title": "Jason Arday press coverage: analysis of the volume and type of articles",
-      "summary": "The death of Jason Arday, following weeks of news coverage of his life and career, has prompted calls for a new inquiry into press standards. The University of Cambridge academic faced an overwhelming volume of comment from international news organisations, broadcasters, digital-native publications and the public on social media. His family said it all had a catastrophic impact on his life. I should underline from the start that I have enormous sympathy for what Arday went through, and my thoughts are with his family and friends. Given the demands from some politicians and pressure groups for a public inquiry into the press’s actions in reporting on Arday, it is worth looking at how newspapers covered the emergence of the plagiarism allegations against him, the claims he made about his life and career, his resignation from Cambridge, his death and the reaction to it. There is a lot of potential material to consider, and a variety of approaches could be employed. Here, I have looked at substantive articles published in the print editions of national newspapers. I haven’t included articles published solely on newspaper websites, nor newspapers’ social media or multimedia output. Nor have I analysed broadcaster or social media output. There is a vast amount of other content that could, and no doubt will in due course, be considered. However, given that there is pressure for an inquiry into the press , it is sensible to begin with the print editions, which remain a core driver of newspapers’ news-gathering and commissioning processes. I have looked at the number and type of articles published, and the key themes that they engaged with. I haven’t conducted a close textual reading, rather categorising the overarching themes of an article. I have only considered substantive articles produced by a search using data analysis by the company LexisNexis from July 25, the day the plagiarism allegations were first reported, until August 20. Where a story was repeated in different editions of the newspapers, I disregarded duplicates, and I discounted letters to the editor, promotions or indexes, as well as passing references in articles that were primarily about something else. I wanted to focus on articles that were chiefly about Arday, his work or the fallout from the events of the past month. That said, I don’t disregard the impact that all of these additional pieces…",
+      "id": "e6c9261ec0179009",
+      "title": "Why water rights aren’t enough to fix South Africa’s deeply unequal farming sector",
+      "summary": "South Africa’s commercial farming sector is still shaped by the legacy of slavery, colonialism and apartheid . Black South Africans make up more than 80% of the population. But most commercial farms are still owned by a relatively small number of white farmers. During apartheid, Black farmers were prevented by discriminatory land and water laws from owning productive farmland. They were also cut off from accessing irrigation water or taking part in commercial agricultural markets. Many Black communities were forced into overcrowded areas known as Bantustans , with poor infrastructure and few opportunities to build successful farming businesses. Read more: How white farmers still dominate land ownership in South Africa in spite of land reform – new research Since the end of apartheid in 1994, South Africa has tried to make farming fairer by changing who owns land and who has access to water. One approach has been to give water licences to Black farmers and encourage them to enter joint ventures with established commercial, mainly white farmers. Farmers who use rivers, dams or groundwater for irrigation generally need a water-use licence. In these partnerships, Black farmers usually provide the land and water, while established commercial farmers provide finance, farming expertise, equipment and access to markets. The idea is that both sides benefit: established farmers can keep producing crops, while Black farmers gain the support they need to build commercial farming businesses. Each of these partnerships is set up individually on its own terms. Read more: Land reform in South Africa is doomed unless freed from political point-scoring In South Africa, commercial farming relies heavily on irrigation using rivers, dams or underground sources. We research who gets access to water and land and how water is managed. Together with a team of researchers, we looked at whether joint ventures are helping Black farmers gain fair access to water and build successful farming businesses. We also explored what needs to change to make these partnerships work better . We interviewed 34 commercial and emerging farmers who are part of joint venture partnerships in the Great Fish and Lower Sundays River area of the Eastern Cape, South Africa. This area houses numerous land reform projects and large commercial citrus farms that export oranges and lemons. It has an advanced…",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://theconversation.com/jason-arday-press-coverage-analysis-of-the-volume-and-type-of-articles-290282",
-      "source": "The Conversation — UK",
+      "url": "https://theconversation.com/why-water-rights-arent-enough-to-fix-south-africas-deeply-unequal-farming-sector-286293",
+      "source": "The Conversation — Africa",
       "publisher": "The Conversation",
-      "published": "2026-08-21T16:11:58Z",
+      "published": "2026-08-23T06:05:55Z",
       "category": "Editorial",
-      "region": "UK",
+      "region": "Africa",
       "labels": [
         "Editorial",
-        "UK"
+        "Africa"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "editorial",
-      "wordCount": 1142,
-      "readingMinutes": 6,
+      "wordCount": 1337,
+      "readingMinutes": 7,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://counter.theconversation.com/content/290282/count.gif",
+      "imageUrl": "https://counter.theconversation.com/content/286293/count.gif",
       "imageAlt": "The Conversation",
-      "body": "The death of Jason Arday, following weeks of news coverage of his life and career, has prompted calls for a new inquiry into press standards. The University of Cambridge academic faced an overwhelming volume of comment from international news organisations, broadcasters, digital-native publications and the public on social media. His family said it all had a catastrophic impact on his life. I should underline from the start that I have enormous sympathy for what Arday went through, and my thoughts are with his family and friends.\n\nGiven the demands from some politicians and pressure groups for a public inquiry into the press’s actions in reporting on Arday, it is worth looking at how newspapers covered the emergence of the plagiarism allegations against him, the claims he made about his life and career, his resignation from Cambridge, his death and the reaction to it.\n\nThere is a lot of potential material to consider, and a variety of approaches could be employed. Here, I have looked at substantive articles published in the print editions of national newspapers. I haven’t included articles published solely on newspaper websites, nor newspapers’ social media or multimedia output. Nor have I analysed broadcaster or social media output. There is a vast amount of other content that could, and no doubt will in due course, be considered.\n\nHowever, given that there is pressure for an inquiry into the press , it is sensible to begin with the print editions, which remain a core driver of newspapers’ news-gathering and commissioning processes.\n\nI have looked at the number and type of articles published, and the key themes that they engaged with. I haven’t conducted a close textual reading, rather categorising the overarching themes of an article. I have only considered substantive articles produced by a search using data analysis by the company LexisNexis from July 25, the day the plagiarism allegations were first reported, until August 20. Where a story was repeated in different editions of the newspapers, I disregarded duplicates, and I discounted letters to the editor, promotions or indexes, as well as passing references in articles that were primarily about something else.\n\nI wanted to focus on articles that were chiefly about Arday, his work or the fallout from the events of the past month. That said, I don’t disregard the impact that all of these additional pieces of output may have had on Arday – they contributed to the intense volume of content that has been created during these weeks.\n\nThe LexisNexis results produced a result of 553 articles from 14 publications. Cleaning the data produced a final corpus of 242 articles for consideration. The Times produced the most articles – 53 in the daily edition and a further eight in the Sunday Times.\n\nThe data about the articles, the date of publication, the type of article, and its themes were coded by hand; the figures in this article were created using AI to visualise the data. There were two peaks in coverage: after Arday resigned from Cambridge University on August 5 and following his death on August 14.\n\nThe start of the coverage\n\nThe plagiarism allegations were first reported by the Daily Telegraph, The Times and the Daily Mail on July 25. The Times and the Daily Telegraph continue to report the story regularly from the last days of July, with other newspapers starting to publish around the time of Arday’s resignation. In the days that followed, a significant number of articles were published.\n\nMost of the articles are news stories about the developing situation. But there are also several opinion-led pieces too. The Times publishes 30 news stories and 13 opinion pieces, as well as news analysis, leaders, a review of Arday’s memoir, and the only interview with the academic.\n\nThe coverage begins with questions about plagiarism in his academic work, but quickly moves to consider Arday’s wider claims about his life, pegged to the imminent publication of his memoir. From the very beginning, some newspapers frame questions about Arday’s work in the context of Cambridge’s efforts to diversify its academic workforce. The Daily Telegraph’s first story is headlined “Cambridge’s diversity pin-up in plagiarism row”. This sets the tone for much of the subsequent reporting.\n\nFrom relatively early on, concerns are raised about the amount of reporting and comment the story is generating through both the press and social media. The Times journalist Giles Coren writes about Arday twice in his columns on August 1 and 11. On both occasions, he raises questions about the volume and impact of the coverage. Coren has subsequently been criticised for his choice of language – he referred to everyone “slaughtering” Arday – but he is clearly critical of the way the story is being covered.\n\nFinally, there is the question of the proportionality of the coverage. To what extent were newspapers dealing with questions of legitimate public interest, rather than pursuing a story that had captured a degree of public enthusiasm, with consequent financial benefits to their publications?\n\nWhile it is true that allegations of run-of-the-mill academic misconduct seem unlikely to interest journalists, it is also true that Arday was an emerging public intellectual. His media appearances – including on BBC Question Time and guest editing Radio 4’s Today – plus the publication of a mainstream commercial memoir featuring a range of extraordinary claims, meant he inevitably had a higher profile than his peers.\n\nMany of the news stories in the sample do attempt to answer questions that are legitimate to ask. On the other hand, some people have expressed the view that the coverage was motivated by racism from the start – Arday’s former mentor at Cambridge Lord Simon Woolley referred to his friend being “hounded to death” .\n\nFraming associated with race is present throughout the sample, and some articles explicitly accuse Cambridge of only appointing Arday as a professor because of the colour of his skin. For example columnist Julia Hartley-Brewer’s article in The Sun on August 7 was headlined “Prof hasn’t been hounded from job because he is black…it looks like he only got the job because he is black”.\n\nThere is no question that some journalists, opinion columnists in particular, viewed this story through the lens of wider battles over culture. Was it proportionate? I hope editors will reflect on that at some length. But as I pointed out at the beginning, the newspaper coverage is only a part of the volume of content created. All of those who’ve contributed to the firehose of comment need to reflect on their part in it.\n\nThe victim in all of this is unquestionably Arday. There may have been questions that he needed to answer about his life and work. But the penalty he paid for being caught at the heart of this firestorm was out of all proportion to any offence he may have committed.\n\nMedia\n\nUniversities\n\nAcademia\n\nCambridge University\n\nBlack scholars\n\nDEI\n\nJason Arday"
+      "body": "South Africa’s commercial farming sector is still shaped by the legacy of slavery, colonialism and apartheid . Black South Africans make up more than 80% of the population. But most commercial farms are still owned by a relatively small number of white farmers.\n\nDuring apartheid, Black farmers were prevented by discriminatory land and water laws from owning productive farmland. They were also cut off from accessing irrigation water or taking part in commercial agricultural markets. Many Black communities were forced into overcrowded areas known as Bantustans , with poor infrastructure and few opportunities to build successful farming businesses.\n\nRead more: How white farmers still dominate land ownership in South Africa in spite of land reform – new research\n\nSince the end of apartheid in 1994, South Africa has tried to make farming fairer by changing who owns land and who has access to water. One approach has been to give water licences to Black farmers and encourage them to enter joint ventures with established commercial, mainly white farmers.\n\nFarmers who use rivers, dams or groundwater for irrigation generally need a water-use licence. In these partnerships, Black farmers usually provide the land and water, while established commercial farmers provide finance, farming expertise, equipment and access to markets.\n\nThe idea is that both sides benefit: established farmers can keep producing crops, while Black farmers gain the support they need to build commercial farming businesses. Each of these partnerships is set up individually on its own terms.\n\nRead more: Land reform in South Africa is doomed unless freed from political point-scoring\n\nIn South Africa, commercial farming relies heavily on irrigation using rivers, dams or underground sources. We research who gets access to water and land and how water is managed. Together with a team of researchers, we looked at whether joint ventures are helping Black farmers gain fair access to water and build successful farming businesses. We also explored what needs to change to make these partnerships work better .\n\nWe interviewed 34 commercial and emerging farmers who are part of joint venture partnerships in the Great Fish and Lower Sundays River area of the Eastern Cape, South Africa. This area houses numerous land reform projects and large commercial citrus farms that export oranges and lemons. It has an advanced irrigation canal system .\n\nThe area was an ideal setting to examine whether joint ventures are helping emerging Black farmers establish successful commercial farming enterprises – or not.\n\nRead more: How Africa can up its game on water management for agriculture\n\nWe wanted to understand how access to water is connected to the other things farmers need to build a successful commercial farming business, including finance, farming skills, infrastructure, access to buyers and the ability to make decisions.\n\nOur research found that through the partnerships, many emerging farmers got access for the first time to irrigation infrastructure, such as canals, pumps and water supplied from nearby dams. But these irrigation schemes were designed to support well-established commercial farming operations and emerging farmers struggled to afford the costs.\n\nRead more: The South African government has been buying farmland for black farmers. It’s not gone well\n\nWe also found that having access to water was not enough to build successful agricultural enterprises. This was because the emerging farmers remained dependent on commercial partners for finance, expertise and access to markets to sell their crops.\n\nOur research shows that redistributing water needs to go along with providing emerging farmers with finance, equipment, infrastructure, training and a real say in how farming businesses are run. If not, transforming agriculture will remain out of reach .\n\nWhat the commercial farmers said\n\nThe commercial farmers told us that farming is a highly sophisticated and complex business. Generations of farmers have learnt to and still deal with many challenges in keeping their businesses going.\n\nThese include being audited to see if they’re complying with laws and standards, increases in the cost of labour and steep diesel price increases. The commercial farmers also described how their businesses were affected by fluctuating international prices and the impact of the Covid-19 pandemic on export markets.\n\nThey said keeping their businesses profitable and up to date with new technological advances took most of their time, leaving little time and resources to invest in building the independence of emerging farmers.\n\nWhat the emerging farmers said\n\nThe emerging farmers often had little influence over how the farming business operated. Commercial partners frequently controlled financial decisions, production planning, marketing and investment. They became participants in farming enterprises without developing the skills, financial independence or decision-making authority needed to manage successful businesses on their own.\n\nAnother problem was that farmers were billed as soon as they began using the water. This meant that many faced substantial water bills before they had harvested or sold a single crop. The water and compliance costs could be as much as R750,000 (US$46,300) just to get started, despite citrus taking seven or more years to produce its first harvest. Some ultimately lost control of the water rights they had been allocated, because they couldn’t pay.\n\nThe emerging farmers also often lacked the irrigation infrastructure and machinery needed to use it productively. In some instances, they had to rent equipment such as tractors and crop sprayers from commercial partners. This cost them more money and made them more dependent.\n\nRead more: Obstacles facing a young black farmer in South Africa: a personal story\n\nClimate change and variable weather increased production risks. The rising costs of electricity, irrigation, fertiliser and farm inputs reduced profitability. Many told us that they were unable to access commercial credit without collateral or cash flow. Some emerging farmers had no option but to rely on commercial farmer partners to carry these costs. This made it almost impossible for them to invest independently in infrastructure or expand production.\n\nSeveral emerging farmers said that instead of gradually building independent enterprises, they remained reliant on their commercial partners for finance, technical expertise and access to markets long after the partnerships began.\n\nLessons learned\n\nSince we began our research, the government has introduced a new water pricing strategy that offers emerging farmers some time to pay off their water bills. This was a step in the right direction.\n\nHowever, water redistribution is only one part of the support farmers need. Commercial success also depends on access to finance, infrastructure, technical knowledge, markets and the capacity to make informed business decisions.\n\nRead more: Land reform in South Africa: how one community set up a successful game reserve\n\nOur findings also challenge a common assumption that public-private agricultural partnerships automatically empower disadvantaged farmers. Partnerships can create valuable opportunities, but they can also reproduce existing inequalities if power remains concentrated with one partner.\n\nGenuine transformation needs more than a joint venture contract. These arrangements can succeed, but only when they deliberately build local capacity rather than long-term dependency.\n\nWhat needs to happen next\n\nThe government already provides emerging farmers with some support through grants, infrastructure and extension officers. But many of the Black farmers we interviewed found this support to be inconsistent and unevenly distributed. We recommend that government co-ordinate this support better to ensure that emerging farmers have the finance, infrastructure, skills and other support they need to turn their water rights into viable farms.\n\nOur research also shows that irrigation water must be priced to take into account that new farmers don’t earn much for the first seven years, while also remaining economically sustainable.\n\nRead more: Black farmers in South Africa need support: how it could be done\n\nJoint ventures should set out how emerging farmers will gain the skills and experience to take over more management responsibilities.\n\nTransforming agriculture is not simply about redistributing natural resources. It is about creating conditions that allow people to use those resources successfully. Water remains essential, but unless reform also addresses finance, knowledge, infrastructure and power, many emerging farmers will continue to hold water rights without gaining the commercial farming success those reforms were intended to achieve.\n\nFarm Finance\n\nFarmers\n\nSouth Africa\n\nEastern Cape\n\nblack farmers\n\nAgriculture + Land"
     },
     {
-      "id": "2d3947813cd0e036",
-      "title": "‘Tree of justice’ protest: how Vietnamese youth are mobilising online to hold the powerful to account",
-      "summary": "Trees in some Vietnam streets are currently the site of protest. Andy.vietnam/Shutterstock A fatal car crash and a censored rap album, seemingly unrelated and a year apart, have sparked what could be the largest revolt of Vietnam’s youth in living memory. Over the past ten days, millions have mobilised around the death of an 18-year-old student, caused by a former National Assembly deputy who walked away without charge. What began as isolated outrage has since put the country’s political system on trial. On the evening of August 14, uniformed police cleared away bunches of flowers at the base of a tree near the centre of Hanoi. Later that night, groups of young people came back and laid more. Where these were removed, they started laying them at other trees and outside police stations. Then they started wearing white ribbons on their backpacks. This tree – “Memorial tree 55” on Hanoi’s Nguyễn Huy Tự Street – is at the centre of a growing protest for gen Z in Vietnam. It marks the spot where, in May 2025, a black BMW crossed into oncoming traffic and hit a motorcycle carrying a father and his 18-year-old daughter, Do Ngoc Phuong Thuy. Mina, as she was widely known, lost her leg and died days later, shortly before she should have graduated from high school. Over the next year there appeared to be no progress in the investigation of the incident, except that the driver was identified by the initials N.S.C. But social media users flooded into the information vaccuum, starting to link these initials to former National Assembly deputy Nguyễn Sỹ Cương. There was much online discussion of a government cover-up. But by August 2026, the car crash and Mina’s death had almost faded from public memory. It may have stayed that way if hadn’t been for the heavyhanded decision of Vietnam’s minister for culture, Lam Thi Phuong Than, to all but ban a new album by rap artist “MCK”. This censorship against the most popular rap singer among Gen Z drew scrutiny to the culture minister – and from there attention moved to her husband, Nguyễn Sỹ Cương. Within days, more than a million posts naming Cương spread across Threads and TikTok. One local person I spoke to, who for security reasons only wishes to be known by their pseudonym “Tam Khien”, says that young people across the country are outraged. But, Tam Khien told me, it would be a mistake to view this sequence of events as…",
+      "id": "50dff65f474f057c",
+      "title": "DR Congo’s riverboat economy – how a floating transport system tells the country’s story",
+      "summary": "Road transportation in the Democratic Republic of Congo has received much scholarly attention. Some studies have examined the urban landscape (p.142). Others have studied transportation in the context of armed conﬂict in the east of the country, where roadblocks are a pronounced feature. The Congo Basin’s inland waterways, of which 25,000km are classiﬁed as navigable , have been studied with regard to the taxation regime of larger pushboat-barge convoys . The less far-reaching scale of small- and medium-scale river transportation, however, so far has been less studied. This is despite the overwhelming reliance of cities such as Kinshasa, Mbandaka and Kisangani on these smaller craft. A significant part of the traffic on these waterways is handled today by wooden cargo ships called baleinières (literally “whaleboats” in English). Measuring between 20 and 40 metres in length, these locally developed, handcrafted vessels connect the ever-growing cities with crop-producing communities in the rainforest hinterlands along distant fertile riverbanks. Baleinières have been the focus of my ongoing research, centred mainly on the city of Kisangani in DR Congo’s Tshopo province. I have been interested in the emergence , transformation, materials and socio-technical realities of these handmade watercraft, their propulsion system and their crews. I have also paid attention to the systemic character of their artisanal infrastructure and its reliance on traditional environmental knowledge. Wooden baleinières date back to the early 1960s. But since the 1990s they have been crucial to the reinvention of a transport system across the Congo Basin. These wooden ships ensure the food security of central Africa’s riverine cities, including the continent’s third-largest city, Kinshasa. They also connect the national capital to many of the country’s provinces. Owing to a lack of statistics and limited research to date, reliable figures are available only for Kisangani, a city of two million at the upper end of the navigable Congo river. Here, about 80 baleinières arrive in the private secondary ports of the city every month, each carrying an average of 150 tons of goods and around 150 passengers. Kinshasa, a city of 17 million, is estimated to welcome several hundred baleinières every month. Sadly, baleinières are notorious for their frequent and often devastating accidents .…",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://theconversation.com/tree-of-justice-protest-how-vietnamese-youth-are-mobilising-online-to-hold-the-powerful-to-account-290076",
-      "source": "The Conversation — UK",
+      "url": "https://theconversation.com/dr-congos-riverboat-economy-how-a-floating-transport-system-tells-the-countrys-story-288941",
+      "source": "The Conversation — Africa",
       "publisher": "The Conversation",
-      "published": "2026-08-21T14:48:43Z",
+      "published": "2026-08-23T06:05:49Z",
       "category": "Editorial",
-      "region": "UK",
+      "region": "Africa",
       "labels": [
         "Editorial",
-        "UK"
+        "Africa"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "editorial",
-      "wordCount": 1035,
-      "readingMinutes": 5,
+      "wordCount": 1419,
+      "readingMinutes": 7,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://counter.theconversation.com/content/290076/count.gif",
+      "imageUrl": "https://counter.theconversation.com/content/288941/count.gif",
       "imageAlt": "The Conversation",
-      "body": "A fatal car crash and a censored rap album, seemingly unrelated and a year apart, have sparked what could be the largest revolt of Vietnam’s youth in living memory. Over the past ten days, millions have mobilised around the death of an 18-year-old student, caused by a former National Assembly deputy who walked away without charge. What began as isolated outrage has since put the country’s political system on trial.\n\nOn the evening of August 14, uniformed police cleared away bunches of flowers at the base of a tree near the centre of Hanoi. Later that night, groups of young people came back and laid more. Where these were removed, they started laying them at other trees and outside police stations. Then they started wearing white ribbons on their backpacks.\n\nThis tree – “Memorial tree 55” on Hanoi’s Nguyễn Huy Tự Street – is at the centre of a growing protest for gen Z in Vietnam. It marks the spot where, in May 2025, a black BMW crossed into oncoming traffic and hit a motorcycle carrying a father and his 18-year-old daughter, Do Ngoc Phuong Thuy. Mina, as she was widely known, lost her leg and died days later, shortly before she should have graduated from high school.\n\nOver the next year there appeared to be no progress in the investigation of the incident, except that the driver was identified by the initials N.S.C. But social media users flooded into the information vaccuum, starting to link these initials to former National Assembly deputy Nguyễn Sỹ Cương. There was much online discussion of a government cover-up.\n\nBut by August 2026, the car crash and Mina’s death had almost faded from public memory. It may have stayed that way if hadn’t been for the heavyhanded decision of Vietnam’s minister for culture, Lam Thi Phuong Than, to all but ban a new album by rap artist “MCK”. This censorship against the most popular rap singer among Gen Z drew scrutiny to the culture minister – and from there attention moved to her husband, Nguyễn Sỹ Cương.\n\nWithin days, more than a million posts naming Cương spread across Threads and TikTok. One local person I spoke to, who for security reasons only wishes to be known by their pseudonym “Tam Khien”, says that young people across the country are outraged.\n\nBut, Tam Khien told me, it would be a mistake to view this sequence of events as outrage over one fatal crash, or even a single case of alleged corruption. Rather, it was the spark that lit up grievances with the state that had been present for years.\n\nThis is borne out by data from the Vietnam Provincial Governance and Public Administration Performance Index (PAPI), which shows how public attitudes have changed . For more than a decade, when asked which problems they view as the most urgent policy challenges, nationally representative samples have named poverty and hunger. But in 2024, corruption overtook these problems – named by 22.6% of respondents, up from under 5% the year before.\n\nTop three issues of concern to people in Vietnam\n\nWhile this number does not measure levels of corruption in Vietnam, it shows how it has come to dominate public debate. Combined with consistently low levels of confidence in the accountability of the government towards its citizens – rated as low as 0.47 out of 10 – the conditions were ripe for a single event to galvanise protest.\n\nCreative protests\n\nVietnam’s constitution grants a right for public demonstrations, but the law needed to exercise it has neven been passed . In its place, a 2005 decree requires gatherings to be registered in advance – and protesters are routinely arrested and prosecuted for “disturbing public order”.\n\nSo it is clear to protesters in Hanoi that mass rallies are not a realistic option. Publicly accusing a powerful former official is risky, Tam Khien told me. Instead the emerging movement turned to more creative forms of protest, which confront the state with acts that are hard to prosecute.\n\nThey pinned the “Tree of Justice” – as Tree 55 has become known – on Google Maps (although pins have been deleted). They continued to lay in defiance of the authorities removing them – and when the flowers were removed they laid them at other trees. They also mark these other trees with the number 55 – an easily recognisable reference which is ambiguous enough to retain plausible deniability.\n\nPeople changed their profile pictures to memes taunting officials, made paintings and artistic drawings of the crash victim to commemorate her loss and created a virtual “justice tree” that cannot be cleared away. When posts started being taken down, they switched to displaying their messages in Morse code or binary.\n\nEach of these actions was an adaptation to extensive efforts by the government to crack down on the movement: scrubbing the internet of related content and increasing the police presence at the crash site. Authorities were ordered to paint over the number 55 on trees. This has failed to quell the protests.\n\nWhat next?\n\nOn the evening of August 17, state television VTV aired a rare public statement about the crash. Hanoi police confirmed that Cương had indeed been behind the steering wheel of the BMW. The statement announced that prosecutors had determined no criminal liability, but were vague as to the exact criteria for this decision.\n\nNeither Nguyễn Sỹ Cương nor his wife have made a public statement about the crash. Meanwhile, the victim’s father appeared on camera saying he fully agreed with the government’s decision and had no complaints. But this was greeted by the protesters as scripted.\n\nVietnam is not Nepal, where a Gen Z movement occupied the streets and burned the parliament. But the resemblance to the youth movements that upended authoritarian politics from Nepal to Indonesia to Madagascar last year is undeniable.\n\nEach began with a local trigger that would have gone nowhere without years of accumulated frustrations with their elites. Each was leaderless and mobilised quickly online. The groundswell of Vietnam’s Gen Z protest continues to grow and, as the protest is taking forms that are not easily policed, the state appears at a loss as to how to deal with them.\n\nProtest\n\nVietnam\n\nGen Z\n\nYouth protests\n\nGen Z protests"
+      "body": "Road transportation in the Democratic Republic of Congo has received much scholarly attention. Some studies have examined the urban landscape (p.142). Others have studied transportation in the context of armed conﬂict in the east of the country, where roadblocks are a pronounced feature.\n\nThe Congo Basin’s inland waterways, of which 25,000km are classiﬁed as navigable , have been studied with regard to the taxation regime of larger pushboat-barge convoys . The less far-reaching scale of small- and medium-scale river transportation, however, so far has been less studied. This is despite the overwhelming reliance of cities such as Kinshasa, Mbandaka and Kisangani on these smaller craft.\n\nA significant part of the traffic on these waterways is handled today by wooden cargo ships called baleinières (literally “whaleboats” in English). Measuring between 20 and 40 metres in length, these locally developed, handcrafted vessels connect the ever-growing cities with crop-producing communities in the rainforest hinterlands along distant fertile riverbanks.\n\nBaleinières have been the focus of my ongoing research, centred mainly on the city of Kisangani in DR Congo’s Tshopo province. I have been interested in the emergence , transformation, materials and socio-technical realities of these handmade watercraft, their propulsion system and their crews. I have also paid attention to the systemic character of their artisanal infrastructure and its reliance on traditional environmental knowledge.\n\nWooden baleinières date back to the early 1960s. But since the 1990s they have been crucial to the reinvention of a transport system across the Congo Basin. These wooden ships ensure the food security of central Africa’s riverine cities, including the continent’s third-largest city, Kinshasa. They also connect the national capital to many of the country’s provinces.\n\nOwing to a lack of statistics and limited research to date, reliable figures are available only for Kisangani, a city of two million at the upper end of the navigable Congo river. Here, about 80 baleinières arrive in the private secondary ports of the city every month, each carrying an average of 150 tons of goods and around 150 passengers.\n\nKinshasa, a city of 17 million, is estimated to welcome several hundred baleinières every month.\n\nSadly, baleinières are notorious for their frequent and often devastating accidents . Every year, hundreds, if not thousands , of lives are lost.\n\nThere is still a lack of detailed research into the complex socio-technical factors underlying these accidents, as well as into how hundreds of people cope with them every year. Key factors include structural weaknesses of the ships and lack of professional training and safe operation in a context of economic urgency.\n\nEntirely the product of local, frugal innovation, these ships have been developed out of necessity. This accounts for their affordability, their uncompromising efficiency, and their capacity to operate without infrastructure like fortified harbours, cranes and docks, within a dynamic environment.\n\nThe Congo’s wooden ships encapsulate the realities and the paradoxes of Congolese life today. A grassroots technical and economic ingenuity secures the food supply of millions, yet enjoys no encouragement or protection against divisive, unregulated capitalism. This capitalism wears on the bodies of people and ships alike. Owners, crews, and the traders they carry shield themselves by working alone on the basis of interpersonal ties.\n\nOrigins, materials and propulsion\n\nThe colonial ancestors that gave the baleinières their name were nine-metre, deckless, engineless vessels riveted from prefabricated Belgian steel and towed behind steamers to carry building materials. Today only the name survives. The prototypes of wooden baleinières were built in the early 1960s by André “Bibeyi”, a Congolese craftsman who fused colonial carpentry skills with local traditional knowledge.\n\nBibeyi crafted the frame with local hardwoods and sealed it with bitumen, n'kasa ya kwanga leaves and strips of recycled aluminium sheet. The hull he made of the soft tola wood, the preferred timber for dugouts. In the 1980s and 1990s Bibeyi’s colleagues and their offspring opened shipyards on nearly all major waterways. In 2007, boat builders from Lake Kivu, in eastern DRC, introduced the Indian Ocean ship building tradition to Tshopo province. The presence of both these two building and caulking styles at the upper end of the navigable Congo spurred creativity among younger Congolese builders.\n\nIn the late 2000s, baleinières were further improved by converting low-cost Chinese-made diesel engines into a new propulsion system . Local mechanics soon modified the cooling system and started adding more engines as the ships could now grow in size.\n\nBeyond cost and simple spare parts, the advantage of this new propulsion system was that when one engine needed repair, the others kept running. So there were no more real breakdowns. What had been a makeshift solution for occasional travel gradually became a regular and reliable transport system.\n\nBaleinières are indeed one of the DR Congo’s very few locally developed and exported technologies. Congolese shipbuilders have opened mobile shipyards in the neighbouring countries of the Republic of Congo (Congo-Brazzaville), the Central African Republic and Cameroon.\n\nBaleinières are floating microcosms of life in the DR Congo today. They embody, in short, what French anthropologist Marcel Mauss (1966) called a total social fact : their material constitution incorporates different layers of the DR Congo’s history, while their operation reveals the country’s geographic, economic, political, infrastructural and cultural realities.\n\nEnabling an economy of survival\n\nAcross the DR Congo, decades of demographic growth and disintegrating long-distance connectivity have shifted the centralised colonial system — once funnelling towards Kinshasa — into a patchwork of disconnected territorial islands . Baleinières developed to meet the need for medium-range transport around them.\n\nThe craft carry food (rice, cassava, palm oil, poultry, caterpillars, local spirits, livestock, bushmeat, fish) to the city. They haul back to the villages manufactured goods (roofing sheets, furniture, motorbikes, mattresses, medical drugs, mosquito nets, phones, flipflops, clothes).\n\nThey also carry the traders themselves, as the economy they serve allows small-scale traders to earn a modest living with little or no starting capital. They are a window into the economic reality of most Congolese, who live day to day in a popular economy of survival . Because the thin margin of a trade is too easily lost if entrusted to anyone else, one travels with one’s goods. Officials who cite nocturnal navigation as a main cause of accidents often forget that, if one cannot travel at night, only half the trade journeys can be made, leaving little chance to make ends meet.\n\nArtisanal infrastructure\n\nThe system’s secret lies in how it meets the infrastructural challenges of river transport. Top of these challenges is loading and unloading under ever-changing water levels, without fortified harbours, cranes and the like. A baleinière’s operability rests on the skilled integration of engineered, muscular and natural forces, through kinetic solidarity and learned technique.\n\nOne such artisanal infrastructure is “kotindika”: when the loaded ship settles onto the riverbed, porters wade in and push it into deeper water. Since a ship’s stewards are always porters too, a baleinière with two dugouts serving as mobile gangways effectively carries its own port, loading or unloading wherever it wants.\n\nThe system is more inclusive than “hard” transport infrastructure: hundreds of porters, stewards and their families depend on it. It is also cheaper and more adaptable.\n\nLocal river markets rise and fade at shifting stopover locations, in tune with the rainforest’s yearly production cycle and the volatile purchasing power of travelling traders.\n\nHowever, driven by a weekly rhythm their passengers dictate, few crew members can spare the time or money for training, maintenance, or rest. Baleinières are a solution, but a double-edged one .\n\nGovernance at the margin of the state\n\nThe sheer size of the Congo Basin and its waterways makes governance difficult . Operating at the margin of the state , baleinieres’ success is clearly tied to their ability to avoid tight bureaucratic control , since roadblocks are hard to mount on the water.\n\nAt the same time, state services tap into this economy through taxation and hassles in the ports of river towns.\n\nA few development initiatives have tried to fix the accident problem by regulating the design and construction of vessels in accordance with foreign standards. Their impact has been limited because these initiatives do not account for local operational realities. This is a phenomenon known as a “revenge of contexts” .\n\nHowever, the baleinière phenomenon has grown so vast, and the need for transport too pressing, to leave the system as it is. Any future initiative hinges on its embeddedness in local communities of practitioners and their existing ways of doing, speaking and operating.\n\nUrbanisation\n\nInnovation\n\nCameroon\n\nKinshasa\n\nLake Kivu\n\nCongo basin\n\nDemocratic Republic of the Congo (DRC)\n\nCentral African Republic (CAR)\n\nAffordability\n\nPublic transportation\n\nCongo river"
     },
     {
       "id": "cc3279dac77edf5c",
@@ -970,6 +1021,57 @@
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5938772"
     },
     {
+      "id": "446014f5425e0c4b",
+      "title": "Saracens launch 150th anniversary home kit",
+      "summary": "Saracens are proud to unveil the club’s new home kit for the 2026/27 season, celebrating 150 years of Saracens rugby. The iconic black and gold design pays tribute to the club’s rich history while looking ahead to the next chapter, bringing together traditional Saracens colours with a modern design for the club’s 150th anniversary season. […]",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://saracens.com/saracens-launch-150th-anniversary-home-kit/",
+      "source": "Saracens",
+      "publisher": "Saracens",
+      "published": "2026-08-18T09:00:00Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England",
+        "Rugby",
+        "Saracens"
+      ],
+      "sourceWeight": 5,
+      "focus": "Saracens",
+      "sourceType": "news",
+      "wordCount": 56,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "eadb3c0094cab86e",
+      "title": "‘Enjoyed every minute of it’: Rielly on playing for Maple Leafs",
+      "summary": "17871883946685099",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/video/enjoyed-every-minute-of-it-rielly-on-playing-for-the-leafs-organization/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-08-20T01:14:18Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 1,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/08/6403737981112.jpg"
+    },
+    {
       "id": "be4a801a976efc6d",
       "title": "Smaller balls, national anthem test & tough travel schedule - England gear up for WXV",
       "summary": "England's Red Roses are in pre-season training before the upcoming WXV Global Series and have been using the controversial smaller balls.",
@@ -993,104 +1095,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa5/live/d2c02e40-9656-11f1-9743-c91876572530.jpg"
-    },
-    {
-      "id": "2431af0d98f1c620",
-      "title": "Latest Blue Jays injuries & transactions",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-22T16:50:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "0028d65d89400e85",
-      "title": "Blue Jays' margin for error shrinks in Wild Card chase",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/blue-jays-al-wild-card-race-postseason-push",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-22T04:03:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "f42c96abe3c2b021",
-      "title": "One potential prospect callup for each team",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/one-potential-prospect-callup-for-each-team-2026",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-21T15:13:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "1bc43ae691798293",
-      "title": "Card collecting both a 'hobby and semi-obsession' for Straw",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/myles-straw-blue-jays-card-collecting-connoisseur",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-21T14:10:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "d2ee42167f4a8c9e",
@@ -1147,31 +1151,6 @@
       "imageHeight": 630
     },
     {
-      "id": "6f6acff13277b8f9",
-      "title": "Blue Jays bats keep persisting despite the rash of injury scares",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/blue-jays-survive-injuries-to-secure-series-win-vs-tampa-bay",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-20T22:03:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "d6aad2cfcbe5323f",
       "title": "I worked at OpenAI. Here are the guardrails we need now | Miles Brundage",
       "summary": "I understand the pressure on AI companies to rush forward. But employees are right to be concerned Last month, more than a thousand employees at frontier AI companies signed a letter asking the US government to find a way to “pace” AI development, citing the risk of the technology spiraling out of human control as it begins to build itself . They were right to be concerned: just days earlier, two AI models that OpenAI was testing internally escaped the test environment, then autonomously hacked the company Hugging Face and at least three other online services . A few days after that, Anthropic announced that some of their models had also broken out and hacked other companies during testing. Continue reading...",
@@ -1224,30 +1203,6 @@
       "imageAlt": "President Trump walks on the Ellipse as he arrives on Marine One near the White House on Friday.",
       "imageWidth": 1024,
       "imageHeight": 746
-    },
-    {
-      "id": "a3a43e2372fe1df3",
-      "title": "Sánchez holds himself accountable for LF mistakes; Vladdy to begin rehab games",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/jesus-sanchez-takes-responsibility-for-defensive-miscues-in-loss",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-20T17:00:20Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "470ba1abc3cb4e7d",
@@ -1328,6 +1283,33 @@
       "imageHeight": 630
     },
     {
+      "id": "2ffc1af7e0e046a3",
+      "title": "Struggling households need more help with bills, energy industry says",
+      "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-08-23T08:03:52Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 814,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ea9/live/7085b770-9d97-11f1-9233-8716b68cda7b.jpg",
+      "body": "Published 23 August 2026, 00:00 BST\n\nHigher energy bills this winter mean the government should step in to provide more help for households most in need, the body representing energy firms in the UK has said.\n\nStubbornly high prices over the last few years have left some people needing \"emergency support\" over and above the existing £150 Warm Home Discount, Energy UK said.\n\nA \"better targeted\" support scheme that takes into account someone's income, health and energy consumption was needed, it added.\n\nOn Wednesday, the energy price cap for October onwards will be announced by regulator Ofgem and is expected to hit a three-year high.\n\nA government spokesperson said that in addition to the Warm Homes Discount it was cutting VAT on electricity bills and would do \"everything we can\" to shield consumers from global energy shocks.\n\nEnergy UK chief executive Dhara Vyas said: \"Suppliers continue to do all they can to help their customers but as well as persistently high bills, record levels of debt show how the current system is failing to provide the right support to those in need.\"\n\nA new \"social discount\" scheme would result in \"a system that works better for everyone\", she added.\n\nOfgem reported at the end of last winter that customers who had fallen behind on their energy bills owed suppliers a record £4.7bn. Since then wholesale energy prices have risen, following the start of the Iran war in February.\n\nEnergy consultancy Cornwall Insight predicts Ofgem's cap on household price rises, which is set every three months, will go up by 4% when it is announced on Wednesday.\n\nThe rise will apply to household bills during the first half of the coming winter and follows a sharper 13% rise in July.\n\nThe energy cap covers around 33 million households in England, Wales and Scotland.\n\nIt fixes the maximum amount which customers on standard variable tariffs can be charged for each unit of gas and electricity used, but households' actual bills depend on the amount of energy they use and how they pay for it.\n\nAs well as the conflict in the Middle East, Cornwall Insight said prices had been affected by heatwaves across Europe that had increased demand for power generation to support air conditioning and other cooling.\n\nThe price rise would outweigh the impact of Prime Minister Andy Burnham's move to remove VAT on household electricity bills from October, it added.\n\nCurrently, people receiving means-tested benefits are entitled to the one-off £150 Warm Home Discount over the winter, something administered by the energy suppliers themselves. The rebate is paid for by a levy on all energy users that is collected and redistributed via bills.\n\nEnergy UK said the Warm Home Discount reached six million customers, but there were another 2.5 million who needed help because a medical condition or draughty home meant they consumed more energy.\n\nIt said if the government would allow the combining of information about customers' income, health and energy consumption, a discount scheme could offer targeted and adjustable support, and respond to changing needs and price levels.\n\nThe body said its proposed new scheme would cost £1.9bn - nearly double the cost of the current scheme - but could offer £450 in support to some households.\n\nEnergy UK suggested the new support scheme could continue to be part-funded through bills or shifted entirely onto the taxpayer, via government funding.\n\nThe last time the price cap reached a similar level was in July 2023, Cornwall Insight said, which was still below the peaks reached the previous year in the wake of Russia's invasion of Ukraine.\n\nDuring that energy price spike the Conservative government committed a total of around £40bn , external of government spending to support households with energy bills.\n\nThe challenge of combining sources of personal data, including income and health, and the proposal to find more taxpayer money to fund such a scheme are likely to raise questions.\n\nHowever, Adam Scorer, chief executive of National Energy Action, said this was the sort of approach his charity was calling for, especially as the Warm Home Discount has risen by only £10 over the last decade.\n\n\"We desperately need a new approach,\" he said.\n\n\"There will be a lot of detail to get right, but if government genuinely wants to provide breathing space for people in fuel poverty, it needs to take this challenge on and work with energy companies and charities to design something truly fit for purpose.\"\n\nRelated topics\n\nCost of Living\n\nElectricity pricing\n\nMore on this story\n\nBill debt soars but many don't know help is available Published 10 June\n\nJump in energy bills drives UK inflation to highest rate for four months Published 3 days ago\n\nYou could be missing out on £150 off your energy bill - here's how to check Published 10 August\n\nWhat will the energy cap changes mean for my bills? Published 1 July",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
       "id": "9a5577c520c582bb",
       "title": "Supreme Court allows Trump's ballroom construction to continue for now",
       "summary": "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation.",
@@ -1353,6 +1335,58 @@
       "imageAlt": "President Trump displays a rendering of his proposed $250 million White House ballroom on Oct. 22, 2025.",
       "imageWidth": 3282,
       "imageHeight": 2188
+    },
+    {
+      "id": "ff674e5c196093ba",
+      "title": "Ofcom investigating Sky News over Farage harassment claims",
+      "summary": "The Reform UK leader has accused Sky News of sending reporters to a house where his adult daughter lives.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/ce8k52186mmo",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-08-21T18:44:19Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 527,
+      "readingMinutes": 3,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/275c/live/9e5735b0-94ab-11f1-870d-5d08c49babb2.jpg",
+      "body": "Published 21 August 2026\n\nRegulator Ofcom has launched an investigation into Sky News over claims of harassment made by Reform UK leader Nigel Farage.\n\nLast month, Farage accused the broadcaster of infringing his family's privacy by sending reporters to a house where his adult daughter was living.\n\nReform UK made an official complaint to Ofcom, and called on Sky News to apologise on air and undertake not to seek to contact Farage's family at their homes.\n\nIn a post on Facebook on Friday, the Clacton MP said Ofcom was now investigating and that he was \"appalled at the way various members of my family have been treated\".\n\nThe broadcaster denied approaching Farage's daughter when he initially made the allegation.\n\nChris Mason: Farage attempts to seize back the agenda after finance row Published 7 July\n\nOfcom would not comment on any investigation but said it treated complaints in strict confidence and would not \"publicly confirm the identities of individuals concerned\".\n\nFarage claims reporters from Sky News approached his daughter's home while he was out of the country.\n\nSky News says it did not interact with his daughter, and was trying to ask Farage about a £5m gift he received from cryptocurrency investor Christopher Harborne before he entered Parliament in July 2024.\n\nA parliamentary standards investigation into whether the gift broke any rules resumed earlier this month after Farage was re-elected as MP for Clacton following a by-election he triggered that was boycotted by the other major parties.\n\nUpon returning to the country, Farage was questioned by Sky News over the undeclared gift, to which he responded: \"You tell your bosses, you harass my family any more, there will be serious consequences, that's what your organisation has done this morning, now go away.\"\n\nWhen pressed on the donation again, he said: \"Did you not hear me? You have broken all the rules, Leveson and everything else, cut.\"\n\nAt the time, Sky News said in a post on X: \"Sky News was not at the property at 7.41am. As has already been acknowledged, and as shown in the footage from 10.19am, Sky News was outside a property where Mr Farage was registered to vote at the last election.\n\n\"Sky News did not interact with Mr Farage's daughter.\n\n\"On a single occasion, we approached the property without a camera operator, identified ourselves as Sky News and the adult occupant chose not to engage. We were seeking to contact Mr Farage to ask questions about the gift he accepted from Mr Cottrell.\n\n\"This is a well-established and routine journalistic practice when reporting on matters of legitimate public interest.\n\n\"The footage clearly demonstrates that Sky News did not 'hound' or pursue Mr Farage's daughter.\n\n\"At no stage did we seek to speak to anyone other than Mr Farage in connection with this story.\"\n\nThe BBC has contacted Sky News for comment.\n\nOfcom says it aims to conclude fairness and privacy complaints within 90 working days.\n\nRelated topics\n\nNigel Farage\n\nReform UK\n\nOfcom\n\nMore on this story\n\nCount Binface receives over a quarter of votes in Clacton by-election Published 14 August\n\nFarage's by-election victory won't stop questions about finances Published 14 August",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "id": "7854e387f7e3e5e8",
+      "title": "High court allows rugby brain injury case to go on",
+      "summary": "The cases of hundreds of players in rugby's multi-million-pound concussion legal battle allowed to continue after High Court ruling.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/articles/c70g2n4w49lo",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-08-21T16:23:44Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England",
+        "Rugby"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dca/live/77573c20-9d7b-11f1-8bc3-150f4c5f088b.jpg"
     },
     {
       "id": "80aa7dbd36fc00b8",
@@ -1432,6 +1466,57 @@
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f48a/live/58632f40-9d6c-11f1-bdcc-8926c4a74c43.jpg",
       "body": "The Beacon Fen Energy Park will be capable of powering up to 130,000 homes\n\nPublished 21 August 2026\n\nA proposed solar farm in rural Lincolnshire has been approved by the government despite public concern.\n\nThe Beacon Fen Energy Park, near Sleaford, is capable of powering up to 130,000 homes.\n\nApproving the project, John Wheadon from the Planning Inspectorate said there was an \"urgent need\" for the proposed development.\n\nReacting to the news on social media, Conservative MP for Sleaford and North Hykeham, Dr Caroline Johnson, said the approval was \"another kick in the teeth for local people who have campaigned tirelessly against it\".\n\nDeveloper Low Carbon said the project's approval was a \"landmark moment\".\n\nManaging director Mike Rutgers said: \"As one of the first major energy infrastructure decisions taken under the new Secretary of State, the approval sends a clear signal about the importance of accelerating homegrown, clean energy that can play a key role strengthening energy security and supporting economic growth.\"\n\nRutgers thanked local people for their engagement so far and said the company \"look forward to continuing that engagement as we progress the project\".\n\nMandy and Stevie say they did not know about the plans for a solar project when they bought their home\n\nPlans for the project, which would cover an area of land north of Heckington, were submitted in May 2025.\n\nOpponents include local couple Mandy Goodhand and Stevie Johnson-Mansley , who described the plans, that they said would leave their rural retirement cottage \"surrounded by 15ft (4.5m) solar panels\", as \"devastating\".\n\nLarge solar farms are classed as Nationally Significant Infrastructure Projects,(NSIPS) which means they are ultimately decided on by government ministers rather than local councils.\n\nListen to highlights from Lincolnshire on BBC Sounds , watch the latest episode of Look North .\n\nGet in touch\n\nYour Voice\n\nDownload the BBC News app from the App Store , external for iPhone and iPad or Google Play , external for Android devices\n\nRelated topics\n\nSolar power\n\nEnergy industry\n\nHeckington\n\nRenewable energy\n\nSleaford\n\nMore on this story\n\nRetired couple 'devastated' by solar farm plans Published 15 May 2025\n\nMiliband 'took no part' in solar farm approval Published 4 February 2025\n\nSolar farms are 'slap in the face' - councillor Published 24 January 2025\n\nRelated internet links\n\nPlanning Inspectorate",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "id": "8439fd3d9048f0fb",
+      "title": "Wales great Jones returns to Ospreys as a director",
+      "summary": "Ospreys confirm former Wales captain Alun Wyn Jones as a new member of their board before the 2026-27 season.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cp870222y26o",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-08-21T15:28:42Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e786/live/46428dd0-9d74-11f1-8aa1-c3c0b3f36f05.jpg"
+    },
+    {
+      "id": "80091505589bb95f",
+      "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
+      "summary": "The government says at no point was there a risk to the UK's energy system during the attack in July.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-08-23T02:48:41Z",
+      "category": "Economics",
+      "region": "Middle East",
+      "labels": [
+        "Economics",
+        "Middle East"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 288,
+      "readingMinutes": 2,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f5a/live/8ba750f0-9e95-11f1-b485-57ec149f4199.jpg",
+      "body": "Published 5 hours ago\n\nA small power plant in the UK was shut down during a cyber attack.\n\nThe government said that at no point was there a risk to the UK's energy system, but the Department for Energy Security and Net Zero (DESNZ) has contacted power companies to advise them about the risk of cyber attacks.\n\nThe Telegraph reported , external that the attack, which took place last month, was carried out by hackers affiliated to the Iranian regime.\n\nFor security reasons, neither the government nor the National Cyber Security Centre, which deals with attacks on critical infrastructure, would give further details of the site affected. However this was not an attack on an essential service such as a large power station.\n\nAccording to the Telegraph, the power plant was shut down for four days.\n\nDESNZ said the incident had affected a small-scale generator and at no point had there been a risk to the wider energy system.\n\nThe UK's power network has a number of smaller gas generators which provide short-term power when needed.\n\nProtecting the country's supplies is a key challenge for the government. It is updating its regulations for cyber security, and working on a new energy resilience strategy for later this year.\n\nIran has long been regarded as a capable cyber power but while the Western cyber-security world is braced for attacks either from the state or hackers linked to the state as a result of its conflict with the US this year, there has been little activity so far.\n\nRelated topics\n\nCyber-attacks\n\nCyber-security\n\nIran\n\nMore on this story\n\nWhat role has cyber warfare played in Iran? Published 12 March\n\nDid Iran hack water systems in at least seven US states? Published 5 August",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1583,30 +1668,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae0/live/d1542850-9d3f-11f1-bc05-aff3aa1f91c7.jpg"
-    },
-    {
-      "id": "2ffc1af7e0e046a3",
-      "title": "Struggling households need more help with bills, energy industry says",
-      "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-22T23:00:03Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ea9/live/7085b770-9d97-11f1-9233-8716b68cda7b.jpg"
     },
     {
       "id": "1fcb4dae4178bc72",
@@ -1874,6 +1935,29 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fddf/live/6f6e3b80-193d-11f0-8fd7-0d6f4cccf9ff.png"
     },
     {
+      "id": "70504dd26abb1b3c",
+      "title": "Trump hits out at Canada over retaliatory tariffs",
+      "summary": "Donald Trump has accused Canada of treating US farmers unfairly for years as a trade standoff between Ottawa and Washington escalates. Both sides are threatening new tariffs after the collapse of talks on Friday.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-23T07:31:00Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 34,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "d252e362605f8238",
       "title": "'Borderline Personality Disorder is my superpower'",
       "summary": "Wales' Donna Rose tells BBC Sport how rugby union has helped her manage Borderline Personality Disorder.",
@@ -1970,6 +2054,54 @@
       "isBreaking": false
     },
     {
+      "id": "4d1fa9e2c02dd8f7",
+      "title": "Pegula's three-hour epic sets up all‑US final",
+      "summary": "Jessica Pegula's win over Iga Swiatek means the Cincinnati Open will stage its first all‑American women's final in 56 years.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cr595z6jqjdo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-23T07:27:28Z",
+      "category": "Sports",
+      "region": "US",
+      "labels": [
+        "Sports",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 21,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0919/live/22f1e270-9eb6-11f1-84b4-615bda525456.jpg"
+    },
+    {
+      "id": "29887cdf32b87ac2",
+      "title": "Can you name the top 20 Test batters in the world?",
+      "summary": "Can you name the top 20 batters in the world based on the International Cricket Council's Test rankings?",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/clyxyj73d0mo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-23T07:01:20Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/285a/live/576f64e0-9e26-11f1-b109-879e35c24276.png"
+    },
+    {
       "id": "ae43d603652c8f06",
       "title": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
       "summary": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines Business live – latest updates The founder of Evergrande, one of China’s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated. Hui Ka Yan, 67 and once named by Forbes as China’s richest man, with a net worth of $42.5bn (£31.2bn) in 2017, pleaded guilty in April to eight charges. Continue reading...",
@@ -1994,37 +2126,37 @@
       "imageUrl": "https://i.guim.co.uk/img/media/709754c9a4198b956f1c2acc98bb9478b6dedbde/542_0_5415_4332/master/5415.jpg?width=700&quality=85&auto=format&fit=max&s=ae56f61bf208c520378e45cb446d328c"
     },
     {
-      "id": "0268577adce04598",
-      "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
-      "summary": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying that tariffs would follow the collapse of talks.",
+      "id": "e16ee4a851e56f9a",
+      "title": "Pegula dethrones Swiatek to book Cincinnati final against Gauff",
+      "summary": "The women’s all-American final will be followed by a men's title clash between Frances Tiafoe and Arthur Fils of France.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-08-23T03:08:00Z",
+      "url": "https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-23T06:15:50Z",
       "category": "Politics",
-      "region": "Canada",
+      "region": "US",
       "labels": [
         "Politics",
-        "Canada"
+        "US"
       ],
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 33,
+      "wordCount": 20,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
     },
     {
-      "id": "a0784164f599d2b8",
-      "title": "Wales pushing the pain barrier in bid to improve",
-      "summary": "BBC Sport spends a day in Wales' pre-season camp, watching players put through their paces ahead of the new WXV Global Series.",
+      "id": "2a89f6f65b97489a",
+      "title": "Cyborg set to delay retirement after hard-fought win",
+      "summary": "Cris Cyborg appears ready to continue her fighting career after 30th win at PFL Tampa.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqx7n5gw0wxo",
+      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cpw9wkqk7rdo",
       "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-08-23T04:49:04Z",
+      "published": "2026-08-23T06:56:44Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -2034,11 +2166,11 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 22,
+      "wordCount": 15,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c62d/live/9a0807f0-9c8f-11f1-8d19-93d7082c5662.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4944/live/f123ce30-9eb9-11f1-8afa-6d906fcc4949.png"
     },
     {
       "id": "3c006dfd65b6c061",
@@ -2063,6 +2195,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac2c/live/c4afa730-9d4b-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "id": "c748390bcc49bba6",
+      "title": "Five in Five: Formula 1 quiz No 1",
+      "summary": "Will you beat the clock by getting all five of today's answers in five minutes?",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cn4nkkpgp31o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-23T05:56:51Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ba3/live/1de261c0-9af0-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "id": "b011fe0553d11629",
@@ -2202,6 +2358,29 @@
       "focus": "",
       "sourceType": "news",
       "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "6d6a337eb58d5b53",
+      "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
+      "summary": "Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-23T02:34:49Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -2543,6 +2722,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2c/live/9d6c1dd0-9d7c-11f1-8bc3-150f4c5f088b.jpg"
     },
     {
+      "id": "ba5093dc69e817d2",
+      "title": "Nobody can stop Fury-Joshua from happening - Hearn",
+      "summary": "Promoter Eddie Hearn says \"no-one can pull out\" of the proposed fight between Tyson Fury and Anthony Joshua.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/ce8k8314j07o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T22:57:04Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5502/live/e45a3880-9e7b-11f1-b70a-adbf90d67554.jpg"
+    },
+    {
       "id": "77d88b3b3934d8a4",
       "title": "Arthur drop goal gives Hull FC win over Catalans",
       "summary": "Jake Arthur scores a drop goal in the final five minutes to give Hull FC a dramatic comeback win over former coach John Cartwright and Catalans Dragons.",
@@ -2589,6 +2792,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fd/live/41595670-9e67-11f1-b109-879e35c24276.png"
+    },
+    {
+      "id": "98ea6fea73735ab1",
+      "title": "De Zerbi learns cash alone cannot fix Spurs' losing mentality",
+      "summary": "Spurs head coach Roberto De Zerbi discovers cash is no cure for a losing mentality as they crash to a heavy defeat at Brentford, says chief football writer Phil McNulty.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd696j44jqyo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T20:16:00Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 30,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c40f/live/f8337350-9e5b-11f1-92d9-fda6ee78d386.jpg"
     },
     {
       "id": "6b36592f061f1cfb",
@@ -2709,30 +2936,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c1cbbd40-9e60-11f1-b846-61461b4a3b69.jpg"
-    },
-    {
-      "id": "6c1d2eb302000ddd",
-      "title": "McIlroy improves to go joint-second as Clark retains lead",
-      "summary": "Rory McIlroy strikes a five-under 65 to move joint-second on day three at the BMW Championship.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/c0m7mrp9pd7o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T22:19:28Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 16,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c4e/live/7cb23bd0-9e6f-11f1-bd4f-49a9cd2272da.jpg"
     },
     {
       "id": "e2d9e6b33ab52ae8",
@@ -2997,30 +3200,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d669/live/58e57960-9e42-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "80d84bc25aa0b406",
-      "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-08-22T20:10:00Z",
-      "category": "Politics",
-      "region": "Canada",
-      "labels": [
-        "Politics",
-        "Canada"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/336c/live/7ee35600-9e56-11f1-92d9-fda6ee78d386.jpg"
-    },
-    {
       "id": "d4c7d5e4d6665f7c",
       "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
       "summary": "The nine-page booklet covers issues including respect in public, sex and consent, and gender equality.",
@@ -3264,19 +3443,43 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a533/live/58063060-9e57-11f1-92d9-fda6ee78d386.jpg"
     },
     {
-      "id": "33b995f7481f3835",
-      "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
-      "summary": "The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.",
+      "id": "4a9fd125361aee0a",
+      "title": "Man Utd 'didn't look ready' - but hurting Carrick remains calm",
+      "summary": "Manchester United boss Michael Carrick is refusing to panic despite shock loss at newly promoted Hull City.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-22T19:00:25Z",
-      "category": "Politics",
-      "region": "Canada",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c87n78p070do",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T19:06:02Z",
+      "category": "Sports",
+      "region": "UK",
       "labels": [
-        "Politics",
-        "Canada"
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b51e/live/6c1ee560-9e5c-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "id": "40d504dc824b93f1",
+      "title": "Ex-West Brom midfielder Castro, 25, dies during friendly",
+      "summary": "Former West Brom midfielder Quevin Castro dies at the age of 25 after collapsing during a match in Portugal.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8dnd416pzyo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T18:06:43Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
       ],
       "sourceWeight": 4,
       "focus": "",
@@ -3284,55 +3487,8 @@
       "wordCount": 19,
       "readingMinutes": 1,
       "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "61ca17ed7870a67e",
-      "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
-      "summary": "Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dollar for dollar.\"",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-22T19:13:02Z",
-      "category": "Politics",
-      "region": "Canada",
-      "labels": [
-        "Politics",
-        "Canada"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "e18df3a582aa82a7",
-      "title": "Privacy advocates call on Maryland to investigate data brokers",
-      "summary": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege that data brokers are violating the law by selling data to police and federal immigration agencies.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-      "source": "NPR Politics",
-      "publisher": "NPR",
-      "published": "2026-08-20T09:00:00Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 32,
-      "readingMinutes": 1,
-      "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7672x5117+0+0/resize/7672x5117!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2Ffe%2Fc3241bf848ecab758bcd383d2633%2Fgettyimages-2291175333.jpg",
-      "imageAlt": "An automatic license plate reader (ALPR) camera monitors traffic on Wednesday in Silver Spring, Md."
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a597/live/92492c30-9e4f-11f1-8871-ff7211da55c9.jpg"
     },
     {
       "id": "4cb89285e200aae2",
@@ -3406,28 +3562,53 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0438/live/d4046fd0-9e32-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "51b5cb4231ba1da1",
-      "title": "Mateta claims final year of Palace deal is invalid",
-      "summary": "Jean-Philippe Mateta is challenging the validity of the final 10 months on his Crystal Palace contract.",
+      "id": "892cf1e6365f848e",
+      "title": "More students planning to live at home for university over 'insane' living costs",
+      "summary": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx7x90dxywo",
-      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/c70gy180e8lo",
+      "source": "BBC Business",
       "publisher": "BBC",
-      "published": "2026-08-22T17:49:41Z",
-      "category": "Sports",
-      "region": "UK",
+      "published": "2026-08-21T23:01:58Z",
+      "category": "Economics",
+      "region": "World",
       "labels": [
-        "Sports",
-        "UK"
+        "Economics",
+        "World"
       ],
-      "sourceWeight": 4,
+      "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 16,
+      "wordCount": 23,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8479/live/19fea790-9e14-11f1-95e0-53a570c83624.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/f132db30-97db-11f1-bb4c-d758974ed97b.jpg"
+    },
+    {
+      "id": "bc0f84ee01034bf3",
+      "title": "The system meant to protect ICE detainees has collapsed",
+      "summary": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+      "source": "NPR Politics",
+      "publisher": "NPR",
+      "published": "2026-08-20T09:00:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 28,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2Ff6%2F7b3317d7468bb9a75d13c36730f2%2F20260603-icegreivance839.jpg",
+      "imageAlt": "Delaney Hall detention center in Newark, N.J., on June 3. An NPR review has found that the grievance system in immigration detention, originally designed as a way to report violations of detention standards, is now barely operational."
     },
     {
       "id": "d49d6ea407b9976b",
@@ -3452,30 +3633,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a4/live/d01f3ad0-9e3c-11f1-bb45-576721ee33bb.jpg"
-    },
-    {
-      "id": "a37510a4cd3ace45",
-      "title": "Infantino asked to stay away from youth tournament",
-      "summary": "Gianni Infantino has been asked to stay away from a youth football tournament in the Dominican Republic this weekend by Concacaf president Victor Montagliani.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq6d627y8g7o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T14:29:55Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d33/live/a7abc620-9e2f-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "id": "5cf384293ff420f5",
@@ -3646,30 +3803,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f8f/live/fcaa3ab0-9c74-11f1-8efc-bf1ca073197a.jpg"
     },
     {
-      "id": "fba1f007b2bd4cef",
-      "title": "Williams and Alcaraz to play US Open mixed doubles",
-      "summary": "Serena Williams will pair up with Carlos Alcaraz for the mixed doubles at the US Open at Flushing Meadows.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c4g3gp9k2njo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T14:41:20Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/234d/live/2510b660-9d9b-11f1-a291-b542ee92de7c.png"
-    },
-    {
       "id": "5673d11d2b8871c4",
       "title": "Watch: How does the US national debt affect consumers around the world?",
       "summary": "The debt has more than doubled in a decade to reach a milestone $40tn (£29.4tn), Treasury figures show.",
@@ -3716,30 +3849,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5939552"
-    },
-    {
-      "id": "eb106a1ca39746d4",
-      "title": "Ireland below standards in World Cup loss to Scotland",
-      "summary": "Ireland coach Gareth Grundie describes the performance in the 2-1 World Cup defeat by Scotland as \"not to the standard that we'd set ourselves\".",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/hockey/articles/c20d0n3nrzyo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T12:24:58Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca7c/live/83967b70-9e22-11f1-ac9e-fff6c50f95cd.jpg"
     },
     {
       "id": "e50b4f0cf76d4761",
@@ -3910,54 +4019,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8357/live/efef0c70-9c00-11f1-a742-1b527746bd0d.jpg"
     },
     {
-      "id": "c47b33e59447e4b8",
-      "title": "'We're not Brendon and Ben' - Root's calmness praised",
-      "summary": "Joe Root is praised for his calmness on his return as captain by interim coach Marcus Trescothick, who says the pair \"are not\" Ben Stokes and Brendon McCullum.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cly9yzrgp21o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T11:00:02Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 28,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4050/live/90cf8650-9e14-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "cad161e388e7bfdc",
-      "title": "Bejlek continues stunning run to set up Gauff semi",
-      "summary": "Czech Sara Bejlek continued her stunning run at the Cincinnati Open as she upset American Madison Keys to reach her first WTA 1000 semi-final where she will face fourth seed Coco Gauff.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c9v4v8ke01xo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T10:03:42Z",
-      "category": "Sports",
-      "region": "US",
-      "labels": [
-        "Sports",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 32,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d4d/live/6f65e260-9e01-11f1-9d7c-99ef97a9447f.jpg"
-    },
-    {
       "id": "bb75045ba2a0ede4",
       "title": "Councils turn to AI in attempt to fill £4bn black hole",
       "summary": "Councils across the UK are making cuts of £3bn this financial year, despite recent funding reforms.",
@@ -4078,30 +4139,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b51/live/ad7b3a90-9e07-11f1-afde-61b39e745f81.jpg"
     },
     {
-      "id": "23e7b4392a264199",
-      "title": "Wildfire 'overlooked' as it was in the North - MP",
-      "summary": "Alison Hume says farmers' losses from the Langdale Moor fire had \"slipped through the cracks\".",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cly5lj5xp9ro",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-08-20T05:09:35Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce6e/live/593e7860-9bdd-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
       "id": "636a6ed4c2636365",
       "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
       "summary": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
@@ -4198,30 +4235,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Russian-drone-boat-1152x648.jpeg"
     },
     {
-      "id": "4dfad040ff2bfc96",
-      "title": "'If I can make it out, you can too,' says Dyer before UFC fight",
-      "summary": "Shanelle Dyer is using her UFC platform to show young people they can \"make it out too\" after growing up in a neighbourhood affected by knife crime in west London.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c86nzzjvjl4o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T07:03:59Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 30,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/983c/live/cedc1920-9c9f-11f1-a5a0-114ca9d4a1bc.jpg"
-    },
-    {
       "id": "5dc4b8b51bacff55",
       "title": "Messi fined for slapping opponent in MLS game",
       "summary": "Lionel Messi is fined by Major League Soccer after slapping Philadelphia Union's Quinn during Inter Miami's draw on Wednesday.",
@@ -4270,30 +4283,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6172/live/46491350-966a-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "id": "02557f535a9c0f5f",
-      "title": "Cyborg title not at stake as opponent misses weight",
-      "summary": "Cris Cyborg's PFL featherweight world title will not be at stake in Tampa on Saturday after opponent Ketlen Vieira failed to make the weight.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c935rrv31yvo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T06:47:22Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49e3/live/268aef20-9def-11f1-898b-91bf436c749f.png"
-    },
-    {
       "id": "1d234d740a42e428",
       "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
       "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
@@ -4340,30 +4329,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f606/live/f333c750-9d99-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "id": "74e8ef53edb6dade",
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T07:53:57Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 12,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg"
     },
     {
       "id": "f35c7d8b7224d01d",
@@ -4653,30 +4618,6 @@
       "imageUrl": "https://i.guim.co.uk/img/media/8d7f03d88b7b8112881e3e6bddd3dfbe85bd8099/531_0_4679_3744/master/4679.jpg?width=700&quality=85&auto=format&fit=max&s=921413e3059f83f67aeebea415264344"
     },
     {
-      "id": "f0c87d8e0b1a3a04",
-      "title": "People smuggler exposed by BBC investigation arrested and charged",
-      "summary": "Twana Jamal Khdir has been arrested and charged with immigration offences.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-08-19T20:54:51Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 11,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e68/live/7284e2f0-9c0f-11f1-bab6-dd87b521d67e.jpg"
-    },
-    {
       "id": "251a699ab5e5fcaf",
       "title": "Arsenal start title defence with comfortable win over Coventry",
       "summary": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
@@ -4749,30 +4690,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2499/live/1c353190-9a2d-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "915136b43ece23e0",
-      "title": "Lampard praises Coventry's courage in 3-0 defeat by Arsenal",
-      "summary": "Coventry City manager Frank Lampard shares his thoughts on his side's 3-0 defeat by Arsenal in their first game back in the Premier League since 2001.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckg97d082wyo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T22:00:36Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 26,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6841/live/317c58f0-9daa-11f1-b109-879e35c24276.jpg"
-    },
-    {
       "id": "275442b870c5e6b1",
       "title": "'A lot to like!' Arteta delighted with opening win for Arsenal",
       "summary": "Arsenal manager Mikel Arteta gives his thoughts on his side's 3-0 win over Coventry City in the opening game of the Premier League season.",
@@ -4821,6 +4738,30 @@
       "imageUrl": "https://i.guim.co.uk/img/media/86145f6fe01d72c19b9e945726cd5e855a2a3074/0_0_4500_3600/master/4500.jpg?width=700&quality=85&auto=format&fit=max&s=71b2c55ee2e4d40413efde45aebd086f"
     },
     {
+      "id": "4d6c6da6625593d3",
+      "title": "Drill, Burnham, drill? The oil basin that is a totem for Trump - and a headache for Britain’s new PM",
+      "summary": "North Sea oil, once the driving force of the UK economy, may be dwindling but it remains a symbol of prestige and a rich resource for political debate When oil was first discovered off the north-east coast of Scotland in September 1969, industry folklore has it that the duty superintendent on the rig carefully poured it into a pickle jar commandeered from the canteen and took it back to Amoco’s Great Yarmouth office in Norfolk. There, it was emptied into an ash tray, sniffed and then set alight. From that modest start, North Sea oil – as the huge basin of oil and gas reserves quickly became known – emerged as a driving force of the British economy and a symbol of national power and renewal as the UK emerged from the Opec oil crisis. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/aug/23/drill-burnham-north-sea-oil-basin-totem-trump-headache-britain",
+      "source": "The Guardian UK",
+      "publisher": "The Guardian",
+      "published": "2026-08-23T05:00:23Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 135,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/c643457f774bd61407850b463c617e1141a13be4/0_0_3065_2452/master/3065.jpg?width=700&quality=85&auto=format&fit=max&s=56976cdc8bf24208524737336b97e8e1"
+    },
+    {
       "id": "93741208fb1c760d",
       "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
       "summary": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
@@ -4839,6 +4780,75 @@
       "focus": "",
       "sourceType": "news",
       "wordCount": 26,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "6909c4c154a1ca58",
+      "title": "Search resumes for 22 crew after cargo ship sinks off India",
+      "summary": "The Panama‑flagged Ocean Winner had 24 people on board when it sank in the Bay of Bengal. The ship is thought to have been carrying iron ore from India to Singapore.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/search-resumes-for-22-crew-after-cargo-ship-sinks-off-india/a-78472142?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-23T07:49:00Z",
+      "category": "Politics",
+      "region": "Europe",
+      "labels": [
+        "Politics",
+        "Europe"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 32,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "b2d21a60dab2c983",
+      "title": "Red faces as Sydney Marathon medal shows German stadium",
+      "summary": "A medal minted for finishers in the Sydney Marathon features a skyline of the city — with one landmark from rather far away. Organizers say the muddle only makes the medal \"a little more unique.\"",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/red-faces-as-sydney-marathon-medal-shows-german-stadium/a-78473705?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-23T06:35:00Z",
+      "category": "Politics",
+      "region": "Europe",
+      "labels": [
+        "Politics",
+        "Europe"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 34,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "9beb57e8abc76c7c",
+      "title": "Ukraine: Could ex-defense minister challenge Zelenskyy?",
+      "summary": "Last week, former Ukrainian defense minister Mykhailo Fedorov released a video in which he spoke of corruption, a crisis of leadership and elections. His explosive remarks have sparked widespread public debate.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/ukraine-could-ex-defense-minister-challenge-zelenskyy/a-78469496?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-23T05:46:00Z",
+      "category": "Politics",
+      "region": "Europe",
+      "labels": [
+        "Politics",
+        "Europe"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 31,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -4916,25 +4926,24 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8763/live/725b1f30-9be0-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "4b4f755e58482974",
-      "title": "Cease garners first-place votes in latest Cy Young poll",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/cam-schlittler-jacob-misiorowski-lead-fifth-2026-cy-young-poll",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-18T04:00:00Z",
-      "category": "Sports",
-      "region": "Canada",
+      "id": "b1e1748ba0c50c2f",
+      "title": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
+      "summary": "Participants in St Petersburg honour Russia’s tricolour with patriotic events and ribbon distributions across the city.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-23T08:07:54Z",
+      "category": "Politics",
+      "region": "World",
       "labels": [
-        "Sports",
-        "Canada",
-        "Blue Jays"
+        "Politics",
+        "World"
       ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
+      "sourceWeight": 4,
+      "focus": "",
       "sourceType": "news",
-      "wordCount": 0,
+      "wordCount": 16,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -4944,7 +4953,7 @@
     {
       "source": "BBC News",
       "ok": true,
-      "items": 33
+      "items": 32
     },
     {
       "source": "BBC Politics",
@@ -4978,8 +4987,8 @@
     },
     {
       "source": "UN News",
-      "ok": false,
-      "error": "not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 30
     },
     {
       "source": "The Guardian China",
@@ -5049,7 +5058,7 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 75
+      "items": 76
     },
     {
       "source": "BBC Rugby Union",
@@ -5119,16 +5128,16 @@
   ],
   "editorialStatus": [
     {
-      "source": "The Conversation — UK",
-      "succeeded": 2,
-      "failed": 0,
-      "skipped": 1
-    },
-    {
       "source": "The Conversation — Africa",
       "succeeded": 3,
       "failed": 0,
       "skipped": 0
+    },
+    {
+      "source": "The Conversation — UK",
+      "succeeded": 2,
+      "failed": 0,
+      "skipped": 1
     },
     {
       "source": "ProPublica",
