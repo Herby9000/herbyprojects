@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-22T20:38:10.615604Z",
+  "generatedAt": "2026-08-23T01:59:13.132237Z",
   "topStoryIds": [
     "196c582be0fa18b0",
     "867af1e4d1d680ca",
@@ -16,7 +16,7 @@
       "63aeae6dd6c29ebd",
       "5e77a8b12d59091c",
       "ff674e5c196093ba",
-      "c3eafd825b0eba6a"
+      "2d48a953e87b1464"
     ],
     "Tech": [
       "867af1e4d1d680ca",
@@ -33,17 +33,17 @@
       "8054d76697312338"
     ],
     "Sports": [
+      "b9ee67a72f663c70",
+      "e081f536c3bfaad8",
       "63f22a85862c9210",
-      "2431af0d98f1c620",
-      "0028d65d89400e85",
       "e490b9cf5b975ac2",
       "7854e387f7e3e5e8",
       "8439fd3d9048f0fb",
       "eadb3c0094cab86e",
       "446014f5425e0c4b",
-      "aadcfc225c022444",
-      "068f086042e21195",
-      "1a30fa0d13e5fa7c",
+      "0890e7df202be301",
+      "eadf3e2637417675",
+      "12f8c08b3a6879da",
       "936a7aa205606d39"
     ],
     "Editorial": [
@@ -184,12 +184,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 571,
+      "wordCount": 568,
       "readingMinutes": 3,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43f6/live/83b694f0-9dd2-11f1-b2b6-cb5bce61ac4a.jpg",
-      "body": "Jim O'Neill (image from 2014)\n\nPublished 22 August 2026, 03:53 BST\n\nEconomist Lord Jim O'Neill, who has been advising the prime minister, has said he will not be taking a job in Andy Burnham's government.\n\nAs first reported by , external the Financial Times, Lord O'Neill, a crossbench peer who was once a treasury minister under the Conservatives, said he did not want the constraints involved in taking on a formal role.\n\nThe former chief economist at Goldman Sachs had been tipped to become Burnham's chief economic adviser.\n\nHe said he was enjoying what he was currently doing too much and did not want to have to give up control of his business interests to comply with official rules.\n\nHe told BBC Radio 4's Today programme that he had \"lots of other things that are going on that I very much enjoy\" and, having been a minister before, he knew the job included \"all the constraints that understandably go with it, like a blind trust and to abandon everything else you do, never mind the fact that it's 24/7\".\n\nIn placing shares in blind trusts, ministers have no knowledge of how their investment is being handled, to avoid any potential conflict of interest.\n\nHe said he concluded he would rather be a voice to talk to and \"get on with the rest of the things in my life\".\n\nHe earlier told the Financial Times it was \"not because of any policy disagreements\", adding \"I'm a massive fan of the focus on devolution and I hope Andy and his team will be bold on this and everything else.\"\n\nHe pointed to Greater Manchester as an example of economic growth and said if you could repeat that around populated areas, \"then national economic performance will improve\".\n\nAsked by the BBC whether the new government in the upcoming October budget would need to raise taxes, Lord O'Neill said it was a choice for the prime minister and his team \"based on the things they're saying they want to do more of - defence spending is obviously the one that catches the eye\", among other things.\n\nPressed on whether the government could turn to something such as wealth taxes, Lord O'Neill said he was \"not a fan of further increases in these kind of taxes, particularly as it relates to capital gains for genuine risk taking things like venture capital\".\n\nHe noted that the country has boosted government spending \"dramatically\" in recent years and needed a \"more sensible approach to welfare spending under genuine welfare reform\".\n\nFrom 2015-2016, Lord O'Neill was commercial secretary to the Treasury under the then-Chancellor, George Osborne.\n\nThe peer, who grew up in Greater Manchester, was a key figure in pushing the Conservatives' Northern Powerhouse agenda, which was aimed at boosting the economy of the North of England.\n\nLord O'Neill is also known as the economist who coined the term Bric in 2001 to describe leading developing or newly industrialised countries with potential for fast growth and, therefore, investment returns.\n\nThe original four nations - Brazil, Russia, India and China - later became the Brics when they were joined by South Africa.\n\nRelated topics\n\nUK economy\n\nAndy Burnham\n\nMore on this story\n\nUK borrows more than expected in July as Healey prepares for first Budget Published 1 day ago\n\nInflation is heating up but don't expect another crisis Published 3 days ago\n\nJobs, borrowing and taxes: Andy Burnham's economic challenges Published 20 July",
+      "body": "Jim O'Neill (image from 2014)\n\nPublished 22 August 2026\n\nEconomist Lord Jim O'Neill, who has been advising the prime minister, has said he will not be taking a job in Andy Burnham's government.\n\nAs first reported by , external the Financial Times, Lord O'Neill, a crossbench peer who was once a treasury minister under the Conservatives, said he did not want the constraints involved in taking on a formal role.\n\nThe former chief economist at Goldman Sachs had been tipped to become Burnham's chief economic adviser.\n\nHe said he was enjoying what he was currently doing too much and did not want to have to give up control of his business interests to comply with official rules.\n\nHe told BBC Radio 4's Today programme that he had \"lots of other things that are going on that I very much enjoy\" and, having been a minister before, he knew the job included \"all the constraints that understandably go with it, like a blind trust and to abandon everything else you do, never mind the fact that it's 24/7\".\n\nIn placing shares in blind trusts, ministers have no knowledge of how their investment is being handled, to avoid any potential conflict of interest.\n\nHe said he concluded he would rather be a voice to talk to and \"get on with the rest of the things in my life\".\n\nHe earlier told the Financial Times it was \"not because of any policy disagreements\", adding \"I'm a massive fan of the focus on devolution and I hope Andy and his team will be bold on this and everything else.\"\n\nHe pointed to Greater Manchester as an example of economic growth and said if you could repeat that around populated areas, \"then national economic performance will improve\".\n\nAsked by the BBC whether the new government in the upcoming October budget would need to raise taxes, Lord O'Neill said it was a choice for the prime minister and his team \"based on the things they're saying they want to do more of - defence spending is obviously the one that catches the eye\", among other things.\n\nPressed on whether the government could turn to something such as wealth taxes, Lord O'Neill said he was \"not a fan of further increases in these kind of taxes, particularly as it relates to capital gains for genuine risk taking things like venture capital\".\n\nHe noted that the country has boosted government spending \"dramatically\" in recent years and needed a \"more sensible approach to welfare spending under genuine welfare reform\".\n\nFrom 2015-2016, Lord O'Neill was commercial secretary to the Treasury under the then-Chancellor, George Osborne.\n\nThe peer, who grew up in Greater Manchester, was a key figure in pushing the Conservatives' Northern Powerhouse agenda, which was aimed at boosting the economy of the North of England.\n\nLord O'Neill is also known as the economist who coined the term Bric in 2001 to describe leading developing or newly industrialised countries with potential for fast growth and, therefore, investment returns.\n\nThe original four nations - Brazil, Russia, India and China - later became the Brics when they were joined by South Africa.\n\nRelated topics\n\nUK economy\n\nAndy Burnham\n\nMore on this story\n\nUK borrows more than expected in July as Healey prepares for first Budget Published 1 day ago\n\nInflation is heating up but don't expect another crisis Published 3 days ago\n\nJobs, borrowing and taxes: Andy Burnham's economic challenges Published 20 July",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -238,12 +238,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 703,
+      "wordCount": 708,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/illo_dumpling_shop_final-1600x900.jpg",
-      "body": "Global Dispatch\n\nBusiness owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”\n\nBy Viola Zhou\n\nViola Zhou is a reporter for Rest of World covering China's tech scene. She is based in New York City.\n\nThis essay was first published in our Global Dispatch newsletter. Sign up here to get it straight to your inbox.\n\nIf you have an AI agent, you can tell it to build a website, make a slideshow, or get you a table at a popular dumpling shop in Beijing.\n\nThe dumpling shop, called Jinguyuan, has made headlines in China for creating a “skill” that allows users to check out the menu, seek recommendations, or join the queue by talking to their personal AI agents — tools that can automatically carry out tasks on a phone or laptop. Skills are files that teach AI agents specific workflows.\n\nThe shop owner, 41-year-old Li Bo, told me he built the AI skill in April, as he witnessed the growing popularity of agentic AI tools. Li began envisioning a world where everybody asks their AI assistant to plan daily work and life, including what to eat. Li wanted his dumpling shop to be part of that future.\n\n“Science and technology are a primary productive force,” Li told me, quoting China’s late leader Deng Xiaoping, who unleashed the historic reforms in 1978 that led to the country’s economic miracle in the following decades. “You always need to surround yourself with the most advanced productive force.”\n\nIn many developed countries, AI is primarily associated with job losses, threats to creativity, and sprawling data centers invading rural communities. Outside of the tech industry, relying on AI sometimes evokes a sense of shame similar to cheating. In New York City, where I live, few small businesses advertise how much they use AI, even though on the streets, menus and posters everywhere have the telltale signs of AI-generated imagery and typography.\n\n[In China] everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nWhen I speak with people living in China, I find many are similarly worried about AI’s impact on the job market and the tech industry’s exploitative nature, but at the same time, everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nCrash courses on large language models flourish online. Office workers rush to experiment with new AI tools to avoid falling behind in the competitive job market. When the agentic tool OpenClaw went viral, people queued up to have it installed on their laptops. A 2025 survey by public opinion firm Ipsos found that among the 30 countries surveyed, the Chinese population expressed the highest level of excitement about AI.\n\nLi studied telecommunications engineering at the Beijing University of Posts and Telecommunications. After graduating with a master’s degree in 2010, instead of becoming an engineer like many of his classmates, he worked at hostels, peddled homemade desserts, and eventually partnered with a dumpling chef to open Jinguyuan near his alma mater, serving students and tech workers.\n\nAI reignited Li’s excitement for tech. Besides the AI skill, he also vibe-coded a website tracking the queue status at Jinguyuan’s two branches, mostly with Alibaba’s coding tool Qoder. In July, Li partnered with an AI cloud provider to give every customer a token coupon worth 10 yuan ($1.50) that could be put toward model subscriptions.\n\nLi admits his AI skill brings more media attention than actual usage, but he is proud of becoming a role model for AI adoption. “Someone needs to start using it, even when it’s not that good,” Li said. “When steam engines just came out, people joked that they were not as good as horses. But in the end, cars won out.”\n\n“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”\n\nObservers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.\n\nThe online shopping trend where you buy nothing\n\nOn South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.\n\nWhy we should all be worried about AI in elections\n\nDeepfakes dominate headlines, but the real danger lies in opaque AI systems that make up election infrastructure.",
+      "body": "Global Dispatch\n\nBusiness owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”\n\nBy Viola Zhou\n\nViola Zhou is a reporter for Rest of World covering China's tech scene. She is based in New York City.\n\nThis essay was first published in our Global Dispatch newsletter. Sign up here to get it straight to your inbox.\n\nIf you have an AI agent, you can tell it to build a website, make a slideshow, or get you a table at a popular dumpling shop in Beijing.\n\nThe dumpling shop, called Jinguyuan, has made headlines in China for creating a “skill” that allows users to check out the menu, seek recommendations, or join the queue by talking to their personal AI agents — tools that can automatically carry out tasks on a phone or laptop. Skills are files that teach AI agents specific workflows.\n\nThe shop owner, 41-year-old Li Bo, told me he built the AI skill in April, as he witnessed the growing popularity of agentic AI tools. Li began envisioning a world where everybody asks their AI assistant to plan daily work and life, including what to eat. Li wanted his dumpling shop to be part of that future.\n\n“Science and technology are a primary productive force,” Li told me, quoting China’s late leader Deng Xiaoping, who unleashed the historic reforms in 1978 that led to the country’s economic miracle in the following decades. “You always need to surround yourself with the most advanced productive force.”\n\nIn many developed countries, AI is primarily associated with job losses, threats to creativity, and sprawling data centers invading rural communities. Outside of the tech industry, relying on AI sometimes evokes a sense of shame similar to cheating. In New York City, where I live, few small businesses advertise how much they use AI, even though on the streets, menus and posters everywhere have the telltale signs of AI-generated imagery and typography.\n\n[In China] everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nWhen I speak with people living in China, I find many are similarly worried about AI’s impact on the job market and the tech industry’s exploitative nature, but at the same time, everyone is eager to adopt AI, seeing it as an inevitable way forward.\n\nCrash courses on large language models flourish online. Office workers rush to experiment with new AI tools to avoid falling behind in the competitive job market. When the agentic tool OpenClaw went viral, people queued up to have it installed on their laptops. A 2025 survey by public opinion firm Ipsos found that among the 30 countries surveyed, the Chinese population expressed the highest level of excitement about AI.\n\nLi studied telecommunications engineering at the Beijing University of Posts and Telecommunications. After graduating with a master’s degree in 2010, instead of becoming an engineer like many of his classmates, he worked at hostels, peddled homemade desserts, and eventually partnered with a dumpling chef to open Jinguyuan near his alma mater, serving students and tech workers.\n\nAI reignited Li’s excitement for tech. Besides the AI skill, he also vibe-coded a website tracking the queue status at Jinguyuan’s two branches, mostly with Alibaba’s coding tool Qoder. In July, Li partnered with an AI cloud provider to give every customer a token coupon worth 10 yuan ($1.50) that could be put toward model subscriptions.\n\nLi admits his AI skill brings more media attention than actual usage, but he is proud of becoming a role model for AI adoption. “Someone needs to start using it, even when it’s not that good,” Li said. “When steam engines just came out, people joked that they were not as good as horses. But in the end, cars won out.”\n\nBan on Chinese robots leaves U.S. startups stranded\n\nWashington’s limits on foreign parts promises a supply chain revolution — but Silicon Valley founders say domestic alternatives don’t exist yet.\n\nChinese carmakers now sell one EV abroad for every two at home\n\nDwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.\n\nThe online shopping trend where you buy nothing\n\nOn South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.",
       "imageWidth": 1600,
       "imageHeight": 900
     },
@@ -275,14 +275,14 @@
       "imageHeight": 675
     },
     {
-      "id": "c3eafd825b0eba6a",
-      "title": "LIVE: Espanyol vs Real Madrid: La Liga",
-      "summary": "Follow updates as Jose Mourinho returns to lead Madrid - including the build-up, analysis and live text commentary.",
+      "id": "2d48a953e87b1464",
+      "title": "Security Council LIVE: Drone strikes and political impasse in Libya",
+      "summary": "As Libya faces a political impasse delaying long-planned elections alongside clashes and drone strikes that left a major oil refinery ablaze, the Security Council heard the latest updates, with an activist warning that the collision of extreme heat, water scarcity and environmental shocks with political division, armed insecurity and struggling institutions clearly makes the situation a peace and security issue. UN News app users can follow our live coverage here.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-22T16:30:09Z",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168158",
+      "source": "UN News",
+      "publisher": "UN News",
+      "published": "2026-08-18T12:00:00Z",
       "category": "Politics",
       "region": "World",
       "labels": [
@@ -292,10 +292,11 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 17,
+      "wordCount": 70,
       "readingMinutes": 1,
       "isShort": true,
-      "isBreaking": true
+      "isBreaking": true,
+      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-04-2023_UNSMIL_Tripoli.jpg/image560x340cropped.jpg"
     },
     {
       "id": "fb94f54477be6cad",
@@ -449,6 +450,54 @@
       "imageHeight": 630
     },
     {
+      "id": "b9ee67a72f663c70",
+      "title": "Toronto's no-hit drought continues, but signs of growth abound for Cease",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/dylan-cease-takes-no-hitter-into-seventh-against-yankees",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-22T22:08:49Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "e081f536c3bfaad8",
+      "title": "Just how they drew it up: Cease shines, offense does just enough",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/dylan-cease-boosts-cy-young-case-against-yankees",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-22T22:04:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "63f22a85862c9210",
       "title": "Vlad Jr. returns from IL as Blue Jays continue pivotal series vs. Yanks",
       "summary": "This feed supplied a headline but no article summary.",
@@ -456,57 +505,7 @@
       "url": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-concussion-il-blue-jays-return",
       "source": "Toronto Blue Jays",
       "publisher": "MLB",
-      "published": "2026-08-22T18:11:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "2431af0d98f1c620",
-      "title": "Latest Blue Jays injuries & transactions",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-22T16:50:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "0028d65d89400e85",
-      "title": "Blue Jays' margin for error shrinks in Wild Card chase",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/blue-jays-al-wild-card-race-postseason-push",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-22T04:03:00Z",
+      "published": "2026-08-22T21:08:00Z",
       "category": "Sports",
       "region": "Canada",
       "labels": [
@@ -649,38 +648,14 @@
       "isBreaking": false
     },
     {
-      "id": "aadcfc225c022444",
-      "title": "Sherrock claims first Women's Series title of 2026 in the absence of Greaves",
-      "summary": "Lisa Ashton and Fallon Sherrock shared the spoils at Events 17-18 of the PDC Women’s Series on Saturday, as the duo scooped a title each to reinforce their positions of second and third in the rankings respectively.",
+      "id": "0890e7df202be301",
+      "title": "Saints keep Super League play-off hopes alive over 10-man Castleford",
+      "summary": "St Helens built on a strong first half and relied on six different try-scorers to beat 10-man Castleford 36-12 at the Brewdog Stadium to keep their play-off hopes alive.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/darts/news/12040/13576068/fallon-sherrock-sweeps-aside-lisa-ashton-5-0-to-claim-her-first-womens-series-title-of-2026",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13575914/super-league-st-helens-keep-play-off-hopes-alive-with-victory-against-castleford-as-toulouse-and-hull-both-win",
       "source": "Sky Sports",
       "publisher": "Sky Sports",
-      "published": "2026-08-22T19:45:00Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 3,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 37,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://e0.365dm.com/25/07/1920x1080/skysports-fallon-sherrock-darts_6965888.jpg?20250716090159"
-    },
-    {
-      "id": "068f086042e21195",
-      "title": "Stokes stars as Durham thump Derbyshire to lift Championship promotion hopes",
-      "summary": "Ben Stokes starred again with bat and ball as Durham boosted their Rothesay County Championship promotion hopes with a crushing 338-run win at Derbyshire with a day to spare.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/cricket/news/12040/13576108/former-england-captain-ben-stokes-stars-as-durham-thump-derbyshire-to-lift-rothesay-county-championship-promotion-hopes",
-      "source": "Sky Sports",
-      "publisher": "Sky Sports",
-      "published": "2026-08-22T20:57:00Z",
+      "published": "2026-08-22T23:14:00Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -694,17 +669,17 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://e0.365dm.com/26/06/1920x1080/skysports-ben-stokes-durham_7277877.jpg?20260619162126"
+      "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-st-helens-super-league_7328541.jpg?20260822182335"
     },
     {
-      "id": "1a30fa0d13e5fa7c",
-      "title": "Dundee claim derby bragging rights with victory over winless Dundee United",
-      "summary": "Dundee enjoyed another memorable trip across the road as they secured a deserved 2-0 derby victory away to Dundee United to move joint-top of the fledgling Scottish Premiership table.",
+      "id": "eadf3e2637417675",
+      "title": "De Zerbi admits 'we're not a team yet' as Redknapp labels Spurs 'strangers'",
+      "summary": "Tottenham boss Roberto De Zerbi believes their dismal 3-0 opening-season defeat at Brentford shows his new-look side are \"not a team yet\" after a big summer of spending.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/football/dundee-united-vs-dundee/report/558345",
+      "url": "https://www.skysports.com/football/news/12040/13575888/roberto-de-zerbi-tottenham-boss-admits-were-not-a-team-yet-after-new-look-side-suffer-dismal-brentford-loss",
       "source": "Sky Sports",
       "publisher": "Sky Sports",
-      "published": "2026-08-22T20:00:00Z",
+      "published": "2026-08-22T22:20:00Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -714,11 +689,35 @@
       "sourceWeight": 3,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 29,
+      "wordCount": 28,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-owen-bevan-dundee_7328614.jpg?20260822192706"
+      "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-tottenham-spurs-sandro-tonali_7328773.jpg?20260822221504"
+    },
+    {
+      "id": "12f8c08b3a6879da",
+      "title": "McIlroy pulls himself back into contention at BMW Championship",
+      "summary": "Rory McIlroy pulled himself back into contention at the BMW Championship with a strong finish for a five-under par third round in St Louis.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.skysports.com/golf/news/12040/13576081/rory-mcilroy-world-no-2-pulls-himself-back-into-contention-at-the-bmw-championship-after-five-under-par-third-round",
+      "source": "Sky Sports",
+      "publisher": "Sky Sports",
+      "published": "2026-08-22T23:03:00Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-rory-mcilroy-golf_7328626.jpg?20260822193907"
     },
     {
       "id": "936a7aa205606d39",
@@ -972,14 +971,14 @@
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5937895"
     },
     {
-      "id": "470ba1abc3cb4e7d",
-      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
-      "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-08-22T02:39:10Z",
+      "id": "5d6b002c66efb770",
+      "title": "The complexities of covering swing voters and what they teach us about politics",
+      "summary": "For Reporter's Notebook, an NPR political correspondent shares the lessons she has learned listening in on groups of swing voters in swing states.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5938772/the-complexities-of-covering-swing-voters-and-what-they-teach-us-about-politics",
+      "source": "NPR Politics",
+      "publisher": "NPR",
+      "published": "2026-08-22T21:30:46Z",
       "category": "Politics",
       "region": "US",
       "labels": [
@@ -989,14 +988,11 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 136,
+      "wordCount": 23,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f723/live/49cf9570-9dd2-11f1-b2b6-cb5bce61ac4a.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nPresident Donald Trump has been lashing out at reporters, often female journalists, when confronted with questions he does not like to answer.\n\nThe BBC's Tom Bateman takes a look at what triggers these public insults, and what are the questions the president doesn’t want to be asked.\n\nSubsection US & Canada\n\nPublished 17 hours ago\n\nRelated topics\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUnited States Follow United States close panel You are now following United States Updates from your News topics will appear in My News and in a collection on the News homepage .",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5938772"
     },
     {
       "id": "be4a801a976efc6d",
@@ -1022,6 +1018,56 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa5/live/d2c02e40-9656-11f1-9743-c91876572530.jpg"
+    },
+    {
+      "id": "2431af0d98f1c620",
+      "title": "Latest Blue Jays injuries & transactions",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-22T16:50:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "0028d65d89400e85",
+      "title": "Blue Jays' margin for error shrinks in Wild Card chase",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-al-wild-card-race-postseason-push",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-22T04:03:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "f42c96abe3c2b021",
@@ -1254,6 +1300,33 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
+    },
+    {
+      "id": "470ba1abc3cb4e7d",
+      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+      "summary": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/videos/c235j22d85ro",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-08-22T02:39:10Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 136,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f723/live/49cf9570-9dd2-11f1-b2b6-cb5bce61ac4a.jpg",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nPresident Donald Trump has been lashing out at reporters, often female journalists, when confronted with questions he does not like to answer.\n\nThe BBC's Tom Bateman takes a look at what triggers these public insults, and what are the questions the president doesn’t want to be asked.\n\nSubsection US & Canada\n\nPublished 23 hours ago\n\nRelated topics\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUnited States Follow United States close panel You are now following United States Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "imageWidth": 1200,
+      "imageHeight": 675
     },
     {
       "id": "5b34e8b3bd0a2ce0",
@@ -1562,6 +1635,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae0/live/d1542850-9d3f-11f1-bc05-aff3aa1f91c7.jpg"
+    },
+    {
+      "id": "2ffc1af7e0e046a3",
+      "title": "Struggling households need more help with bills, energy industry says",
+      "summary": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-08-22T23:00:03Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ea9/live/7085b770-9d97-11f1-9233-8716b68cda7b.jpg"
     },
     {
       "id": "1fcb4dae4178bc72",
@@ -1878,6 +1975,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/305b/live/510d0290-9cca-11f1-b109-879e35c24276.jpg"
     },
     {
+      "id": "901c0abe63194a70",
+      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them “dollar for dollar” after the collapse of trade talks. The tariffs came into force on roughly $20bn (£14.6bn) of goods – ranging from hockey sticks to tongue depressors – at 04.00GMT. Trade experts said the tariffs could result in some job losses, but the largest impact is expected to be political, driving a further wedge between the traditional allies. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "source": "The Guardian Business",
+      "publisher": "The Guardian",
+      "published": "2026-08-22T14:04:57Z",
+      "category": "Economics",
+      "region": "Canada",
+      "labels": [
+        "Economics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 104,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=700&quality=85&auto=format&fit=max&s=03920ff6d052f3f77d474d9591414f45"
+    },
+    {
       "id": "ae43d603652c8f06",
       "title": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
       "summary": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty fines Business live – latest updates The founder of Evergrande, one of China’s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated. Hui Ka Yan, 67 and once named by Forbes as China’s richest man, with a net worth of $42.5bn (£31.2bn) in 2017, pleaded guilty in April to eight charges. Continue reading...",
@@ -1900,30 +2021,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/709754c9a4198b956f1c2acc98bb9478b6dedbde/542_0_5415_4332/master/5415.jpg?width=700&quality=85&auto=format&fit=max&s=ae56f61bf208c520378e45cb446d328c"
-    },
-    {
-      "id": "901c0abe63194a70",
-      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
-      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The trade row is the biggest rupture in recent relations between Washington and one of its closest allies and trading partners as Donald Trump’s bellicose foreign policy angered officials in Ottawa. The two sides appeared close to a deal on Friday to lower tariffs on steel, aluminium and cars, but the deal was scuttled at the last minute. The two sides blamed each other for the collapse. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "source": "The Guardian Business",
-      "publisher": "The Guardian",
-      "published": "2026-08-22T14:04:57Z",
-      "category": "Economics",
-      "region": "Canada",
-      "labels": [
-        "Economics",
-        "Canada"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 89,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/6fca08f3a759225a7da5912b393aadcad7c6b4e7/0_0_4724_3780/master/4724.jpg?width=700&quality=85&auto=format&fit=max&s=03920ff6d052f3f77d474d9591414f45"
     },
     {
       "id": "3c006dfd65b6c061",
@@ -1996,6 +2093,29 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5930693"
+    },
+    {
+      "id": "cfd6c498bf4f9596",
+      "title": "Iran warns countries against joining US 'economic war'",
+      "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he called the \"most crushing economic operation\" against Tehran.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-23T00:50:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 31,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "497ceb3eddbff29b",
@@ -2118,6 +2238,101 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg"
     },
     {
+      "id": "818a07b447a4521f",
+      "title": "How Arsenal 'punished' newly promoted Coventry",
+      "summary": "Match of the Day's Mark Chapman, Alan Shearer and Wayne Rooney discuss Arsenal's quality against Coventry City, praising the hosts but stressing that Frank Lampard's side shouldn't be judged.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c70g0xnewwzo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T23:13:35Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 29,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dade/live/976ffc90-9e7f-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "id": "0eebcbb56b938f33",
+      "title": "Why Spurs' defeat to Brentford is 'worrying' after summer signings",
+      "summary": "Match of the Day's Mark Chapman, Alan Shearer and Wayne Rooney discuss how Tottenham Hotspur's heavy loss to Brentford is cause for concern considering how much money they have spent.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr494we52ddo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T23:10:45Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 30,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/264a/live/5341d540-9e7d-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "id": "520316448b27b0f5",
+      "title": "'They just didn't look fit at all' - Shearer on Man Utd",
+      "summary": "Match of the Day pundits Alan Shearer and Wayne Rooney analyse Manchester United's performance in their 2-0 loss on the opening day of the Premier League to newly promoted Hull City.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/clyqylwkl2no",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T23:01:53Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 31,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/388d/live/bcd018c0-9e76-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "id": "0268577adce04598",
+      "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
+      "summary": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying that tariffs would follow the collapse of talks.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-22T22:12:00Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 33,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "938eeb3a456cc56e",
       "title": "Harry and Meghan's return to UK reignites questions over security",
       "summary": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to.",
@@ -2140,6 +2355,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/534c/live/9495e5d0-9ca3-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "id": "31abc4eb6bf84397",
+      "title": "How the 'new boys' of Ipswich got their season off to a dream start",
+      "summary": "Match of the Day's Wayne Rooney is full of praise for Ipswich Town on their return to the Premier League as they earn a late victory over Sunderland.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cz7d7le4vrgo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T23:06:30Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 28,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c791/live/156654f0-9e7b-11f1-b109-879e35c24276.jpg"
     },
     {
       "id": "24787e9b7398f0d9",
@@ -2213,6 +2452,102 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d520/live/0a33aea0-9d5b-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "id": "278c1ce25fd01c7a",
+      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+      "summary": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-08-22T23:45:01Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/289b/live/3ae595f0-9d82-11f1-b109-879e35c24276.png"
+    },
+    {
+      "id": "02c3f3348dc093c2",
+      "title": "Man City will 'try to find the new Rodri' - Maresca",
+      "summary": "Manchester City will \"try to find the new Rodri\" after the Spain captain left the club earlier this week to join La Liga champions Barcelona, says manager Enzo Maresca.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T21:30:32Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 29,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2c/live/9d6c1dd0-9d7c-11f1-8bc3-150f4c5f088b.jpg"
+    },
+    {
+      "id": "77d88b3b3934d8a4",
+      "title": "Arthur drop goal gives Hull FC win over Catalans",
+      "summary": "Jake Arthur scores a drop goal in the final five minutes to give Hull FC a dramatic comeback win over former coach John Cartwright and Catalans Dragons.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c1w1v3e9g4go",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T21:17:23Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 27,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73b1/live/780df300-9e6d-11f1-bd18-3f8c7915b51c.jpg"
+    },
+    {
+      "id": "d6d52da2e5722ab9",
+      "title": "Alvarez open to Arsenal transfer - Sunday's gossip",
+      "summary": "Atletico Madrid forward Julian Alvarez open to Arsenal transfer, Spurs confident on completing Omar Marmoush deal, Ollie Watkins wants Al-Hilal move, plus more.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvg0gxxkp1vo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T20:39:00Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 23,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fd/live/41595670-9e67-11f1-b109-879e35c24276.png"
     },
     {
       "id": "6b36592f061f1cfb",
@@ -2311,6 +2646,54 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b45/live/3ff3d920-9c9d-11f1-aed2-8d6da8d75094.jpg"
     },
     {
+      "id": "267d575749e88da1",
+      "title": "We let fans down, says Nuno after West Ham defeat",
+      "summary": "Nuno Espirito Santo says West Ham \"let down\" their fans as they lost 2-1 to Charlton in their first Championship home match this season.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj363xln6e6o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T20:54:01Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c1cbbd40-9e60-11f1-b846-61461b4a3b69.jpg"
+    },
+    {
+      "id": "6c1d2eb302000ddd",
+      "title": "McIlroy improves to go joint-second as Clark retains lead",
+      "summary": "Rory McIlroy strikes a five-under 65 to move joint-second on day three at the BMW Championship.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/c0m7mrp9pd7o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T22:19:28Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c4e/live/7cb23bd0-9e6f-11f1-bd4f-49a9cd2272da.jpg"
+    },
+    {
       "id": "e2d9e6b33ab52ae8",
       "title": "Trial of facts over ex-mayor's 'bigoted' tweets",
       "summary": "Pat Marsh, a long-serving councillor in Harrogate, has been deemed unfit to stand trial.",
@@ -2333,6 +2716,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a9b/live/84da9fd0-a44e-11f0-8a21-ff96e44d1cc2.jpg"
+    },
+    {
+      "id": "a3837297561cd889",
+      "title": "Tote bags & derby wins - how Pressley has defied Dundee expectations",
+      "summary": "Steven Pressley says he is \"immensely proud\" of his Dundee players as the head coach's redemption arc continues with another derby victory.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c86n6j1x36zo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T20:20:34Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0322/live/2dcdf080-9e66-11f1-9bd3-c34451aabc05.jpg"
     },
     {
       "id": "fb40bfa984d3c989",
@@ -2431,6 +2838,29 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9aa/live/4fc6ca00-9e56-11f1-a291-b542ee92de7c.jpg"
     },
     {
+      "id": "efa19628ae4f227c",
+      "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
+      "summary": "US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-22T20:49:17Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "7a609ca4f3fa5100",
       "title": "Meet the men applying for the 'hardest job in British politics'",
       "summary": "Labour MSPs Michael Marra and Joe Fagan are making their pitches as they aim to succeed Anas Sarwar.",
@@ -2453,30 +2883,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e47/live/f9487be0-9be1-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "id": "20342522e631d7ea",
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-08-22T20:02:46Z",
-      "category": "Politics",
-      "region": "Canada",
-      "labels": [
-        "Politics",
-        "Canada"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa28/live/becb6d00-9e49-11f1-8871-ff7211da55c9.jpg"
     },
     {
       "id": "4bfae00d405ad894",
@@ -2596,29 +3002,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4a0/live/b9488090-9c71-11f1-a291-b542ee92de7c.png"
-    },
-    {
-      "id": "0268577adce04598",
-      "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
-      "summary": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying that tariffs would follow the collapse of talks.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-08-22T17:28:00Z",
-      "category": "Politics",
-      "region": "Canada",
-      "labels": [
-        "Politics",
-        "Canada"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 33,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "130d9ea0fe6e1eed",
@@ -2821,13 +3204,13 @@
       "summary": "Britain's Josh Tarling finishes third in the opening stage of the Vuelta a Espana just eight days after his brother Fin lost his life in a crash.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/sport/cycling/articles/cq6d6y0e500o",
-      "source": "BBC News",
+      "source": "BBC Sport",
       "publisher": "BBC",
       "published": "2026-08-22T18:03:45Z",
-      "category": "Politics",
+      "category": "Sports",
       "region": "UK",
       "labels": [
-        "Politics",
+        "Sports",
         "UK"
       ],
       "sourceWeight": 4,
@@ -3052,55 +3435,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8479/live/19fea790-9e14-11f1-95e0-53a570c83624.jpg"
     },
     {
-      "id": "bc0f84ee01034bf3",
-      "title": "The system meant to protect ICE detainees has collapsed",
-      "summary": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
-      "source": "NPR Politics",
-      "publisher": "NPR",
-      "published": "2026-08-20T09:00:00Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 28,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff2%2Ff6%2F7b3317d7468bb9a75d13c36730f2%2F20260603-icegreivance839.jpg",
-      "imageAlt": "Delaney Hall detention center in Newark, N.J., on June 3. An NPR review has found that the grievance system in immigration detention, originally designed as a way to report violations of detention standards, is now barely operational."
-    },
-    {
-      "id": "4138a75c6580e18c",
-      "title": "St Helens beat Castleford despite Hastings dismissal",
-      "summary": "St Helens beat Castleford Tigers to boost their faint Super League play-off hopes - despite Jackson Hastings' needless red card.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c0m7erz71nyo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T16:22:06Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d075/live/4934eb60-9e3b-11f1-bb45-576721ee33bb.jpg"
-    },
-    {
       "id": "d49d6ea407b9976b",
       "title": "Norris beats Russell to pole position at Zandvoort",
       "summary": "Lando Norris beats George Russell to pole position at the Dutch Grand Prix in a frantic scramble to complete laps before a late shower of rain.",
@@ -3147,6 +3481,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dee7/live/c783fb00-9e4a-11f1-8871-ff7211da55c9.jpg"
+    },
+    {
+      "id": "a37510a4cd3ace45",
+      "title": "Infantino asked to stay away from youth tournament",
+      "summary": "Gianni Infantino has been asked to stay away from a youth football tournament in the Dominican Republic this weekend by Concacaf president Victor Montagliani.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq6d627y8g7o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-22T14:29:55Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d33/live/a7abc620-9e2f-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "id": "5cf384293ff420f5",
@@ -3725,30 +4083,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mx-master-4-graphite-lifestyle-gallery-4-new-1088x648.jpg"
     },
     {
-      "id": "2cd7352d15256c6e",
-      "title": "The ex-Blackburn winger facing Mourinho and Real Madrid",
-      "summary": "Tyrhys Dolan, who played for Blackburn Rovers for five years before joining Espanyol last summer, says he is ready to take on one of the biggest tests of his career against Real Madrid on Saturday.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g3nr57kdlo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T07:44:05Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 35,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eaf/live/b9df9c50-9d75-11f1-8aa1-c3c0b3f36f05.jpg"
-    },
-    {
       "id": "06049765c8969d4a",
       "title": "'Shambolic' - Stokes and Root question Ashes venues",
       "summary": "Captain Joe Root said it is \"a shame\" his England team will not play at Headingley again until 2029, with predecessor Ben Stokes calling it \"shambolic\".",
@@ -3893,30 +4227,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Russian-drone-boat-1152x648.jpeg"
     },
     {
-      "id": "1dabd5c63a5c13f2",
-      "title": "Australia skittle Bangladesh for 64 but batters fail again",
-      "summary": "Australia respond to last week's shock defeat by bowling Bangladesh out for 64 on a remarkable first day of the second Test in Mackay.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/ckgdg2995g7o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T08:33:05Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac48/live/88765b90-9e01-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
       "id": "4dfad040ff2bfc96",
       "title": "'If I can make it out, you can too,' says Dyer before UFC fight",
       "summary": "Shanelle Dyer is using her UFC platform to show young people they can \"make it out too\" after growing up in a neighbourhood affected by knife crime in west London.",
@@ -3987,30 +4297,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6172/live/46491350-966a-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "id": "8478d3441a48a000",
-      "title": "'I'm not ashamed' - Ellison on mental health and playing at 47",
-      "summary": "Striker Kevin Ellison, who once signed for Premier League Leicester City, opens up about playing at 47 - and why it's important to talk about mental health.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k78nk1n34o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-22T06:19:35Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 26,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e92f/live/da127440-9be3-11f1-ba30-ddd78081057f.jpg"
     },
     {
       "id": "02557f535a9c0f5f",
@@ -4492,30 +4778,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2499/live/1c353190-9a2d-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "da9ead6dfa22bc78",
-      "title": "McIlroy falls off pace after tough second round",
-      "summary": "Overnight joint leader Rory McIlroy falls five behind Wyndham Clark following a testing second round at the BMW Championship in St Louis.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cp8x6p4x60lo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T23:01:55Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 22,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a1f/live/c1e3e920-9db0-11f1-8192-1d168b427d24.jpg"
-    },
-    {
       "id": "915136b43ece23e0",
       "title": "Lampard praises Coventry's courage in 3-0 defeat by Arsenal",
       "summary": "Coventry City manager Frank Lampard shares his thoughts on his side's 3-0 defeat by Arsenal in their first game back in the Premier League since 2001.",
@@ -4611,30 +4873,6 @@
       "isBreaking": false
     },
     {
-      "id": "90d6e895da5e5d24",
-      "title": "Bavidge earns Inverness CT a point against Partick Thistle",
-      "summary": "Watch the goals as Alfie Bavidge's late goal earns Inverness Caledonian Thistle a draw against Partick Thistle in the Scottish Championship.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/videos/cvgl2zz12xeo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T20:42:09Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11f8/live/a36290b0-9da0-11f1-b109-879e35c24276.jpg"
-    },
-    {
       "id": "8b5c8a9525d7a3a9",
       "title": "Root enjoys winning return as captain as England humble poor Pakistan",
       "summary": "In his first match since returning as England captain, Joe Root guides his England side to a huge win as they bowl Pakistan out for 135 on day three of the opening Test, securing victory by an innings and 103 runs at Headingley to take 1-0 lead in the three-match series.",
@@ -4705,252 +4943,13 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8763/live/725b1f30-9be0-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "id": "4b4f755e58482974",
-      "title": "Cease garners first-place votes in latest Cy Young poll",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/cam-schlittler-jacob-misiorowski-lead-fifth-2026-cy-young-poll",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-18T04:00:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "8ca64af170838fb1",
-      "title": "Archer takes final wicket as England secure huge win at Headingley",
-      "summary": "Jofra Archer takes the final wicket as England bowl Pakistan out for 135 to secure a huge win in the first Test against Pakistan at Headingley, winning by an innings and 103 runs to take a 1-0 lead in the three-match series.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/c151e07eez7o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T15:12:20Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 42,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae4/live/3baa5540-9d71-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "id": "fef2b12000ed96a6",
-      "title": "US government lab is probing Chinese lidar for security vulnerabilities",
-      "summary": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and autonomous vehicle industries.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
-      "source": "TechCrunch",
-      "publisher": "TechCrunch",
-      "published": "2026-08-21T16:01:54Z",
-      "category": "Tech",
-      "region": "China",
-      "labels": [
-        "Tech",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 32,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "387c1466ed4df40e",
-      "title": "Returning in style - Root excited by future after emphatic England win",
-      "summary": "Joe Root says his team were \"outstanding\" as he started his second spell as England captain with an emphatic innings victory against Pakistan in the opening Test at Headingley.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/c4g6nl13mxdo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T15:44:12Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 29,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1536/live/024564c0-9d76-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "id": "318ad789048f2370",
-      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-      "summary": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-20T22:59:35Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48ad/live/65eaf140-9cac-11f1-b366-155f83b9d1f8.jpg"
-    },
-    {
-      "id": "be476dfa2adb8a0e",
-      "title": "Cardiff sign Leicester lock Manz on loan",
-      "summary": "Cardiff strengthen pack ahead of 2026-27 season by signing Leicester lock Tom Manz on loan.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3ekl5w5z9wo",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-08-19T11:36:38Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d0/live/d2a45580-9bbf-11f1-ae8a-8d57110c5ba6.jpg"
-    },
-    {
-      "id": "8419bec8ba644e49",
-      "title": "The teen entrepreneur transforming farm management",
-      "summary": "The app was designed to give farmers more time with their families by making the business more manageable.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cx2r9gxp3xgo",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-20T23:01:01Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2f6/live/d6ed93b0-9c8a-11f1-8d19-93d7082c5662.jpg"
-    },
-    {
-      "id": "ade84dfb1b642f6a",
-      "title": "Three wickets in six balls - Tricky Tongue troubles Pakistan",
-      "summary": "Josh Tongue takes three wickets in six balls as Pakistan fall from 68-3 to 76-6 in their second innings of the first Test, as England close in on an innings victory at Headingley.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/c24me6j1nr4o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-21T13:54:24Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 33,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f974/live/525c4600-9d66-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "2574d54a9ea1b047",
-      "title": "How landscape gardening is being electrified",
-      "summary": "The switch to quieter electric equipment is not going as fast as some would like.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-20T23:12:38Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a26/live/a80a27a0-754f-11f1-a627-714adb4eed6e.jpg"
-    },
-    {
-      "id": "9b64b3d195c6dabf",
-      "title": "New Zealand great Tui joins Trailfinders",
-      "summary": "World Cup-winning New Zealand international Ruby Tui, 34, signs a one-year deal with Trailfinders Women.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cd69dj304wxo",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-08-19T09:36:15Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e139/live/14c55ed0-9bae-11f1-92e6-b1dfcecd4308.jpg"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 32
+      "items": 33
     },
     {
       "source": "BBC Politics",
@@ -4980,12 +4979,12 @@
     {
       "source": "DW",
       "ok": true,
-      "items": 137
+      "items": 132
     },
     {
       "source": "UN News",
-      "ok": false,
-      "error": "not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 30
     },
     {
       "source": "The Guardian China",
@@ -5055,7 +5054,7 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 72
+      "items": 75
     },
     {
       "source": "BBC Rugby Union",
