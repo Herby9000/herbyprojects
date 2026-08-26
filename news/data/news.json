@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-26T01:57:36.251295Z",
+  "generatedAt": "2026-08-26T04:54:26.819405Z",
   "topStoryIds": [
     "b61e295dd579e88c",
     "bbb189d3eaf6d46f",
-    "dbac3da68f87a970",
+    "e0d86b7f38962044",
     "6cff152f2806c995",
     "797eeae457cdfe08",
     "eb41454034c3e458",
@@ -16,7 +16,9 @@
       "6cff152f2806c995",
       "797eeae457cdfe08",
       "8730e7d3e78f2f9c",
-      "e4e79c876ee57a29"
+      "e4e79c876ee57a29",
+      "6cb8d5badf07acb4",
+      "d37195751c8586f4"
     ],
     "Tech": [
       "bbb189d3eaf6d46f",
@@ -28,15 +30,15 @@
     ],
     "Economics": [
       "51ceeb3b814717fc",
+      "e0d86b7f38962044",
       "c6ab8323c2aab797",
-      "dbac3da68f87a970",
-      "2c97ed74088a0e7e"
+      "dbac3da68f87a970"
     ],
     "Sports": [
+      "3977fa1b49af6978",
       "ff1686c34d0217e8",
       "642814ada0dcc91a",
       "a3c2322d8ab718d7",
-      "2431af0d98f1c620",
       "22b8ac0ccad9e0b9",
       "7b5f69fc652f41f2",
       "3c041906ae215bd8",
@@ -104,39 +106,39 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1115,
+      "wordCount": 1110,
       "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/illo_immigration_final-1600x900.jpg",
-      "body": "Ideas\n\nVisa restrictions are deterring international AI talent from building companies in the U.S., giving other nations including China an opportunity to catch up.\n\nBy Lex Zhao\n\nLex Zhao is a managing partner at venture firm One Way Ventures.\n\nArguments, opinions and essays from a global perspective.\n\nThe Trump administration has proposed a new fee for H-1B visas, while weighing a $100,000 fee on Optional Practical Training, the program that allows international graduates to work in the U.S. for one to three years after finishing their degrees. Roughly 419,000 people were working on OPT in 2024. For many of them, it was likely a major factor in choosing an American university over a school in Canada, the U.K., or Australia.\n\nIt is ironic that just weeks ago, headlines lamented the fact that one of the most talented international students we’ve seen in recent years chose to return to China , the U.S.’ biggest competitor. Yang Zhilin then went on to set up Moonshot AI, whose Kimi K3 open model has drawn comparisons to models from OpenAI and Anthropic. Why didn’t he build his company in the U.S.? After all, Yang got his Ph.D. at Carnegie Mellon University. He interned at Google and Meta, and received a job offer from Apple. But Yang wanted to build his own company, and our visa system didn’t have a way to keep him here in the way that he wanted.\n\nSome experts have proposed stapling a green card to every AI Ph.D. diploma — and they’re not wrong, but this idea and the OPT assume that the brightest minds want to work for our big tech companies first, then build after learning from the giants for several years. That’s not the case anymore.\n\nWork experience isn’t as relevant when AI has flattened and accelerated everything. Founders are starting companies in their mid-20s — straight out of or even before finishing their Ph.D. The population capable of starting a frontier AI company is small, and more than two-thirds of these individuals are foreign. That cohort isn’t likely to want to spend five years or more in someone else’s company waiting for a green card , watching their idea age out.\n\n40% The share of Nobel Prizes won by Americans in chemistry, medicine, and physics since 2000 that have gone to immigrants in the country.\n\nAnd what does the U.S. do? It tightens and slows down its immigration system. In addition to the $100,000 for OPTs, the window for students to remain in the country after finishing a degree has been cut from 60 days to 30 to combat “rampant visa abuse.” Which means students will spend the last year of their Ph.D. stressing about finding a job quickly, instead of thinking about how to commercialize their ideas.\n\nThe Trump administration is also trying to end birthright citizenship, which is another draw for immigrants. Officials even floated the idea of barring foreign employees at U.S. labs from frontier-model access before the industry pushed back.\n\nOther nations have taken notice of these actions, and are using them to their own advantage. Canada opened a program for U.S. H-1B holders and had to close it within a day since it was oversubscribed. Australia , France , and others are openly running recruitment campaigns aimed at researchers based in the U.S.\n\nChina spotted an opportunity even earlier: It launched the Thousand Talents Plan in 2008 and pulled back more than 7,000 people within a decade. China has recently increased funding for research while the U.S. has cut science funding, and that is proving to be a big incentive for some. Omar Yaghi, who was born into a refugee family in Jordan and came to the U.S. as a teenager to study, shared the Nobel Prize in chemistry last year. He recently left his faculty post at the University of California, Berkeley, for a position at Tsinghua University in Beijing, where he will lead an institute using AI to accelerate the discovery of new materials.\n\nYang Zhilin chose to return to China to set up Moonshot AI. He won’t be the last one to do so.\n\nYaghi was just one of many immigrant Nobel laureates in the U.S. Immigrants have been awarded 40% of the Nobel Prizes won by Americans in chemistry, medicine, and physics since 2000, according to a recent report by the National Foundation for American Policy, a research organization.\n\nThe high number of immigrant Nobel Prize winners reflects “a greater openness to immigration that has helped make the U.S. the leading global destination for research in many different science and technology fields, including computer and information sciences, cancer research and others,” the NFAP said.\n\nIf we persist in making it harder for international students to come to and stay in the U.S., this may no longer be true. Today, the Pentagon’s Office of Strategic Capital, set up in 2022, will lend a company between $10 million and $150 million to build technologies deemed to be critical to national security. What we also need is an Office of Strategic Human Capital that can identify brilliant international AI students in critical fields and say, here is your long-term American visa, here is $10 million, go build.\n\nIn September, the U.S. and China are scheduled to hold talks on AI. Chip export control is sure to be a hot topic of discussion. What they will not admit is that you can’t export-control where a person decides to build a company. For decades, the U.S. was the first choice, but this is not the case anymore.\n\nImmigration reform will take years, and the damage that is being done now will be hard to undo. For decades, for people like me and my family, immigration to the U.S. was a one-way door: You came, you stayed, you built here. The door swings both ways now. Yang Zhilin and Omar Yaghi are just the most visible examples of this. They will not be the last, and if the U.S. does not act, China will pull ahead in the race for AI talent.\n\nThe UAE is fighting AI hackers with AI of its own\n\nAttacks on the country’s banks, aviation, and energy systems have climbed since the war with Iran began. Its answer is a homegrown AI security industry.\n\n“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”\n\nObservers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.\n\nA dumpling shop becomes a poster child of AI adoption in China\n\nBusiness owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”",
+      "body": "Ideas\n\nVisa restrictions are deterring international AI talent from building companies in the U.S., giving other nations including China an opportunity to catch up.\n\nBy Lex Zhao\n\nLex Zhao is a managing partner at venture firm One Way Ventures.\n\nArguments, opinions and essays from a global perspective.\n\nThe Trump administration has proposed a new fee for H-1B visas, while weighing a $100,000 fee on Optional Practical Training, the program that allows international graduates to work in the U.S. for one to three years after finishing their degrees. Roughly 419,000 people were working on OPT in 2024. For many of them, it was likely a major factor in choosing an American university over a school in Canada, the U.K., or Australia.\n\nIt is ironic that just weeks ago, headlines lamented the fact that one of the most talented international students we’ve seen in recent years chose to return to China , the U.S.’ biggest competitor. Yang Zhilin then went on to set up Moonshot AI, whose Kimi K3 open model has drawn comparisons to models from OpenAI and Anthropic. Why didn’t he build his company in the U.S.? After all, Yang got his Ph.D. at Carnegie Mellon University. He interned at Google and Meta, and received a job offer from Apple. But Yang wanted to build his own company, and our visa system didn’t have a way to keep him here in the way that he wanted.\n\nSome experts have proposed stapling a green card to every AI Ph.D. diploma — and they’re not wrong, but this idea and the OPT assume that the brightest minds want to work for our big tech companies first, then build after learning from the giants for several years. That’s not the case anymore.\n\nWork experience isn’t as relevant when AI has flattened and accelerated everything. Founders are starting companies in their mid-20s — straight out of or even before finishing their Ph.D. The population capable of starting a frontier AI company is small, and more than two-thirds of these individuals are foreign. That cohort isn’t likely to want to spend five years or more in someone else’s company waiting for a green card , watching their idea age out.\n\n40% The share of Nobel Prizes won by Americans in chemistry, medicine, and physics since 2000 that have gone to immigrants in the country.\n\nAnd what does the U.S. do? It tightens and slows down its immigration system. In addition to the $100,000 for OPTs, the window for students to remain in the country after finishing a degree has been cut from 60 days to 30 to combat “rampant visa abuse.” Which means students will spend the last year of their Ph.D. stressing about finding a job quickly, instead of thinking about how to commercialize their ideas.\n\nThe Trump administration is also trying to end birthright citizenship, which is another draw for immigrants. Officials even floated the idea of barring foreign employees at U.S. labs from frontier-model access before the industry pushed back.\n\nOther nations have taken notice of these actions, and are using them to their own advantage. Canada opened a program for U.S. H-1B holders and had to close it within a day since it was oversubscribed. Australia , France , and others are openly running recruitment campaigns aimed at researchers based in the U.S.\n\nChina spotted an opportunity even earlier: It launched the Thousand Talents Plan in 2008 and pulled back more than 7,000 people within a decade. China has recently increased funding for research while the U.S. has cut science funding, and that is proving to be a big incentive for some. Omar Yaghi, who was born into a refugee family in Jordan and came to the U.S. as a teenager to study, shared the Nobel Prize in chemistry last year. He recently left his faculty post at the University of California, Berkeley, for a position at Tsinghua University in Beijing, where he will lead an institute using AI to accelerate the discovery of new materials.\n\nYang Zhilin chose to return to China to set up Moonshot AI. He won’t be the last one to do so.\n\nYaghi was just one of many immigrant Nobel laureates in the U.S. Immigrants have been awarded 40% of the Nobel Prizes won by Americans in chemistry, medicine, and physics since 2000, according to a recent report by the National Foundation for American Policy, a research organization.\n\nThe high number of immigrant Nobel Prize winners reflects “a greater openness to immigration that has helped make the U.S. the leading global destination for research in many different science and technology fields, including computer and information sciences, cancer research and others,” the NFAP said.\n\nIf we persist in making it harder for international students to come to and stay in the U.S., this may no longer be true. Today, the Pentagon’s Office of Strategic Capital, set up in 2022, will lend a company between $10 million and $150 million to build technologies deemed to be critical to national security. What we also need is an Office of Strategic Human Capital that can identify brilliant international AI students in critical fields and say, here is your long-term American visa, here is $10 million, go build.\n\nIn September, the U.S. and China are scheduled to hold talks on AI. Chip export control is sure to be a hot topic of discussion. What they will not admit is that you can’t export-control where a person decides to build a company. For decades, the U.S. was the first choice, but this is not the case anymore.\n\nImmigration reform will take years, and the damage that is being done now will be hard to undo. For decades, for people like me and my family, immigration to the U.S. was a one-way door: You came, you stayed, you built here. The door swings both ways now. Yang Zhilin and Omar Yaghi are just the most visible examples of this. They will not be the last, and if the U.S. does not act, China will pull ahead in the race for AI talent.\n\nBan on Chinese robots leaves U.S. startups stranded\n\nWashington’s limits on foreign parts promises a supply chain revolution — but Silicon Valley founders say domestic alternatives don’t exist yet.\n\n“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”\n\nObservers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.\n\nThe online shopping trend where you buy nothing\n\nOn South Korea’s “dopamine sites,” the pleasure comes from aspirational shopping rituals like browsing, curating, and tracking — not from a delivery.",
       "imageWidth": 1600,
       "imageHeight": 900
     },
     {
-      "id": "dbac3da68f87a970",
-      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-      "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
+      "id": "e0d86b7f38962044",
+      "title": "Why Tesla has been caught up in a massive car recall in China",
+      "summary": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo",
+      "url": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro",
       "source": "BBC Business",
       "publisher": "BBC",
-      "published": "2026-08-25T15:04:52Z",
+      "published": "2026-08-26T03:33:59Z",
       "category": "Economics",
-      "region": "US",
+      "region": "China",
       "labels": [
         "Economics",
-        "US"
+        "China"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1028,
-      "readingMinutes": 5,
+      "wordCount": 1199,
+      "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6358/live/a03a3710-a09f-11f1-84a9-276d1a8e5a22.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: What are these sanctions and who will be affected?\n\nPublished 25 August 2026\n\nThe US has said \"the single greatest financial offensive ever\" will help it and Israel end their ongoing war with Iran.\n\nHowever, Iran is no stranger to these tactics.\n\nThe regime has faced near continuous US sanctions since the Islamic Revolution of 1979. In that time, it has developed deep trade ties with several countries which either have a history of ignoring US economic pressure themselves or cannot afford to stop trading with Iran.\n\nAs a result, Iran says it is \"fully prepared\" for the new US sanctions and many economists argue the impact of Washington's latest move will be limited.\n\nSo, who does Iran trade with? And could what the US has called an \"economic D-Day\" have any real impact on Iran?\n\nChina\n\nChina is the biggest buyer of Iranian goods, making up 26.9% of its exports in 2025, according data from the International Trade Centre (ITC), a subsidiary of the United Nations and the World Trade Organisation.\n\nThere a few caveats to ITC's data, which covers a period before the US-Israel war with Iran began.\n\nFirst, several economists believe that even before the conflict started, a lot of Iranian oil sales, particularly to China, were underreported for political reasons.\n\nSecond, the ITC tallies Iran's exports using mostly the import numbers reported by its trading partners - owing to the difficulty in getting up to date export data from Iran.\n\nThird, import data for some of Iran's trading partners, such as Iraq, is incomplete.\n\nDespite this, Iranian trade's importance to China is clear from its response to the US announcement of \"economic D-Day\".\n\nIt said that it was firmly opposed to what it called \"illegal unilateral sanctions\", that economic pressure tactics would not help resolve problems and that Beijing would safeguard its own interests.\n\nTurkey\n\nTurkey is another large trading partner of Iran, according to ITC data, but it has a much friendlier relationship with the US than China.\n\nThis puts it in a challenging position. The US has threatened to punish those who continue to trade with Iran as part of its economic pressure tactics.\n\nHowever, economists point out that Turkey cannot stop trading with it without significant damage to its economy, which is already struggling with inflation running at 31.8%, according to official data , external .\n\nIn short, as the only Nato member to share a border with Iran, Turkey has to balance its relationship with military allies and maintaining a relationship with its close economic neighbour.\n\nPakistan\n\nLike Turkey, Pakistan borders Iran and is one of its biggest export partners, according to ITC data, while also being keen to maintain a good relationship with the US.\n\nBut unlike Turkey, Pakistan's top export partner is instead the US, meaning it has more to lose from any economic punishment imposed by Washington.\n\nIt is also a key mediator in peace talks between the US and Iran, meaning a breakdown in its relationship with either country could make finding a solution to the conflict even more challenging.\n\nThe other complicating factor is that not all of Pakistan's trade with Iran is within the Pakistan government's control.\n\nThe BBC has seen evidence that oil is being smuggled across the border from Iran to Pakistan en masse by bikers , some as young as 15.\n\nThis was the case before the Iran war began, but data suggests the practice has picked up since.\n\nAnd though the US and Pakistan's oil firms have pressured Pakistan's government to clamp down on the practice, it has struggled to police remote parts of the 900km border.\n\nThe BBC has previously asked the Iranian government to comment on the allegation that it is involved in the fuel smuggling. It did not respond.\n\nArmenia\n\nArmenia is another major trading partner of Iran, according to the ITC data.\n\nWhere it differs the most from others is that its top export partner is Russia, which accounts for 34.9% of all goods sold by Armenia in 2025.\n\nThis is despite the fact that Russia has faced sanctions from the US and its allies since its full-scale invasion of Ukraine in 2022.\n\nThis suggests Armenia may be willing to continue trading with Iran despite mounting US pressure.\n\nThe end result\n\nUS Treasury Secretary Scott Bessent said the sanctions against Iran will \"tighten the noose and block every potential source of revenue\".\n\nYet, many experts disagree. Advisory firm Oxford Economics said the direct impact on Iran's revenues would be \"somewhat of a damp squib\".\n\nAli Vaez, deputy director at the International Crisis Group, said: \"Anything that moves in Iran has already been sanctioned by multiple layers of sanctions, in fact.\n\n\"So the question now is one of enforcement. Does the United States have what it takes to impose fines and levies on countries that continue to trade with Iran?\"\n\nHe noted how the US started an economic war with China, Iran's biggest trading partner, last year but \"backed out of it\".\n\nFormer senior advisor at the state department Aya Ibrahim said the US's overreliance on them \"incentivises countries to find ways around that system\".\n\nShe also raised concerns that the sanctions may have the biggest affect on people, rather than economies, as they \"deny people necessities to stay alive\".\n\nMeanwhile, global markets have had a muted response to the announcement.\n\nGlobal oil prices fell following the announcement, but are still far higher than pre-war levels.\n\nStock traders were even less moved by the news, with the major indexes of the biggest companies listed in the US, Europe, and Asia barely shifting.\n\nThe US will has a way to go before it convinces economists, investors, and the nations trading with Iran that its sanctions threat is to be taken seriously.\n\nAdditional reporting by Miguel Roca-Terry\n\nRelated topics\n\nCompanies\n\nOil\n\nIran war\n\nIran\n\nMore on this story\n\nIran says it is 'fully prepared' to counter widened US economic sanctions Published 17 hours ago\n\nThe bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan Published 17 June",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/454c/live/fff5c310-a020-11f1-9a9c-a9fc171e125c.jpg",
+      "body": "Hidden door handles were popularised by Tesla\n\nPublished 1 hour ago\n\nHidden car door handles - the sleek designs often found on electric vehicles (EVs) - have come under the spotlight over the past week.\n\nThat's after China announced its biggest ever recall of cars, with more than four million vehicles - mostly Teslas - affected .\n\nThe recall comes ahead of new regulations in China , requiring cars to have a mechanical release both on the inside and outside of their doors.\n\nPopularised by Elon Musk's electric vehicle giant, this type of handle has become commonplace around the world.\n\nBut several incidents have raised concerns that this design may make doors difficult to open in an emergency.\n\n'A real safety concern'\n\nHidden door handles are widely used in modern cars in China, with around 60% of the top 100 best-selling new energy vehicles, including EVs and hybrids, having them.\n\nThe minimalist design gives vehicles a \"sleek look and reduces wind drag\" but can be confusing to use, car industry analyst Stephen Dyer from consultancy AlixPartners told the BBC.\n\n\"Even I often find it difficult to locate the switch to open the door from the inside of an unfamiliar vehicle,\" said Dyer, who is based in Shanghai.\n\nBut beyond their usability, the handles have been blamed for endangering the lives of drivers and passengers.\n\nElectronically powered door handles became an industry trend, but raised \"real safety concerns\" when doors failed to open promptly, delaying rescue efforts after accidents, said Nanyang Technological University associate professor Lyu Chen.\n\n\"A door handle may seem simple, but it becomes safety-critical in the seconds after a crash,\" Chen said.\n\nChinese carmaker Xiaomi faced intense scrutiny following two fatal crashes in 2025 involving its SU7 model, when suspected electrical failures allegedly trapped occupants.\n\nOne of the incidents took place on a highway in Tongling city, eastern China, killing three people, according to regional news coverage cited by state-controlled media Global Times.\n\nRelatives of the victims said the passengers were stuck in the car as the vehicle's doors could not be unlocked after the collision, the outlet said.\n\nThe SU7 was Xiaomi's first electric vehicle\n\nAt the time, Xiaomi's representatives said the SU7 had mechanical emergency release handles that function even without power, which are located at the bottom of each door.\n\nThe company added at the time that it was investigating the matter and cooperating with the police.\n\nThe latest models of the SU7 come with new door handles that can be opened without power.\n\nXiaomi has not responded to BBC requests for comment.\n\nTesla has also faced lawsuits in the US over its door handle designs.\n\nThe company has been sued by the only survivor of a crash in 2024 involving a Cybertruck - Tesla's electric pickup - that killed three college students in California.\n\nSurvivor Jordan Miller alleged that the Cybertruck's design trapped passengers in the burning vehicle and blocked their rescue.\n\nThe car did not have door handles and the electronic buttons meant to open the doors failed to work, according to his lawyers from The Veen Firm.\n\n\"When you design a vehicle with no mechanical way to open the doors from the outside, you are betting the electronics will work in every scenario, including a high-speed crash followed by a fire,\" said one of the lawyers in a statement.\n\nIn court filings, Tesla denied any wrongdoing and said the Cybertruck is compliant with US federal safety standards, the Guardian reported.\n\nThere have been other cases in the US of passengers, including children, allegedly being trapped in Tesla cars after the doors suddenly stopped working.\n\nThe BBC has contacted Tesla for comment.\n\nWhat is being done about hidden handles?\n\nIn February, China said it would ban hidden door handles, making it the first country to do so.\n\nThe new rules, which take effect on 1 January 2027, mean new car designs without physical release mechanisms on the inside and outside of their doors cannot be sold.\n\nThe cars' interior must also carry signs to show how to open the door.\n\nThe measures in China come ahead of the US and European Union, which typically lead regulations around road safety and emissions, Dyer noted.\n\nOne reason is likely to be the sheer number of EVs in China, he added.\n\nOn 21 August, China's State Administration for Market Regulation (SAMR) announced that Tesla and some major Chinese car makers - including Xiaomi, XPeng and Geely - would recall more than four million vehicles.\n\nChina will ban hidden door handles on cars sold in the country from next year\n\nThe manufacturers were ordered to add warning labels inside vehicle doors to show passengers how to open them. Some cars will also get a software update that will lower their windows in the event of a crash.\n\nTesla, which started selling the Model S sedan with hidden door handles in China in 2014, is recalling nearly three million cars, according to the SAMR.\n\nThe agency said the recalled cars have door handles that are \"difficult to identify\" because they are a similar colour to the vehicle's interior trim.\n\nIn the event of an electrical failure, the handles' design may also prevent passengers from quickly opening the doors to escape or \"hinder rescue efforts\" by bystanders, the SAMR added.\n\nXiaomi, XPeng and Geely will also recall a total of more than 750,000 vehicles.\n\n'Weak remedy'\n\nSome engineers say the measures may not go far enough to resolve safety concerns.\n\nEngineering instructor Lim Hong Wee said the measures do not address the need for a mechanical way to open the doors.\n\nAccess to a car during an emergency should not depend on software, said Lim from the National University of Singapore.\n\nThe measures mainly address the issue of people being able to get out of a vehicle, but do not provide a reliable way for rescuers to get in, said Gokul Krithivasan from risk management consultancy SecureSafe.\n\nWarning labels are also a \"weak remedy\", he added. \"When panicked, people fall back on their instinctive responses, and don't read small print in a dark and possibly smoke-filled cabin.\"\n\nFor now, it is unclear whether there will be similar recalls outside China.\n\nThe BBC understands that carmakers have not yet notified authorities of any plans for a similar recall in the US.\n\nThe world's carmakers are struggling to compete with China Published 27 May\n\nElon Musk's stratospheric rise to trillionaire status - in charts Published 13 June\n\nThe US National Highway Traffic Safety Administration told the BBC that it is reviewing whether it will require emergency door-exit systems in vehicles.\n\nIn Europe, regulators have flagged the potential hazards related to hidden handles and drafted new standards to ensure they still work even if a car's power is cut off.\n\nEngineering lecturer Lyu Chen said that while concealed door handles are still common in EV designs, manufacturers and regulators are paying increasing attention to how they design their doors.\n\nSince cars are built to sell globally, it is likely that the safety requirements in China will be adopted elsewhere, he added.\n\n\"The common principle is clear: emergency entry and exit should remain possible even after a loss of electrical power.\"\n\nRelated topics\n\nInternational Business\n\nChina\n\nElectric cars\n\nElon Musk\n\nTesla\n\nXiaomi",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -271,7 +273,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c916/live/df90ef10-a088-11f1-aed2-8d6da8d75094.jpg",
-      "body": "Anna Turley is Labour MP for Redcar, the constituency where the crash happened\n\nPublished 25 August 2026\n\nA row has broken out after a Home Office minister paid tribute to all seven victims of the deadly A66 crash.\n\nAnna Turley, who is also MP for the area where the crash took place, was accused by shadow justice secretary Nick Timothy of placing five men who were in a car travelling on the wrong side of the road \"on a par\" with two police officers in an oncoming car they collided with.\n\nAll seven died in the crash near Middlesbrough in the early hours of Saturday, which detectives said resulted from \"serious criminal activity\".\n\nTurley said Cleveland Police \"had specifically requested\" she pay tribute to all victims in any message. The force declined to confirm or deny this when contacted by the BBC.\n\nIn a letter, Turley accused Timothy of having \"sought to create media hits and political points\" which was \"beneath contempt\".\n\nShe said there was no \"moral equivalence, or judgements about worth\" in her tribute.\n\nThe row centres on a lengthy Facebook post Turley made shortly after the incident, in which she wrote: \"This morning I went down to South Bank to lay flowers and pay my respects, on behalf of our whole community, to the seven people whose lives were so tragically cut short yesterday.\"\n\nTimothy took issue with that in an X post on Monday night, saying he did not wish to \"speak ill of the dead\" but that \"we should be able to see the difference between right and wrong\".\n\nHe said it did not feel right for a Home Office minister to equate the two police officers with the men in the other car.\n\nPC Matthew Blades (left) and PC Tom Clough were killed in a crash near Middlesbrough on Saturday\n\nIn her reply, Turley said she was \"utterly appalled\" by the accusation and said she did not know the identities of who had died at the time of her tribute, other than PCs Matthew Blades, 37, and Tom Clough, 38, who she named.\n\nWhile she said Cleveland Police had asked her to pay tribute to all victims, the force has not confirmed this and the area's police and crime commissioner told the BBC it does not issue media advice regarding police incidents.\n\nPolice later confirmed that Michael Robert Cahill, 23, Jacob Matusiak, 23, Makai Saddington, 18, Theo Rae, 17, and 17-year-old Cole Robert Worthy were all in the car on the wrong side of the A66. All bar Cahill had previous convictions.\n\nThe Volkswagen Passat was being pursued by police until 10 seconds before the crash , according to the police watchdog.\n\nThe Independent Office for Police Conduct said the Passat was believed to be using cloned registration plates.\n\nCleveland Police announced five more arrests on Tuesday, bringing the total to 17, including a 16-year-old boy and two men, 18 and 21, arrested on suspicion of participating in an organised crime group.\n\nSeparately, two men previously arrested have since been charged as part of the investigation.\n\nFive more arrests in wrong-way crash investigation Published 8 hours ago\n\nPCs killed in A66 crash were heroes, say families Published 1 day ago\n\nWho were the seven killed in wrong-way crash? Published 14 hours ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nHome Office\n\nCleveland Police",
+      "body": "Anna Turley is Labour MP for Redcar, the constituency where the crash happened\n\nPublished 25 August 2026\n\nA row has broken out after a Home Office minister paid tribute to all seven victims of the deadly A66 crash.\n\nAnna Turley, who is also MP for the area where the crash took place, was accused by shadow justice secretary Nick Timothy of placing five men who were in a car travelling on the wrong side of the road \"on a par\" with two police officers in an oncoming car they collided with.\n\nAll seven died in the crash near Middlesbrough in the early hours of Saturday, which detectives said resulted from \"serious criminal activity\".\n\nTurley said Cleveland Police \"had specifically requested\" she pay tribute to all victims in any message. The force declined to confirm or deny this when contacted by the BBC.\n\nIn a letter, Turley accused Timothy of having \"sought to create media hits and political points\" which was \"beneath contempt\".\n\nShe said there was no \"moral equivalence, or judgements about worth\" in her tribute.\n\nThe row centres on a lengthy Facebook post Turley made shortly after the incident, in which she wrote: \"This morning I went down to South Bank to lay flowers and pay my respects, on behalf of our whole community, to the seven people whose lives were so tragically cut short yesterday.\"\n\nTimothy took issue with that in an X post on Monday night, saying he did not wish to \"speak ill of the dead\" but that \"we should be able to see the difference between right and wrong\".\n\nHe said it did not feel right for a Home Office minister to equate the two police officers with the men in the other car.\n\nPC Matthew Blades (left) and PC Tom Clough were killed in a crash near Middlesbrough on Saturday\n\nIn her reply, Turley said she was \"utterly appalled\" by the accusation and said she did not know the identities of who had died at the time of her tribute, other than PCs Matthew Blades, 37, and Tom Clough, 38, who she named.\n\nWhile she said Cleveland Police had asked her to pay tribute to all victims, the force has not confirmed this and the area's police and crime commissioner told the BBC it does not issue media advice regarding police incidents.\n\nPolice later confirmed that Michael Robert Cahill, 23, Jacob Matusiak, 23, Makai Saddington, 18, Theo Rae, 17, and 17-year-old Cole Robert Worthy were all in the car on the wrong side of the A66. All bar Cahill had previous convictions.\n\nThe Volkswagen Passat was being pursued by police until 10 seconds before the crash , according to the police watchdog.\n\nThe Independent Office for Police Conduct said the Passat was believed to be using cloned registration plates.\n\nCleveland Police announced five more arrests on Tuesday, bringing the total to 17, including a 16-year-old boy and two men, 18 and 21, arrested on suspicion of participating in an organised crime group.\n\nSeparately, two men previously arrested have since been charged as part of the investigation.\n\nFive more arrests in wrong-way crash investigation Published 11 hours ago\n\nPCs killed in A66 crash were heroes, say families Published 1 day ago\n\nWho were the seven killed in wrong-way crash? Published 17 hours ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nHome Office\n\nCleveland Police",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -297,6 +299,54 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": true
+    },
+    {
+      "id": "6cb8d5badf07acb4",
+      "title": "Security Council LIVE: Civilian suffering grows in Russia-Ukraine war",
+      "summary": "As spiralling drone and missile attacks on civilians in the ongoing Russia-Ukraine war continue, top UN officials told the Security Council on Monday that every diplomatic effort must work towards a full, immediate and unconditional ceasefire. UN News app users can follow our live coverage here.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168191",
+      "source": "UN News",
+      "publisher": "UN News",
+      "published": "2026-08-24T12:00:00Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 46,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": true,
+      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/21-07-2026-UNICEF-Ukraine-04.jpg/image560x340cropped.jpg"
+    },
+    {
+      "id": "d37195751c8586f4",
+      "title": "Security Council LIVE: War, hunger, flooding escalates in Sudan",
+      "summary": "Suffering in Sudan continues to grow in the world’s worst humanitarian crisis amid brutal mass killings, abductions and rape, top UN officials warned the Security Council on Monday, calling for action to end the four-year-long war. UN News app users can follow our coverage here.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168188",
+      "source": "UN News",
+      "publisher": "UN News",
+      "published": "2026-08-24T12:00:00Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 45,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": true,
+      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/13-08-2026-UNOCHA-Sudan.jpg/image560x340cropped.jpg"
     },
     {
       "id": "fb94f54477be6cad",
@@ -451,31 +501,56 @@
       "imageHeight": 630
     },
     {
-      "id": "2c97ed74088a0e7e",
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-      "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+      "id": "dbac3da68f87a970",
+      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+      "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo",
       "source": "BBC Business",
       "publisher": "BBC",
-      "published": "2026-08-25T02:51:53Z",
+      "published": "2026-08-25T15:04:52Z",
       "category": "Economics",
-      "region": "Canada",
+      "region": "US",
       "labels": [
         "Economics",
-        "Canada"
+        "US"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1006,
+      "wordCount": 1028,
       "readingMinutes": 5,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e240/live/5807d190-a019-11f1-bdcd-87d2835ec878.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: \"Absolutely ridiculous\": Canadians react to new tariff tensions with the US\n\nPublished 24 August 2026\n\nPresident Donald Trump has threatened to hike US tariffs on automobiles originating in Canada, as the trade war between the two neighbours continues to heat up.\n\nTrump said on Monday that he will increase tariffs on Canadian cars and trucks, as well as auto parts, from 25% to 50% as of 1 January.\n\nIt comes after US-Canada trade talks collapsed late last week, with each side accusing the other of making unreasonable last-minute demands.\n\nLate on Monday, Canada officials announced a news conference on Tuesday where they would outline how the country would respond to the trade war and work to \"protect and support Canadian workers and businesses during these challenging times\".\n\nThe news conference at 11:00 ET (16:00 BST) will include government leaders in business, finance and economic development.\n\nEarlier in the day, Prime Minister Mark Carney called Trump's latest levy threat unsurprising and accused the president of wanting to destroy Canada's auto industry. He added that Canada is ready to resume talks only if the US comes with the \"right attitude\".\n\nThe war of words followed several US and Canadian officials saying that talks were suspended with no set date to resume.\n\nCanada walked away from trade negotiations late on Friday night, moments before a US-imposed deadline that would add a 50% levy on nearly $20bn (C$28bn; £14bn) of Canadian imports.\n\nThe collapse in talks marked a significant change in tone from earlier in the week, when both sides appeared optimistic that a new US-Canada trade deal could be reached.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: Canada will negotiate if US has the \"right attitude\", says Mark Carney\n\nCanadian officials have said the US introduced last-minute demands that were \"unacceptable\", including a clause limiting which countries Canada could sign trade deals with.\n\nUS officials, meanwhile, said it was Canada that introduced last-minute changes.\n\n\"They wanted more,\" US Trade Representative Jamieson Greer said in an interview with CNBC on Monday.\n\nThe breakdown led to growing tensions as both sides publicly dug in their heels.\n\nOn Monday, Trump's tariff threats to Canada's auto industry followed Carney declaring the country would counter his levies with reciprocal tariffs on US goods \"dollar for dollar\".\n\n'Half my business will be gone' - firms in Canada and US fear trade war\n\nHow Canada could hit back to hurt the US economy - and Trump\n\nTrump says Canada wants 'benefits' of being US state after trade talks collapse\n\nCarney said he was focused on supporting Canadian businesses impacted by new 50% US tariffs after the Friday deadline expired, as well as building infrastructure to diversify Canada's trade, which historically has relied heavily on the US.\n\nCarney announced funding of C$11bn ($7.95bn; £5.83bn) to build six icebreakers at a Quebec shipyard for the Canadian Coast Guard that will replace its medium and heavy ageing fleet.\n\nThe icebreakers will be used to open winter shipping routes through Canada's northern and Atlantic waters.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\n'Trump underestimates us': Doug Ford takes aim at US over tariffs\n\nMeanwhile, Ontario's outspoken premier, Doug Ford, whose province is home to Canada's auto manufacturing industry, responded to Trump's tariffs and threats by telling the US president to \"kiss my ass\".\n\nFord also suggested that Canada should charge the US extra for its oil and gas, as well as electricity and critical minerals, adding that he will be speaking to Carney on ways to \"fight back\".\n\nHis comments appeared to catch the attention of Trump, who in a Truth Social post accused Ford of \"bluster\" and wrote: \"Someone should get these clowns to 'fall in line' or, the consequences for Canada will be far WORSE!\".\n\nCanada accounts for 60% of total US crude oil imports and close to 100% of US natural gas exports, according to Canadian government data.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: Brewery owner tells BBC tariff impact will be \"devastating\"\n\nBusinesses on both sides have warned that they stand to be hurt by the new wave of US tariffs on Canada, as well as the retaliatory tariffs that Canada plans to impose on 8 September.\n\nIn Portland, Oregon, Mike Roach and Kim Osgood, owners of Paloma Clothing say the price of one of their best-selling items - specially designed pillows made in Canada - could shoot up by around 50% to $90. For now, they are holding out on keeping the prices steady, hoping that the \"tariff problem\" is worked out soon, said Roach.\n\n\"It would be one thing if we had three months' notice - that would be something you could plan around, do some work with the vendors,\" he said. \"But when it happens literally overnight you're really stuck.\"\n\nThe rapidly escalating trade war is also raising questions about the other country in North America - Mexico - and the trade pact between the three neighbours known as the USMCA.\n\nBoth Canada and Mexico have said they want the USMCA extended for another 16 years, but the US has said it will not renew in its current form. The pact underpins $1.6tn in North American Trade.\n\nEscalating trade tensions mean \"the risk of the USMCA unravelling has increased\", experts from the Oxford Economics forecasting firm warned on Monday. That, in turn, \"would plunge Canada into recession and leave it on a permanently lower growth path\".\n\nAdditional reporting by Ana Faguy.\n\nRelated topics\n\nCanada\n\nMark Carney\n\nDonald Trump\n\nTrump tariffs\n\nUnited States\n\nMore on this story\n\n'Half my business will be gone' - firms in Canada and US fear trade war Published 1 day ago\n\nCarney faces crucial test after walking away from Trump's deal Published 3 days ago",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6358/live/a03a3710-a09f-11f1-84a9-276d1a8e5a22.jpg",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: What are these sanctions and who will be affected?\n\nPublished 25 August 2026\n\nThe US has said \"the single greatest financial offensive ever\" will help it and Israel end their ongoing war with Iran.\n\nHowever, Iran is no stranger to these tactics.\n\nThe regime has faced near continuous US sanctions since the Islamic Revolution of 1979. In that time, it has developed deep trade ties with several countries which either have a history of ignoring US economic pressure themselves or cannot afford to stop trading with Iran.\n\nAs a result, Iran says it is \"fully prepared\" for the new US sanctions and many economists argue the impact of Washington's latest move will be limited.\n\nSo, who does Iran trade with? And could what the US has called an \"economic D-Day\" have any real impact on Iran?\n\nChina\n\nChina is the biggest buyer of Iranian goods, making up 26.9% of its exports in 2025, according data from the International Trade Centre (ITC), a subsidiary of the United Nations and the World Trade Organisation.\n\nThere a few caveats to ITC's data, which covers a period before the US-Israel war with Iran began.\n\nFirst, several economists believe that even before the conflict started, a lot of Iranian oil sales, particularly to China, were underreported for political reasons.\n\nSecond, the ITC tallies Iran's exports using mostly the import numbers reported by its trading partners - owing to the difficulty in getting up to date export data from Iran.\n\nThird, import data for some of Iran's trading partners, such as Iraq, is incomplete.\n\nDespite this, Iranian trade's importance to China is clear from its response to the US announcement of \"economic D-Day\".\n\nIt said that it was firmly opposed to what it called \"illegal unilateral sanctions\", that economic pressure tactics would not help resolve problems and that Beijing would safeguard its own interests.\n\nTurkey\n\nTurkey is another large trading partner of Iran, according to ITC data, but it has a much friendlier relationship with the US than China.\n\nThis puts it in a challenging position. The US has threatened to punish those who continue to trade with Iran as part of its economic pressure tactics.\n\nHowever, economists point out that Turkey cannot stop trading with it without significant damage to its economy, which is already struggling with inflation running at 31.8%, according to official data , external .\n\nIn short, as the only Nato member to share a border with Iran, Turkey has to balance its relationship with military allies and maintaining a relationship with its close economic neighbour.\n\nPakistan\n\nLike Turkey, Pakistan borders Iran and is one of its biggest export partners, according to ITC data, while also being keen to maintain a good relationship with the US.\n\nBut unlike Turkey, Pakistan's top export partner is instead the US, meaning it has more to lose from any economic punishment imposed by Washington.\n\nIt is also a key mediator in peace talks between the US and Iran, meaning a breakdown in its relationship with either country could make finding a solution to the conflict even more challenging.\n\nThe other complicating factor is that not all of Pakistan's trade with Iran is within the Pakistan government's control.\n\nThe BBC has seen evidence that oil is being smuggled across the border from Iran to Pakistan en masse by bikers , some as young as 15.\n\nThis was the case before the Iran war began, but data suggests the practice has picked up since.\n\nAnd though the US and Pakistan's oil firms have pressured Pakistan's government to clamp down on the practice, it has struggled to police remote parts of the 900km border.\n\nThe BBC has previously asked the Iranian government to comment on the allegation that it is involved in the fuel smuggling. It did not respond.\n\nArmenia\n\nArmenia is another major trading partner of Iran, according to the ITC data.\n\nWhere it differs the most from others is that its top export partner is Russia, which accounts for 34.9% of all goods sold by Armenia in 2025.\n\nThis is despite the fact that Russia has faced sanctions from the US and its allies since its full-scale invasion of Ukraine in 2022.\n\nThis suggests Armenia may be willing to continue trading with Iran despite mounting US pressure.\n\nThe end result\n\nUS Treasury Secretary Scott Bessent said the sanctions against Iran will \"tighten the noose and block every potential source of revenue\".\n\nYet, many experts disagree. Advisory firm Oxford Economics said the direct impact on Iran's revenues would be \"somewhat of a damp squib\".\n\nAli Vaez, deputy director at the International Crisis Group, said: \"Anything that moves in Iran has already been sanctioned by multiple layers of sanctions, in fact.\n\n\"So the question now is one of enforcement. Does the United States have what it takes to impose fines and levies on countries that continue to trade with Iran?\"\n\nHe noted how the US started an economic war with China, Iran's biggest trading partner, last year but \"backed out of it\".\n\nFormer senior advisor at the state department Aya Ibrahim said the US's overreliance on them \"incentivises countries to find ways around that system\".\n\nShe also raised concerns that the sanctions may have the biggest affect on people, rather than economies, as they \"deny people necessities to stay alive\".\n\nMeanwhile, global markets have had a muted response to the announcement.\n\nGlobal oil prices fell following the announcement, but are still far higher than pre-war levels.\n\nStock traders were even less moved by the news, with the major indexes of the biggest companies listed in the US, Europe, and Asia barely shifting.\n\nThe US will has a way to go before it convinces economists, investors, and the nations trading with Iran that its sanctions threat is to be taken seriously.\n\nAdditional reporting by Miguel Roca-Terry\n\nRelated topics\n\nCompanies\n\nOil\n\nIran war\n\nIran\n\nMore on this story\n\nIran says it is 'fully prepared' to counter widened US economic sanctions Published 20 hours ago\n\nThe bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan Published 17 June",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "3977fa1b49af6978",
+      "title": "Blue Jays' key stretch begins with a thud against Royals",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/vladimir-guerrero-jr-s-rare-error-contributes-to-blue-jays-quiet-night",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-26T03:23:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "ff1686c34d0217e8",
@@ -540,31 +615,6 @@
       "labels": [
         "Sports",
         "Canada",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "2431af0d98f1c620",
-      "title": "Latest Blue Jays injuries & transactions",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-25T22:24:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
         "Blue Jays"
       ],
       "sourceWeight": 5,
@@ -1019,7 +1069,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/46f4/live/e1d49eb0-a0a2-11f1-b109-879e35c24276.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on this story.\n\nSubsection Essex\n\nPublished 9 hours ago\n\nRelated topics\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nClacton-on-Sea Follow Clacton-on-Sea close panel You are now following Clacton-on-Sea Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on this story.\n\nSubsection Essex\n\nPublished 12 hours ago\n\nRelated topics\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nClacton-on-Sea Follow Clacton-on-Sea close panel You are now following Clacton-on-Sea Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1076,6 +1126,31 @@
       "body": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry\n\nTaiwanese prosecutors charged nine people Monday, including one from Nvidia and two from Super Micro, for illegally exporting “high-end AI servers” to mainland China, adding another wave of turbulence in the AI ​​rivalry between China and the United States.\n\nProsecutors said the servers involved were graphics processing units known as “B300,” which have been banned from sale to China .\n\nSeventy-four servers arrived in China successfully, according to the prosecutors. Of those, 50 were sent through Indonesia, 16 delivered directly to China and eight sent to Japan first, then Hong Kong, before they landed in mainland China.\n\nAnother attempt involving 56 servers failed, and the servers remain in Taiwan, said the prosecutor’s office.\n\nAI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the US and China. Washington began imposing restrictions on Nvidia’s exports of advanced chips to China in 2022 and tightened them in subsequent years. In April 2025, the US required licenses for exports of Nvidia’s H20 chips to China before allowing some sales to resume later that year.\n\nUnder export controls, any sale by Nvidia of high-end AI servers – the computer infrastructure that houses the chips needed to power AI systems – requires a strict review process, according to a document from Keelung District prosecutors’ office in Taiwan. The document also said purchases of more than eight high-end AI servers require company staff to conduct on-site checks to the clients.\n\n“We will work with the Taiwan authorities to help them resolve the allegations as quickly as possible,” Patrick Rutherford, an Nvidia spokesperson, said in a written statement.\n\nSuper Micro said in a written statement that the arrests of two of its former employees were due to its cooperation with the Taiwanese authorities and the company will continue to work to “enhance its robust export compliance program to protect American innovation”.\n\nafter newsletter promotion\n\nProsecutors are seeking the maximum five-year sentences for four of the nine defendants, including Chang, an Nvidia manager identified just by his family name. Chang was the “key figure” responsible for “authorizing the release of the B300 GPUs” in this case but “demonstrated a clearly poor attitude following the offense”, the document said.\n\nSome of the defendants set up a company in Japan, which helped successfully transfer eight of the servers, prosecutors said. Some allegedly created fake websites and falsified information to evade export restrictions.\n\nTechnology\n\nAI (artificial intelligence)\n\nNvidia\n\nChina\n\nAsia Pacific\n\nComputing\n\nnews",
       "imageWidth": 1200,
       "imageHeight": 630
+    },
+    {
+      "id": "2431af0d98f1c620",
+      "title": "Latest Blue Jays injuries & transactions",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-25T22:24:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "e6f96093137924e3",
@@ -1735,6 +1810,33 @@
       "imageHeight": 675
     },
     {
+      "id": "2c97ed74088a0e7e",
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+      "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-08-25T02:51:53Z",
+      "category": "Economics",
+      "region": "Canada",
+      "labels": [
+        "Economics",
+        "Canada"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 1006,
+      "readingMinutes": 5,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e240/live/5807d190-a019-11f1-bdcd-87d2835ec878.jpg",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: \"Absolutely ridiculous\": Canadians react to new tariff tensions with the US\n\nPublished 24 August 2026\n\nPresident Donald Trump has threatened to hike US tariffs on automobiles originating in Canada, as the trade war between the two neighbours continues to heat up.\n\nTrump said on Monday that he will increase tariffs on Canadian cars and trucks, as well as auto parts, from 25% to 50% as of 1 January.\n\nIt comes after US-Canada trade talks collapsed late last week, with each side accusing the other of making unreasonable last-minute demands.\n\nLate on Monday, Canada officials announced a news conference on Tuesday where they would outline how the country would respond to the trade war and work to \"protect and support Canadian workers and businesses during these challenging times\".\n\nThe news conference at 11:00 ET (16:00 BST) will include government leaders in business, finance and economic development.\n\nEarlier in the day, Prime Minister Mark Carney called Trump's latest levy threat unsurprising and accused the president of wanting to destroy Canada's auto industry. He added that Canada is ready to resume talks only if the US comes with the \"right attitude\".\n\nThe war of words followed several US and Canadian officials saying that talks were suspended with no set date to resume.\n\nCanada walked away from trade negotiations late on Friday night, moments before a US-imposed deadline that would add a 50% levy on nearly $20bn (C$28bn; £14bn) of Canadian imports.\n\nThe collapse in talks marked a significant change in tone from earlier in the week, when both sides appeared optimistic that a new US-Canada trade deal could be reached.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: Canada will negotiate if US has the \"right attitude\", says Mark Carney\n\nCanadian officials have said the US introduced last-minute demands that were \"unacceptable\", including a clause limiting which countries Canada could sign trade deals with.\n\nUS officials, meanwhile, said it was Canada that introduced last-minute changes.\n\n\"They wanted more,\" US Trade Representative Jamieson Greer said in an interview with CNBC on Monday.\n\nThe breakdown led to growing tensions as both sides publicly dug in their heels.\n\nOn Monday, Trump's tariff threats to Canada's auto industry followed Carney declaring the country would counter his levies with reciprocal tariffs on US goods \"dollar for dollar\".\n\n'Half my business will be gone' - firms in Canada and US fear trade war\n\nHow Canada could hit back to hurt the US economy - and Trump\n\nTrump says Canada wants 'benefits' of being US state after trade talks collapse\n\nCarney said he was focused on supporting Canadian businesses impacted by new 50% US tariffs after the Friday deadline expired, as well as building infrastructure to diversify Canada's trade, which historically has relied heavily on the US.\n\nCarney announced funding of C$11bn ($7.95bn; £5.83bn) to build six icebreakers at a Quebec shipyard for the Canadian Coast Guard that will replace its medium and heavy ageing fleet.\n\nThe icebreakers will be used to open winter shipping routes through Canada's northern and Atlantic waters.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\n'Trump underestimates us': Doug Ford takes aim at US over tariffs\n\nMeanwhile, Ontario's outspoken premier, Doug Ford, whose province is home to Canada's auto manufacturing industry, responded to Trump's tariffs and threats by telling the US president to \"kiss my ass\".\n\nFord also suggested that Canada should charge the US extra for its oil and gas, as well as electricity and critical minerals, adding that he will be speaking to Carney on ways to \"fight back\".\n\nHis comments appeared to catch the attention of Trump, who in a Truth Social post accused Ford of \"bluster\" and wrote: \"Someone should get these clowns to 'fall in line' or, the consequences for Canada will be far WORSE!\".\n\nCanada accounts for 60% of total US crude oil imports and close to 100% of US natural gas exports, according to Canadian government data.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: Brewery owner tells BBC tariff impact will be \"devastating\"\n\nBusinesses on both sides have warned that they stand to be hurt by the new wave of US tariffs on Canada, as well as the retaliatory tariffs that Canada plans to impose on 8 September.\n\nIn Portland, Oregon, Mike Roach and Kim Osgood, owners of Paloma Clothing say the price of one of their best-selling items - specially designed pillows made in Canada - could shoot up by around 50% to $90. For now, they are holding out on keeping the prices steady, hoping that the \"tariff problem\" is worked out soon, said Roach.\n\n\"It would be one thing if we had three months' notice - that would be something you could plan around, do some work with the vendors,\" he said. \"But when it happens literally overnight you're really stuck.\"\n\nThe rapidly escalating trade war is also raising questions about the other country in North America - Mexico - and the trade pact between the three neighbours known as the USMCA.\n\nBoth Canada and Mexico have said they want the USMCA extended for another 16 years, but the US has said it will not renew in its current form. The pact underpins $1.6tn in North American Trade.\n\nEscalating trade tensions mean \"the risk of the USMCA unravelling has increased\", experts from the Oxford Economics forecasting firm warned on Monday. That, in turn, \"would plunge Canada into recession and leave it on a permanently lower growth path\".\n\nAdditional reporting by Ana Faguy.\n\nRelated topics\n\nCanada\n\nMark Carney\n\nDonald Trump\n\nTrump tariffs\n\nUnited States\n\nMore on this story\n\n'Half my business will be gone' - firms in Canada and US fear trade war Published 1 day ago\n\nCarney faces crucial test after walking away from Trump's deal Published 3 days ago",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
       "id": "67c63dd21fcda4fb",
       "title": "The Gurkha families fighting for their pensions",
       "summary": "Gurkhas who retired before 1997 receive far less than their British Army counterparts.",
@@ -1784,7 +1886,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\n'Trump underestimates us': Doug Ford takes aim at US over tariffs\n\nPublished 25 August 2026\n\nAbout 70% of Canada's exported goods go to the US. So what leverage does it have in this spiralling trade dispute with its southern neighbour, which also happens to be the world's largest economy?\n\nCanada is the top customer for 26 US states, including Maine, Michigan, and Wisconsin. And it is in the top three for 45 of the 50 American states, suggesting Prime Minister Mark Carney has room to manoeuvre in a trade fight.\n\nFor now, Carney's planned Canadian retaliatory duties are strategic \"dollar-for-dollar\" countermeasures focused on steel, dairy, appliances, agricultural equipment, electronics, pulp and paper - though the list is still being finalised.\n\nPolls suggest a majority of Canadians would be unhappy if his government went in the other direction and made significant concessions to the US. That sentiment is shared by Ontario Premier Doug Ford, one of Trump's most vocal critics north of the border, who responded to the tariff threats by telling the US president to \"kiss my ass\".\n\nCanada's Finance Department said additional measures to protect workers and businesses would be announced on Tuesday.\n\nHere are some areas where Canada can apply economic pressure.\n\nEnergy and critical minerals\n\nCarney noted on Saturday that Canada supplies the vast majority of US natural gas and electricity imports and about 60% of crude oil imports.\n\n\"I don't think they want us to stop sending any of that energy,\" he said.\n\nSqueezing the US on energy is not in the current countermeasures, although various political officials have said explicitly it wasn't ruled out - and not all provincial premiers have been keen to use that leverage.\n\nFord, whose Ontario province is home to Canada's auto manufacturing industry, is open to how far the dispute could go and said that an \"energy surcharge is on the table\".\n\nHe briefly floated a 25% surcharge in 2025 on all electricity exports to the United States, which his government estimated would have impacted 1.5 million homes and businesses in Michigan, Minnesota and New York.\n\nThe country is also a major source of important commodities including potash - a product in fertiliser for which Canada is the world's top supplier.\n\n\"I'd love to see [Trump] run cars without any oil. I'll love to see him grow vegetables and fruit without the potash,\" Ford said on Monday. \"President Trump underestimates us, and that's the biggest mistake.\"\n\nCanada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50% Published 6 hours ago\n\nCanada also has significant reserves of critical minerals like lithium, nickel and graphite.\n\nThe US is Canada's top destination for overall mineral exports, another point where Ottawa could apply pressure.\n\nFord here also took the lead, saying in an interview with the Associated Press that the US \"won't get a grain of sand out of Ontario\".\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: \"Absolutely ridiculous\": Canadians react to new tariff tensions with the US\n\nPurchasing power\n\nCanada has already proven that it can cause economic pain in the US.\n\nEven before trade talks broke down, a decision by most provinces to ban US alcohol from liquor store shelves - in response to the first wave of US tariffs early last year - dealt a devastating blow to that industry in the US.\n\nAmerican wine had a significant collapse in exports, one the Wine Institute called the \"most significant market disruption in decades\".\n\nUS wine exports to Canada fell 78% year over year, a $357m (C$494m; £261m) loss in export value, according to government data. The distillers association reported similar numbers - saying provincial bans have caused exports of American spirits to drop by more than 70%.\n\nThat boycott remains in place in 11 of the 13 Canadian provinces and territories. The ban is a point of significant frustration for the Trump administration.\n\nWhile that alcohol boycott has been put in place by political leaders, there are also grassroots decisions by many Canadians that have hurt their neighbour's economy - such as avoiding travel to the US.\n\nEven with a slight uptick in road trips to the US in April, Canadians made 800,000 fewer trips that month compared to the same time in 2024, before Trump returned to office, according to national data.\n\nThe travel boycott has meant a loss of about C$3.3bn ($2.35bn; £1.75bn) in revenue for the US last year. Some American cities and states have appealed for Canadians to return through targeted advertisements and special deals.\n\n'Half my business will be gone' - firms in Canada and US fear trade war Published 1 day ago\n\nUS-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate Published 23 hours ago\n\nTrump says Canada wants 'benefits' of being US state after trade talks collapse Published 2 days ago\n\nCarney faces crucial test after walking away from Trump's deal Published 3 days ago\n\nPolitical pressure\n\nTiming and Canadian political will could also be a tool for negotiations.\n\nCanadians know they will feel economic pain in this dispute - financial analysts estimated the most recent tariffs of 50% on about $20bn of Canadian imports could trim between 0.3% to 0.6% off the country's GDP in the short term.\n\nStill, a majority in the country broadly back Ottawa's decision to drive a hard bargain against the Trump administration, and other Canadian political leaders have shown a united front.\n\nA weekend poll from Angus Reid indicated that some 76% of Canadians support Ottawa's decision to walk away from trade negotiations even as they worry for their own job security.\n\nThe US midterm elections are fast approaching, with the economy front and centre for voters and the Republican hold on Congress looking tenuous.\n\nTwo of the biggest Senate races are in Michigan and Maine, which both border Canada and send most of their exports there.\n\nThe Yale Budget Lab calculates that under current law, Trump's global tariffs will cost American households about $1,100 annually.\n\nAny further increase in the costs of goods and the wider impact of the trade dispute on businesses could further sour the American public on the economy.\n\nOn Monday, Carney said that US workers will be hurt by Trump's most recent threat to increase tariff on autos and auto parts from Canada to 50% after 1 January.\n\n\"What is the message sent out to the workers in Michigan, Ohio, Kentucky, Alabama? These workers depend absolutely on Canada, their largest consumer,\" he said, adding that Canada buys more American cars than the EU and other countries.\n\nOn CNN on Monday, British Columbia Premier David Eby noted US consumers will see the impact of the US tariffs in any number of goods.\n\n\"If you're building a new home, on plywood, if you're replacing your floor, on veneers, if you're getting married, on cut flowers, if you're going out fishing, on fishing poles,\" he said.\n\n\"It is a bizarre policy for Americans. It's going to hurt them.\"\n\nFord, one of the most vocal Canadian leaders opposing the Trump administration's tariffs, also did not rule out specifically targeting Republican US states with retaliatory measures and \"making sure America's economy feels the pain\".\n\nAs for the coming midterms, Ford said: \"If I were allowed to, I'd be down there door-knocking\".\n\nRelated topics\n\nMark Carney\n\nDonald Trump\n\nCanada\n\nUnited States\n\nTrump tariffs",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\n'Trump underestimates us': Doug Ford takes aim at US over tariffs\n\nPublished 25 August 2026\n\nAbout 70% of Canada's exported goods go to the US. So what leverage does it have in this spiralling trade dispute with its southern neighbour, which also happens to be the world's largest economy?\n\nCanada is the top customer for 26 US states, including Maine, Michigan, and Wisconsin. And it is in the top three for 45 of the 50 American states, suggesting Prime Minister Mark Carney has room to manoeuvre in a trade fight.\n\nFor now, Carney's planned Canadian retaliatory duties are strategic \"dollar-for-dollar\" countermeasures focused on steel, dairy, appliances, agricultural equipment, electronics, pulp and paper - though the list is still being finalised.\n\nPolls suggest a majority of Canadians would be unhappy if his government went in the other direction and made significant concessions to the US. That sentiment is shared by Ontario Premier Doug Ford, one of Trump's most vocal critics north of the border, who responded to the tariff threats by telling the US president to \"kiss my ass\".\n\nCanada's Finance Department said additional measures to protect workers and businesses would be announced on Tuesday.\n\nHere are some areas where Canada can apply economic pressure.\n\nEnergy and critical minerals\n\nCarney noted on Saturday that Canada supplies the vast majority of US natural gas and electricity imports and about 60% of crude oil imports.\n\n\"I don't think they want us to stop sending any of that energy,\" he said.\n\nSqueezing the US on energy is not in the current countermeasures, although various political officials have said explicitly it wasn't ruled out - and not all provincial premiers have been keen to use that leverage.\n\nFord, whose Ontario province is home to Canada's auto manufacturing industry, is open to how far the dispute could go and said that an \"energy surcharge is on the table\".\n\nHe briefly floated a 25% surcharge in 2025 on all electricity exports to the United States, which his government estimated would have impacted 1.5 million homes and businesses in Michigan, Minnesota and New York.\n\nThe country is also a major source of important commodities including potash - a product in fertiliser for which Canada is the world's top supplier.\n\n\"I'd love to see [Trump] run cars without any oil. I'll love to see him grow vegetables and fruit without the potash,\" Ford said on Monday. \"President Trump underestimates us, and that's the biggest mistake.\"\n\nCanada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50% Published 8 hours ago\n\nCanada also has significant reserves of critical minerals like lithium, nickel and graphite.\n\nThe US is Canada's top destination for overall mineral exports, another point where Ottawa could apply pressure.\n\nFord here also took the lead, saying in an interview with the Associated Press that the US \"won't get a grain of sand out of Ontario\".\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: \"Absolutely ridiculous\": Canadians react to new tariff tensions with the US\n\nPurchasing power\n\nCanada has already proven that it can cause economic pain in the US.\n\nEven before trade talks broke down, a decision by most provinces to ban US alcohol from liquor store shelves - in response to the first wave of US tariffs early last year - dealt a devastating blow to that industry in the US.\n\nAmerican wine had a significant collapse in exports, one the Wine Institute called the \"most significant market disruption in decades\".\n\nUS wine exports to Canada fell 78% year over year, a $357m (C$494m; £261m) loss in export value, according to government data. The distillers association reported similar numbers - saying provincial bans have caused exports of American spirits to drop by more than 70%.\n\nThat boycott remains in place in 11 of the 13 Canadian provinces and territories. The ban is a point of significant frustration for the Trump administration.\n\nWhile that alcohol boycott has been put in place by political leaders, there are also grassroots decisions by many Canadians that have hurt their neighbour's economy - such as avoiding travel to the US.\n\nEven with a slight uptick in road trips to the US in April, Canadians made 800,000 fewer trips that month compared to the same time in 2024, before Trump returned to office, according to national data.\n\nThe travel boycott has meant a loss of about C$3.3bn ($2.35bn; £1.75bn) in revenue for the US last year. Some American cities and states have appealed for Canadians to return through targeted advertisements and special deals.\n\n'Half my business will be gone' - firms in Canada and US fear trade war Published 1 day ago\n\nUS-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate Published 1 day ago\n\nTrump says Canada wants 'benefits' of being US state after trade talks collapse Published 2 days ago\n\nCarney faces crucial test after walking away from Trump's deal Published 3 days ago\n\nPolitical pressure\n\nTiming and Canadian political will could also be a tool for negotiations.\n\nCanadians know they will feel economic pain in this dispute - financial analysts estimated the most recent tariffs of 50% on about $20bn of Canadian imports could trim between 0.3% to 0.6% off the country's GDP in the short term.\n\nStill, a majority in the country broadly back Ottawa's decision to drive a hard bargain against the Trump administration, and other Canadian political leaders have shown a united front.\n\nA weekend poll from Angus Reid indicated that some 76% of Canadians support Ottawa's decision to walk away from trade negotiations even as they worry for their own job security.\n\nThe US midterm elections are fast approaching, with the economy front and centre for voters and the Republican hold on Congress looking tenuous.\n\nTwo of the biggest Senate races are in Michigan and Maine, which both border Canada and send most of their exports there.\n\nThe Yale Budget Lab calculates that under current law, Trump's global tariffs will cost American households about $1,100 annually.\n\nAny further increase in the costs of goods and the wider impact of the trade dispute on businesses could further sour the American public on the economy.\n\nOn Monday, Carney said that US workers will be hurt by Trump's most recent threat to increase tariff on autos and auto parts from Canada to 50% after 1 January.\n\n\"What is the message sent out to the workers in Michigan, Ohio, Kentucky, Alabama? These workers depend absolutely on Canada, their largest consumer,\" he said, adding that Canada buys more American cars than the EU and other countries.\n\nOn CNN on Monday, British Columbia Premier David Eby noted US consumers will see the impact of the US tariffs in any number of goods.\n\n\"If you're building a new home, on plywood, if you're replacing your floor, on veneers, if you're getting married, on cut flowers, if you're going out fishing, on fishing poles,\" he said.\n\n\"It is a bizarre policy for Americans. It's going to hurt them.\"\n\nFord, one of the most vocal Canadian leaders opposing the Trump administration's tariffs, also did not rule out specifically targeting Republican US states with retaliatory measures and \"making sure America's economy feels the pain\".\n\nAs for the coming midterms, Ford said: \"If I were allowed to, I'd be down there door-knocking\".\n\nRelated topics\n\nMark Carney\n\nDonald Trump\n\nCanada\n\nUnited States\n\nTrump tariffs",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2230,7 +2332,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c2d/live/88718a80-a07b-11f1-bfeb-dfb02ea642ef.png",
-      "body": "The Ekibastuz Bitcoin mine was opened in 2020 and seen as a symbol of the cryptocurrency's rise\n\nPublished 2 hours ago\n\nCompanies that once filled warehouses with computers to earn Bitcoin - a process known as mining - are now using that computing power for AI.\n\nBitcoin mining companies invested large sums on giant banks of powerful computers as the price of Bitcoin rocketed in recent years .\n\nBut those mining companies have faced falling rewards since the value of the cryptocurrency has slumped from its peak in October 2025.\n\nNow many are pivoting to AI and signing deals with companies such as Anthropic - who are spending billions of dollars on the infrastructure needed to keep up in the AI race.\n\nBitcoin mining and other key cryptocurrency terms explained Published 5 June\n\nLike AI systems, Bitcoin relies on vast networks of powerful computers housed in data centres.\n\nBecause Bitcoin operates without a central authority, these computers verify transactions and are rewarded with newly-created digital coins.\n\nBut the rewards have reduced and the value of coins has dropped since last year.\n\nOne bitcoin was worth about $124,000 (£91,000) at its peak in October 2025, but has since fallen sharply.\n\nMore recently, it has rallied to around $80,000 - meaning it is up almost 30% so far in August.\n\nBut, for companies that have already made the change, even that may not be enough to get them to return to the crypto industry, because the switch of use - once made - is expensive to undo.\n\nIndustry analysts say Bitcoin mining companies have been pivoting to AI because they have years of experience in finding cheap electricity and efficiently running large data centres.\n\nTerraWulf, Ionic Digital, Core Scientific, Iris Energy, Bitdeer, Riot Platforms and Hut 8 are just some of the companies increasingly diverting investment and infrastructure from bitcoin mining towards AI.\n\nRiot Platforms signed a $9bn, 20-year compute deal with Anthropic earlier this month.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\n\"The sound of money. Digital money\" - inside Kazakhstan's giant crypto-mine\n\nCompany names and websites are changing to reflect the shift too.\n\nApplied Blockchain has become Applied Digital.\n\nTerraWulf's website once described the firm as an \"infrastructure-focused bitcoin mining company\".\n\nIt now says it focuses on \"next-generation AI and high-performance computing\".\n\nEnegix, which opened a huge Bitcoin mining site in Kazakhstan to great fanfare in 2020, is now pivoting too.\n\n\"Today, we are moving confidently towards artificial intelligence and planning the gradual alignment of our energy and infrastructure capabilities, both in Kazakhstan and elsewhere, towards the development of AI infrastructure,\" said the company's chief executive Yerbolsyn Sarsenov.\n\nEnegix says it is in active discussions with AI and HPC (high-performance computing) companies and planning to transform a \"significant\" portion of the business to AI.\n\nBut refitting crypto mines for AI is expensive and in some cases the companies have had to sell some of their Bitcoin holdings to fund the switch.\n\nCrypto mining companies can house tens of thousands of powerful computers\n\nWolfie Zhao from The Energy Mag - a publication that rebranded from The Miner Mag to reflect the trend - predicts the industry pivot will continue even as the price of Bitcoin has risen in recent days.\n\n\"We expect to see many public miners continue winding down their Bitcoin mining hardware in the coming quarters,\" he said.\n\nAsked if the shift away from Bitcoin mining might affect the security or stability of the cryptocurrency, Zhao said he hoped more miners will enter the market as conditions improve.\n\nBut he predicted many of the big players would not easily be able to switch back to Bitcoin.\n\n\"Once that multi-gigawatt power infrastructure has been retrofitted to AI or HPC colocation, there is no turning back,\" he said.\n\n\"You can unplug from the Bitcoin network any time but signing a GPU colocation lease for 10 or 20 years means steady revenue and a commitment to keep the infrastructure up for the tenants.\"\n\nBitdeer, which claims to be the largest Bitcoin miner in the world, just announced a 16-year deal to provide compute for Anthropic.\n\nBut the company's chief strategy officer, Haris Basit, said Bitdeer will continue mining Bitcoin, believing many operators would ultimately pursue a dual-purpose model.\n\n\"Bitcoin mining is particularly well suited to that model because it is flexible and interruptible, while AI workloads can provide longer-duration contracted revenues,\" he said.\n\nBrit says he is not elusive Bitcoin creator named by New York Times Published 8 April\n\nBitcoin surges past $100k for first time Published 5 December 2024\n\nWhat is AI and how does it work?\n\nSign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here .\n\nRelated topics\n\nArtificial intelligence\n\nCryptocurrency\n\nBitcoin",
+      "body": "The Ekibastuz Bitcoin mine was opened in 2020 and seen as a symbol of the cryptocurrency's rise\n\nPublished 5 hours ago\n\nCompanies that once filled warehouses with computers to earn Bitcoin - a process known as mining - are now using that computing power for AI.\n\nBitcoin mining companies invested large sums on giant banks of powerful computers as the price of Bitcoin rocketed in recent years .\n\nBut those mining companies have faced falling rewards since the value of the cryptocurrency has slumped from its peak in October 2025.\n\nNow many are pivoting to AI and signing deals with companies such as Anthropic - who are spending billions of dollars on the infrastructure needed to keep up in the AI race.\n\nBitcoin mining and other key cryptocurrency terms explained Published 5 June\n\nLike AI systems, Bitcoin relies on vast networks of powerful computers housed in data centres.\n\nBecause Bitcoin operates without a central authority, these computers verify transactions and are rewarded with newly-created digital coins.\n\nBut the rewards have reduced and the value of coins has dropped since last year.\n\nOne bitcoin was worth about $124,000 (£91,000) at its peak in October 2025, but has since fallen sharply.\n\nMore recently, it has rallied to around $80,000 - meaning it is up almost 30% so far in August.\n\nBut, for companies that have already made the change, even that may not be enough to get them to return to the crypto industry, because the switch of use - once made - is expensive to undo.\n\nIndustry analysts say Bitcoin mining companies have been pivoting to AI because they have years of experience in finding cheap electricity and efficiently running large data centres.\n\nTerraWulf, Ionic Digital, Core Scientific, Iris Energy, Bitdeer, Riot Platforms and Hut 8 are just some of the companies increasingly diverting investment and infrastructure from bitcoin mining towards AI.\n\nRiot Platforms signed a $9bn, 20-year compute deal with Anthropic earlier this month.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\n\"The sound of money. Digital money\" - inside Kazakhstan's giant crypto-mine\n\nCompany names and websites are changing to reflect the shift too.\n\nApplied Blockchain has become Applied Digital.\n\nTerraWulf's website once described the firm as an \"infrastructure-focused bitcoin mining company\".\n\nIt now says it focuses on \"next-generation AI and high-performance computing\".\n\nEnegix, which opened a huge Bitcoin mining site in Kazakhstan to great fanfare in 2020, is now pivoting too.\n\n\"Today, we are moving confidently towards artificial intelligence and planning the gradual alignment of our energy and infrastructure capabilities, both in Kazakhstan and elsewhere, towards the development of AI infrastructure,\" said the company's chief executive Yerbolsyn Sarsenov.\n\nEnegix says it is in active discussions with AI and HPC (high-performance computing) companies and planning to transform a \"significant\" portion of the business to AI.\n\nBut refitting crypto mines for AI is expensive and in some cases the companies have had to sell some of their Bitcoin holdings to fund the switch.\n\nCrypto mining companies can house tens of thousands of powerful computers\n\nWolfie Zhao from The Energy Mag - a publication that rebranded from The Miner Mag to reflect the trend - predicts the industry pivot will continue even as the price of Bitcoin has risen in recent days.\n\n\"We expect to see many public miners continue winding down their Bitcoin mining hardware in the coming quarters,\" he said.\n\nAsked if the shift away from Bitcoin mining might affect the security or stability of the cryptocurrency, Zhao said he hoped more miners will enter the market as conditions improve.\n\nBut he predicted many of the big players would not easily be able to switch back to Bitcoin.\n\n\"Once that multi-gigawatt power infrastructure has been retrofitted to AI or HPC colocation, there is no turning back,\" he said.\n\n\"You can unplug from the Bitcoin network any time but signing a GPU colocation lease for 10 or 20 years means steady revenue and a commitment to keep the infrastructure up for the tenants.\"\n\nBitdeer, which claims to be the largest Bitcoin miner in the world, just announced a 16-year deal to provide compute for Anthropic.\n\nBut the company's chief strategy officer, Haris Basit, said Bitdeer will continue mining Bitcoin, believing many operators would ultimately pursue a dual-purpose model.\n\n\"Bitcoin mining is particularly well suited to that model because it is flexible and interruptible, while AI workloads can provide longer-duration contracted revenues,\" he said.\n\nBrit says he is not elusive Bitcoin creator named by New York Times Published 8 April\n\nBitcoin surges past $100k for first time Published 5 December 2024\n\nWhat is AI and how does it work?\n\nSign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here .\n\nRelated topics\n\nArtificial intelligence\n\nCryptocurrency\n\nBitcoin",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2238,7 +2340,7 @@
       "id": "a3044d192d773bdd",
       "title": "Reform says it will prioritise British-born workers for social housing",
       "summary": "Labour called the plan \"unserious and unworkable\" and accused Reform of pushing \"gimmicks and division\".",
-      "contentStatus": "Freely readable article text extracted from publisher page",
+      "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo",
       "source": "BBC Politics",
       "publisher": "BBC",
@@ -2252,14 +2354,11 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 891,
-      "readingMinutes": 5,
-      "isShort": false,
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/098c/live/b1e152d0-8819-11f1-981c-7d4dd1ef3d1d.jpg",
-      "body": "Published 23 August 2026\n\nReform UK has said it will prioritise British-born workers under 35 when allocating social housing if it were to enter government.\n\nOn top of British-born workers, former military service personnel and married couples with children will also be prioritised, Reform said.\n\nA Labour spokesperson called the plans \"unserious and unworkable\", saying it could leave British citizens without a home.\n\nDeputy leader Richard Tice has also set out plans to build 50,000 affordable social homes a year at a news conference, a policy which the party says will require no new taxes or borrowing.\n\nFarage vows to ban foreign nationals from social housing Published 15 June\n\nReform plans to scrap indefinite leave to remain for migrants Published 22 September 2025\n\nTice said he wanted the rules on who was allocated a home to be changed away from need to suitability, putting British families, workers and veterans at the front of the queue, saying: \"This comes down to fairness.\"\n\n\"We're saying that the first people we should be looking after are young, British workers - under 35, young British married couples, young British veterans - who have done the right thing,\" he said.\n\n\"They've got a job, they're doing their best, working in their community, setting a fine example, because the role of the British government is actually to look after British citizens first.\"\n\nRules would be changed to reserve at least half of all social homes in England for British-born workers aged under 35, with prioritisation also given to married couples, veterans, victims of domestic violence and care leavers.\n\nTice claimed there were currently 540,000 existing affordable social homes occupied by overseas nationals and he wanted that to change.\n\n\"It's not fair that young British working families can't get on the housing ladder when overseas nationals have come to the UK and, because of the current rules based on need rather than suitability, they have jumped ahead in the queue,\" he said.\n\n\"We just don't think that's right: I can't think of another country where you rock up with a family and you expect the local taxpayer in that country to pay for your housing needs.\"\n\nUK or Irish nationals made up 88.5% of main social home householders in 2024/25, according to the English Housing Survey.\n\nThat means around 11.5% of main householders, the per­son in whose name the social home is ren­ted, were non-UK or Irish nation­als.\n\nFor its part, Reform estimates 540,000 social homes are currently occupied by foreign nationals.\n\nReform has previously announced it would evict foreign nationals from social housing - a plan criticised by housing charity Shelter which said building more homes is the solution, rather than \"changing the order of the queue\" and \"stoking division\".\n\nTice also said Reform would raise £10bn a year to build new homes, in part by reintroducing the Right to Buy scheme of the 1980s, allowing people to buy council homes at a discount.\n\n\"The failure then was they didn't reinvest the proceeds into building more affordable homes,\" he said, adding he believed reinvestment would raise a third of the investment needed to build 50,000 homes a year over a decade.\n\nTice said another third would be raised via housing authorities, and the final third would be money from local government pension schemes.\n\nA Labour Party spokesperson said the plan was \"unworkable and unserious\", adding: \"It would blow a £10bn blackhole in the public finances, would create years of wrangling with the EU, and could leave British citizens without a place to call home.\n\n\"This Labour government is investing billions to deliver the biggest boost to social and affordable housing in a generation, to fix the housing crisis we inherited from the Tories.\"\n\nThe Conservative Party, which also said it would revoke the right of foreign nationals to social housing, accused Reform of \"trying to catch up\" with its policies.\n\nThe Tories have said their plan, which would allow Irish citizens and some EU nationals to remain in social housing, would free up around 230,000 homes.\n\nSir James Cleverly, shadow housing secretary, added: \"The Conservatives have already set out comprehensive plans to ensure British nationals are at the front of the queue for social housing. Now Reform are trying to catch up.\n\n\"We also believe in a home owning society and that those who work hard should be able to buy their own home, without unnecessary barriers standing in their way.\"\n\nLiberal Democrat spokesperson Gideon Amos said that Reform's plan was a \"cruel gimmick\".\n\nGreen MP Siân Berry said her party would tackle housing issues by ending Right to Buy, building and buying hundreds of thousands of new council homes, and introducing rent controls.\n\nShe added: \"Another blatantly racist and cruel policy from Reform, adding to a host of plans to create a two-tier Britain – one for those born in the UK and one for everyone else.\"\n\n'Each empty home shows there is a problem' - housing leaders call for action Published 23 February\n\n'There are dozens of empty homes but families like mine are living in limbo' Published 10 February\n\nLondon falling short on family homes, report warns Published 29 January\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nRichard Tice\n\nUK immigration\n\nReform UK\n\nSocial housing",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/098c/live/b1e152d0-8819-11f1-981c-7d4dd1ef3d1d.jpg"
     },
     {
       "id": "4d22f7df75939f73",
@@ -2624,6 +2723,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99ae/live/16b58d20-9189-11f1-8e84-2d20095c7a4b.jpg"
     },
     {
+      "id": "6371fa062f676375",
+      "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
+      "summary": "\"[P]eople are not familiar with this disease and don’t fully understand the potential severity.\"",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-08-25T17:39:38Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg"
+    },
+    {
       "id": "5d019d4618126fa1",
       "title": "VW workers boo boss as he urges them to ‘pull together’ amid job cuts",
       "summary": "Oliver Blume faces workforce at German HQ as carmaker struggles against Chinese competition and US tariffs The chief executive of Volkswagen has faced boos and whistles of protest at the company’s headquarters after telling thousands of workers that a comprehensive reorganisation, which could include job losses and factory closures, is vital for its future. As Oliver Blume urged more than 10,000 workers on Tuesday to “pull together”, saying drastic restructuring measures at the struggling manufacturer were essential, they held up banners and shouted slogans, including: “Our jobs are not your balance sheet adjustments”. Continue reading...",
@@ -2840,6 +2963,29 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg"
     },
     {
+      "id": "b0573c6b32fcf80f",
+      "title": "China: Dissident artist jailed for satirical Mao sculptures",
+      "summary": "Sculptor Gao Zhen was charged under China's \"Law on the Protection ⁠of Heroes ​and Martyrs.\" His supporters have called for his immediate release.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/china-dissident-artist-jailed-for-satirical-mao-sculptures/a-78502724?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-26T03:46:00Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 23,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "b33807894fdfb58e",
       "title": "Jersey earnings rise by 1.2% after inflation",
       "summary": "Statistics Jersey says the increase is \"slightly lower\" than the long-term annual average.",
@@ -2957,30 +3103,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p5nx31.jpg"
-    },
-    {
-      "id": "371c9cd3d9ccf052",
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-23T19:11:30Z",
-      "category": "Economics",
-      "region": "Canada",
-      "labels": [
-        "Economics",
-        "Canada"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg"
     },
     {
       "id": "26870a50c4bda347",
@@ -3554,29 +3676,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32e3/live/0854ea30-a095-11f1-91dc-4919512f173f.jpg"
-    },
-    {
-      "id": "3736df89263826cd",
-      "title": "Israeli forces block Palestinian American Lou Ridi from walking on his land",
-      "summary": "Israeli forces told Palestinian American Lou Ridi he cannot walk on his own land in Qusra, while settlers roam freely.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-forces-block-palestinian-american-lou-ridi-from-walking-on-his-land?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-25T19:27:00Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "62fce5528e6ebe86",
@@ -4923,102 +5022,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8592/live/96f26f60-a004-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "c990efb84d80b64a",
-      "title": "CrossCountry train services resume after outage",
-      "summary": "It follows major national rail disruption at the weekend.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-24T06:41:05Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 9,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183e/live/5b94c360-9f1d-11f1-b2a2-8945a27a2843.jpg"
-    },
-    {
-      "id": "ccda0c3d19fc6d77",
-      "title": "‘The line’s running half-empty’: Llanwern steelworks feels the heat from cheap steel imports",
-      "summary": "New quotas to protect UK firms and jobs appear to be having opposite effect in products such as galvanised steel At Tata Steel’s factory in Llanwern, south Wales, production lines that should be running full-time are now falling quiet for parts of the day, with workers being put on to maintenance and cleaning work while machines sit idle. There aren’t enough orders to keep them running all the time, the company says, because of a surge of cheap steel coming from Asian countries that is threatening the viability of several UK sites that make similar products, and risk hundreds of jobs. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/aug/23/llanwern-steelworks-cheap-steel-imports",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-08-23T09:00:28Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 103,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/856b69779d22d8d1be890c05fad609aba421ef88/549_0_4367_3496/master/4367.jpg?width=700&quality=85&auto=format&fit=max&s=8e2553c34ae79150ac3f7ffaff42e38d"
-    },
-    {
-      "id": "d2ee42167f4a8c9e",
-      "title": "Tesla recalls nearly 3m vehicles in China over door handle safety risks",
-      "summary": "Recall comes after Chinese authorities said it would ban hidden car door handles commonly seen on Tesla models Tesla and other carmakers are making a major recall of more than 4m vehicles in China over safety concerns mostly related to their door handles, according to Chinese authorities on Friday. The US carmaker is recalling about 2.98m China-made and imported EVs including Model 3, Model Y, Model X and Model S over door-handle safety risks, according to China’s state administration for market regulation. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/technology/2026/aug/21/china-tesla-vehicle-recall",
-      "source": "The Guardian China",
-      "publisher": "The Guardian",
-      "published": "2026-08-21T23:48:16Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 85,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/eef966c87a2b81da8bc545e8e962ec875af8451d/821_0_4815_3854/master/4815.jpg?width=700&quality=85&auto=format&fit=max&s=8a0cfce782b4389784c99fd813fddf40"
-    },
-    {
-      "id": "752025fdb6fc1016",
-      "title": "'I didn't speak the Queen's English': Why people worry about their accents",
-      "summary": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c05q318501yo",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-08-23T23:25:44Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c25/live/273206a0-9f86-11f1-82a0-8dbe1008b861.jpg"
     }
   ],
   "sourceStatus": [
@@ -5059,8 +5062,8 @@
     },
     {
       "source": "UN News",
-      "ok": false,
-      "error": "not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 30
     },
     {
       "source": "The Guardian China",
