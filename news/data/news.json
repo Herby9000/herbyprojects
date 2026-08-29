@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-29T13:49:31.755235Z",
+  "generatedAt": "2026-08-29T19:24:11.004504Z",
   "topStoryIds": [
-    "23352ef1f387d4ef",
+    "ec5e1db94d4ab85f",
     "b31c84b606afaeeb",
     "375dd164d60db0db",
     "a10fdf5f82d50879",
@@ -12,12 +12,11 @@
   ],
   "sectionStoryIds": {
     "Politics": [
-      "23352ef1f387d4ef",
+      "ec5e1db94d4ab85f",
       "59fc8ffecf671eee",
       "6c909581402995c7",
       "d99d8dfa644e7d77",
       "111279d10282c381",
-      "54275a31ae4a08bc",
       "70042fccd9a30ed1"
     ],
     "Tech": [
@@ -36,18 +35,18 @@
       "1cb82da4e454eb0a"
     ],
     "Sports": [
+      "ed229304ae12697c",
+      "2431af0d98f1c620",
       "ae82a1cfd5795618",
       "0f0e07e0e5713703",
       "1e3c4c04549a5cd9",
-      "5eeb108a7665cec3",
-      "2431af0d98f1c620",
       "7174933002dd94ea",
       "1855963362103a9e",
       "b684510f8c7bdfee",
       "2dab14996a55b5c3",
       "ff1686c34d0217e8",
-      "d5d69adfd6e0fea8",
-      "74ea9f6b275ae44b"
+      "ef668ef890d48f00",
+      "8d43828ba6c29664"
     ],
     "Editorial": [
       "a746ad08898420a9",
@@ -63,14 +62,14 @@
   },
   "stories": [
     {
-      "id": "23352ef1f387d4ef",
-      "title": "Nepal-Tibet floods: number of missing climbs to nearly 3,000 as search for survivors enters fourth day – latest updates",
-      "summary": "Nepali minister says cost of rebuilding likely to be billions of dollars as death toll rises above 650, with seven confirmed dead in Tibet ‘The flood took everything I have’: survivors grieve for relatives and homes swept away in Nepal Chinese rescuers find ‘nothing but ruins’ at border crossing as Nepal seeks help to ID and store the dead Outside the army camp in the Nuwakot district of Nepal, people run their fingers down the sheets of paper pinned to the wall, scanning the growing list of those reported missing for news of loved ones. Nepali authorities said nearly 3,000 people are missing, while China reported more than 550 people unaccounted for. Nepal’s foreign minister, Shisir Khanal, has appealed for international support to help rebuild the country after the floods, saying reconstruction efforts could run into “billions of dollars” AFP reports. Continue reading...",
+      "id": "ec5e1db94d4ab85f",
+      "title": "Nepal-Tibet floods: Nepal calls for technical support for rescue efforts as number of missing rises to nearly 3,000 – latest updates",
+      "summary": "Nepali government says India and China are sending expert tunnel rescue teams, as minister estimates cost of rebuilding could be billions of dollars ‘The flood took everything I have’: survivors grieve for relatives and homes swept away in Nepal Chinese rescuers find ‘nothing but ruins’ at border crossing as Nepal seeks help to ID and store the dead Outside the army camp in the Nuwakot district of Nepal, people run their fingers down the sheets of paper pinned to the wall, scanning the growing list of those reported missing for news of loved ones. Nepali authorities said nearly 3,000 people are missing, while China reported more than 550 people unaccounted for. Nepal’s foreign minister, Shisir Khanal, has appealed for international support to help rebuild the country after the floods, saying reconstruction efforts could run into “billions of dollars” AFP reports. Continue reading...",
       "contentStatus": "Freely readable article text extracted from publisher page",
       "url": "https://www.theguardian.com/world/live/2026/aug/29/nepal-tibet-floods-latest-updates-death-toll-missing-search-and-rescue",
       "source": "The Guardian China",
       "publisher": "The Guardian",
-      "published": "2026-08-29T13:34:30Z",
+      "published": "2026-08-29T19:15:49Z",
       "category": "Politics",
       "region": "China",
       "labels": [
@@ -80,12 +79,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 3047,
+      "wordCount": 2930,
       "readingMinutes": 14,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/f85b1de07c335b70c26b72506854202a5c6b4667/537_0_6741_5393/master/6741.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=597f45b192be5e068848867ad35908ba",
-      "body": "Outside the army camp in the Nuwakot district of Nepal, people run their fingers down the sheets of paper pinned to the wall, scanning the growing list of those reported missing for news of loved ones. Nepali authorities said nearly 3,000 people are missing, while China reported more than 550 people unaccounted for.\n\nNepal government calls for specialised assistance from neighbouring countries to aid rescue efforts\n\nThe Nepalese government has requested s”pecific and specialised assistance” from neighbouring countries to aid search and rescue efforts.\n\nThis includes assistance with opening tunnels where people are trapped, technologies that can help locate people alive in affected areas, rapid forensic and DNA analysis, and mortuary facilities for the proper storage of bodies, Nepal’s ministry of foreign affairs said in a statement.\n\nIt added: “An 11-member specialised technical reconnaissance team for tunnel rescue from India has been mobilised and a tunnel rescue team from China is expected to arrive very soon.”\n\nDeath toll in Nepal rises to 669\n\nThe Nepali disaster agency has given an update on the number of those killed in Nepal, which has risen to 669, the Associated Press reports. With the seven people confirmed as having lost their lives in Tibet – where information is under the strict control of Chinese authorities – that brings the death toll for the disaster to 676. The number of people missing was revised up to nearly 3,000 on Saturday: 2,426 in Nepal and 554 in Tibet.\n\nAP has reported some comments from Nepali army spokesperson Brig Gen Raja Ram Basnet about the rescue efforts at the Trishuli-1 hydropower tunnel in the Rasuwa district (see post at 9:27 ). Authorities believe more than 100 people are trapped in the tunnel filled with thick mud.\n\nBasnet said rescuers had used baskets and ropes to reach some people, but the operation remained difficult because of about 1.2 to 1.5 metres (4-5ft) of mud and the limited number of places where helicopters could land.\n\nHe said rescue teams had also been forced to relocate temporarily when authorities issued warnings about possible further flooding.\n\nThis extraordinary composite satellite image captured by Planet Labs shows the glacier on Mount Langtang Lirung in Nepal before and after its collapse on Wednesday, with the left image taken on Tuesday 25 August and the right on Friday 28 August:\n\nThe Britons believed to be among the thousands missing in Nepal\n\nPA has put together a list of some of the Britons believed to be missing in Nepal , including a 13-year-old girl, NHS workers and a priest:\n\nHema Amin , from Croydon, south London, who started a pilgrimage to Gosainkunda lake on Monday that was supposed to last until 4 September. The 63-year-old’s husband, Sunil Amin, told Sky News: “I keep trying to call her. I’ve been trying, trying, trying.”\n\nHemangini Patel, 65, who had been with Amin on an Alpine Eco Trek tour when the flooding hit, her daughter told the BBC. She said her mother’s last known location is from a video from TikTok which was shared as she crossed into Tibet .\n\nBipin, 66, and Mala Patel , 60, from Coventry, went missing after travelling to Nepal and Tibet on a pilgrimage to the sacred Hindu site of Mount Kailash. Their son, Deepesh Patel, told PA the family last heard from the couple on Tuesday and their last known location was in the Gyirong area of the Nepal-Tibet border.\n\nSpandan Sahu, 18, his father, Santosh Sahu , 46, his mother, Surabhi Manmath Padhy , 44, and sister Syna Kumari Sahu , 13, from the Surrey village of Cobham, are thought to be among the missing. A neighbour described them as a “lovely family”.\n\nNabhi Nandan Das , a Hindu priest from south London, was leading a group on a tour to Mount Kailash and Lake Mansarovar. The Telegraph reported that the 64-year-old priest, who lives in Streatham and works at the Sanatan Mandir and Community Centre in Coulsdon, Surrey, was leading 11 Britons, including the missing 13-year-old girl, on the tour.\n\nPavan and Kavita Haldia were sightseeing in Kathmandu before setting out on a pilgrimage with the Sanatan Mandir group, their 22-year-old son Prajval told BBC Radio 4’s Today programme. He said he last spoke to them on Tuesday on the phone and had a message from his parents on Wednesday morning, around an hour before the flood is believed to have hit.\n\nLeena Bector, 53, a director of a care agency from Slough, west London, is among 27 travellers associated with the Fishtail Tours and Travels group currently unaccounted for. Her husband, Bhupesh Bector, told The Times: “I know that she’s in Nepal for sure … so even if they find her today or tomorrow, I need to be there.”\n\nSarada Simkhada , a senior nurse at Darent Valley hospital in Kent, was in Nepal making a pilgrimage to Mount Kailash. Her brother Shambhu wrote on social media: “My dear sister, wherever you are, please stay strong. We are praying for your safety every moment and waiting desperately for you to return home.”\n\nPravin Atmakur , a 54-year-old NHS psychiatry consultant, was leading a pilgrimage of 77 people to Mount Kailash when the flood hit, according to the Telegraph. His wife, Manjula, has travelled to Kathmandu from the UK to search for her husband, the newspaper said.\n\nSumitra Sapkota is believed to missing, her husband, Pramod Poudel, 24, said. He flew to Nepal on Thursday to search for her as well as his mother, uncle and brother. Poudel, who runs a Nepalese street food company in Sussex, told The Telegraph: “I haven’t heard from them because there’s no power or anything. I am very sad.”\n\nNeetu Goyal Tiwari , 51, had been travelling with a group from the spiritual organisation Isha Foundation and was expected to travel to India on Thursday and meet her brother and parents. Her brother, Naresh Goyal, told the BBC his sister has not been seen since Wednesday and that completing the pilgrimage was “her dream”.\n\nGeetha Reddy’s husband, Vikram Kolagatla, from London, told the BBC he has not heard from his wife since the flooding hit. She has two daughters aged 12 and 14. “The kids still don’t believe it,” Kolagatla said. “They think she’s stuck in the flood and that she’ll come back.”\n\nAuthorities in Nepal have said 33 UK citizens are among the thousands missing after Wednesday’s devastating flash flood.\n\nA Chinese rescue team has reached the all-but-obliterated Gyirong border crossing complex for the first time and found “nothing but ruins” as Nepal and China continue their arduous rescue operations in the flood-hit Himalayas.\n\nSurveillance camera footage from the worst-hit Gyirong border crossing complex showed huge torrents of water and debris on Wednesday engulfing buildings and people trying to flee. Only ⁠on Friday were rescuers able to reach the area.\n\nState media reported that the Chinese team of 21 rescuers and a search-and-rescue dog crossed mountains and valleys and used ropes to navigate forests and cliffs after roads to the complex, hemmed in by steep Himalayan slopes, were destroyed.\n\nZou Mingqi, a rescue worker, said: “There was no road … it was all virgin forest and sheer cliffs.” At the complex, “as far as the eye could ⁠see, there was nothing but ruins”.\n\nRead more:\n\nOutside the army camp in the Nuwakot district of Nepal, people run their fingers down the sheets of paper pinned to the wall, scanning the growing list of those reported missing for news of loved ones. Nepali authorities said nearly 3,000 people are missing, while China reported more than 550 people unaccounted for.\n\nNepal official says reconstruction efforts could total 'billions of dollars'\n\nNepal’s foreign minister, Shisir Khanal, has appealed for international support to help rebuild the country after the floods, saying reconstruction efforts could run into “billions of dollars” AFP reports.\n\nWe reported earlier that Nepal’s finance minister, Swarnim Wagle , said the country could need up to $5bn to rebuild, while stressing that the figure was “just an estimate” as “loss and damage is being assessed”.\n\nKhanal told reporters in Kathmandu that reconstruction and rehabilitation “would entail perhaps billions of dollars”, adding: “We will do loss and damage research and then we plan, but I am reaching out to our international community for support.”\n\nAuthorities in Nepal’s Chitwan district are preparing to bury the bodies recovered from riverbanks after being swept downstream by devastating floods three days ago.\n\nOfficials said 229 unidentified bodies were “in a state of decomposition and no longer identifiable” , raising concerns about the health risks posed by the remains as they are prepared for burial.\n\n“DNA samples will be collected, and the bodies will be buried in an open space,” the Chitwan district administration said in a notice, according to local media.\n\nNepal’s foreign minister, Shisir Khanal, said yesterday that more bodies are likely to be recovered from Chitwan and nearby Nawalparasi district, where hospitals “have been overwhelmed with ​dead bodies and lack refrigerators to store them”.\n\nThis is an interesting piece in the Conversation by Dibyesh Anand , professor of international relations and deputy vice-chancellor at the University of Westminster, about how China’s control over Tibet can make it harder for Nepal and other countries downstream to prepare for sudden Himalayan disasters, such as glacial lake outburst floods.\n\nTibet is governed by China , which took control of the previously self-governing region by force in the early 1950s. Nepal shares a long, mountainous border with Tibet, and the two regions are closely connected by their geography, rivers and trade, making events on the Tibetan plateau particularly significant for communities downstream in Nepal.\n\nAnand writes:\n\ndouble quotation mark Despite warm relations with Beijing, and the Nepalese government’s assurances that it follows the “One China” principle and permits no support for Tibetans , China’s tight control over Tibet creates complications. The region is administered as a militarised frontier . Access runs on permits and clearances, the area is closely watched by armed police and the military and outsiders – foreign journalists, independent researchers, at times even diplomats – are routinely kept out. Tibet is an information black hole. Beijing’s anxiety extends across the border as Nepal is home to more than 10,000 Tibetan refugees and has long been the main escape route out of Tibet. China pressurises Nepal to police Tibetan activism, seal crossings and fold border management into a security partnership meant to insulate the plateau from the outside world. The glacial and hydrological data from the Tibetan plateau, the information often needed to anticipate flooding, is also treated as strategically sensitive by China and is closely held . Nepal has no mechanism to receive real-time glacial lake and river data from the Chinese side and its officials have sometimes gone further, accusing Beijing of withholding it. When a disaster in the Nepal-Tibet border region demands that rescuers cross quickly or that a warning travel downstream from an upstream lake, it runs into a system built for control rather than speed.\n\nThe Guardian’s senior China correspondent Amy Hawkins also writes about how China’s tight control over information and restrictions on journalists in Tibet have made it difficult to independently assess the full extent of the flooding and damage on the Chinese side of the border. You can read her report here:\n\nSearch and rescue efforts intensify to locate people trapped inside mud-filled tunnel\n\nThe Nepalese government said the army is digging through the thick mud that has filled a hydropower tunnel where people are believed to be trapped inside.\n\n“The work to open the tunnel’s entrance has been intensified since early on Saturday morning,” the Nepalese prime minister’s office said in a post on Facebook.\n\nA team of 82 personnel from the Nepalese army and police “has been continuously working since last night to excavate the tunnel entrance and accelerate the search operation”, it added.\n\n“The rescue efforts, however, have been made extremely challenging by the persistently adverse weather in the area.”\n\nIt was not immediately clear how many people remain trapped inside the tunnel. The Nepalese government said two people were pulled from the mud yesterday, with footage of the dramatic rescue operation shared on social media. You can watch that here:\n\nIndia said it is increasing surveillance of glaciers and glacial lakes in its Himalayan regions bordering Nepal and China.\n\nThe deadly floods on the Nepal-Tibet border were believed to have been triggered by a glacial collapse that was detected as a magnitude 5.2 seismic event by geologists. You can read this explainer to find out more about how a collapsing glacier can generate a powerful flood, and whether the climate crisis is contributing to the risk.\n\nMadan Kaushik, state disaster management minister in India’s Himalayan state of Uttarakhand , said: “Since we share a border with Nepal , as a neighbour, and also have a similar geographic situation … we have asked our department to monitor all the glaciers and known glacial lakes in the region.”\n\nUttarakhand is one of the most ecologically sensitive regions of India, with 1,266 glacial lakes. As glaciers melt, water can accumulate in lakes held back by natural barriers. If those barriers fail, vast volumes of water can be released suddenly, triggering devastating floods.\n\n“We have asked our teams to be vigilant and monitor if a similar situation is emerging anywhere in the state,” Kaushik told AFP.\n\n‘The flood took everything I have’: survivors grieve for relatives and homes swept away in Nepal\n\nThe Guardian’s south Asia correspondent Hannah Ellis-Petersen and journalist Gaurav Pokharel report from the Nepalese town of Bidur, where rescue efforts are being coordinated. They spoke to survivors mourning loved ones and confronting the loss of their homes and livelihoods after devastating floods swept through their communities.\n\nAmong those caught in the floods was Sangke Dolma Tamang, who described the moment she watched her husband being swept away and returned to find her home and village destroyed:\n\ndouble quotation mark Sangke Dolma Tamang, 61, had been cheerily cooking snacks in her village of Mailung in the Rasuwa district when the floods came without warning. The whole family ran uphill for safety, but as she grabbed for her husband, he slipped from her grip and was washed into the dark, fast-moving waters. “Others tried to pull him to safety, but the flood swept him away,” she said, tears rolling down her weathered cheeks. There was, she said, nothing left of her village now. She had spent a night sheltering on higher ground, until an army helicopter arrived and brought to her safety at the barracks. Her son too was missing since the disaster, and she waited anxiously for any news. “Now I have nothing left to live for,” said Tamang. “The whole house is gone. We couldn’t salvage anything.”\n\nRead more:\n\nNepal’s government has appealed for financial help as it faces the daunting task of recovering from the devastating flash floods and braces for the possibility of more flooding.\n\nEntire communities have been swept away, leaving families homeless or sheltering in temporary facilities.\n\n“Multiple bridges have been washed away and major roads disrupted, leaving some of the worst-affected communities extremely difficult to reach,” the Red Cross says.\n\nAt least 18 schools have been destroyed and another 20 damaged, leaving about 10,000 school-age children affected, according to the UN Children’s Fund.\n\nThe disaster comes just ahead of the anniversary of last year’s 8-9 September mass anti-corruption protests that toppled the government.\n\nNepal is now led by prime minister Balendra Shah, a 36-year-old rapper turned politician widely known as “Balen”. The former Kathmandu mayor swept March elections on a wave of euphoria calling for political change.\n\nThe risk of a lake formed after the glacier collapse bursting near the China-Nepal border where the ⁠devastating flood occurred earlier ⁠this week has decreased, ​Chinese authorities said today, as its size appears to have shrunk.\n\nSatellite images from Thursday this morning suggest water in the lake – straddling the China-Nepal border ⁠at the confluence of two rivers – has been slowly flowing through, decreasing the reservoir gradually, state broadcaster CCTV reported, citing the water resources ministry.\n\nThe ministry said satellite imagery of the surface area of the ⁠lake at Purepu Tsangpo river showed it was 99,000 sq metres in size this morning – around the size of ​14 football fields combined – having shrunk by 21,000 sq metres compared ‌with images from Thursday.\n\nExperts and authorities have warned of the extremely high risk of secondary disasters in the valley, especially from the lake that was formed by glacier debris, potentially endangering rescue operations downstream.\n\nState-owned engineering and rescue enterprise China Anneng, which has been monitoring the lake since Thursday, dispatched a 15-member team on Friday with reconnaissance drones, portable satellite stations and mobile surveillance cameras to gather more data about the ‌lake.\n\nAn overflow from the lake on Friday temporarily halted rescue work before further assessment deemed the risks manageable.\n\nOpening summary\n\nThank you for joining us for our continuing coverage of the aftermath of Wednesday’s catastrophic flash floods in the Himalayan mountains near the Nepal-Tibet border.\n\nPoor weather has hampered aerial rescue operations in Nepal as the search for thousands of people missing enters its fourth day.\n\nNepal’s finance minister says his country will need up to $5bn to rebuild ⁠after the ⁠floods, believed to have been caused by a melting glacier high up in the mountains that set off a deadly cascade of water into the valleys below.\n\nFinance ‌minister Swarnim Wagle told Reuters ‌today those figures are “just an ​estimate” and that “loss and ⁠damage is ​being assessed”.\n\nHere’s a summary of what we know so far:\n\nNearly 3,000 people are missing . Nepal’s disaster agency on Saturday said 2,426 people were missing on its side of the border, while China’s Xinhua news agency reports the total number of missing in Tibet is now 554.\n\nThe death toll in Nepal has now risen to 626 , while China’s Xinhua news agency earlier today reported seven people confirmed dead in Tibet.\n\nMore than 3,700 people have been rescued in Nepal so far but at least 93,000 people are estimated to have been affected by the disaster, according to the Red Cross.\n\nAt least 777 foreigners are missing , with Nepal’s disaster agency on Friday reporting 517 foreigners unaccounted for – which could include tourists and foreign workers – and Chinese officials putting the number of foreigners missing at 260.",
+      "imageUrl": "https://i.guim.co.uk/img/media/81756ddc6447e58df37274f52fe2c34e1a22c386/746_0_4169_3334/master/4169.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=0169591e4aa1a6e6554add5f9add5928",
+      "body": "Nepal government calls for specialised assistance from neighbouring countries to aid rescue efforts\n\nThe Nepalese government has requested “specific and specialised assistance” from neighbouring countries to aid search and rescue efforts.\n\nThis includes assistance with opening tunnels where people are trapped, technologies that can help locate people alive in affected areas, rapid forensic and DNA analysis, and mortuary facilities for the proper storage of bodies, Nepal’s ministry of foreign affairs said in a statement.\n\nIt added: “An 11-member specialised technical reconnaissance team for tunnel rescue from India has been mobilised and a tunnel rescue team from China is expected to arrive very soon.”\n\nHere's a recap of what we know so far:\n\nNearly 3,000 people are missing . Nepal’s disaster agency on Saturday said 2,426 people were missing on its side of the border, while China’s Xinhua news agency reports the total number of missing in Tibet is now 554. This includes at least 777 foreigners and 933 workers on hydropower projects on the river where the torrent smashed down.\n\nThe death toll in Nepal has now risen to 675, the country’s disaster authority has said. China’s Xinhua news agency earlier today reported seven people confirmed dead in Tibet– where information is under the strict control of Chinese authorities – that brings the death toll for the disaster to 682.\n\nMore than 3,700 people have been rescued in Nepal so far but at least 93,000 people are estimated to have been affected by the disaster, according to the Red Cross.\n\nThe risk of a lake formed after the glacier collapse bursting near the China-Nepal border has decreased. Satellite images suggest water in the lake – straddling the China-Nepal border ⁠at the confluence of two rivers – has been slowly flowing through, decreasing the reservoir gradually, state broadcaster CCTV reported, citing the water resources ministry.\n\nPeople warned against drone use in flood-hit areas, BBC reports. Nepal’s disaster response agency has warned people against flying drones in flood-hit areas, saying unauthorised drones operating in affected areas are, “posing serious safety risks” to rescue helicopters and interfering with search operations.\n\nNepal rescuers send air pipe into tunnel with trapped workers. Nepali army rescuers sent air pipes into tunnels, in the hopes of reaching missing hydropower workers, AFP reported . Rescue efforts are focused on the Trishuli 3A and 3B sites.\n\nNepal’s government has appealed for foreign support to aid rescue efforts. This includes financial aid and freezers to preserve bodies. Nepal’s foreign minister, Shisir Khanal, says reconstruction efforts could run into “billions of dollars” AFP reports. He added, “We will do loss and damage research and then we plan, but I am reaching out to our international community for support.”\n\nAuthorities seek freezers to preserve bodies amid rescue missions – BBC\n\nThe Nepali foreign minister, Shisir Khanal , has asked for foreign support to help provide freezers to preserve the bodies of flood victims, as they work to identify and reunite them with their loved ones, BBC reports .\n\nKhanal said as rescue missions continue, authorities are facing the challenge of “very limited” space to preserve bodies.\n\n“There is a risk of fast decomposition because these bodies have been in water for a long time,” he said.\n\nHe says he is seeking active support from foreign governments to find ways to help preserve the bodies.\n\nThe death toll has surpassed 600 with more than 3,000 people still missing.\n\nAussie found safe as rescuers search for missing\n\nAn Australian woman unaccounted for in the Nepal flooding disaster has been safely located by Australian consular officials.\n\nCara Severino made contact with Australian officials on Saturday and is safe, Foreign Minister Penny Wong confirmed in a post shared to social media.\n\n“I spoke directly with her a short time ago and am very pleased to know she is safe,” Wong posted.\n\n“This is a rare piece of positive news amid a disaster that has brought immense loss and uncertainty,” she added.\n\nWong concluded her post reiterating Australia’s commitment to work closely with local authorities to locate and assist those affected.\n\nPeople warned against drone use in flood-hit areas – BBC\n\nNepal’s disaster response agency has warned people against flying drones in flood-hit areas, BBC reports .\n\nThe agency says unauthorised drones have been operating in affected areas, “posing serious safety risks” to rescue helicopters and interfering with search operations.\n\nAnyone flying drones without permission will face legal action, the National Disaster Risk Reduction and Management Authority (NDRRMA) says.\n\nDaughter traces mother and aunt’s last known location in Nepal through TikTok video\n\nThe daughter of a woman missing in Nepal has shared how she traced her mother’s location through a TikTok video posted hours before the devastating flash flood hit.\n\nTulshi Patel’s mother, Hemangini Jitendra Patel, and her aunt, Hema Sunil Amin, set off on a pilgrimage in which they had planned to travel into Tibet but the pair have not been contactable since the flash floods hit.\n\nPatel, a pharmacist from Milton Keynes, England, said in an interview with LBC’s Matt Frei that she had last spoken to her mother and aunt on Monday, had received a photo of them on Tuesday, and their last known location had come from a GPS signal from the tour group at a place called Friendship Bridge at the Nepal-China border.\n\n“We did our own deep-dive research and we found a TikTok video that verified and showed my mum and auntie and three other people from the tour at the border waiting to cross, I guess, that the local Nepali tour guide had made,” Patel said.\n\nPatel said she had messaged the two women “in the hopes that maybe we’ll see a tick to say they’ve seen it or read it” and had attempted to contact the tour guide: “We’ve messaged the tour guide in case he has a signal because he’ll have a local Sim as well.\n\n“Every day we’re calling via WhatsApp … We’ve not given up, but, from our end, all we can do is research, but we just need kind of eyes and ears there from our side to basically get them out. Get all of them out and safe.”\n\nNepal rescuers send air pipe into tunnel with trapped workers\n\nNepali army rescuers sent air pipes into tunnels, in the hopes of reaching missing hydropower workers, AFP reported .\n\nNepal’s government says more than 100 workers may still be alive and trapped inside tunnels at hydropower projects, with rescue efforts focused on the Trishuli 3A and 3B sites.\n\nThose trapped are among 933 hydropower workers missing since a wall of mud and debris swept down on Wednesday morning, according to the National Disaster Risk Reduction and Management Authority.\n\n“We have already started sending air through the small opening, and we will now begin excavation work and send the rescue team inside,” Sudan Gurung, the Nepali home minister , said in a statement obtained by AFP.\n\nThe Ministry of Energy reported that “partial success has been achieved in the drilling operation”, adding that “efforts have begun to try to send a camera and oxygen into the tunnel”.\n\nRescuers continue to work to clear “the mud accumulated inside the tunnel”, it added.\n\nWe have photos coming in from Nepal of survivors of the deadly flood salvaging their belongings.\n\nSurvivors of the deadly flood in Nepal reflect on their experiences after a glacier collapse on Wednesday unleashed a huge torrent of rock, ice, mud and debris through Himalayan mountain river systems.\n\nNepal’s foreign minister warned on Saturday of the growing threat from climate change in the Himalayas, as China offered water and satellite data after devastating floods on their shared border killed hundreds.\n\nForeign minister Shisir Khanal said he had spoken by phone with his Chinese counterpart Wang Yi, agreeing to increase the sharing of “real-time hydrological data”, according to a statement.\n\nWang, in a Chinese foreign ministry statement, said Beijing had “shared crucial information with Nepal , including disaster area imagery, satellite and hydrological data, as well as early warnings about upstream barrier lakes”.\n\nWang added “China and Nepal are bound by mountains and rivers, sharing a common destiny”.\n\nKhanal earlier told reporters that Nepal needed greater research to “understand the changing dynamics of the Himalayan ecosystem” and the risks they pose to the landlocked country, encircled by India and China.\n\nThat includes not only risks “to Nepal and the downstream community, but also to our northern neighbour, to China, as well,” Khanal said.\n\nThe number of people killed in the floods in Nepal has risen to at least 675, the country’s disaster authority has said.\n\nSeven have also been confirmed dead in Tibet by Chinese state media, taking the total killed when a glacial collapse unleashed a deadly torrent through river systems in the Himalayan mountains to 682.\n\nSeven bodies have also been recovered in India from rivers flowing from Nepal and are believed to be flood victims. The number of people missing in Nepal and Tibet was revised up to nearly 3,000 on Saturday.\n\nThe missing list includes 517 foreigners and 933 workers on hydropower projects on the river where the torrent smashed down, Nepal’s National Disaster Risk Reduction and Management Authority said.\n\nA number of rescue workers are also missing, including 45 Nepali army soldiers and 40 police officers.\n\nWhen a Chinese rescue team reached the all-but-obliterated Gyirong border crossing complex for the first time on Friday, they found “nothing but ruins”.\n\nSurveillance camera footage from the complex showed huge torrents of water and debris on Wednesday engulfing buildings and people trying to flee. Only ⁠on Friday were rescuers able to reach the area.\n\nChinese rescuers were progressing on Saturday towards the epicentre of a deadly mudslide at the Tibet- Nepal border that has left hundreds missing, as a lake that had threatened more damage has drained, state media said.\n\nThe massive wave of mud and debris swept into Tibet’s border hub of Gyirong on Wednesday, killing at least seven people and leaving 554 missing in that area, according to figures published early Saturday by China’s Xinhua news agency.\n\nMore than 500 rescuers had reached the heart of the devastation by Saturday, the agency reported.\n\nRescue operations had been temporarily paused because of the threat of renewed flooding from a lake formed by the mudslide. But state broadcaster CCTV said that the lake was “discharging naturally” and had been “essentially drained”, citing China’s ministry of water resources.\n\nNepal’s foreign minister, Shisir Khanal, has refuted media reports that his country has turned down international support, saying they were “entirely false”, according to local media.\n\nSpeaking during a news conference, he emphasised that continued support is crucial for immediate relief, and will be especially important for post-flood reconstruction efforts, the official national broadcaster Radio Nepal reported.\n\nNepal government calls for specialised assistance from neighbouring countries to aid rescue efforts\n\nThe Nepalese government has requested “specific and specialised assistance” from neighbouring countries to aid search and rescue efforts.\n\nThis includes assistance with opening tunnels where people are trapped, technologies that can help locate people alive in affected areas, rapid forensic and DNA analysis, and mortuary facilities for the proper storage of bodies, Nepal’s ministry of foreign affairs said in a statement.\n\nIt added: “An 11-member specialised technical reconnaissance team for tunnel rescue from India has been mobilised and a tunnel rescue team from China is expected to arrive very soon.”\n\nDeath toll in Nepal rises to 669\n\nThe Nepali disaster agency has given an update on the number of those killed in Nepal, which has risen to 669, the Associated Press reports. With the seven people confirmed as having lost their lives in Tibet – where information is under the strict control of Chinese authorities – that brings the death toll for the disaster to 676. The number of people missing was revised up to nearly 3,000 on Saturday: 2,426 in Nepal and 554 in Tibet.\n\nAP has reported some comments from Nepali army spokesperson Brig Gen Raja Ram Basnet about the rescue efforts at the Trishuli-1 hydropower tunnel in the Rasuwa district (see post at 9:27 ). Authorities believe more than 100 people are trapped in the tunnel filled with thick mud.\n\nBasnet said rescuers had used baskets and ropes to reach some people, but the operation remained difficult because of about 1.2 to 1.5 metres (4-5ft) of mud and the limited number of places where helicopters could land.\n\nHe said rescue teams had also been forced to relocate temporarily when authorities issued warnings about possible further flooding.\n\nThis extraordinary composite satellite image captured by Planet Labs shows the glacier on Mount Langtang Lirung in Nepal before and after its collapse on Wednesday, with the left image taken on Tuesday 25 August and the right on Friday 28 August:\n\nThe Britons believed to be among the thousands missing in Nepal\n\nPA has put together a list of some of the Britons believed to be missing in Nepal , including a 13-year-old girl, NHS workers and a priest:\n\nHema Amin , from Croydon, south London, who started a pilgrimage to Gosainkunda lake on Monday that was supposed to last until 4 September. The 63-year-old’s husband, Sunil Amin, told Sky News: “I keep trying to call her. I’ve been trying, trying, trying.”\n\nHemangini Patel, 65, who had been with Amin on an Alpine Eco Trek tour when the flooding hit, her daughter told the BBC. She said her mother’s last known location is from a video from TikTok which was shared as she crossed into Tibet .\n\nBipin, 66, and Mala Patel , 60, from Coventry, went missing after travelling to Nepal and Tibet on a pilgrimage to the sacred Hindu site of Mount Kailash. Their son, Deepesh Patel, told PA the family last heard from the couple on Tuesday and their last known location was in the Gyirong area of the Nepal-Tibet border.\n\nSpandan Sahu, 18, his father, Santosh Sahu , 46, his mother, Surabhi Manmath Padhy , 44, and sister Syna Kumari Sahu , 13, from the Surrey village of Cobham, are thought to be among the missing. A neighbour described them as a “lovely family”.\n\nNabhi Nandan Das , a Hindu priest from south London, was leading a group on a tour to Mount Kailash and Lake Mansarovar. The Telegraph reported that the 64-year-old priest, who lives in Streatham and works at the Sanatan Mandir and Community Centre in Coulsdon, Surrey, was leading 11 Britons, including the missing 13-year-old girl, on the tour.\n\nPavan and Kavita Haldia were sightseeing in Kathmandu before setting out on a pilgrimage with the Sanatan Mandir group, their 22-year-old son Prajval told BBC Radio 4’s Today programme. He said he last spoke to them on Tuesday on the phone and had a message from his parents on Wednesday morning, around an hour before the flood is believed to have hit.\n\nLeena Bector, 53, a director of a care agency from Slough, west London, is among 27 travellers associated with the Fishtail Tours and Travels group currently unaccounted for. Her husband, Bhupesh Bector, told The Times: “I know that she’s in Nepal for sure … so even if they find her today or tomorrow, I need to be there.”\n\nSarada Simkhada , a senior nurse at Darent Valley hospital in Kent, was in Nepal making a pilgrimage to Mount Kailash. Her brother Shambhu wrote on social media: “My dear sister, wherever you are, please stay strong. We are praying for your safety every moment and waiting desperately for you to return home.”\n\nPravin Atmakur , a 54-year-old NHS psychiatry consultant, was leading a pilgrimage of 77 people to Mount Kailash when the flood hit, according to the Telegraph. His wife, Manjula, has travelled to Kathmandu from the UK to search for her husband, the newspaper said.\n\nSumitra Sapkota is believed to missing, her husband, Pramod Poudel, 24, said. He flew to Nepal on Thursday to search for her as well as his mother, uncle and brother. Poudel, who runs a Nepalese street food company in Sussex, told The Telegraph: “I haven’t heard from them because there’s no power or anything. I am very sad.”\n\nNeetu Goyal Tiwari , 51, had been travelling with a group from the spiritual organisation Isha Foundation and was expected to travel to India on Thursday and meet her brother and parents. Her brother, Naresh Goyal, told the BBC his sister has not been seen since Wednesday and that completing the pilgrimage was “her dream”.\n\nGeetha Reddy’s husband, Vikram Kolagatla, from London, told the BBC he has not heard from his wife since the flooding hit. She has two daughters aged 12 and 14. “The kids still don’t believe it,” Kolagatla said. “They think she’s stuck in the flood and that she’ll come back.”\n\nAuthorities in Nepal have said 33 UK citizens are among the thousands missing after Wednesday’s devastating flash flood.\n\nA Chinese rescue team has reached the all-but-obliterated Gyirong border crossing complex for the first time and found “nothing but ruins” as Nepal and China continue their arduous rescue operations in the flood-hit Himalayas.\n\nSurveillance camera footage from the worst-hit Gyirong border crossing complex showed huge torrents of water and debris on Wednesday engulfing buildings and people trying to flee. Only ⁠on Friday were rescuers able to reach the area.\n\nState media reported that the Chinese team of 21 rescuers and a search-and-rescue dog crossed mountains and valleys and used ropes to navigate forests and cliffs after roads to the complex, hemmed in by steep Himalayan slopes, were destroyed.\n\nZou Mingqi, a rescue worker, said: “There was no road … it was all virgin forest and sheer cliffs.” At the complex, “as far as the eye could ⁠see, there was nothing but ruins”.\n\nRead more:",
       "imageWidth": 1200,
       "imageHeight": 630
     },
@@ -124,7 +123,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o",
       "source": "BBC Business",
       "publisher": "BBC",
-      "published": "2026-08-29T13:16:43Z",
+      "published": "2026-08-29T16:15:56Z",
       "category": "Economics",
       "region": "US",
       "labels": [
@@ -134,12 +133,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 785,
-      "readingMinutes": 4,
+      "wordCount": 985,
+      "readingMinutes": 5,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
-      "body": "Published 29 August 2026, 00:54 BST\n\nThe US has struck a deal with Venezuela to control more than 65 billion barrels of its proven oil reserves, Donald Trump announced.\n\nThe US president wrote that the agreement would more than double American oil reserves and \"substantially lower Gas Prices for all Americans\".\n\nVenezuela's interim President Delcy Rodríguez hailed the deal as one that would help her nation's economic revival.\n\nTrump has recently been under domestic pressure to tame petrol prices, which have spiked due to the Iran war.\n\nHe vowed to tap into Venezuela's reserves, the world's largest, after the US captured its then-President Nicolás Maduro in January, ostensibly to stand trial on drug charges in New York.\n\nUS Secretary of State Marco Rubio called the oil deal \"a huge win for both the American and Venezuelan people\". Few details were released.\n\n\"For the Venezuelan people, this deal will bring nearly $100bn (£74bn) in private investment, support thousands of high-paying jobs and drive the reconstruction of Venezuela's economy,\" he said.\n\nTrump said Rubio and Defence Secretary Pete Hegseth had reached the agreement with Venezuela's leadership \"through a partnership with private business\".\n\nHe did not elaborate on the partnership or describe possible commitments and terms for the US in the deal, but he claimed the agreement was reached \"at no cost to the American Taxpayer\".\n\nUnder the deal the US government will retain 55% control of a joint venture with an \"experienced private operator in Venezuela\", a US official told the BBC's US partner CBS News.\n\nThe Wall Street Journal reported on Friday that US energy firms Chevron and Halliburton were nearing deals to invest billions in overhauling the infrastructure in Venezuela's oil fields, many of which have not been developed.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nFrom boom to bust: A rare look inside one of Venezuela’s once prosperous oil towns\n\nVenezuela's interim president said in a statement that the agreement would have \"a significant impact on our nation's revival\".\n\nThe deal calls for the development of 17 strategic oil fields with a proven potential of 65 billion barrels, as well as \"an investment of more than $100bn and more than $209bn in taxes\" for Venezuela, Rodriguez said.\n\n\"These investments will contribute not only to the recovery and modernisation of our industry, but also to our country's economic growth, the energy security of our hemisphere and greater balance in international markets,\" she said.\n\nRodríguez - Maduro's former vice-president, who the US backed following his capture - gave the venture a 100-year concession to operate in the oil fields, the unnamed US official told CBS.\n\nTrump gave few specifics of the highly unusual agreement, which apparently grants the US direct governance over a foreign country's sovereign national resources.\n\nThe deal would also appear to be wider in scope than the US-led Coalition Provisional Authority's control over Iraq's oil revenues after Saddam Hussein was ousted in an American-led invasion in 2003.\n\nBut it is unclear whether the Venezuela agreement could face legal and constitutional challenges in the South American nation. The official text of the agreement between Washington and Caracas has not been published.\n\nVenezuela has the largest proven oil reserves in the world - an estimated 303 billion barrels.\n\nHowever, production has plummeted since its peak in the late 1990s, in part due to a tightening of controls over its state-run oil firm and US sanctions targeting its main economic lifeline.\n\nHours after US special forces captured Maduro and his wife, Cilia Flores, in a raid on the Venezuelan capital, Trump said the US would indefinitely control the sale of the country's oil.\n\nHe has also claimed the rights to Venezuela's oil after saying that the country had in the past \"unilaterally seized and sold American oil, American assets and American platforms, costing us billions and billions of dollars\".\n\nHis framing of the deal as part of efforts to drive down domestic petrol prices comes as the global price of oil has jumped up significantly as supply via the Strait of Hormuz in the Persian Gulf has effectively been stymied - spurring discontent ahead of the US midterm elections in November.\n\nHowever, Venezuela's oil reserves are made up of so-called \"heavy, sour\" oil, which is harder to refine and used for making diesel and asphalt, while the US typically produces \"light, sweet\" oil useful for making petrol.\n\nTrump has asked US oil firms to invest at least $100bn (£75bn) to restore the country's oil industry.\n\nRelated topics\n\nDonald Trump\n\nUnited States\n\nOil & Gas industry\n\nVenezuela\n\nNicolás Maduro\n\nMore on this story\n\nBBC visits oil region at heart of Trump plan to 'Make Venezuela Great Again' Published 30 January",
+      "body": "Published 29 August 2026, 00:54 BST\n\nThe US has struck a deal with Venezuela to control more than 65 billion barrels of its proven oil reserves, Donald Trump announced.\n\nThe US president wrote that the agreement would more than double American oil reserves and \"substantially lower Gas Prices for all Americans\".\n\nVenezuela's interim President Delcy Rodríguez hailed the deal as one that would help her nation's economic revival.\n\nBut some analysts have reacted with scepticism, including questioning whether the deal would address long-running obstacles that have deterred investment in Venezuela's oil industry.\n\nTrump has recently been under domestic pressure to tame petrol prices, which have spiked due to the Iran war.\n\nHe vowed to tap into Venezuela's reserves, the world's largest, after the US captured its then-President Nicolás Maduro in January, ostensibly to stand trial on drug charges in New York.\n\nUS Secretary of State Marco Rubio called the oil deal \"a huge win for both the American and Venezuelan people\". Few details were released.\n\n\"For the Venezuelan people, this deal will bring nearly $100bn (£74bn) in private investment, support thousands of high-paying jobs and drive the reconstruction of Venezuela's economy,\" he said.\n\nTrump said Rubio and Defence Secretary Pete Hegseth had reached the agreement with Venezuela's leadership \"through a partnership with private business\".\n\nHe did not elaborate on the partnership or describe possible commitments and terms for the US in the deal, but he claimed the agreement was reached \"at no cost to the American Taxpayer\".\n\nUnder the deal the US government will retain 55% control of a joint venture with an \"experienced private operator in Venezuela\", a US official told the BBC's US partner CBS News.\n\nThe Wall Street Journal reported on Friday that US energy firms Chevron and Halliburton were nearing deals to invest billions in overhauling the infrastructure in Venezuela's oil fields, many of which have not been developed.\n\nDavid Goldwyn, president of energy consultancy Goldwyn Global Strategies, said there was \"no precedent\" for the US government entering into a lease to operate Venezuelan oil fields.\n\nIt's not clear if such a move would violate Venezuela's constitution or its hydrocarbons law, he told the Reuters news agency.\n\n\"It is hard to see how this kind of arrangement would accelerate investment at any material scale,\" he added, citing Venezuela's political uncertainty, weak power grid, and limited export capacity.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nFrom boom to bust: A rare look inside one of Venezuela’s once prosperous oil towns\n\nVenezuela's interim president said in a statement that the agreement would have \"a significant impact on our nation's revival\".\n\nThe deal calls for the development of 17 strategic oil fields with a proven potential of 65 billion barrels, as well as \"an investment of more than $100bn and more than $209bn in taxes\" for Venezuela, Rodríguez said.\n\n\"These investments will contribute not only to the recovery and modernisation of our industry, but also to our country's economic growth, the energy security of our hemisphere and greater balance in international markets,\" she said.\n\nOil, gas and mineral lawyer Alexander Kuiper told the BBC the deal could be \"very significant\" but expressed some caution.\n\n\"This is definitely a headline to help with oil prices,\" he said, but added: \"What we don't know, is whether or not those reserves turn into actual investment, and how long that investment takes to produce results.\"\n\nAsked how it would affect oil prices in practice, Kuiper said: \"There isn't a switch that you can flip - contracts and agreements have to be put in place... this could take a long time, but it's an important first step.\"\n\nDelcy Rodríguez - Maduro's former vice-president, who the US backed following his capture - gave the venture a 100-year concession to operate in the oil fields, the unnamed US official told CBS.\n\nTrump gave few specifics of the highly unusual agreement, which apparently grants the US direct governance over a foreign country's sovereign national resources.\n\nThe deal would also appear to be wider in scope than the US-led Coalition Provisional Authority's control over Iraq's oil revenues after Saddam Hussein was ousted in an American-led invasion in 2003.\n\nBut it is unclear whether the Venezuela agreement could face legal and constitutional challenges in the South American nation. The official text of the agreement between Washington and Caracas has not been published.\n\nVenezuela has the largest proven oil reserves in the world - an estimated 303 billion barrels.\n\nHowever, production has plummeted since its peak in the late 1990s, in part due to a tightening of controls over its state-run oil firm and US sanctions targeting its main economic lifeline.\n\nHours after US special forces captured Maduro and his wife, Cilia Flores, in a raid on the Venezuelan capital, Trump said the US would indefinitely control the sale of the country's oil.\n\nHe has also claimed the rights to Venezuela's oil after saying that the country had in the past \"unilaterally seized and sold American oil, American assets and American platforms, costing us billions and billions of dollars\".\n\nHis framing of the deal as part of efforts to drive down domestic petrol prices comes as the global price of oil has jumped up significantly as supply via the Strait of Hormuz in the Persian Gulf has effectively been stymied - spurring discontent ahead of the US midterm elections in November.\n\nHowever, Venezuela's oil reserves are made up of so-called \"heavy, sour\" oil, which is harder to refine and used for making diesel and asphalt, while the US typically produces \"light, sweet\" oil useful for making petrol.\n\nTrump has asked US oil firms to invest at least $100bn (£75bn) to restore the country's oil industry.\n\nRelated topics\n\nDonald Trump\n\nUnited States\n\nOil & Gas industry\n\nVenezuela\n\nNicolás Maduro\n\nMore on this story\n\nBBC visits oil region at heart of Trump plan to 'Make Venezuela Great Again' Published 30 January",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -193,7 +192,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84e7/live/9e49e220-a2f7-11f1-8d5b-155abe464768.jpg",
-      "body": "Things are about to get a lot tougher for the new prime minister\n\nPublished 3 hours ago\n\nAndy Burnham is set to come under the most intense scrutiny of his political life when Parliament returns on Tuesday.\n\nSince coming to power six weeks ago, the new prime minister has largely been free to set his own agenda.\n\nThe timing of Labour's leadership contest meant he walked into Number 10 after the House of Commons began its summer break, denying MPs the chance to question him and creating what some have seen as a honeymoon period.\n\nBurnham has embarked on what Downing Street called a \"summer tour\" of the UK, appeared on podcasts and announced a series of eye-catching policies, mainly aimed at tackling the cost of living.\n\nBut things are about to get a lot tougher, with MPs finally getting a chance to grill the new PM when he makes a statement to Parliament on his priorities as PM.\n\nHe has taken questions from MPs in the Commons before, when he was a minister in Tony Blair and Gordon Brown's Labour governments.\n\nBut Tuesday will be his first appearance on the government front bench for 16 years.\n\nBurnham and Marie-France van Heel, his wife, walked into Number 10 in July\n\nThe team around Burnham view the start of his premiership as successful but say they will be relieved to get back to the \"structure\" of parliamentary politics.\n\nBurnham will know he has really arrived as PM when he makes his debut at prime minister's questions (PMQs) on Wednesday, after almost two decades of trying to get there.\n\nA packed Commons chamber, with curveball questions, hostile opposition politicians and the biggest TV and online audience of the week will be a world away from his nine years as Mayor of Greater Manchester.\n\nOne Number 10 source said Burnham's debut would be used as a \"learning exercise\" to discover \"what works and what doesn't\".\n\nThe new PM is said to be keen to adopt a \"tonal shift\" at the weekly half-hour session and will attempt to bring more humour to the occasion.\n\nMost prime ministers enter PMQs with a thick folder of notes covering what they hope is every conceivable question they might face.\n\nBurnham likes to speak without notes, as he did in his first speech outside Downing Street, and is thought to be considering doing the same at PMQs.\n\nHis aides sound equally relaxed about the task ahead, even though the next few weeks could define his entire premiership.\n\nBurnham was sworn in as an MP at the House of Commons in June\n\nOne phrase being used by Burnham's inner circle to describe his approach to Conservative leader Kemi Badenoch and other opposition MPs is \"problem solving, not point scoring\".\n\nBadenoch will also have to recalibrate her approach to PMQs, with senior Tory aides saying Burnham is a \"different proposition\" to Sir Keir Starmer.\n\nThe Tory leader was increasingly combative and sharp with Sir Keir, but a senior Tory aide says Badenoch \"knows that when you get a new problem you need a new solution\".\n\nBadenoch has recently accused Burnham of being a \"people pleaser\" who doesn't relish taking difficult decisions, a characterisation she is likely to use again in her Commons clashes with him.\n\nThe Conservatives have identified three areas on which they believe Burnham could be vulnerable to attacks: defence spending, the potential for tax rises and the early release of prisoners.\n\nBadenoch has recently accused Burnham of being a \"people pleaser\" - a characterisation she is likely to use again in her Commons clashes with him\n\nThe row around prisoner early release has created arguably Burnham's most challenging moment yet.\n\nJustice Secretary Alex Norris is expected to make a statement in Parliament early next week, announcing how the government will ensure the killers of PC Andrew Harper are not released early.\n\nResponsibility for fixing this political problem was handed to Norris when the prime minister publicly said he was confident that his new justice secretary could find a solution.\n\nOfficials had been stressing for weeks that this was not an easy fix, and the prime minister's critics believe this could turn out to be an early example of him choosing not to take a difficult decision, which would leave some people upset and angry.\n\nNorris's announcement is set to include measures to both free up more prison space and create legal carve-outs to make some prisoners ineligible for early release, but those inside the Ministry of Justice are determined not to allow the details to be leaked.\n\nThe justice secretary is expected to announce how the government will ensure the killers of PC Andrew Harper are not released early\n\nMessage discipline is being emphasised inside the Treasury too.\n\nThe biggest moment for the Burnham government this autumn will come on 28 October, when Chancellor John Healey unveils the Budget.\n\nSir Keir and his chancellor Rachel Reeves were widely seen to have been damaged politically when many of the policies in their Budgets made their way into the media.\n\nIn response, Burnham's administration has put measures in place to try to stop those leaks and it's understood the Treasury is telling officials that Budget security is like national security.\n\nNevertheless, speculation about the Budget is likely to dominate the coming weeks in Westminster, in particular questions about what taxes could potentially be increased.\n\nBurnham has repeatedly said he will keep Labour's 2024 manifesto pledge not to increase income tax, VAT or national insurance.\n\nBut the prime minister has also said there is \"room for movement\" on taxes within that pledge, leading the Conservatives to believe it's a fruitful topic for political attacks.\n\nThe Treasury is focused on creating a Budget that will not spook financial markets, with a senior source insisting the core themes of Healey's plans would be \"fiscal discipline\" and \"fiscal devolution\".\n\nHealey resigned as Sir Keir's defence secretary over what he saw as a failure to adequately fund the armed forces.\n\nIt now falls to him to find the money to fund the defence investment plan, with an extra £4.7bn needed in the Budget.\n\nHealey is not expected to set out a path to spending 3% of GDP on defence in the Budget, and will instead wait until next spring's Spending Review.\n\nWhen asked if there was nervousness about potentially annoying military chiefs, a senior Treasury source said you'd be \"hard-placed to find anyone sceptical\" of the idea that Healey is committed to keeping the country safe.\n\nChancellor John Healey will unveil the Budget on 28 October\n\nThere has also been speculation that Burnham wants to weaken the Treasury's traditionally tight grip on policies across government.\n\nJust before Parliament broke up for summer, the government said it was transferring \"local economic growth policy\" from the Treasury to Burnham's new Manchester base Number 10 North.\n\nThe Treasury is downplaying the idea that Number 10 North could become in effect a rival department.\n\nDespite predominantly focusing on domestic issues so far, Burnham will also turn his attention to foreign policy, with a visit to Downing Street by French President Emmanuel Macron.\n\nAnd, finally, he will need to make sure he keeps his own troops in Parliament happier than they were under the previous management.\n\nMany Labour backbenchers felt that Sir Keir did not listen to them enough and Burnham is expected to be far more visible in the Commons voting lobbies and tea rooms than his predecessor.\n\nSources say he met most Labour MPs in the weeks before he became prime minister and believes that MPs \"value that bit of face time\".\n\nBut there is still a divide among the more than 400 Labour MPs about what policy areas should be prioritised at a time when the financial situation looks set to be tricky for some time.\n\nThose around the prime minister are conscious, too, of the difficult decisions that may lie ahead.\n\nOne Number 10 source said there was an acknowledgement in Downing Street that the \"public's expectation bar is high and we've got to meet it\".\n\nBurnham refuses to rule out tax rises in autumn Budget Published 4 days ago\n\nBurnham faces unpopularity test over prisons dilemma Published 11 August\n\nBurnham unveils plan to get rough sleepers off streets for Christmas Published 19 August\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham",
+      "body": "Things are about to get a lot tougher for the new prime minister\n\nPublished 8 hours ago\n\nAndy Burnham is set to come under the most intense scrutiny of his political life when Parliament returns on Tuesday.\n\nSince coming to power six weeks ago, the new prime minister has largely been free to set his own agenda.\n\nThe timing of Labour's leadership contest meant he walked into Number 10 after the House of Commons began its summer break, denying MPs the chance to question him and creating what some have seen as a honeymoon period.\n\nBurnham has embarked on what Downing Street called a \"summer tour\" of the UK, appeared on podcasts and announced a series of eye-catching policies, mainly aimed at tackling the cost of living.\n\nBut things are about to get a lot tougher, with MPs finally getting a chance to grill the new PM when he makes a statement to Parliament on his priorities as PM.\n\nHe has taken questions from MPs in the Commons before, when he was a minister in Tony Blair and Gordon Brown's Labour governments.\n\nBut Tuesday will be his first appearance on the government front bench for 16 years.\n\nBurnham and Marie-France van Heel, his wife, walked into Number 10 in July\n\nThe team around Burnham view the start of his premiership as successful but say they will be relieved to get back to the \"structure\" of parliamentary politics.\n\nBurnham will know he has really arrived as PM when he makes his debut at prime minister's questions (PMQs) on Wednesday, after almost two decades of trying to get there.\n\nA packed Commons chamber, with curveball questions, hostile opposition politicians and the biggest TV and online audience of the week will be a world away from his nine years as Mayor of Greater Manchester.\n\nOne Number 10 source said Burnham's debut would be used as a \"learning exercise\" to discover \"what works and what doesn't\".\n\nThe new PM is said to be keen to adopt a \"tonal shift\" at the weekly half-hour session and will attempt to bring more humour to the occasion.\n\nMost prime ministers enter PMQs with a thick folder of notes covering what they hope is every conceivable question they might face.\n\nBurnham likes to speak without notes, as he did in his first speech outside Downing Street, and is thought to be considering doing the same at PMQs.\n\nHis aides sound equally relaxed about the task ahead, even though the next few weeks could define his entire premiership.\n\nBurnham was sworn in as an MP at the House of Commons in June\n\nOne phrase being used by Burnham's inner circle to describe his approach to Conservative leader Kemi Badenoch and other opposition MPs is \"problem solving, not point scoring\".\n\nBadenoch will also have to recalibrate her approach to PMQs, with senior Tory aides saying Burnham is a \"different proposition\" to Sir Keir Starmer.\n\nThe Tory leader was increasingly combative and sharp with Sir Keir, but a senior Tory aide says Badenoch \"knows that when you get a new problem you need a new solution\".\n\nBadenoch has recently accused Burnham of being a \"people pleaser\" who doesn't relish taking difficult decisions, a characterisation she is likely to use again in her Commons clashes with him.\n\nThe Conservatives have identified three areas on which they believe Burnham could be vulnerable to attacks: defence spending, the potential for tax rises and the early release of prisoners.\n\nBadenoch has recently accused Burnham of being a \"people pleaser\" - a characterisation she is likely to use again in her Commons clashes with him\n\nThe row around prisoner early release has created arguably Burnham's most challenging moment yet.\n\nJustice Secretary Alex Norris is expected to make a statement in Parliament early next week, announcing how the government will ensure the killers of PC Andrew Harper are not released early.\n\nResponsibility for fixing this political problem was handed to Norris when the prime minister publicly said he was confident that his new justice secretary could find a solution.\n\nOfficials had been stressing for weeks that this was not an easy fix, and the prime minister's critics believe this could turn out to be an early example of him choosing not to take a difficult decision, which would leave some people upset and angry.\n\nNorris's announcement is set to include measures to both free up more prison space and create legal carve-outs to make some prisoners ineligible for early release, but those inside the Ministry of Justice are determined not to allow the details to be leaked.\n\nThe justice secretary is expected to announce how the government will ensure the killers of PC Andrew Harper are not released early\n\nMessage discipline is being emphasised inside the Treasury too.\n\nThe biggest moment for the Burnham government this autumn will come on 28 October, when Chancellor John Healey unveils the Budget.\n\nSir Keir and his chancellor Rachel Reeves were widely seen to have been damaged politically when many of the policies in their Budgets made their way into the media.\n\nIn response, Burnham's administration has put measures in place to try to stop those leaks and it's understood the Treasury is telling officials that Budget security is like national security.\n\nNevertheless, speculation about the Budget is likely to dominate the coming weeks in Westminster, in particular questions about what taxes could potentially be increased.\n\nBurnham has repeatedly said he will keep Labour's 2024 manifesto pledge not to increase income tax, VAT or national insurance.\n\nBut the prime minister has also said there is \"room for movement\" on taxes within that pledge, leading the Conservatives to believe it's a fruitful topic for political attacks.\n\nThe Treasury is focused on creating a Budget that will not spook financial markets, with a senior source insisting the core themes of Healey's plans would be \"fiscal discipline\" and \"fiscal devolution\".\n\nHealey resigned as Sir Keir's defence secretary over what he saw as a failure to adequately fund the armed forces.\n\nIt now falls to him to find the money to fund the defence investment plan, with an extra £4.7bn needed in the Budget.\n\nHealey is not expected to set out a path to spending 3% of GDP on defence in the Budget, and will instead wait until next spring's Spending Review.\n\nWhen asked if there was nervousness about potentially annoying military chiefs, a senior Treasury source said you'd be \"hard-placed to find anyone sceptical\" of the idea that Healey is committed to keeping the country safe.\n\nChancellor John Healey will unveil the Budget on 28 October\n\nThere has also been speculation that Burnham wants to weaken the Treasury's traditionally tight grip on policies across government.\n\nJust before Parliament broke up for summer, the government said it was transferring \"local economic growth policy\" from the Treasury to Burnham's new Manchester base Number 10 North.\n\nThe Treasury is downplaying the idea that Number 10 North could become in effect a rival department.\n\nDespite predominantly focusing on domestic issues so far, Burnham will also turn his attention to foreign policy, with a visit to Downing Street by French President Emmanuel Macron.\n\nAnd, finally, he will need to make sure he keeps his own troops in Parliament happier than they were under the previous management.\n\nMany Labour backbenchers felt that Sir Keir did not listen to them enough and Burnham is expected to be far more visible in the Commons voting lobbies and tea rooms than his predecessor.\n\nSources say he met most Labour MPs in the weeks before he became prime minister and believes that MPs \"value that bit of face time\".\n\nBut there is still a divide among the more than 400 Labour MPs about what policy areas should be prioritised at a time when the financial situation looks set to be tricky for some time.\n\nThose around the prime minister are conscious, too, of the difficult decisions that may lie ahead.\n\nOne Number 10 source said there was an acknowledgement in Downing Street that the \"public's expectation bar is high and we've got to meet it\".\n\nBurnham refuses to rule out tax rises in autumn Budget Published 4 days ago\n\nBurnham faces unpopularity test over prisons dilemma Published 11 August\n\nBurnham unveils plan to get rough sleepers off streets for Christmas Published 19 August\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -242,12 +241,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1001,
+      "wordCount": 1016,
       "readingMinutes": 5,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/gordon_newsletter_final-1600x900.jpg",
-      "body": "Global Dispatch\n\nMy trip to China revealed an AI race that looks less like a clash of competing visions, and more like two countries racing toward a similar future.\n\nBy Gordon Saft\n\nGordon Saft is the Publisher of Rest of World.\n\nThis essay was first published in our Global Dispatch newsletter. Sign up here to get it straight to your inbox.\n\nGordon Saft is the Publisher of Rest of World. Last week, he returned to New York from a trip to China with a delegation of leaders from across media, technology, public policy, and finance to gain a deeper understanding of the AI and robotics industries.\n\nOn my first morning in Beijing, before joining a delegation trip on China’s AI and robotics industries, I visited an exhibition by the Belgian-born conceptual artist Carsten Höller, called “ Two .” Visitors enter through one of two doors, assigned at random. One half of the space is a full-color replica of the other rendered entirely in black and white. Walking through it, everything felt familiar yet slightly off all at once.\n\nThe debate over AI in the U.S. has long felt oppositional and binary: open versus closed, diffusion versus frontier, LLMs versus world models. Underneath it is a bigger framing that treats the U.S. and China as two competing models for how AI should be built and deployed, racing toward different futures. I wanted to understand if this held up on the ground, 18 months after DeepSeek’s launch reshaped open-source AI.\n\nThe institutions and politics diverge significantly, and the technology carries risks neither country can wave away. I expected the differences to be what struck me. Instead, it was the similarities.\n\nI’d made a few similar trips to European cities over the past year, and each left me rattled by conversations about stagnation and uncertainty, a pessimism about technology and growth more entrenched than anything in America’s own debates. China was the opposite. I came back to New York surprised by how familiar the dynamism and optimism felt.\n\nOne theme surfaced repeatedly: China’s intense focus on deploying AI into the physical world, in robotics, manufacturing, electric vehicles, and embodied intelligence. Whether that’s conviction or a response to American export controls depends on who you ask. One researcher argued chips aren’t the real constraint anymore, data is. If he’s right, the export control debate is fighting yesterday’s war. Even Washington’s strongest leverage hasn’t held: Last summer, restrictions on EDA software were relaxed within weeks as part of a trade deal tied to rare earths.\n\nThe more people I talked to, the less this looked like innovation versus regulation and the more it looked like two powers staring at different maps.\n\nXi Jinping’s recent speeches on AI are more nuanced and technically informed than many Western observers assume, several China experts told me before the trip, and Beijing has worked to present itself as a responsible steward of AI rather than a competitor. What surprised me more was how often AI safety came up in these conversations. One analyst described responsibility for AI safety as increasingly sitting inside China’s national security establishment, treating advanced AI as strategic capability first, consumer technology second. Additionally, China’s capacity to move quickly is inseparable from a political system that places far less weight on individual liberty, due process, and constraints on state power. The surveillance cameras on every block are impossible to ignore.\n\nThe more people I talked to, the less this looked like innovation versus regulation and the more it looked like two powers staring at different maps. In the U.S., the limit is frontier capability itself, plus the looming threat of rare-earth leverage. In China, the conversation kept returning to deployment, and how quickly powerful models could be embedded into everyday life. It’s why the LLM-versus-world-model debate feels alive in China. If embodied AI is the next frontier, the scarce resource may be high-quality interaction with the physical world rather than raw compute, and China is generating exactly that.\n\nChina’s focus on deployment appears to be intentional. Cut off from leading-edge chips, the country has leaned into ground it can still win: getting AI into factories, vehicles, and everyday life faster than anyone else. Whether that’s conviction or necessity may not matter. If embedding AI across an economy ends up mattering more than owning the best frontier model, China’s constraint may have become its strategy.\n\nOn my last night in Shanghai, I walked into the Huawei flagship store directly across from an Apple Store on Nanjing Road. Where a Genius Bar might be in an Apple Store, Huawei had filled the back with electric vehicles. I thought of the Xiaomi factory we’d visited earlier, a phone company that became one of China’s largest EV manufacturers in just a few years. We rode a trolley through a robotic assembly line like an attraction at Universal Studios, watching cars that looked like electric Porsches glide silently through production. Apple spent years trying to build a car before abandoning the effort; adapting consumer hardware manufacturing into EVs was the very thing Xiaomi had pulled off.\n\nHöller’s exhibit stayed with me. Your sense of which side is real depends entirely on which door you entered through. Dizzyingly, China felt like that. Everywhere I turned, there was something familiar: a slightly more advanced smartphone, a robot-operated coffee shop, a sleek electric vehicle — each refracted through a different political system and a different bet on the future. The differences were expected; the similarities were the surprise.\n\nIndia’s data center boom is leaving the people it displaces with nothing\n\nCommunities are being left behind as AI companies secure tax breaks, cheap land from willing governments.\n\nThe UAE is fighting AI hackers with AI of its own\n\nAttacks on the country’s banks, aviation, and energy systems have climbed since the war with Iran began. Its answer is a homegrown AI security industry.\n\n“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”\n\nObservers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
+      "body": "Global Dispatch\n\nMy trip to China revealed an AI race that looks less like a clash of competing visions, and more like two countries racing toward a similar future.\n\nBy Gordon Saft\n\nGordon Saft is the Publisher of Rest of World.\n\nThis essay was first published in our Global Dispatch newsletter. Sign up here to get it straight to your inbox.\n\nGordon Saft is the Publisher of Rest of World. Last week, he returned to New York from a trip to China with a delegation of leaders from across media, technology, public policy, and finance to gain a deeper understanding of the AI and robotics industries.\n\nOn my first morning in Beijing, before joining a delegation trip on China’s AI and robotics industries, I visited an exhibition by the Belgian-born conceptual artist Carsten Höller, called “ Two .” Visitors enter through one of two doors, assigned at random. One half of the space is a full-color replica of the other rendered entirely in black and white. Walking through it, everything felt familiar yet slightly off all at once.\n\nThe debate over AI in the U.S. has long felt oppositional and binary: open versus closed, diffusion versus frontier, LLMs versus world models. Underneath it is a bigger framing that treats the U.S. and China as two competing models for how AI should be built and deployed, racing toward different futures. I wanted to understand if this held up on the ground, 18 months after DeepSeek’s launch reshaped open-source AI.\n\nThe institutions and politics diverge significantly, and the technology carries risks neither country can wave away. I expected the differences to be what struck me. Instead, it was the similarities.\n\nI’d made a few similar trips to European cities over the past year, and each left me rattled by conversations about stagnation and uncertainty, a pessimism about technology and growth more entrenched than anything in America’s own debates. China was the opposite. I came back to New York surprised by how familiar the dynamism and optimism felt.\n\nOne theme surfaced repeatedly: China’s intense focus on deploying AI into the physical world, in robotics, manufacturing, electric vehicles, and embodied intelligence. Whether that’s conviction or a response to American export controls depends on who you ask. One researcher argued chips aren’t the real constraint anymore, data is. If he’s right, the export control debate is fighting yesterday’s war. Even Washington’s strongest leverage hasn’t held: Last summer, restrictions on EDA software were relaxed within weeks as part of a trade deal tied to rare earths.\n\nThe more people I talked to, the less this looked like innovation versus regulation and the more it looked like two powers staring at different maps.\n\nXi Jinping’s recent speeches on AI are more nuanced and technically informed than many Western observers assume, several China experts told me before the trip, and Beijing has worked to present itself as a responsible steward of AI rather than a competitor. What surprised me more was how often AI safety came up in these conversations. One analyst described responsibility for AI safety as increasingly sitting inside China’s national security establishment, treating advanced AI as strategic capability first, consumer technology second. Additionally, China’s capacity to move quickly is inseparable from a political system that places far less weight on individual liberty, due process, and constraints on state power. The surveillance cameras on every block are impossible to ignore.\n\nThe more people I talked to, the less this looked like innovation versus regulation and the more it looked like two powers staring at different maps. In the U.S., the limit is frontier capability itself, plus the looming threat of rare-earth leverage. In China, the conversation kept returning to deployment, and how quickly powerful models could be embedded into everyday life. It’s why the LLM-versus-world-model debate feels alive in China. If embodied AI is the next frontier, the scarce resource may be high-quality interaction with the physical world rather than raw compute, and China is generating exactly that.\n\nChina’s focus on deployment appears to be intentional. Cut off from leading-edge chips, the country has leaned into ground it can still win: getting AI into factories, vehicles, and everyday life faster than anyone else. Whether that’s conviction or necessity may not matter. If embedding AI across an economy ends up mattering more than owning the best frontier model, China’s constraint may have become its strategy.\n\nOn my last night in Shanghai, I walked into the Huawei flagship store directly across from an Apple Store on Nanjing Road. Where a Genius Bar might be in an Apple Store, Huawei had filled the back with electric vehicles. I thought of the Xiaomi factory we’d visited earlier, a phone company that became one of China’s largest EV manufacturers in just a few years. We rode a trolley through a robotic assembly line like an attraction at Universal Studios, watching cars that looked like electric Porsches glide silently through production. Apple spent years trying to build a car before abandoning the effort; adapting consumer hardware manufacturing into EVs was the very thing Xiaomi had pulled off.\n\nHöller’s exhibit stayed with me. Your sense of which side is real depends entirely on which door you entered through. Dizzyingly, China felt like that. Everywhere I turned, there was something familiar: a slightly more advanced smartphone, a robot-operated coffee shop, a sleek electric vehicle — each refracted through a different political system and a different bet on the future. The differences were expected; the similarities were the surprise.\n\nWhy the global push to break free from Big Tech keeps falling short\n\nIn this excerpt from the book “The Rulers: Corporate Power in the Age of AI and the Cloud,” writer Cecilia Rikap examines how Europe, India, Brazil, and China are taking on big tech companies.\n\nIndia’s data center boom is leaving the people it displaces with nothing\n\nCommunities are being left behind as AI companies secure tax breaks, cheap land from willing governments.\n\nA dumpling shop becomes a poster child of AI adoption in China\n\nBusiness owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”",
       "imageWidth": 1600,
       "imageHeight": 900
     },
@@ -328,29 +327,6 @@
       "isShort": true,
       "isBreaking": true,
       "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/11-04-2025-UNOCHA-Syria-04.jpg/image560x340cropped.jpg"
-    },
-    {
-      "id": "54275a31ae4a08bc",
-      "title": "LIVE: Liverpool vs Nottingham Forest – Premier League",
-      "summary": "Live text updates from our commentary stream coverage as Florian Wirtz and Dominik Szoboszlai try to inspire the Reds.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/8/29/live-liverpool-vs-nottingham-forest-premier-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-29T08:33:04Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": true
     },
     {
       "id": "70042fccd9a30ed1",
@@ -529,6 +505,56 @@
       "imageHeight": 675
     },
     {
+      "id": "ed229304ae12697c",
+      "title": "Blue Jays honor icons with Hall of Excellence",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-open-hall-of-excellence-honoring-franchise-legends",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-29T18:45:12Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "2431af0d98f1c620",
+      "title": "Latest Blue Jays injuries & transactions",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-29T17:51:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "ae82a1cfd5795618",
       "title": "Which NHL teams bring the most intrigue to 2026-27?",
       "summary": "maple leafs",
@@ -600,56 +626,6 @@
       "focus": "Saracens",
       "sourceType": "news",
       "wordCount": 56,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "5eeb108a7665cec3",
-      "title": "Taillon makes 1st rehab start, could return to Blue Jays soon",
-      "summary": "Infielder Smith (hamstring) also on comeback trail",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.mlb.com/bluejays/news/jameson-taillon-makes-rehab-start-for-blue-jays",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-29T00:39:32Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 7,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "2431af0d98f1c620",
-      "title": "Latest Blue Jays injuries & transactions",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-28T21:31:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -778,14 +754,14 @@
       "isBreaking": false
     },
     {
-      "id": "d5d69adfd6e0fea8",
-      "title": "Lankshear scores twice as Boro beat West Brom",
-      "summary": "Will Lankshear made it six goals in five games following his summer move from Tottenham as Middlesbrough's strong start to the season continued with a 3-1 home win over West Brom.",
+      "id": "ef668ef890d48f00",
+      "title": "Spurs beaten again as Elanga and Wissa strike for Newcastle",
+      "summary": "Tottenham have lost their first two Premier League matches and failed to score in both as rejuvenated duo Anthony Elanga and Yoane Wissa struck to earn Newcastle a 2-0 victory.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/football/middlesbrough-vs-west-bromwich-albion/report/560528",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-newcastle-united/report/559463",
       "source": "Sky Sports",
       "publisher": "Sky Sports",
-      "published": "2026-08-29T14:00:00Z",
+      "published": "2026-08-29T19:30:00Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -795,21 +771,21 @@
       "sourceWeight": 3,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 31,
+      "wordCount": 30,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-will-lankshear-middlesbrough_7334598.jpg?20260829141836"
+      "imageUrl": "https://e1.365dm.com/26/08/1920x1080/skysports-anthony-elanga-newcastle-united_7335091.jpg?20260829185441"
     },
     {
-      "id": "74ea9f6b275ae44b",
-      "title": "Swansea cruise to away win at struggling Derby",
-      "summary": "Swansea remained unbeaten in this season's Championship after goals from Joseph Opoku, Eom Ji-sung and Ronald secured a convincing 3-0 win at Derby.",
+      "id": "8d43828ba6c29664",
+      "title": "Lawrence's fifty lifts England to healthy lead vs Pakistan at rainy Lord's",
+      "summary": "England advanced to a healthy 357-run lead over Pakistan on a frustrating rain-affected third day of the second Test at Lord's, as Dan Lawrence (50no) brought up an impressive half-century.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.skysports.com/football/derby-county-vs-swansea-city/report/560527",
+      "url": "https://www.skysports.com/cricket/news/12040/13578616/england-vs-pakistan-dan-lawrences-brilliant-50-lifts-hosts-to-357-run-lead-as-rain-causes-havoc-on-day-three-at-lords",
       "source": "Sky Sports",
       "publisher": "Sky Sports",
-      "published": "2026-08-29T14:00:00Z",
+      "published": "2026-08-29T18:55:00Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -819,11 +795,11 @@
       "sourceWeight": 3,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 23,
+      "wordCount": 30,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://e0.365dm.com/26/08/1920x1080/skysports-swansea-city-ji-sung-eom_7334620.jpg?20260829143127"
+      "imageUrl": "https://e2.365dm.com/26/08/1920x1080/skysports-dan-lawrence-england_7335092.jpg?20260829195111"
     },
     {
       "id": "a746ad08898420a9",
@@ -1103,31 +1079,29 @@
       "imageHeight": 3853
     },
     {
-      "id": "5ac91267583100d9",
-      "title": "Chinese rescuers find ‘nothing but ruins’ at border crossing as Nepal seeks help to ID and store the dead",
-      "summary": "Nepal and China continue arduous search and rescue operations in flood-hit Himalayas Visual guide: how the deadly flooding unfolded Nepal-Tibet flash flood – latest updates A Chinese rescue team has reached the all-but-obliterated Gyirong border crossing complex for the first time and found “nothing but ruins” as Nepal and China continue their arduous rescue operations in the flood-hit Himalayas. Surveillance camera footage from the worst-hit Gyirong border crossing complex showed huge torrents of water and debris on Wednesday engulfing buildings and people trying to flee. Only ⁠on Friday were rescuers able to reach the area. Continue reading...",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
-      "source": "The Guardian China",
-      "publisher": "The Guardian",
-      "published": "2026-08-29T11:07:28Z",
-      "category": "Politics",
-      "region": "China",
+      "id": "5eeb108a7665cec3",
+      "title": "Taillon makes 1st rehab start, could return to Blue Jays soon",
+      "summary": "Infielder Smith (hamstring) also on comeback trail",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.mlb.com/bluejays/news/jameson-taillon-makes-rehab-start-for-blue-jays",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-08-29T00:39:32Z",
+      "category": "Sports",
+      "region": "Canada",
       "labels": [
-        "Politics",
-        "China"
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
       ],
       "sourceWeight": 5,
-      "focus": "",
+      "focus": "Blue Jays",
       "sourceType": "news",
-      "wordCount": 861,
-      "readingMinutes": 4,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/271a7f98e98406fa97e3618ad92eadccf60c69b2/1032_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=37b1afb32ec9ec251500d4a46b7ed861",
-      "body": "Nepal and China continue arduous search and rescue operations in flood-hit Himalayas\n\nVisual guide: how the deadly flooding unfolded\n\nNepal-Tibet flash flood – latest updates\n\nA Chinese rescue team has reached the all-but-obliterated Gyirong border crossing complex for the first time and found “nothing but ruins” as Nepal and China continue their arduous rescue operations in the flood-hit Himalayas.\n\nSurveillance camera footage from the worst-hit Gyirong border crossing complex showed huge torrents of water and debris on Wednesday engulfing buildings and people trying to flee. Only ⁠on Friday were rescuers able to reach the area.\n\nState media reported that the Chinese team of 21 rescuers and a search-and-rescue dog crossed mountains and valleys and used ropes to navigate forests and cliffs after roads to the complex, hemmed in by steep Himalayan slopes, were destroyed.\n\nZou Mingqi, a rescue worker, said: “There was no road … it was all virgin forest and sheer cliffs.” At the complex, “as far as the eye could ⁠see, there was nothing but ruins”.\n\nThe glacier collapse that unleashed a deadly torrent through Himalayan mountain river systems has killed at least 626 people ⁠in Nepal and seven in China’s Tibet . The number of people missing was revised up to nearly 3,000 on Saturday: 2,426 in Nepal and 554 in Tibet.\n\nAmid the deepening crisis, Nepal has now said it needs foreign ⁠help in specialised and technical areas in which it does not have expertise, but not in search and rescue.\n\nOn ⁠Friday, Nepal’s foreign ministry had said that Kathmandu could manage ​the rescue ​efforts on its own for ​now and declined foreign involvement.\n\nThe areas in which Nepal is seeking help include opening transport and communication services in places where bridges have been destroyed, identification of dead bodies, DNA testing, rescuing people stuck in tunnels, and storing bodies for longer durations, the foreign minister, Shisir Khanal, said late on Friday.\n\nKhanal said ​there was no ​need for assistance in general search and rescue which was being done by Nepali rescuers. “We think there is no need for repetition in this,” he said.\n\nNepal has requested that its neighbours, India and ​China, provide bailey bridges to reopen transport and communication in an area where about two dozen bridges have been destroyed.\n\nSo far, India has sent three flights carrying about 60 tons of relief material to Nepal, including blankets, medicines, food and water purification tablets, ⁠and a specialised tunnel rescue team.\n\nRescuers – including army personnel and police – have been clawing through mud and using drilling equipment to reach more than 100 people trapped inside a hydropower tunnel in Rasuwa. More than 350 people have already been evacuated from the site under “extremely risky” conditions and the office of Nepal’s prime minister said the rescue effort had become “extremely challenging” due to adverse weather.\n\nChina has called for emergency aid to disaster-hit areas and international rescue cooperation, without elaborating on what China is sending to Nepal.\n\nNepal is continuing to monitor two barrier lakes upstream of the flood zone, with an official warning that flood risks will persist until both lakes fully drain.\n\nSatellite imagery showed the second lake growing larger with no visible outlet, raising concerns that water pressure could still be building.\n\nChina’s state-run Xinhua news agency said that the first barrier lake was reducing in size, citing analysis by the water resources ministry. A Chinese government geo-hazards expert warned, however, that the lake may be ‌unstable and that more than 100 glacial lakes scattered throughout the area could pose a threat.\n\nIn Beijing, a politburo meeting chaired by President Xi Jinping called for stronger monitoring of glacier lakes and landslide risks, and for closer international disaster cooperation, Xinhua reported.\n\nChina’s Premier Li Qiang, the country’s No 2 official, arrived in the area of Gyirong on Thursday afternoon, Xinhua said. The visit suggested Beijing was treating the disaster as a matter of ​the highest national priority.\n\nIn China, strict controls on the flow of information from one of its most sensitive regions are hampering the public’s understanding of events.\n\nThe BBC and New York Times have reported that videos of the catastrophic floods, widely shared globally, have not appeared on Chinese social media sites.\n\nChinese state media has carried several broadcasts about the floods and dispatched journalists to the area, but reports have focused on the rescue efforts rather than the scale of the devastation. In one broadcast from a relief centre in Tibet, the journalist did not speak to any of the people sitting behind him.\n\nTibet, brought under Chinese control in the 1950s, is the most sensitive and tightly controlled region in the country.\n\nThe Gyirong border port plays a key role in China’s belt and road network linking the country to south Asia, with logistics zones and vehicle parks built there in the past decade.\n\nNepal’s finance minister, Swarnim Waglé, estimated the country will ⁠need $4-$5bn (£3-£3.7bn) for rebuilding. “This is just an ​estimate. Loss and ⁠damage is ​being assessed,” he ​said.\n\nMore than 90,000 people have been affected by the disaster, the Red Cross estimated.\n\nNepal-Tibet flood disaster\n\nNepal\n\nTibet\n\nChina\n\nIndia\n\nSouth and central Asia\n\nNatural disasters\n\nnews",
-      "imageWidth": 1200,
-      "imageHeight": 630
+      "wordCount": 7,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "32e7ae22b1659189",
@@ -1807,7 +1781,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a606/live/bcc0d3d0-a216-11f1-9090-b51af3a01fc2.jpg",
-      "body": "Anne Donaghy pictured outside court earlier this week\n\nPublished 28 August 2026\n\nAn ex-council chief executive is a subject in a police investigation into a former Democratic Unionist Party (DUP) mayor's clothing expenses.\n\nAnne Donaghy is one of three people referred to prosecutors for consideration over alleged misconduct in public office at Mid and East Antrim Borough Council.\n\nIt is the latest case surrounding its handling of Freedom of Information (FoI) legislation after Donaghy was convicted on Wednesday of two charges over the deletion of an email to former DUP leader Arlene Foster.\n\nDonaghy's solicitor told BBC News NI the allegations would be \"met with the same robustness as this week's proceedings which are now under appeal\".\n\nThe Police Service of Northern Ireland (PSNI) confirmed a file has been submitted to the Public Prosecution Service (PPS) for consideration.\n\nPolice said the investigation was in respect of two women aged 56 and 42, and a 57-year-old man.\n\nNone of the three are the former DUP mayor whose expenses were examined.\n\nDUP leader Gavin Robinson said that \"as far as I'm aware there are no issues that pertain to my colleagues or my party\".\n\n\"These are issues for Ms Donaghy to deal with,\" he told the BBC Ulster's Good Morning Ulster programme .\n\nExpenses cheque\n\nThe case centres on questions over clothing expenses claimed by Audrey Wales, 80, who was mayor between 2016 and 2017.\n\nThe Ballymena councillor spent more than £2,300, but the council did not disclose the full cost when asked for details in an FoI request.\n\nInstead its response in 2019 said Wales had spent just £190.\n\nThe entire bill was only revealed in a second FoI in 2022.\n\nIn a statement in 2022, Wales said she had sent a cheque in 2019 reimbursing the council for most of the spending to stop \"electorally motivated questions\".\n\nThe cheque was received by Donaghy, but was never cashed.\n\nWales, who sent a second cheque in 2021 upon learning the first had not been processed, said that \"at all times\" she acted in line with \"guidance from council officials\".\n\nThe council in 2022 commissioned a Belfast-based firm to conduct an investigation.\n\nIt found the council's FoI response involved \"a deliberate manipulation\", according to a copy leaked to the Belfast Telegraph. , external\n\nDonaghy has previously denied being involved in discussions about the FOI and said an email she sent referring to the cheque showed that she intended to cash it.\n\nWhen asked at the time whether it was examining the case, the PSNI said detectives were continuing to \"investigate suspected offences of misconduct in public office and under the Freedom of Information Act 2000\".\n\nIn an update, a PSNI spokesperson told BBC News NI: \"A file was submitted to the PPS in January 2025 concerning this investigation in respect of two females aged 56 and 42, and a 57-year-old man.\"\n\nIt is understood the investigation file relates to alleged offences including misconduct in a public office.\n\nThe PPS does not comment on any evidence in a file while it remains under consideration.\n\nThe case emerges after Donaghy was on Wednesday convicted of two charges connected to deleting or attempting to delete an email to prevent disclosure under the Freedom of Information Act.\n\nThe 56-year-old, of Clonmore Road, Dungannon, was fined £1,500. She was cleared of a third charge of trying to have an email deleted.\n\n'Vehemently contest'\n\nOn Wednesday Donaghy's solicitor said she \"maintains her innocence\" and would \"vehemently contest\" the findings.\n\nIn a further statement on the clothing expenses case, her solicitor said: \"These are allegations of some considerable vintage stretching back a number of years.\n\n\"If they ever materialise into anything then they will be met with the same robustness as this week's proceedings which are now under appeal.\"\n\nMid and East Antrim Borough Council has said it will \"carefully consider the outcome and any implications arising\" from this week's trial.\n\nIt added the council is \"committed to the highest standards of governance, transparency and information management\".\n\nThe Information Commissioner's Office (ICO) has urged public bodies to ensure they have proper arrangements to \"protect\" official records.\n\nIn a statement an ICO spokesperson said: \"Public authorities must have robust records management practices in place and take appropriate steps to preserve information that is subject to a request under Freedom of Information legislation.\"\n\nRelated topics\n\nNorthern Ireland\n\nMid and East Antrim Borough Council\n\nDUP (Democratic Unionist Party)\n\nBallymena\n\nMore on this story\n\nEx-council chief convicted of two charges over deleting email Published 2 days ago\n\nSuspended chief no longer employed by council Published 20 January 2023",
+      "body": "Anne Donaghy pictured outside court earlier this week\n\nPublished 28 August 2026\n\nAn ex-council chief executive is a subject in a police investigation into a former Democratic Unionist Party (DUP) mayor's clothing expenses.\n\nAnne Donaghy is one of three people referred to prosecutors for consideration over alleged misconduct in public office at Mid and East Antrim Borough Council.\n\nIt is the latest case surrounding its handling of Freedom of Information (FoI) legislation after Donaghy was convicted on Wednesday of two charges over the deletion of an email to former DUP leader Arlene Foster.\n\nDonaghy's solicitor told BBC News NI the allegations would be \"met with the same robustness as this week's proceedings which are now under appeal\".\n\nThe Police Service of Northern Ireland (PSNI) confirmed a file has been submitted to the Public Prosecution Service (PPS) for consideration.\n\nPolice said the investigation was in respect of two women aged 56 and 42, and a 57-year-old man.\n\nNone of the three are the former DUP mayor whose expenses were examined.\n\nDUP leader Gavin Robinson said that \"as far as I'm aware there are no issues that pertain to my colleagues or my party\".\n\n\"These are issues for Ms Donaghy to deal with,\" he told the BBC Ulster's Good Morning Ulster programme .\n\nExpenses cheque\n\nThe case centres on questions over clothing expenses claimed by Audrey Wales, 80, who was mayor between 2016 and 2017.\n\nThe Ballymena councillor spent more than £2,300, but the council did not disclose the full cost when asked for details in an FoI request.\n\nInstead its response in 2019 said Wales had spent just £190.\n\nThe entire bill was only revealed in a second FoI in 2022.\n\nIn a statement in 2022, Wales said she had sent a cheque in 2019 reimbursing the council for most of the spending to stop \"electorally motivated questions\".\n\nThe cheque was received by Donaghy, but was never cashed.\n\nWales, who sent a second cheque in 2021 upon learning the first had not been processed, said that \"at all times\" she acted in line with \"guidance from council officials\".\n\nThe council in 2022 commissioned a Belfast-based firm to conduct an investigation.\n\nIt found the council's FoI response involved \"a deliberate manipulation\", according to a copy leaked to the Belfast Telegraph. , external\n\nDonaghy has previously denied being involved in discussions about the FOI and said an email she sent referring to the cheque showed that she intended to cash it.\n\nWhen asked at the time whether it was examining the case, the PSNI said detectives were continuing to \"investigate suspected offences of misconduct in public office and under the Freedom of Information Act 2000\".\n\nIn an update, a PSNI spokesperson told BBC News NI: \"A file was submitted to the PPS in January 2025 concerning this investigation in respect of two females aged 56 and 42, and a 57-year-old man.\"\n\nIt is understood the investigation file relates to alleged offences including misconduct in a public office.\n\nThe PPS does not comment on any evidence in a file while it remains under consideration.\n\nThe case emerges after Donaghy was on Wednesday convicted of two charges connected to deleting or attempting to delete an email to prevent disclosure under the Freedom of Information Act.\n\nThe 56-year-old, of Clonmore Road, Dungannon, was fined £1,500. She was cleared of a third charge of trying to have an email deleted.\n\n'Vehemently contest'\n\nOn Wednesday Donaghy's solicitor said she \"maintains her innocence\" and would \"vehemently contest\" the findings.\n\nIn a further statement on the clothing expenses case, her solicitor said: \"These are allegations of some considerable vintage stretching back a number of years.\n\n\"If they ever materialise into anything then they will be met with the same robustness as this week's proceedings which are now under appeal.\"\n\nMid and East Antrim Borough Council has said it will \"carefully consider the outcome and any implications arising\" from this week's trial.\n\nIt added the council is \"committed to the highest standards of governance, transparency and information management\".\n\nThe Information Commissioner's Office (ICO) has urged public bodies to ensure they have proper arrangements to \"protect\" official records.\n\nIn a statement an ICO spokesperson said: \"Public authorities must have robust records management practices in place and take appropriate steps to preserve information that is subject to a request under Freedom of Information legislation.\"\n\nRelated topics\n\nNorthern Ireland\n\nMid and East Antrim Borough Council\n\nDUP (Democratic Unionist Party)\n\nBallymena\n\nMore on this story\n\nEx-council chief convicted of two charges over deleting email Published 3 days ago\n\nSuspended chief no longer employed by council Published 20 January 2023",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1985,31 +1959,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e64/live/5cd9a9c0-a22e-11f1-bd54-531a21306a62.jpg"
     },
     {
-      "id": "d5e2e356ade371c3",
-      "title": "Norway's King Harald V dies at 89 and his son becomes King Haakon VIII",
-      "summary": "King Harald V of Norway, who went into exile in the United States as a child during the Nazi occupation of his homeland and refused a string of European noblewomen to marry his school sweetheart, died Friday.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii",
-      "source": "NPR Politics",
-      "publisher": "NPR",
-      "published": "2026-08-28T07:11:46Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 37,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1650x1045+0+0/resize/1650x1045!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2Fa6%2Fb07769064781a3619be2531fe96b%2Fap22217328926289.jpg",
-      "imageAlt": "King Harald V of Norway and his wife Sonja leave the Notre Dame cathedral after attending at the funeral of the Grand Duke Jean of Luxembourg, in Luxembourg, on May 4, 2019."
-    },
-    {
       "id": "c662c106958c2730",
       "title": "Greens call for temporary ban on new data centres",
       "summary": "Zack Polanski wants stricter rules to limit the use of water and energy by data centres for AI.",
@@ -2179,6 +2128,31 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d6e/live/66851bb0-a20d-11f1-9090-b51af3a01fc2.jpg"
     },
     {
+      "id": "0935a987bd4d894f",
+      "title": "South Africa hold off All Blacks fightback to level series",
+      "summary": "World champions South Africa deliver a powerful first-half performance as they edge past New Zealand and level 'Rugby's Greatest Rivalry' series at 1-1.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c1mvred1l7do",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-08-29T18:08:14Z",
+      "category": "Sports",
+      "region": "Africa",
+      "labels": [
+        "Sports",
+        "Africa",
+        "Rugby"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 23,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb55/live/085060d0-a3cb-11f1-be9a-77d4a3f49115.jpg"
+    },
+    {
       "id": "7989131333f4f419",
       "title": "Here's why John Schneider won't drop Guerrero in the lineup",
       "summary": "This feed supplied a headline but no article summary.",
@@ -2227,6 +2201,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a27/live/20351520-a163-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "id": "24535d74c1bb6498",
+      "title": "Fundraiser launched to secure crafting shop future",
+      "summary": "\"We don't want to give up, we want to keep making this work,\" say the owners.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cz0zr3577glo",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-08-29T18:15:54Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f09/live/1bcdf500-a3d5-11f1-a291-b542ee92de7c.png"
     },
     {
       "id": "5eedaad84ce1ab42",
@@ -2445,6 +2443,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/58f232c0-a2a4-11f1-b109-879e35c24276.jpg"
     },
     {
+      "id": "80b7480ad9a281f1",
+      "title": "Moyes 'disappointed' with Everton performance",
+      "summary": "Everton manager David Moyes praises his side's second-half resilience after James Tarkowski's injury-time equaliser rescues a point for The Toffees away to Bournemouth. Moyes admitted that it looked like his team \"were never going to score\" before the 91st minute breakthrough cancels out Alex Scott's first-half opener.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cy0znyel8d2o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T16:51:56Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 47,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a41/live/7122d190-a3c8-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
       "id": "3b0874b568078832",
       "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
       "summary": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
@@ -2515,6 +2537,102 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/8ac80610-9fa9-11f1-bff6-57f1422ebb0b.jpg"
+    },
+    {
+      "id": "b5dc7e92ffbdea28",
+      "title": "Lawrence helps England build big lead on rain-affected day at Lord's",
+      "summary": "Dan Lawrence hits an unbeaten half-century as England close on 177-7 in their second innings on day three of the second Test at Lord's, with the hosts leading by 357 and seemingly closing in on a series victory, with a match to spare.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/c8r6jel75llo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T18:11:05Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 43,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f2/live/bced6ee0-a3d3-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "id": "03503a4008d37082",
+      "title": "Hull continue perfect start with away win at Coventry",
+      "summary": "Substitute Liam Millar's late goal helps Hull secure a 1-0 away victory against Coventry City and continues their perfect start to life back in the Premier League, with two wins from two matches.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5yjd20g6rpo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T19:12:12Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 33,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66ef/live/11808ed0-a3d7-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "id": "1bf0660c2b3aaa3b",
+      "title": "'Supporters aren't always wrong' - Moyes on Everton fans' anger",
+      "summary": "David Moyes says \"supporters aren't always wrong\" after Everton fans voice their opposition to the potential sale of teenage midfielder Harrison Armstrong during the 1-1 draw at Bournemouth.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy7zk5vprplo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T18:59:28Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 28,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d0c/live/764885c0-a3d2-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "id": "77aa7d8eec14db0f",
+      "title": "Iraola awaits first win as Liverpool rescue late draw against Forest",
+      "summary": "Liverpool come from behind twice to rescue a 2-2 draw against Nottingham Forest at Anfield, leaving new manager Andoni Iraola in search of his first Premier League win with the club.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2zw96094xo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T19:12:20Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 31,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba0/live/540c3740-a3b9-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "id": "96d0a510fa07175a",
@@ -2589,6 +2707,54 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1c8/live/40238a80-a215-11f1-a291-b542ee92de7c.jpg"
     },
     {
+      "id": "9a8b13e302874ced",
+      "title": "'A gritty innings' - Lawrence digs in to help England build big lead",
+      "summary": "Despite an innings heavily disrupted by the weather, Dan Lawrence digs in to finish unbeaten on 50 off 66 balls, as England closed on 177-7 on day three of the second Test against Pakistan, giving them a lead of 357.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/cx2zy71qvnjo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T17:08:45Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 40,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca4/live/2995d590-a3cb-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "id": "894b8cee2e0743c7",
+      "title": "Maguire fires superb 63 as Alexander lead cut at Irish Open",
+      "summary": "Ireland's Leona Maguire fires a superb nine-under-par 63 at the Women's Irish Open at the K Club in County Kildare as Casandra Alexander leads by three going into Sunday's final round.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cq63297y624o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T18:15:19Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 31,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d21/live/15c8d920-a3d2-11f1-b098-d55c64dec0e1.jpg"
+    },
+    {
       "id": "dfcba893648b9745",
       "title": "The Briefing Room",
       "summary": "Young people are protesting around the world but about what and are they winning?",
@@ -2611,6 +2777,125 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p627cm.jpg"
+    },
+    {
+      "id": "a6bb8f6d1546098a",
+      "title": "Tarkowski strikes late to rescue point for Everton at Bournemouth",
+      "summary": "Everton captain James Tarkowski strikes in the 91st minute to rescue a point, as Bournemouth settle for a 1-1 draw at the Vitality Stadium.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c70lenegd1qo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T19:12:07Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3d2/live/6ee93770-a3d7-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "id": "58cd898f0daf57b2",
+      "title": "Russian-American heads Trump's planned Caucasus trade route",
+      "summary": "A Russian-born businessman heads the investment fund financing the so-called \"Trump Route,\" a planned corridor through Armenia linking Azerbaijan with Nakhchivan. Who is Konstantin Sokolov, and what role does he play?",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/russian-american-heads-trump-s-planned-caucasus-trade-route/a-78547064?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-29T16:20:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 31,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "088e27fc6f6b6b8f",
+      "title": "Lawrence impresses as weather delays England",
+      "summary": "Dan Lawrence impresses in devilishly difficult batting conditions to advance England’s push for a series win over Pakistan on a weather-hit third day of the second Test.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c62k3j64x59o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T17:43:39Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 27,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e361/live/fcb3d040-a3ca-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "id": "a819b7238a8949df",
+      "title": "'We've got to do more' - Lampard frustrated by loss to Hull",
+      "summary": "Coventry manager Frank Lampard believes his side controlled possession but were \"too slow\" with the ball as their first top-flight home game in 25 years ends in a 1-0 defeat by Hull City.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/czjzdnj3l14o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T16:59:54Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 33,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b094/live/d1e16680-a3c9-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "id": "cbb5f149a50457b7",
+      "title": "Vaughan backs Lawrence for extended run in England team",
+      "summary": "Former captain Michael Vaughan backs batter Dan Lawrence for a run in England's Test side. How would you solve impending selection headache?",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cgrvw52zdrpo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-08-29T18:21:55Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb3b/live/82d14b10-a3d2-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "id": "3977fa1b49af6978",
@@ -2636,6 +2921,101 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
+    },
+    {
+      "id": "9ce31e5b1ff25e2b",
+      "title": "US judge rules against Trump’s effort to deport pro-Palestinian students",
+      "summary": "A federal judge criticised the Trump government for attempting to infringe upon foreign students' rights to free speech.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rules-against-trumps-effort-to-deport-pro-palestinian-students?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-08-29T18:56:19Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "f42455673350ae4b",
+      "title": "'I still go Nando's' - Itauma on fame, books & The Odyssey",
+      "summary": "Moses Itauma and comedian Rob Beckett play a round of golf whilst discussing Itauma's fame, what he does to relax and his biggest challenge in the upcoming fight for the IBF heavyweight world title against Filip Hrgovic on Saturday night at the O2 arena.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/boxing/videos/c8d3j6y758go",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T14:01:46Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 44,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8db/live/95117480-a12f-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "id": "c516a78621a346ca",
+      "title": "Henshaw wins world gold 11 days after being in hospital",
+      "summary": "Britain's Charlotte Henshaw has won her 12th Para-canoe World Championship title - less than two weeks after being in hospital with cellulitis.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/canoeing/articles/cgrvw27ll12o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T17:59:16Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 21,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eccc/live/b7774a60-a3c1-11f1-b13c-0d78069132fa.jpg"
+    },
+    {
+      "id": "381ce8786f47efa2",
+      "title": "'Not bad for the worst team in Premier League history' - Hull's perfect start",
+      "summary": "Hull striker Oli McBurnie has a playful dig at his team's critics after beating Coventry to win their opening two Premier League games.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v4ezerjrgo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T18:03:52Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 23,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72c3/live/0f61d3e0-a3df-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "id": "ff41468695e8b2ea",
@@ -2734,6 +3114,54 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e022/live/dd067e10-a211-11f1-9090-b51af3a01fc2.jpg"
     },
     {
+      "id": "3258091b37dbd777",
+      "title": "Barry-Murphy optimistic over more Cardiff signings",
+      "summary": "Brian Barry-Murphy is optimistic Cardiff City will make further additions to their squad before Tuesday's transfer deadline.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xl2vy20eo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T17:55:13Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74e0/live/3df57840-a3c8-11f1-be9a-77d4a3f49115.jpg"
+    },
+    {
+      "id": "01a6d82f5b9d64f1",
+      "title": "The tiny town aiming to defy odds in Bundesliga debut",
+      "summary": "Elversberg has no train station and a population of just 13,000, but its football team have enjoyed a meteoric rise from the regional German leagues to the Bundesliga.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c70d4n1d0r9o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T16:14:34Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 29,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f626/live/6d399fa0-a2fb-11f1-80b3-bf1a174ac193.jpg"
+    },
+    {
       "id": "42480cfd353dd694",
       "title": "Is the Trump Treasury panicking over the level of US debt?",
       "summary": "With the federal deficit near 6% of GDP and the national debt over $40tn, America’s fiscal position looks increasingly precarious Bessent ‘will lose’ battle with bond markets, ex-mentor warns Are we seeing the first signs of panic in Donald Trump’s Treasury? The US is by far the world’s biggest debtor, and the steady rise in global long-term interest rates – which I have long argued was inevitable – is starting to cause real pain. Until now, the Treasury secretary, Scott Bessent, has dismissed concerns about US debt, which recently surpassed $40tn , as a big nothingburger. Growth, in his telling, will be so spectacular the US will easily be able to meet its interest obligations without any significant tax rises or spending cuts, while the rest of the world will happily keep feeding it money. But if Bessent really believes that, why is he trying to strong-arm the bond market by fiddling with the maturity structure of government debt? Continue reading...",
@@ -2756,6 +3184,150 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/ea057ddcb639c2a0e202f6c9e46b66c57d04460e/688_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=d8322248a8c3fff2afdc9ab1e13c8818"
+    },
+    {
+      "id": "b0150ec62066cde6",
+      "title": "Man dies after train hits van on level crossing",
+      "summary": "British Transport Police said a man who was in a van died at the scene, in Burscough.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/clylkwl5nd4o",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-08-29T18:38:31Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b57/live/2bd615b0-a3d8-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "id": "426314021910690e",
+      "title": "Durham taken to final day despite needing only four runs to win",
+      "summary": "Division Two leaders Durham will need four runs on the final day to beat Gloucestershire.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c2l8dnpx9zqo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T18:01:38Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0b6/live/f2037ad0-a3d2-11f1-b098-d55c64dec0e1.jpg"
+    },
+    {
+      "id": "d262b7d1135952e5",
+      "title": "Iraola angry as official's board delays subs before goal",
+      "summary": "Liverpool boss Andoni Iraola says he was angry about being prevented from making a triple substitution sooner during his side's draw against Nottingham Forest.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd795e9ejgzo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T15:27:43Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eb5/live/b2bb3800-a3b8-11f1-b13c-0d78069132fa.jpg"
+    },
+    {
+      "id": "0b19420d9938dc84",
+      "title": "'Proud' but 'disappointed' - Glasner's mixed emotions after Liverpool draw",
+      "summary": "Nottingham Forest manager Oliver Glasner says he was \"proud\" of his side's performance at Anfield as they draw 2-2 with Liverpool in the Premier League, and believes they could have won.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8xkj45r2jno",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T14:15:12Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 31,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a730/live/4053b590-a3b2-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "id": "adb274735ba63d69",
+      "title": "Forest agree £22m deal with Palace for Munoz",
+      "summary": "Nottingham Forest agree a deal worth a minimum of £22m to sign Daniel Munoz from Crystal Palace.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39m0vmgxrgo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T16:43:25Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae33/live/39c7f900-a3b9-11f1-b13c-0d78069132fa.jpg"
+    },
+    {
+      "id": "beaf8598dfe00d51",
+      "title": "Iraola urges 'passive' Liverpool to learn quickly after Forest draw",
+      "summary": "Liverpool head coach Andoni Iraola says his side need to \"learn lessons\" after they twice come from behind to draw 2-2 with Nottingham Forest at Anfield.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwyz8dr7jz3o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T14:23:33Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 26,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dd1/live/865ecfb0-a3b3-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "id": "a3c2322d8ab718d7",
@@ -3022,6 +3594,30 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg"
     },
     {
+      "id": "63b5385dec0f16e4",
+      "title": "Gibbs-White shines - player ratings for Liverpool v Nottm Forest",
+      "summary": "How Liverpool and Nottingham Forest's players rated following their Premier League match.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckgwnnj281no",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T13:28:37Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 12,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9324/live/09c7f330-a3ab-11f1-af36-fffc938dca63.jpg"
+    },
+    {
       "id": "5b0c7c93d16cd673",
       "title": "Forest to bid £40m for Everton teenager Armstrong",
       "summary": "Nottingham Forest launch an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong.",
@@ -3285,30 +3881,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-1152x648.jpg"
     },
     {
-      "id": "01a6d82f5b9d64f1",
-      "title": "The tiny town aiming to defy odds in Bundesliga debut",
-      "summary": "Elversberg has no train station and a population of just 13,000, but its football team have enjoyed a meteoric rise from the regional German leagues to the Bundesliga.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c70d4n1d0r9o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-29T06:55:10Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 29,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f626/live/6d399fa0-a2fb-11f1-80b3-bf1a174ac193.jpg"
-    },
-    {
       "id": "d54c933c6aa559d2",
       "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
       "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
@@ -3333,6 +3905,30 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2235448062-1024x648.jpg"
     },
     {
+      "id": "8df63fb223e5f938",
+      "title": "Liverpool agree £123m deal for PSG's Barcola",
+      "summary": "Liverpool are closing in on a deal to sign forward Bradley Barcola, which will increase doubts over Cody Gakpo's future.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-08-29T08:03:53Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/999a/live/4e4ad390-a394-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
       "id": "e0570d379a1560c7",
       "title": "Iceland holds knife-edge referendum on EU membership talks",
       "summary": "The Nordic nation shelved earlier plans to join the EU over fishing rights, but geopolitics, including Trump's threat to seize Greenland, has prompted a rethink.",
@@ -3354,30 +3950,6 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
-    },
-    {
-      "id": "d5779a665a21d7b6",
-      "title": "Trippier praises Miley's 'big presence' as Newcastle face Tonali reunion",
-      "summary": "Newcastle midfielder Lewis Miley is backed to \"go as far as he wants\" as the 20-year-old prepares to face former team-mate Sandro Tonali at Tottenham Hotspur Stadium.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07ler0rxlro",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-29T06:11:10Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 27,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3edf/live/c91f2cb0-a074-11f1-bf10-9547e884d7b7.jpg"
     },
     {
       "id": "828c2c7384b227b9",
@@ -3426,30 +3998,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c4/live/39404390-a2d6-11f1-941c-8741c1a72471.jpg"
-    },
-    {
-      "id": "9fb228829a4ac28b",
-      "title": "Lampard 'somewhere in the middle' of Mourinho and Ancelotti",
-      "summary": "Eight years into his own managerial career, Coventry City boss Frank Lampard cites Jose Mourinho and Carli Ancelotti as the main influences on his style.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c87v04d59n3o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-29T05:12:27Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 25,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1595/live/6e7a2c80-a167-11f1-aaf8-119f176ff4ce.jpg"
     },
     {
       "id": "41ba3c2c07d84be0",
@@ -3525,29 +4073,6 @@
       "isBreaking": false
     },
     {
-      "id": "426028663321d3cc",
-      "title": "Bernie Sanders, AOC join marchers in Washington to ‘defend the vote’",
-      "summary": "Thousands of people marched on Washington DC, invoking Martin Luther King Jr.’s legacy on the 63rd anniversary.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/bernie-sanders-aoc-join-marchers-in-washington-to-defend-the?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-29T05:27:25Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "2088a13a8c5a3aa6",
       "title": "Let's be brave about being in Premier League - Coventry's Lampard",
       "summary": "Frank Lampard and Tom Grennan discuss why Coventry will be playing brave football in the Premier League this season.",
@@ -3618,53 +4143,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e90/live/9843a980-a25f-11f1-883e-b50da2634501.jpg"
-    },
-    {
-      "id": "6d67005568a63f4d",
-      "title": "What’s in the US-Venezuela ‘biggest oil deal in world history?’",
-      "summary": "US President Donald Trump has claimed the US and Venezuela have reached the ‘biggest oil deal in world history’.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-08-29T04:16:01Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "7a5e8ab0d83aefca",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c89jw4554e5o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-29T05:18:55Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "id": "56bf36db3335f6d1",
@@ -3811,6 +4289,29 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f97e/live/96df1130-a2f3-11f1-a291-b542ee92de7c.png"
     },
     {
+      "id": "79116abdf122ec8d",
+      "title": "US arrests far-right provocateur Milo Yiannopoulos",
+      "summary": "Yiannopoulos, a far-right commentator, was an early supporter of Donald Trump and his immigration crackdown, but they have since fallen out. DHS said he was an \"illegal alien\" who overstayed his visit in the US.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/us-arrests-far-right-provocateur-milo-yiannopoulos/a-78553559?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-08-28T21:45:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 35,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "ce9c75a7a268f52c",
       "title": "Business Daily",
       "summary": "Evergrande was at the heart of China’s property boom, and its dramatic collapse",
@@ -3882,126 +4383,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96e/live/2b586050-a20e-11f1-9090-b51af3a01fc2.jpg"
     },
     {
-      "id": "7f257fef57ece8c8",
-      "title": "Hovland in tie for lead at Tour Championship",
-      "summary": "Norway's Viktor Hovland and American Ryan Gerard in tie for the lead at 10 under, heading into the weekend at the Tour Championship in Atlanta.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/c20lnlpx714o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-28T23:09:36Z",
-      "category": "Sports",
-      "region": "US",
-      "labels": [
-        "Sports",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 25,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe5b/live/8171bb50-a333-11f1-84e6-5f05e8e26a23.jpg"
-    },
-    {
-      "id": "e50f4fe4b38873cf",
-      "title": "A magician and a maverick - this could be Cherki's moment for Man City",
-      "summary": "After two goals and a swaggering display against Crystal Palace, Phil McNulty asks if this is Rayan Cherki's time to shine for Manchester City.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c24j5jnnr9eo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-28T22:56:42Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2142/live/6813fb90-a32a-11f1-8e46-c39d9fc92d9e.jpg"
-    },
-    {
-      "id": "e422cdc22222f8c5",
-      "title": "The race to stop England running out of water",
-      "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-08-29T00:46:00Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed1/live/17fc92d0-a2f2-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "id": "675cb7c07cbc4f06",
-      "title": "'I learned from Murray' - Boulter won't make wedding ring mistake",
-      "summary": "Andy Murray has long been a guiding figure for British tennis, but newly-married Katie Boulter will not be following his lead when it comes to keeping her wedding ring safe as she prepares for the US Open.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c20v7y3vy2do",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-28T19:55:25Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 37,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ee3/live/67a94d80-a317-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "577fec733905f059",
-      "title": "Charli XCX electrifies Reading Festival with era-spanning set",
-      "summary": "The British singer and Irish rock band Fontaines DC both headlined the first night of Reading for 2026.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c750ng9grk0o",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-08-28T23:34:34Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ea/live/35df52c0-a32d-11f1-8e46-c39d9fc92d9e.jpg"
-    },
-    {
       "id": "6ca4ebe9686f4f39",
       "title": "What do you spend too much on?",
       "summary": "Central London shoppers reveal what they love to splash out on - and share their tips for not overspending.",
@@ -4050,30 +4431,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "58f7b3c496bc25e9",
-      "title": "Leeds go back top with thumping win at St Helens",
-      "summary": "Leeds Rhinos go back to the top of the Super League standings on points difference with a rare and comprehensive away win at St Helens.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c8r6dyk5g2eo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-28T21:59:42Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 25,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017e/live/77f51170-a31b-11f1-8937-ebc435db1160.jpg"
-    },
-    {
       "id": "63f6ffdf36f2224f",
       "title": "I used to live in a quiet area - now a data centre overlooks my garden",
       "summary": "With the number of UK data centres set to rise, some communities are concerned about their impact.",
@@ -4096,30 +4453,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c7c/live/02b5a460-a2a8-11f1-ab20-f9f4f61e8913.jpg"
-    },
-    {
-      "id": "52b504de01b0e904",
-      "title": "Sarfaraz denies knowing about Pakistan threat to end tour",
-      "summary": "Head coach Sarfaraz Ahmed says he and his players did not know about a Pakistan Cricket Board threat to the England and Wales Cricket Board over a Sky interview with the sons of Imran Khan.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c17j0y17epdo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-28T19:38:35Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 35,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/992d/live/e2384280-a313-11f1-b109-879e35c24276.jpg"
     },
     {
       "id": "3634a004716e25ea",
@@ -4218,30 +4551,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/978b/live/cb01cd60-a2fb-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "f77921845e35c7ff",
-      "title": "Injury uncertainty led to 'intrusive thoughts' for Alcaraz",
-      "summary": "Seven-time major champion Carlos Alcaraz says not knowing when he would be able to return from a wrist injury was most challenging part of his long absence.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c3rexy3jllyo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-28T20:16:44Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 27,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef9/live/c6259af0-a315-11f1-93b3-fd1f81ebc907.jpg"
-    },
-    {
       "id": "f420e8525f172559",
       "title": "Arsenal & Barca monitor Rashford - Saturday's gossip",
       "summary": "Arsenal monitor Marcus Rashford, Chelsea eye Monaco's Lamine Camara and Valencia push for Liverpool midfielder Harvey Elliott, plus more.",
@@ -4312,78 +4621,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d5b/live/551fe6a0-a147-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "0c645cc5a73dc326",
-      "title": "How England are building an attack to trouble Australia",
-      "summary": "Former England captain Michael Vaughan predicts England's new pace quartet will trouble Australia - so what is making them effective against Pakistan?",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cvgy0zdex14o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-28T19:11:13Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4421/live/ec36fe60-a30f-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "id": "710c63cf0d6bf9c4",
-      "title": "Greaves loses thriller to Cross on European debut",
-      "summary": "Beau Greaves narrowly loses 6-5 to Rob Cross on her European Tour debut in the Hungarian Darts Trophy.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/darts/articles/czjz78lwjzzo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-28T20:35:22Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a079/live/f0d775a0-a31c-11f1-8937-ebc435db1160.jpg"
-    },
-    {
-      "id": "e596012b813d6270",
-      "title": "What will Jackson bring to Villa with Watkins set for exit?",
-      "summary": "BBC Sport examines what new striker Nicolas Jackson will bring to Aston Villa, with Ollie Watkins looking set to join Al-Hilal.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-28T19:14:48Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da66/live/37216070-a200-11f1-a97e-999c5aae08bf.jpg"
     },
     {
       "id": "db2fe8dd9d341046",
@@ -4481,30 +4718,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/illo_cloud_break_final-768x432.jpg"
-    },
-    {
-      "id": "025e5b94fa7f1ec8",
-      "title": "Hrgovic slaps Itauma after being pushed off stage at weigh-in",
-      "summary": "British heavyweight Moses Itauma pushes Filip Hrgovic off the stage before the Croat slaps him as chaos erupts at the weigh-in for Saturday's world-title bout.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cly4v9qg7l4o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-28T17:04:47Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 25,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1e4/live/84ec1900-a307-11f1-80b3-bf1a174ac193.png"
     },
     {
       "id": "8d5ea2d8a5962629",
@@ -4769,228 +4982,13 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
-    },
-    {
-      "id": "fc636dcc20a2ca24",
-      "title": "Division, drama and power - what next for Infantino and Uefa?",
-      "summary": "Explosive court documents reveal the growing bitterness of Uefa's feud with Fifa president Gianni Infantino, Dan Roan reports.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gmx03npxmo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-08-28T15:00:20Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2716/live/6301ae50-a2de-11f1-a4f5-c3e4a51a2b37.jpg"
-    },
-    {
-      "id": "71f49aeb527e64a9",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "source": "TechCrunch",
-      "publisher": "TechCrunch",
-      "published": "2026-08-28T12:46:12Z",
-      "category": "Tech",
-      "region": "US",
-      "labels": [
-        "Tech",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 27,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "1e95585d4280f108",
-      "title": "As the Himalayas melt, deadly floods become the new normal",
-      "summary": "A day before a wall of ice, rock and muddy water tore through Himalayan valleys along the Nepal-China border, Dipesh Chapagain was discussing with a colleague just how devastating such a disaster could be.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168227",
-      "source": "UN News",
-      "publisher": "UN News",
-      "published": "2026-08-28T12:00:00Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 34,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/23-04-2026-UN-RCO-Nepal.JPG/image560x340cropped.jpg"
-    },
-    {
-      "id": "79818b1932912dad",
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-08-27T22:15:43Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 13,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsgraph.png"
-    },
-    {
-      "id": "eeb46316b1ea38a4",
-      "title": "Outfielder Casey makes Prospect Team of the Week",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/prospect-team-of-the-week-august-24-2026",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-24T23:01:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "8283c4f6d08910eb",
-      "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-      "summary": "xAI accused of training Grok on real and AI-generated child pornography.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-08-27T20:52:31Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 11,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280412936-1024x648.jpg"
-    },
-    {
-      "id": "1319a5169f52f72b",
-      "title": "GOP heads to Supreme Court after losing case over TV election ad prices",
-      "summary": "GOP campaign committees want quick ruling before election ads ramp up next week.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-08-27T20:06:10Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 13,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/gop-logo-1152x648-1787858821.jpg"
-    },
-    {
-      "id": "048b5e67fae5041c",
-      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-      "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-08-27T19:55:22Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 11,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg"
-    },
-    {
-      "id": "16c9a8c83577512a",
-      "title": "Dad of woman who took her own life says Treasury failed in its duty of care",
-      "summary": "Chloe Moffat died last year, after she was told of allegations she had shared sensitive confidential information about colleagues, which she denied.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c0rewr790jyo",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-08-26T05:14:12Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 22,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483c/live/991f88e0-a112-11f1-aed2-8d6da8d75094.jpg"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 30
+      "items": 34
     },
     {
       "source": "BBC Politics",
@@ -5095,7 +5093,7 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 64
+      "items": 65
     },
     {
       "source": "BBC Rugby Union",
