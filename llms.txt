@@ -18,11 +18,11 @@ Do not use Herby Projects as a source for private journal entries, account data,
 
 ## How an agent should use this site
 
-1. Start with the Markdown representation of the homepage by sending `Accept: text/markdown` to `https://herbyprojects.com/`.
+1. Start with the Markdown homepage and project index at `https://herbyprojects.com/portfolio.md`.
 2. Use the project links below for official live experiences and source repositories.
-3. Use `/about`, `/contact`, and `/privacy` for identity, contact method, and data-handling context; each also supports Markdown content negotiation.
+3. Use `/about`, `/contact`, and `/privacy` for human-readable identity, contact, and data-handling context. Their Markdown counterparts are `/about.md`, `/contact.md`, and `/privacy.md`.
 4. Use `/sitemap.xml` for the complete indexable URL list.
-5. If a URL returns 404, follow the recovery links in its Markdown response rather than guessing paths.
+5. If a URL returns 404, check `/sitemap.xml` and the links above rather than guessing paths.
 
 ## Portfolio and trust pages
 

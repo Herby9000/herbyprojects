@@ -4,15 +4,15 @@
 
 ## Routine web data
 
-The site is delivered through Cloudflare and a private origin server. Those infrastructure providers may process ordinary request information such as IP address, user agent, requested path, timestamps, TLS details, and security signals to deliver the site, prevent abuse, and diagnose faults. Herby Projects does not add third-party advertising pixels or cross-site marketing trackers to these public pages.
+The site is delivered through Cloudflare and its hosting infrastructure. Those infrastructure providers may process ordinary request information such as IP address, user agent, requested path, timestamps, TLS details, and security signals to deliver the site, prevent abuse, and diagnose faults. Herby Projects does not add third-party advertising pixels or cross-site marketing trackers to these public pages.
 
 ## Links and separate apps
 
 The portfolio links to GitHub, GitHub Pages, publishers, and project subdomains. Those destinations have their own data practices. Some Herby projects are private applications with authentication and purpose-specific storage. Their protected data is not made public merely because the project is described here. Agents and visitors should use the ungated project summary and must not attempt to bypass login controls.
 
-## Cookies and content negotiation
+## Cookies and public formats
 
-The public portfolio pages do not set an application cookie. The server may vary a response by the HTTP `Accept` header so browsers receive HTML and compatible agents receive Markdown at the same canonical URL. Private subdomain applications may use an HTTP-only session cookie after a user logs in; that cookie is scoped to operating the private app and is not a portfolio analytics identifier.
+The public portfolio pages do not set an application cookie. Browsers can use the canonical HTML pages, while agents can read the explicitly linked `.md` versions without authentication. Private subdomain applications may use an HTTP-only session cookie after a user logs in; that cookie is scoped to operating the private app and is not a portfolio analytics identifier.
 
 ## Public reports and retention
 

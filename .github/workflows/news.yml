@@ -46,6 +46,12 @@ jobs:
             git commit -m "chore: refresh news edition"
             git push
           fi
+      - name: Prepare clean trust-page URLs
+        run: |
+          for page in about contact privacy; do
+            mkdir -p "$page"
+            cp "$page.html" "$page/index.html"
+          done
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

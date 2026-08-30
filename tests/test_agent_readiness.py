@@ -80,6 +80,7 @@ class AgentReadinessTests(unittest.TestCase):
         self.assertEqual(canonical, ["https://herbyprojects.com/"])
 
         open_graph = {meta.get("property"): meta.get("content") for meta in page.meta if meta.get("property")}
+        self.assertEqual(open_graph["og:type"], "website")
         self.assertEqual(open_graph["og:url"], "https://herbyprojects.com/")
         self.assertEqual(open_graph["og:image"], "https://herbyprojects.com/assets/herby-projects-og.png")
         self.assertEqual(open_graph["og:image:width"], "1200")
@@ -90,8 +91,31 @@ class AgentReadinessTests(unittest.TestCase):
         self.assertEqual(structured_data["@context"], "https://schema.org")
         graph = {item["@type"]: item for item in structured_data["@graph"]}
         self.assertEqual(set(graph), {"Organization", "WebSite"})
-        self.assertEqual(graph["Organization"]["url"], "https://herbyprojects.com/")
-        self.assertEqual(graph["WebSite"]["publisher"]["@id"], graph["Organization"]["@id"])
+        organization = graph["Organization"]
+        self.assertEqual(organization["name"], "Herby Projects")
+        self.assertTrue(organization["description"])
+        self.assertEqual(organization["url"], "https://herbyprojects.com/")
+        self.assertTrue(organization["logo"].startswith("https://herbyprojects.com/"))
+        self.assertEqual(organization["sameAs"], ["https://github.com/Herby9000"])
+        self.assertEqual(
+            organization["contactPoint"],
+            {
+                "@type": "ContactPoint",
+                "contactType": "technical support",
+                "url": "https://herbyprojects.com/contact",
+                "availableLanguage": "English",
+            },
+        )
+        self.assertEqual(
+            organization["address"],
+            {
+                "@type": "PostalAddress",
+                "addressLocality": "Toronto",
+                "addressRegion": "Ontario",
+                "addressCountry": "CA",
+            },
+        )
+        self.assertEqual(graph["WebSite"]["publisher"]["@id"], organization["@id"])
 
     def test_sitemap_is_valid_and_contains_canonical_public_pages(self):
         root = ElementTree.parse(ROOT / "sitemap.xml").getroot()
@@ -110,6 +134,11 @@ class AgentReadinessTests(unittest.TestCase):
                 "https://herbyprojects.com/projects/three-smiles",
             },
         )
+        last_modified = {
+            node.text
+            for node in root.findall("{http://www.sitemaps.org/schemas/sitemap/0.9}url/{http://www.sitemaps.org/schemas/sitemap/0.9}lastmod")
+        }
+        self.assertEqual(last_modified, {"2026-08-30"})
 
     def test_llms_guidance_explains_when_and_how_to_use_the_site(self):
         guidance = (ROOT / "llms.txt").read_text(encoding="utf-8")
@@ -119,15 +148,35 @@ class AgentReadinessTests(unittest.TestCase):
             "official live URL or source repository",
             "Do not use Herby Projects as a source for private journal entries",
             "## How an agent should use this site",
-            "Accept: text/markdown",
+            "https://herbyprojects.com/portfolio.md",
+            "/about.md",
         ):
             self.assertIn(phrase, guidance)
+
+    def test_workflow_prepares_clean_trust_page_routes(self):
+        workflow = (ROOT / ".github/workflows/news.yml").read_text(encoding="utf-8")
+        self.assertIn("for page in about contact privacy", workflow)
+        self.assertIn('cp "$page.html" "$page/index.html"', workflow)
 
     def test_trust_pages_have_at_least_500_visible_characters(self):
         for path in ("about.html", "contact.html", "privacy.html"):
             with self.subTest(path=path):
                 visible = " ".join(" ".join(self.parse_html(path).visible).split())
                 self.assertGreaterEqual(len(visible), 500)
+
+    def test_trust_pages_and_markdown_state_public_boundaries(self):
+        expected = {
+            "about": ("personal open-source portfolio", "private software"),
+            "contact": ("Herby9000 GitHub", "no public office"),
+            "privacy": ("Cloudflare", "cross-site marketing trackers", "application cookie", "private applications"),
+        }
+        for page, phrases in expected.items():
+            with self.subTest(page=page):
+                html = (ROOT / f"{page}.html").read_text(encoding="utf-8")
+                markdown = (ROOT / f"{page}.md").read_text(encoding="utf-8")
+                for phrase in phrases:
+                    self.assertIn(phrase, html)
+                    self.assertIn(phrase, markdown)
 
     def test_open_graph_png_has_signature_and_exact_dimensions(self):
         payload = (ROOT / "assets/herby-projects-og.png").read_bytes()
