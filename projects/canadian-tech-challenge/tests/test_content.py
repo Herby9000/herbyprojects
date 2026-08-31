@@ -13,6 +13,13 @@ CATEGORIES = {
     "AI & Data", "Fintech & Crypto", "SaaS & Enterprise", "Consumer & Commerce",
     "Deep Tech & Climate", "Builders & Breakthroughs",
 }
+KNOWN_DEAD_SOURCE_URLS = {
+    "https://generalfusion.com/technology/",
+    "https://ingeniumcanada.org/channel/innovation/nortel-the-rise-and-fall-of-a-canadian-technology-giant",
+    "https://pointclickcare.com/company/",
+    "https://www.opentext.com/about",
+    "https://www.clio.com/about/",
+}
 
 
 class LocalReferenceParser(HTMLParser):
@@ -76,6 +83,10 @@ class QuestionDataTests(unittest.TestCase):
                 self.assertTrue(parsed.netloc)
                 self.assertNotIn(parsed.hostname, {"localhost", "127.0.0.1"})
                 self.assertFalse(parsed.username or parsed.password)
+
+    def test_known_dead_source_urls_are_not_reintroduced(self):
+        source_urls = {q["sourceUrl"] for q in self.questions}
+        self.assertFalse(source_urls & KNOWN_DEAD_SOURCE_URLS)
 
 
 class SiteIntegrityTests(unittest.TestCase):
