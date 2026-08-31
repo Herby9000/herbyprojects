@@ -132,13 +132,14 @@ class AgentReadinessTests(unittest.TestCase):
                 "https://herbyprojects.com/contact",
                 "https://herbyprojects.com/privacy",
                 "https://herbyprojects.com/projects/three-smiles",
+                "https://herbyprojects.com/projects/canadian-tech-challenge/",
             },
         )
         last_modified = {
             node.text
             for node in root.findall("{http://www.sitemaps.org/schemas/sitemap/0.9}url/{http://www.sitemaps.org/schemas/sitemap/0.9}lastmod")
         }
-        self.assertEqual(last_modified, {"2026-08-30"})
+        self.assertEqual(last_modified, {"2026-08-30", "2026-08-31"})
 
     def test_llms_guidance_explains_when_and_how_to_use_the_site(self):
         guidance = (ROOT / "llms.txt").read_text(encoding="utf-8")

@@ -28,6 +28,12 @@ jobs:
         run: python -m unittest discover -s news/scripts -p 'test_*.py' -v
       - name: Test agent readiness
         run: python -m unittest discover -s tests -p 'test_*.py' -v
+      - name: Test North Star Tech Challenge
+        run: |
+          python -m unittest discover -s projects/canadian-tech-challenge/tests -p 'test_*.py' -v
+          node --check projects/canadian-tech-challenge/assets/core.js
+          node --check projects/canadian-tech-challenge/assets/app.js
+          node projects/canadian-tech-challenge/tests/test_runtime.js
       - name: Refresh public feeds
         if: github.event_name != 'push'
         run: python news/scripts/news_pipeline.py --allow-fallback --status
