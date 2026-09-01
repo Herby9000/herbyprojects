@@ -9,6 +9,7 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 QUESTIONS = ROOT / "data" / "questions.json"
+WEEKLY_NEWS = ROOT / "data" / "weekly-news.json"
 CATEGORIES = {
     "AI & Data", "Fintech & Crypto", "SaaS & Enterprise", "Consumer & Commerce",
     "Deep Tech & Climate", "Builders & Breakthroughs", "Frontier & Defence",
@@ -108,6 +109,47 @@ class QuestionDataTests(unittest.TestCase):
         self.assertFalse(source_urls & KNOWN_DEAD_SOURCE_URLS)
 
 
+class WeeklyNewsDataTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.edition = json.loads(WEEKLY_NEWS.read_text())
+        cls.questions = cls.edition["questions"]
+
+    def test_metadata_and_exact_count(self):
+        self.assertEqual(
+            set(self.edition),
+            {"schemaVersion", "editionDate", "editionRange", "generatedAt", "questionCount", "questions"},
+        )
+        self.assertEqual(self.edition["schemaVersion"], 1)
+        self.assertRegex(self.edition["editionDate"], r"^\d{4}-\d{2}-\d{2}$")
+        self.assertRegex(self.edition["generatedAt"], r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$")
+        self.assertEqual(self.edition["questionCount"], 8)
+        self.assertEqual(len(self.questions), 8)
+
+    def test_question_schema_and_values(self):
+        required = {
+            "id", "topic", "company", "question", "options", "answer", "explanation",
+            "sourceUrl", "sourceLabel", "eventDate", "asOf",
+        }
+        for question in self.questions:
+            with self.subTest(question=question.get("id")):
+                self.assertEqual(set(question), required)
+                self.assertTrue(question["id"].startswith(self.edition["editionDate"] + "-"))
+                self.assertEqual(len(question["options"]), 4)
+                self.assertEqual(len({option.casefold().strip() for option in question["options"]}), 4)
+                self.assertIn(question["answer"], range(4))
+                self.assertRegex(question["eventDate"], r"^\d{4}-\d{2}-\d{2}$")
+                self.assertRegex(question["asOf"], r"^\d{4}-\d{2}-\d{2}$")
+                parsed = urlparse(question["sourceUrl"])
+                self.assertEqual(parsed.scheme, "https")
+                self.assertTrue(parsed.netloc)
+
+    def test_no_duplicate_ids_text_options_or_events(self):
+        self.assertEqual(len({q["id"] for q in self.questions}), 8)
+        self.assertEqual(len({q["question"].casefold().strip() for q in self.questions}), 8)
+        self.assertEqual(len({(q["topic"].casefold(), q["company"].casefold()) for q in self.questions}), 8)
+
+
 class SiteIntegrityTests(unittest.TestCase):
     def test_html_local_assets_and_anchors_exist(self):
         parser = LocalReferenceParser()
@@ -126,6 +168,7 @@ class SiteIntegrityTests(unittest.TestCase):
         self.assertNotIn('href="/projects/canadian-tech-challenge', html)
         self.assertIn('href="manifest.webmanifest"', html)
         self.assertIn('fetch("data/questions.json")', (ROOT / "assets" / "app.js").read_text())
+        self.assertIn('fetch("data/weekly-news.json")', (ROOT / "assets" / "app.js").read_text())
 
     def test_public_metadata_uses_github_pages(self):
         html = (ROOT / "index.html").read_text()

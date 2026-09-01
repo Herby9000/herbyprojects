@@ -4,12 +4,14 @@
   const Core = window.NorthStarCore;
   const STORAGE_GAME = "north-star-tech-game-v1";
   const STORAGE_SETTINGS = "north-star-tech-settings-v1";
+  const STORAGE_WEEKLY = "north-star-tech-weekly-v1";
   const categoryClasses = {
     "AI & Data": "cat-ai", "Fintech & Crypto": "cat-fin", "SaaS & Enterprise": "cat-saas",
     "Consumer & Commerce": "cat-consumer", "Deep Tech & Climate": "cat-deep", "Builders & Breakthroughs": "cat-builders",
     "Frontier & Defence": "cat-frontier"
   };
   let questions = [];
+  let weekly = null;
   let state = null;
   let timerHandle = null;
   let secondsLeft = 0;
@@ -30,7 +32,7 @@
   }
 
   function saveGame() {
-    if (state) localStorage.setItem(STORAGE_GAME, JSON.stringify(state));
+    if (state && state.mode !== "weekly") localStorage.setItem(STORAGE_GAME, JSON.stringify(state));
     updateResume();
   }
 
@@ -43,6 +45,17 @@
     state = Core.createState(questions, { mode: "quick", teams: ["Solo"], timer: 0, seed: sessionSeed() });
     Core.nextQuestion(state, questions, "Random");
     saveGame();
+    renderQuestion();
+  }
+
+  function startWeekly() {
+    if (!weekly || weekly.questions.length !== 8) return;
+    const deck = Core.shuffle(weekly.questions.map((question) => question.id), weekly.editionDate + ":" + sessionSeed());
+    state = {
+      version: 1, mode: "weekly", teams: [{ name: "Weekly", score: 0 }], target: 8, timer: 0,
+      turn: 0, round: 1, questionId: deck[0], selected: null, revealed: false, expired: false,
+      winner: null, weeklyDeck: deck, weeklyPosition: 0
+    };
     renderQuestion();
   }
 
@@ -136,17 +149,19 @@
     showScreen("category-screen");
   }
 
-  function currentQuestion() { return questions.find((question) => question.id === state.questionId); }
+  function activeQuestions() { return state && state.mode === "weekly" ? weekly.questions : questions; }
+
+  function currentQuestion() { return activeQuestions().find((question) => question.id === state.questionId); }
 
   function renderQuestion() {
     const question = currentQuestion();
     if (!question) return renderCategory();
     const category = $("question-category");
-    category.textContent = question.category;
-    category.className = "category-chip " + categoryClasses[question.category];
-    $("question-progress").textContent = state.mode === "team" ? state.teams[state.turn].name + " · Round " + state.round : "Question " + state.round;
+    category.textContent = state.mode === "weekly" ? "Weekly · " + question.topic : question.category;
+    category.className = "category-chip " + (state.mode === "weekly" ? "cat-weekly" : categoryClasses[question.category]);
+    $("question-progress").textContent = state.mode === "team" ? state.teams[state.turn].name + " · Round " + state.round : state.mode === "weekly" ? "Question " + state.round + " of " + weekly.questionCount + " · " + weekly.editionRange : "Question " + state.round;
     $("company-label").textContent = question.company;
-    $("difficulty-label").textContent = "Difficulty " + "●".repeat(question.difficulty) + "○".repeat(3 - question.difficulty);
+    $("difficulty-label").textContent = state.mode === "weekly" ? "Published " + question.eventDate : "Difficulty " + "●".repeat(question.difficulty) + "○".repeat(3 - question.difficulty);
     $("question-text").textContent = question.question;
     const answers = $("answers");
     answers.textContent = "";
@@ -180,7 +195,8 @@
   }
 
   function submitAnswer(expired) {
-    const correct = Core.submitAnswer(state, questions, expired);
+    const correct = Core.submitAnswer(state, activeQuestions(), expired);
+    if (correct && state.mode === "weekly") state.teams[0].score += 1;
     saveGame();
     revealResult(correct);
   }
@@ -206,7 +222,8 @@
     source.href = question.sourceUrl;
     source.textContent = "View source: " + question.sourceLabel + " ↗";
     const next = result.querySelector(".next-button");
-    next.textContent = state.winner !== null ? "See the winner" : state.mode === "team" ? "Pass to next team" : "Next question";
+    const weeklyDone = state.mode === "weekly" && state.weeklyPosition === state.weeklyDeck.length - 1;
+    next.textContent = state.winner !== null ? "See the winner" : weeklyDone ? "See weekly result" : state.mode === "team" ? "Pass to next team" : "Next question";
     next.addEventListener("click", advance);
     $("live-region").textContent = result.querySelector("h3").textContent + ". " + question.explanation;
     result.focus?.();
@@ -214,6 +231,16 @@
 
   function advance() {
     if (state.winner !== null) return renderWinner();
+    if (state.mode === "weekly") {
+      if (state.weeklyPosition >= state.weeklyDeck.length - 1) { state.winner = 0; return renderWinner(); }
+      state.weeklyPosition += 1;
+      state.round = state.weeklyPosition + 1;
+      state.questionId = state.weeklyDeck[state.weeklyPosition];
+      state.selected = null;
+      state.revealed = false;
+      state.expired = false;
+      return renderQuestion();
+    }
     Core.advanceTurn(state);
     saveGame();
     if (state.mode === "team") renderCategory();
@@ -240,6 +267,15 @@
   }
 
   function renderWinner() {
+    if (state.mode === "weekly") {
+      $("winner-title").textContent = state.teams[0].score + " / " + weekly.questionCount + " this week";
+      $("winner-copy").textContent = "Edition " + weekly.editionRange + " complete. Rematch this edition or return home.";
+      $("final-scores").textContent = "";
+      const item = document.createElement("span");
+      item.textContent = state.teams[0].score === weekly.questionCount ? "A perfect read on Canadian tech." : "Verified from " + weekly.questionCount + " linked reports.";
+      $("final-scores").appendChild(item);
+      return showScreen("winner-screen");
+    }
     const winner = state.teams[state.winner];
     $("winner-title").textContent = winner.name + " found true north!";
     $("winner-copy").textContent = "First to " + state.target + " points after " + state.round + " rounds.";
@@ -291,15 +327,61 @@
   }
 
   function home() {
-    stopTimer(); state = null; localStorage.removeItem(STORAGE_GAME); updateResume(); showScreen("home-screen");
+    const wasWeekly = state && state.mode === "weekly";
+    stopTimer(); state = null;
+    if (!wasWeekly) localStorage.removeItem(STORAGE_GAME);
+    updateResume(); showScreen("home-screen");
   }
 
   function handleAction(action) {
     if (action === "setup-team") openSetup();
+    else if (action === "weekly") startWeekly();
     else if (action === "quick") startQuick();
     else if (action === "study") renderStudy();
     else if (action === "home" || action === "quit") home();
+    else if (action === "rematch" && state.mode === "weekly") startWeekly();
     else if (action === "rematch") { const old = state; state = Core.createState(questions, { mode: "team", teams: old.teams.map((team) => team.name), target: old.target, timer: old.timer, seed: sessionSeed() + ":rematch:" + Date.now() }); saveGame(); renderCategory(); }
+  }
+
+  function validateWeeklyEdition(edition) {
+    const questionKeys = ["id", "topic", "company", "question", "options", "answer", "explanation", "sourceUrl", "sourceLabel", "eventDate", "asOf"];
+    if (!edition || edition.schemaVersion !== 1 || edition.questionCount !== 8 || !/^\d{4}-\d{2}-\d{2}$/.test(edition.editionDate) || !edition.editionRange || !edition.generatedAt || !Array.isArray(edition.questions) || edition.questions.length !== 8) return false;
+    const ids = new Set();
+    return edition.questions.every((question) => {
+      const validStrings = questionKeys.filter((key) => !["options", "answer"].includes(key)).every((key) => typeof question[key] === "string" && question[key].trim());
+      const validSource = (() => { try { return new URL(question.sourceUrl).protocol === "https:"; } catch (_) { return false; } })();
+      const valid = validStrings && question.id.startsWith(edition.editionDate + "-") && !ids.has(question.id) && Array.isArray(question.options) && question.options.length === 4 && new Set(question.options).size === 4 && question.options.every((option) => typeof option === "string" && option.trim()) && Number.isInteger(question.answer) && question.answer >= 0 && question.answer < 4 && validSource;
+      ids.add(question.id);
+      return valid;
+    });
+  }
+
+  function setWeeklyEdition(edition, fromCache) {
+    if (!validateWeeklyEdition(edition)) throw new Error("Weekly edition failed validation");
+    weekly = edition;
+    const age = Date.now() - new Date(edition.editionDate + "T23:59:59Z").getTime();
+    const stale = age > 10 * 24 * 60 * 60 * 1000;
+    $("weekly-edition").textContent = edition.editionRange + " · " + edition.questionCount + " questions";
+    $("weekly-status").textContent = fromCache ? "Live update unavailable — using the last verified edition." : stale ? "Last updated " + edition.editionDate + " — this edition is older than 10 days." : "Verified edition · updated " + edition.editionDate;
+    $("weekly-status").classList.toggle("stale", stale || fromCache);
+    $("weekly-start").disabled = false;
+  }
+
+  async function loadWeekly() {
+    try {
+      const response = await fetch("data/weekly-news.json");
+      if (!response.ok) throw new Error("Weekly data returned " + response.status);
+      const edition = await response.json();
+      setWeeklyEdition(edition, false);
+      localStorage.setItem(STORAGE_WEEKLY, JSON.stringify(edition));
+    } catch (error) {
+      console.error(error);
+      try { setWeeklyEdition(JSON.parse(localStorage.getItem(STORAGE_WEEKLY)), true); }
+      catch (_) {
+        $("weekly-edition").textContent = "The weekly edition is temporarily unavailable.";
+        $("weekly-status").textContent = "No verified cached edition is available.";
+      }
+    }
   }
 
   function bindEvents() {
@@ -327,6 +409,7 @@
         };
       });
       bindEvents(); updateResume();
+      await loadWeekly();
       document.documentElement.dataset.ready = "true";
     } catch (error) {
       console.error(error);

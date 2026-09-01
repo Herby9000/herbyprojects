@@ -1,7 +1,7 @@
 {
   "name": "North Star Tech Challenge",
   "short_name": "North Star",
-  "description": "Pass-and-play trivia about Canadian technology companies.",
+  "description": "Canadian technology trivia with 211 evergreen questions and a rotating weekly news edition.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

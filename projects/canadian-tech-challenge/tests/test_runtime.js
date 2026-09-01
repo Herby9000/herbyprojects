@@ -5,6 +5,7 @@ const path = require("node:path");
 const vm = require("node:vm");
 const Core = require("../assets/core.js");
 const questions = JSON.parse(fs.readFileSync(path.join(__dirname, "../data/questions.json"), "utf8"));
+const weekly = JSON.parse(fs.readFileSync(path.join(__dirname, "../data/weekly-news.json"), "utf8"));
 
 function testDeterministicShuffleAndExhaustion() {
   assert.deepEqual(Core.shuffle([1, 2, 3, 4], "north"), Core.shuffle([1, 2, 3, 4], "north"));
@@ -68,6 +69,19 @@ function testStudyAndRuntimeContracts() {
   assert.match(appSource, /studyFilter === "All" \|\| question\.category === studyFilter/);
   assert.match(appSource, /localStorage\.getItem\(STORAGE_GAME\)/);
   assert.match(appSource, /rel=\\"noopener noreferrer\\"/);
+  assert.match(appSource, /startWeekly/);
+  assert.match(appSource, /weekly\.questions/);
+  assert.match(appSource, /10 \* 24 \* 60 \* 60 \* 1000/);
+  assert.match(appSource, /validateWeeklyEdition/);
+  assert.match(appSource, /if \(!wasWeekly\) localStorage\.removeItem\(STORAGE_GAME\)/);
+  const weeklyStartSource = appSource.match(/function startWeekly\(\) \{[\s\S]*?\n  \}\n\n  function sessionSeed/)[0];
+  assert.doesNotMatch(weeklyStartSource, /localStorage\.removeItem\(STORAGE_GAME\)/);
+}
+
+function testWeeklyDeckHasNoRepeats() {
+  assert.equal(weekly.questionCount, 8);
+  const deck = Core.shuffle(weekly.questions.map((question) => question.id), weekly.editionDate);
+  assert.equal(new Set(deck).size, 8);
 }
 
 [
@@ -76,5 +90,6 @@ function testStudyAndRuntimeContracts() {
   testTimerDisabledAndExpiration,
   testWinnerAndRestoration,
   testStudyAndRuntimeContracts,
+  testWeeklyDeckHasNoRepeats,
 ].forEach((test) => test());
-console.log("North Star runtime tests: 5 passed");
+console.log("North Star runtime tests: 6 passed");
