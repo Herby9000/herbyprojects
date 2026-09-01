@@ -60,7 +60,9 @@ function testWinnerAndRestoration() {
 }
 
 function testStudyAndRuntimeContracts() {
-  for (const category of Core.CATEGORIES) assert.equal(questions.filter((q) => q.category === category).length, 12);
+  const expectedCounts = { "AI & Data": 61, "Fintech & Crypto": 56, "SaaS & Enterprise": 12, "Consumer & Commerce": 12, "Deep Tech & Climate": 12, "Builders & Breakthroughs": 12, "Frontier & Defence": 46 };
+  assert.deepEqual(Core.CATEGORIES, Object.keys(expectedCounts));
+  for (const category of Core.CATEGORIES) assert.equal(questions.filter((q) => q.category === category).length, expectedCounts[category]);
   const appSource = fs.readFileSync(path.join(__dirname, "../assets/app.js"), "utf8");
   new vm.Script(appSource, { filename: "app.js" });
   assert.match(appSource, /studyFilter === "All" \|\| question\.category === studyFilter/);

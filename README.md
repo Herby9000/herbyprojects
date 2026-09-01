@@ -19,7 +19,7 @@ The apps may be personal, but the code is public. Private user data, credentials
 
 ## Projects
 
-- [North Star Tech Challenge](https://herbyprojects.com/projects/canadian-tech-challenge/)
+- [North Star Tech Challenge](https://herby9000.github.io/herbyprojects/projects/canadian-tech-challenge/)
 - [The Daily Seven](https://herby9000.github.io/herbyprojects/news/)
 - [Three Smiles](https://github.com/Herby9000/three-smiles)
 - [StickLab](https://github.com/Herby9000/sticklab)

@@ -11,8 +11,18 @@ ROOT = Path(__file__).resolve().parents[1]
 QUESTIONS = ROOT / "data" / "questions.json"
 CATEGORIES = {
     "AI & Data", "Fintech & Crypto", "SaaS & Enterprise", "Consumer & Commerce",
-    "Deep Tech & Climate", "Builders & Breakthroughs",
+    "Deep Tech & Climate", "Builders & Breakthroughs", "Frontier & Defence",
 }
+EXPECTED_CATEGORY_COUNTS = {
+    "AI & Data": 61,
+    "Fintech & Crypto": 56,
+    "SaaS & Enterprise": 12,
+    "Consumer & Commerce": 12,
+    "Deep Tech & Climate": 12,
+    "Builders & Breakthroughs": 12,
+    "Frontier & Defence": 46,
+}
+PUBLIC_URL = "https://herby9000.github.io/herbyprojects/projects/canadian-tech-challenge/"
 KNOWN_DEAD_SOURCE_URLS = {
     "https://generalfusion.com/technology/",
     "https://ingeniumcanada.org/channel/innovation/nortel-the-rise-and-fall-of-a-canadian-technology-giant",
@@ -48,11 +58,20 @@ class QuestionDataTests(unittest.TestCase):
     def setUpClass(cls):
         cls.questions = json.loads(QUESTIONS.read_text())
 
-    def test_minimum_count_and_exact_balance(self):
-        self.assertGreaterEqual(len(self.questions), 72)
+    def test_exact_count_and_category_counts(self):
+        self.assertEqual(len(self.questions), 211)
         counts = Counter(q["category"] for q in self.questions)
         self.assertEqual(set(counts), CATEGORIES)
-        self.assertEqual(set(counts.values()), {12})
+        self.assertEqual(dict(counts), EXPECTED_CATEGORY_COUNTS)
+
+    def test_expansion_has_exactly_139_unique_ids_and_companies(self):
+        expansion = [q for q in self.questions if "-exp-" in q["id"]]
+        self.assertEqual(len(expansion), 139)
+        self.assertEqual(len({q["id"] for q in expansion}), 139)
+        self.assertEqual(len({q["company"].casefold().strip() for q in expansion}), 139)
+
+    def test_helius_is_absent(self):
+        self.assertNotIn("helius", json.dumps(self.questions).casefold())
 
     def test_schema_and_values(self):
         required = {"id", "category", "difficulty", "company", "question", "options", "answer", "explanation", "sourceUrl", "sourceLabel", "asOf"}
@@ -107,6 +126,12 @@ class SiteIntegrityTests(unittest.TestCase):
         self.assertNotIn('href="/projects/canadian-tech-challenge', html)
         self.assertIn('href="manifest.webmanifest"', html)
         self.assertIn('fetch("data/questions.json")', (ROOT / "assets" / "app.js").read_text())
+
+    def test_public_metadata_uses_github_pages(self):
+        html = (ROOT / "index.html").read_text()
+        self.assertIn(f'<link rel="canonical" href="{PUBLIC_URL}">', html)
+        self.assertIn(f'<meta property="og:url" content="{PUBLIC_URL}">', html)
+        self.assertNotIn("herbyprojects.com/projects/canadian-tech-challenge", html)
 
     def test_png_signatures_and_dimensions(self):
         for size in (180, 192, 512):
