@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Fixture Atom</title>
+  <entry><title>Vancouver quantum company opens lab</title><link rel="alternate" href="https://example.org/quantum-lab"/><updated>2026-09-01T09:30:00Z</updated><summary>New hardware research &amp; development space in British Columbia.</summary></entry>
+  <entry><title>Ottawa AI firm launches platform</title><link href="https://example.org/ottawa-ai"/><published>2026-08-25T10:00:00-04:00</published><content type="html">A compact &lt;b&gt;enterprise&lt;/b&gt; launch summary.</content></entry>
+</feed>

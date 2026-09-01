@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>Fixture RSS</title>
+  <item><title>Toronto startup raises new financing</title><link>https://example.com/toronto-startup?utm_source=rss</link><pubDate>Mon, 31 Aug 2026 14:00:00 GMT</pubDate><description><![CDATA[<p>The company will expand its Canadian engineering team.</p>]]></description></item>
+  <item><title>Toronto startup raises new financing</title><link>https://example.com/toronto-startup</link><pubDate>Mon, 31 Aug 2026 13:00:00 GMT</pubDate><description>Duplicate report.</description></item>
+  <item><title>Old Canadian technology story</title><link>https://example.com/old</link><pubDate>Thu, 20 Aug 2026 12:00:00 GMT</pubDate><description>Outside the window.</description></item>
+  <item><title>Unsafe story</title><link>http://example.com/unsafe</link><pubDate>Sun, 30 Aug 2026 12:00:00 GMT</pubDate><description>Not HTTPS.</description></item>
+</channel></rss>
