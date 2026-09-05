@@ -1,22 +1,22 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-05T11:49:37.868713Z",
+  "generatedAt": "2026-09-05T15:11:34.898454Z",
   "topStoryIds": [
-    "6751d9a503d6e73e",
+    "ce8671e81ee3f55f",
     "2c403195448a9eb7",
     "40462931fb631709",
-    "926c2916040196e4",
-    "6543774b16e329ba",
+    "ae2ceae3e00b84de",
+    "eb32c8b79bf71d60",
     "dc4b277a34c0a6b8",
     "5daf4ba33d7f6101"
   ],
   "sectionStoryIds": {
     "Politics": [
-      "6751d9a503d6e73e",
-      "6543774b16e329ba",
-      "00621e9b75c82c98",
+      "ce8671e81ee3f55f",
+      "eb32c8b79bf71d60",
+      "f825d2a8d3683a0a",
       "cb4cf66b8c669607",
-      "41c02f8de63e226f",
+      "67dc8f616ebc27b2",
       "f55195aa1b7daad1",
       "70042fccd9a30ed1"
     ],
@@ -30,8 +30,8 @@
       "fa875a33b96509f3"
     ],
     "Economics": [
-      "926c2916040196e4",
-      "e84bc7426c9e38b9",
+      "ae2ceae3e00b84de",
+      "5a7d26a08e8752eb",
       "40462931fb631709",
       "1a4c3b64e3cda476"
     ],
@@ -63,9 +63,9 @@
   },
   "stories": [
     {
-      "id": "6751d9a503d6e73e",
-      "title": "Rescuers in Nepal find two more people alive after flood disaster",
-      "summary": "Chinese man at Trishuli hydropower project and Nepali woman in Nuwakot found 10 days into rescue operation Emergency responders rescued a Chinese man and a Nepali woman in two separate operations on Saturday, as authorities continued to search for thousands of people missing 10 days after massive floods hit Nepal. The Nepali military said a joint team comprising personnel from its army and South Korean disaster experts rescued the man from a 225-metre (740ft) tunnel in the Upper Trishuli-1 hydropower project, and that he was undergoing a health assessment. Pictures showed him being evacuated by helicopter after being carried out of the tunnel. Continue reading...",
+      "id": "ce8671e81ee3f55f",
+      "title": "Rescuers in Nepal find two more people alive after flash flood disaster",
+      "summary": "Chinese man at Trishuli hydropower project and Nepali woman in Nuwakot found 10 days into rescue operation Emergency responders have rescued a Chinese man and a Nepali woman in two separate operations as authorities continued to search for thousands of people missing 10 days after massive floods hit Nepal. The Nepali military said on Saturday a joint team comprising personnel from its army and South Korean disaster experts rescued the man from a 225-metre (740ft) tunnel in the Upper Trishuli-1 hydropower project, and that he was undergoing a health assessment. Pictures showed him being evacuated by helicopter after being carried out of the tunnel. Continue reading...",
       "contentStatus": "Freely readable article text extracted from publisher page",
       "url": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
       "source": "The Guardian China",
@@ -80,12 +80,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 344,
+      "wordCount": 343,
       "readingMinutes": 2,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/356053e87dbc439eb0b994c9d15f52080395bb6b/15_0_1970_1575/master/1970.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71672bbe509b0c2ab1e116ec7788a721",
-      "body": "Chinese man at Trishuli hydropower project and Nepali woman in Nuwakot found 10 days into rescue operation\n\nEmergency responders rescued a Chinese man and a Nepali woman in two separate operations on Saturday, as authorities continued to search for thousands of people missing 10 days after massive floods hit Nepal .\n\nThe Nepali military said a joint team comprising personnel from its army and South Korean disaster experts rescued the man from a 225-metre (740ft) tunnel in the Upper Trishuli-1 hydropower project, and that he was undergoing a health assessment. Pictures showed him being evacuated by helicopter after being carried out of the tunnel.\n\nRescue efforts have focused on a dozen hydropower projects across Nepal, where about 900 workers are missing, 500 of whom are thought to be trapped in huge tunnels. International rescue teams from India, China , South Korea and the US have been searching through debris and damaged structures at the projects to try to find survivors.\n\nTwo Nepali workers were rescued from another tunnel in a hydro-station on the Trishuli River on Friday.\n\nExperts have said that as time passes, the possibility of finding missing people alive in the tunnels is diminishing.\n\nThe Nepali woman, 64, was rescued from a damaged house in the devastated town of Nuwakot. Photos published by the Nepali army showed rescuers discovering the woman submerged in mud before she was pulled to safety and airlifted to Kathmandu for treatment. Members of Nepal’s police force cheered as she was pulled from the home, the lower half of which was buried in thick sludge.\n\nEmergency responders have been working to find survivors from the devastating floods in Nepal, which were triggered by a glacial and rock collapse on 26 August. Their work has been complicated by the massive infrastructural damage caused by the floods, with more than 40 bridges having collapsed and rivers swelling unpredictably.\n\nAt least 1,375 people have been killed in the floods, with more than 5,000 missing, according to Nepal’s disaster management agency.\n\nNepal-Tibet flood disaster\n\nNepal\n\nChina\n\nTibet\n\nSouth and central Asia\n\nnews",
+      "body": "Chinese man at Trishuli hydropower project and Nepali woman in Nuwakot found 10 days into rescue operation\n\nEmergency responders have rescued a Chinese man and a Nepali woman in two separate operations as authorities continued to search for thousands of people missing 10 days after massive floods hit Nepal .\n\nThe Nepali military said on Saturday a joint team comprising personnel from its army and South Korean disaster experts rescued the man from a 225-metre (740ft) tunnel in the Upper Trishuli-1 hydropower project, and that he was undergoing a health assessment. Pictures showed him being evacuated by helicopter after being carried out of the tunnel.\n\nRescue efforts have focused on a dozen hydropower projects across Nepal, where about 900 workers are missing, 500 of whom are thought to be trapped in huge tunnels. International rescue teams from India, China , South Korea and the US have been searching through debris and damaged structures at the projects to try to find survivors.\n\nTwo Nepali workers were rescued from another tunnel in a hydro-station on the Trishuli River on Friday.\n\nExperts have said the possibility of finding missing people alive in the tunnels is diminishing.\n\nThe Nepali woman, 64, was rescued from a damaged house in the devastated town of Nuwakot. Photos published by the Nepali army showed rescuers discovering the woman submerged in mud before she was pulled to safety and airlifted to Kathmandu for treatment. Members of Nepal’s police force cheered as she was pulled from the home, the lower half of which was buried in thick sludge.\n\nEmergency responders have been working to find survivors from the devastating floods in Nepal, which were triggered by a glacial and rock collapse on 26 August. Their work has been complicated by the massive infrastructural damage caused by the floods, with more than 40 bridges having collapsed and rivers swelling unpredictably.\n\nAt least 1,375 people have been killed in the floods, with more than 5,000 missing, according to Nepal’s disaster management agency.\n\nNepal-Tibet flood disaster\n\nNepal\n\nChina\n\nTibet\n\nSouth and central Asia\n\nAsia Pacific\n\nnews",
       "imageWidth": 1200,
       "imageHeight": 630
     },
@@ -139,46 +139,46 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43b5/live/459265a0-a8c2-11f1-a051-bbe11131eba6.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nThe US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade war between the two countries.\n\nIt is the top customer for 26 US states, including Maine, Michigan, and Wisconsin, as well as being in the top three for 45 of the 50 American states - suggesting Prime Minister Mark Carney has room to manoeuvre in a trade fight.\n\nBBC's Jessica Murphy explains how Canada has more leverage than it may seem in the spiralling dispute.\n\nRead the latest on the escalating tariff fight here.\n\nVideo by Eloise Alanna.\n\nSubsection US & Canada\n\nPublished 9 hours ago\n\nRelated topics\n\nCanada Follow Canada close panel You are now following Canada Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nTrade war Follow Trade war close panel You are now following Trade war Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUnited States Follow United States close panel You are now following United States Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nThe US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade war between the two countries.\n\nIt is the top customer for 26 US states, including Maine, Michigan, and Wisconsin, as well as being in the top three for 45 of the 50 American states - suggesting Prime Minister Mark Carney has room to manoeuvre in a trade fight.\n\nBBC's Jessica Murphy explains how Canada has more leverage than it may seem in the spiralling dispute.\n\nRead the latest on the escalating tariff fight here.\n\nVideo by Eloise Alanna.\n\nSubsection US & Canada\n\nPublished 12 hours ago\n\nRelated topics\n\nCanada Follow Canada close panel You are now following Canada Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nTrade war Follow Trade war close panel You are now following Trade war Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUnited States Follow United States close panel You are now following United States Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
     {
-      "id": "926c2916040196e4",
-      "title": "John Healey warns of tough first budget as Middle East war puts pressure on economy",
-      "summary": "Chancellor says he wants to ensure country has ‘buffer’ against uncertainty as global bond yields hit 18-year high The chancellor has indicated that the UK will face a tough budget next month due to Trump’s war in the Middle East. In an interview with the Financial Times , John Healey said the conflict in Iran would probably have a strong influence on his first budget on 28 October. Continue reading...",
+      "id": "ae2ceae3e00b84de",
+      "title": "‘The chancellor is in a bind’: is No 11 at odds with Burnham’s big vision?",
+      "summary": "MPs applaud PM’s ambition and optimism but John Healey has yet to show he can match leader’s radical perspective Until now, Andy Burnham has been a lucky prime minister. In office for just over six weeks, no major domestic crisis derailed his plans over the summer, Reform has been on the back foot , and he arrived back at Westminster with his personal approval ratings soaring and optimism undampened. But underneath the sense of relief that many Labour MPs are feeling that their high-stakes gamble of ousting Keir Starmer appears – for now – to have paid off, there is an unease that Burnham’s premiership is yet to make contact with economic reality. Continue reading...",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/politics/2026/sep/05/john-healey-warns-of-tough-first-budget-as-middle-east-war-puts-pressure-on-economy",
+      "url": "https://www.theguardian.com/politics/2026/sep/05/john-healey-andy-burnham-labour-economics",
       "source": "The Guardian Economics",
       "publisher": "The Guardian",
-      "published": "2026-09-05T11:26:50Z",
+      "published": "2026-09-05T14:00:38Z",
       "category": "Economics",
-      "region": "US",
+      "region": "UK",
       "labels": [
         "Economics",
-        "US"
+        "UK"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 709,
-      "readingMinutes": 4,
+      "wordCount": 1203,
+      "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/feb9c88177581160f921205e47175bc1ec1ef119/862_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c1aea7d226b7f9e30657cd325145f4d",
-      "body": "Chancellor says he wants to ensure country has ‘buffer’ against uncertainty as global bond yields hit 18-year high\n\nThe chancellor has indicated that the UK will face a tough budget next month due to Trump’s war in the Middle East.\n\nIn an interview with the Financial Times , John Healey said the conflict in Iran would probably have a strong influence on his first budget on 28 October.\n\nHealey, who succeeded Rachel Reeves when Andy Burnham became prime minister in July, told the newspaper he wanted to ensure the country had a robust “buffer against uncertainty” amid increasing global instability.\n\nHowever, economists have predicted that Healey will need to raise taxes or implement significant cost-cutting measures to protect the £24bn fiscal headroom that Reeves had after her March statement.\n\n“What’s happening in the Middle East is hitting inflation , it’s hitting growth, it’s hitting borrowing costs,” Healey said. “It’s part of a more dangerous world that is more uncertain and it’s one of the challenges we have to meet in this country, but have to meet with other [countries].”\n\nHealey declined to say how much headroom he aimed to have, but insisted he and Burnham were “in lockstep in our determination to meet the fiscal rules”.\n\nThe newspaper said he planned to stick to Labour’s 2024 manifesto pledges not to raise taxes on “working people”, such as income tax, national insurance contributions or VAT, and was also not expected to raise the rate of corporation tax.\n\nThe public finances are under pressure from soaring global bond yields , which hit an 18-year high earlier this week. Bond yields have a significant impact on government spending plans, as higher yields drive up borrowing costs.\n\nHealey has faced criticism for failing to commit to the goal of raising defence spending to 3% of GDP by 2030. In June, he resigned as defence secretary because he was unable to get the Treasury to commit to the target, in what was seen as a fatal blow to Keir Starmer’s government.\n\nAcknowledging tough economic conditions, Healey said: “The country’s under pressure. People are under pressure with the cost of living. Households are feeling that. We’re concerned about the cost of living, and we’re concerned about the cost of business.”\n\nHe also said he was committed to cutting the welfare bill. “We must cut the cost of welfare, we have to get more people back into work,” he said. “I know that some of the decisions I must take – and will take – will show the benefits in years to come.”\n\nJim O’Neill, the cross-bench peer and economist who advised Burnham as he prepared to enter Downing Street, has suggested that the prime minister could reassure the bond markets by taking “credible actions” to rein in the “excesses” of welfare spending and the pensions triple lock.\n\nSpeaking to Times Radio earlier this week, he said: “If you have the markets carrying on doing what they’re doing globally … eventually they’re going to have absolutely no choice [but to cut spending] because the penalty of the debt servicing cost and the knock-on effect to other markets including mortgage rates will be too severe for a government to resist.”\n\nafter newsletter promotion\n\nThe triple lock, introduced in 2010, means that state pension increases annually in line with inflation, average wage growth or 2.5% – whichever is highest. It has led to an increase of about £16bn in the state pension bill.\n\nOn Saturday morning, Jonathan Cribb, deputy director of the Institute for Fiscal Studies, told BBC Radio 4’s Today programme that the government could consider an Australian-style system.\n\nHe suggested that the state pension could increase in line with workers’ earnings, with an inbuilt “temporary lock” to safeguard against a decline in average wages due to recession or high inflation.\n\n“It’s a reasonable way to increase the state pension over the long run that’s not as expensive but still generates increases,” he said.\n\nReform UK has said it would cut £80bn of public spending within five years by reducing welfare payments, net zero investment and overseas aid. Speaking at the party’s annual conference in Birmingham, its economic spokesperson, Robert Jenrick, also pledged to reduce the number of civil servants.\n\nEconomic policy\n\nJohn Healey\n\nBudget\n\nDefence policy\n\nTax and spending\n\nInflation\n\nLabour\n\nnews",
+      "imageUrl": "https://i.guim.co.uk/img/media/bb361e1bca3deb54f4412ce70d4f09557d31ff03/241_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01072a0c2b96293019a57162e5b0c963",
+      "body": "MPs applaud PM’s ambition and optimism but John Healey has yet to show he can match leader’s radical perspective\n\nU ntil now, Andy Burnham has been a lucky prime minister. In office for just over six weeks, no major domestic crisis derailed his plans over the summer, Reform has been on the back foot , and he arrived back at Westminster with his personal approval ratings soaring and optimism undampened.\n\nBut underneath the sense of relief that many Labour MPs are feeling that their high-stakes gamble of ousting Keir Starmer appears – for now – to have paid off, there is an unease that Burnham’s premiership is yet to make contact with economic reality.\n\nIn their early weeks in office, his team were able to point to some inherited green shoots: below-forecast inflation figures, sustained growth, signs that sluggish productivity could be starting to turn around. All despite the economic turmoil unleashed by the Iran conflict.\n\nThis week, all that changed. With the end of summer recess came a global bond sell-off amid anxiety over oil prices, sticky inflation and pressure to ramp up defence spending, which pushed government borrowing costs to their highest since the 2008 financial crash.\n\nIt makes the backdrop to John Healey’s first budget as chancellor a difficult one. Economists reckon about half of the £24bn fiscal breathing space his predecessor Rachel Reeves had built up at her spring forecast has since been wiped out by higher inflation and interest rates, severely limiting Healey’s room for manoeuvre.\n\nAmong the more experienced hands in government, there is a firm view that the new administration cannot return to the days of slim headroom given Reeves’s experience last year, which led to more brutal proposed welfare cuts and ultimately a backbench rebellion last summer.\n\nHealey has just returned from the G20 finance ministers’ meeting in North Carolina and is acutely conscious of factors beyond his control that will hit the Office for Budget Responsibility’s forecasts, including the rising cost of oil after bombing resumed in Iran.\n\nIt is little surprise, then, that he has repeatedly stressed that fiscal responsibility is the “bedrock” of his approach and he will stick to Reeves’s fiscal rules.\n\nBut his cautious tone jars uncomfortably with the prime minister’s large – and costly – policy vision: more public control of utilities, reform of the broken social care system and a mass social home building programme.\n\n“[Healey] is in a bind,” one Treasury source said. “His instinct is to keep things steady, especially while the OBR does its snapshot, but that’s not Andy’s gameplan for his first week back.”\n\nIndeed, Downing Street has been eager to ensure Burnham’s vision stays front and centre. In a mammoth three-and-a-half-hour Commons session on Tuesday, he repeatedly promised to deliver the “much more substantial change” the country was crying out for.\n\nAmong Burnham’s closest allies, there have been some mutterings that Healey could, like chancellors before him, be in danger of being “captured” by the Treasury and its more orthodox arguments. “John did not exactly show in the Ministry of Defence that he was good at questioning internal departmental wisdom and pressures,” one government aide said.\n\nThe friction between the two operations burst into the open last week when Healey suggested in a television interview that Burnham was running a “continuity” government.\n\nNo 10 insiders pushed back hard. “Nobody listening to Andy and his plans for growth could think he is just about continuity,” said one senior figure. “He’s going to change things.”\n\nA timely report that suggests Manchester’s economic success – one of Burnham’s biggest legacies – could be replicated across England to unlock untapped growth potential of up to £80bn is released this weekend.\n\nMandala Partners, a global economic research consultancy that was led by Nick Williams – a former Downing Street economic adviser who is now working for the first secretary, Louise Haigh – found that housing, transport and health devolution would be crucial to achieving the prime minister’s aim of “growth in every postcode”.\n\nOf these, the impact of following Manchester’s housing investment model is most striking. The report found that an £8.5bn programme of revolving public risk capital across mayoral strategic authorities could unlock almost 100,000 additional homes, crowd in more than £20bn of private investment and support more than 70,000 jobs.\n\nafter newsletter promotion\n\nWhile not commissioned by No 10, Mandala’s study nevertheless bolsters Burnham’s central growth argument that learning from the success of Manchester’s devolution model could deliver far-reaching economic benefits and release the country from its low-growth chokehold.\n\nThe chancellor has privately acknowledged there is room for modest additional borrowing to fund investment given Reeves’s rule change in 2024, which allowed the Treasury to offset financial assets against government debt.\n\nHowever, there is little sense of a radical new perspective emerging from the new regime at No 11. On Monday, Healey will give a speech on the government’s mission for growth, which is expected to stress the importance of devolution and public investment – both themes Reeves repeatedly returned to.\n\nThe chancellor will emphasise the need to give the private sector the confidence to invest – raising doubts about whether he is likely to go ahead with one of the big revenue raisers that progressive economists and the TUC have called for: a windfall tax on banks.\n\nTreasury sources have declined to say whether Healey will stick to Reeves’s intention of holding only one major “fiscal event” each year, with the spring forecast a much more low-key affair. That would leave open the possibility of using his 28 October statement to fund the gaps in the defence investment plan and make more progress on tax devolution, while leaving the weightier tax and spending decisions until the spring.\n\nLabour MPs are anxious for change as quickly as the government can deliver it. They applaud Burnham’s ambition and the sense of hope he fosters but worry that the economic realities will drag him down.\n\nTan Dhesi, the Labour chair of the Commons defence committee, summed up the mood when he suggested at PMQs that “vibes alone just will not be enough”. While he was referring to military spending, the sentiment is shared across the backbenches.\n\nBurnham has repeatedly said he will be relentless in fulfilling his priorities. But some of his MPs are already worried that his promise to repair the crumbling state and offer “breathing space” on the cost of living could be hard to reconcile with promises of fiscal responsibility.\n\nDowning Street sources argue, however, that it is only by improving infrastructure and devolving power that the British economy can grow as fast as Manchester’s. They cite Burnham’s visit to Cornwall this summer, where businesses told him it was taking them a year to connect to the grid.\n\nHealey’s economic instincts are less clear. When asked what would be the main difference between him and his instinctively prudent predecessor, one adviser said: “To be honest, I think he will actually be more cautious.”\n\nDespite his apparent wariness, government aides insist the chancellor is fully onboard with Burnham’s vision. One said: “There will always be tensions between the different parts of government, but John is aligned with Andy’s agenda. And he knows who is boss.”\n\nJohn Healey\n\nEconomic policy\n\nAndy Burnham\n\nLabour\n\nEconomics\n\nnews",
       "imageWidth": 1200,
       "imageHeight": 630
     },
     {
-      "id": "6543774b16e329ba",
-      "title": "Reform promises to increase tax-free personal allowance to £15,000",
-      "summary": "The party says the tax cut will be paid for by reducing public spending by £80bn.",
+      "id": "eb32c8b79bf71d60",
+      "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
+      "summary": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo",
       "source": "BBC Politics",
       "publisher": "BBC",
-      "published": "2026-09-05T11:16:11Z",
+      "published": "2026-09-05T14:26:37Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
@@ -188,12 +188,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 954,
-      "readingMinutes": 5,
+      "wordCount": 1313,
+      "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3230/live/60ba9ca0-a901-11f1-a291-b542ee92de7c.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRobert Jenrick on Reform's proposed increase in tax-free personal allowance\n\nPublished 5 September 2026, 06:00 BST\n\nReform UK is promising to increase the tax-free personal allowance to £15,000, if it wins the next general election.\n\nRobert Jenrick, the party's economic spokesman, has pledged to introduce the tax cut within the first 100 days if he became chancellor saying it would provide \"money that people really need right now\".\n\nIt is seen by Reform insiders as the flagship policy announcement of its conference and perhaps their biggest tax policy between now and the general election.\n\nAsked about two senior Reform aides being investigated by the party following a Channel 4 News undercover broadcast into claims about funding, Jenrick told the BBC Nigel Farage had acted swiftly and they had been suspended.\n\nIn undercover filming by Verbatim Investigations Farage's senior aide Dan Jukes and Reform's head of policy James Orr suggested a way around electoral law to secure foreign party donations for the party, one of which would have totalled £500,000.\n\nElectoral law sets out that to be a donor to a UK political party you must be a UK registered voter, or a company registered in the UK.\n\nFarage said on Friday that his party had \"done nothing wrong\" and had taken \"no illegal money. In fact no money was taken at all.\"\n\nJukes denied wrongdoing and said he was stepping away from politics \"in order to clear my name\". Orr told Sky News he would cooperate fully with the party's internal investigation.\n\nOrr is an associate professor of Philosophy of Religion at Cambridge University's Faculty of Divinity.\n\nResponding to the Channel 4 News and Verbatim report, Cambridge University said it was \"looking into these matters\".\n\nJenrick told the Today programme that the party had taken legal advice and it did not believe it had done anything wrong.\n\nLabour and the Liberal Democrats have reported the party to the Metropolitan Police.\n\nThe Electoral Commission has said it is considering \"all relevant information, in line with our regulatory remit\" and was in contact with the police.\n\nReform donations row overshadows party's moment to lay out big ideas Published 17 hours ago\n\nFarage says his aides' donor comments were 'loose pub talk' Published 19 hours ago\n\nOn tax measures, Reform estimates that increasing the tax-free threshold by £2,430 would save most taxpayers £500 a year and 2.9 million people would stop paying income tax altogether.\n\nIt says the policy would cost £17.7bn in the first year, rising to £21bn by the fifth year and could be paid for through £80bn of public spending cuts the party plans to make.\n\nJenrick told BBC Breakfast Reform would pay for the policy by \"cutting out the waste\".\n\nReform has said its spending cuts would include a £50bn reduction in welfare spending .\n\nHalf of the £353bn of welfare spending goes on the state pension, but Reform has said it will not cut this proportion.\n\nThe bulk of the funding would come from reducing the cost of welfare, Jenrick said, by not paying benefits to people who are not British citizens and helping people who are off work due to their mental health back into jobs.\n\nJenrick also said the UK would \"stop paying foreign aid to rich countries\", adding that \"we should be looking after British people first\".\n\n\"Yes, we'll pay for disaster relief but the vast majority of that budget should be spent on the priorities of our own people,\" he said.\n\nReform hopes to raise £10bn by scrapping net-zero programmes and Jenrick said, as the UK only amounted to 1% of the world's emissions, it was not sensible to be trying to decarbonise faster than other countries as that was \"just impoverishing our own people\".\n\nThe party hopes to raise £8bn by reducing the number of civil servants and £7.1bn by capping the foreign aid budget.\n\nThe policy is expected to be announced in Jenrick's conference speech later.\n\n\"As chancellor, I will wake each morning with one purpose. To make Britain a better place to be a worker than it was the day before,\" he is expected to say.\n\nHe is expected to add: \"1.3 million were dragged into paying tax last year alone. Why? Because the tax-free allowance has been stuck at 12 and a half grand since 2021. And Labour has frozen it until 2031.\n\n\"That betrayal costs a full-time worker on the minimum wage more than £750 a year. And now for the first time, the freeze means they're going to be taxing the state pension. What a disgrace.\"\n\nIn its manifesto before the general election in 2024, Reform said it wanted to lift the threshold to £20,000. Jenrick will tell conference activists this remains his long-term aim.\n\nThe personal allowance threshold currently stands at £12,570. Anyone earning more than £100,000 starts to lose their personal allowance. For every £2 earned above the threshold the basic allowance decreases by £1.\n\nShortly after becoming prime minister, Andy Burnham told the Times that the \"frustration\" of people in his Makerfield constituency about the frozen allowance had \"lodged in my mind\".\n\nHe later said that \"all of this would be looked at\" in the upcoming Budget but that any change would be \"difficult given the financial circumstances\".\n\nDoes Reform's plan to cut £50bn in welfare spending add up? Published 17 August\n\nReform donations row overshadows party's moment to lay out big ideas Published 17 hours ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nReform UK\n\nRobert Jenrick",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0f9f/live/940c2cb0-a936-11f1-aed2-8d6da8d75094.jpg",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: The Reform UK leader says he \"frankly wasn’t even listening\" during a conversation about foreign money being donated to his party\n\nPublished 42 minutes ago\n\nNigel Farage has said he \"frankly wasn't listening\" during a conversation with his former chief of staff and an undercover reporter discussing what appears to have been a scheme to funnel foreign money to Reform UK.\n\nHis former chief of staff Dan Jukes and ex-head of policy James Orr have both been removed from their jobs after an investigation recorded them talking about how to get money to the party from an American donor and asking a fake company to pay for polling.\n\nJukes has denied doing anything wrong. Orr has told Sky News he will co-operate fully with Reform's internal investigation.\n\nIn an interview with the BBC, the Reform leader said he was not listening to the discussion and revealed his family are \"begging\" him to leave his job amid increasing pressure.\n\nIn a film by Verbatim Investigations and Channel 4 News , Farage and Jukes were present during a conversation in which it is suggested the US donor gives £500,000 to Reform through his UK-based son.\n\nUnder electoral law, donors to UK political parties must be a UK registered voter, or a company registered in the UK, so cannot give money from abroad through a British resident.\n\nThe proposed donation was never made as it was part of an undercover sting, but that it was seemingly entertained has sparked questions.\n\nWhen asked about the exchange by reporters at Reform's party conference on Friday, Farage said he was questioning whether the arrangement was above board.\n\nIn an interview to be broadcast on Sunday with Laura Kuenssberg, he has now said: \"I am not a compliance officer. I was in the middle of canvassing in the Clacton by-election. I turn up. I frankly wasn't even listening.\"\n\n\"I was told there was a global family office based in London, so the money could have come from Singapore,\" he said of the conversation in the Channel 4 film.\n\nUndercover reporters posing as party donors met with Nigel Farage and his former chief of staff Dan Jukes (left)\n\n\"The money could come from all over the world, you know. Income could have came from all over the world into a family office based in London. I know electoral law. I know donation law better than anybody.\n\n\"Frankly, the two individuals involved here have never been involved in fundraising before and they shouldn't have been involved directly in fundraising. They should have done basic checks and nobody, nobody should be brought to me, unless they've been vetted from.\"\n\nThe row over the Channel 4 film has threatened to capsize Reform's conference, with Labour and the Liberal Democrats calling on the Metropolitan Police to investigate the claims. The force is assessing whether or not to investigate.\n\nJukes and Orr - both senior figures in Farage's inner circle - have stood down pending the outcome of the party's internal investigation, but political opponents are demanding that Farage is investigated and takes accountability.\n\nFarage categorically denied that Reform had ever taken money from a foreign entity by channelling it through a UK donor.\n\nBut as pressure ramps up on Farage in the latest crisis to rock Reform, he also told the BBC that \"for the first time\", he does not have his family's support to be in politics.\n\n\"They would rather I packed it up and walked away,\" he said.\n\nHe added he had not considered standing down, but \"when you've got your family begging you to, it's not easy\".\n\nFarage also condemned the hundreds of masked \"stop the boats\" protesters who descended on the Port of Dover on Saturday morning, causing major travel disruption.\n\nFarage said he \"deplored\" anyone wearing masks or balaclavas at public demonstrations.\n\nHe added: \"You should not be allowed to be masked up, balaclava-ed up and go out and protest on the streets of our country. It is wrong at every level. So I deplore what is happening in Dover today.\"\n\nAnalysis: Farage may have to pay more attention\n\nLaura Kuenssberg has been speaking to senior Reform figures and members at the party's annual conference in Birmingham\n\nThere's no question the allegations in the Channel 4 film have been embarrassing for Reform, and disrupted what they hoped would be a conference about their plans for office if they win the next General Election.\n\nEverywhere around the huge, draughty exhibition hall in Birmingham are giant posters and placards saying, \"Reform - the first 100 days\".\n\nThey wanted to herald their deal with a serious contender to be the next French President, Jordan Bardella, to deal with small boats.\n\nThey were keen to highlight the promise to cut income tax if they win the election, scheduled to be in 2029.\n\nThey wanted to talk about their proposals for education, welfare, planning, and the rest.\n\nParty members, delighted to have a reason to get together, have taken part in those sessions, applauded and cheered in the hall; gone wild for Farage on stage.\n\nBut for the rest of the country, most of the noise from the conference will have been the huge and awkward story about the toxic mix of politics and money.\n\nWhat is harder to assess is the impact this mess will have on Farage's standing with the public, after a tricky summer and a recent poll slump.\n\nAt the top of the party there is a quiet admission that what has happened here is a genuine mistake.\n\nOne senior figure told me they could brush off other claims of murky funding, confident nothing had gone wrong - but they conceded these claims do matter, and that for a certain vital percentage of voters, it would \"cause them to ask questions\".\n\nNo one is pretending it's just what Farage tried to joke was a \"little, local difficulty\".\n\nAnd there is a private acknowledgement that stories like this can be off putting to voters beyond Reform's no doubt very enthusiastic base.\n\nAnother party source told me they were \"totally blindsided\" by the revelations; stunned \"there'd just been no diligence\" and in disbelief at how Jukes and Orr, who both say they'd done nothing wrong, seem to have behaved.\n\nA different member of the party's top team said, \"hopefully, it's just growing pains\". In other words, Reform's developed so fast that sometimes mistakes are made. But they told me: \"The party has to step up – sometimes the people that got us here, aren't the people for the next stage\".\n\nAmong Farage's fans at the conference, I found different views. One member was convinced the party is treated unfairly: \"It's the blob, it's all against him,\" she said.\n\nBut another young Reform enthusiast rejected that, telling me: \"It's all documented and there on camera – Nigel has to be more careful about what party members say.\"\n\nBut there is a sense of \"here we go again\". When I asked another member what they thought of the financial scandal, a weary answer, \"Which one?\"\n\nThis time last year in the same conference complex, Reform felt like they were simply sweeping all before them. Twelve months on, they are having to work harder, the scrutiny is more intense, and the pressure only growing.\n\nFarage's claim that he \"wasn't listening\" to the conversation was telling – to get to power without more of these kinds of serious embarrassments, he may have to pay more attention to what is going on.\n\nRelated topics\n\nNigel Farage\n\nReform UK\n\nMore on this story\n\nReform UK winded by donations row as insiders call for shift in approach Published 2 hours ago\n\nTwo Reform officials step down after undercover donations report Published 23 hours ago\n\nReform promises to increase tax-free personal allowance to £15,000 Published 2 hours ago",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -247,34 +247,34 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/illo_tokens_final_-1600x900.jpg",
-      "body": "Innovation\n\nFive unexpected ways computing power is entering everyday life in the country.\n\nArtificial intelligence tokens — once a term familiar only to techies — are rapidly entering everyday life in China.\n\nBanks, cafes, and telcos, among other small and big businesses, are offering free AI tokens as incentives to attract more customers. Some businesses are selling tokens much like mobile data plans, offering them as credit card rewards, or giving them out like free Wi-Fi.\n\nAn AI token is essentially a unit of computing that an AI model uses to process text. When a user asks a model a question or gives it an instruction, the words are broken down into small pieces called tokens, which the model processes to generate a response.\n\n500 trillion Daily token consumption in China in mid-2026.\n\nThe massive popularity of AI has led to has sharply increase in token consumption globally. Daily token consumption in China surged to 500 trillion in mid-2026 from 100 billion in early 2024.\n\nToken prices have become a new front in the global AI race as U.S. and Chinese AI companies aggressively lower them to compete for wider adoption of their models. Chinese open-source and open-weight models, despite lagging behind U.S. rivals on some measures of frontier performance, can cost 60% to 90% less than comparable models from OpenAI and Anthropic. Cheaper tokens allow Chinese businesses to experiment with ways to package and market them to ordinary consumers.\n\nPoe Zhao, a Beijing-based analyst and founder of the newsletter Hello China Tech , told Rest of World some of the token packages Chinese companies pushed into the consumer market are a “supply-led experiment.”\n\n“Most ordinary users still encounter AI through an app or feature, without seeing a token balance,” he said.\n\nZhao said China’s effort to bring tokens into the consumer marketplace points to an unusual approach to commercializing AI.\n\nHere are five ways AI tokens are moving into everyday life in China:\n\nAI tokens as credit-card rewards\n\nIn July, Chinese AI startup Moonshot AI launched a credit card named after its model Kimi, in partnership with the Agricultural Bank of China and American Express. Users earn Kimi AI tokens, as well as agent and coding quotas, on their spending, just like credit cards reward consumers with airline miles and cashback offers.\n\nThe trend began in June, when China Merchants Bank launched a credit card targeting AI developers. It offered new cardholders up to 1.8 billion tokens for use on Chinese AI startup MiniMax’s models.\n\nShanghai Pudong Development Bank also launched a credit card for AI developers, offering subsidies worth up to 3 billion tokens for Alibaba i Alibaba Alibaba, founded in 1999 by Chinese entrepreneur Jack Ma, is one of the most prominent global e-commerce companies that operates platforms like AliExpress, Taobao, and Tmall. READ MORE ’s Qwen models.\n\nAI tokens as mobile data\n\nChina’s three major telecom operators have packaged AI usage much like mobile data plans.\n\nChina Telecom offers consumer plans starting at 9.9 yuan ($1.40) a month for 10 million tokens, with larger allowances available for heavier users and businesses. The company also has a TokenHub platform that offers subscriptions on 142 large models, as the state-owned carrier tries to evolve from selling traditional telecom connectivity to AI computing and services.\n\nIts competitors offer similar plans. China Mobile offered 400,000 tokens for 1 yuan (14 cents) in Shanghai, payable through users’ phone bills. China Unicom introduced monthly plans ranging from 15 yuan ($2.10) for 6 million tokens to 45 yuan ($6.30) for 18 million for business users.\n\nAI tokens as a freebie\n\nInstead of offering free Wi-Fi, an increasing number of Chinese restaurants, cafes, and bars are now luring customers with free AI computing.\n\nAt Beijing’s AGI Bar, customers who buy a drink and connect to the Wi-Fi can get unlimited access to DeepSeek V4 Flash. The bar, which targets customers who are programmers and AI startup founders, runs the model locally using a Nvidia DGX Spark workstation.\n\nNearby, Beijing’s Jingu Yuan dumpling restaurant gives customers 10 yuan ($1.40) worth of computing credits after a meal. Cards on its tables tell diners: “You’re full after eating the dumplings. Go collect some tokens at the cashier so your [AI] agent can be fed with some computing power too.” Its two stores have been handing out more than 100 vouchers a day.\n\nIn Changsha, an upcoming 24-hour coffee shop uses a similar approach for promotion, offering customers AI tokens with their coffee.\n\nAI tokens on e-commerce\n\nTokens have also reached one of China’s largest online secondhand marketplaces . On Alibaba-owned Xianyu, a platform known for selling used phones, furniture, and clothes, sellers advertise cheap access to AI models in packages measured by tokens.\n\nListings offer millions of tokens for a few dollars in day passes or monthly subscriptions and shared access to AI accounts. Some sellers break up model allowances and resell them to students, independent developers, and small businesses. Others attempt to profit from the gap between official token prices and the discounted or free access they obtained elsewhere.\n\nAI tokens in bank lending\n\nThe increasing number of AI startups in China has presented a challenge for its banks, as they struggle to assess the financial status of young companies on traditional metrics such as physical assets.\n\nBanks in the southern city of Guangzhou are experimenting with tokens to boost business for AI startups. The city’s Haizhu district launched a financial product called “token loan” in August. It allows banks including Bank of China, China CITIC Bank, and Bank of Guangzhou to measure a company’s token production and consumption to decide how much it can borrow.\n\nI refused to train the AI that could replace me\n\nAI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.\n\nIndia’s data center boom is leaving the people it displaces with nothing\n\nCommunities are being left behind as AI companies secure tax breaks, cheap land from willing governments.\n\nAI safety is designed in the West, and failing users everywhere\n\nOpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.",
+      "body": "Innovation\n\nFive unexpected ways computing power is entering everyday life in the country.\n\nArtificial intelligence tokens — once a term familiar only to techies — are rapidly entering everyday life in China.\n\nBanks, cafes, and telcos, among other small and big businesses, are offering free AI tokens as incentives to attract more customers. Some businesses are selling tokens much like mobile data plans, offering them as credit card rewards, or giving them out like free Wi-Fi.\n\nAn AI token is essentially a unit of computing that an AI model uses to process text. When a user asks a model a question or gives it an instruction, the words are broken down into small pieces called tokens, which the model processes to generate a response.\n\n500 trillion Daily token consumption in China in mid-2026.\n\nThe massive popularity of AI has led to has sharply increase in token consumption globally. Daily token consumption in China surged to 500 trillion in mid-2026 from 100 billion in early 2024.\n\nToken prices have become a new front in the global AI race as U.S. and Chinese AI companies aggressively lower them to compete for wider adoption of their models. Chinese open-source and open-weight models, despite lagging behind U.S. rivals on some measures of frontier performance, can cost 60% to 90% less than comparable models from OpenAI and Anthropic. Cheaper tokens allow Chinese businesses to experiment with ways to package and market them to ordinary consumers.\n\nPoe Zhao, a Beijing-based analyst and founder of the newsletter Hello China Tech , told Rest of World some of the token packages Chinese companies pushed into the consumer market are a “supply-led experiment.”\n\n“Most ordinary users still encounter AI through an app or feature, without seeing a token balance,” he said.\n\nZhao said China’s effort to bring tokens into the consumer marketplace points to an unusual approach to commercializing AI.\n\nHere are five ways AI tokens are moving into everyday life in China:\n\nAI tokens as credit-card rewards\n\nIn July, Chinese AI startup Moonshot AI launched a credit card named after its model Kimi, in partnership with the Agricultural Bank of China and American Express. Users earn Kimi AI tokens, as well as agent and coding quotas, on their spending, just like credit cards reward consumers with airline miles and cashback offers.\n\nThe trend began in June, when China Merchants Bank launched a credit card targeting AI developers. It offered new cardholders up to 1.8 billion tokens for use on Chinese AI startup MiniMax’s models.\n\nShanghai Pudong Development Bank also launched a credit card for AI developers, offering subsidies worth up to 3 billion tokens for Alibaba i Alibaba Alibaba, founded in 1999 by Chinese entrepreneur Jack Ma, is one of the most prominent global e-commerce companies that operates platforms like AliExpress, Taobao, and Tmall. READ MORE ’s Qwen models.\n\nAI tokens as mobile data\n\nChina’s three major telecom operators have packaged AI usage much like mobile data plans.\n\nChina Telecom offers consumer plans starting at 9.9 yuan ($1.40) a month for 10 million tokens, with larger allowances available for heavier users and businesses. The company also has a TokenHub platform that offers subscriptions on 142 large models, as the state-owned carrier tries to evolve from selling traditional telecom connectivity to AI computing and services.\n\nIts competitors offer similar plans. China Mobile offered 400,000 tokens for 1 yuan (14 cents) in Shanghai, payable through users’ phone bills. China Unicom introduced monthly plans ranging from 15 yuan ($2.10) for 6 million tokens to 45 yuan ($6.30) for 18 million for business users.\n\nAI tokens as a freebie\n\nInstead of offering free Wi-Fi, an increasing number of Chinese restaurants, cafes, and bars are now luring customers with free AI computing.\n\nAt Beijing’s AGI Bar, customers who buy a drink and connect to the Wi-Fi can get unlimited access to DeepSeek V4 Flash. The bar, which targets customers who are programmers and AI startup founders, runs the model locally using a Nvidia DGX Spark workstation.\n\nNearby, Beijing’s Jingu Yuan dumpling restaurant gives customers 10 yuan ($1.40) worth of computing credits after a meal. Cards on its tables tell diners: “You’re full after eating the dumplings. Go collect some tokens at the cashier so your [AI] agent can be fed with some computing power too.” Its two stores have been handing out more than 100 vouchers a day.\n\nIn Changsha, an upcoming 24-hour coffee shop uses a similar approach for promotion, offering customers AI tokens with their coffee.\n\nAI tokens on e-commerce\n\nTokens have also reached one of China’s largest online secondhand marketplaces . On Alibaba-owned Xianyu, a platform known for selling used phones, furniture, and clothes, sellers advertise cheap access to AI models in packages measured by tokens.\n\nListings offer millions of tokens for a few dollars in day passes or monthly subscriptions and shared access to AI accounts. Some sellers break up model allowances and resell them to students, independent developers, and small businesses. Others attempt to profit from the gap between official token prices and the discounted or free access they obtained elsewhere.\n\nAI tokens in bank lending\n\nThe increasing number of AI startups in China has presented a challenge for its banks, as they struggle to assess the financial status of young companies on traditional metrics such as physical assets.\n\nBanks in the southern city of Guangzhou are experimenting with tokens to boost business for AI startups. The city’s Haizhu district launched a financial product called “token loan” in August. It allows banks including Bank of China, China CITIC Bank, and Bank of Guangzhou to measure a company’s token production and consumption to decide how much it can borrow.\n\nTaiwan’s six-year hunt for China’s undercover chip labs\n\nPreviously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.\n\nIndia’s data center boom is leaving the people it displaces with nothing\n\nCommunities are being left behind as AI companies secure tax breaks, cheap land from willing governments.\n\nAI safety is designed in the West, and failing users everywhere\n\nOpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.",
       "imageWidth": 1600,
       "imageHeight": 900
     },
     {
-      "id": "00621e9b75c82c98",
-      "title": "Trump's response is key as Argentina's Falklands demands get louder",
-      "summary": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
+      "id": "f825d2a8d3683a0a",
+      "title": "Why Reform UK undercover donations claims are legally complicated",
+      "summary": "A look at the key allegations concerning foreign donations and where they sit with the law.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo",
+      "url": "https://www.bbc.co.uk/news/articles/c4gdrkx4dpjo",
       "source": "BBC Politics",
       "publisher": "BBC",
-      "published": "2026-09-05T06:20:04Z",
+      "published": "2026-09-05T13:04:06Z",
       "category": "Politics",
-      "region": "US",
+      "region": "UK",
       "labels": [
         "Politics",
-        "US"
+        "UK"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 827,
-      "readingMinutes": 4,
+      "wordCount": 1194,
+      "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4547/live/523d1300-a88f-11f1-96fc-dd627484b0e6.jpg",
-      "body": "Argentine President Javier Milei enjoys a warm relationship with President Trump\n\nPublished 4 September 2026\n\nThe tone over the Falkland Islands dispute has been sharpening in Argentina from well before President Javier Milei's late-night national address on sanctions earlier this week.\n\nIt's tempting to see a visual representation of the tension in the jubilant Argentine players celebrating their hard-fought win over England at the Fifa World Cup this summer holding a banner which read \"Las Malvinas son Argentinas\" - the Falklands are Argentine - in front of their deliriously happy fans. However, the ill-feeling has been fomenting for much longer.\n\nPresident Milei began his Thursday address with a brief history of the Falklands, very much from the Argentine perspective. He repeated the refrain at the heart of their position: the islands \"rightfully belong\" to Argentina. The British had invaded and colonially occupied the islands in 1833, he said, violently wrestling the territory from Argentina's hands.\n\nUK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says Published 23 hours ago\n\nThe UK Government would say he conveniently overlooked a few details: the islands – over which the European powers had interchanged control throughout the 17th and 18th centuries – were uninhabited at the time the British reoccupied the land. The Argentine settlement had been forced out two years earlier, not by the British but by the Americans. A warship, the USS Lexington, destroyed a fort established there in December 1831 amid a dispute over local fishing and sealing rights.\n\nStill, if the Americans had a hand in forcing the Argentines out two centuries ago, they may now play a central role in strengthening the Argentine claim. President Milei certainly thinks so.\n\n\"Winds of change\" were blowing, he assured the Argentine people, after President Trump said he was \"re-evaluating\" the US position on the Falklands.\n\nThe US recognises Britain's rule over the Falklands - but Trump has suggested he is \"re-evaluating\" the US position\n\nThat position has traditionally been one of neutrality - albeit while recognising Britain's rule over the territory. \"Neutral\" is relative, of course, given that President Reagan provided material support to Margaret Thatcher during the Falklands War in 1982 – an act which reinforced the long-standing alliance between London and Washington in times of conflict.\n\nFor Trump, however, that mutual support – the \"Special Relationship\" – was eroded by Sir Keir Starmer when the UK Government chose not to join the US war on Iran.\n\n\"You weren't there to help me\", the president retorted in an interview with GB News this week. The Falklands were \"a long way away\", he said. The Falkland Islanders – who voted almost unanimously to remain a British overseas territory in 2013 – would point out that distance from London to the Falklands is fractionally shorter than the distance between Washington DC and the US territory of Guam, in the western Pacific.\n\nStill, Trump's words have undoubtedly galvanised Milei. As have the opinion polls. He urgently needs a boost ahead of a presidential election next year in which one of his challengers, his former vice-president, Victoria Villarruel, has presented herself as a tougher defender of national sovereignty and attacked Milei's diplomatic approach on the Falklands as failing.\n\nFifa fined the Argentine Football Association after players held up a banner claiming the Falklands, breaching rules against political messaging\n\nDomestic politics can rarely be ruled out of the equation when the Falklands issue flares back up. However, Buenos Aires argues that the matter has become urgent: \"A clear and urgent danger\", as Milei put it.\n\nWith two energy companies – the Israeli-owned Navitas Petroleum and Rockhopper Exploration from the UK – due to undertake work on the Sea Lion oilfield off the Falklands coast within two years, the issue has new impetus. Argentina \"cannot allow\" the companies to \"appropriate the oil reserves under our sea\", he said. \"We will not stand by with our arms folded,\" he added.\n\nOn Saturday morning Milei's office said on X that it was launching sanctions proceedings against 45 people and companies. The announcement did not identify those targeted and it is not yet clear what impact they will have.\n\nIn his speech, Javier Milei painted Argentina as a reliable and \"trustworthy partner\" to Washington and he enjoys Trump's support, both ideologically and personally.\n\nThe two men are close allies in a vision of the Western Hemisphere which Trump calls the \"Don-roe Doctrine\", a play on words on the 19th Century 'Monroe Doctrine' which exerted American domination over the continent. In essence, the two presidents want to see only like-minded leaders in power in the Americas.\n\nWithin such a new partnership and a reordering of the spheres of influence, it's more than conceivable that Trump favours the Argentine leader over the British Prime Minister, Andy Burnham, even if the issues at play transcend personality and party politics.\n\nPerhaps the key question for the coming months, then, is whether the strength of the so-called \"Don-roe Doctrine\" outweighs the lasting history of the \"Special Relationship\".\n\nRelated topics\n\nArgentina\n\nFalkland Islands",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/220b/live/b83881e0-a87f-11f1-824a-0fc4c5d895ae.jpg",
+      "body": "Published 2 hours ago\n\nReform UK has been hit by a row over foreign donations as the party's leaders and supporters gather for their annual conference.\n\nThe row centres on allegations which surfaced during undercover filming by Verbatim Investigations - founded by journalists from the Centre for Climate Reporting - and broadcast by Channel 4 News on Thursday.\n\nThe party denies any wrongdoing and says it is investigating. Robert Jenrick, Reform's economy spokesperson, said the two senior aides in the film had been suspended, telling the BBC's Today programme: \"Nigel [Farage] got rid of the two people who did this…he acted swiftly, they've gone.\"\n\nBoth Labour and the Liberal Democrats have reported Reform to the Metropolitan Police, which says it is assessing the claims but has not launched an investigation. The Electoral Commission says it is \"in touch\" with the police.\n\nWe have looked at each of the three main allegations and where they sit with the law.\n\nThe proposed £500,000 donation\n\nIn the film, Nigel Farage's senior aide Dan Jukes and Reform's head of policy James Orr suggest a way around electoral law to secure foreign party donations for the party, one of which would have totaled £500,000.\n\nJukes meets an undercover reporter posing as a UK-based son of a wealthy American financier, who voices concern that his father could not directly donate to Reform within the law.\n\nJukes tells him: \"You do realise that you can do it?\" According to Channel 4, Jukes was suggesting that the donation could be in the son's name, even though the money would have come from his American father.\n\nA similar arrangement is also mooted in a meeting with Orr.\n\nFarage is shown saying \"it's all above board\" and expressing thanks. On Friday, Farage said he was in fact asking whether it was above board.\n\nChannel 4 says the proposed £500,000 donation was never made.\n\nUnder electoral law, you must be a UK registered voter or a company registered in the UK to be a \"permissable\" donor to a UK political party. In this instance, the son would be a permissible donor, but his father would not be.\n\nAny donation of more than £500 from an impermissible source must be declared to the Electoral Commission and returned within 30 days.\n\nIf the party keeps it beyond that, it is deemed to have accepted the donation - and that could lead to a fine and potential criminal investigation.\n\nTwo Reform officials step down after undercover donations report Published 23 hours ago\n\nFarage says his aides' donor comments were 'loose pub talk' Published 22 hours ago\n\nThe polling payment\n\nChannel 4 says Reform commissioned three opinion polls between January and July 2026, costing £32,500 in total.\n\nOne was on the front page of the Telegraph newspaper under the headline \"Labour would face wipeout if elections went ahead\"; another on the front page of the Times with the headline \"Reform vote in unions at same level as Labour\".\n\nIn the film, Orr suggests to the undercover reporter that perhaps the American financier could pay for opinion polling to help with Reform's campaigns.\n\nHe is shown saying this would \"technically be a donation in kind\" but \"the reality is we could easily get away with it\".\n\nThe public was not told who had commissioned and paid for the three polls. Polling firm JL Partners, the Telegraph and the Times have all said this was not known to them either.\n\nFarage said on Friday the polls in question had been commissioned by an independent third party and that Reform had \"not done anything wrong\".\n\nAny legitimate donations from permissible donors worth more than £11,180 in a calendar year must, by law, be declared to the Electoral Commission. The £32,500 polling payment does not appear to have been declared.\n\nThe legal definition for a political party donation includes payments for studies and research.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: Undercover reporters posing as party donors meet with Nigel Farage\n\nThe Political Parties, Elections and Referendums Act 2000 specifically outlaws knowingly taking steps to disguise or conceal that a donation has come from an impermissible source.\n\nAs part of this, it can be a crime for someone to conceal money spent on expenses incurred directly or indirectly by the party - and to mislead a party on the source of a donation. The maximum sentence is 12 months in prison.\n\nIt is in this context that Labour is demanding the police investigate the polling and whether there is evidence of concealing who actually paid for it.\n\nBut investigating this and the other claims in the film would be hugely complex - and a 30-minute TV report could not be the sole basis for a prosecution.\n\nThe police would almost certainly ask Channel 4 for all the unused filmed material, research notes and plans for the documentary. Detectives would want to interview everyone involved and understand their intentions.\n\nIn a statement on Friday, JL Partners said that \"sometimes people with a party alignment make suggestions about potential clients who may be interested in commissioning and paying for polling\" in the UK and abroad, and that it would not expect to be told the precise relationship between Reform and the US-based company.\n\nNick Vamos, former head of specialist crime at the Crown Prosecution Service, explained: \"It is very common for allegations of electoral offences to be reported to the police, especially by political rivals looking to score points,\" adding the police would assess the evidence neutrally to decide whether a full investigation is required.\n\nSuch offences very rarely lead to prosecution. Between 2011 and 2021, the Electoral Commission referred eight cases to the Met, none of which resulted in charges. Even if there were an investigation, it would take months to get near specialist detectives or prosecutors.\n\nOther potential foreign donations\n\nElsewhere in the film, Jukes appears to list other supporters of Reform UK who have potentially donated to the party through UK residents.\n\nThe names, made in the context of discussing the proposed £500,000 arrangement, are bleeped out.\n\nHe is shown telling the undercover reporter: \"But, you know, serious point, [REDACTED] donates to us, and he donates through his son, the [REDACTED] they donate through their…\"\n\nThe undercover reporter replies, \"Through their kids yeah\", to which Jukes responds: \"The [REDACTED], [REDACTED], one of the two. [REDACTED]. [REDACTED]. The [REDACTED] are Reform donors. It's the father and it's the son, so that's one of the ways in which we do it.\"\n\nDuring a press conference on Friday, Farage referred to this as \"loose pub talk\" with \"a bit of boasting, a bit of jack-the-lad-dery going on there\".\n\n\"Donations from the names that were mentioned have not occurred, don't exist… in our accounts,\" he added.\n\nIt would be for the Electoral Commission and the police to assess any previous Reform donations and their record of declarations.\n\nReform and the individuals involved in the investigations have denied any wrongdoing.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nReform UK",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -306,14 +306,14 @@
       "imageHeight": 630
     },
     {
-      "id": "41c02f8de63e226f",
-      "title": "Malaysia declares emergency in Sarawak as haze from Indonesia worsens",
-      "summary": "Country implements state of emergency in Sarawak's Serian district after air pollution reaches 'hazardous' levels.",
+      "id": "67dc8f616ebc27b2",
+      "title": "LIVE: India vs Pakistan – Women’s T20 Asia Cup",
+      "summary": "Follow the updates from our live build-up to our text commentary stream coverage of the Group A match in Dubai.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/9/5/malaysia-declares-emergency-in-sarawak-as-haze-from-indonesia-worsens?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/5/live-india-vs-pakistan-womens-t20-asia-cup?traffic_source=rss",
       "source": "Al Jazeera",
       "publisher": "Al Jazeera",
-      "published": "2026-09-05T03:48:17Z",
+      "published": "2026-09-05T11:32:07Z",
       "category": "Politics",
       "region": "World",
       "labels": [
@@ -323,7 +323,7 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 15,
+      "wordCount": 20,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": true
@@ -475,29 +475,29 @@
       "imageUrl": "https://i.guim.co.uk/img/media/4cd43c05da6411031980708d64226e8d284d632b/474_181_1122_899/master/1122.jpg?width=700&quality=85&auto=format&fit=max&s=a72bd81950640d794c21340ebdd3dc2d"
     },
     {
-      "id": "e84bc7426c9e38b9",
-      "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
-      "summary": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequences When Donald Trump was asked recently about the threat of rising interest rates on US government debt, he told baffled reporters: “The ultimate intervention is our military. And if we have to use that, we will.” Perhaps not surprisingly, his bellicose words did not soothe fractious bond markets, and his resumption of the bombing campaign against Iran only made matters worse. Continue reading...",
+      "id": "5a7d26a08e8752eb",
+      "title": "Catastrophic dangers await Burnham’s push for English devolution | Phillip Inman",
+      "summary": "Like France, the UK has always been centralised – and imposing a new political structure brings huge risks Devolution in England is going to be messy and slow, and brings with it huge risks that Andy Burnham ignores at his peril. The prime minister’s devolution push will be messy because Whitehall’s ingrained anxiety about handing over money and power will lead to piecemeal deals, starting with a deal for Cornwall that will lack the much-promised driving force of a newly minted mayor. Continue reading...",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
+      "url": "https://www.theguardian.com/politics/2026/sep/05/catastrophic-dangers-await-burnhams-push-english-devolution",
       "source": "The Guardian Economics",
       "publisher": "The Guardian",
-      "published": "2026-09-04T16:49:28Z",
+      "published": "2026-09-05T15:00:39Z",
       "category": "Economics",
-      "region": "US",
+      "region": "UK",
       "labels": [
         "Economics",
-        "US"
+        "UK"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1341,
-      "readingMinutes": 7,
+      "wordCount": 909,
+      "readingMinutes": 5,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/907ad9d0b36b83bec407b5788e79ff4eff4096a4/229_0_2373_1898/master/2373.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=103f77f05ab02e84f80832794db9cb13",
-      "body": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequences\n\nW hen Donald Trump was asked recently about the threat of rising interest rates on US government debt, he told baffled reporters: “The ultimate intervention is our military. And if we have to use that, we will.”\n\nPerhaps not surprisingly, his bellicose words did not soothe fractious bond markets, and his resumption of the bombing campaign against Iran only made matters worse.\n\nThe past fortnight has seen a wave of instability sweeping through government bond markets in major economies – with knock-on effects for millions of borrowers. The interest rate, or yield, on 10-year US government borrowing hit 4.8% on Friday, up from 4.64% 10 days ago. At one point midweek, the 30-year yield touched its highest level since 2008.\n\nNeil Shearing, the chief economist at the consultancy Capital Economics , said one impetus for the current wobble had been markets taking a fresh look at the state of US public finances. “There’s been a recalibration,” he said.\n\nTotal US government debt has surged past $40tn (£29.5tn), and annual deficits are forecast to be an eye-watering 6% of GDP for the foreseeable future.\n\nSuch figures were long deemed barely to matter given the status of US government bonds, or treasuries, as the ultimate safe-haven investment. But as the events that led up to the 2008 financial crisis revealed, things don’t matter in the markets until they do.\n\n“I think we are starting to see a more realistic reassessment of the fiscal pressure in the US,” Shearing said. “What marks the US out is that there’s not really an acknowledgment of the fact that there might be a problem. There’s no plan.”\n\nRussell Jones, a veteran bond market analyst at Llewellyn Consulting, said: “The thing about economics is that often markets delay the judgment and, you know, you can’t really time when they suddenly decide that that’s enough.”\n\nThe US treasury secretary Scott Bessent’s recent fumbled attempts to intervene in financial markets – to help Tokyo prop up the yen and then to calm bond yields – have only added to the sense that policymakers are panicking.\n\nLayered on top of these concerns is a more immediate worry about inflation taking off again as a result of renewed hostilities in the Middle East. Oil prices have risen back above $90 a barrel since the US and Iran resumed tit-for-tat attacks.\n\nThat has increased expectations that central banks will have to raise interest rates – another factor that puts upward pressure on yields.\n\nEvery pronouncement by policymakers is being closely scrutinised for clues, including a key speech by the new Federal Reserve chair, Kevin Warsh, last Friday that was read by markets as signalling a willingness to act.\n\nThe European Central Bank is expected to lead the charge with a rate rise next week, but markets are telegraphing higher borrowing costs across major economies.\n\nThat includes the UK, where investors are now pencilling in three quarter-point rate rises over the next 12 months, and Japan, where the decades-long period of deflation and rock-bottom rates is finally coming to an end.\n\nA dramatic expansion of borrowing by AI “hyperscalers” in the US, to help fund the massive planned expansion of datacentres, has offered investors an alternative home for their cash – and raised questions about the market’s ability to absorb so much debt simultaneously.\n\nRecent calculations by the investment group Vanguard put the value of debt issued by five major tech companies at $135bn (£100bn) this year, up from an average of $35bn between 2020 and 2024.\n\nThere is potentially an even more fundamental explanation for an upward shift in borrowing costs, too – based on the growing prevalence of inflationary shocks not just as a result of geopolitical chaos but because of the climate emergency.\n\nSome economists, including the Bank of England policymaker Swati Dhingra, have argued these increasingly regular shocks, as a result of extreme weather events and resulting economic upheaval, could lead to structurally higher interest rates.\n\nWhatever the causes of rising bond yields, the impact is already rippling out worldwide. Public borrowing has increased dramatically in recent years as policymakers have stepped in to cushion consumers against Covid shutdowns, wrestled with sharply higher energy prices since Russia’s invasion of Ukraine, and stepped up defence spending. That means small changes in global interest rates can have an outsized impact on government budgets.\n\nIn the UK, where £1 in every £12 of public spending already goes on debt interest, Andy Burnham, the prime minister, was pressed this week by the opposition leader, Kemi Badenoch, about the rising cost of government borrowing.\n\nHigher yields on gilts, as UK government bonds are known, will feed through into predictions of higher interest rate costs for the Treasury ahead of the new chancellor John Healey’s autumn budget.\n\nDavid Aikman, the director of the National Institute of Economic and Social Research, urged the government to take the opportunity to implement spending cuts and/or tax increases to help insulate the UK from higher borrowing costs.\n\n“There will be a lot of talk about the fiscal rules. I think that’s slightly missing the point,” he said. “The big point here is we’ve just got a lot of debt, whether you’re missing the rules or not. And it means we’re really vulnerable.”\n\nOn the other side of the world, Australian policymakers have been wrestling with similar challenges. Bond yields have breached 15-year highs just days after the country passed A$1tn in government debt.\n\nThe timing of the two milestones comes at a difficult time for a Labor government that is under pressure to rein in historically high levels of spending.\n\nFalling house prices in a property-obsessed nation are adding to a mood of discontent. Bets have firmed that the Reserve Bank of Australia could deliver another interest rate hike later this month to tame stubbornly high inflation.\n\nJim Chalmers, the treasurer, has been at pains to highlight Australia’s relatively strong budget position internationally. Australia’s debt is equivalent to about half the size of the economy, which pales against other advanced nations. Similarly, the commonwealth is running deficits, but of less than 1% of GDP.\n\nChris Richardson, an independent budget expert, said Australia’s government indebtedness wasn’t “bad by world standards”. “But it’s still a lot of debt. And the higher cost of money means the difficult choices that were there already are that much harder.”\n\nFor developing countries, these issues are all the more urgent. The International Monetary Fund warned earlier this year that these economies had become more exposed to the risk of higher interest rates, because of the growing importance of lending from short-term investors such as hedge funds, which tend to be more flighty during periods of market volatility.\n\nMatthew Martin, of the advocacy group Development Finance International, said: “A lot of these countries are very near the edge, and if they have to go back to the markets and refinance another bond at 1% or 2% higher than it was before, that will mean even less money to spend on climate action, health and education.”\n\nIf higher yields are sustained, the effects will be felt far beyond the world’s treasuries, muddying the maths for corporate investments and putting upward pressure on mortgage rates, which in the UK have already started to rise.\n\nAikman argued corporate balance sheets worldwide looked less shaky than before the global financial crisis. “We’re not in the place we were in the run-up to 2008,” he said. But he pointed to “pockets” of concern, including the huge scale of debt-fuelled private equity projects that could prove vulnerable in a world of higher rates.\n\nBy the end of the week, the sell-off sweeping global bond markets appeared to have eased, for now. But it left yields at levels significantly higher than three months ago – and delivered a painful reminder to policymakers, including Burnham, that in globalised financial markets their plans can be buffeted by forces far beyond their control.\n\nBonds\n\nGilts\n\nGovernment borrowing\n\nUS Government borrowing\n\nInflation\n\nGlobal economy\n\nEconomics\n\nnews",
+      "imageUrl": "https://i.guim.co.uk/img/media/b8297e8e45bf0a0ab9debecaea28cb5cc94ff734/418_0_4203_3363/master/4203.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=7dac15d759ca39fb7df5d7a281d2b1ab",
+      "body": "Like France, the UK has always been centralised – and imposing a new political structure brings huge risks\n\nDevolution in England is going to be messy and slow, and brings with it huge risks that Andy Burnham ignores at his peril.\n\nThe prime minister’s devolution push will be messy because Whitehall’s ingrained anxiety about handing over money and power will lead to piecemeal deals, starting with a deal for Cornwall that will lack the much-promised driving force of a newly minted mayor.\n\nAnd there is every prospect that it will be slow now that the reappointed housing secretary Angela Rayner’s reorganisation of local government, creating hundreds of unitary authorities where counties and districts once ruled, is mired in judicial reviews. Some councils have run up huge debts in the last decade and it’s not clear how these debts will be divided among the new entities.\n\nThere are claims that plans to divide some existing county councils into three, four or even five unitary authorities is politically motivated and that Labour has become seduced by the prospect of retaining a presence in local government through gerrymandering.\n\nLast week, Hertfordshire county council and Newcastle-under-Lyme borough council became the latest local authorities to send letters to Rayner , seeking clarity on how the government reached its decision in their areas.\n\nA week earlier, Lincolnshire county council did the same. Farther south, Essex county, which is to be divided into five unitary authorities, found that the recommendation of Whitehall officials for just three new authorities was overruled by Rayner .\n\nSupposedly, all this infighting will be resolved by Christmas and England will be ready for an entirely new map of local authorities by next May when fresh elections will be held.\n\nSurely these councils and combined authorities, many of which are also embryonic, will struggle to become public institutions with verve, drive, knowledge and experience, able to make good decisions in time for the next election in 2029.\n\nWhen devolution is the prime minister’s big idea, one that will energise Britain’s spirit of enterprise, how it works is going to be crucial. He cannot risk Reform UK and the Tories crowing about another broken promise; or how it shows the British state is clogged with officials waiting for their generous pension, and in need of a Trumpian deep clean.\n\nRayner’s plan is rooted in a belief that local government has failed to work properly and that structural reform is the answer, saving much more over the longer term than the estimated £2bn initial cost.\n\nIt is a belief that has no basis in academic study. It would be a relief to all of those involved in local government and devolution to know that somewhere in the world there was data illustrating how this kind of structural change improves services, saves money and, as Burnham would have it, supercharges economic growth.\n\nUnfortunately there isn’t any such evidence. It is, to use a well-worn cliche, just re-arranging deckchairs. And it is not just because the same people will be taking up the same roles in new offices (and yes, there will need to be five head offices instead of one in Essex).\n\nAs the Institute for Government says: “Structural reforms can be necessary, and useful. But there is nothing inherently valuable about them.”\n\nWhat improves services are reforms to the way public officials work, and that means difficult discussions with trade unions. There needs to be a level of accountability that is absent in significant areas of the public sector. And it will be crucial to change how public organisations relate to each other, how they work together, breaking down old silos and protective practices. It involves giving more information to local people and including them in decision making going forward.\n\nafter newsletter promotion\n\nGeoff Mulgan, a University College London professor and the former boss of the Nesta thinktank, says devolution must answer basic questions people should know, such as how private and public services are delivered and who determines the outcome, from broadband to banking.\n\n“Otherwise it will remain entirely legitimate for populist politicians to say that people have lost control and to claim that they are the answer,” he says.\n\nIn most countries where devolution works well, the establishment of local structures was organic, not imposed. Germany grew out of mini-kingdoms. The US started as a collection of states. The Länder in Germany, and US states, agreed to a federal government while retaining a good deal of power for themselves.\n\nThe UK is more like France. It has always been centralised, and gained in many ways from that and lost out in others. So we should not underestimate how difficult it will be to impose a new political structure on England that devolves money and power to brand new councils and mayors, or in the case of Cornwall , a cabinet committee.\n\nThe public will rightly be sceptical when so many councils under the current system have fallen for the idea that they can raise themselves up if only they borrow lots of money and “invest it” in new stuff. A new high street with hotels and leisure facilities was Woking borough council’s dream until it crashed, £2bn in debt.\n\nTo say there are huge dangers in the world of finance when local council leaders are let loose, armed with a mission to generate growth, is to understate the situation. There are catastrophic dangers waiting.\n\nDevolution\n\nLocal government\n\nEconomics\n\nPublic services policy\n\nAndy Burnham\n\nCornwall\n\nLabour\n\ncomment",
       "imageWidth": 1200,
       "imageHeight": 630
     },
@@ -1082,11 +1082,11 @@
       "imageUrl": "https://i.guim.co.uk/img/media/cc7e10d7432438b78520c9597ce6cf7169c70527/0_0_5000_4000/master/5000.jpg?width=700&quality=85&auto=format&fit=max&s=ac197425db2add2081a87e26d42e0e1e"
     },
     {
-      "id": "fde33bca04bb3647",
-      "title": "Trump administration to dig at triumphal arch site despite final federal approvals",
+      "id": "6790c25fb6a5bb8c",
+      "title": "Trump administration to dig at triumphal arch site despite no final federal approvals",
       "summary": "The Trump administration says it will break ground on a 250-foot triumphal arch in Washington, D.C., without final federal approval and despite an ongoing lawsuit.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/09/05/nx-s1-5957875/trump-administration-to-dig-at-triumphal-arch-site-despite-final-federal-approvals",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5957875/trump-administration-to-dig-at-triumphal-arch-site-despite-no-final-federal-approvals",
       "source": "NPR Politics",
       "publisher": "NPR",
       "published": "2026-09-05T11:43:24Z",
@@ -1203,6 +1203,33 @@
       "isBreaking": false
     },
     {
+      "id": "926c2916040196e4",
+      "title": "John Healey warns of tough first budget as Middle East war puts pressure on economy",
+      "summary": "Chancellor says he wants to ensure country has ‘buffer’ against uncertainty as global bond yields hit 18-year high The chancellor has indicated that the UK will face a tough budget next month due to Trump’s war in the Middle East. In an interview with the Financial Times , John Healey said the conflict in Iran would probably have a strong influence on his first budget on 28 October. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/politics/2026/sep/05/john-healey-warns-of-tough-first-budget-as-middle-east-war-puts-pressure-on-economy",
+      "source": "The Guardian Economics",
+      "publisher": "The Guardian",
+      "published": "2026-09-05T11:26:50Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 709,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/feb9c88177581160f921205e47175bc1ec1ef119/862_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c1aea7d226b7f9e30657cd325145f4d",
+      "body": "Chancellor says he wants to ensure country has ‘buffer’ against uncertainty as global bond yields hit 18-year high\n\nThe chancellor has indicated that the UK will face a tough budget next month due to Trump’s war in the Middle East.\n\nIn an interview with the Financial Times , John Healey said the conflict in Iran would probably have a strong influence on his first budget on 28 October.\n\nHealey, who succeeded Rachel Reeves when Andy Burnham became prime minister in July, told the newspaper he wanted to ensure the country had a robust “buffer against uncertainty” amid increasing global instability.\n\nHowever, economists have predicted that Healey will need to raise taxes or implement significant cost-cutting measures to protect the £24bn fiscal headroom that Reeves had after her March statement.\n\n“What’s happening in the Middle East is hitting inflation , it’s hitting growth, it’s hitting borrowing costs,” Healey said. “It’s part of a more dangerous world that is more uncertain and it’s one of the challenges we have to meet in this country, but have to meet with other [countries].”\n\nHealey declined to say how much headroom he aimed to have, but insisted he and Burnham were “in lockstep in our determination to meet the fiscal rules”.\n\nThe newspaper said he planned to stick to Labour’s 2024 manifesto pledges not to raise taxes on “working people”, such as income tax, national insurance contributions or VAT, and was also not expected to raise the rate of corporation tax.\n\nThe public finances are under pressure from soaring global bond yields , which hit an 18-year high earlier this week. Bond yields have a significant impact on government spending plans, as higher yields drive up borrowing costs.\n\nHealey has faced criticism for failing to commit to the goal of raising defence spending to 3% of GDP by 2030. In June, he resigned as defence secretary because he was unable to get the Treasury to commit to the target, in what was seen as a fatal blow to Keir Starmer’s government.\n\nAcknowledging tough economic conditions, Healey said: “The country’s under pressure. People are under pressure with the cost of living. Households are feeling that. We’re concerned about the cost of living, and we’re concerned about the cost of business.”\n\nHe also said he was committed to cutting the welfare bill. “We must cut the cost of welfare, we have to get more people back into work,” he said. “I know that some of the decisions I must take – and will take – will show the benefits in years to come.”\n\nJim O’Neill, the cross-bench peer and economist who advised Burnham as he prepared to enter Downing Street, has suggested that the prime minister could reassure the bond markets by taking “credible actions” to rein in the “excesses” of welfare spending and the pensions triple lock.\n\nSpeaking to Times Radio earlier this week, he said: “If you have the markets carrying on doing what they’re doing globally … eventually they’re going to have absolutely no choice [but to cut spending] because the penalty of the debt servicing cost and the knock-on effect to other markets including mortgage rates will be too severe for a government to resist.”\n\nafter newsletter promotion\n\nThe triple lock, introduced in 2010, means that state pension increases annually in line with inflation, average wage growth or 2.5% – whichever is highest. It has led to an increase of about £16bn in the state pension bill.\n\nOn Saturday morning, Jonathan Cribb, deputy director of the Institute for Fiscal Studies, told BBC Radio 4’s Today programme that the government could consider an Australian-style system.\n\nHe suggested that the state pension could increase in line with workers’ earnings, with an inbuilt “temporary lock” to safeguard against a decline in average wages due to recession or high inflation.\n\n“It’s a reasonable way to increase the state pension over the long run that’s not as expensive but still generates increases,” he said.\n\nReform UK has said it would cut £80bn of public spending within five years by reducing welfare payments, net zero investment and overseas aid. Speaking at the party’s annual conference in Birmingham, its economic spokesperson, Robert Jenrick, also pledged to reduce the number of civil servants.\n\nEconomic policy\n\nJohn Healey\n\nBudget\n\nDefence policy\n\nTax and spending\n\nInflation\n\nLabour\n\nnews",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
       "id": "6ce6b8973fa72d98",
       "title": "Week in Politics: Trump's face on the coin; reshaping the capital; the midterms",
       "summary": "President Trump is the first living president to have his face on a coin. He's also reshaping Washington in his image, and working to influence midterm elections.",
@@ -1225,6 +1252,33 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5957499"
+    },
+    {
+      "id": "87edf906f727b5d4",
+      "title": "Chris Mason: Reform winded by donations row as insiders call for shift in approach",
+      "summary": "Nigel Farage's admirers in the party are calling for a stronger operation as the party aims for power.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/cje87w9j342o",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-09-05T12:32:31Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 767,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6abb/live/e1f93b00-a924-11f1-aed2-8d6da8d75094.jpg",
+      "body": "Published 2 hours ago\n\n\"We are still a bit of a pirate ship,\" a senior Reform figure acknowledges privately.\n\nIt was the recurring conversation throughout Reform UK's conference in Birmingham: the consequences of the undercover filming broadcast by Channel 4 News which has cost two senior party figures their jobs, at least for now .\n\nHow much damage does it cause to Reform? And what does it tell us about them?\n\n\"A key part of the appeal of us is the sense of us being cavaliers. Doing things differently. Standing out. And that's great. But we need roundheads too. Those who ask the boring questions. Do the checks. We need more of them too,\" this same senior figure adds.\n\nThe story of Reform over the last 12 months can be summarised in three words: defections, elections and money.\n\nFarage says his aides' donor comments were 'loose pub talk' Published 23 hours ago\n\nReform donations row overshadows party's moment to lay out big ideas Published 20 hours ago\n\nFarage threatens to overhaul Lords and judges to meet his pledges Published 19 hours ago\n\nDefections, those who leave one party and join another, have been a big part of the party's growth in the last year – not least the recruitment of former Conservative cabinet ministers Robert Jenrick and Suella Braverman.\n\nElections have been as well - Reform's gains in the English local elections and the devolved parliament elections in Wales and in Scotland.\n\nBut so too has money. The backdrop to this conference was the swirl of questions about money even before Channel 4 News', and Verbatim Investigations', endeavours.\n\nIn the hour or two before its broadcast on Thursday night, senior Reform figures, including those directly caught up in it, projected a sense of being relatively relaxed about it. Awkward, embarrassing, but survivable.\n\nOnce it was broadcast, things changed. There was fury, I am told, and very quickly there was a sense of its gravity. \"A few bottles of red were had, and we knew we had to act,\" is how one source described it to me. The conversations went on into the early hours.\n\nFirstly, there was anger that it would drown out a conference that has been months in the planning. And yes, it has dominated conversation here in Birmingham.\n\nSecondly, there was widespread concern about the image it projected, the impression it would leave.\n\nReform wants to project itself as a prospective party of government.\n\nAnd yet the headlines allow critics to claim they are not just ramshackle and amateurish but can point to what looks like a pattern of activity, consciously pursued, to breach the law.\n\nAbsolutely not, Nigel Farage insisted to me, there was no such pattern.\n\nBut what of the ethos of the party? Journalist Tim Shipman in The Spectator writes , external that \"it is the experience of everyone I have ever known near the summit of politics that political operations take their character and operating logic from the person at the apex of the triangle. Leaders set culture.\"\n\nThere is something in this. Take Rishi Sunak's Downing Street operation and Boris Johnson's. They were wildly different culturally, reflecting the very different characters at their helm. Would all the things that happened during Partygate under Johnson have happened under Sunak? Unlikely, I would have thought.\n\nSome within Reform, who are full of admiration for Nigel Farage's chutzpah and gift as a communicator, are desperate to see a behind-the-scenes cultural shift that minimises the chances of further embarrassments. And, alongside that, a step up in the infrastructure and personnel to match.\n\nFarage's team express frustration that this is precisely what they have been doing, but some are telling them internally they need to move more quickly.\n\nBoth James Orr, the party's head of policy; and Dan Jukes, Farage's right-hand man, will be missed profoundly by those inside the party.\n\nPrivately, some wonder if Orr may yet return.\n\nJukes, who has been a pivotal and loyal figure in Team Farage for years, was already dividing his time between the UK and the United States as his wife and baby are on the other side of the Atlantic.\n\nPerhaps, some senior figures suggest, his immediate future might be in America. Does he return when the general election is nearer? Let's see.\n\nReform leave Birmingham winded and wounded by the last few days, their days in the sun overshadowed.\n\nThe question is how they deal with this and respond to it, in the coming weeks and months.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nReform UK",
+      "imageWidth": 1200,
+      "imageHeight": 675
     },
     {
       "id": "536f77df22bebaf8",
@@ -1252,6 +1306,33 @@
       "imageAlt": "A person holds signs during a nationwide protest against AI data center expansion in New Port Richey, Florida on July 18, 2026.",
       "imageWidth": 8256,
       "imageHeight": 5504
+    },
+    {
+      "id": "6543774b16e329ba",
+      "title": "Reform promises to increase tax-free personal allowance to £15,000",
+      "summary": "The party says the tax cut will be paid for by reducing public spending by £80bn.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-09-05T12:59:02Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 978,
+      "readingMinutes": 5,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1bf3/live/4f1274d0-a930-11f1-bb81-8fbd2d2d397c.png",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRobert Jenrick on Reform's proposed increase in tax-free personal allowance\n\nPublished 5 September 2026, 06:00 BST\n\nReform UK is promising to increase the tax-free personal allowance to £15,000, if it wins the next general election.\n\nRobert Jenrick, the party's economic spokesman, has pledged to introduce the tax cut within the first 100 days if he became chancellor saying it would provide \"money that people really need right now\".\n\nIt is seen by Reform insiders as the flagship policy announcement of its conference and perhaps their biggest tax policy between now and the general election.\n\nAsked about two senior Reform aides being investigated by the party following a Channel 4 News undercover broadcast into claims about funding, Jenrick told the BBC Nigel Farage had acted swiftly and they had been suspended.\n\nIn undercover filming by Verbatim Investigations Farage's senior aide Dan Jukes and Reform's head of policy James Orr suggested a way around electoral law to secure foreign party donations for the party, one of which would have totalled £500,000.\n\nElectoral law sets out that to be a donor to a UK political party you must be a UK registered voter, or a company registered in the UK.\n\nFarage said on Friday that his party had \"done nothing wrong\" and had taken \"no illegal money. In fact no money was taken at all.\"\n\nJukes denied wrongdoing and said he was stepping away from politics \"in order to clear my name\". Orr told Sky News he would cooperate fully with the party's internal investigation.\n\nOrr is an associate professor of Philosophy of Religion at Cambridge University's Faculty of Divinity, and responding to the Channel 4 News and Verbatim report, Cambridge University said it was \"looking into these matters\".\n\nJenrick told the Today programme that the party had taken legal advice and it did not believe it had done anything wrong.\n\nLabour and the Liberal Democrats have reported the party to the Metropolitan Police.\n\nThe Electoral Commission has said it is considering \"all relevant information, in line with our regulatory remit\" and was in contact with the police.\n\nReform donations row overshadows party's moment to lay out big ideas Published 20 hours ago\n\nFarage says his aides' donor comments were 'loose pub talk' Published 23 hours ago\n\nOn tax measures, Reform estimates that increasing the tax-free threshold by £2,430 would save most taxpayers £500 a year and 2.9 million people would stop paying income tax altogether.\n\nIt says the policy would cost £17.7bn in the first year, rising to £21bn by the fifth year and could be paid for through £80bn of public spending cuts the party plans to make.\n\nJenrick told BBC Breakfast Reform would pay for the policy by \"cutting out the waste\".\n\nReform has said its spending cuts would include a £50bn reduction in welfare spending .\n\nHalf of the £353bn of welfare spending goes on the state pension, but Reform has said it will not cut this proportion.\n\nThe bulk of the funding would come from reducing the cost of welfare, Jenrick said, by not paying benefits to people who are not British citizens and helping people who are off work due to their mental health back into jobs.\n\nJenrick also said the UK would \"stop paying foreign aid to rich countries\", adding that \"we should be looking after British people first\".\n\n\"Yes, we'll pay for disaster relief but the vast majority of that budget should be spent on the priorities of our own people,\" he said.\n\nReform hopes to raise £10bn by scrapping net-zero programmes and Jenrick said, as the UK only amounted to 1% of the world's emissions, it was not sensible to be trying to decarbonise faster than other countries as that was \"just impoverishing our own people\".\n\nThe party hopes to raise £8bn by reducing the number of civil servants and £7.1bn by capping the foreign aid budget.\n\nThe policy was announced at Jenrick's speech on the last day of the party's conference in Birmingham.\n\n\"As chancellor, I will wake each morning with one purpose. To make Britain a better place to be a worker than it was the day before,\" he said.\n\n\"1.3 million were dragged into paying tax last year alone. Why? Because the tax-free allowance has been stuck at 12 and a half grand since 2021. And Labour has frozen it until 2031.\n\n\"That betrayal costs a full-time worker on the minimum wage more than £750 a year. And now for the first time, the freeze means they're going to be taxing the state pension. What a disgrace.\"\n\nHe said that if he failed to deliver the tax cut in his first Budget he would resign as chancellor.\n\n\"No ifs, no buts, I'll be gone.\"\n\nIn its manifesto before the general election in 2024, Reform said it wanted to lift the threshold to £20,000. Jenrick told conference activists this remains his long-term aim.\n\nThe personal allowance threshold currently stands at £12,570. Anyone earning more than £100,000 starts to lose their personal allowance. For every £2 earned above the threshold the basic allowance decreases by £1.\n\nShortly after becoming prime minister, Andy Burnham told the Times that the \"frustration\" of people in his Makerfield constituency about the frozen allowance had \"lodged in my mind\".\n\nHe later said that \"all of this would be looked at\" in the upcoming Budget but that any change would be \"difficult given the financial circumstances\".\n\nDoes Reform's plan to cut £50bn in welfare spending add up? Published 17 August\n\nReform donations row overshadows party's moment to lay out big ideas Published 20 hours ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nReform UK\n\nRobert Jenrick",
+      "imageWidth": 1200,
+      "imageHeight": 675
     },
     {
       "id": "1a71ef99261bc1fd",
@@ -1328,7 +1409,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4057/live/c71be120-a910-11f1-9eff-150801023722.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nYoung supporters give their views as the Reform UK party conference takes place in Birmingham.\n\nMore on the Reform UK conference\n\nSubsection Politics\n\nPublished 1 hour ago\n\nRelated topics\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nYoung supporters give their views as the Reform UK party conference takes place in Birmingham.\n\nMore on the Reform UK conference\n\nSubsection Politics\n\nPublished 5 hours ago\n\nRelated topics\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1355,7 +1436,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35af/live/0171e100-a90f-11f1-aed2-8d6da8d75094.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nSupporters of Reform UK give their views on whether their party has lost momentum.\n\nReform UK supporters gather in Birmingham for the party's annual conference.\n\nSubsection Politics\n\nPublished 1 hour ago\n\nRelated topics\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nSupporters of Reform UK give their views on whether their party has lost momentum.\n\nReform UK supporters gather in Birmingham for the party's annual conference.\n\nSubsection Politics\n\nPublished 5 hours ago\n\nRelated topics\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1383,6 +1464,60 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
+    },
+    {
+      "id": "e84bc7426c9e38b9",
+      "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
+      "summary": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequences When Donald Trump was asked recently about the threat of rising interest rates on US government debt, he told baffled reporters: “The ultimate intervention is our military. And if we have to use that, we will.” Perhaps not surprisingly, his bellicose words did not soothe fractious bond markets, and his resumption of the bombing campaign against Iran only made matters worse. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
+      "source": "The Guardian Economics",
+      "publisher": "The Guardian",
+      "published": "2026-09-04T16:49:28Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 1341,
+      "readingMinutes": 7,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/907ad9d0b36b83bec407b5788e79ff4eff4096a4/229_0_2373_1898/master/2373.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=103f77f05ab02e84f80832794db9cb13",
+      "body": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequences\n\nW hen Donald Trump was asked recently about the threat of rising interest rates on US government debt, he told baffled reporters: “The ultimate intervention is our military. And if we have to use that, we will.”\n\nPerhaps not surprisingly, his bellicose words did not soothe fractious bond markets, and his resumption of the bombing campaign against Iran only made matters worse.\n\nThe past fortnight has seen a wave of instability sweeping through government bond markets in major economies – with knock-on effects for millions of borrowers. The interest rate, or yield, on 10-year US government borrowing hit 4.8% on Friday, up from 4.64% 10 days ago. At one point midweek, the 30-year yield touched its highest level since 2008.\n\nNeil Shearing, the chief economist at the consultancy Capital Economics , said one impetus for the current wobble had been markets taking a fresh look at the state of US public finances. “There’s been a recalibration,” he said.\n\nTotal US government debt has surged past $40tn (£29.5tn), and annual deficits are forecast to be an eye-watering 6% of GDP for the foreseeable future.\n\nSuch figures were long deemed barely to matter given the status of US government bonds, or treasuries, as the ultimate safe-haven investment. But as the events that led up to the 2008 financial crisis revealed, things don’t matter in the markets until they do.\n\n“I think we are starting to see a more realistic reassessment of the fiscal pressure in the US,” Shearing said. “What marks the US out is that there’s not really an acknowledgment of the fact that there might be a problem. There’s no plan.”\n\nRussell Jones, a veteran bond market analyst at Llewellyn Consulting, said: “The thing about economics is that often markets delay the judgment and, you know, you can’t really time when they suddenly decide that that’s enough.”\n\nThe US treasury secretary Scott Bessent’s recent fumbled attempts to intervene in financial markets – to help Tokyo prop up the yen and then to calm bond yields – have only added to the sense that policymakers are panicking.\n\nLayered on top of these concerns is a more immediate worry about inflation taking off again as a result of renewed hostilities in the Middle East. Oil prices have risen back above $90 a barrel since the US and Iran resumed tit-for-tat attacks.\n\nThat has increased expectations that central banks will have to raise interest rates – another factor that puts upward pressure on yields.\n\nEvery pronouncement by policymakers is being closely scrutinised for clues, including a key speech by the new Federal Reserve chair, Kevin Warsh, last Friday that was read by markets as signalling a willingness to act.\n\nThe European Central Bank is expected to lead the charge with a rate rise next week, but markets are telegraphing higher borrowing costs across major economies.\n\nThat includes the UK, where investors are now pencilling in three quarter-point rate rises over the next 12 months, and Japan, where the decades-long period of deflation and rock-bottom rates is finally coming to an end.\n\nA dramatic expansion of borrowing by AI “hyperscalers” in the US, to help fund the massive planned expansion of datacentres, has offered investors an alternative home for their cash – and raised questions about the market’s ability to absorb so much debt simultaneously.\n\nRecent calculations by the investment group Vanguard put the value of debt issued by five major tech companies at $135bn (£100bn) this year, up from an average of $35bn between 2020 and 2024.\n\nThere is potentially an even more fundamental explanation for an upward shift in borrowing costs, too – based on the growing prevalence of inflationary shocks not just as a result of geopolitical chaos but because of the climate emergency.\n\nSome economists, including the Bank of England policymaker Swati Dhingra, have argued these increasingly regular shocks, as a result of extreme weather events and resulting economic upheaval, could lead to structurally higher interest rates.\n\nWhatever the causes of rising bond yields, the impact is already rippling out worldwide. Public borrowing has increased dramatically in recent years as policymakers have stepped in to cushion consumers against Covid shutdowns, wrestled with sharply higher energy prices since Russia’s invasion of Ukraine, and stepped up defence spending. That means small changes in global interest rates can have an outsized impact on government budgets.\n\nIn the UK, where £1 in every £12 of public spending already goes on debt interest, Andy Burnham, the prime minister, was pressed this week by the opposition leader, Kemi Badenoch, about the rising cost of government borrowing.\n\nHigher yields on gilts, as UK government bonds are known, will feed through into predictions of higher interest rate costs for the Treasury ahead of the new chancellor John Healey’s autumn budget.\n\nDavid Aikman, the director of the National Institute of Economic and Social Research, urged the government to take the opportunity to implement spending cuts and/or tax increases to help insulate the UK from higher borrowing costs.\n\n“There will be a lot of talk about the fiscal rules. I think that’s slightly missing the point,” he said. “The big point here is we’ve just got a lot of debt, whether you’re missing the rules or not. And it means we’re really vulnerable.”\n\nOn the other side of the world, Australian policymakers have been wrestling with similar challenges. Bond yields have breached 15-year highs just days after the country passed A$1tn in government debt.\n\nThe timing of the two milestones comes at a difficult time for a Labor government that is under pressure to rein in historically high levels of spending.\n\nFalling house prices in a property-obsessed nation are adding to a mood of discontent. Bets have firmed that the Reserve Bank of Australia could deliver another interest rate hike later this month to tame stubbornly high inflation.\n\nJim Chalmers, the treasurer, has been at pains to highlight Australia’s relatively strong budget position internationally. Australia’s debt is equivalent to about half the size of the economy, which pales against other advanced nations. Similarly, the commonwealth is running deficits, but of less than 1% of GDP.\n\nChris Richardson, an independent budget expert, said Australia’s government indebtedness wasn’t “bad by world standards”. “But it’s still a lot of debt. And the higher cost of money means the difficult choices that were there already are that much harder.”\n\nFor developing countries, these issues are all the more urgent. The International Monetary Fund warned earlier this year that these economies had become more exposed to the risk of higher interest rates, because of the growing importance of lending from short-term investors such as hedge funds, which tend to be more flighty during periods of market volatility.\n\nMatthew Martin, of the advocacy group Development Finance International, said: “A lot of these countries are very near the edge, and if they have to go back to the markets and refinance another bond at 1% or 2% higher than it was before, that will mean even less money to spend on climate action, health and education.”\n\nIf higher yields are sustained, the effects will be felt far beyond the world’s treasuries, muddying the maths for corporate investments and putting upward pressure on mortgage rates, which in the UK have already started to rise.\n\nAikman argued corporate balance sheets worldwide looked less shaky than before the global financial crisis. “We’re not in the place we were in the run-up to 2008,” he said. But he pointed to “pockets” of concern, including the huge scale of debt-fuelled private equity projects that could prove vulnerable in a world of higher rates.\n\nBy the end of the week, the sell-off sweeping global bond markets appeared to have eased, for now. But it left yields at levels significantly higher than three months ago – and delivered a painful reminder to policymakers, including Burnham, that in globalised financial markets their plans can be buffeted by forces far beyond their control.\n\nBonds\n\nGilts\n\nGovernment borrowing\n\nUS Government borrowing\n\nInflation\n\nGlobal economy\n\nEconomics\n\nnews",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "id": "00621e9b75c82c98",
+      "title": "Trump's response is key as Argentina's Falklands demands get louder",
+      "summary": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-09-05T06:20:04Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 827,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4547/live/523d1300-a88f-11f1-96fc-dd627484b0e6.jpg",
+      "body": "Argentine President Javier Milei enjoys a warm relationship with President Trump\n\nPublished 4 September 2026\n\nThe tone over the Falkland Islands dispute has been sharpening in Argentina from well before President Javier Milei's late-night national address on sanctions earlier this week.\n\nIt's tempting to see a visual representation of the tension in the jubilant Argentine players celebrating their hard-fought win over England at the Fifa World Cup this summer holding a banner which read \"Las Malvinas son Argentinas\" - the Falklands are Argentine - in front of their deliriously happy fans. However, the ill-feeling has been fomenting for much longer.\n\nPresident Milei began his Thursday address with a brief history of the Falklands, very much from the Argentine perspective. He repeated the refrain at the heart of their position: the islands \"rightfully belong\" to Argentina. The British had invaded and colonially occupied the islands in 1833, he said, violently wrestling the territory from Argentina's hands.\n\nUK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says Published 1 day ago\n\nThe UK Government would say he conveniently overlooked a few details: the islands – over which the European powers had interchanged control throughout the 17th and 18th centuries – were uninhabited at the time the British reoccupied the land. The Argentine settlement had been forced out two years earlier, not by the British but by the Americans. A warship, the USS Lexington, destroyed a fort established there in December 1831 amid a dispute over local fishing and sealing rights.\n\nStill, if the Americans had a hand in forcing the Argentines out two centuries ago, they may now play a central role in strengthening the Argentine claim. President Milei certainly thinks so.\n\n\"Winds of change\" were blowing, he assured the Argentine people, after President Trump said he was \"re-evaluating\" the US position on the Falklands.\n\nThe US recognises Britain's rule over the Falklands - but Trump has suggested he is \"re-evaluating\" the US position\n\nThat position has traditionally been one of neutrality - albeit while recognising Britain's rule over the territory. \"Neutral\" is relative, of course, given that President Reagan provided material support to Margaret Thatcher during the Falklands War in 1982 – an act which reinforced the long-standing alliance between London and Washington in times of conflict.\n\nFor Trump, however, that mutual support – the \"Special Relationship\" – was eroded by Sir Keir Starmer when the UK Government chose not to join the US war on Iran.\n\n\"You weren't there to help me\", the president retorted in an interview with GB News this week. The Falklands were \"a long way away\", he said. The Falkland Islanders – who voted almost unanimously to remain a British overseas territory in 2013 – would point out that distance from London to the Falklands is fractionally shorter than the distance between Washington DC and the US territory of Guam, in the western Pacific.\n\nStill, Trump's words have undoubtedly galvanised Milei. As have the opinion polls. He urgently needs a boost ahead of a presidential election next year in which one of his challengers, his estranged vice-president, Victoria Villarruel, has presented herself as a tougher defender of national sovereignty and attacked Milei's diplomatic approach on the Falklands as failing.\n\nFifa fined the Argentine Football Association after players held up a banner claiming the Falklands, breaching rules against political messaging\n\nDomestic politics can rarely be ruled out of the equation when the Falklands issue flares back up. However, Buenos Aires argues that the matter has become urgent: \"A clear and urgent danger\", as Milei put it.\n\nWith two energy companies – the Israeli-owned Navitas Petroleum and Rockhopper Exploration from the UK – due to undertake work on the Sea Lion oilfield off the Falklands coast within two years, the issue has new impetus. Argentina \"cannot allow\" the companies to \"appropriate the oil reserves under our sea\", he said. \"We will not stand by with our arms folded,\" he added.\n\nOn Saturday morning Milei's office said on X that it was launching sanctions proceedings against 45 people and companies. The announcement did not identify those targeted and it is not yet clear what impact they will have.\n\nIn his speech, Javier Milei painted Argentina as a reliable and \"trustworthy partner\" to Washington and he enjoys Trump's support, both ideologically and personally.\n\nThe two men are close allies in a vision of the Western Hemisphere which Trump calls the \"Don-roe Doctrine\", a play on words on the 19th Century 'Monroe Doctrine' which exerted American domination over the continent. In essence, the two presidents want to see only like-minded leaders in power in the Americas.\n\nWithin such a new partnership and a reordering of the spheres of influence, it's more than conceivable that Trump favours the Argentine leader over the British Prime Minister, Andy Burnham, even if the issues at play transcend personality and party politics.\n\nPerhaps the key question for the coming months, then, is whether the strength of the so-called \"Don-roe Doctrine\" outweighs the lasting history of the \"Special Relationship\".\n\nRelated topics\n\nArgentina\n\nFalkland Islands",
+      "imageWidth": 1200,
+      "imageHeight": 675
     },
     {
       "id": "44d46de7303b9a9e",
@@ -1564,7 +1699,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0932/live/294cfdd0-a88e-11f1-96fc-dd627484b0e6.jpg",
-      "body": "Published 4 September 2026\n\nNigel Farage has insisted a Reform UK government would deliver where other parties have failed, as he set out his priorities in his annual conference speech.\n\nHe said Reform's pledges for its first 100 days in power would include stopping small boat crossings, cutting energy bills by £250 a year and ending the net zero \"lunacy\".\n\nTo eliminate \"obstacles\" to his plans, Farage said he would declare a \"national emergency\" and threatened to overhaul the House of Lords and how judges are appointed if they stood in the way.\n\nIn a speech interrupted several times by protesters, the Reform leader was also forced to address allegations over donations which emerged in an undercover investigation.\n\nReform had been hoping to use its annual conference to regain momentum after a difficult summer dominated by questions over the party's finances.\n\nHowever, the main day of the conference was overshadowed after two senior party officials stepped down and Reform launched an investigation into claims about funding aired during a Channel 4 News report on Thursday evening, which was filmed by Verbatim Investigations, a group founded by journalists from the Centre for Climate Reporting.\n\nIn the undercover filming, the two men suggested a way around electoral law to secure foreign donations for the party, one of which would have totalled £500,000.\n\nFarage insisted \"the party has done nothing wrong\" and \"has taken no illegal money\", claiming the allegations had been made \"because they're scared of us\".\n\nFarage says his aides' donor comments were 'loose pub talk' Published 19 hours ago\n\nReform donations row overshadows party's moment to lay out big ideas Published 17 hours ago\n\nReform UK promises £80bn cuts to public spending Published 1 day ago\n\nIn his speech, which was light on new policy announcements, Farage said the country needed a government \"that actually delivers on its promises\" and \"we're the only people capable of doing it\".\n\nHe argued the Tories \"had 14 years in power and failed absolutely miserably\", while Labour's new Prime Minister Andy Burnham \"says he needs 10 years\", a reference to the PM's promise to set out a 10-year plan for the country later this year.\n\nIf Reform wins the next general election, Farage pledged to sack ministers who fail to deliver on their promises in their first 100 days in the job \"and replace them with somebody else with the courage to do it\".\n\nSetting out his plans to call a \"national emergency\" if Reform wins power, Farage said: \"Parliament will sit, if necessary, for 24 hours a day, for six days a week until we pass the necessary legislation.\"\n\nHe said he expected the House of Lords to \"honour\" Reform's policy pledges but if they refused to do so threatened to appoint hundreds of new peers so the party had a majority in the upper chamber.\n\n\"And if that proves difficult, we will hold a referendum on the current composition of the House of Lords, and they would be swept away by a British public appalled by them,\" he added.\n\nIdentifying the judiciary as another possible \"obstacle\", Farage promised to remove the ability of judges to rely on conventions like the European Convention of Human Rights (ECHR), which critics blame for hindering some deportations.\n\n\"We don't want the courts striking down, do we, the will of the people,\" he said.\n\n\"Parliament makes the law, judges interpret the law. We will do whatever it takes, and perhaps have to consider how judicial appointments work in the future.\"\n\nMeanwhile, he said civil servants who \"try to obstruct us\" would be removed from their posts and replaced by people from the world of business.\n\n\"I'm tired of being told what can't be done,\" the Reform leader said.\n\n\"That is not what the public want. The public want action, the public want genuine change, the public do not want any more of the same. And our attitude is can do, and will do.\"\n\nPredicting that Burnham would call an early general election in spring 2027, Farage attempted to use his speech to convince the public Reform was ready to govern.\n\nStressing he now had a team of spokespeople with \"frontline experience\", he said the party was planning to broaden its expertise.\n\n\"There are more big jobs to fill, and I'm looking and working on defence, health, and the other areas,\" he added.\n\nIn his speech, Farage also hailed a \"historic agreement\" on small boat returns, signed earlier between Reform and France's hard-right National Rally party .\n\nThe deal sets out how a Reform government would intercept boats in the English Channel and return them to France using the Navy, with France \"ordinarily\" accepting those on board.\n\nIt was signed by the National Rally President Jordan Bardella, whose party is currently leading in opinion polls ahead of French presidential elections in April next year, after he gave a speech to the main conference hall.\n\nFarage took to the stage after a long delay, which he told delegates was due to a \"security alert\".\n\nHe took the opportunity to walk through the crowd and greet delegates during the delay.\n\nHis speech was also interrupted several times by protesters, including two women who held up a banner reading \"Reform works for billionaires\".\n\nThey were booed by audience members who shouted \"out\", as they were removed by security.\n\nFarage laughed off the disruption, chanting \"boring, boring, boring\".\n\nReform is no longer consistently topping national opinion polls, after more than a year of enjoying a comfortable lead.\n\nMeanwhile, Labour's ratings have risen since Burnham entered Downing Street, and Reform has lost some support to Restore Britain, the new right-wing party founded by former Reform MP Rupert Lowe.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nNigel Farage\n\nReform UK",
+      "body": "Published 4 September 2026\n\nNigel Farage has insisted a Reform UK government would deliver where other parties have failed, as he set out his priorities in his annual conference speech.\n\nHe said Reform's pledges for its first 100 days in power would include stopping small boat crossings, cutting energy bills by £250 a year and ending the net zero \"lunacy\".\n\nTo eliminate \"obstacles\" to his plans, Farage said he would declare a \"national emergency\" and threatened to overhaul the House of Lords and how judges are appointed if they stood in the way.\n\nIn a speech interrupted several times by protesters, the Reform leader was also forced to address allegations over donations which emerged in an undercover investigation.\n\nReform had been hoping to use its annual conference to regain momentum after a difficult summer dominated by questions over the party's finances.\n\nHowever, the main day of the conference was overshadowed after two senior party officials stepped down and Reform launched an investigation into claims about funding aired during a Channel 4 News report on Thursday evening, which was filmed by Verbatim Investigations, a group founded by journalists from the Centre for Climate Reporting.\n\nIn the undercover filming, the two men suggested a way around electoral law to secure foreign donations for the party, one of which would have totalled £500,000.\n\nFarage insisted \"the party has done nothing wrong\" and \"has taken no illegal money\", claiming the allegations had been made \"because they're scared of us\".\n\nFarage says his aides' donor comments were 'loose pub talk' Published 22 hours ago\n\nReform donations row overshadows party's moment to lay out big ideas Published 20 hours ago\n\nReform UK promises £80bn cuts to public spending Published 1 day ago\n\nIn his speech, which was light on new policy announcements, Farage said the country needed a government \"that actually delivers on its promises\" and \"we're the only people capable of doing it\".\n\nHe argued the Tories \"had 14 years in power and failed absolutely miserably\", while Labour's new Prime Minister Andy Burnham \"says he needs 10 years\", a reference to the PM's promise to set out a 10-year plan for the country later this year.\n\nIf Reform wins the next general election, Farage pledged to sack ministers who fail to deliver on their promises in their first 100 days in the job \"and replace them with somebody else with the courage to do it\".\n\nSetting out his plans to call a \"national emergency\" if Reform wins power, Farage said: \"Parliament will sit, if necessary, for 24 hours a day, for six days a week until we pass the necessary legislation.\"\n\nHe said he expected the House of Lords to \"honour\" Reform's policy pledges but if they refused to do so threatened to appoint hundreds of new peers so the party had a majority in the upper chamber.\n\n\"And if that proves difficult, we will hold a referendum on the current composition of the House of Lords, and they would be swept away by a British public appalled by them,\" he added.\n\nIdentifying the judiciary as another possible \"obstacle\", Farage promised to remove the ability of judges to rely on conventions like the European Convention of Human Rights (ECHR), which critics blame for hindering some deportations.\n\n\"We don't want the courts striking down, do we, the will of the people,\" he said.\n\n\"Parliament makes the law, judges interpret the law. We will do whatever it takes, and perhaps have to consider how judicial appointments work in the future.\"\n\nMeanwhile, he said civil servants who \"try to obstruct us\" would be removed from their posts and replaced by people from the world of business.\n\n\"I'm tired of being told what can't be done,\" the Reform leader said.\n\n\"That is not what the public want. The public want action, the public want genuine change, the public do not want any more of the same. And our attitude is can do, and will do.\"\n\nPredicting that Burnham would call an early general election in spring 2027, Farage attempted to use his speech to convince the public Reform was ready to govern.\n\nStressing he now had a team of spokespeople with \"frontline experience\", he said the party was planning to broaden its expertise.\n\n\"There are more big jobs to fill, and I'm looking and working on defence, health, and the other areas,\" he added.\n\nIn his speech, Farage also hailed a \"historic agreement\" on small boat returns, signed earlier between Reform and France's hard-right National Rally party .\n\nThe deal sets out how a Reform government would intercept boats in the English Channel and return them to France using the Navy, with France \"ordinarily\" accepting those on board.\n\nIt was signed by the National Rally President Jordan Bardella, whose party is currently leading in opinion polls ahead of French presidential elections in April next year, after he gave a speech to the main conference hall.\n\nFarage took to the stage after a long delay, which he told delegates was due to a \"security alert\".\n\nHe took the opportunity to walk through the crowd and greet delegates during the delay.\n\nHis speech was also interrupted several times by protesters, including two women who held up a banner reading \"Reform works for billionaires\".\n\nThey were booed by audience members who shouted \"out\", as they were removed by security.\n\nFarage laughed off the disruption, chanting \"boring, boring, boring\".\n\nReform is no longer consistently topping national opinion polls, after more than a year of enjoying a comfortable lead.\n\nMeanwhile, Labour's ratings have risen since Burnham entered Downing Street, and Reform has lost some support to Restore Britain, the new right-wing party founded by former Reform MP Rupert Lowe.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nNigel Farage\n\nReform UK",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1591,7 +1726,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77a0/live/ad70d0b0-a883-11f1-824a-0fc4c5d895ae.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more about this story here.\n\nSubsection Politics\n\nPublished 18 hours ago\n\nRelated topics\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUK government Follow UK government close panel You are now following UK government Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more about this story here.\n\nSubsection Politics\n\nPublished 21 hours ago\n\nRelated topics\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUK government Follow UK government close panel You are now following UK government Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1618,7 +1753,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e95/live/c6320bb0-a873-11f1-824a-0fc4c5d895ae.jpg",
-      "body": "Published 4 September 2026\n\nReform UK leader Nigel Farage has described secretly-recorded comments by his senior aides about donations as \"injudicious\" and \"loose pub talk\".\n\nJames Orr, the party's head of policy, and Dan Jukes, a close aide to Farage, have both stepped down and Reform has launched an internal investigation into the allegations.\n\nIt comes after Channel 4 News broadcast undercover filming by Verbatim Investigations, in which the two men suggested a way around electoral law to secure foreign party donations for the party, one of which would have totalled £500,000.\n\nFarage said his party had \"done nothing wrong\" and had taken \"no illegal money. In fact no money was taken at all.\"\n\nElectoral law sets out that to be a permissible donor to a UK political party you must be a UK registered voter, or a company registered in the UK.\n\nIn the Channel 4 report, which aired on Thursday night, a reporter posing as a potential party donor raises a concern to Farage's aide Dan Jukes that his American father wouldn't be able to directly give money to the party within the law.\n\nJukes tells him: \"You do realise that you can do it?\"\n\nChannel 4 say Jukes was suggesting that the donation could be in the UK-based son's name, although the money would have come from his American father.\n\nHe then claims they have done it several times before, in exchanges bleeped out but which appear to refer to other instances where this mechanism had been used before.\n\nAt the press conference, Farage said that Channel 4 had opted to bleep the names, rather than broadcast them was because Jukes' claims were \"simply not true\".\n\nHe said those donations \"haven't occurred\" and \"don't exist in our accounts\".\n\nFarage said his party took compliance around donations \"very seriously\".\n\nResponding to the allegations, Jukes said: \"This was entrapment over a prolonged period of nearly a year by foreign-funded climate change activists.\n\n\"I totally deny any wrongdoing but have stepped back from politics in order to clear my name.\"\n\nBefore stepping down from his position Jukes had been seen as Farage's right hand man.\n\nReform's head of policy, James Orr, who also appeared in the film, suggested to the undercover reporter that perhaps his American father could pay for opinion polling to aid Reform's campaigning.\n\nIn all, Channel 4 News claims three polls were commissioned in this way costing £32,500 in total and that the public was not told who commissioned or funded them.\n\nNot disclosing such funding would be illegal and accepting this kind of foreign funding would also be illegal.\n\nOrr told Sky News: \"I have agreed to step down from my current role at Reform UK pending the outcome of the party's internal investigation into the conduct of the programme, with which I will cooperate fully.\"\n\nIn response to allegations of \"entrapment\" from Jukes, a spokesperson for Verbatim Investigations told BBC News the investigation was carried out \"to the highest journalistic standards\", adding: \"As the footage shows, the plots we exposed were proposed by Mr Jukes and Mr Orr, not by our journalists.\"\n\nFarage acknowledged Jukes' comments were \"problematic\" but added that they were \"loose pub talk, including a couple of boasts that simply were not true\".\n\n\"And whilst I'm aware that our people were pushed and pushed and pushed into saying these things, the comments were injudicious at best.\n\n\"Neither of these members were authorised to act in that way.\n\n\"Accordingly, they've stepped down pending an investigation, and I emphasise again: Reform has broken no law, and we take compliance around donations very, very seriously.\"\n\nDuring the film, Farage is introduced to the undercover reporter posing as a party donor and an actor posing as his American father.\n\nIn the press conference, Farage said he was \"annoyed\" that he was introduced to the two men adding: \"It should not have happened.\"\n\nHe said his party needed to \"do better as we professionalise\".\n\nLabour and the Liberal Democrats have reported the party to the Metropolitan Police.\n\nThe police said it would assess the matter and any information provided to it.\n\nIn a statement on Friday, the Electoral Commission said: \"We are considering all relevant information, in line with our regulatory remit, and we are in touch with the Met Police.\"\n\nA Channel 4 News spokesperson said: \"We stand by the public interest journalism in this investigation, which has been rigorously verified to ensure accuracy.\n\n\"We would encourage people to watch the investigation in full.\"\n\nThree crucial questions facing Farage at Reform conference Published 1 day ago\n\nTwo Reform officials step down after undercover donations report Published 20 hours ago\n\nFarage unveils small boats deal with French National Rally party Published 20 hours ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nReform UK\n\nNigel Farage",
+      "body": "Published 4 September 2026\n\nReform UK leader Nigel Farage has described secretly-recorded comments by his senior aides about donations as \"injudicious\" and \"loose pub talk\".\n\nJames Orr, the party's head of policy, and Dan Jukes, a close aide to Farage, have both stepped down and Reform has launched an internal investigation into the allegations.\n\nIt comes after Channel 4 News broadcast undercover filming by Verbatim Investigations, in which the two men suggested a way around electoral law to secure foreign party donations for the party, one of which would have totalled £500,000.\n\nFarage said his party had \"done nothing wrong\" and had taken \"no illegal money. In fact no money was taken at all.\"\n\nElectoral law sets out that to be a permissible donor to a UK political party you must be a UK registered voter, or a company registered in the UK.\n\nIn the Channel 4 report, which aired on Thursday night, a reporter posing as a potential party donor raises a concern to Farage's aide Dan Jukes that his American father wouldn't be able to directly give money to the party within the law.\n\nJukes tells him: \"You do realise that you can do it?\"\n\nChannel 4 say Jukes was suggesting that the donation could be in the UK-based son's name, although the money would have come from his American father.\n\nHe then claims they have done it several times before, in exchanges bleeped out but which appear to refer to other instances where this mechanism had been used before.\n\nAt the press conference, Farage said that Channel 4 had opted to bleep the names, rather than broadcast them was because Jukes' claims were \"simply not true\".\n\nHe said those donations \"haven't occurred\" and \"don't exist in our accounts\".\n\nFarage said his party took compliance around donations \"very seriously\".\n\nResponding to the allegations, Jukes said: \"This was entrapment over a prolonged period of nearly a year by foreign-funded climate change activists.\n\n\"I totally deny any wrongdoing but have stepped back from politics in order to clear my name.\"\n\nBefore stepping down from his position Jukes had been seen as Farage's right hand man.\n\nReform's head of policy, James Orr, who also appeared in the film, suggested to the undercover reporter that perhaps his American father could pay for opinion polling to aid Reform's campaigning.\n\nIn all, Channel 4 News claims three polls were commissioned in this way costing £32,500 in total and that the public was not told who commissioned or funded them.\n\nNot disclosing such funding would be illegal and accepting this kind of foreign funding would also be illegal.\n\nOrr told Sky News: \"I have agreed to step down from my current role at Reform UK pending the outcome of the party's internal investigation into the conduct of the programme, with which I will cooperate fully.\"\n\nIn response to allegations of \"entrapment\" from Jukes, a spokesperson for Verbatim Investigations told BBC News the investigation was carried out \"to the highest journalistic standards\", adding: \"As the footage shows, the plots we exposed were proposed by Mr Jukes and Mr Orr, not by our journalists.\"\n\nFarage acknowledged Jukes' comments were \"problematic\" but added that they were \"loose pub talk, including a couple of boasts that simply were not true\".\n\n\"And whilst I'm aware that our people were pushed and pushed and pushed into saying these things, the comments were injudicious at best.\n\n\"Neither of these members were authorised to act in that way.\n\n\"Accordingly, they've stepped down pending an investigation, and I emphasise again: Reform has broken no law, and we take compliance around donations very, very seriously.\"\n\nDuring the film, Farage is introduced to the undercover reporter posing as a party donor and an actor posing as his American father.\n\nIn the press conference, Farage said he was \"annoyed\" that he was introduced to the two men adding: \"It should not have happened.\"\n\nHe said his party needed to \"do better as we professionalise\".\n\nLabour and the Liberal Democrats have reported the party to the Metropolitan Police.\n\nThe police said it would assess the matter and any information provided to it.\n\nIn a statement on Friday, the Electoral Commission said: \"We are considering all relevant information, in line with our regulatory remit, and we are in touch with the Met Police.\"\n\nA Channel 4 News spokesperson said: \"We stand by the public interest journalism in this investigation, which has been rigorously verified to ensure accuracy.\n\n\"We would encourage people to watch the investigation in full.\"\n\nThree crucial questions facing Farage at Reform conference Published 1 day ago\n\nTwo Reform officials step down after undercover donations report Published 23 hours ago\n\nFarage unveils small boats deal with French National Rally party Published 23 hours ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nReform UK\n\nNigel Farage",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1645,7 +1780,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc38/live/0f4618b0-a878-11f1-824a-0fc4c5d895ae.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more about this story here.\n\nSubsection Politics\n\nPublished 19 hours ago\n\nRelated topics\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more about this story here.\n\nSubsection Politics\n\nPublished 22 hours ago\n\nRelated topics\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1726,7 +1861,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/969d/live/dd94df70-a874-11f1-824a-0fc4c5d895ae.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on this story.\n\nSubsection Politics\n\nPublished 20 hours ago\n\nRelated topics\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on this story.\n\nSubsection Politics\n\nPublished 23 hours ago\n\nRelated topics\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2440,28 +2575,51 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Mercury_Transfer_Module_separation-1152x648.jpg"
     },
     {
-      "id": "b7ba749f64f26ed9",
-      "title": "Kolisi urges Boks to channel spirit of Soweto to beat All Blacks",
-      "summary": "Captain Siya Kolisi calls on the Springboks to summon inspiration from Soweto's pivotal part in South Africa's history as they host New Zealand on Saturday.",
+      "id": "afd08ec850546140",
+      "title": "Modric plans to play for Croatia past 41st birthday",
+      "summary": "Luke Modric, 41, is not ready to retire from international football and hopes to play for Croatia in upcoming Nations League games, including against England.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5y5gnkvep8o",
-      "source": "BBC Rugby Union",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg0xegkegyo",
+      "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-09-04T20:26:59Z",
+      "published": "2026-09-05T13:45:21Z",
       "category": "Sports",
-      "region": "Africa",
+      "region": "UK",
       "labels": [
         "Sports",
-        "Africa"
+        "UK"
       ],
-      "sourceWeight": 5,
+      "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
       "wordCount": 25,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ae/live/12edc420-a89d-11f1-8c81-cb0151e9fb14.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e30/live/eeed7d40-a92d-11f1-bb81-8fbd2d2d397c.jpg"
+    },
+    {
+      "id": "1c641ed747d83c7d",
+      "title": "Russia to pause strikes against Kyiv amid Ukraine talks",
+      "summary": "Jared Kushner and Steve Witkoff have arrived in Moscow to revive Ukraine peace talks. The trip is the pair's first visit to Kyiv since US President Donald Trump's reelection.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/russia-to-pause-strikes-against-kyiv-amid-ukraine-talks/a-79040773?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-09-05T13:03:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 29,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "e5ef91c03ccdc0d4",
@@ -2561,14 +2719,37 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cf0/live/682e07f0-a777-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "f57a25740171eb19",
-      "title": "Clarke gave SFA 'a little shove' over new contract",
-      "summary": "Steve Clarke says he had to cajole the Scottish FA into handing him a new contract as national head coach shortly before the World Cup finals this summer because he felt the governing body was hedging its bets.",
+      "id": "204fe0459e1e17f9",
+      "title": "UK gov’t condemns masked anti-immigrant protesters blocking Dover port",
+      "summary": "Traffic at Britain's largest international port briefly halted as 'stop the boats' protesters blocked approaching roads.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro",
+      "url": "https://www.aljazeera.com/news/2026/9/5/uk-govt-condemns-masked-anti-immigrant-protesters-blocking-dover-port?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-09-05T13:51:29Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "d189d814a59d0d30",
+      "title": "Pogacar will miss rest of season after Vuelta crash",
+      "summary": "Five-time Tour de France champion Tadej Pogacar will not race again this season after suffering injuries including a fracture in his neck at the Vuelta a Espana.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/cycling/articles/c1dle4xep96o",
       "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-09-05T10:14:28Z",
+      "published": "2026-09-05T12:11:51Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -2578,21 +2759,21 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 38,
+      "wordCount": 27,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce0a/live/51cc6050-a912-11f1-b109-879e35c24276.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/c8178300-a3dd-11f1-9323-c53d27c293d7.jpg"
     },
     {
-      "id": "5740e64632c653d5",
-      "title": "US envoys fly to Russia, then Ukraine with plan 'to end war'",
-      "summary": "Jared Kushner and Steve Witkoff have reportedly arrived in Moscow to revive Ukraine peace talks. The trip is the pair's first visit to Kyiv since US President Donald Trump's reelection.",
+      "id": "bf312ff2b7a07c9c",
+      "title": "Why has the Trump administration ordered staff to take polygraph tests?",
+      "summary": "Reports of dwindling US weapons stocks have triggered an unusually sweeping hunt for leakers inside the Pentagon.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/us-envoys-fly-to-russia-then-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-09-05T10:37:00Z",
+      "url": "https://www.aljazeera.com/news/2026/9/5/why-has-the-trump-administration-ordered-staff-to-take-polygraph-tests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-09-05T13:54:33Z",
       "category": "Politics",
       "region": "US",
       "labels": [
@@ -2602,10 +2783,34 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 30,
+      "wordCount": 17,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
+    },
+    {
+      "id": "67d50750a735764c",
+      "title": "Hughes steps down as Liverpool sporting director",
+      "summary": "Richard Hughes steps down from his position as sporting director of Liverpool and is set to join Saudi side Al-Hilal.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3d7483rv82o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-05T12:52:56Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b00/live/21528d40-a91d-11f1-a3dc-e78e2c02425d.jpg"
     },
     {
       "id": "bb677bf2db2e0ac7",
@@ -2656,6 +2861,30 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/sheeppox-1152x648-1788203007.jpg"
     },
     {
+      "id": "37b5bdc8db5dbe02",
+      "title": "Scott shines, Dedic struggles - Newcastle v Bournemouth player ratings",
+      "summary": "How Newcastle United and Bournemouth's players rated in their Premier League match.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4vzr9n2nyo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-05T13:32:05Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 12,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda3/live/92ab3af0-a927-11f1-b4c6-5d3474716d27.jpg"
+    },
+    {
       "id": "caaaf6dc557d54c1",
       "title": "Almost half of households do not see benefits of economic growth, report says",
       "summary": "Analysis has found a \"stark\" gap in the spending power of households in the north and south of England on average.",
@@ -2702,6 +2931,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5073/live/ec27db20-a90d-11f1-b101-3b8aa2acb53f.jpg"
+    },
+    {
+      "id": "8a4b1515ced03a4f",
+      "title": "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
+      "summary": "BBC Sport heads to Monza to find out if Italians want Kimi Antonelli to win the F1 title or if it is all about Ferrari.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-05T10:37:00Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 25,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f337/live/88ad9d50-a877-11f1-824a-0fc4c5d895ae.png"
     },
     {
       "id": "c99ad9f9863bb895",
@@ -2894,30 +3147,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/l4d2-1152x648-1788538783.png"
     },
     {
-      "id": "4a17c62bcc0237a6",
-      "title": "Eyes on big prize as Swansea and Wrexham collide",
-      "summary": "Swansea City and Wrexham meet in a mouthwatering Welsh derby with stakes high as both clubs eye the Premier League.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyzn1v34ddo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-05T09:03:04Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6440/live/70e0d580-a7b8-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
       "id": "561906719c6271b4",
       "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
       "summary": "US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied West Bank.",
@@ -3060,53 +3289,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8a9/live/b201b4b0-a729-11f1-b109-879e35c24276.jpg"
     },
     {
-      "id": "5382d2c56ba7afde",
-      "title": "UK art show explores Muslim life, Europe’s Islamic history and Islamophobia",
-      "summary": "Shahed Saleem's exhibition presents colourful tapestries depicting fateful moments for British and European Muslims.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/9/5/i-was-born-here-london-exhibition?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-09-05T08:07:08Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "b0d5892decf85418",
-      "title": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
-      "summary": "Japan’s collision with Donald Trump reveals the dilemma facing Britain: economic independence is becoming more necessary – and more tricky to achieve “In the midst of every crisis lies great opportunity” is an aphorism attributed to Albert Einstein . It seems to be taken to heart by this White House. A global bond sell-off sparked by an inflationary shock emanating from the Gulf sees Donald Trump seeking to restrict plans by Japan – a longtime ally – to reduce dependence on an international system America dominates. Japan, a successful exporter, has long done things its own way. For years Tokyo saw off the bond vigilantes despite running enormous deficits and a huge national debt. It demonstrated how a central bank could fund public spending and keep interest rates low if it wanted to. This economic model was refined by Shinzo Abe, Japan’s longest-serving prime minister. However, this week the US treasury secretary, Scott Bessent , called time on Abenomics as his price for US help in stabilising Japan’s currency. Japan’s Sanae Takaichi, he indicated, should shrink her $2tn spending plans and raise rates. Abenomics did not suddenly become financially impossible. It became inconvenient to the issuer of the world’s reserve currency. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-09-01T18:15:24Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 237,
-      "readingMinutes": 2,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/0bf10d82bfc268c74cce276224e216918c4a4601/422_0_4583_3668/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=99f6912e82a030cca333ee678d4bf421"
-    },
-    {
       "id": "1f8370459e3bd917",
       "title": "How bullying led Britain's Campbell to the UFC",
       "summary": "Introduced to combat sports as a seven-year-old after being bullied at school, Kurtis Campbell is now chasing success in the UFC.",
@@ -3129,6 +3311,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5af/live/db1e2fb0-a6eb-11f1-9e4c-79c1c0e340c6.jpg"
+    },
+    {
+      "id": "1ced7e9f290f66b3",
+      "title": "I've never spoken to Everton owner Friedkin - Moyes",
+      "summary": "Everton manager David Moyes says he has never met or spoken to the club's owner Dan Friedkin.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-05T08:40:13Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2894/live/590172b0-a8ff-11f1-bd44-2b0afe453f7d.jpg"
     },
     {
       "id": "b1f92ead7c92a5c5",
@@ -3320,30 +3526,7 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ebd/live/39c0a930-a89f-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "9b8a76a1b196ed6b",
-      "title": "Alcaraz, Sabalenka into US Open last 16 as Williams sisters lose on return",
-      "summary": "Alcaraz beat China's Wu Yibing 6-3, 6-4, 6-1, while Sabalenka defeated Kamilla Rakhimova 6-3, 6-4.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/sports/2026/9/5/alcaraz-sabalenka-into-us-open-last-16-as-williams-sisters-lose-on-return?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-09-05T07:15:29Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e349/live/0f0aac60-a933-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "id": "0249afaf2c34c845",
@@ -3586,14 +3769,14 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1202/live/6e6ca9d0-a70b-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "d68f1d01fdf112f9",
-      "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
-      "summary": "Al Jazeera’s Kimberly Halkett reports that US President Donald Trump is sending envoys Jared Kushner and Steve Witkoff.",
+      "id": "f93d8ffe8334a944",
+      "title": "UN approves world map reflecting true size of Africa",
+      "summary": "The UN General Assembly voted to adopt a map that more accurately shows the size of the continents. Only the United States voted against the measure, which projects the country as smaller than on traditional maps.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-09-05T03:25:46Z",
+      "url": "https://www.dw.com/en/un-approves-world-map-reflecting-true-size-of-africa/a-79040629?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-09-04T23:34:00Z",
       "category": "Politics",
       "region": "US",
       "labels": [
@@ -3603,7 +3786,7 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 18,
+      "wordCount": 36,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -3921,6 +4104,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc6/live/440984e0-a884-11f1-824a-0fc4c5d895ae.jpg"
     },
     {
+      "id": "b591b1165939192d",
+      "title": "'Best bend I've ever run' - Hunt's strong season continues in Brussels",
+      "summary": "Amy Hunt's strong late-season form showed no signs of letting up as she clocked a season's best to finish third in the 200m at the Diamond League final in Brussels.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cwyzn491wldo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-04T21:32:46Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 30,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33fa/live/e43b3900-a8a6-11f1-b9ae-958b89fa84e3.jpg"
+    },
+    {
       "id": "665ff56d944a9539",
       "title": "Superstar-led London City live up to hype as Man Utd suffer",
       "summary": "There was an expectation on London City Lionesses to live up to the hype and deliver in the Women's Super League's season opener - and they did.",
@@ -4185,30 +4392,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985c/live/f13cd3e0-96f7-11f1-870d-5d08c49babb2.jpg"
     },
     {
-      "id": "d579f2ce8cd22bf5",
-      "title": "Leigh seal top-six spot as St Helens fail to make play-offs",
-      "summary": "Leigh Leopards secure a Super League top-six finish by thrashing St Helens, ending Saints' hopes of reaching the play-offs.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c4gv039e1kvo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-04T21:47:57Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7253/live/27457ac0-a89e-11f1-89c2-a7a8f1ef1615.jpg"
-    },
-    {
       "id": "98050bf1e411f4c0",
       "title": "FA to canvass England players in World Cup review",
       "summary": "The Football Association's review into England's World Cup campaign will canvass the opinions of players involved in the tournament.",
@@ -4233,30 +4416,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1311/live/a28680b0-a8a5-11f1-9c70-ad33bdfbef33.jpg"
     },
     {
-      "id": "83f455555efddbc1",
-      "title": "Emotional Taylor steps on the scales one final time",
-      "summary": "Katie Taylor and Flora Pili weigh in under the light-welterweight limit at a sun-kissed Trinity College in Dublin before they fight for the undisputed title at Croke Park on Saturday.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cvgy95v3pjdo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-04T19:11:53Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 30,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8457/live/f2b23260-a8a9-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
       "id": "e3cb380b79870d1d",
       "title": "Alfred wins 200m as Hunt finishes third in Brussels",
       "summary": "Great Britain's Amy Hunt is beaten in the women's 200m at the Brussels Diamond League meeting, despite running a season's best time of 22.16 seconds.",
@@ -4279,30 +4438,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e7b/live/cb822510-a89a-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "id": "2a99ef29ac26dd91",
-      "title": "Trump thrashes Zhao to reach last four of British Open",
-      "summary": "Judd Trump thrashes world number one Zhao Xintong 5-1 as he moves into the semi-finals of the British Open.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/snooker/articles/c305qe2zrndo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-04T21:03:04Z",
-      "category": "Sports",
-      "region": "US",
-      "labels": [
-        "Sports",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0dd/live/9a7b82b0-a8a2-11f1-afe3-4742252b87e6.jpg"
     },
     {
       "id": "797eeae457cdfe08",
@@ -4401,30 +4536,6 @@
       "imageUrl": "https://i.guim.co.uk/img/media/b258258b4224aca28e3a1d3e6d43221a4a6a36bb/970_15_4875_3903/master/4875.jpg?width=700&quality=85&auto=format&fit=max&s=69e4e2d2fcda1f7e449dbfa1139d7a9f"
     },
     {
-      "id": "32e3852863b9cebf",
-      "title": "Dean says he always applied laws - but which matches did he play games in?",
-      "summary": "Is there any evidence that former Premier League referee Mike Dean used to play mini-games during matches? BBC Sport has taken a look at the evidence.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/czjzn84wn9wo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-04T18:33:30Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 26,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fcb/live/89d956a0-a878-11f1-824a-0fc4c5d895ae.jpg"
-    },
-    {
       "id": "9ab39f0fe61a6053",
       "title": "Taiwan’s six-year hunt for China’s undercover chip labs",
       "summary": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
@@ -4447,30 +4558,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/TaiwanSpies-Header-4-768x432.jpg"
-    },
-    {
-      "id": "1c3538e8dcb240d7",
-      "title": "Ferrari still behind Mercedes on straights - Hamilton",
-      "summary": "Lewis Hamilton says Ferrari's new engine is \"an improvement\" but that his team are still lagging behind Mercedes on the straights at the Italian Grand Prix.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cgk5g0z26yxo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-04T17:09:35Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 26,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d9d/live/5d590a40-a881-11f1-824a-0fc4c5d895ae.jpg"
     },
     {
       "id": "b4f6c1b73d70b322",
@@ -4901,85 +4988,13 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6db/live/aa867320-a7a0-11f1-a7ad-37a1f7dc081c.jpg"
-    },
-    {
-      "id": "75b0a5abcb77cc55",
-      "title": "Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?",
-      "summary": "Curiously, the questions at lunchtime may well feel like a minor extension of what he faced on Tuesday, the BBC's political editor writes.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c7507z4enq6o",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-09-02T04:49:23Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 23,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26bd/live/343e8a70-a6a3-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "id": "2395751e0e79e936",
-      "title": "All you need to know about the new WSL season",
-      "summary": "BBC Sport's Ask Me Anything team tell you everything you need to know before the new WSL season.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c17j5e0ky9jo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-04T11:39:16Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca33/live/3a5cb400-a850-11f1-aed2-8d6da8d75094.png"
-    },
-    {
-      "id": "dc507709fdbe376a",
-      "title": "Beloved 'Voice of the Expos' Doucet dies at 86",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/beloved-voice-of-the-expos-jacques-doucet-dies-at-86",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-31T18:53:50Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 30
+      "items": 28
     },
     {
       "source": "BBC Politics",
@@ -5009,7 +5024,7 @@
     {
       "source": "DW",
       "ok": true,
-      "items": 134
+      "items": 135
     },
     {
       "source": "UN News",
@@ -5084,12 +5099,12 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 68
+      "items": 62
     },
     {
       "source": "BBC Rugby Union",
       "ok": true,
-      "items": 52
+      "items": 50
     },
     {
       "source": "Saracens",
