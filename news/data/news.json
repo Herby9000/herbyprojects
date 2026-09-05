@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-04T22:20:27.412423Z",
+  "generatedAt": "2026-09-05T04:24:27.250257Z",
   "topStoryIds": [
     "cb4cf66b8c669607",
     "2c403195448a9eb7",
-    "1a4c3b64e3cda476",
+    "40462931fb631709",
     "e84bc7426c9e38b9",
     "00621e9b75c82c98",
     "dc4b277a34c0a6b8",
@@ -15,7 +15,11 @@
       "cb4cf66b8c669607",
       "00621e9b75c82c98",
       "eb41a5b69a733ae0",
-      "fb49188312dea72b"
+      "fb49188312dea72b",
+      "35666c4a010ed666",
+      "41c02f8de63e226f",
+      "f55195aa1b7daad1",
+      "70042fccd9a30ed1"
     ],
     "Tech": [
       "2c403195448a9eb7",
@@ -29,15 +33,16 @@
     "Economics": [
       "e84bc7426c9e38b9",
       "44d46de7303b9a9e",
+      "40462931fb631709",
       "1a4c3b64e3cda476"
     ],
     "Sports": [
       "9c348f34fce1c1e8",
+      "2431af0d98f1c620",
+      "f5135e1723311e9c",
+      "cc9a611d16328a01",
       "f0687731728c54cb",
-      "1435886bd96ec4c6",
       "27ac038dd79e1769",
-      "f4ed7d9c4761263c",
-      "f3c7a20a60e35ea0",
       "fe9e851479ade10a",
       "f369a7a78b7e4826",
       "420d5160171ed7a1",
@@ -113,29 +118,29 @@
       "imageHeight": 648
     },
     {
-      "id": "1a4c3b64e3cda476",
-      "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
-      "summary": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+      "id": "40462931fb631709",
+      "title": "How much can Canada fight back in its trade war with the US?",
+      "summary": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o",
+      "url": "https://www.bbc.co.uk/news/videos/c74knp7y04eo",
       "source": "BBC Business",
       "publisher": "BBC",
-      "published": "2026-09-04T17:23:13Z",
+      "published": "2026-09-05T02:13:21Z",
       "category": "Economics",
-      "region": "US",
+      "region": "Canada",
       "labels": [
         "Economics",
-        "US"
+        "Canada"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 635,
-      "readingMinutes": 3,
+      "wordCount": 245,
+      "readingMinutes": 2,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be4c/live/c74b2990-a883-11f1-824a-0fc4c5d895ae.jpg",
-      "body": "Published 4 September 2026, 13:54 BST\n\nDonald Trump has called for interest rates to be cut later this month, claiming higher rates put the US at a \"very unfair disadvantage\".\n\nThe president's remarks came as stronger-than-expected jobs figures in the US added to growing expectations that rates could be increased, with inflation still running high and American households feeling the pinch of rising prices.\n\nThe number of roles added to the economy increased by 162,000 in August, almost triple the 56,000 forecast by analysts, driven by a boost in hospitality and education hiring.\n\nTrump said the US should have the \"LOWEST RATE of any country in the World\".\n\n\"The Fed Board, with its great new leader, must get smart - BE PATRIOTS for a change. High interest rates put the U.S.A. at a very unfair disadvantage, and I won't allow that to happen!\", the president said in a post on social media , external .\n\nLast week, Kevin Warsh, chairman of the US central bank, signalled that rates could be hiked if policymakers were not confident price rises were easing for Americans.\n\nInflation, which measures price increases over time, remains above the Fed's 2% annual target, with prices up 3.4% in the past 12 months, according to the latest data.\n\nThe next interest rate decision will be made on 15-16 September. Rates were left unchanged between 3.5% and 3.75% in July for the fifth time in a row, but concerns over inflation remain due to the ongoing conflict between the US and Iran, which has caused as surge in global oil prices.\n\nOn Friday, US diesel prices hit an all-time high of $5.85 a gallon on average, compared to $3.71 a year ago.\n\nBut despite the cost of living rising, wages also appear to be increasing. In August, average hourly earnings for all employees were $37.75 on average, having increased 3.1%.\n\n\"Even the most committed dove would struggle to find anything in the August employment report to justify keeping interest rates unchanged,\" said Stephen Brown, chief North America economist at Capital Economics.\n\nHe added that the strength in the jobs market meant that the latest inflation figures released next week would only need to be moderately above the Fed's target to fuel expectations of a September hike.\n\n\"A hike in rates just became a bit more likely,\" said Neil Birrell, chief investment office of investment firm Premier Miton.\n\nAlmost 60% of traders were betting on an interest rate hike in September, according to CME Group's \"FedWatch\" data.\n\nAn increase in employment during the final month of the summer in restaurants and bars, as well as in local government education ahead of the new school year, was behind August's labour market rebound.\n\nWeaker job figures released earlier in the summer were revised up by the US Bureau of Labor Statistics, revealing a stronger labour market than previously thought. Instead of the economy being deemed to have shed 23,000 jobs in July, some 44,000 were found to have been created in subsequent estimates.\n\nWhile many more jobs were added, the US unemployment rate remained unchanged at 4.1% last month, with seven million out of work. Both measures have changed little over the year.\n\nIn response to the stronger jobs figures raising expectations of a interest rate hike, US stock market indexes were trading down on Friday.\n\nTrump called the response \"crazy\". \"We just got GREAT Numbers on Jobs, the Market should go UP, because our Credit and Economy are better but, as always, for the past 25 years, the Stock Market goes DOWN, because we're living under False Reality that if things are good, you've got to \"KILL IT\" because of a \"fear\" of Inflation,\" he said.\n\nRelated topics\n\nUnemployment\n\nUS economy\n\nUnited States\n\nEmployment",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/43b5/live/459265a0-a8c2-11f1-a051-bbe11131eba6.jpg",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nThe US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade war between the two countries.\n\nIt is the top customer for 26 US states, including Maine, Michigan, and Wisconsin, as well as being in the top three for 45 of the 50 American states - suggesting Prime Minister Mark Carney has room to manoeuvre in a trade fight.\n\nBBC's Jessica Murphy explains how Canada has more leverage than it may seem in the spiralling dispute.\n\nRead the latest on the escalating tariff fight here.\n\nVideo by Eloise Alanna.\n\nSubsection US & Canada\n\nPublished 2 hours ago\n\nRelated topics\n\nCanada Follow Canada close panel You are now following Canada Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nTrade war Follow Trade war close panel You are now following Trade war Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUnited States Follow United States close panel You are now following United States Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -189,7 +194,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4547/live/523d1300-a88f-11f1-96fc-dd627484b0e6.jpg",
-      "body": "Argentine President Javier Milei enjoys a warm relationship with President Trump\n\nPublished 1 hour ago\n\nThe tone over the Falkland Islands dispute has been sharpening in Argentina from well before President Javier Milei's late-night national address on sanctions earlier this week.\n\nIt's tempting to see a visual representation of the tension in the jubilant Argentine players celebrating their hard-fought win over England at the Fifa World Cup this summer holding a banner which read \"Las Malvinas son Argentinas\" - the Falklands are Argentine - in front of their deliriously happy fans. However, the ill-feeling has been fomenting for much longer.\n\nPresident Milei began his Thursday address with a brief history of the Falklands, very much from the Argentine perspective. He repeated the refrain at the heart of their position: the islands \"rightfully belong\" to Argentina. The British had invaded and colonially occupied the islands in 1833, he said, violently wrestling the territory from Argentina's hands.\n\nThe UK Government would say he conveniently overlooked a few details: the islands – over which the European powers had interchanged control throughout the 17th and 18th centuries – were uninhabited at the time the British reoccupied the land. The Argentine settlement had been forced out two years earlier, not by the British but by the Americans. A warship, the USS Lexington, destroyed a fort established there in December 1831 amid a dispute over local fishing and sealing rights.\n\nStill, if the Americans had a hand in forcing the Argentines out two centuries ago, they may now play a central role in strengthening the Argentine claim. President Milei certainly thinks so.\n\n\"Winds of change\" were blowing, he assured the Argentine people, after President Trump said he was \"re-evaluating\" the US position on the Falklands.\n\nThe US recognises Britain's rule over the Falklands - but Trump has suggested he is \"re-evaluating\" the US position\n\nThat position has traditionally been one of neutrality - albeit while recognising Britain's rule over the territory. \"Neutral\" is relative, of course, given that President Reagan provided material support to Margaret Thatcher during the Falklands War in 1982 – an act which reinforced the long-standing alliance between London and Washington in times of conflict.\n\nFor Trump, however, that mutual support – the \"Special Relationship\" – was eroded by Sir Keir Starmer when the UK Government chose not to join the US war on Iran.\n\n\"You weren't there to help me\", the president retorted in an interview with GB News this week. The Falklands were \"a long way away\", he said. The Falkland Islanders – who voted almost unanimously to remain a British overseas territory in 2013 – would point out that distance from London to the Falklands is fractionally shorter than the distance between Washington DC and the US territory of Guam, in the western Pacific.\n\nStill, Trump's words have undoubtedly galvanised Milei. As have the opinion polls. He urgently needs a boost ahead of a presidential election next year in which one of his challengers, his former vice-president, Victoria Villarruel, has presented herself as a tougher defender of national sovereignty and attacked Milei's diplomatic approach on the Falklands as failing.\n\nFifa fined the Argentine Football Association after players held up a banner claiming the Falklands, breaching rules against political messaging\n\nDomestic politics can rarely be ruled out of the equation when the Falklands issue flares back up. However, Buenos Aires argues that the matter has become urgent: \"A clear and urgent danger\", as Milei put it.\n\nWith two energy companies – the Israeli-owned Navitas Petroleum and Rockhopper Exploration from the UK – due to undertake exploration work on the Sea Lion oilfield off the Falklands coast within two years, the issue has new impetus. Argentina \"cannot allow\" the companies to \"appropriate the oil reserves under our sea\", he said. \"We will not stand by with our arms folded,\" he added.\n\nIn his speech, Javier Milei painted Argentina as a reliable and \"trustworthy partner\" to Washington and he enjoys Trump's support, both ideologically and personally. The two men are close allies in a vision of the Western Hemisphere which Trump calls the 'Don-roe Doctrine', a play on words on the 19th Century 'Monroe Doctrine' which exerted American domination over the continent. In essence, the two presidents want to see only like-minded leaders in power in the Americas.\n\nWithin such a new partnership and a reordering of the spheres of influence, it's more than conceivable that Trump favours the Argentine leader over the British Prime Minister, Andy Burnham, even if the issues at play transcend personality and party politics.\n\nPerhaps the key question for the coming months, then, is whether the strength of the so-called \"Don-roe Doctrine\" outweighs the lasting history of the \"Special Relationship\".\n\nRelated topics\n\nArgentina\n\nFalkland Islands",
+      "body": "Argentine President Javier Milei enjoys a warm relationship with President Trump\n\nPublished 7 hours ago\n\nThe tone over the Falkland Islands dispute has been sharpening in Argentina from well before President Javier Milei's late-night national address on sanctions earlier this week.\n\nIt's tempting to see a visual representation of the tension in the jubilant Argentine players celebrating their hard-fought win over England at the Fifa World Cup this summer holding a banner which read \"Las Malvinas son Argentinas\" - the Falklands are Argentine - in front of their deliriously happy fans. However, the ill-feeling has been fomenting for much longer.\n\nPresident Milei began his Thursday address with a brief history of the Falklands, very much from the Argentine perspective. He repeated the refrain at the heart of their position: the islands \"rightfully belong\" to Argentina. The British had invaded and colonially occupied the islands in 1833, he said, violently wrestling the territory from Argentina's hands.\n\nThe UK Government would say he conveniently overlooked a few details: the islands – over which the European powers had interchanged control throughout the 17th and 18th centuries – were uninhabited at the time the British reoccupied the land. The Argentine settlement had been forced out two years earlier, not by the British but by the Americans. A warship, the USS Lexington, destroyed a fort established there in December 1831 amid a dispute over local fishing and sealing rights.\n\nStill, if the Americans had a hand in forcing the Argentines out two centuries ago, they may now play a central role in strengthening the Argentine claim. President Milei certainly thinks so.\n\n\"Winds of change\" were blowing, he assured the Argentine people, after President Trump said he was \"re-evaluating\" the US position on the Falklands.\n\nThe US recognises Britain's rule over the Falklands - but Trump has suggested he is \"re-evaluating\" the US position\n\nThat position has traditionally been one of neutrality - albeit while recognising Britain's rule over the territory. \"Neutral\" is relative, of course, given that President Reagan provided material support to Margaret Thatcher during the Falklands War in 1982 – an act which reinforced the long-standing alliance between London and Washington in times of conflict.\n\nFor Trump, however, that mutual support – the \"Special Relationship\" – was eroded by Sir Keir Starmer when the UK Government chose not to join the US war on Iran.\n\n\"You weren't there to help me\", the president retorted in an interview with GB News this week. The Falklands were \"a long way away\", he said. The Falkland Islanders – who voted almost unanimously to remain a British overseas territory in 2013 – would point out that distance from London to the Falklands is fractionally shorter than the distance between Washington DC and the US territory of Guam, in the western Pacific.\n\nStill, Trump's words have undoubtedly galvanised Milei. As have the opinion polls. He urgently needs a boost ahead of a presidential election next year in which one of his challengers, his former vice-president, Victoria Villarruel, has presented herself as a tougher defender of national sovereignty and attacked Milei's diplomatic approach on the Falklands as failing.\n\nFifa fined the Argentine Football Association after players held up a banner claiming the Falklands, breaching rules against political messaging\n\nDomestic politics can rarely be ruled out of the equation when the Falklands issue flares back up. However, Buenos Aires argues that the matter has become urgent: \"A clear and urgent danger\", as Milei put it.\n\nWith two energy companies – the Israeli-owned Navitas Petroleum and Rockhopper Exploration from the UK – due to undertake exploration work on the Sea Lion oilfield off the Falklands coast within two years, the issue has new impetus. Argentina \"cannot allow\" the companies to \"appropriate the oil reserves under our sea\", he said. \"We will not stand by with our arms folded,\" he added.\n\nIn his speech, Javier Milei painted Argentina as a reliable and \"trustworthy partner\" to Washington and he enjoys Trump's support, both ideologically and personally. The two men are close allies in a vision of the Western Hemisphere which Trump calls the \"Don-roe Doctrine\", a play on words on the 19th Century 'Monroe Doctrine' which exerted American domination over the continent. In essence, the two presidents want to see only like-minded leaders in power in the Americas.\n\nWithin such a new partnership and a reordering of the spheres of influence, it's more than conceivable that Trump favours the Argentine leader over the British Prime Minister, Andy Burnham, even if the issues at play transcend personality and party politics.\n\nPerhaps the key question for the coming months, then, is whether the strength of the so-called \"Don-roe Doctrine\" outweighs the lasting history of the \"Special Relationship\".\n\nRelated topics\n\nArgentina\n\nFalkland Islands",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -238,12 +243,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1041,
+      "wordCount": 1047,
       "readingMinutes": 5,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/08/illo_tokens_final_-1600x900.jpg",
-      "body": "Innovation\n\nFive unexpected ways computing power is entering everyday life in the country.\n\nArtificial intelligence tokens — once a term familiar only to techies — are rapidly entering everyday life in China.\n\nBanks, cafes, and telcos, among other small and big businesses, are offering free AI tokens as incentives to attract more customers. Some businesses are selling tokens much like mobile data plans, offering them as credit card rewards, or giving them out like free Wi-Fi.\n\nAn AI token is essentially a unit of computing that an AI model uses to process text. When a user asks a model a question or gives it an instruction, the words are broken down into small pieces called tokens, which the model processes to generate a response.\n\n500 trillion Daily token consumption in China in mid-2026.\n\nThe massive popularity of AI has led to has sharply increase in token consumption globally. Daily token consumption in China surged to 500 trillion in mid-2026 from 100 billion in early 2024.\n\nToken prices have become a new front in the global AI race as U.S. and Chinese AI companies aggressively lower them to compete for wider adoption of their models. Chinese open-source and open-weight models, despite lagging behind U.S. rivals on some measures of frontier performance, can cost 60% to 90% less than comparable models from OpenAI and Anthropic. Cheaper tokens allow Chinese businesses to experiment with ways to package and market them to ordinary consumers.\n\nPoe Zhao, a Beijing-based analyst and founder of the newsletter Hello China Tech , told Rest of World some of the token packages Chinese companies pushed into the consumer market are a “supply-led experiment.”\n\n“Most ordinary users still encounter AI through an app or feature, without seeing a token balance,” he said.\n\nZhao said China’s effort to bring tokens into the consumer marketplace points to an unusual approach to commercializing AI.\n\nHere are five ways AI tokens are moving into everyday life in China:\n\nAI tokens as credit-card rewards\n\nIn July, Chinese AI startup Moonshot AI launched a credit card named after its model Kimi, in partnership with the Agricultural Bank of China and American Express. Users earn Kimi AI tokens, as well as agent and coding quotas, on their spending, just like credit cards reward consumers with airline miles and cashback offers.\n\nThe trend began in June, when China Merchants Bank launched a credit card targeting AI developers. It offered new cardholders up to 1.8 billion tokens for use on Chinese AI startup MiniMax’s models.\n\nShanghai Pudong Development Bank also launched a credit card for AI developers, offering subsidies worth up to 3 billion tokens for Alibaba i Alibaba Alibaba, founded in 1999 by Chinese entrepreneur Jack Ma, is one of the most prominent global e-commerce companies that operates platforms like AliExpress, Taobao, and Tmall. READ MORE ’s Qwen models.\n\nAI tokens as mobile data\n\nChina’s three major telecom operators have packaged AI usage much like mobile data plans.\n\nChina Telecom offers consumer plans starting at 9.9 yuan ($1.40) a month for 10 million tokens, with larger allowances available for heavier users and businesses. The company also has a TokenHub platform that offers subscriptions on 142 large models, as the state-owned carrier tries to evolve from selling traditional telecom connectivity to AI computing and services.\n\nIts competitors offer similar plans. China Mobile offered 400,000 tokens for 1 yuan (14 cents) in Shanghai, payable through users’ phone bills. China Unicom introduced monthly plans ranging from 15 yuan ($2.10) for 6 million tokens to 45 yuan ($6.30) for 18 million for business users.\n\nAI tokens as a freebie\n\nInstead of offering free Wi-Fi, an increasing number of Chinese restaurants, cafes, and bars are now luring customers with free AI computing.\n\nAt Beijing’s AGI Bar, customers who buy a drink and connect to the Wi-Fi can get unlimited access to DeepSeek V4 Flash. The bar, which targets customers who are programmers and AI startup founders, runs the model locally using a Nvidia DGX Spark workstation.\n\nNearby, Beijing’s Jingu Yuan dumpling restaurant gives customers 10 yuan ($1.40) worth of computing credits after a meal. Cards on its tables tell diners: “You’re full after eating the dumplings. Go collect some tokens at the cashier so your [AI] agent can be fed with some computing power too.” Its two stores have been handing out more than 100 vouchers a day.\n\nIn Changsha, an upcoming 24-hour coffee shop uses a similar approach for promotion, offering customers AI tokens with their coffee.\n\nAI tokens on e-commerce\n\nTokens have also reached one of China’s largest online secondhand marketplaces . On Alibaba-owned Xianyu, a platform known for selling used phones, furniture, and clothes, sellers advertise cheap access to AI models in packages measured by tokens.\n\nListings offer millions of tokens for a few dollars in day passes or monthly subscriptions and shared access to AI accounts. Some sellers break up model allowances and resell them to students, independent developers, and small businesses. Others attempt to profit from the gap between official token prices and the discounted or free access they obtained elsewhere.\n\nAI tokens in bank lending\n\nThe increasing number of AI startups in China has presented a challenge for its banks, as they struggle to assess the financial status of young companies on traditional metrics such as physical assets.\n\nBanks in the southern city of Guangzhou are experimenting with tokens to boost business for AI startups. The city’s Haizhu district launched a financial product called “token loan” in August. It allows banks including Bank of China, China CITIC Bank, and Bank of Guangzhou to measure a company’s token production and consumption to decide how much it can borrow.\n\nI refused to train the AI that could replace me\n\nAI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.\n\nIndia’s data center boom is leaving the people it displaces with nothing\n\nCommunities are being left behind as AI companies secure tax breaks, cheap land from willing governments.\n\nTaiwan’s six-year hunt for China’s undercover chip labs\n\nPreviously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
+      "body": "Innovation\n\nFive unexpected ways computing power is entering everyday life in the country.\n\nArtificial intelligence tokens — once a term familiar only to techies — are rapidly entering everyday life in China.\n\nBanks, cafes, and telcos, among other small and big businesses, are offering free AI tokens as incentives to attract more customers. Some businesses are selling tokens much like mobile data plans, offering them as credit card rewards, or giving them out like free Wi-Fi.\n\nAn AI token is essentially a unit of computing that an AI model uses to process text. When a user asks a model a question or gives it an instruction, the words are broken down into small pieces called tokens, which the model processes to generate a response.\n\n500 trillion Daily token consumption in China in mid-2026.\n\nThe massive popularity of AI has led to has sharply increase in token consumption globally. Daily token consumption in China surged to 500 trillion in mid-2026 from 100 billion in early 2024.\n\nToken prices have become a new front in the global AI race as U.S. and Chinese AI companies aggressively lower them to compete for wider adoption of their models. Chinese open-source and open-weight models, despite lagging behind U.S. rivals on some measures of frontier performance, can cost 60% to 90% less than comparable models from OpenAI and Anthropic. Cheaper tokens allow Chinese businesses to experiment with ways to package and market them to ordinary consumers.\n\nPoe Zhao, a Beijing-based analyst and founder of the newsletter Hello China Tech , told Rest of World some of the token packages Chinese companies pushed into the consumer market are a “supply-led experiment.”\n\n“Most ordinary users still encounter AI through an app or feature, without seeing a token balance,” he said.\n\nZhao said China’s effort to bring tokens into the consumer marketplace points to an unusual approach to commercializing AI.\n\nHere are five ways AI tokens are moving into everyday life in China:\n\nAI tokens as credit-card rewards\n\nIn July, Chinese AI startup Moonshot AI launched a credit card named after its model Kimi, in partnership with the Agricultural Bank of China and American Express. Users earn Kimi AI tokens, as well as agent and coding quotas, on their spending, just like credit cards reward consumers with airline miles and cashback offers.\n\nThe trend began in June, when China Merchants Bank launched a credit card targeting AI developers. It offered new cardholders up to 1.8 billion tokens for use on Chinese AI startup MiniMax’s models.\n\nShanghai Pudong Development Bank also launched a credit card for AI developers, offering subsidies worth up to 3 billion tokens for Alibaba i Alibaba Alibaba, founded in 1999 by Chinese entrepreneur Jack Ma, is one of the most prominent global e-commerce companies that operates platforms like AliExpress, Taobao, and Tmall. READ MORE ’s Qwen models.\n\nAI tokens as mobile data\n\nChina’s three major telecom operators have packaged AI usage much like mobile data plans.\n\nChina Telecom offers consumer plans starting at 9.9 yuan ($1.40) a month for 10 million tokens, with larger allowances available for heavier users and businesses. The company also has a TokenHub platform that offers subscriptions on 142 large models, as the state-owned carrier tries to evolve from selling traditional telecom connectivity to AI computing and services.\n\nIts competitors offer similar plans. China Mobile offered 400,000 tokens for 1 yuan (14 cents) in Shanghai, payable through users’ phone bills. China Unicom introduced monthly plans ranging from 15 yuan ($2.10) for 6 million tokens to 45 yuan ($6.30) for 18 million for business users.\n\nAI tokens as a freebie\n\nInstead of offering free Wi-Fi, an increasing number of Chinese restaurants, cafes, and bars are now luring customers with free AI computing.\n\nAt Beijing’s AGI Bar, customers who buy a drink and connect to the Wi-Fi can get unlimited access to DeepSeek V4 Flash. The bar, which targets customers who are programmers and AI startup founders, runs the model locally using a Nvidia DGX Spark workstation.\n\nNearby, Beijing’s Jingu Yuan dumpling restaurant gives customers 10 yuan ($1.40) worth of computing credits after a meal. Cards on its tables tell diners: “You’re full after eating the dumplings. Go collect some tokens at the cashier so your [AI] agent can be fed with some computing power too.” Its two stores have been handing out more than 100 vouchers a day.\n\nIn Changsha, an upcoming 24-hour coffee shop uses a similar approach for promotion, offering customers AI tokens with their coffee.\n\nAI tokens on e-commerce\n\nTokens have also reached one of China’s largest online secondhand marketplaces . On Alibaba-owned Xianyu, a platform known for selling used phones, furniture, and clothes, sellers advertise cheap access to AI models in packages measured by tokens.\n\nListings offer millions of tokens for a few dollars in day passes or monthly subscriptions and shared access to AI accounts. Some sellers break up model allowances and resell them to students, independent developers, and small businesses. Others attempt to profit from the gap between official token prices and the discounted or free access they obtained elsewhere.\n\nAI tokens in bank lending\n\nThe increasing number of AI startups in China has presented a challenge for its banks, as they struggle to assess the financial status of young companies on traditional metrics such as physical assets.\n\nBanks in the southern city of Guangzhou are experimenting with tokens to boost business for AI startups. The city’s Haizhu district launched a financial product called “token loan” in August. It allows banks including Bank of China, China CITIC Bank, and Bank of Guangzhou to measure a company’s token production and consumption to decide how much it can borrow.\n\nIndia’s data center boom is leaving the people it displaces with nothing\n\nCommunities are being left behind as AI companies secure tax breaks, cheap land from willing governments.\n\nI went to China to see a different AI future. It looked familiar\n\nMy trip to China revealed an AI race that looks less like a clash of competing visions, and more like two countries racing toward a similar future.\n\nI refused to train the AI that could replace me\n\nAI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.",
       "imageWidth": 1600,
       "imageHeight": 900
     },
@@ -265,12 +270,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 972,
+      "wordCount": 969,
       "readingMinutes": 5,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0932/live/294cfdd0-a88e-11f1-96fc-dd627484b0e6.jpg",
-      "body": "Published 4 September 2026, 19:45 BST\n\nNigel Farage has insisted a Reform UK government would deliver where other parties have failed, as he set out his priorities in his annual conference speech.\n\nHe said Reform's pledges for its first 100 days in power would include stopping small boat crossings, cutting energy bills by £250 a year and ending the net zero \"lunacy\".\n\nTo eliminate \"obstacles\" to his plans, Farage said he would declare a \"national emergency\" and threatened to overhaul the House of Lords and how judges are appointed if they stood in the way.\n\nIn a speech interrupted several times by protesters, the Reform leader was also forced to address allegations over donations which emerged in an undercover investigation.\n\nReform had been hoping to use its annual conference to regain momentum after a difficult summer dominated by questions over the party's finances.\n\nHowever, the main day of the conference was overshadowed after two senior party officials stepped down and Reform launched an investigation into claims about funding aired during a Channel 4 News report on Thursday evening, which was filmed by Verbatim Investigations, a group founded by journalists from the Centre for Climate Reporting.\n\nIn the undercover filming, the two men suggested a way around electoral law to secure foreign donations for the party, one of which would have totalled £500,000.\n\nFarage insisted \"the party has done nothing wrong\" and \"has taken no illegal money\", claiming the allegations had been made \"because they're scared of us\".\n\nFarage says his aides' donor comments were 'loose pub talk' Published 6 hours ago\n\nReform donations row overshadows party's moment to lay out big ideas Published 3 hours ago\n\nReform UK promises £80bn cuts to public spending Published 1 day ago\n\nIn his speech, which was light on new policy announcements, Farage said the country needed a government \"that actually delivers on its promises\" and \"we're the only people capable of doing it\".\n\nHe argued the Tories \"had 14 years in power and failed absolutely miserably\", while Labour's new Prime Minister Andy Burnham \"says he needs 10 years\", a reference to the PM's promise to set out a 10-year plan for the country later this year.\n\nIf Reform wins the next general election, Farage pledged to sack ministers who fail to deliver on their promises in their first 100 days in the job \"and replace them with somebody else with the courage to do it\".\n\nSetting out his plans to call a \"national emergency\" if Reform wins power, Farage said: \"Parliament will sit, if necessary, for 24 hours a day, for six days a week until we pass the necessary legislation.\"\n\nHe said he expected the House of Lords to \"honour\" Reform's policy pledges but if they refused to do so threatened to appoint hundreds of new peers so the party had a majority in the upper chamber.\n\n\"And if that proves difficult, we will hold a referendum on the current composition of the House of Lords, and they would be swept away by a British public appalled by them,\" he added.\n\nIdentifying the judiciary as another possible \"obstacle\", Farage promised to remove the ability of judges to rely on conventions like the European Convention of Human Rights (ECHR), which critics blame for hindering some deportations.\n\n\"We don't want the courts striking down, do we, the will of the people,\" he said.\n\n\"Parliament makes the law, judges interpret the law. We will do whatever it takes, and perhaps have to consider how judicial appointments work in the future.\"\n\nMeanwhile, he said civil servants who \"try to obstruct us\" would be removed from their posts and replaced by people from the world of business.\n\n\"I'm tired of being told what can't be done,\" the Reform leader said.\n\n\"That is not what the public want. The public want action, the public want genuine change, the public do not want any more of the same. And our attitude is can do, and will do.\"\n\nPredicting that Burnham would call an early general election in spring 2027, Farage attempted to use his speech to convince the public Reform was ready to govern.\n\nStressing he now had a team of spokespeople with \"frontline experience\", he said the party was planning to broaden its expertise.\n\n\"There are more big jobs to fill, and I'm looking and working on defence, health, and the other areas,\" he added.\n\nIn his speech, Farage also hailed a \"historic agreement\" on small boat returns, signed earlier between Reform and France's hard-right National Rally party .\n\nThe deal sets out how a Reform government would intercept boats in the English Channel and return them to France using the Navy, with France \"ordinarily\" accepting those on board.\n\nIt was signed by the National Rally President Jordan Bardella, whose party is currently leading in opinion polls ahead of French presidential elections in April next year, after he gave a speech to the main conference hall.\n\nFarage took to the stage after a long delay, which he told delegates was due to a \"security alert\".\n\nHe took the opportunity to walk through the crowd and greet delegates during the delay.\n\nHis speech was also interrupted several times by protesters, including two women who held up a banner reading \"Reform works for billionaires\".\n\nThey were booed by audience members who shouted \"out\", as they were removed by security.\n\nFarage laughed off the disruption, chanting \"boring, boring, boring\".\n\nReform is no longer consistently topping national opinion polls, after more than a year of enjoying a comfortable lead.\n\nMeanwhile, Labour's ratings have risen since Burnham entered Downing Street, and Reform has lost some support to Restore Britain, the new right-wing party founded by former Reform MP Rupert Lowe.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nNigel Farage\n\nReform UK",
+      "body": "Published 4 September 2026\n\nNigel Farage has insisted a Reform UK government would deliver where other parties have failed, as he set out his priorities in his annual conference speech.\n\nHe said Reform's pledges for its first 100 days in power would include stopping small boat crossings, cutting energy bills by £250 a year and ending the net zero \"lunacy\".\n\nTo eliminate \"obstacles\" to his plans, Farage said he would declare a \"national emergency\" and threatened to overhaul the House of Lords and how judges are appointed if they stood in the way.\n\nIn a speech interrupted several times by protesters, the Reform leader was also forced to address allegations over donations which emerged in an undercover investigation.\n\nReform had been hoping to use its annual conference to regain momentum after a difficult summer dominated by questions over the party's finances.\n\nHowever, the main day of the conference was overshadowed after two senior party officials stepped down and Reform launched an investigation into claims about funding aired during a Channel 4 News report on Thursday evening, which was filmed by Verbatim Investigations, a group founded by journalists from the Centre for Climate Reporting.\n\nIn the undercover filming, the two men suggested a way around electoral law to secure foreign donations for the party, one of which would have totalled £500,000.\n\nFarage insisted \"the party has done nothing wrong\" and \"has taken no illegal money\", claiming the allegations had been made \"because they're scared of us\".\n\nFarage says his aides' donor comments were 'loose pub talk' Published 12 hours ago\n\nReform donations row overshadows party's moment to lay out big ideas Published 9 hours ago\n\nReform UK promises £80bn cuts to public spending Published 1 day ago\n\nIn his speech, which was light on new policy announcements, Farage said the country needed a government \"that actually delivers on its promises\" and \"we're the only people capable of doing it\".\n\nHe argued the Tories \"had 14 years in power and failed absolutely miserably\", while Labour's new Prime Minister Andy Burnham \"says he needs 10 years\", a reference to the PM's promise to set out a 10-year plan for the country later this year.\n\nIf Reform wins the next general election, Farage pledged to sack ministers who fail to deliver on their promises in their first 100 days in the job \"and replace them with somebody else with the courage to do it\".\n\nSetting out his plans to call a \"national emergency\" if Reform wins power, Farage said: \"Parliament will sit, if necessary, for 24 hours a day, for six days a week until we pass the necessary legislation.\"\n\nHe said he expected the House of Lords to \"honour\" Reform's policy pledges but if they refused to do so threatened to appoint hundreds of new peers so the party had a majority in the upper chamber.\n\n\"And if that proves difficult, we will hold a referendum on the current composition of the House of Lords, and they would be swept away by a British public appalled by them,\" he added.\n\nIdentifying the judiciary as another possible \"obstacle\", Farage promised to remove the ability of judges to rely on conventions like the European Convention of Human Rights (ECHR), which critics blame for hindering some deportations.\n\n\"We don't want the courts striking down, do we, the will of the people,\" he said.\n\n\"Parliament makes the law, judges interpret the law. We will do whatever it takes, and perhaps have to consider how judicial appointments work in the future.\"\n\nMeanwhile, he said civil servants who \"try to obstruct us\" would be removed from their posts and replaced by people from the world of business.\n\n\"I'm tired of being told what can't be done,\" the Reform leader said.\n\n\"That is not what the public want. The public want action, the public want genuine change, the public do not want any more of the same. And our attitude is can do, and will do.\"\n\nPredicting that Burnham would call an early general election in spring 2027, Farage attempted to use his speech to convince the public Reform was ready to govern.\n\nStressing he now had a team of spokespeople with \"frontline experience\", he said the party was planning to broaden its expertise.\n\n\"There are more big jobs to fill, and I'm looking and working on defence, health, and the other areas,\" he added.\n\nIn his speech, Farage also hailed a \"historic agreement\" on small boat returns, signed earlier between Reform and France's hard-right National Rally party .\n\nThe deal sets out how a Reform government would intercept boats in the English Channel and return them to France using the Navy, with France \"ordinarily\" accepting those on board.\n\nIt was signed by the National Rally President Jordan Bardella, whose party is currently leading in opinion polls ahead of French presidential elections in April next year, after he gave a speech to the main conference hall.\n\nFarage took to the stage after a long delay, which he told delegates was due to a \"security alert\".\n\nHe took the opportunity to walk through the crowd and greet delegates during the delay.\n\nHis speech was also interrupted several times by protesters, including two women who held up a banner reading \"Reform works for billionaires\".\n\nThey were booed by audience members who shouted \"out\", as they were removed by security.\n\nFarage laughed off the disruption, chanting \"boring, boring, boring\".\n\nReform is no longer consistently topping national opinion polls, after more than a year of enjoying a comfortable lead.\n\nMeanwhile, Labour's ratings have risen since Burnham entered Downing Street, and Reform has lost some support to Restore Britain, the new right-wing party founded by former Reform MP Rupert Lowe.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nNigel Farage\n\nReform UK",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -300,6 +305,100 @@
       "body": "Free AI models that are as good as the investment-hungry US versions will disrupt global markets, and offer Britain a lesson\n\nA lmost from the moment it began, the end of the Chinese economic miracle has been much anticipated. Thick and fast, the books have come explaining how it will end badly. Overinvestment. A country wallowing in debt. The collapse of the property market . Political repression. The demand for democracy from a growing middle class. All have been put forward as reasons for the inevitable terminal crisis.\n\nEven those impressed by the country’s rapid growth took comfort from the notion that the west would continue to dominate advanced manufacturing while China would be stuck assembling TVs. And while the wait for its much-predicted demise has gone on and on, China has become the workshop of the world.\n\nThis process has come in two distinct phases. Initially, it is true, there was a concentration on low-cost manufactured goods because cheap labour costs provided a competitive advantage. Firms left for east Asia in search of higher profits. Without China 1.0, Donald Trump would have remained a New York property developer and Brexit might never have happened.\n\nYet, the Chinese were not content to remain solely the producers of low-cost consumer goods and began to invest heavily in higher-end manufacturing. China 2.0 shattered the illusion that it would forever remain a developing economy destined to produce low-grade products and little else.\n\nThe market in solar panels was captured. It became the world leader in batteries and electric vehicles . It no longer has to import machine tools from Germany because it is now capable of making its own. The rise of the far-right Alternative für Deutschland is in no small measure due to the threat posed by China to German manufacturing jobs.\n\nOf course, China’s critics have a point. The model relies too heavily on investment and has much excess capacity. The country produces far more goods than it can consume domestically, particularly given the low level of wages and a relatively ungenerous welfare system. As a result, China can only keep growing at a rate that prevents rising unemployment from leading to social unrest if it exports its surfeit of goods to the rest of the world. China found itself isolated at the recent meeting of finance ministers of the G20 group of leading developed and developing countries, facing criticism from all sides for failing to boost domestic demand for its products .\n\nPerhaps this means the rest of the world has finally woken up to the threat. If it has, that would not be a moment too soon because China is now competing with the US for dominance in the race to develop artificial intelligence. Welcome to China 3.0.\n\nIn July, a Chinese startup called Moonshot unveiled its Kimi K3 model and it was an instant success. Just two days after its launch, the company suspended new subscriptions because demand was too great for its computing capacity. That was not surprising given that Kimi K3 was marketed as being able to match the models of its US rivals – such as the latest versions of OpenAI’s ChatGPT – at no cost. This was not a fluke or a random event.\n\nAs Edoardo Campanella of UniCredit notes, Beijing is pursuing a clear AI strategy: staying close to the technological frontier, diffusing its models throughout the global economy, and setting standards across international markets. “If this strategy succeeds, the third China shock might not just disrupt the global economy, but also the global balance of power ,” says Campanella.\n\nBeijing’s strategy might not succeed but even so there are three things that are striking about the AI development race. The first is that this would appear to be the worst possible time for Washington to antagonise its traditional allies by whacking them with punitive tariffs. The US needs all the friends it can muster.\n\nThe second is that the arrival on the scene of free Chinese AI models could spell big trouble for global markets. Until now, the US has been confident its technological prowess will give it the upper hand in the AI development race and that has justified massive investment in technology companies.\n\nDespite rising oil prices, share prices on Wall Street have reflected confidence not just that AI will transform economies but that the US will be the main beneficiary. But if China can develop its AI models at a lower cost and offer them for nothing, investors will soon start to question whether the massive investment in the US justifies the sky-high share prices of tech companies. China’s success in AI could prick the stock market bubble .\n\nafter newsletter promotion\n\nFinally, there are lessons that countries such as Britain need to learn from China if it is to re-industrialise. When China began to build up its manufacturing strength almost 50 years ago, it saw itself as a developing country. It had no illusions about the scale of the challenge but had a plan and stuck to it.\n\nThere was no aversion to picking winners. Nor would the strategy be left exposed to the whims of speculators. Instead, there was a willingness to use all the policy tools available: subsidies, tariffs, exchange controls and state investment.\n\nThe result is what we see now: a China that has shifted through the gears from an industrial policy dominated by cheap goods to an industrial policy of everything. Sure, China’s model has its flaws but there is a stark contrast with Britain’s negligent approach since the late 1970s. One country is serious about manufacturing and the other isn’t.\n\nLarry Elliott is a Guardian columnist\n\nChinese economy\n\nOpinion\n\nAI (artificial intelligence)\n\nEconomics\n\nAsia Pacific\n\nIndustrial policy\n\nManufacturing sector\n\nChina\n\ncomment",
       "imageWidth": 1200,
       "imageHeight": 630
+    },
+    {
+      "id": "35666c4a010ed666",
+      "title": "Iran war live: Trump says US may target Iran’s Pickaxe Mountain ‘very soon’",
+      "summary": "US President Donald Trump has repeated an earlier warning that the US may attack Iran's Pickaxe Mountain \"very soon\".",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-09-05T00:00:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": true
+    },
+    {
+      "id": "41c02f8de63e226f",
+      "title": "Malaysia declares emergency in Sarawak as haze from Indonesia worsens",
+      "summary": "Country implements state of emergency in Sarawak's Serian district after air pollution reaches 'hazardous' levels.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/9/5/malaysia-declares-emergency-in-sarawak-as-haze-from-indonesia-worsens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-09-05T03:48:17Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": true
+    },
+    {
+      "id": "f55195aa1b7daad1",
+      "title": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
+      "summary": "Following revelations from the UN nuclear watchdog that the former Syrian regime failed to report holding nuclear material and the discovery in May of an undeclared chemical weapons cache, the Security Council met Thursday to be briefed on the latest developments and discuss the way ahead.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168271",
+      "source": "UN News",
+      "publisher": "UN News",
+      "published": "2026-09-03T12:00:00Z",
+      "category": "Politics",
+      "region": "Middle East",
+      "labels": [
+        "Politics",
+        "Middle East"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 46,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": true,
+      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/05-01-2021-UNHCR-Aleppo-Syria.jpg/image560x340cropped.jpg"
+    },
+    {
+      "id": "70042fccd9a30ed1",
+      "title": "Security Council LIVE: Deadly gang attacks spike in Haiti",
+      "summary": "Following a deadly spate of gang attacks on civilians in Haiti and amid reports of illicit weapons slipping into the Caribbean country, the Security Council has called an emergency meeting at 3pm (local time) to hear and discuss the latest developments. UN News app users can follow our coverage here.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168222",
+      "source": "UN News",
+      "publisher": "UN News",
+      "published": "2026-08-28T12:00:00Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 50,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": true,
+      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/01-10-2025-UNOCHA-Haiti-06.jpg/image560x340cropped.jpg"
     },
     {
       "id": "6c6c774870dd2fa4",
@@ -427,6 +526,33 @@
       "imageHeight": 630
     },
     {
+      "id": "1a4c3b64e3cda476",
+      "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
+      "summary": "The president's remarks came as stronger-than-expected jobs figures added to growing expectations that rates could be increased.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-09-04T17:23:13Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 632,
+      "readingMinutes": 3,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be4c/live/c74b2990-a883-11f1-824a-0fc4c5d895ae.jpg",
+      "body": "Published 4 September 2026\n\nDonald Trump has called for interest rates to be cut later this month, claiming higher rates put the US at a \"very unfair disadvantage\".\n\nThe president's remarks came as stronger-than-expected jobs figures in the US added to growing expectations that rates could be increased, with inflation still running high and American households feeling the pinch of rising prices.\n\nThe number of roles added to the economy increased by 162,000 in August, almost triple the 56,000 forecast by analysts, driven by a boost in hospitality and education hiring.\n\nTrump said the US should have the \"LOWEST RATE of any country in the World\".\n\n\"The Fed Board, with its great new leader, must get smart - BE PATRIOTS for a change. High interest rates put the U.S.A. at a very unfair disadvantage, and I won't allow that to happen!\", the president said in a post on social media , external .\n\nLast week, Kevin Warsh, chairman of the US central bank, signalled that rates could be hiked if policymakers were not confident price rises were easing for Americans.\n\nInflation, which measures price increases over time, remains above the Fed's 2% annual target, with prices up 3.4% in the past 12 months, according to the latest data.\n\nThe next interest rate decision will be made on 15-16 September. Rates were left unchanged between 3.5% and 3.75% in July for the fifth time in a row, but concerns over inflation remain due to the ongoing conflict between the US and Iran, which has caused as surge in global oil prices.\n\nOn Friday, US diesel prices hit an all-time high of $5.85 a gallon on average, compared to $3.71 a year ago.\n\nBut despite the cost of living rising, wages also appear to be increasing. In August, average hourly earnings for all employees were $37.75 on average, having increased 3.1%.\n\n\"Even the most committed dove would struggle to find anything in the August employment report to justify keeping interest rates unchanged,\" said Stephen Brown, chief North America economist at Capital Economics.\n\nHe added that the strength in the jobs market meant that the latest inflation figures released next week would only need to be moderately above the Fed's target to fuel expectations of a September hike.\n\n\"A hike in rates just became a bit more likely,\" said Neil Birrell, chief investment office of investment firm Premier Miton.\n\nAlmost 60% of traders were betting on an interest rate hike in September, according to CME Group's \"FedWatch\" data.\n\nAn increase in employment during the final month of the summer in restaurants and bars, as well as in local government education ahead of the new school year, was behind August's labour market rebound.\n\nWeaker job figures released earlier in the summer were revised up by the US Bureau of Labor Statistics, revealing a stronger labour market than previously thought. Instead of the economy being deemed to have shed 23,000 jobs in July, some 44,000 were found to have been created in subsequent estimates.\n\nWhile many more jobs were added, the US unemployment rate remained unchanged at 4.1% last month, with seven million out of work. Both measures have changed little over the year.\n\nIn response to the stronger jobs figures raising expectations of a interest rate hike, US stock market indexes were trading down on Friday.\n\nTrump called the response \"crazy\". \"We just got GREAT Numbers on Jobs, the Market should go UP, because our Credit and Economy are better but, as always, for the past 25 years, the Stock Market goes DOWN, because we're living under False Reality that if things are good, you've got to \"KILL IT\" because of a \"fear\" of Inflation,\" he said.\n\nRelated topics\n\nUnemployment\n\nUS economy\n\nUnited States\n\nEmployment",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
       "id": "9c348f34fce1c1e8",
       "title": "ERIN DELEA COMMITS HER FUTURE TO SARACENS",
       "summary": "SARACENS WOMEN ARE DELIGHTED TO CONFIRM ERIN DELEA HAS SIGNED A NEW DEAL WITH THE CLUB, CONTINUING HER RUGBY JOURNEY WITH THE WOMEN IN BLACK. Delea's journey originated through the Hertfordshire PDG, before playing her club rugby for Welwyn RFC. She then joined Oaklands College and progressed into the Saracens academy pathway. A dynamic and […]",
@@ -447,6 +573,80 @@
       "focus": "Saracens",
       "sourceType": "news",
       "wordCount": 55,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "2431af0d98f1c620",
+      "title": "Latest Blue Jays injuries & transactions",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-05T03:50:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "f5135e1723311e9c",
+      "title": "Blue Jays back to .500 and in thick of AL Wild Card race",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-back-to-the-500-mark-with-win-over-royals",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-05T03:41:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "cc9a611d16328a01",
+      "title": "Taillon (right elbow discomfort) exits first start off IL, to have MRI",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/jameson-taillon-exits-game-with-elbow-discomfort",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-05T03:40:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -477,31 +677,6 @@
       "isBreaking": false
     },
     {
-      "id": "1435886bd96ec4c6",
-      "title": "Watch Blue Jays prospects play at Single-A in FREE Sunday matinee",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/watch-minor-league-baseball-games-for-free-2026",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-09-04T22:00:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "27ac038dd79e1769",
       "title": "TEAM NEWS | Saracens Men Vs Northampton Saints (PRC R1)",
       "summary": "Alfie Barbeary is excited to make his home debut as the England international makes his first competitive start for the Original Club of North London. One of five Saracens players set for their first senior competitive outing, Barbeary starts at number eight against reigning PREM champions Northampton Saints in the Cup format of the competition. […]",
@@ -522,55 +697,6 @@
       "focus": "Saracens",
       "sourceType": "news",
       "wordCount": 55,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "f4ed7d9c4761263c",
-      "title": "All 30 teams set to open Spring Training 2027 on same day",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/mlb-spring-training-2026-schedule-released",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-09-04T18:04:39Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "f3c7a20a60e35ea0",
-      "title": "Another crucial series for Blue Jays' Wild Card chase on deck",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/blue-jays-royals-series-has-al-wild-card-implications",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-09-04T15:04:52Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -1003,6 +1129,80 @@
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5946840"
     },
     {
+      "id": "1435886bd96ec4c6",
+      "title": "Watch Blue Jays prospects play at Single-A in FREE Sunday matinee",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/watch-minor-league-baseball-games-for-free-2026",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-05T01:41:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "f4ed7d9c4761263c",
+      "title": "All 30 teams set to open Spring Training 2027 on same day",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/mlb-spring-training-2026-schedule-released",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-04T18:04:39Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "f3c7a20a60e35ea0",
+      "title": "Another crucial series for Blue Jays' Wild Card chase on deck",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-royals-series-has-al-wild-card-implications",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-04T15:04:52Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "34aa8dd914bcdcb8",
       "title": "Cease's durability continues to define his dominant year",
       "summary": "This feed supplied a headline but no article summary.",
@@ -1077,31 +1277,6 @@
       "isBreaking": false
     },
     {
-      "id": "2431af0d98f1c620",
-      "title": "Latest Blue Jays injuries & transactions",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/blue-jays-injuries-and-roster-moves",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-09-03T16:29:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "e18134afa075f537",
       "title": "Yesavage to throw off mound Friday as part of late-season comeback plan",
       "summary": "This feed supplied a headline but no article summary.",
@@ -1151,8 +1326,8 @@
       "imageAlt": "Former Labor Secretary Lori Chavez-DeRemer speaks during a hearing on Capitol Hill on June 5, 2025 in Washington, D.C."
     },
     {
-      "id": "b0143433c4b01761",
-      "title": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
+      "id": "0774f56d38ff2cfa",
+      "title": "'Hidden tribunals': Immigration court due process in tumult with new locations",
       "summary": "The new effort appears to be another tactic in a broader Trump administration strategy to short-circuit immigrants' already limited due process options in order to speed deportations.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
@@ -1227,7 +1402,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77a0/live/ad70d0b0-a883-11f1-824a-0fc4c5d895ae.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more about this story here.\n\nSubsection Politics\n\nPublished 5 hours ago\n\nRelated topics\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUK government Follow UK government close panel You are now following UK government Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more about this story here.\n\nSubsection Politics\n\nPublished 11 hours ago\n\nRelated topics\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUK government Follow UK government close panel You are now following UK government Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1254,7 +1429,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e95/live/c6320bb0-a873-11f1-824a-0fc4c5d895ae.jpg",
-      "body": "Published 6 hours ago\n\nReform UK leader Nigel Farage has described secretly-recorded comments by his senior aides about donations as \"injudicious\" and \"loose pub talk\".\n\nJames Orr, the party's head of policy, and Dan Jukes, a close aide to Farage, have both stepped down and Reform has launched an internal investigation into the allegations.\n\nIt comes after Channel 4 News broadcast undercover filming by Verbatim Investigations, in which the two men suggested a way around electoral law to secure foreign party donations for the party, one of which would have totalled £500,000.\n\nFarage said his party had \"done nothing wrong\" and had taken \"no illegal money. In fact no money was taken at all.\"\n\nElectoral law sets out that to be a permissible donor to a UK political party you must be a UK registered voter, or a company registered in the UK.\n\nIn the Channel 4 report, which aired on Thursday night, a reporter posing as a potential party donor raises a concern to Farage's aide Dan Jukes that his American father wouldn't be able to directly give money to the party within the law.\n\nJukes tells him: \"You do realise that you can do it?\"\n\nChannel 4 say Jukes was suggesting that the donation could be in the UK-based son's name, although the money would have come from his American father.\n\nHe then claims they have done it several times before, in exchanges bleeped out but which appear to refer to other instances where this mechanism had been used before.\n\nAt the press conference, Farage said that Channel 4 had opted to bleep the names, rather than broadcast them was because Jukes' claims were \"simply not true\".\n\nHe said those donations \"haven't occurred\" and \"don't exist in our accounts\".\n\nFarage said his party took compliance around donations \"very seriously\".\n\nResponding to the allegations, Jukes said: \"This was entrapment over a prolonged period of nearly a year by foreign-funded climate change activists.\n\n\"I totally deny any wrongdoing but have stepped back from politics in order to clear my name.\"\n\nBefore stepping down from his position Jukes had been seen as Farage's right hand man.\n\nReform's head of policy, James Orr, who also appeared in the film, suggested to the undercover reporter that perhaps his American father could pay for opinion polling to aid Reform's campaigning.\n\nIn all, Channel 4 News claims three polls were commissioned in this way costing £32,500 in total and that the public was not told who commissioned or funded them.\n\nNot disclosing such funding would be illegal and accepting this kind of foreign funding would also be illegal.\n\nOrr told Sky News: \"I have agreed to step down from my current role at Reform UK pending the outcome of the party's internal investigation into the conduct of the programme, with which I will cooperate fully.\"\n\nIn response to allegations of \"entrapment\" from Jukes, a spokesperson for Verbatim Investigations told BBC News the investigation was carried out \"to the highest journalistic standards\", adding: \"As the footage shows, the plots we exposed were proposed by Mr Jukes and Mr Orr, not by our journalists.\"\n\nFarage acknowledged Jukes' comments were \"problematic\" but added that they were \"loose pub talk, including a couple of boasts that simply were not true\".\n\n\"And whilst I'm aware that our people were pushed and pushed and pushed into saying these things, the comments were injudicious at best.\n\n\"Neither of these members were authorised to act in that way.\n\n\"Accordingly, they've stepped down pending an investigation, and I emphasise again: Reform has broken no law, and we take compliance around donations very, very seriously.\"\n\nDuring the film, Farage is introduced to the undercover reporter posing as a party donor and an actor posing as his American father.\n\nIn the press conference, Farage said he was \"annoyed\" that he was introduced to the two men adding: \"It should not have happened.\"\n\nHe said his party needed to \"do better as we professionalise\".\n\nLabour and the Liberal Democrats have reported the party to the Metropolitan Police.\n\nThe police said it would assess the matter and any information provided to it.\n\nIn a statement on Friday, the Electoral Commission said: \"We are considering all relevant information, in line with our regulatory remit, and we are in touch with the Met Police.\"\n\nA Channel 4 News spokesperson said: \"We stand by the public interest journalism in this investigation, which has been rigorously verified to ensure accuracy.\n\n\"We would encourage people to watch the investigation in full.\"\n\nThree crucial questions facing Farage at Reform conference Published 17 hours ago\n\nTwo Reform officials step down after undercover donations report Published 6 hours ago\n\nFarage unveils small boats deal with French National Rally party Published 6 hours ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nReform UK\n\nNigel Farage",
+      "body": "Published 4 September 2026\n\nReform UK leader Nigel Farage has described secretly-recorded comments by his senior aides about donations as \"injudicious\" and \"loose pub talk\".\n\nJames Orr, the party's head of policy, and Dan Jukes, a close aide to Farage, have both stepped down and Reform has launched an internal investigation into the allegations.\n\nIt comes after Channel 4 News broadcast undercover filming by Verbatim Investigations, in which the two men suggested a way around electoral law to secure foreign party donations for the party, one of which would have totalled £500,000.\n\nFarage said his party had \"done nothing wrong\" and had taken \"no illegal money. In fact no money was taken at all.\"\n\nElectoral law sets out that to be a permissible donor to a UK political party you must be a UK registered voter, or a company registered in the UK.\n\nIn the Channel 4 report, which aired on Thursday night, a reporter posing as a potential party donor raises a concern to Farage's aide Dan Jukes that his American father wouldn't be able to directly give money to the party within the law.\n\nJukes tells him: \"You do realise that you can do it?\"\n\nChannel 4 say Jukes was suggesting that the donation could be in the UK-based son's name, although the money would have come from his American father.\n\nHe then claims they have done it several times before, in exchanges bleeped out but which appear to refer to other instances where this mechanism had been used before.\n\nAt the press conference, Farage said that Channel 4 had opted to bleep the names, rather than broadcast them was because Jukes' claims were \"simply not true\".\n\nHe said those donations \"haven't occurred\" and \"don't exist in our accounts\".\n\nFarage said his party took compliance around donations \"very seriously\".\n\nResponding to the allegations, Jukes said: \"This was entrapment over a prolonged period of nearly a year by foreign-funded climate change activists.\n\n\"I totally deny any wrongdoing but have stepped back from politics in order to clear my name.\"\n\nBefore stepping down from his position Jukes had been seen as Farage's right hand man.\n\nReform's head of policy, James Orr, who also appeared in the film, suggested to the undercover reporter that perhaps his American father could pay for opinion polling to aid Reform's campaigning.\n\nIn all, Channel 4 News claims three polls were commissioned in this way costing £32,500 in total and that the public was not told who commissioned or funded them.\n\nNot disclosing such funding would be illegal and accepting this kind of foreign funding would also be illegal.\n\nOrr told Sky News: \"I have agreed to step down from my current role at Reform UK pending the outcome of the party's internal investigation into the conduct of the programme, with which I will cooperate fully.\"\n\nIn response to allegations of \"entrapment\" from Jukes, a spokesperson for Verbatim Investigations told BBC News the investigation was carried out \"to the highest journalistic standards\", adding: \"As the footage shows, the plots we exposed were proposed by Mr Jukes and Mr Orr, not by our journalists.\"\n\nFarage acknowledged Jukes' comments were \"problematic\" but added that they were \"loose pub talk, including a couple of boasts that simply were not true\".\n\n\"And whilst I'm aware that our people were pushed and pushed and pushed into saying these things, the comments were injudicious at best.\n\n\"Neither of these members were authorised to act in that way.\n\n\"Accordingly, they've stepped down pending an investigation, and I emphasise again: Reform has broken no law, and we take compliance around donations very, very seriously.\"\n\nDuring the film, Farage is introduced to the undercover reporter posing as a party donor and an actor posing as his American father.\n\nIn the press conference, Farage said he was \"annoyed\" that he was introduced to the two men adding: \"It should not have happened.\"\n\nHe said his party needed to \"do better as we professionalise\".\n\nLabour and the Liberal Democrats have reported the party to the Metropolitan Police.\n\nThe police said it would assess the matter and any information provided to it.\n\nIn a statement on Friday, the Electoral Commission said: \"We are considering all relevant information, in line with our regulatory remit, and we are in touch with the Met Police.\"\n\nA Channel 4 News spokesperson said: \"We stand by the public interest journalism in this investigation, which has been rigorously verified to ensure accuracy.\n\n\"We would encourage people to watch the investigation in full.\"\n\nThree crucial questions facing Farage at Reform conference Published 23 hours ago\n\nTwo Reform officials step down after undercover donations report Published 12 hours ago\n\nFarage unveils small boats deal with French National Rally party Published 12 hours ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nReform UK\n\nNigel Farage",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1281,7 +1456,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc38/live/0f4618b0-a878-11f1-824a-0fc4c5d895ae.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more about this story here.\n\nSubsection Politics\n\nPublished 6 hours ago\n\nRelated topics\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more about this story here.\n\nSubsection Politics\n\nPublished 12 hours ago\n\nRelated topics\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1303,12 +1478,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 695,
+      "wordCount": 692,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/46c3/live/fa997a60-a86d-11f1-bbad-43eaf67b94b6.jpg",
-      "body": "Published 4 September 2026, 15:56 BST\n\nNigel Farage has agreed a deal with France's hard-right National Rally (RN) party on returning migrants who attempt to cross the English Channel in small boats, should both parties win power.\n\nIt comes after Reform UK last month announced a plan to intercept boats and return migrants to French ports using the Royal Navy.\n\nThe proposed agreement with RN states that France would \"ordinarily accept\" those on board, and then repatriate them to their home country.\n\nIt was signed at Reform's annual conference in Birmingham by RN President Jordan Bardella, whose party is currently leading in opinion polls ahead of presidential elections in April next year.\n\nIn a speech in the main conference hall, ahead of the deal being unveiled, Bardella told delegates that an RN government would \"do everything in its power to ensure that France is no longer the gateway for illegal migration into the United Kingdom\".\n\nHailing Farage as the UK's next prime minister, Bardella pledged to work with a potential future Reform government to tackle illegal migration.\n\nFrance hits out at Reform UK plan to return migrants using Navy Published 3 August\n\nNigel Farage meets French far-right leader in London Published 9 December 2025\n\nThe \"memorandum of understanding\" unveiled at the conference is a political document, but could be developed into a legal agreement between two future governments, if both parties win power.\n\nIt states: \"The United Kingdom will intercept boats which have launched from French shores and entered British territorial waters and will return the persons on board to France.\n\n\"France will ordinarily accept these persons, who will be repatriated to their home country in accordance with the law in force in France concerning expulsion.\"\n\nIllegal migrants who successfully arrive in the UK from France would be immediately detained and deported to their home country, rather than to France, under plans previously outlined by Reform .\n\nChallenged during a news conference over whether the wording \"ordinarily\" meant some migrants would not be accepted by France, Farage said it was \"legalese\".\n\nHe argued the proposals would mean there was \"no incentive\" to pay a trafficker to cross the Channel, and \"in very, very short order the business model is broken\".\n\nFarage said the \"historic document\" would \"stop the boats forever\".\n\nAchieving this goal within the first 100 days of a Reform government is one of the party's key pledges.\n\nLast month Emmanuel Macron's government hit out at Reform's proposals to use the Navy to return migrant boats to France, saying this would violate the country's sovereignty and breach international law.\n\nOpposition parties also branded the plan unworkable.\n\nLabour has pointed to increased cooperation with France as contributing to the number of small boat crossings falling.\n\nThis includes extra officers being deployed to French beaches, and more funding to help prevent crossings.\n\nLast year Sir Keir Starmer's government also signed a \"one in, one out deal\" , which allows the UK to send some small boat-arrivals back to France, while agreeing to take the same number of people from France believed to have a legitimate claim to come to the UK.\n\n'New Entente Cordiale'\n\nJoining Bardella on the stage after his speech, Farage said the deal marked a \"new Entente Cordiale\" between France and the UK, in reference to a series of agreements in 1904 that paved the way for greater diplomatic cooperation.\n\nUnveiling the memorandum, the pair signed a large mock-up of the document to cheers from the audience of Reform members, with one shouting \"Vive la France!\".\n\nFarage has been forging closer ties with Bardella and his party since meeting the politician in London last December.\n\nPreviously tipped as a potential candidate for the 2027 presidential election, Le Pen has said she wants to make Bardella prime minister if RN wins power.\n\nIt comes after party leader Le Pen announced in July she would run for the presidency following a Paris appeal court ruling which upheld her conviction for misusing EU funds but shortened her sentence, clearing the path for her to stand.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nNigel Farage",
+      "body": "Published 4 September 2026\n\nNigel Farage has agreed a deal with France's hard-right National Rally (RN) party on returning migrants who attempt to cross the English Channel in small boats, should both parties win power.\n\nIt comes after Reform UK last month announced a plan to intercept boats and return migrants to French ports using the Royal Navy.\n\nThe proposed agreement with RN states that France would \"ordinarily accept\" those on board, and then repatriate them to their home country.\n\nIt was signed at Reform's annual conference in Birmingham by RN President Jordan Bardella, whose party is currently leading in opinion polls ahead of presidential elections in April next year.\n\nIn a speech in the main conference hall, ahead of the deal being unveiled, Bardella told delegates that an RN government would \"do everything in its power to ensure that France is no longer the gateway for illegal migration into the United Kingdom\".\n\nHailing Farage as the UK's next prime minister, Bardella pledged to work with a potential future Reform government to tackle illegal migration.\n\nFrance hits out at Reform UK plan to return migrants using Navy Published 3 August\n\nNigel Farage meets French far-right leader in London Published 9 December 2025\n\nThe \"memorandum of understanding\" unveiled at the conference is a political document, but could be developed into a legal agreement between two future governments, if both parties win power.\n\nIt states: \"The United Kingdom will intercept boats which have launched from French shores and entered British territorial waters and will return the persons on board to France.\n\n\"France will ordinarily accept these persons, who will be repatriated to their home country in accordance with the law in force in France concerning expulsion.\"\n\nIllegal migrants who successfully arrive in the UK from France would be immediately detained and deported to their home country, rather than to France, under plans previously outlined by Reform .\n\nChallenged during a news conference over whether the wording \"ordinarily\" meant some migrants would not be accepted by France, Farage said it was \"legalese\".\n\nHe argued the proposals would mean there was \"no incentive\" to pay a trafficker to cross the Channel, and \"in very, very short order the business model is broken\".\n\nFarage said the \"historic document\" would \"stop the boats forever\".\n\nAchieving this goal within the first 100 days of a Reform government is one of the party's key pledges.\n\nLast month Emmanuel Macron's government hit out at Reform's proposals to use the Navy to return migrant boats to France, saying this would violate the country's sovereignty and breach international law.\n\nOpposition parties also branded the plan unworkable.\n\nLabour has pointed to increased cooperation with France as contributing to the number of small boat crossings falling.\n\nThis includes extra officers being deployed to French beaches, and more funding to help prevent crossings.\n\nLast year Sir Keir Starmer's government also signed a \"one in, one out deal\" , which allows the UK to send some small boat-arrivals back to France, while agreeing to take the same number of people from France believed to have a legitimate claim to come to the UK.\n\n'New Entente Cordiale'\n\nJoining Bardella on the stage after his speech, Farage said the deal marked a \"new Entente Cordiale\" between France and the UK, in reference to a series of agreements in 1904 that paved the way for greater diplomatic cooperation.\n\nUnveiling the memorandum, the pair signed a large mock-up of the document to cheers from the audience of Reform members, with one shouting \"Vive la France!\".\n\nFarage has been forging closer ties with Bardella and his party since meeting the politician in London last December.\n\nPreviously tipped as a potential candidate for the 2027 presidential election, Le Pen has said she wants to make Bardella prime minister if RN wins power.\n\nIt comes after party leader Le Pen announced in July she would run for the presidency following a Paris appeal court ruling which upheld her conviction for misusing EU funds but shortened her sentence, clearing the path for her to stand.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nNigel Farage",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1330,12 +1505,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1047,
+      "wordCount": 1044,
       "readingMinutes": 5,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5fa/live/438f7380-a82f-11f1-b109-879e35c24276.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: Undercover reporters posing as party donors meet with Nigel Farage\n\nPublished 4 September 2026, 07:55 BST\n\nReform UK says two senior officials have stepped down as the party launched an investigation into claims about funding aired during a Channel 4 News report.\n\nNigel Farage's senior aide Dan Jukes and Reform's head of policy James Orr have both stood down pending the outcome of the internal probe, the party said.\n\nThe party added the investigation should be \"allowed to proceed independently and without prejudice\" and it would make no further comment for now.\n\nThe row threatens to overshadow Reform's conference in Birmingham, which has its first full day on Friday.\n\nIn the Channel 4 report, which aired on Thursday night, undercover filming showed Jukes suggesting a way to get around electoral law to secure a foreign donation of £500,000 for the party.\n\nThe undercover filming was carried out by a group called Verbatim Investigations, which was founded by journalists from the Centre for Climate Reporting. Channel 4 News say they have verified the material they were given and chose to broadcast.\n\nReform has denied any wrongdoing and said it had \"been the target of a hoax perpetuated by foreign-funded climate change activists\".\n\nLabour and the Liberal Democrats have reported Reform to the Metropolitan Police over the allegations. The force said on Thursday it would assess the matter and any information provided to it.\n\nIn a statement on Friday, the Electoral Commission said: \"We are considering all relevant information, in line with our regulatory remit, and we are in touch with the Met Police.\n\n\"The law requires political parties to report all permissible donations they accept with a value over £11,180 and all impermissible donations over £500.\n\n\"Information about any potential attempt to evade the controls on donations is for the police to consider.\"\n\nJukes said: \"This was entrapment over a prolonged period of nearly a year\", adding that he denied wrongdoing and had \"stepped back from politics in order to clear my name.\"\n\nOrr told Sky News: \"I have agreed to step down from my current role at Reform UK pending the outcome of the party's internal investigation into the conduct of the program, with which I will cooperate fully.\"\n\nReacting on Friday, Farage told LBC a \"couple of our contractors have said things that shouldn't have been said\" and had been \"removed this morning\".\n\nThe Reform UK leader added: \"The party has broken no laws, the party has not taken any dodgy money or anything like that whatsoever.\"\n\nIn response to allegations of \"entrapment\" from Jukes, a spokesperson for Verbatim Investigations told BBC News the investigation was carried out \"to the highest journalistic standards\", adding: \"As the footage shows, the plots we exposed were proposed by Mr Jukes and Mr Orr, not by our journalists.\"\n\nFarage appears to be trying to distance himself Jukes and Orr, with his comments to LBC.\n\nHowever Jukes is widely seen as Farage's closest aide, who is often at his side, and is judged to have an innate sense of his boss's instincts. Jukes has long been the man you need to call if you want to arrange an interview with the Reform UK leader.\n\nOrr, a Cambridge academic who has stepped down the party's head of policy, could also be considered to be in Farage's inner circle.\n\nDonation and polling claims\n\nChannel 4 broadcast footage from a lunch in Clacton in Essex, with a reporter posing as the UK-based son, and an actor posing as his supposed American father. Opposite them are both Jukes and Farage.\n\nFarage says \"it's all above board\" after the son has told him he has been in discussions with both Jukes and Reform's policy chief, James Orr about it for some time.\n\n\"I'll be the registered donor,\" the son says. \"But then dad will send the money to me, and then as soon as that's done and all those conversations are had the money is available.\"\n\n\"Thank you. Well, both of you. Thank you,\" Farage is heard saying.\n\nChannel 4 say the proposed £500,000 donation was never made.\n\nEarlier in the film, the reporter is recorded raising a concern with Jukes that his American father wouldn't be able to directly donate to the party within the law.\n\nJukes tells him: \"You do realise that you can do it?\"\n\nChannel 4 say Jukes was suggesting that the donation could be in the UK-based son's name, although the money would have come from his American father.\n\n\"Actually that does strike me as a solution,\" Jukes continues.\n\nHe then claims they have done it several times before, in exchanges bleeped out but which appear to refer to other instances where this mechanism had been used before.\n\n\"That's one of the ways in which we do it,\" he is recorded as saying.\n\nFarage senior aide filmed suggesting way to avoid donations law Published 1 day ago\n\nElectoral law sets out that to be a permissible donor to a UK political party you must be a UK registered voter, or a company registered in the UK.\n\nIn this instance, the son would be a permissible donor, his father would not be.\n\nEarlier in Channel 4 News's film, prior to the suggested £500,000 donation, Channel 4 says Orr suggests to the undercover reporter that perhaps his father could pay for opinion polling to aid Reform's campaigning.\n\nThe poll would cost £18,000 plus VAT – and Orr suggests that perhaps the polling company could send the bill to the undercover reporter.\n\nIn all, Channel 4 News says Reform commissioned three polls costing £32,500 in total and that the public was not told who commissioned or funded them.\n\nNot disclosing such funding would be illegal and accepting this kind of foreign funding would also be illegal.\n\nOn Friday morning, Reform UK chairman Lee Anderson told Sky News there was \"no chance\" of Jukes and Orr returning to the party.\n\nThis appeared to be contradicted by Reform's deputy leader Richard Tice, who told BBC Radio 4's Today programme minutes later that \"it's not actually, in the nicest possible way, for any individual to make that determination\" as the investigation continues.",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: Undercover reporters posing as party donors meet with Nigel Farage\n\nPublished 4 September 2026\n\nReform UK says two senior officials have stepped down as the party launched an investigation into claims about funding aired during a Channel 4 News report.\n\nNigel Farage's senior aide Dan Jukes and Reform's head of policy James Orr have both stood down pending the outcome of the internal probe, the party said.\n\nThe party added the investigation should be \"allowed to proceed independently and without prejudice\" and it would make no further comment for now.\n\nThe row threatens to overshadow Reform's conference in Birmingham, which has its first full day on Friday.\n\nIn the Channel 4 report, which aired on Thursday night, undercover filming showed Jukes suggesting a way to get around electoral law to secure a foreign donation of £500,000 for the party.\n\nThe undercover filming was carried out by a group called Verbatim Investigations, which was founded by journalists from the Centre for Climate Reporting. Channel 4 News say they have verified the material they were given and chose to broadcast.\n\nReform has denied any wrongdoing and said it had \"been the target of a hoax perpetuated by foreign-funded climate change activists\".\n\nLabour and the Liberal Democrats have reported Reform to the Metropolitan Police over the allegations. The force said on Thursday it would assess the matter and any information provided to it.\n\nIn a statement on Friday, the Electoral Commission said: \"We are considering all relevant information, in line with our regulatory remit, and we are in touch with the Met Police.\n\n\"The law requires political parties to report all permissible donations they accept with a value over £11,180 and all impermissible donations over £500.\n\n\"Information about any potential attempt to evade the controls on donations is for the police to consider.\"\n\nJukes said: \"This was entrapment over a prolonged period of nearly a year\", adding that he denied wrongdoing and had \"stepped back from politics in order to clear my name.\"\n\nOrr told Sky News: \"I have agreed to step down from my current role at Reform UK pending the outcome of the party's internal investigation into the conduct of the program, with which I will cooperate fully.\"\n\nReacting on Friday, Farage told LBC a \"couple of our contractors have said things that shouldn't have been said\" and had been \"removed this morning\".\n\nThe Reform UK leader added: \"The party has broken no laws, the party has not taken any dodgy money or anything like that whatsoever.\"\n\nIn response to allegations of \"entrapment\" from Jukes, a spokesperson for Verbatim Investigations told BBC News the investigation was carried out \"to the highest journalistic standards\", adding: \"As the footage shows, the plots we exposed were proposed by Mr Jukes and Mr Orr, not by our journalists.\"\n\nFarage appears to be trying to distance himself Jukes and Orr, with his comments to LBC.\n\nHowever Jukes is widely seen as Farage's closest aide, who is often at his side, and is judged to have an innate sense of his boss's instincts. Jukes has long been the man you need to call if you want to arrange an interview with the Reform UK leader.\n\nOrr, a Cambridge academic who has stepped down the party's head of policy, could also be considered to be in Farage's inner circle.\n\nDonation and polling claims\n\nChannel 4 broadcast footage from a lunch in Clacton in Essex, with a reporter posing as the UK-based son, and an actor posing as his supposed American father. Opposite them are both Jukes and Farage.\n\nFarage says \"it's all above board\" after the son has told him he has been in discussions with both Jukes and Reform's policy chief, James Orr about it for some time.\n\n\"I'll be the registered donor,\" the son says. \"But then dad will send the money to me, and then as soon as that's done and all those conversations are had the money is available.\"\n\n\"Thank you. Well, both of you. Thank you,\" Farage is heard saying.\n\nChannel 4 say the proposed £500,000 donation was never made.\n\nEarlier in the film, the reporter is recorded raising a concern with Jukes that his American father wouldn't be able to directly donate to the party within the law.\n\nJukes tells him: \"You do realise that you can do it?\"\n\nChannel 4 say Jukes was suggesting that the donation could be in the UK-based son's name, although the money would have come from his American father.\n\n\"Actually that does strike me as a solution,\" Jukes continues.\n\nHe then claims they have done it several times before, in exchanges bleeped out but which appear to refer to other instances where this mechanism had been used before.\n\n\"That's one of the ways in which we do it,\" he is recorded as saying.\n\nFarage senior aide filmed suggesting way to avoid donations law Published 1 day ago\n\nElectoral law sets out that to be a permissible donor to a UK political party you must be a UK registered voter, or a company registered in the UK.\n\nIn this instance, the son would be a permissible donor, his father would not be.\n\nEarlier in Channel 4 News's film, prior to the suggested £500,000 donation, Channel 4 says Orr suggests to the undercover reporter that perhaps his father could pay for opinion polling to aid Reform's campaigning.\n\nThe poll would cost £18,000 plus VAT – and Orr suggests that perhaps the polling company could send the bill to the undercover reporter.\n\nIn all, Channel 4 News says Reform commissioned three polls costing £32,500 in total and that the public was not told who commissioned or funded them.\n\nNot disclosing such funding would be illegal and accepting this kind of foreign funding would also be illegal.\n\nOn Friday morning, Reform UK chairman Lee Anderson told Sky News there was \"no chance\" of Jukes and Orr returning to the party.\n\nThis appeared to be contradicted by Reform's deputy leader Richard Tice, who told BBC Radio 4's Today programme minutes later that \"it's not actually, in the nicest possible way, for any individual to make that determination\" as the investigation continues.",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1362,7 +1537,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/969d/live/dd94df70-a874-11f1-824a-0fc4c5d895ae.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on this story.\n\nSubsection Politics\n\nPublished 7 hours ago\n\nRelated topics\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on this story.\n\nSubsection Politics\n\nPublished 13 hours ago\n\nRelated topics\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1413,7 +1588,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea8a/live/fb48e020-a860-11f1-aed2-8d6da8d75094.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on Reform UK's party conference in Birmingham\n\nSubsection Politics\n\nPublished 9 hours ago\n\nRelated topics\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on Reform UK's party conference in Birmingham\n\nSubsection Politics\n\nPublished 15 hours ago\n\nRelated topics\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1514,7 +1689,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6c78/live/b940e670-a859-11f1-a291-b542ee92de7c.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nReform UK's annual conference is under way in Birmingham - a chance for the party to talk about its policies and what it hopes to do should it win a future general election.\n\nYet questions over money and donations are dominating the news after two of the party's senior figures stepped down on Friday morning following a Channel 4 News report.\n\nChris Mason reports from the conference.\n\nFollow this story live\n\nSubsection Politics\n\nPublished 11 hours ago\n\nRelated topics\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nChris Mason, BBC Political Editor Follow Chris Mason, BBC Political Editor close panel You are now following Chris Mason, BBC Political Editor Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nReform UK's annual conference is under way in Birmingham - a chance for the party to talk about its policies and what it hopes to do should it win a future general election.\n\nYet questions over money and donations are dominating the news after two of the party's senior figures stepped down on Friday morning following a Channel 4 News report.\n\nChris Mason reports from the conference.\n\nFollow this story live\n\nSubsection Politics\n\nPublished 17 hours ago\n\nRelated topics\n\nReform UK Follow Reform UK close panel You are now following Reform UK Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nNigel Farage Follow Nigel Farage close panel You are now following Nigel Farage Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nChris Mason, BBC Political Editor Follow Chris Mason, BBC Political Editor close panel You are now following Chris Mason, BBC Political Editor Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1563,12 +1738,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 662,
-      "readingMinutes": 4,
+      "wordCount": 659,
+      "readingMinutes": 3,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4805/live/d3c90eb0-a85d-11f1-aed2-8d6da8d75094.jpg",
-      "body": "Published 4 September 2026, 11:40 BST\n\nHouseholds should stock up on food to prepare for extreme weather as the strongest El Niño event in a generation develops over the Pacific Ocean, a government minister has said.\n\nEnvironment Secretary Dame Angela Eagle told the Guardian the powerful natural climate phenomenon will lead to \"more extreme storms in this country\".\n\nHer comments came as the National Audit Office (NAO) warned Britain's food supply chain is at risk given the growing threat of cyber-attacks and the climate crisis.\n\nThe NAO said the government was too reliant on the private sector to deal with food supply disruption. The government is due to unveil a strategy about preparing for national emergencies later this year.\n\nDame Angela said , external : \"We're about to experience probably the largest El Niño that has ever been seen, and that will lead to drier summers, wetter winters, with more extreme storms in this country.\n\n\"It will do a lot more damage in Asia with flooding, and therefore I think that we need to take it seriously.\n\n\"If you've got a store of a bit of food that can keep you going for a while before the emergency services can get to you, you're going to be a lot better off than if you haven't.\n\n\"So some of it is that kind of preparation for just being a bit more resilient.\"\n\nHer comments came as an NAO report warned Britain's food supply chain is vulnerable to plant or human disease outbreaks, cyber-attacks and extreme weather.\n\nIt also cited climate change as a longer-term chronic risk which could leave Britain's food supply at risk.\n\nThe disruptions could push up prices and leave vulnerable people struggling to buy food, it said.\n\nThe NAO said the Department for Food, the Environment and Rural Affairs (Defra) was too reliant on private companies to handle disruptions to food supply.\n\nIt added the department had not done enough in recent years to improve supply chain resilience.\n\nUK households are less prepared for emergencies than those in several other countries such as Finland, Sweden and European Union nations, the NAO added.\n\nIt said ministers should encourage households to prepare for supply chain disruptions and learn from the approaches taken by other countries.\n\nPublic to be told how to prepare for cyber-attack and weather emergencies Published 14 July\n\nEl Niño set to be 'strongest in living memory', says Met Office Published 21 August\n\nDefra said the report showed food supply risks were becoming more complex and the government was working with farmers and industry to strengthen the UK's resilience.\n\n\"While our food businesses and supermarkets have continued to feed the nation through significant disruption, we will carefully consider the report's findings and recommendations as part of our ongoing work to build a more resilient, productive and sustainable food system,\" a spokesperson said.\n\nIn July, the government announced plans to set out the \" small but important steps \" households can take to prepare for food and water shortages in the event of extreme weather or cyber-attacks.\n\nThese will form a strategy to be unveiled by the end of 2026 aimed at bringing the UK closer into line with European countries in terms of emergency preparedness.\n\nPhil Pluck, chief executive of the Cold Chain Federation, the body which represents firms transporting temperature-controlled foods, said Britain was \"pretty close to crisis\".\n\nHe told the BBC's Wake Up to Money programme that the country was being targeted by Russian cyber-hackers who \"know that there are pinch points in the food supply system\".\n\nHe added that El Niño, as well as global shipping disruption and the threat of pandemics, mean you cannot \"just rely on the private sector coming through every single time\".\n\nAsked whether people should be stocking up in case of disruptions, Pluck added: \"Yes, we should.\n\n\"There should be some sensible stocking in each household. And the government in the autumn will be telling all of us to do that.\"\n\nRelated topics\n\nFood industry",
+      "body": "Published 4 September 2026\n\nHouseholds should stock up on food to prepare for extreme weather as the strongest El Niño event in a generation develops over the Pacific Ocean, a government minister has said.\n\nEnvironment Secretary Dame Angela Eagle told the Guardian the powerful natural climate phenomenon will lead to \"more extreme storms in this country\".\n\nHer comments came as the National Audit Office (NAO) warned Britain's food supply chain is at risk given the growing threat of cyber-attacks and the climate crisis.\n\nThe NAO said the government was too reliant on the private sector to deal with food supply disruption. The government is due to unveil a strategy about preparing for national emergencies later this year.\n\nDame Angela said , external : \"We're about to experience probably the largest El Niño that has ever been seen, and that will lead to drier summers, wetter winters, with more extreme storms in this country.\n\n\"It will do a lot more damage in Asia with flooding, and therefore I think that we need to take it seriously.\n\n\"If you've got a store of a bit of food that can keep you going for a while before the emergency services can get to you, you're going to be a lot better off than if you haven't.\n\n\"So some of it is that kind of preparation for just being a bit more resilient.\"\n\nHer comments came as an NAO report warned Britain's food supply chain is vulnerable to plant or human disease outbreaks, cyber-attacks and extreme weather.\n\nIt also cited climate change as a longer-term chronic risk which could leave Britain's food supply at risk.\n\nThe disruptions could push up prices and leave vulnerable people struggling to buy food, it said.\n\nThe NAO said the Department for Food, the Environment and Rural Affairs (Defra) was too reliant on private companies to handle disruptions to food supply.\n\nIt added the department had not done enough in recent years to improve supply chain resilience.\n\nUK households are less prepared for emergencies than those in several other countries such as Finland, Sweden and European Union nations, the NAO added.\n\nIt said ministers should encourage households to prepare for supply chain disruptions and learn from the approaches taken by other countries.\n\nPublic to be told how to prepare for cyber-attack and weather emergencies Published 14 July\n\nEl Niño set to be 'strongest in living memory', says Met Office Published 21 August\n\nDefra said the report showed food supply risks were becoming more complex and the government was working with farmers and industry to strengthen the UK's resilience.\n\n\"While our food businesses and supermarkets have continued to feed the nation through significant disruption, we will carefully consider the report's findings and recommendations as part of our ongoing work to build a more resilient, productive and sustainable food system,\" a spokesperson said.\n\nIn July, the government announced plans to set out the \" small but important steps \" households can take to prepare for food and water shortages in the event of extreme weather or cyber-attacks.\n\nThese will form a strategy to be unveiled by the end of 2026 aimed at bringing the UK closer into line with European countries in terms of emergency preparedness.\n\nPhil Pluck, chief executive of the Cold Chain Federation, the body which represents firms transporting temperature-controlled foods, said Britain was \"pretty close to crisis\".\n\nHe told the BBC's Wake Up to Money programme that the country was being targeted by Russian cyber-hackers who \"know that there are pinch points in the food supply system\".\n\nHe added that El Niño, as well as global shipping disruption and the threat of pandemics, mean you cannot \"just rely on the private sector coming through every single time\".\n\nAsked whether people should be stocking up in case of disruptions, Pluck added: \"Yes, we should.\n\n\"There should be some sensible stocking in each household. And the government in the autumn will be telling all of us to do that.\"\n\nRelated topics\n\nFood industry",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1791,31 +1966,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217f/live/f0fd0860-a7e5-11f1-bdc6-1b02acdb53ea.jpg"
     },
     {
-      "id": "973eb6ab68b143ec",
-      "title": "What to know about the mail-in voting fight at the Supreme Court",
-      "summary": "The Trump administration has asked the Supreme Court to lift a temporary block on the U.S. Postal Service plan for President Trump's attempt to restrict mail-in voting for the midterm election.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
-      "source": "NPR Politics",
-      "publisher": "NPR",
-      "published": "2026-09-03T20:48:21Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 32,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5827x3944+0+0/resize/5827x3944!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2Fc5%2F2ec768ad4041ab136cf911ee00d0%2Fgettyimages-2280067128.jpg",
-      "imageAlt": "An election worker processes mail-in ballots in June in Industry, Calif."
-    },
-    {
       "id": "777aa2255061c955",
       "title": "US jobs report smashes forecasts; shares in Falklands oil explorers plunge as Argentina threatens sanctions – as it happened",
       "summary": "Rolling coverage of the latest economic and financial news, as US economy adds 162,000 new jobs in August US added 162,000 jobs in August, with unemployment rate holding steady It’s official, UK car sales jumped last month. New car registrations rose by 13.7% to 94,236 units in August, the Society of Motor Manufacturers and Traders has reported. Plug-in hybrid electric vehicles (PHEVs) posted the strongest growth, up 39.8% to account for 14.5% of registrations, while hybrid electric vehicles (HEVs) rose 26.3% with 12.7% of the market. Battery electric vehicles (BEVs) increased 27.7% to claim 29.8% of overall uptake. Continue reading...",
@@ -1840,6 +1990,31 @@
       "imageUrl": "https://i.guim.co.uk/img/media/6c202f240b628027d7ef93fc2206478c5785ae98/184_0_3585_2868/master/3585.jpg?width=700&quality=85&auto=format&fit=max&s=29152083b228bbb8a07242dff0fc1ad6"
     },
     {
+      "id": "973eb6ab68b143ec",
+      "title": "What to know about the mail-in voting fight at the Supreme Court",
+      "summary": "A federal judge has again blocked the U.S. Postal Service plan for President Trump's attempt to limit mail voting for the midterm election, as the legal fight drags on.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
+      "source": "NPR Politics",
+      "publisher": "NPR",
+      "published": "2026-09-03T20:48:21Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 30,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5827x3944+0+0/resize/5827x3944!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2Fc5%2F2ec768ad4041ab136cf911ee00d0%2Fgettyimages-2280067128.jpg",
+      "imageAlt": "An election worker processes mail-in ballots in June in Industry, Calif."
+    },
+    {
       "id": "d15ccfbd985d3a3e",
       "title": "Bond market turmoil eases, as Bank of England chief economist argues for interest rate rise – as it happened",
       "summary": "Rolling coverage of the latet economic and financial news Other European government borrowing costs are dipping this morning too. The yield on 10-year German bunds is down 1.5bps to 3.36%, while French 10-year bond yields are 1.5bps lower at 4.23%. Continue reading...",
@@ -1862,30 +2037,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/dec78de4dde1c7a8e455a1c0ae22063ce7128983/1002_0_4557_3646/master/4557.jpg?width=700&quality=85&auto=format&fit=max&s=3bce2dc94d9351936919d41fbc0cd24a"
-    },
-    {
-      "id": "fad3a3d67074f3db",
-      "title": "Watch: Trump $1 commemorative coin goes on sale",
-      "summary": "The US Mint began selling gold-coloured $1(£0.74) coins featuring President Donald Trump's likeness to mark the country's 250th anniversary.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/videos/cx2z0jn7450o",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-09-03T20:32:21Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc36/live/2d3e3ed0-a7d6-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "id": "f991b52d0131e510",
@@ -2106,6 +2257,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab6f/live/2a95d360-a78f-11f1-a291-b542ee92de7c.jpg"
     },
     {
+      "id": "a165dc1b7db0c4b3",
+      "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
+      "summary": "Middle East tensions have choked the production and transportation of oil, causing a surge in the price of car and jet fuels.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-09-05T01:03:35Z",
+      "category": "Economics",
+      "region": "Middle East",
+      "labels": [
+        "Economics",
+        "Middle East"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0f0/live/38040b40-a882-11f1-824a-0fc4c5d895ae.jpg"
+    },
+    {
       "id": "d65012f1c046a3c1",
       "title": "'A tough draw': Blue Jays befuddled by Williams' career night in Cleveland",
       "summary": "This feed supplied a headline but no article summary.",
@@ -2155,6 +2330,30 @@
       "imageUrl": "https://i.guim.co.uk/img/media/62c6dc63a027a4bd45e7f9a84a226e5215ede54b/295_0_3405_2724/master/3405.jpg?width=700&quality=85&auto=format&fit=max&s=504fa6133f5309a31ff98dad1b514604"
     },
     {
+      "id": "30caec02e3fe5341",
+      "title": "After 8 years, Europe's BepiColombo mission is on final approach to Mercury",
+      "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-09-04T22:49:17Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Mercury_Transfer_Module_separation-1152x648.jpg"
+    },
+    {
       "id": "b7ba749f64f26ed9",
       "title": "Kolisi urges Boks to channel spirit of Soweto to beat All Blacks",
       "summary": "Captain Siya Kolisi calls on the Springboks to summon inspiration from Soweto's pivotal part in South Africa's history as they host New Zealand on Saturday.",
@@ -2177,6 +2376,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ae/live/12edc420-a89d-11f1-8c81-cb0151e9fb14.jpg"
+    },
+    {
+      "id": "e5ef91c03ccdc0d4",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-09-04T22:17:36Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg"
     },
     {
       "id": "876efce8c7e61009",
@@ -2684,31 +2907,6 @@
       "imageUrl": "https://i.guim.co.uk/img/media/b143d110013688ded75d7534364cd8a8a2a5f766/0_48_4536_3628/master/4536.jpg?width=700&quality=85&auto=format&fit=max&s=c6176ed9ef5b70565ebdb006fe11a407"
     },
     {
-      "id": "b44bc4c4842cec7f",
-      "title": "Blue Jays have golden opportunity to tighten Wild Card race with Guardians",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/blue-jays-continue-postseason-chase-against-guardians",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-09-01T14:19:10Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "83d4cb733ad9b248",
       "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
       "summary": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
@@ -2829,6 +3027,29 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Fairphone-6-8-1152x648.jpg"
     },
     {
+      "id": "d71d661f77222b89",
+      "title": "US envoys to visit Russia, Ukraine with plan 'to end war'",
+      "summary": "Jared Kushner and Steve Witkoff are set to travel to Russia and Ukraine to revive peace talks. The trip would be the pair's first visit to Kyiv since US President Donald Trump's reelection.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/us-envoys-to-visit-russia-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-09-05T01:27:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 33,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "298093a5f8fb447f",
       "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
       "summary": "The PM said his government would be \"grounded in fiscal responsibility\" as he faced Kemi Badenoch at Prime Minister's Questions for the first time.",
@@ -2851,6 +3072,29 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1202/live/6e6ca9d0-a70b-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "id": "d68f1d01fdf112f9",
+      "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
+      "summary": "Al Jazeera’s Kimberly Halkett reports that US President Donald Trump is sending envoys Jared Kushner and Steve Witkoff.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-09-05T03:25:46Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "1dd359c173c580e6",
@@ -3045,6 +3289,30 @@
       "imageUrl": "https://i.guim.co.uk/img/media/8fd177c6dec6c088123aeb8605ffca7684dfc727/1078_196_3922_3139/master/3922.jpg?width=700&quality=85&auto=format&fit=max&s=47d1f49fdd630c0b160c017204739a77"
     },
     {
+      "id": "4a39927463b53dd5",
+      "title": "Improving Alcaraz underlines title credentials in wide-open draw",
+      "summary": "Defending champion Carlos Alcaraz underlines his US Open title credentials by sweeping aside Wu Yibing to reach the fourth round as the draw opens up further.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce8eglv5j83o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-04T22:37:42Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 26,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9919/live/e1bc5650-a8a6-11f1-b9ae-958b89fa84e3.jpg"
+    },
+    {
       "id": "a4d737ba5c8e84bd",
       "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
       "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
@@ -3093,14 +3361,37 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f62/live/3f93b840-a794-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "4a39927463b53dd5",
-      "title": "Improving Alcaraz underlines title credentials in wide-open draw",
-      "summary": "Defending champion Carlos Alcaraz underlines his US Open title credentials by sweeping aside Wu Yibing to reach the fourth round as the draw opens up further.",
+      "id": "cd8ec94915512219",
+      "title": "‘Small potatoes’: US President Trump downplays war on Iran",
+      "summary": "Trump tells reporters the US is 'not fighting right now' despite a recent exchange of fire with Iran.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce8eglv5j83o",
+      "url": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-09-04T23:55:50Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "315f321483e9838e",
+      "title": "'It's so strong' - Sabalenka halts play over cannabis smell",
+      "summary": "Aryna Sabalenka briefly halts her US Open match against Kamilla Rakhimova because of the smell of cannabis before going on to reach the fourth round.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c4gm2607p0zo",
       "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-09-04T21:54:12Z",
+      "published": "2026-09-04T22:08:20Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -3110,11 +3401,11 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 26,
+      "wordCount": 25,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9919/live/e1bc5650-a8a6-11f1-b9ae-958b89fa84e3.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc6/live/440984e0-a884-11f1-824a-0fc4c5d895ae.jpg"
     },
     {
       "id": "b591b1165939192d",
@@ -3139,6 +3430,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33fa/live/e43b3900-a8a6-11f1-b9ae-958b89fa84e3.jpg"
+    },
+    {
+      "id": "795087f19d2d11cb",
+      "title": "Richarlison omission not my decision - De Zerbi",
+      "summary": "Tottenham Hotspur manager Roberto de Zerbi says it was not his decision to leave Richarlison out of the club's Premier League squad.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-04T22:33:13Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b4f/live/74ac0e50-a7b8-11f1-b5cf-8556ae508a51.jpg"
     },
     {
       "id": "4d91861feff6859d",
@@ -3357,8 +3672,8 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985c/live/f13cd3e0-96f7-11f1-870d-5d08c49babb2.jpg"
     },
     {
-      "id": "9c1f93f833d3941b",
-      "title": "Leigh seal top-six spot to end Saints' play-off bid",
+      "id": "d579f2ce8cd22bf5",
+      "title": "Leigh seal top-six spot as St Helens fail to make play-offs",
       "summary": "Leigh Leopards secure a Super League top-six finish by thrashing St Helens, ending Saints' hopes of reaching the play-offs.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c4gv039e1kvo",
@@ -3386,13 +3701,13 @@
       "summary": "The Football Association's review into England's World Cup campaign will canvass the opinions of players involved in the tournament.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyr1ly8z4xo",
-      "source": "BBC News",
+      "source": "BBC Sport",
       "publisher": "BBC",
       "published": "2026-09-04T21:28:23Z",
-      "category": "Politics",
+      "category": "Sports",
       "region": "UK",
       "labels": [
-        "Politics",
+        "Sports",
         "UK"
       ],
       "sourceWeight": 4,
@@ -3687,29 +4002,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/d048308113bd2052b0c5f5328e94384b244eec27/0_440_1600_1280/master/1600.jpg?width=700&quality=85&auto=format&fit=max&s=5a2d0efcb3d74b309bd415f33005e215"
-    },
-    {
-      "id": "d3c711d7b4dc2b7f",
-      "title": "Trump calls Iran war ‘small potatoes’, compares US deaths with Vietnam war",
-      "summary": "US President Donald Trump called the Iran war small potatoes, saying only 18 Americans had been killed.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/4/09-04-trump-iran-war-small-potatoes-clip?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-09-04T20:22:42Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "b8bb6089f25b2568",
@@ -4071,30 +4363,6 @@
       "isBreaking": false
     },
     {
-      "id": "795087f19d2d11cb",
-      "title": "Richarlison omission not my decision - De Zerbi",
-      "summary": "Tottenham Hotspur manager Roberto de Zerbi says it was not his decision to leave Richarlison out of the club's Premier League squad.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-04T15:32:22Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 22,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b4f/live/74ac0e50-a7b8-11f1-b5cf-8556ae508a51.jpg"
-    },
-    {
       "id": "3865e370518d801e",
       "title": "Kiwi Christie chosen as Newcastle captain",
       "summary": "New Zealand flanker Tom Christie is chosen as the new captain of Newcastle Red Bulls, replacing hooker George McGuigan.",
@@ -4382,30 +4650,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg"
     },
     {
-      "id": "38f831637b1d3b01",
-      "title": "'Disappointing' & 'really sad' - no away fans at SPFL Old Firm games this season",
-      "summary": "There will be no away supporters for Celtic and Rangers derbies in the Scottish Premiership or Premier Sports Cup this season.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8x2j8kl3do",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-04T12:30:08Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5a/live/3da2e080-a85f-11f1-ae45-e9984fc27c77.jpg"
-    },
-    {
       "id": "795abd2bea9899bf",
       "title": "Surprise pacesetters & resurgent runs - five things to watch in the EFL",
       "summary": "Here are five key talking points before the weekend's Championship, League One and League Two action.",
@@ -4478,30 +4722,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e307/live/29bf9790-a853-11f1-80f8-c33181935c5a.jpg"
     },
     {
-      "id": "ddf75325b33c8f2e",
-      "title": "Liverpool target Minteh can still get dream move - Hurzeler",
-      "summary": "Brighton boss Fabian Hurzeler says Yankuba Minteh can still \"fulfil his dream\" move in future after the Seagulls turned down Liverpool's offers for the winger.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk5g2z3kyxo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-04T10:44:37Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 25,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccc2/live/154d4a80-a846-11f1-b3a7-d5de760fef6e.jpg"
-    },
-    {
       "id": "7c81796c55b984b8",
       "title": "Leeds and Wigan set for 'winner takes all' showdown",
       "summary": "Leeds and Wigan are set to meet in what is likely to be a \"winner takes all\" battle for the League Leaders' Shield at Headingley on Saturday.",
@@ -4572,54 +4792,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26bd/live/343e8a70-a6a3-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "id": "1e2f958308cef80a",
-      "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-      "summary": "Pro soccer team's CTO points to \"issues with the Broadcom takeover.\"",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-09-03T18:58:31Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 11,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tottenham-1152x648.jpg"
-    },
-    {
-      "id": "14965be5e53584d3",
-      "title": "Just like a fruit fly, a new algorithm never forgets old scents",
-      "summary": "Insect-inspired \"sparse coding\" does fast learning, avoids catastrophic forgetting.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-09-03T18:22:52Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 9,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1168455519-1152x648.jpg"
     },
     {
       "id": "48f012892f1293a8",
@@ -4787,182 +4959,13 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3531/live/d5c67b80-a790-11f1-b64a-71b1e45ff5c7.jpg"
-    },
-    {
-      "id": "ef932cb0bd67fc47",
-      "title": "Which franchise legend could be next to join Blue Jays' Hall of Excellence?",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/blue-jays-legends-who-could-join-hall-of-excellence",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-08-31T17:10:23Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "a64aa4e5157aa110",
-      "title": "How 'unique' Bellingham is thriving in Mourinho's system",
-      "summary": "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-04T08:08:53Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 26,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27e1/live/334893c0-a83a-11f1-b3a7-d5de760fef6e.jpg"
-    },
-    {
-      "id": "12380154ab69e19f",
-      "title": "From playing with Rashford to non-league and new career",
-      "summary": "Ten years after lining up with Marcus Rashford for Manchester United, Joe Riley tells BBC Sport about his new career - and why he does not miss full-time football.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjdvkn8y5gvo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-04T06:59:51Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 28,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4d0/live/1de54b70-a837-11f1-b3a7-d5de760fef6e.jpg"
-    },
-    {
-      "id": "5b93438dbc36cdab",
-      "title": "The handcyclist and model grabbing every opportunity after paralysis",
-      "summary": "Meet Callum Russell, the Great Britain handcyclist and model proving there can be \"an amazing life after injury\".",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/c70d4wg5l8go",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-04T08:00:55Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6f3/live/1c8bd230-a7c4-11f1-b5cf-8556ae508a51.jpg"
-    },
-    {
-      "id": "552ee2a337889d16",
-      "title": "Ukrainian quits college team over Russian signing",
-      "summary": "Ukrainian Kate Koval says she left Louisiana State University's basketball programme because of the team's decision to sign a Russian player.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/cgmr8ny1eeno",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-04T06:22:40Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e19/live/d0f7e060-a828-11f1-8df0-637638aa8773.jpg"
-    },
-    {
-      "id": "ebfdc331c20bb51a",
-      "title": "Households warned gas price spike could pile fresh pressure on energy bills",
-      "summary": "Experts warn low storage levels could push up gas prices further, leaving households with higher bills.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-09-03T13:26:54Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 16,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e55d/live/76f88ba0-a792-11f1-b64a-71b1e45ff5c7.jpg"
-    },
-    {
-      "id": "a0b50d54545fab02",
-      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-      "summary": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-09-02T01:23:00Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d389/live/9e6500a0-a62b-11f1-aed2-8d6da8d75094.jpg"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 34
+      "items": 38
     },
     {
       "source": "BBC Politics",
@@ -4992,12 +4995,12 @@
     {
       "source": "DW",
       "ok": true,
-      "items": 137
+      "items": 134
     },
     {
       "source": "UN News",
-      "ok": false,
-      "error": "not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 30
     },
     {
       "source": "The Guardian China",
@@ -5067,7 +5070,7 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 71
+      "items": 73
     },
     {
       "source": "BBC Rugby Union",
