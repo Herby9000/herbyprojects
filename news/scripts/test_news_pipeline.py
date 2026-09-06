@@ -75,6 +75,31 @@ class PipelineTests(unittest.TestCase):
         self.assertIn('white-space:nowrap', pill)
         self.assertIn('min-height:44px', pill)
 
+    def test_reader_close_control_stays_visible_and_accessible_while_article_scrolls(self):
+        news_root = Path(__file__).parents[1]
+        html = (news_root / 'index.html').read_text(encoding='utf-8')
+        css = (news_root / 'assets' / 'news.css').read_text(encoding='utf-8')
+
+        def declarations(selector):
+            start = css.index(selector + '{') + len(selector) + 1
+            return css[start:css.index('}', start)]
+
+        reader = declarations('.reader')
+        toolbar = declarations('.reader-toolbar')
+        close = declarations('.close-reader')
+        focus = declarations('.close-reader:focus-visible')
+        self.assertIn('overflow-y:auto', reader)
+        self.assertIn('position:sticky', toolbar)
+        self.assertIn('top:0', toolbar)
+        self.assertIn('padding-top:env(safe-area-inset-top)', toolbar)
+        self.assertIn('min-width:48px', close)
+        self.assertIn('min-height:48px', close)
+        self.assertIn('outline:', focus)
+        self.assertIn('<form class="reader-toolbar" method="dialog">', html)
+        self.assertIn('<button class="close-reader" aria-label="Close reader"', html)
+        self.assertIn('<svg class="close-icon"', html)
+        self.assertNotIn('>Close <span', html)
+
     def test_checked_in_edition_has_every_named_sports_filter(self):
         data = json.loads((Path(__file__).parents[1] / 'data' / 'news.json').read_text(encoding='utf-8'))
         sports = [story for story in data['stories'] if story['category'] == 'Sports']
