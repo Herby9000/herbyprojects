@@ -22,8 +22,11 @@ function element(tagName = '') {
     replaceChildren(...children) { this.children = children; },
     setAttribute(name, value) { attributes.set(name, String(value)); },
     getAttribute(name) { return attributes.get(name) ?? null; },
-    click() { for (const listener of listeners.get('click') || []) listener({ target: this }); },
-    dispatch(type) { for (const listener of listeners.get(type) || []) listener({ target: this }); },
+    click() { this.dispatch('click'); },
+    dispatch(type, event = {}) {
+      const dispatched = { preventDefault() {}, ...event, target: event.target || this };
+      for (const listener of listeners.get(type) || []) listener(dispatched);
+    },
   };
 }
 
@@ -121,8 +124,8 @@ function sportsButtons() {
 function openSectionStory(category, title = `${category} section story`) {
   topicButtons.find(button => button.dataset.filter === category).click();
   const list = sectionList();
-  const item = list.children.find(story => story.children[1].children[0].textContent === title);
-  item.children[1].children[0].click();
+  const item = list.children.find(story => story.children[1].textContent === title);
+  item.click();
 }
 
 async function run() {
@@ -148,7 +151,28 @@ async function run() {
   ]) assert.equal(['Rugby', 'Saracens', 'Blue Jays', 'Leafs'].some(filter => matches(nearMiss, filter)), false, 'no loose substring matching');
 
   const cards = elements.get('#top-rail').children;
+  const renderedTopStories = edition.topStoryIds.map(id => edition.stories.find(story => story.id === id));
   assert.equal(cards.length, 7, 'Today renders exactly seven cards');
+  assert.equal(cards.every(card => card.tagName === 'ARTICLE' && card.getAttribute('role') === 'button' && card.getAttribute('tabindex') === '0'), true,
+    'every Top 7 card is one keyboard-focusable control');
+  assert.equal(cards.every((card, index) => card.getAttribute('aria-label') === `Read ${renderedTopStories[index].title} in app`), true,
+    'every Top 7 card has a descriptive accessible name');
+  assert.equal(cards.every(card => walk(card).filter(node => node.tagName === 'BUTTON').length === 0), true,
+    'cards do not contain nested interactive controls');
+  cards[0].click();
+  assert.equal(elements.get('#reader-title').textContent, renderedTopStories[0].title, 'clicking anywhere on a card opens it');
+  reader.dispatch('close');
+  cards[1].dispatch('keydown', { key: 'Enter', repeat: false });
+  assert.equal(elements.get('#reader-title').textContent, renderedTopStories[1].title, 'Enter opens a focused card');
+  reader.dispatch('close');
+  cards[2].dispatch('keydown', { key: ' ', repeat: false });
+  assert.equal(elements.get('#reader-title').textContent, renderedTopStories[2].title, 'Space opens a focused card');
+  reader.dispatch('close');
+  elements.get('#reader-title').textContent = 'closed';
+  cards[3].dispatch('pointerdown', { pointerId: 7, clientX: 220, clientY: 40 });
+  cards[3].dispatch('pointerup', { pointerId: 7, clientX: 120, clientY: 42 });
+  cards[3].click();
+  assert.equal(elements.get('#reader-title').textContent, 'closed', 'horizontal swiping does not open a card');
   assert.equal(leadSection.hidden, false, 'Today shows Top 7');
   assert.equal(latestSection.hidden, true, 'Today hides latest container');
   assert.deepEqual(renderedCategories(), [], 'Today does not render section lists');
@@ -166,7 +190,7 @@ async function run() {
       button.click();
       assert.equal(leadSection.hidden, true, `${filter} production keeps Top 7 hidden`);
       assert.equal(sectionList().children.length, expectedStories.length, `${filter} production renders every match`);
-      const titles = sectionList().children.map(item => item.children[1].children[0].textContent);
+      const titles = sectionList().children.map(item => item.children[1].textContent);
       assert.equal(titles.every(title => allSports.filter(story => story.title === title).some(story => matches(story, filter))), true,
         `${filter} production has zero mismatches`);
       if (filter === 'Blue Jays') assert.ok(titles.length > 12, 'production Blue Jays displays more than 12');
@@ -175,7 +199,7 @@ async function run() {
     const editorialIds = edition.sectionStoryIds && edition.sectionStoryIds.Editorial || [];
     assert.equal(sectionList().children.length, editorialIds.length, 'production Editorial renders selected long reads');
     assert.ok(editorialIds.length >= 4, 'production Editorial is populated');
-    sectionList().children[0].children[1].children[0].click();
+    sectionList().children[0].click();
     assert.ok(elements.get('#reader-copy').children.some(child => child.textContent.length > 100), 'production Editorial opens readable body');
     reader.dispatch('close');
     console.log('Daily Seven production Sports and Editorial DOM assertions passed');
@@ -192,8 +216,11 @@ async function run() {
   topicButtons.find(button => button.dataset.filter === 'Editorial').click();
   assert.deepEqual(renderedCategories(), ['Editorial'], 'Editorial renders as a first-class section');
   assert.equal(sectionList().children.length, 1, 'Editorial renders qualified long reads');
+  assert.equal(sectionList().children[0].getAttribute('role'), 'button', 'section story card is interactive as a whole');
+  assert.equal(sectionList().children[0].getAttribute('tabindex'), '0', 'section story card is keyboard focusable');
+  assert.equal(walk(sectionList().children[0]).some(node => node.tagName === 'BUTTON'), false, 'section card has no nested button');
   assert.match(sectionList().children[0].children[0].textContent, /7 min read · 1,400 words available/);
-  sectionList().children[0].children[1].children[0].click();
+  sectionList().children[0].click();
   assert.deepEqual(elements.get('#reader-copy').children.map(child => child.textContent),
     ['First safe paragraph.', 'Second safe paragraph.'], 'Editorial opens its extracted body in app');
   reader.dispatch('close');
@@ -214,14 +241,14 @@ async function run() {
     assert.equal(topicButtons.find(candidate => candidate.dataset.filter === 'Sports').getAttribute('aria-pressed'), 'true', 'primary Sports remains active');
     assert.equal(leadSection.hidden, true, `${filter} keeps Top 7 hidden`);
     assert.equal(sectionList().children.length, count, `${filter} renders all matches`);
-    const titles = sectionList().children.map(item => item.children[1].children[0].textContent);
+    const titles = sectionList().children.map(item => item.children[1].textContent);
     assert.equal(titles.every(title => matches(sportsStories.find(story => story.id === title), filter)), true, `${filter} has zero mismatches`);
     if (filter === 'Blue Jays') assert.ok(titles.length > 12, 'Blue Jays is not truncated');
   }
 
   const leafsButton = sportsButtons().find(button => button.dataset.sportsFilter === 'Leafs');
   leafsButton.click();
-  sectionList().children[0].children[1].children[0].click();
+  sectionList().children[0].click();
   reader.dispatch('close');
   assert.equal(sportsButtons().find(button => button.dataset.sportsFilter === 'Leafs').getAttribute('aria-pressed'), 'true', 'reader close preserves filter');
   assert.equal(sectionList().children.length, 3, 'reader close preserves filtered list');

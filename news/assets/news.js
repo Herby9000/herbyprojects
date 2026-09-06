@@ -93,10 +93,37 @@
   reader.addEventListener('close', () => document.body.classList.remove('reader-open'));
   reader.addEventListener('click', event => { if (event.target === reader) reader.close(); });
 
-  function storyButton(story, compact = false) {
-    const button = el('button', compact ? '' : 'read-button', compact ? story.title : 'Read in app');
-    button.type = 'button'; button.addEventListener('click', () => openReader(story));
-    return button;
+  function makeStoryCardInteractive(card, story) {
+    let pointerStart = null;
+    let suppressNextClick = false;
+    card.setAttribute('role', 'button');
+    card.setAttribute('tabindex', '0');
+    card.setAttribute('aria-label', `Read ${story.title} in app`);
+    card.addEventListener('pointerdown', event => {
+      pointerStart = { id: event.pointerId, x: event.clientX, y: event.clientY };
+      suppressNextClick = false;
+    });
+    card.addEventListener('pointermove', event => {
+      if (pointerStart && event.pointerId === pointerStart.id &&
+          (Math.abs(event.clientX - pointerStart.x) > 10 || Math.abs(event.clientY - pointerStart.y) > 10)) suppressNextClick = true;
+    });
+    card.addEventListener('pointerup', event => {
+      if (pointerStart && event.pointerId === pointerStart.id &&
+          (Math.abs(event.clientX - pointerStart.x) > 10 || Math.abs(event.clientY - pointerStart.y) > 10)) suppressNextClick = true;
+      pointerStart = null;
+    });
+    card.addEventListener('pointercancel', () => { pointerStart = null; });
+    card.addEventListener('click', () => {
+      if (suppressNextClick) { suppressNextClick = false; return; }
+      openReader(story);
+    });
+    card.addEventListener('keydown', event => {
+      if (!event.repeat && (event.key === 'Enter' || event.key === ' ')) {
+        event.preventDefault();
+        openReader(story);
+      }
+    });
+    return card;
   }
   function renderTop(stories) {
     rail.replaceChildren();
@@ -113,8 +140,8 @@
       });
       frame.append(image, unavailable);
       card.append(frame, el('p', 'card-number', String(index + 1).padStart(2, '0')),
-        el('p', 'story-meta', meta(story)), el('h3', '', story.title), el('p', 'dek', story.summary), storyButton(story));
-      rail.append(card);
+        el('p', 'story-meta', meta(story)), el('h3', '', story.title), el('p', 'dek', story.summary), el('span', 'read-cue', 'Read in app'));
+      rail.append(makeStoryCardInteractive(card, story));
     });
     rail.setAttribute('aria-busy', 'false');
   }
@@ -153,10 +180,9 @@
       const list = el('div', 'story-list');
       categoryStories.forEach(story => {
         const item = el('article', category === 'Editorial' ? 'list-story editorial-story' : 'list-story');
-        const title = el('h3'); title.append(storyButton(story, true));
-        item.append(el('p', 'story-meta', meta(story)), title,
-          el('p', 'list-dek', story.summary), el('p', 'labels', (story.labels || []).join(' · ')));
-        list.append(item);
+        item.append(el('p', 'story-meta', meta(story)), el('h3', '', story.title),
+          el('p', 'list-dek', story.summary), el('p', 'labels', (story.labels || []).join(' · ')), el('span', 'list-read-cue', 'Read in app'));
+        list.append(makeStoryCardInteractive(item, story));
       });
       if (categoryStories.length) wrapper.append(list);
       else wrapper.append(el('p', 'empty-state', category === 'Editorial'

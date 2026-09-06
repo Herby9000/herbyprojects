@@ -98,13 +98,31 @@ class PipelineTests(unittest.TestCase):
         self.assertIn('env(safe-area-inset-left)', toolbar)
         self.assertNotIn('position:fixed', toolbar)
         self.assertNotIn('position:absolute', toolbar)
-        self.assertIn('min-width:48px', close)
-        self.assertIn('min-height:48px', close)
+        self.assertNotIn('min-height:', toolbar)
+        self.assertNotIn('border-bottom:', toolbar)
+        self.assertIn('min-width:44px', close)
+        self.assertIn('min-height:44px', close)
+        self.assertIn('border-radius:50%', close)
+        self.assertIn('border:1px solid', close)
+        self.assertIn('background:rgba(', close)
+        self.assertIn('box-shadow:', close)
         self.assertIn('outline:', focus)
         self.assertIn('<form class="reader-toolbar" method="dialog">', html)
         self.assertIn('<button class="close-reader" aria-label="Close reader"', html)
         self.assertIn('<svg class="close-icon"', html)
         self.assertNotIn('>Close <span', html)
+
+    def test_story_cards_have_pointer_and_keyboard_focus_treatments(self):
+        css = (Path(__file__).parents[1] / 'assets' / 'news.css').read_text(encoding='utf-8')
+
+        def declarations(selector):
+            start = css.index(selector + '{') + len(selector) + 1
+            return css[start:css.index('}', start)]
+
+        self.assertIn('cursor:pointer', declarations('.story-card'))
+        self.assertIn('cursor:pointer', declarations('.list-story'))
+        self.assertIn('outline:', declarations('.story-card:focus-visible'))
+        self.assertIn('outline:', declarations('.list-story:focus-visible'))
 
     def test_checked_in_edition_has_every_named_sports_filter(self):
         data = json.loads((Path(__file__).parents[1] / 'data' / 'news.json').read_text(encoding='utf-8'))
