@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-11T12:40:09.491332Z",
+  "generatedAt": "2026-09-11T12:45:07.526943Z",
   "topStoryIds": [
     "9a9259a7c33cf84f",
     "f401060a42a78c01",
@@ -34,6 +34,7 @@
       "a0e9533a807c68ce"
     ],
     "Sports": [
+      "3f678e8fd39853db",
       "fb47ebb7f7def005",
       "4645aa26efce406f",
       "556f37f145e49359",
@@ -44,8 +45,7 @@
       "1b9b6d6a01d41701",
       "cf19322b4a432ca7",
       "704bf2f85b2a122a",
-      "9ae96995e3f8a054",
-      "81a2fce46615e1d3"
+      "9ae96995e3f8a054"
     ],
     "Editorial": [
       "da478af2e96de762",
@@ -53,12 +53,10 @@
       "0aff3a79cf192613",
       "429c615ccc0c3253",
       "c1ae10ba4f279dd4",
-      "ebb251a22d41442e",
       "d7d11c61be123458",
       "c29726f90ef8d875",
       "e46bb5fde5e4db27",
-      "35ffe3b981669393",
-      "7ab4261e95e50acb"
+      "35ffe3b981669393"
     ]
   },
   "stories": [
@@ -482,6 +480,31 @@
       "imageHeight": 675
     },
     {
+      "id": "3f678e8fd39853db",
+      "title": "KELSEY CLIFFORD RE-SIGNS FOR SARACENS",
+      "summary": "SARACENS ARE DELIGHTED TO CONFIRM THAT KELSEY CLIFFORD HAS COMMITTED HER FUTURE TO THE CLUB FOR ANOTHER CAMPAIGN. A true homegrown talent, Clifford progressed through the Saracens academy pathway after starting out at Finchley RFC, and has gone on to become a key member of both her club and international sides, known for her strong […]",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://saracens.com/kelsey-clifford-re-signs-for-saracens-2/",
+      "source": "Saracens",
+      "publisher": "Saracens",
+      "published": "2026-09-11T09:05:00Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England",
+        "Rugby",
+        "Saracens"
+      ],
+      "sourceWeight": 5,
+      "focus": "Saracens",
+      "sourceType": "news",
+      "wordCount": 55,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "fb47ebb7f7def005",
       "title": "No plans for Ireland Six Nations game in US - IRFU",
       "summary": "There are \"currently no plans or discussions\" relating to Ireland playing a Six Nations match in the United States, the Irish Rugby Football Union (IRFU) says.",
@@ -761,32 +784,6 @@
       "isBreaking": false
     },
     {
-      "id": "81a2fce46615e1d3",
-      "title": "TWELVE SARACENS WOMEN NAMED IN WXV INTERNATIONAL SQUADS",
-      "summary": "Saracens Women will have twelve players representing three nations on the world stage this autumn, after England, Canada and Wales all named their squads for WXV this weekend. This weekend's clash between the Red Roses and Australia will be followed by fixtures across the UK, with the Red Roses coming face-to-face with Canada at Sandy […]",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://saracens.com/twelve-saracens-women-named-in-wxv-international-squads/",
-      "source": "Saracens",
-      "publisher": "Saracens",
-      "published": "2026-09-07T10:06:37Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Rugby",
-        "Saracens",
-        "England Rugby"
-      ],
-      "sourceWeight": 5,
-      "focus": "Saracens",
-      "sourceType": "news",
-      "wordCount": 55,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "da478af2e96de762",
       "title": "Nepal floods: how measuring snow in the Himalayas could help avoid future disasters",
       "summary": "The massive and deadly floods on the Nepal-Tibet border are a stark reminder of why the world needs to constantly update its understanding of the fragile ecosystem in the Himalayas. These towering mountains contain nearly 90,000 glaciers , which sustain ten major river systems. Countries nearby, including India, Pakistan, China, Afghanistan, Nepal and Bhutan, are reliant on water resources that cross borders here . As major river-based hydro economies, their agricultural production, energy security and wider economic stability depend on the availability and the timing of river flows. Changes in snowmelt, glacier retreat and water availability can cause untold hardship for millions of people relying on it. It can also create incredible danger as seen in August 2026, when a flash flood caused by a collapsed glacier washed away villages, bridges and roads on both sides of the Tibet-Nepal border, killing more than 1,000 people. Understanding and measuring winter snowfall in these regions is exceptionally important. It is the main source of freshwater when it is released by snow melting during the region’s warm and early-summer crop growing seasons, when local communities need it most. Read more: Nepal-Tibet disaster linked to climate change – a glaciologist explains Understanding future Himalayan hazards No one knows precisely how much water the mountains currently provide, and how this will change. This knowledge gap also hinders our understanding of the occurrence of geo-hazards including avalanches triggered by extreme snowfall events and flooding caused by the rapid melting of snow. The recent Nepal disaster could be related to a spell of unusually warm weather. This may have weakened the snowpack creating a rapid melt. I work with a team of glaciologists at the British Antarctic Survey, whose team had sensors six miles (10km) away from the site. Results suggest that enhanced melting could have introduced water into the crevasses weakening the ice-rock connections. Studies project that roughly half of the glacier ice in the Himalayas (equivalent to about two billion Olympic swimming pools) could melt by the end of this century – enough to raise sea levels by over a centimetre but there is still considerable uncertainty in these projections . This is because we do not have enough measurements of snowfall and ice across large areas in this challenging…",
@@ -915,31 +912,6 @@
       "body": "Shutterstock\n\nThe National Endowment for Democracy (NED) was established 43 years ago this November. Signed into law by President Ronald Reagan on the heels of his 1982 Westminster Address to the British Parliament, the NED was the embodiment of the president’s pledge:\n\nto foster the infrastructure of democracy – the system of a free press, unions, political parties, universities – which allows a people to choose their own way, to develop their own culture, to reconcile their own differences through peaceful means.\n\nAs the detente of the 1970s collided with the Soviet Union’s 1979 invasion of Afghanistan and communist inroads in Central America, the NED was a key pillar of the Reagan Doctrine’s more aggressive approach to confronting the Kremlin, ideologically and militarily. Combined with covert support to “freedom fighters” and an expensive arms race, the doctrine ultimately contributed to the collapse of the Soviet Union. From the start, the NED enjoyed bipartisan support, emerging from a growing consensus that the West was losing ground in the global battle of ideas.\n\nThe fall of the Berlin Wall a generation ago and the integration of Eastern Bloc member countries into the Western European order, including democratic elections and capitalist-style economies, would seem to have validated the NED’s creation but also reduced its urgency. The ideological sway of communism was vanquished and with it the specific threat it once posed to the United States and its allies.\n\nThe Cold War may have ended, but it has been replaced by a multipolar array of threats challenging American interests from climate change to a global competition for the natural resources driving the world’s economy. Authoritarian governments, sadly, have persisted, and even seem to be making a comeback, but the political consensus in Washington that once underpinned the projection of American ideals and values in response has not. So whither the NED in 2026 and beyond?\n\nDespite drastic cuts by the Department of Government Efficiency (DOGE) to U.S. foreign assistance and the dismantling of much of the institutional architecture behind it, the NED has managed to survive with a 2026 budget of just over $310 million, thanks to supporters in Congress. To neglected communities across the country, this may be an enormous sum, even if just a drop in the bucket of the U.S. government’s overall outlays estimated this year to be $7.4 trillion . But the current NED budget is only a fraction of what the U.S. previously spent annually on supporting democracy and good governance abroad.\n\nTo the NED family of organizations, in particular the International Republican Institute (IRI) and the National Democratic Institute (NDI), the impact of DOGE cuts to USAID and State Department funding of democracy promotion was nothing short of catastrophic. IRI, my old organization, terminated 85 percent of its staff worldwide in 2025 and closed most overseas offices, as USAID and State Department funding cuts saw 70 percent of its bottom line wiped out overnight.\n\nIt had been argued that NED was duplicative, given the similar mandates and larger budgets of various U.S. government agencies, including USAID. In the wake of DOGE, the sources of external redundancy have arguably been reduced. But what about internal redundancies? One of the more widely spoken critiques of the development sector was that far too high a percentage of “foreign” assistance never left American shores. This was a valid point as it related to organizations operating on a for-profit basis, of which there were many in the sector. NED, a non-profit, was different, but circumstances have now changed.\n\nAs the NED core institutes absorbed the impact of DOGE’s cuts in 2025, one consequence has been the increasing percentage of the NED allocation now servicing the rents of the five DC offices and executive salaries of the NED and its independently-operating core institutes, affiliated with the Democratic and Republican parties, the business sector, and organized labor. Such mortgages, reflecting previous times of plenty, come at the expense of the NED’s very mission of “advancing freedom worldwide” since less remains for its intended purpose abroad. There has also been a real human cost in maintaining a structure that may no longer be built for purpose: the pink-slipping of hundreds of staff.\n\nWith consensus in Congress and Middle America regarding the value of promoting American values overseas eroding, and with the NED core institutes ever more dependent on a single appropriation from Congress for just their respective Washington, DC-based operations, perhaps it is time for a reset or, at least, a reassessment.\n\nAfter 43 years, what are the current challenges facing democracy and economic prosperity around the globe and what, if any, is the role of the NED in responding to them? Is its form and function still adequate to the task? Can congressional consensus be revived and the American electorate convinced of NED’s value?\n\nContinuing to fund the NED and its components parts without answering these questions assumes that American taxpayers have unlimited tolerance for how the federal budget is spent or that such taxpayers will fail to notice and question the disconnect between politicians who decry foreign assistance yet continue to appropriate tax dollars for it. It would also assume that NED’s expenditures would be effective in advancing the causes of democracy and human rights abroad in the absence of a supportive U.S. foreign policy framework.\n\nThe bottom line is that public engagement on the issues at stake is long past due. That holds for those who believe in the mission of the NED as well as for those who may not know what the NED is (i.e., the majority) but who support the protection of human rights and democracy oversea. It also applies to those in Congress who continue to allocate funding for the NED as if on a 43-year-old autopilot setting. Such engagement would also help answer the more critical question of whether what the NED is ostensibly advancing abroad still reflects the values and ideals that the U.S. government espouses at home.\n\nShare this:\n\nPrint (Opens in new window) Print\n\nTweet\n\nShare on Bluesky (Opens in new window) Bluesky\n\nEmail a link to a friend (Opens in new window) Email"
     },
     {
-      "id": "ebb251a22d41442e",
-      "title": "Review: A Vision of a Future Where Machines Fight Wars",
-      "summary": "In “Lethal Autonomy,” Frank Kendall, a former top defense department official, envisions a military future where vehicles and weapons operate largely on their own — including making some decisions to strike people or infrastructure. And in his view, conflict is coming to space, making it all more urgent.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://undark.org/2026/09/11/book-review-lethal-autonomy/",
-      "source": "Undark",
-      "publisher": "Undark",
-      "published": "2026-09-11T07:36:32Z",
-      "category": "Editorial",
-      "region": "World",
-      "labels": [
-        "Editorial",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "editorial",
-      "wordCount": 1641,
-      "readingMinutes": 8,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://undark.org/wp-content/uploads/2026/09/GettyImages-2264957955_crop.jpg",
-      "body": "Former Defense official Frank Kendall envisions a battlefield where vehicles and weapons operate largely on their own.\n\nTop: In Kyiv, Ukraine, FPV training drones — which have human operators — are seen on a wall at the Killhouse Academy drone training center on March 4, 2026. Visual: Chris McGrath/Getty Images\n\nT welve years ago, Frank Kendall, then under secretary of defense for acquisition, technology, and logistics at the Department of Defense, pulled up a PowerPoint slide to show a group of senior military officials who deliberate over budgets. It showed the choices he thought the military had to make in space, since China and Russia were working on weapons to take down American satellites that provide everything from intelligence to communications to navigation.\n\nThe country, Kendall said, could either keep building the relatively few hyper-expensive satellites of yore, easily attacked and hard to defend; dream up a more resilient satellite infrastructure; or lean back from dependence on satellites. “Business as usual was not a viable choice,” Kendall writes in “ Lethal Autonomy: The Future of Warfare Whether We Like It or Not ,” an account of a military future where vehicles and weapons operate largely on their own — including making some decisions to strike people or infrastructure. Spacecraft, living in orbit as they do, already work more independently than other systems.\n\nBOOK REVIEW\n\nUltimately, a study recommended reimagining military space, primarily through creating smaller, cheaper satellites that collaborate and can continue their job if a few are taken out, or can be relaunched quickly. The military is still working on that plan, and in Kendall’s view, it’s necessary: Conflict is coming for space.\n\nConflict, though, is also changing on the ground, and should change even more, Kendall’s book argues. “We are living in an age of exponential technology development that is certain to have a profound effect on how any future conflicts will be fought,” he writes. “We are also living in an age in which a brief period of American dominance in conventional warfare may be coming to an end.”\n\nThe U.S. must change to maintain military superiority, Kendall argues, and in the book he lays out a way to reconstitute a military focused on what the book’s title implies: vehicles and weapons that can operate mostly on their own, able to take lives and destroy other robots and infrastructure, while also saving human lives by subtracting soldiers from the battlefield.\n\n“I continue to believe that the appropriate response is to master technological change rather than resist it,” writes Kendall, who was secretary of the Air Force from 2021 to 2025. But the issues of whether that mastery is something U.S. residents and the military want, whether it’s ethical, and how such a shift would change the nature of war, aren’t settled yet.\n\nKendall envisions a future where vehicles and weapons operate largely on their own — including making some decisions to strike people or infrastructure.\n\nAs innovations like self-navigating technology and automated image analysis have increased, the ability for weapons to kill or destroy under their own power has become a nonfictional reality. According to Kendall, the U.S. military has been reluctant to embrace and move forward with those possibilities.\n\nThere are many arguments against lethally autonomous weapons: flaws in targeting, the potential for rogue behavior, and a lack of accountability for such mistakes. But humans also make those mistakes. “Is there some good reason,” Kendall argues, “why we’d prefer that humans kill and be killed in war as opposed to machines assuming these functions?”\n\nAfter all, he continues, history is full of unpleasant tasks being relegated to machines. “It may sound fanciful, but if we have to resolve our conflicts through competitive violence, why not let our machines do that for us?” he writes. “This might strike some as ridiculous, but what is really ridiculous to me is that we still have a preference for sending humans out to kill each other to resolve our differences.”\n\nIf weapons systems are as reliable or more reliable than humans in war, and if human officials are held accountable when machines make mistakes, there is, Kendall argues, an ethical case for a largely robotic military, aided by humans.\n\nIn “Lethal Autonomy,” Kendall lays out what such a bot military would look like. The book is not pleasure reading — it parses more like a how-to manual. It’s structured according to how different domains of the military would look, were it not centered around human combatants, then laying out the complications in each case. Its pages seem meant primarily for military strategists or those interested in the details of that strategy, and also, likely, as a warning for those in other countries, who can also buy books and see how retired American leaders envision the future of the world’s most powerful military.\n\n“I continue to believe that the appropriate response is to master technological change rather than resist it.”\n\nOn land, for instance, Kendall envisions crewless aerial systems that can take off and land vertically. These drones, working together in small units, gather data for automated decision-making, detecting and identifying things the data suggests they should destroy, and then doing so. They’re launched from a driverless ground vehicle that itself contains units of such aircraft.\n\nThe ability to identify appropriate to-be-destroyed objects and people, while avoiding collateral damage, Kendall writes, should be testably at least as good and probably better than human-driven intelligence. And it wouldn’t be suitable for all situations — a no-go for, say, a place where children are throwing grenades. In that case, a remote human could get involved; in most of Kendall’s plans, in fact, humans retain some decision-making power.\n\nOn the sea surface, Kendall asks for the military to rethink what big ships are even for, since airplanes, satellites, and oceanic monitoring stations can do surveillance, and because land-based weapons can now reach enemy navies.\n\nUnder the ocean, Kendall believes crewed submarines are not long for this world, as new detectors make it harder for them to stay stealthy. “Time and technology do not seem to be on the side of the submarines,” he writes.\n\nInstead, Kendall suggests groups of medium-sized autonomous, stealthy subs that can engage an enemy’s submarine together, and — unpeopled — take more damage without loss of life while doing damage.\n\nKendall’s true expertise, though, flies through the air. When he was secretary of the Air Force, he initiated the Collaborative Combat Aircraft program, which is developing drones that autonomously fly next to piloted fighter jets and can take direction from the nearby pilot. It’s a start, but Kendall depicts a future with even fewer pilots — focused partly on “unmanned stealthy tactical aircraft” that can take off without long runways and work together.\n\nThe difficulty there, he notes, is that automated flight systems are mostly used and will continue to be developed in a commercial or peace-like context. “Combat-related automated behaviors will be much harder to verify,” he admits.\n\nIn the air, in and on the sea, and on land, Kendall’s ideas for a robot military are obviously different from the status quo. But they also are basically new versions of conventional warfare. Where “Lethal Autonomy” gets truly interesting is when it veers into orbit, a place Kendall also oversaw in the 2020s since the Space Force is overseen by the Department of the Air Force.\n\nSpace, as noted, is pretty autonomous already. But so far, there hasn’t been much lethality in orbit. And there, lethality means killing capabilities that are key to life on Earth, harming satellites that provide essential data, communications, and navigation.\n\nThe country, in Kendall’s view, should be space-lethal to adversaries’ satellites when necessary, and able to protect its own spacecraft from attacks. For the former, he recommends anti-satellite weapons; for the latter, perhaps a wartime reserve of satellites, ready to launch at a moment’s notice if something bad happens to their cousins.\n\nThe book’s final, and even less conventional, domain is cyber, where Kendall explores the idea of a new, focused, and independent organization. “Unlike everything else I’ve discussed so far for other domains, where autonomy removes emotion from the equation, this form of future warfare is all about psychological impact on the enemy’s population and leadership,” he writes.\n\nThe effectiveness of different kinds of attacks would be different in different countries. In China, for instance, the government is concerned about control of information. Decisions about what’s most effective could be helped by an “AI-aided psychological analysis of the targeted society and leadership.”\n\nThat, for sure, sounds dystopian. But so does a group of men sitting in a stuffy conference room deciding on operations themselves, as has happened for much of military history.\n\n“I hate war,” Kendall writes. “It is the most wasteful and cruel of human endeavors.”\n\nFlying, floating, submerging, orbiting, rolling, killing machines sound dystopian too. But Kendall’s implied counterpoint has a point: Does a world full of similar vehicles operated by young people, making their own lethal decisions or carrying out those made above them, sound less dystopian — or just more familiar?\n\nIn some ways, the concept of an autonomously lethal military demonstrates the ridiculousness of war: Machines owned by one country assert dominance over another country by killing its machines and people, demonstrating a power that perhaps has nothing to do with the substance of the actual conflict.\n\nAnd, in that, Kendall would agree with you. “I hate war,” he writes. “It is the most wasteful and cruel of human endeavors.”\n\nIn fact, he ends the book with the hope that his blueprint is not needed “and the future of warfare is a null set.”\n\nWhere might machine-on-machine conflict take us? Kendall asks near the end of the book. “Perhaps the folly and irrationality of using violence to resolve our differences will become clearer and more compelling,” he writes. “I fear, however, that the result will be the opposite.”"
-    },
-    {
       "id": "d7d11c61be123458",
       "title": "Washington Didn’t Remake the Middle East",
       "summary": "And business deals cannot define the region’s future. The post Washington Didn’t Remake the Middle East appeared first on Foreign Policy In Focus .",
@@ -1037,31 +1009,6 @@
       "isBreaking": false,
       "imageUrl": "https://noemamag.imgix.net/2026/09/test1.jpg?fm=pjpg&ixlib=php-3.3.1&s=25ea4da470e9d3281b697317438dd55d",
       "body": "The Simplified Chinese Internet ran on reward and punishment. LLM training feels uncomfortably familiar.\n\nAfra Wang is a California-based writer and journalist who focuses on technological modernity through a humanistic lens, spanning China and Silicon Valley in the global AI age. She writes concurrent.blog and is a frequent contributor to many outlets.\n\nEditor’s Note: Noema is transparent about AI use in its pieces. We publish original human-generated ideas but allow authorized, disclosed use of AI in certain cases. Please see details at the end of this piece.\n\nDuring a dark stretch of Covid, I dove into Joan Didion’s “ The Year of Magical Thinking,” her book about processing her husband’s death. Didion wrote that she could not give away his shoes. She had managed the suits, the shirts, the jackets. But when she got to the shoes, she paused: “I stood there for a moment, then realized why: he would need shoes if he was to return.”\n\nI was living in solitude in an apartment recently emptied by a long-term relationship. When the rental lease lapsed, I renewed it and renewed it again, keeping the furniture exactly as it had been, the lamp at the same angle. What Didion was dealing with was, in Orwell’s words , “the recognizable experiences of human beings.” Through her writing, I felt relief wash over me as I suddenly saw my own stalled life right under my nose.\n\nWhat many readers come to Didion for — what I went to her for — is the record of a mind at work on its own chaos, a way of processing thought, of handling the formless weather in the head. I love watching her spill it all out, like discovering the neighbors’ house is total chaos, and feeling assured that no one’s life is truly put-together.\n\nBeing gripped by the experiences evoked by writers like Didion could be a survival trait, shaped over countless years of evolution. The psychologist Bruce Hood argues that we are a self-domesticated species: Over roughly a thousand generations, human beings have favored cooperation and sociability as traits in our mates and allies. In doing so, we rewired our brains to read, track, mimic and crave other minds. We have been self-domesticating, Hood writes, “through the invention of culture and practices that ensure that we can live together,” and eventually win the evolution game. To be gripped by another person’s inner life is old equipment built into us.\n\nSocial media is a product of this ancient urge, a machine for exercising our interest in other humans at a scale evolution never planned for. But what happens when we learn that this other human, or this “recognizable experience,” has been artificially generated by an LLM? Maybe this is why the counterfeit cuts the way it does. AI slop feels like betrayal. There is this haunting feeling when you lean toward a face and then find only a mask, with no person behind it.\n\nAnd this feeling is probably one reason people have become obsessed with running the words they read through Pangram, a tool to detect AI writing, or other such detectors. Almost every writer I know has some visceral repulsion at the tells — “tapestry,” “crystallize,” “delve,” or “it’s not X, it’s Y” — that low-effort, overfitted register. Probably no one online reacts more violently than the British writer Sam Kriss, in an essay titled “If you let AI do your writing, I will come to your house and kill you”:\n\nI hate it. I find it viscerally disgusting; a cold shudder like someone’s poured jelly down the back of my neck. I hate that it’s everywhere; I hate that when I read basically anything now I’m constantly on alert, twitching like a schizo in an underpass. Is this thing really what it says it is? Is this person actually a robot in disguise? Nice little personal essay you’ve got there, lady, but I know what you really are; time to get my knife out, time to start digging around under your skin until I find the wires.\n\nThis urge — when a sentence feels off, and you must dig beneath its skin to find the wires — might be familiar to you. At a conference not long ago, I watched Chris Best, Substack’s chief executive, and Oliver Habryka, who runs the rationalist forum LessWrong , discuss this disturbance. Both platforms, in their early days, were built on the assumption that a reader can trust the writing in front of them to be authentic and human (and distinctive from institutional writing). Today, that assumption no longer holds.\n\nLessWrong now requires its writers to disclose when they have used AI. As of publication, Substack has also recently launched a feature using Pangram-style detection to reduce “Claudefishing,” so readers don’t “unwittingly invest their attention in something with no human thought on the other end.” Everyone seems exhausted by the constant tax of suspecting AI behind every sentence. The tech industry’s actions and inaction (LinkedIn, for instance, has become a dumpster of AI slop people laugh at) reflect a growing backlash against soulless slop.\n\n“AI slop feels like betrayal.”\n\nI, too, have struggled with anger over sloppy AI writing that has made me viscerally uncomfortable. My reactions can be a little pathological: I fanatically delete my own em dashes, and I once even mistakenly thought a few sentences a writer friend wrote were AI-generated. But I also must confess to my own relationship with AI: Because English is my second language, I rely heavily on Claude as a grammar checker— to smooth the bumps in my sentences and remove the ESL flavor. I used to have a somewhat cringy analogy to describe writing in English: installing a pair of mechanical wings. These wings carry me to vast terrains and audiences I couldn’t reach before, even though they sometimes feel artificial. AI makes those wings less heavy, but more not-entirely-me. So when I do get angry at AI writing, I also try to understand where the anger comes from — and then I wonder how angry I am allowed to be.\n\nEscaping The Simplified Chinese Internet\n\nFor a long time, I felt trapped in my mother tongue after I left China at the age of 17. More precisely, I mean a particular kind of language born out of China’s enclosed internet. It is a strange language that sticks with you — long since severed from the depth and philosophical richness of Chinese — tamed and flattened by years of shrinking space for discussion and infested with algorithm-favored brevity.\n\nOut of self-mockery and sympathy, people coined a term, the “Simplified Chinese Internet” (简中互联网). It is a phrase that immediately suggests crippled thoughts, one-dimensional topics, evasively coded slang that dodges censorship yet means nothing, alongside advanced infrastructure and intense scrutiny. It was the Simplified Chinese internet itself that I wanted to escape. And the language used on it can be understood as the product of a long reward-and-punishment environment that resembles today’s LLM training. Over time, even the most creative and rebellious minds are tamed and overfitted, until they can only produce “acceptable” continuations — for public “safety.” Of course, precisely because the “Simplified Chinese Internet” is constrained and censored, it can sometimes inspire strange, ingenious ways of expressing discontent. The 2022 “White Paper” protests are a perfect example: Demonstrators opposed Zero-COVID by holding up blank sheets of paper, because the state (and the algorithms) can’t censor emptiness. But such cleverness is not a credit to censorship itself, or evidence that authoritarian control doesn’t suffocate creativity and self-expression. That conclusion would be utterly wrong. In reality, most of those who are “unsafe” simply left the “Simplified Chinese Internet” long ago or became idle.\n\nThat kind of creative poverty makes me think about LLMs’ inability to be original writers. In the past couple of months, many people using LLMs to write stories have noticed a strange effect : a disproportionate number of stories about lighthouses, clockmakers and librarians — and these stories would always feature a protagonist named “Elias Thorne.” Elias’s name now turns up everywhere: on self-published Amazon books, fake news sites and YouTube videos. It’s a typical phenomenon of model collapse — a failure state where a model produces repetitive, low-diversity outputs. One unverified guess is that alignment makes LLMs prefer the “safest” options during post-training, which steers them from saying things that are low-reward (inappropriate content, copyright infringement, etc.). An LLM will avoid every possible minefield and choose outputs that maximize the reward within its system parameters, so we’ll end up with a story about a lonely Elias Thorne living in a lighthouse at the edge of the world. It’s almost like asking an 18-year-old Chinese student to tell a story on a test: the result is a cookie-cutter lineup of Lu Xun, Helen Keller, Madame Curie, Qian Xuesen and Du Fu — morality-driven, legible packages that reliably earn a good Gaokao score .\n\nBut we wicked human beings, especially in creative fields, are very good at working against all of the above. As writer Celine Nguyen said , “the core obligation of the artwork is to move me, not to make itself legible to me.” What great writing might never come to be in a reward-and-punishment regime solely intent on maximizing the score? I learned the answer to that, oddly enough, in childhood with the 19th-century French poet Baudelaire.\n\nI am still amused and haunted by that accidental childhood encounter with his Gothic and sinful poems on death, hell, sex and decay in “Les Fleurs du mal,” or “The Flowers of Evil.”\n\n“Precisely because the ‘Simplified Chinese Internet’ is constrained and censored, it can sometimes inspire strange, ingenious ways of expressing discontent.”\n\nI was probably 8 or 9, reaching up to the lower shelf of my father’s bookcase in our home in Taiyuan, in northern China, looking for something less childish to read. The cover had convinced me the book was about some Greek heroes and European adventures. It was a small, old book, brittle-paged, translated by scholar Guo Hong’an. My father, who I suspect never read Baudelaire closely himself, only told me the poet was a great man. “A Western master, like Shakespeare, Dickens, Victor Hugo. A classic!” He said it with reverence, and with the delight of a father whose daughter had reached for the West so young. Read Noema in print.\n\n“Quote his lines in your homework essays next week , ” my father suggested . And so, without warning, I walked into Baudelaire’s imagination before I knew what “Western master” meant, and the most intrusive, alienating passages imprinted themselves on me — in a Chinese translation that was both beautiful and terrifying.\n\nMy father — a trend-chasing magazine editor in northern China, longing for America and liberalism — had bought the book in his early 20s, during one of PRC’s rather open, pluralistic stretches, when the country allowed itself to discuss Baudelaire in daylight. Through the Cultural Revolution, when the only safe-to-read book was Mao’s “Little Red Book,” the literary establishment took its cue from Soviet doctrine and filed Baudelaire’s writings under the decadence of late, rotting capitalism; to read him was heresy, a “poison” of degeneracy.\n\nAnd yet he survived, passed hand to hand in secret by underground readers in Beijing, Shanghai, even in the steep mountains of Chongqing. Bei Dao, an iconoclastic poet my father once admired, has written about what those smuggled poems meant in the dark times: We scavenged together for Baudelaire’s scattered poems, as if looking for a needle in the sea, and copied them down carefully and neatly into notebooks. For the Beijing underground literary world, such samizdat was a kind of spiritual guide.\n\nMany years later, now living in California, I can still describe that childhood afternoon in China with “ Les Fleurs du mal” as a terrifying, exciting, gut-wrenching ride. Those poems are about blood-sucking vampires and sexual desire and rotting corpses and a seductive woman decaying into a gruesome pile of bones by the roadside. They were nothing like the Chinese children’s books, nothing like my textbooks, nothing like any Western classic I’d been handed. I knew enough to understand I was reading something forbidden, something that had slipped through a crack and that my father would probably take it back the moment he realized what it was.\n\nI never did take my father’s advice and quote Baudelaire in my homework. It took me a while to scrub the shock and the shame of reading him out of my head. His deeper hold surfaced only in adulthood, and only years later. Only once I had read more widely did I understand what he actually was. All that moral trespass, he had poured into the strictest inherited forms of French verse (the alexandrine, the quatrain, the sonnet). Inside those orderly meters the reader does not find the themes the form trains you to expect. Shock is the point.\n\nBaudelaire was prosecuted the instant “Les Fleurs du mal” appeared, in the summer of 1857 — charged by French authorities with both blasphemy and what the court called an outrage to public decency; he was convicted for indecency, and six of his poems were ordered removed from the book. Condemned in Paris; then, a century on, condemned again by Maoist orthodoxy as bourgeois rot. He resurfaced in the loosening China of the 1980s and ’90s and was collected by hungry liberal young men like my father, who mistook the most subversive 19th-century book in our house for Western canon.\n\nStrangely, AI is what recently sent me back to Baudelaire. Against all that balanced, polished and polite prose written by machines using a mixture of statistical centrality and learning from human feedback scores, I found myself missing Baudelaire — missing the bookshelf, the second one down, which stayed faintly sinful for years. Baudelaire spiritually represents the edge cases the LLMs are trained against.\n\nGood Taste?\n\nMy friend Jerry Zhou, who worked on LLM training at Microsoft AI, told me a model is like a single person, and millions of people around the world are all asking that one person questions. If the questions are similar, the answers converge. And unless you intervene at the level of the LLM weights or training objective, you should never expect this person to surprise you, and especially not shock you.\n\n“Baudelaire spiritually represents the edge cases the LLMs are trained against.”\n\nClaude’s own “ Constitution ,” a document some 80 pages long that teaches the model how to behave, instructs it to be “genuinely good, wise, and virtuous”: to be tactful, helpful, graceful, honest and, above all, to “help people in the way a good person would.” And I wonder whether today’s Baudelaire archetypes, those writers and artists out there, would ever want to create what a “good person” would create. To many, I suspect the phrase itself might insult their craft or be stultifying.\n\nI keep returning to a line from Simon Schama’s “The Power of Art.” It is the book’s first sentence: “great art has dreadful manners.” Schama, a historian at Columbia University, tells us that art is a “thug,” “merciless and wily.” It will “grab you in a headlock, rough up your composure, and then proceed in short order to re-arrange your sense of reality.”\n\nI admit it is unfair to expect every writer and artist to be as provocative as Baudelaire. But that episode from my childhood formed an early conviction: that greatness can arrive in the margins, be deemed unsafe and still elude any empirical measure. That a “Western master” need not be a Dickens or a Hugo , one of those virtuous authors who “care for the proletariat and the downtrodden,” as PRC curriculum prefers. He can just as well be a man condemned, across more than a century, by the French courts and Maoism alike.\n\nThat afternoon, after I slid Baudelaire back onto the shelf, I went to my desk and finished my homework. In the years after, I must have written countless essays, all of them obedient to the specifications of the Chinese education system, perfectly legible to my teachers. Neither they nor I would remember a single one. Even now I am still trying to unlearn the muscle memory those schools and the Simplified Chinese internet drilled into me.\n\nPosterity’s verdict on Baudelaire is that he is the last poet of French classicism and the first of French modernism. That evil book would, many years on, make him the father of French Symbolism. Nearly 100 years later, on May 31, 1949, the judgment against him was formally overturned, and the six banned poems were returned to print in France. The great 20th-century critic Walter Benjamin called him the forerunner of the modern poet, locked in a life-or-death struggle with the urban commodity capitalism then rising in an industrializing Paris — one that no one yet knew how to describe. In an old France without Baudelaire, no one had the language for the new urban reality that modernity had produced. Baudelaire, however, displayed what Benjamin described as the “shocking, raw immediacy of his sense impressions” of that reality, which is full of sensations of modernity like prostitutes, mud, gaslight, jostling crowds and perpetual alienation.\n\nIn a mercantile Paris, who needed what Benjamin called “a ragpicker who gathers up the city’s detritus only to turn it into poetry”? Who could have imagined that this ragpicker would become a representative figure of modernity’s decay? The blind spot the researcher Zhengdong Wang names in judging what an LLM can do, in an essay on AI evaluation , is a blind spot in human society too: “We don’t even know what we really want until we see it, at which point it may change.” Yes, the world didn’t know it wanted a Baudelaire, for a long time, until it understood him . The old coordinates, like the French state that prosecuted Baudelaire and took his 50 francs, can neither permit nor comprehend an experience that is invisible and wholly real. This, I think, is the very sensation my father’s generation went looking for, those Chinese who came of age in the Cultural Revolution. Baudelaire had leaped clear of every measure his society used to sort “good” from “bad”, and was punished for the leap. Bei Dao, the poet who kept Baudelaire as a secret spiritual icon through those years, went on with his peers, in the more open China of the 1980s, to found the Misty Poetry movement that deeply influenced my father. The movement was set against almost everything the Cultural Revolution’s benchmarks had prized—those socialist-realist works and political lyric poems marked by positive emotion, educational value, with the author cast as a representative of “the people” or “the era”—and instead was filled with the unknowable and the unforeseen.\n\n“The awkward truth is AI still gives us flattened prose and bad writing.”\n\nToday’s Silicon Valley somewhat resembles the French state that punished Baudelaire, an age intoxicated by abundance and by its own industrial revolution. We are being persuaded that AI will hand us prosperity and an intelligence explosion, that it will cure cancer any day now. The researchers working on recursive self-improvement have convinced me that AI will excel at every benchmark we can put into words. And yet the awkward truth is AI still gives us flattened prose and bad writing.\n\nAI feels disenchanted; it didn’t “revolutionize” content. It’s increasingly “ same-ifying ” writing, design, and everything related to human expression, and shaping our thoughts in reverse. Over the last few years, many in Silicon Valley have held up “taste” as an antidote. People argue that “good taste” makes one’s eye discerning and can identify ineffable qualities that stand out in the ocean of infinite content generated by AI. For leaders, “taste is a competitive advantage,” an article in The Atlantic claims . Culture critic and software designer Celine Nguyen observed that “taste has become the catch-all term,” and Kyle Chayka, a staff writer at The New Yorker, suggested it has become the latest Silicon Valley cliché — like “disruption” was in the 2010s. The word has hardened into something widely repeated and inherently profitable, a lever for correcting what AI produces. Taste is the new moat , these AI entrepreneurs say.\n\nThe term has also traveled to China and its equally pervasive AI industry. On the Simplified Chinese internet, the tech junkies and AI practitioners trade notes on how to build things with “good taste.” My internal seismograph reads otherwise. Some of this “good taste” will soon become the new mid-curve of mediocrity, the new predictability, the new “it’s not X, it’s Y.” Baudelaire would have no use for it. He was a man who deliberately set out to provoke revulsion. He believed “the mixture of the grotesque and the tragic is as pleasing to the mind as dissonances to blasé ears.” A man proud of his bad taste. “What is exhilarating in bad taste,” he wrote in his private journals , “is the aristocratic pleasure of giving offense.”\n\nEditor’s Note: Noema is transparent about the use of AI in its pieces. We publish original human-generated ideas but allow authorized, disclosed use of AI in certain cases. The initial submitted draft of this piece used Claude to improve grammar and syntax. This piece has since received numerous human edits. Noema verified the author’s identity and the piece’s conceptual originality using various scanners and review processes and conducted a detailed human fact-check. See our AI policy here ."
-    },
-    {
-      "id": "7ab4261e95e50acb",
-      "title": "Book Review: The Messy Business of Making Science Happen",
-      "summary": "In “Lost in Curiosity: Field Notes From Scientists’ Adventures Into the Unknown,” Roberta Kwok sets out to smash the stereotype of eureka moments as the main drivers of scientific knowledge, largely by taking us inside the everyday world of science and scientists, in all its painstaking monotony.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://undark.org/2026/09/04/book-review-lost-in-curiosity/",
-      "source": "Undark",
-      "publisher": "Undark",
-      "published": "2026-09-04T07:54:00Z",
-      "category": "Editorial",
-      "region": "World",
-      "labels": [
-        "Editorial",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "editorial",
-      "wordCount": 1469,
-      "readingMinutes": 7,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://undark.org/wp-content/uploads/2026/09/GettyImages-1252736231_edit.jpg",
-      "body": "Roberta Kwok’s “Lost in Curiosity” makes the case for luck and hard work over eureka moments in advancing science.\n\nVisual: iStock via Getty Images\n\nS tereotypes die hard. If we’re asked to picture a scientist at work, it’s tempting to reach for an old stand-by: the astronomer at the eyepiece of an enormous telescope, or the chemist surrounded by test tubes. Even more entrenched, perhaps, is the notion that science advances by a chain of “aha” moments, sparking one earth-shattering breakthrough after another: Think of Einstein figuring out that E=mc 2 , perhaps, or Marie and Pierre Curie discovering radium.\n\nIn “ Lost in Curiosity: Field Notes From Scientists’ Adventures Into the Unknown ,” science writer Roberta Kwok sets out to smash those stereotypes, largely by taking us inside the everyday world of science and scientists, in all its painstaking monotony. Yes, breakthroughs may happen — but they are not, by any stretch, the norm. “‘Eureka!’ means ‘I have found it!’” Kwok writes early in the book, “but a more fitting motto for science might be ‘I can’t find it,’ ‘Where is it?’ or, most often, ‘What the hell is going on?”\n\nBOOK REVIEW\n\nIn some cases, just getting to where the science is supposed to be happening is a challenge. Early in the book, we follow along as Kwok learns about the work of Jessica Mejia, a postdoctoral researcher in glaciology at the University at Buffalo and one of a group of researchers planning an excursion to Helheim Glacier on Greenland , to study how water flows underneath thick sheets of ice.\n\nThere are no planes, trains, or buses that one can take to the team’s research site, located some 65 miles inland, nor any roads. Helicopter is the only way in or out, and the team has just learned that the helicopter would not be available when they need it. They’re also worried about the weather taking a turn, as it did back in 2018, when the team was stuck in town, waiting for conditions to improve so the chopper could fly. The previous year, a snowstorm forced them to stay in their tents for several days — and their current field work was delayed by the Covid-19 pandemic.\n\nHelheim Glacier is more than just a massive block of ice. Kwok relates how researchers in 2011 struck water while drilling for an ice core — evidence of a giant aquifer hidden beneath the ice. Later measurements showed that Greenland’s aquifers cover an area about the size of Massachusetts. Knowing how the ice (and any water beneath it) behaves can provide insights into the effects of global warming, particularly the impact of sea level rise.\n\nIn some cases, just getting to where the science is supposed to be happening is a challenge.\n\nAnother chapter finds Kwok getting to know a poorly understood species known as the smooth guardian frog. The location — a rainforest in Borneo — again presents difficulties, though the real challenge here is trying to figure out why these tiny frogs do what they do. The females vocalize in response to a male frog’s call — which is unusual. Johana Goyes Vallejos, a Ph.D. student in ecology and evolutionary biology at the University of Connecticut, wonders if these frogs represent a case of sex-role reversal, in which females compete for males, with males taking on child-rearing duties. If that’s what was happening, it would be the first clear-cut case of such behaviour seen in frogs.\n\nThe idea that males rather than females might be caregivers gives Kwok a chance for a bit of humor: “As the mom of a then nine-year-old, I was dimly aware that being impressed by male frogs caring for their eggs was the equivalent of a well-meaning onlooker telling a man on a routine errand with his kids at the grocery store, ‘You’re such a good dad!’,” she writes. “Still, I couldn’t help but find something refreshing about behavior in other animals that flaunted our society’s default roles.”\n\nThe more Kwok discusses the issue with biologists, the more she comes to question her own assumptions: “Should sex-role reversal even be considered a thing? Should male and female sex roles be a thing? Why are we so obsessed with the differences between males and females anyway?”\n\nSIGN UP FOR NEWSLETTER JOURNEYS: Dive deeper into pressing issues with Undark’s limited run newsletters. Each week for four weeks, you’ll receive a hand-picked excerpt from our archive related to your subject area of interest. Pick your journeys here .\n\nEven if sex-role reversal is a good description of what Vallejos has observed, puzzles remain. At one point she sets up a video camera to record the little frogs having sex and is startled to discover that the females kept calling throughout the 90-minute mating process, even continuing after the female and male had parted. As the chapter closes, Vallejos — and Kwok — remain stumped.\n\nA later chapter focuses on physics. Here the reader might expect heady discussions about dark matter or dark energy, but no: The researchers that draw Kwok’s attention are trying to understand what happens when you crumple up a piece of paper. You get creases, of course; but how many, and in what pattern — or are they random? They also want to know how the creases change, if the paper is crumpled over and over again.\n\nSuch research may seem like a waste of time and energy, but Kwok is sympathetic. She quotes a mathematician named Chris Rycroft: “‘Even though we know all these incredible things about subatomic particles and the center of the galaxy and things like that, these everyday phases of matter’ — like a crumpled sheet of paper — ‘hold mysteries we don’t really understand.’”\n\nThe “lone genius” myth is long past its best-before date, as is the notion that science is all about breakthroughs.\n\nThe science of paper-crumpling involves some difficult mathematics, but once again Kwok is game, even if the various symbols and equations often go over her head, as she readily admits. “Sometimes everyone would laugh at an esoteric joke or nod vigorously in agreement, having shared a lightbulb moment, and I’d pretend that I understood what had just happened,” she writes. “Still, there was something soothing about listening to them, like hearing people converse enthusiastically in Italian, enjoying the melodious sounds coming out of their mouths, and occasionally understanding a word like pizza or ravioli .”\n\nAs it turns out, what the researchers learn from paper crumpling offers insights into the wider cosmos. A Harvard Ph.D. student named Madelyn Leembruggen tells Kwok that tiny fluctuations in the density of dark matter can help drive star formation, perhaps paving the way for planets and people. “It’s been really cool to see those threads of the physics that unite the whole universe,” Leembruggen says.\n\nThe most distant object that Kwok considers is a moon orbiting a planet which in turn orbits a star far beyond our own solar system. (“Exomoons” orbiting “exoplanets,” in astronomy jargon.) She chats with Apurva Oza, a planetary astrophysicist at the Jet Propulsion Laboratory in La Cañada Flintridge, California, who explains why he believes some of these moons may be highly volcanic, spewing jets of lava and perhaps nearly tearing themselves apart. The catch is that no such moons have been directly observed, with scientists debating how to define them. For now, astronomers are pondering indirect evidence that may point to these objects really being out there — and such tenuous evidence is open to interpretation.\n\nAs with crumpled paper and tiny frogs, exomoons, assuming they exist, have more to tell researchers than one might imagine: Scientists believe that our own moon helped to stabilize the Earth’s axial tilt, keeping our climate relatively constant. So, if exomoons are common — which remains to be seen — it could boost our estimates of how prevalent life might be, beyond our own planet.\n\nWhile Kwok has made an effort to weave these scientific stories together into an over-arching narrative, the individual chapters can be enjoyed in isolation. The reader needn’t remember anything about the Greenland glacier, for example, to get a kick out of learning that coyotes will eat just about anything, from snakes, rabbits, turtles, and goose eggs to earthworms, and baby rats. Or — as Kwok discovered by chatting with researchers who worked in Antarctica — that it’s apparently OK to eat a piece of fruitcake that’s been frozen since 1969.\n\nAfter nine science-adventure chapters, several messages are loud and clear: First, science is messy; unless you’re a theorist, you’re likely to get your hands dirty. As well, the “lone genius” myth is long past its best-before date, as is the notion that science is all about breakthroughs.\n\nFinally, we get a sense of the attributes that all of Kwok’s interlocutors seem to share boundless curiosity, and a deep passion for discovery — slow as that process of discovery may be."
     },
     {
       "id": "275d7a6da5c891aa",
@@ -1373,7 +1320,7 @@
       "url": "https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates",
       "source": "The Guardian Economics",
       "publisher": "The Guardian",
-      "published": "2026-09-11T12:38:00Z",
+      "published": "2026-09-11T12:45:36Z",
       "category": "Economics",
       "region": "World",
       "labels": [
@@ -1383,12 +1330,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 2260,
+      "wordCount": 2415,
       "readingMinutes": 11,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/65ff67a77c423168674b37429089671fa65a4a37/0_0_4796_3837/master/4796.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2e6e4e77b3b08dec81425f1c92194090",
-      "body": "Gasoline drives up US monthly inflation in August\n\nNewsflash: US inflation picked up last month, on a monthly basis, as the surge in motor fuel prices hurt American consumers.\n\nThe Consumer Price Index increased by 0.4% during August, the U.S. Bureau of Labor Statistics has reported, up from 0.1% in July.\n\nThe annual inflation rate is unchanged at 3.4%.\n\nPricier gasoline drove up US inflation in August – the index for gasoline rose 3.9% in August, accounting for over one third of the monthly all items increase.\n\nEnergy prices jumped by 2.1% in the month – another sign that Donald Trump’s war with Iran is hurting consumers.\n\nShelter (or housing) became 0.3% more expensive, while food increased 0.1% over the month, as the index for food away from home increased 0.3%.\n\nUS core inflation rises in August\n\nUS core inflation also picked up a little pace in August.\n\nThe index for all items excluding food and energy rose by 0.3% in August, after increasing 0.2% in July.\n\nIndexes that increased over the month include communication, lodging away from home, airline fares, education, and used cars and trucks, the BLS reports.\n\nHowever, on an annual basis core inflation stuck at 2.4% (above the Federal Reserve’s target for prices to rise by 2% per year).\n\nGasoline drives up US monthly inflation in August\n\nNewsflash: US inflation picked up last month, on a monthly basis, as the surge in motor fuel prices hurt American consumers.\n\nThe Consumer Price Index increased by 0.4% during August, the U.S. Bureau of Labor Statistics has reported, up from 0.1% in July.\n\nThe annual inflation rate is unchanged at 3.4%.\n\nPricier gasoline drove up US inflation in August – the index for gasoline rose 3.9% in August, accounting for over one third of the monthly all items increase.\n\nEnergy prices jumped by 2.1% in the month – another sign that Donald Trump’s war with Iran is hurting consumers.\n\nShelter (or housing) became 0.3% more expensive, while food increased 0.1% over the month, as the index for food away from home increased 0.3%.\n\nMarkets brace for US inflation report\n\nInvestors around the world are bracing for the final significant data release of the week – the US inflation report for August.\n\nAugust’s CPI report is likely to influence central bank policymakers as they weigh up whether to raise US interest rates at next week’s Federal Reserve meeting.\n\nEconomists are forecasting the monthly inflation rate will pick up in August, to 0.4%, from 0.1% in July, while the annual rate is expected to be unchanged at 3.4%.\n\nCore inflation is expected to drop a little, from 2.5% to 2.4%.\n\nBut as we saw this morning with the UK GDP report, these expectations can’t infallible.\n\nThe report is due in just over 20 minutes time (8.30am on the East Coast, 1.30pm in the UK)\n\nSaxo UK investor strategist, Neil Wilson, predicts the inflation report will move the bond market:\n\ndouble quotation mark Odds of a Fed rate hike next week have shortened from 60% to 70%, but as the CPI report will dictate assumptions (based on recent Fed speak) we could see another considerable move of size in front-end rates today. The yield curve is like a coiled spring right now.\n\nFrance lowers growth forecast, and will miss deficit target\n\nThe economic news from France is less positive than in the UK today.\n\nWhile Britain’s growth was beating forecasts this morning, French finance minister Roland Lescure ⁠was warning that France’s economy will grow less than expected this year, meaning the government will miss its budget deficit ⁠target,\n\nLescure told ⁠journalists he was lowering the government’s 2026 economic growth forecast to 0.5% from 0.7% previously, but stuck with a projection of 1.0% for next year.\n\nLescure explained:\n\ndouble quotation mark This year has been marked by extreme crises involving four different types of ⁠shocks.\n\nThose shocks were domestic political uncertainty, surging energy prices, extreme summer weather and a jump in borrowing costs on bond markets, Reuters reports .\n\nLescure also explained that slower growth will make it more difficult for ‌the government to trim its fiscal budget ‌deficit as planned to 5.0% of economic output this year, saying:\n\ndouble quotation mark The reality is that the budget was built on a 5% assumption. And the ‌reality is that, today, 5% is no longer an option.\n\nOver in Moscow, the Bank of Russia has left interest rates on hold today – at 14% – despite rising inflation pressures.\n\nAnnouncing their decision, policymakers say:\n\ndouble quotation mark The economy as a whole is growing at a moderate pace in 2026 Q3. Current price pressures have increased significantly in recent months. The Bank of Russia estimates that underlying price growth has accelerated to 5–6% in annualised terms, primarily due to the impact of a temporary reduction in production capacities in certain sectors. As these effects fade and aggregate demand grows moderately, underlying inflation will resume its decline.\n\nUK homebuilder Berkeley urges property tax changes\n\nUK housebuilder Berkeley Group indicated this morning that it’s not seen a pick-up in the housing market over the summer.\n\nBerkeley Group told shareholders this morning the customer sentiment, and activity in the housing market, have been hit by the ongoing Middle East conflict.\n\nThey added:\n\ndouble quotation mark While Berkeley is receiving good and stable levels of enquiries, the uncertainty and volatility in the market means that customers without an immediate need to move and readily available liquidity remain more cautious to commit, a position similar to that reported with our full year results in June.\n\nBerkeley Group went on to call for “urgent reform” of the UK’s current stamp duty regime.\n\nThe company is proposing a 1% cap for first-time buyers and downsizers, and the removal of a 5% surcharge on investors.\n\nRatings agency Fitch has predicted that the current high energy prices increase the possibility of regulatory or political intervention in markets.\n\nPilar Auguets , a senior director in the Fitch Ratings EMEA Utilities team, explains:\n\ndouble quotation mark High electricity prices could intensify calls for political intervention in wholesale power markets, distorting investment signals. While structural reforms would likely require lengthy implementation and must balance affordability against investment incentives, pressure to shield households and industries from elevated energy costs is likely to increase.\n\nEuropean gas prices are also dropping today.\n\nThe month-ahead UK gas price is down 1.6% today at 201.77p per therm, having yesterday hit its highest level since December 2022.\n\nContinental European gas prices are down 1.9% at €80.50 per therm, having also hit the highest level since the end of 2022 on Thursday.\n\nOil price falls on hopes for Hormuz meeting\n\nHopes of a temporary deal to reopen the strait of Hormuz are driving the oil price down today.\n\nBrent crude is now down 2.7% at $104.70 a barrel, wiping out some of yesterday’s 6% rise.\n\nEnergy prices are dropping after reports that Gulf states are considering meeting with Iranian officials next week to discuss the future of the Strait of Hormuz.\n\nIf it happens, this would be the first meeting between the top diplomats from the six-member Gulf Cooperation Council and a senior Iranian official since the US -Israel war on Iran began in February.\n\nAccording to the Financial Times , the meeting is scheduled to be held on Monday in the Omani coastal city of Salalah.\n\nBloomberg has the details :\n\ndouble quotation mark Oman is aiming to get foreign ministers from the Gulf Cooperation Council and Iran together on Monday in Salalah, a southern Omani city, according to a person familiar with the matter, who asked not to be identified discussing sensitive matters. The meeting is not confirmed and worsening hostilities between Saudi-backed forces and the Houthis, a group based in Yemen and supported by Iran, may complicate the plans, another person said. Even if it happens, it’s unclear if all states in the bloc, including Saudi Arabia, the United Arab Emirates, Qatar as well as Oman, will attend, the people said.\n\nDespite today’s drop, oil is up almost 9% this week, the biggest weekly jump since July.\n\nBritain’s stock market has risen this morning, as traders welcome this morning’s UK GDP report.\n\nThe FTSE 100 index is up 45 points, or 0.4%, to 10,654 points.\n\nThat recovers a little of this week’s losses, but the Footsie is still on track for a 1.6% weekly fall, the biggest since the start of July.\n\nCalm returns to bond markets\n\nAnother a week of turbulence, UK government bonds are recovering a little this morning.\n\nWith prices rising, the yield (or interest rate) on UK sovereign debt is dipping slightly.\n\nThe yield on 10-year UK bonds is down 2 basis points (0.02 of a percentage point) to 5.351%, away from the 19-year high hit yesterday.\n\n30-year bond yields are dow 2bps too, to 5.91%, having hit their highest since 1998 yesterday.\n\nBond yields are very sensitive to moves in the oil price this week – crude prices are still down around 2% today, after surging yesterday to their highest since mid-May.\n\nThe Bank of England will probably leave interest rates on hold at its meeting next Thursday, predicts Susannah Streeter , chief investment strategist at Wealth Club:\n\ndouble quotation mark For the Bank of England, today’s stronger-than-expected GDP figure makes an interest rate increase this year a touch more likely. Nevertheless, given the volatile times decision-makers are meeting in, it’s still likely they will once again press the pause button next week and await more data. The MPC held Bank Rate at 3.75% in July, with policymakers split 6-3, with three members voting for a hike. The big worry is that higher energy costs will be passed on as higher prices by businesses and consumers, but it’s likely that the committee will want to see more evidence of that before triggering rate hikes. Given the turmoil in energy and bond markets, however, there is an expectation that we could see three to even four rate hikes over the next year. However, if the economy slows and consumers turn more cautious, that reticence may do some of the inflation-busting work for the bank.”\n\nHealey: UK showing 'welcome resilience'\n\nChancellor John Healey has welcomed today’s GDP report, saying:\n\ndouble quotation mark “Britain’s economy is demonstrating a welcome resilience, despite serious global uncertainty.”\n\nBerenberg: GDP report adds to risk of rate rise before Christmas\n\nBerenberg economist Andrew Wishard also believes that July’s solid GDP report could encourage the Bank of England to raise interest rates before Christmas.\n\nHe says the 0.4% growth recorded in July hints that the current bank rate of 3.75% may not be as restrictive as he and some BoE rate setters thought.\n\nWishard explains:\n\ndouble quotation mark Rolling quarterly growth came in at 0.4% in May-July compared to the previous three months, in line with Q2’s expansion. Evidence that economy could cope with a solitary 25bp interest rate hike adds to the risk that the BoE will deliver one in November or December. However, as the central bank struggles to trust the official GDP data, broader evidence of solid growth would need to follow this strong outturn to convince it.\n\nUK economy grows at fastest pace since February 2025\n\nReuters has spotted that Britain’s economy grew at the fastest annual pace in 18 months in July.\n\nBritish GDP in July was 1.6% higher than a year earlier, the fastest annual rate since February 2025, they point out.\n\nMarkets expect four UK interest rate rises by July 2027\n\nThe sight of the UK growing faster than expected could spur the Bank of England to raise interest rates before Christmas.\n\nAngeline Ong , senior technical analyst at the broker IG , says today’s forecast-beating UK GDP report will boost rate hike expectations:\n\ndouble quotation mark The upside surprise hands ammunition to BoE hawks pushing for a Q4 rate hike, even as gilt yields already sit at multi-decade highs on Middle East shipping attacks and firm US data.\n\nAfter this week’s surge in the oil price, which drove bond yields higher, investors have already hiked their expectations for UK interest rate rises.\n\nOne rate rise by November is now priced in, with the money markets now anticipating four quarter-point hikes by July 2027, which would lift Bank rate to 4.75%, from 3.75% today.\n\nAt the start of this week, the markets were pricing in three rate rises by July 2027.\n\nThese expectations jumped yesterday, when the European Central Bank raised eurozone interest rates to 2.5% and warned that the risk of higher inflation over the next year has risen.\n\nUK construction had a subdued July, today’s GDP report shows, but at least it returned to growth!\n\nMonthly construction output is estimated to have grown by 0.1% in July, after a fall of 0.1% in June, and a 0.8% tumble in May.\n\nGrowth in July came solely from an increase in repair and maintenance, while new work contracted again.\n\nUK manufacturing also had a decent July, with growth of 0.9% in the month.\n\nThat helped to lift production output (a wider measure) by 0.2% in July.\n\nWater supply; sewerage, waste management and remediation activities grew by 2.0%, but there was a 4.4% fall in mining and quarrying, while electricity, gas steam and air conditioning supply dropped by 1.5% compared with June.",
+      "body": "Gasoline drives up US monthly inflation in August\n\nNewsflash: US inflation picked up last month, on a monthly basis, as the surge in motor fuel prices hurt American consumers.\n\nThe Consumer Price Index increased by 0.4% during August, the U.S. Bureau of Labor Statistics has reported, up from 0.1% in July.\n\nThe annual inflation rate is unchanged at 3.4%.\n\nPricier gasoline drove up US inflation in August – the index for gasoline rose 3.9% in August, accounting for over one third of the monthly all items increase.\n\nEnergy prices jumped by 2.1% in the month – another sign that Donald Trump’s war with Iran is hurting consumers.\n\nShelter (or housing) became 0.3% more expensive, while food prices increased 0.1% over the month, including a 0.3% rise in the index for food away from home (eg at restaurants).\n\nLettuce prices drop sharply\n\nThere are some interesting moves in US food prices last month, even though the index for food at home was unchanged in August.\n\nFour of the six major grocery store food group indexes increased in August – here’s the details:\n\ndouble quotation mark The meats, poultry, fish, and eggs index increased 0.1 percent over the month, as the eggs index rose 2.9 percent. The index for other food at home also increased 0.1 percent in August. The nonalcoholic beverages index increased 0.2 percent over the month, and the dairy and related products index rose 0.3 percent.\n\nThe index for cereals and bakery products was unchanged in August, while fruits and vegetable prices fell 0.4%.\n\nThe index for lettuce continued to fall, declining 6.2 percent in August after decreasing 16.4 percent in July.\n\nUS core inflation rises in August\n\nUS core inflation also picked up a little pace in August.\n\nThe index for all items excluding food and energy rose by 0.3% in August, after increasing 0.2% in July.\n\nIndexes that increased over the month include communication, lodging away from home, airline fares, education, and used cars and trucks, the BLS reports.\n\nHowever, on an annual basis core inflation stuck at 2.4% (above the Federal Reserve’s target for prices to rise by 2% per year).\n\nGasoline drives up US monthly inflation in August\n\nNewsflash: US inflation picked up last month, on a monthly basis, as the surge in motor fuel prices hurt American consumers.\n\nThe Consumer Price Index increased by 0.4% during August, the U.S. Bureau of Labor Statistics has reported, up from 0.1% in July.\n\nThe annual inflation rate is unchanged at 3.4%.\n\nPricier gasoline drove up US inflation in August – the index for gasoline rose 3.9% in August, accounting for over one third of the monthly all items increase.\n\nEnergy prices jumped by 2.1% in the month – another sign that Donald Trump’s war with Iran is hurting consumers.\n\nShelter (or housing) became 0.3% more expensive, while food prices increased 0.1% over the month, including a 0.3% rise in the index for food away from home (eg at restaurants).\n\nMarkets brace for US inflation report\n\nInvestors around the world are bracing for the final significant data release of the week – the US inflation report for August.\n\nAugust’s CPI report is likely to influence central bank policymakers as they weigh up whether to raise US interest rates at next week’s Federal Reserve meeting.\n\nEconomists are forecasting the monthly inflation rate will pick up in August, to 0.4%, from 0.1% in July, while the annual rate is expected to be unchanged at 3.4%.\n\nCore inflation is expected to drop a little, from 2.5% to 2.4%.\n\nBut as we saw this morning with the UK GDP report, these expectations can’t infallible.\n\nThe report is due in just over 20 minutes time (8.30am on the East Coast, 1.30pm in the UK)\n\nSaxo UK investor strategist, Neil Wilson, predicts the inflation report will move the bond market:\n\ndouble quotation mark Odds of a Fed rate hike next week have shortened from 60% to 70%, but as the CPI report will dictate assumptions (based on recent Fed speak) we could see another considerable move of size in front-end rates today. The yield curve is like a coiled spring right now.\n\nFrance lowers growth forecast, and will miss deficit target\n\nThe economic news from France is less positive than in the UK today.\n\nWhile Britain’s growth was beating forecasts this morning, French finance minister Roland Lescure ⁠was warning that France’s economy will grow less than expected this year, meaning the government will miss its budget deficit ⁠target,\n\nLescure told ⁠journalists he was lowering the government’s 2026 economic growth forecast to 0.5% from 0.7% previously, but stuck with a projection of 1.0% for next year.\n\nLescure explained:\n\ndouble quotation mark This year has been marked by extreme crises involving four different types of ⁠shocks.\n\nThose shocks were domestic political uncertainty, surging energy prices, extreme summer weather and a jump in borrowing costs on bond markets, Reuters reports .\n\nLescure also explained that slower growth will make it more difficult for ‌the government to trim its fiscal budget ‌deficit as planned to 5.0% of economic output this year, saying:\n\ndouble quotation mark The reality is that the budget was built on a 5% assumption. And the ‌reality is that, today, 5% is no longer an option.\n\nOver in Moscow, the Bank of Russia has left interest rates on hold today – at 14% – despite rising inflation pressures.\n\nAnnouncing their decision, policymakers say:\n\ndouble quotation mark The economy as a whole is growing at a moderate pace in 2026 Q3. Current price pressures have increased significantly in recent months. The Bank of Russia estimates that underlying price growth has accelerated to 5–6% in annualised terms, primarily due to the impact of a temporary reduction in production capacities in certain sectors. As these effects fade and aggregate demand grows moderately, underlying inflation will resume its decline.\n\nUK homebuilder Berkeley urges property tax changes\n\nUK housebuilder Berkeley Group indicated this morning that it’s not seen a pick-up in the housing market over the summer.\n\nBerkeley Group told shareholders this morning the customer sentiment, and activity in the housing market, have been hit by the ongoing Middle East conflict.\n\nThey added:\n\ndouble quotation mark While Berkeley is receiving good and stable levels of enquiries, the uncertainty and volatility in the market means that customers without an immediate need to move and readily available liquidity remain more cautious to commit, a position similar to that reported with our full year results in June.\n\nBerkeley Group went on to call for “urgent reform” of the UK’s current stamp duty regime.\n\nThe company is proposing a 1% cap for first-time buyers and downsizers, and the removal of a 5% surcharge on investors.\n\nRatings agency Fitch has predicted that the current high energy prices increase the possibility of regulatory or political intervention in markets.\n\nPilar Auguets , a senior director in the Fitch Ratings EMEA Utilities team, explains:\n\ndouble quotation mark High electricity prices could intensify calls for political intervention in wholesale power markets, distorting investment signals. While structural reforms would likely require lengthy implementation and must balance affordability against investment incentives, pressure to shield households and industries from elevated energy costs is likely to increase.\n\nEuropean gas prices are also dropping today.\n\nThe month-ahead UK gas price is down 1.6% today at 201.77p per therm, having yesterday hit its highest level since December 2022.\n\nContinental European gas prices are down 1.9% at €80.50 per therm, having also hit the highest level since the end of 2022 on Thursday.\n\nOil price falls on hopes for Hormuz meeting\n\nHopes of a temporary deal to reopen the strait of Hormuz are driving the oil price down today.\n\nBrent crude is now down 2.7% at $104.70 a barrel, wiping out some of yesterday’s 6% rise.\n\nEnergy prices are dropping after reports that Gulf states are considering meeting with Iranian officials next week to discuss the future of the Strait of Hormuz.\n\nIf it happens, this would be the first meeting between the top diplomats from the six-member Gulf Cooperation Council and a senior Iranian official since the US -Israel war on Iran began in February.\n\nAccording to the Financial Times , the meeting is scheduled to be held on Monday in the Omani coastal city of Salalah.\n\nBloomberg has the details :\n\ndouble quotation mark Oman is aiming to get foreign ministers from the Gulf Cooperation Council and Iran together on Monday in Salalah, a southern Omani city, according to a person familiar with the matter, who asked not to be identified discussing sensitive matters. The meeting is not confirmed and worsening hostilities between Saudi-backed forces and the Houthis, a group based in Yemen and supported by Iran, may complicate the plans, another person said. Even if it happens, it’s unclear if all states in the bloc, including Saudi Arabia, the United Arab Emirates, Qatar as well as Oman, will attend, the people said.\n\nDespite today’s drop, oil is up almost 9% this week, the biggest weekly jump since July.\n\nBritain’s stock market has risen this morning, as traders welcome this morning’s UK GDP report.\n\nThe FTSE 100 index is up 45 points, or 0.4%, to 10,654 points.\n\nThat recovers a little of this week’s losses, but the Footsie is still on track for a 1.6% weekly fall, the biggest since the start of July.\n\nCalm returns to bond markets\n\nAnother a week of turbulence, UK government bonds are recovering a little this morning.\n\nWith prices rising, the yield (or interest rate) on UK sovereign debt is dipping slightly.\n\nThe yield on 10-year UK bonds is down 2 basis points (0.02 of a percentage point) to 5.351%, away from the 19-year high hit yesterday.\n\n30-year bond yields are dow 2bps too, to 5.91%, having hit their highest since 1998 yesterday.\n\nBond yields are very sensitive to moves in the oil price this week – crude prices are still down around 2% today, after surging yesterday to their highest since mid-May.\n\nThe Bank of England will probably leave interest rates on hold at its meeting next Thursday, predicts Susannah Streeter , chief investment strategist at Wealth Club:\n\ndouble quotation mark For the Bank of England, today’s stronger-than-expected GDP figure makes an interest rate increase this year a touch more likely. Nevertheless, given the volatile times decision-makers are meeting in, it’s still likely they will once again press the pause button next week and await more data. The MPC held Bank Rate at 3.75% in July, with policymakers split 6-3, with three members voting for a hike. The big worry is that higher energy costs will be passed on as higher prices by businesses and consumers, but it’s likely that the committee will want to see more evidence of that before triggering rate hikes. Given the turmoil in energy and bond markets, however, there is an expectation that we could see three to even four rate hikes over the next year. However, if the economy slows and consumers turn more cautious, that reticence may do some of the inflation-busting work for the bank.”\n\nHealey: UK showing 'welcome resilience'\n\nChancellor John Healey has welcomed today’s GDP report, saying:\n\ndouble quotation mark “Britain’s economy is demonstrating a welcome resilience, despite serious global uncertainty.”\n\nBerenberg: GDP report adds to risk of rate rise before Christmas\n\nBerenberg economist Andrew Wishard also believes that July’s solid GDP report could encourage the Bank of England to raise interest rates before Christmas.\n\nHe says the 0.4% growth recorded in July hints that the current bank rate of 3.75% may not be as restrictive as he and some BoE rate setters thought.\n\nWishard explains:\n\ndouble quotation mark Rolling quarterly growth came in at 0.4% in May-July compared to the previous three months, in line with Q2’s expansion. Evidence that economy could cope with a solitary 25bp interest rate hike adds to the risk that the BoE will deliver one in November or December. However, as the central bank struggles to trust the official GDP data, broader evidence of solid growth would need to follow this strong outturn to convince it.\n\nUK economy grows at fastest pace since February 2025\n\nReuters has spotted that Britain’s economy grew at the fastest annual pace in 18 months in July.\n\nBritish GDP in July was 1.6% higher than a year earlier, the fastest annual rate since February 2025, they point out.\n\nMarkets expect four UK interest rate rises by July 2027\n\nThe sight of the UK growing faster than expected could spur the Bank of England to raise interest rates before Christmas.\n\nAngeline Ong , senior technical analyst at the broker IG , says today’s forecast-beating UK GDP report will boost rate hike expectations:\n\ndouble quotation mark The upside surprise hands ammunition to BoE hawks pushing for a Q4 rate hike, even as gilt yields already sit at multi-decade highs on Middle East shipping attacks and firm US data.\n\nAfter this week’s surge in the oil price, which drove bond yields higher, investors have already hiked their expectations for UK interest rate rises.\n\nOne rate rise by November is now priced in, with the money markets now anticipating four quarter-point hikes by July 2027, which would lift Bank rate to 4.75%, from 3.75% today.\n\nAt the start of this week, the markets were pricing in three rate rises by July 2027.\n\nThese expectations jumped yesterday, when the European Central Bank raised eurozone interest rates to 2.5% and warned that the risk of higher inflation over the next year has risen.\n\nUK construction had a subdued July, today’s GDP report shows, but at least it returned to growth!\n\nMonthly construction output is estimated to have grown by 0.1% in July, after a fall of 0.1% in June, and a 0.8% tumble in May.\n\nGrowth in July came solely from an increase in repair and maintenance, while new work contracted again.\n\nUK manufacturing also had a decent July, with growth of 0.9% in the month.\n\nThat helped to lift production output (a wider measure) by 0.2% in July.\n\nWater supply; sewerage, waste management and remediation activities grew by 2.0%, but there was a 4.4% fall in mining and quarrying, while electricity, gas steam and air conditioning supply dropped by 1.5% compared with June.",
       "imageWidth": 1200,
       "imageHeight": 630
     },
@@ -2094,6 +2041,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86fb/live/633b95d0-abac-11f1-a291-b542ee92de7c.jpg"
     },
     {
+      "id": "b4292de8a076407a",
+      "title": "US inflation holds steady as diesel prices pass $6 a gallon",
+      "summary": "Prices in the US rose 3.4% in the 12 months to August, according to the latest official figures.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-09-11T12:43:24Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39dc/live/efa1fdd0-addb-11f1-8b98-35ffe039e825.jpg"
+    },
+    {
       "id": "668da0e7e019543f",
       "title": "I moved my shop 20 miles because I couldn't afford £300 a week on fuel",
       "summary": "People in Turriff, Aberdeenshire, tell BBC Scotland News the impact rising petrol prices is having.",
@@ -2552,30 +2523,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/00423140-ab99-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "ac16d09675f666f4",
-      "title": "New battery-powered trains to ‘bring faster journeys to the north’",
-      "summary": "No 10 says new fleet of trains built in Derby will support 6,000 jobs across UK A fleet of battery-powered trains is to be built to “bring faster, more reliable journeys to the north”, Downing Street has announced. The 29 trains, which will be run by TransPennine Express, will be built at Alstom’s Litchurch Lane works in Derby from 2028, supporting 350 local jobs, and nearly 6,000 across the UK, according to the government. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/10/new-battery-powered-trains-will-bring-faster-journeys-to-north",
-      "source": "The Guardian Business",
-      "publisher": "The Guardian",
-      "published": "2026-09-11T07:22:20Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 78,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/7c2e58c8a262fd5acb081dd04ab7eab673ff7505/581_0_4585_3667/master/4585.jpg?width=700&quality=85&auto=format&fit=max&s=939cf6d0f26b79760beb6ed2bd36b738"
-    },
-    {
       "id": "0628562d377a4502",
       "title": "Now it’s China’s experts who are gig workers training AI",
       "summary": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
@@ -2909,6 +2856,32 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ac2/live/7ee51100-ad7b-11f1-9d9e-0f9c1878d6dd.jpg"
     },
     {
+      "id": "81a2fce46615e1d3",
+      "title": "TWELVE SARACENS WOMEN NAMED IN WXV INTERNATIONAL SQUADS",
+      "summary": "Saracens Women will have twelve players representing three nations on the world stage this autumn, after England, Canada and Wales all named their squads for WXV this weekend. This weekend's clash between the Red Roses and Australia will be followed by fixtures across the UK, with the Red Roses coming face-to-face with Canada at Sandy […]",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://saracens.com/twelve-saracens-women-named-in-wxv-international-squads/",
+      "source": "Saracens",
+      "publisher": "Saracens",
+      "published": "2026-09-07T10:06:37Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Rugby",
+        "Saracens",
+        "England Rugby"
+      ],
+      "sourceWeight": 5,
+      "focus": "Saracens",
+      "sourceType": "news",
+      "wordCount": 55,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "fc7f909551fa2875",
       "title": "A cup weekend that could define three managerial tenures",
       "summary": "Aberdeen head coach Stephen Robinson, Hibernian boss David Gray and Kilmarnock’s Neil McCann are all feeling the heat. Could League Cup quarter-final weekend shape their futures?",
@@ -3221,30 +3194,6 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
-    },
-    {
-      "id": "f06beb2c17b66da0",
-      "title": "Ministers face backlash from hospitality industry over ‘tourist tax’ plans",
-      "summary": "Many mayors welcome power to impose tourist tax but industry warns of ‘irreparable harm’ and job losses Ministers are facing a backlash from the hospitality industry after they announced mayors in England would be given sweeping powers to levy taxes on holiday accommodation such as hotels and Airbnbs. The plan, presented on Thursday by Angela Rayner, the local government secretary, will allow mayors to impose a “tourist tax” without a cap on how much they can charge and with few controls on how they can spend it. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/sep/10/england-nightly-levy-hotel-airbnb-stays-tourist-tax-plans",
-      "source": "The Guardian Business",
-      "publisher": "The Guardian",
-      "published": "2026-09-10T18:14:53Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 89,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/6671b801cff2b94540b41de8e1a648bee8d77536/1243_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=7abe69ceb6b89174a5ccb1c84f4cf727"
     },
     {
       "id": "6f5700e7c26f885f",
@@ -3583,30 +3532,6 @@
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/illo_google_earth_doubt_final-768x432.jpg"
     },
     {
-      "id": "66772340dc1812df",
-      "title": "Homes for sale in a national park in England – in pictures",
-      "summary": "From an energy-efficient bungalow in the South Downs to an historic chapel in Northumberland Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/money/gallery/2026/sep/11/homes-for-sale-in-a-national-park-in-england-in-pictures",
-      "source": "The Guardian Business",
-      "publisher": "The Guardian",
-      "published": "2026-09-11T06:00:03Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 16,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/d86af08aa8709adcd00c50ca8106d71039bccbc5/84_0_2499_2000/master/2499.jpg?width=700&quality=85&auto=format&fit=max&s=86250b2363d474ab2f04dfeb4345b9c0"
-    },
-    {
       "id": "285abc70fbb082dc",
       "title": "Rybakina sets up blockbuster Sabalenka final at US Open",
       "summary": "Soon-to-be world number one Elena Rybakina will face Aryna Sabalenka in a blockbuster US Open final between the tournament's top two seeds.",
@@ -3701,30 +3626,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0500/live/4c828110-ac23-11f1-9bd9-7b7da208bd5c.png"
-    },
-    {
-      "id": "f5b364776f16abda",
-      "title": "‘Fresh from the roof’: the supermarket growing salad a few metres above the tills",
-      "summary": "Customers seeking greens at one Berlin outlet are dealing with some very local supply chains indeed Walking into the Felix Thomas REWE supermarket in Lankwitz, Berlin, customers are immediately presented with a choice of greens: romaine, rocket, iceberg. But last month, a new option joined the selection: Lankwitz loose-leaf lettuce. A combination of head lettuce, romaine lettuce, Lollo Rosso, and dark green easy leaf lettuce, its yellow packaging makes it stand out in a row of green. But it’s not just the flashy packaging that makes it distinct. Unlike its neighbouring lettuces, which come from regional farms or all the way from Italy, these greens were grown just a few metres away – or rather, a few metres up. “Frisch Vom REWE Dach” or “Fresh from the REWE roof”, the bags read. Rooftop farms are nothing new: in cities such as Paris , Hong Kong , Copenhagen and New York , similar farms supply food to adjacent food retailers or even restaurants. This model has the potential to reduce greenhouse gas emissions from transportation (and its associated costs), minimise the urban heat effect, make use of dead space and perhaps even improve the relationship between buyers and their food. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/environment/2026/sep/11/supermarket-salad-rooftop-garden-berlin",
-      "source": "The Guardian Business",
-      "publisher": "The Guardian",
-      "published": "2026-09-11T09:00:01Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 197,
-      "readingMinutes": 1,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/5fef47270bebf6330c35c832c65023372f4a4a14/160_0_1600_1280/master/1600.jpg?width=700&quality=85&auto=format&fit=max&s=72c008bbf345149922dd1b356ed685ba"
     },
     {
       "id": "e529b1280a43144e",
@@ -3871,30 +3772,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/025b/live/d70047b0-acf9-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "01cc4f5a1bd00c8a",
-      "title": "Much of Europe already levies a tourist tax – a nice little earner for Italian hotspots",
-      "summary": "While England makes its first foray into unfamiliar territory, it’s proved a boon for Italy’s cash-strapped municipalities A nightly tourist tax may be unfamiliar territory in the UK , but countries in continental Europe have been cashing in on these kinds of levies for decades. Tourists usually need to pay the tax on the day they check out of a hotel or holiday let, and are often surprised by an extra fee on top of their accommodation costs. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/world/2026/sep/10/europe-tourist-tax-italian-hotspots-england",
-      "source": "The Guardian Business",
-      "publisher": "The Guardian",
-      "published": "2026-09-10T13:57:56Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 79,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/a316ca16ae88c26e723b4e97ed0ee506cd6543f9/195_0_6880_5504/master/6880.jpg?width=700&quality=85&auto=format&fit=max&s=45c701ccc0e49e777d34cbc9aa570e37"
-    },
-    {
       "id": "b6fb6646d65a834f",
       "title": "Bond market rebuffs US treasury’s plan to buy back $6bn in government debt",
       "summary": "Scott Bessent made announcement on Wednesday as bond yields rose to highest point since 2008 financial crisis The US treasury moved to cut the cost of borrowing on Wednesday only to be swiftly rebuffed by the bond market. Scott Bessent, the treasury secretary, announced the US would buy back $6bn worth of government debt – treasuries – in an effort to alleviate a selloff in the US bond market that has put pressure on interest rates. Continue reading...",
@@ -3990,102 +3867,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/84db52e3bd4c7e10da78a8eeaa51b4462b587fda/333_0_3334_2667/master/3334.jpg?width=700&quality=85&auto=format&fit=max&s=798c5ebb8aa8025fcd77afffc491eeca"
-    },
-    {
-      "id": "5bdd3bb5f9eb292a",
-      "title": "The Guardian view on UK-EU relations: voters would reward greater ambition | Editorial",
-      "summary": "The architects of Brexit know it has failed. That presents Andy Burnham with an opportunity to set a bolder new agenda Modesty is not a trait commonly associated with Nigel Farage. Something else must explain the Reform UK leader’s reluctance to talk about what is undoubtedly his biggest achievement. Few individuals can boast of having influenced British politics as drastically as Mr Farage, with his record of campaigning for Brexit before that word was even coined. He will for ever be associated with the demand for emancipation from Brussels, but is rarely heard celebrating its completion. It barely earned a mention in speeches at his party’s annual conference last week. The simple reason is that none of the promises made about the benefits of life outside the EU have been fulfilled. Leaving made the country poorer , and voters know it. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/09/the-guardian-view-on-uk-eu-relations-voters-would-reward-greater-ambition",
-      "source": "The Guardian Business",
-      "publisher": "The Guardian",
-      "published": "2026-09-09T17:40:47Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 181,
-      "readingMinutes": 1,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/421a3470685d6dbbcbf49d46ab046bae7d4cc2b6/340_0_4583_3666/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=010ea5bbac385a03e5e279f97350e560"
-    },
-    {
-      "id": "7676f763acd3ae58",
-      "title": "The Guardian view on Donald Trump’s oil deal: Venezuela pays for his vanity | Editorial",
-      "summary": "The US president seized a nation’s natural wealth in a modern-day version of gunboat diplomacy to feed his ego – not to lower Americans’ fuel bills Imperialism does not require a flag to be planted or a governor dispatched. It can be a powerful nation deciding who governs a smaller, weaker country, and on what terms and for whose benefit its resources will be developed. Donald Trump’s kidnapping of Venezuela’s Nicolás Maduro, putting his deputy – Delcy Rodríguez – in his place as president, and then her signing a deal handing a fifth of the country’s proven oil reserves to the US , amount to a modern version of 19th-century gunboat diplomacy. Regime change supplied America’s commercial concession. This won’t bother Mr Trump. But it should. The US president has oversold his neocolonial spoils. The additional production Venezuela is supposed to bring online might bring down oil prices eventually, but not anytime soon. Crucially, what Mr Trump calls “t he biggest oil deal in history ” won’t cause the price at the pump to fall before November’s midterms. When so many American voters are struggling to pay energy bills , it’s hard to see how unrealised Orinoco Belt riches are going to help Republican candidates. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/09/the-guardian-view-on-donald-trumps-oil-deal-venezuela-pays-for-his-vanity",
-      "source": "The Guardian Business",
-      "publisher": "The Guardian",
-      "published": "2026-09-09T17:39:43Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 240,
-      "readingMinutes": 2,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/40233d81a48acdef3736e7d9dae54a5d45066d15/474_0_3150_2520/master/3150.jpg?width=700&quality=85&auto=format&fit=max&s=b756321eb7f2d520affa0ea8f5d4e975"
-    },
-    {
-      "id": "227385e4b49d1abf",
-      "title": "English winemakers expect ‘vintage year’ after record-breaking summer heat",
-      "summary": "Hot weather means sweeter grapes, but outlook gloomier for beermakers, as drought diminishes barley harvest English sparkling winemakers expect their earliest grape harvest and a “vintage year” after a scorching summer quickly ripened grapes. However, beer sellers have warned of a potential shortage after record-breaking temperatures and a drought hitting much of England has caused poor yields of barley. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/10/english-winemakers-vintage-grapes-harvest-heatwave",
-      "source": "The Guardian Business",
-      "publisher": "The Guardian",
-      "published": "2026-09-10T14:00:37Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 61,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/839e07c28c67783b8cd6ace22a3906380b911b61/340_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=275b608a5a7983b59a5513d574f8feb3"
-    },
-    {
-      "id": "07064a222aa9c386",
-      "title": "The ‘great grid upgrade’ is off track – ministers should spell out the risks for bills | Nils Pratley",
-      "summary": "National Audit Office calls for greater transparency on £70bn programme that is running over budget and behind schedule Speed up electricity grid upgrade or else face higher bills, warns UK watchdog It’s an open secret in the energy industry that “the great grid upgrade” – the £70bn programme to rewire the nation’s electricity transmission network to enable clean power by 2030 – is running over budget and behind schedule, and may end up costing consumers and businesses more in their bills than advertised. How far behind? How much more? It is impossible to get straight answers from the bodies overseeing the massive spending programme, which may continue at an even greater scale into the 2030s. The Department for Energy Security and Net Zero (Desnz), its in-house body, the National Energy System Operator (Neso), and Ofgem, the supposedly independent regulator, publish acres of information on narrow matters, but none provides a clear big-picture assessment: how is the grid upgrade really going? Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/sep/11/grid-upgrade-electricity-transmission-bills-nils-pratley",
-      "source": "The Guardian Business",
-      "publisher": "The Guardian",
-      "published": "2026-09-11T05:00:03Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 160,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/628e4c83bbafaabc8830081cb5ea58268cb13e7a/146_0_2917_2333/master/2917.jpg?width=700&quality=85&auto=format&fit=max&s=4e504041459bc9f949e391630dd77df1"
     },
     {
       "id": "fdb7939ac4bbdf3f",
@@ -4349,30 +4130,6 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/ef2be4e6aa749e7b0782673cf1f8a8f3665a6664/642_0_6702_5363/master/6702.jpg?width=700&quality=85&auto=format&fit=max&s=61e9b61f52427edd23fb065cbbd97584"
-    },
-    {
-      "id": "db65a4b8199c173b",
-      "title": "Social supermarket reports hundreds of sign-ups",
-      "summary": "Dartford Larder members pay £4.50 each week for items including unlimited fruit and vegetables.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cgjqywqz1w3o",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-09-10T05:00:25Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe5a/live/73c64f90-ac55-11f1-9e64-05835b0b18f8.jpg"
     },
     {
       "id": "83623736b7fcc80e",
@@ -4663,30 +4420,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28e6/live/f2f3ad00-ad2f-11f1-9bc8-3509bd1a4ead.jpg"
     },
     {
-      "id": "299b13c837b41299",
-      "title": "Chancellor urged to remove ‘hidden taxes’ from energy bills",
-      "summary": "Letter signed by 123 businesses, charities and other groups calls for levies to be paid for by the government More than 120 organisations including big businesses and charities have called for the removal of “hidden taxes” added to energy bills to help reduce costs for consumers and prevent businesses closing. In a letter to the chancellor the signatories – including Energy UK, business trade body the CBI, End Fuel Poverty and Age UK – called for levies amounting to 10% of energy bills that fund policies to be paid for by the government. John Healey is to present his first budget on 28 October. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/money/2026/sep/11/chancellor-remove-hidden-taxes-energy-bills",
-      "source": "The Guardian Business",
-      "publisher": "The Guardian",
-      "published": "2026-09-11T12:37:01Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 104,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/bf895d419b661bb8e452da929fdd018e71fffbe0/1418_500_6133_4907/master/6133.jpg?width=700&quality=85&auto=format&fit=max&s=70538c0d97c6ff4a504c0415cbadd3b4"
-    },
-    {
       "id": "60b8c2c5e22ed4f8",
       "title": "Spurs and Richarlison in dispute over contract",
       "summary": "Tottenham and their forward Richarlison are in dispute over the remaining nine months on his contract.",
@@ -4733,6 +4466,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7147/live/91bb8c00-ad12-11f1-826f-933990eae6f0.jpg"
+    },
+    {
+      "id": "20350411589b7060",
+      "title": "US consumer prices stayed high in August as Iran war pushed energy costs up",
+      "summary": "Annualized inflation rate was 3.4%, same as July, and core inflation, which omits energy and food prices, was up to 2.4% US consumer prices remained stubbornly high in August as the end of the ceasefire between the US and Iran pushed energy prices up, according to data from the US Bureau of Labor Statistics released on Friday. The annualized inflation rate was 3.4%, the same as it was in July. The most recent peak was seen in May, when the inflation rate hit a three-year high at 4.2%. Core inflation, which strips out volatile energy and food prices, increased to 2.4% in August. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/business/2026/sep/11/inflation-august-interest-rates",
+      "source": "The Guardian Business",
+      "publisher": "The Guardian",
+      "published": "2026-09-11T12:38:12Z",
+      "category": "Economics",
+      "region": "Middle East",
+      "labels": [
+        "Economics",
+        "Middle East"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 110,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/d9e3bf53f312fcfb2605b3930bdd5df613b2b9f3/0_0_4993_3993/master/4993.jpg?width=700&quality=85&auto=format&fit=max&s=69b39c7220b824c5717ef1feed30b92e"
     },
     {
       "id": "797eeae457cdfe08",
@@ -4974,6 +4731,247 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eda/live/cc7f4330-aade-11f1-aa35-df10e5ff32f4.jpg"
+    },
+    {
+      "id": "e8ad6570f53615c9",
+      "title": "‘An assault on humanity itself’: Guterres pays tribute to 9/11 victims, survivors and first responders",
+      "summary": "Twenty-five years ago, the heinous terrorist attacks of 11 September 2001 against the United States claimed thousands of lives and represented “an assault on humanity itself”, the UN chief said on Thursday.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168310",
+      "source": "UN News",
+      "publisher": "UN News",
+      "published": "2026-09-10T12:00:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 32,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/01-09-2026-UN-Photo-WTC-Ground-Zero.jpg/image560x340cropped.jpg"
+    },
+    {
+      "id": "76285281533edd26",
+      "title": "Trump's $5,000 Payout Promise",
+      "summary": "Trump says every adult American will get $5,000 if the Republicans win the midterms.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p8r596",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-09-10T15:51:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+    },
+    {
+      "id": "650db1796be25e32",
+      "title": "Four groups caught using the same Chrome and Windows exploit kit",
+      "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-09-09T20:55:02Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 14,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg"
+    },
+    {
+      "id": "940d8732b917d869",
+      "title": "MPs debate assisted dying bill ahead of parliamentary vote – UK politics live",
+      "summary": "Bill would allow terminally ill adults with less than six months to live to end their lives, after the approval of a panel of experts While the debate continues, we have a comment from Sam Royston, executive director of research and policy at Marie Curie . He said the government must address the crisis in palliative care regardless of what happens with assisted dying, calling for a new framework and funding to ensure everyone has access to compassionate end-of-life care. He said: Whatever happens with assisted dying, the UK government must fix the crisis in palliative care. It is devastating that nearly one in three people die without the help they need. Too many spend their final days in pain or on busy, chaotic hospital wards, while families are left fighting for help instead of spending time with the people they love. I think it’s absolutely right that, for instance, the prime minister and the government have said that improving palliative care must be a priority for him and his government. I think that’s something that we can all support. I think everybody should have access to good quality palliative and hospice end-of-life care at their final moment.” Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/11/assisted-dying-vote-uk-politics-latest-news-labour-andy-burnham",
+      "source": "The Guardian UK",
+      "publisher": "The Guardian",
+      "published": "2026-09-11T12:14:27Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 3,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 199,
+      "readingMinutes": 1,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/bda97ddc628ceb4fa53f31b2cc34f951693967ec/1100_0_6830_5464/master/6830.jpg?width=700&quality=85&auto=format&fit=max&s=e42919a22121af927d95c89c6ecef2fb"
+    },
+    {
+      "id": "b18293f0ce0f9ac2",
+      "title": "Can you make a case for Chelsea being stripped of 2016-17 title?",
+      "summary": "Does Mauricio Pochettino have a case that Tottenham should be retrospectively crowned Premier League champions?",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0re0n84yz7o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-10T13:55:43Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c93/live/4dcf0c20-ad11-11f1-826f-933990eae6f0.jpg"
+    },
+    {
+      "id": "d0c911ae6cf67fbd",
+      "title": "Blue Jays unable to sweep, lose WC ground despite encouraging series",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-drop-series-finale-in-kansas-city",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-06T21:34:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "4922572a7c1708d6",
+      "title": "Europe may finally have found a space entrepreneur who is meeting the moment",
+      "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-09-09T20:27:40Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 13,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895-1024x648.jpg"
+    },
+    {
+      "id": "edc747cb27ff1de0",
+      "title": "When it comes to Beatles references, scientists can't let it be",
+      "summary": "New study detects 3,200 references to Beatles song titles and lyrics in academic papers.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-09-09T19:31:55Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/beatles-1152x648.jpg"
+    },
+    {
+      "id": "f5bee39a3db40b50",
+      "title": "Crude oil tops $100 a barrel, increasing prices at the pump",
+      "summary": "An escalation of fighting around the Strait of Hormuz pushes the benchmark price of crude oil back above $100 per barrel. That's leading to higher prices at the gas pump, just ahead of a high-profile inflation report.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/09/10/nx-s1-5962809/crude-oil-tops-100-a-barrel-increasing-prices-at-the-pump",
+      "source": "NPR Business",
+      "publisher": "NPR",
+      "published": "2026-09-10T08:41:19Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 37,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5962809"
+    },
+    {
+      "id": "f27f225d82af4304",
+      "title": "Air traffic failure was avoidable, says transport secretary",
+      "summary": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-09-09T18:21:16Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7de8/live/6b39d570-ac66-11f1-80f0-9795d1a5edbc.jpg"
     }
   ],
   "sourceStatus": [
@@ -5040,7 +5038,7 @@
     {
       "source": "The Guardian Technology",
       "ok": true,
-      "items": 27
+      "items": 36
     },
     {
       "source": "TechCrunch",
@@ -5070,7 +5068,7 @@
     {
       "source": "The Guardian Business",
       "ok": true,
-      "items": 40
+      "items": 20
     },
     {
       "source": "CBC Business",
@@ -5180,8 +5178,8 @@
     },
     {
       "source": "Undark",
-      "succeeded": 3,
-      "failed": 0,
+      "succeeded": 0,
+      "failed": 3,
       "skipped": 0
     },
     {
