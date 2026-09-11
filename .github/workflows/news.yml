@@ -24,6 +24,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Refresh public feeds
+        if: github.event_name != 'push'
+        run: python news/scripts/news_pipeline.py --allow-fallback --status
       - name: Test pipeline
         run: python -m unittest discover -s news/scripts -p 'test_*.py' -v
       - name: Test agent readiness
@@ -34,9 +37,6 @@ jobs:
           node --check projects/canadian-tech-challenge/assets/core.js
           node --check projects/canadian-tech-challenge/assets/app.js
           node projects/canadian-tech-challenge/tests/test_runtime.js
-      - name: Refresh public feeds
-        if: github.event_name != 'push'
-        run: python news/scripts/news_pipeline.py --allow-fallback --status
       - name: Validate generated assets
         run: |
           python -m json.tool news/data/news.json >/dev/null

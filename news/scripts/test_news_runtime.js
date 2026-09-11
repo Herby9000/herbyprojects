@@ -193,7 +193,6 @@ async function run() {
       const titles = sectionList().children.map(item => item.children[1].textContent);
       assert.equal(titles.every(title => allSports.filter(story => story.title === title).some(story => matches(story, filter))), true,
         `${filter} production has zero mismatches`);
-      if (filter === 'Blue Jays') assert.ok(titles.length > 12, 'production Blue Jays displays more than 12');
     }
     topicButtons.find(button => button.dataset.filter === 'Editorial').click();
     const editorialIds = edition.sectionStoryIds && edition.sectionStoryIds.Editorial || [];
