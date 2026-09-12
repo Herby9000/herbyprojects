@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-12T18:21:30.472194Z",
+  "generatedAt": "2026-09-12T22:15:34.069306Z",
   "topStoryIds": [
     "b1aff3d54a2ab28f",
     "9c4d6665f4125ec1",
-    "c531cd669352db7d",
+    "39d85a5cc6e9369e",
     "5a99c2f5c44324d1",
     "03f79f38e9c5341e",
     "f401060a42a78c01",
@@ -16,7 +16,6 @@
       "5a99c2f5c44324d1",
       "f6983bf9109863be",
       "25643bb615ee4baf",
-      "61fdc10fead002d2",
       "28f1bca4257ce4fe",
       "d2579ef60ddab544"
     ],
@@ -32,21 +31,21 @@
     "Economics": [
       "03f79f38e9c5341e",
       "ccdd237b62075e48",
-      "c531cd669352db7d",
-      "a0e9533a807c68ce"
+      "39d85a5cc6e9369e",
+      "c531cd669352db7d"
     ],
     "Sports": [
+      "161fd28df2a1f800",
       "73b3551318677c4d",
       "325211fdfac70368",
-      "6168db15d7c3bedd",
       "49c7bd2fb19a5533",
       "3f678e8fd39853db",
       "18362e9712cb0526",
       "f6874e1c9b720dd9",
       "fb47ebb7f7def005",
       "3076bcb105337d98",
-      "3a49a18c979af59d",
-      "dc7e22923a6e4ff8",
+      "06371bb0302f874c",
+      "053bb23e2fa62a42",
       "556f37f145e49359"
     ],
     "Editorial": [
@@ -117,29 +116,29 @@
       "imageHeight": 648
     },
     {
-      "id": "c531cd669352db7d",
-      "title": "Watch: Three times Trump has promised money to Americans",
-      "summary": "The BBC's Samira Hussain looks at the president's past claims after he announced he would pay American adults $5,000 if Republicans win in the midterm elections.",
+      "id": "39d85a5cc6e9369e",
+      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+      "summary": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\".",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/videos/cgk5nn338peo",
+      "url": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o",
       "source": "BBC Business",
       "publisher": "BBC",
-      "published": "2026-09-10T22:53:00Z",
+      "published": "2026-09-12T20:37:29Z",
       "category": "Economics",
-      "region": "US",
+      "region": "World",
       "labels": [
         "Economics",
-        "US"
+        "World"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 192,
-      "readingMinutes": 1,
+      "wordCount": 784,
+      "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4c5/live/bd545cf0-ad69-11f1-bc1f-3f186ca4140c.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nUS President Donald Trump says he would give $5,000 to every American adult if the midterm elections go his way. Turning that promise into reality, however, would face significant hurdles. The proposal could cost more than $1.3 trillion, would require congressional approval and could face legal scrutiny regarding soliciting votes for money.\n\nBBC’s Samira Hussain looks at other times the president has made similar promises.\n\nSubsection Business\n\nPublished 1 day ago\n\nRelated topics\n\nUS midterm elections 2026 Follow US midterm elections 2026 close panel You are now following US midterm elections 2026 Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUS economy Follow US economy close panel You are now following US economy Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0d0/live/06b5b760-aeb2-11f1-ae38-d350b022f499.jpg",
+      "body": "Sales of fresh mackerel have also been suspended by some shops due to overfishing concerns\n\nPublished 12 September 2026, 19:31 BST\n\nA growing trend of supermarkets selling a cheaper, less nutritious alternative to tinned mackerel is an example of \"skimpflation\", a consumer group has said.\n\nPrinces - which supplies major supermarkets - has substituted jack mackerel, an entirely different species, for mackerel, with similar tins also being sold by Lidl.\n\nThe switch has been spurred by dwindling stocks of Atlantic mackerel after years of overfishing, with its Chilean counterpart more sustainable and a third of the cost.\n\n\"It's a real concern when manufacturers quietly downgrade everyday staples like these as shoppers can end up paying the same price for a product that delivers significantly less nutritional quality,\" Sue Davies, head of food policy at Which?, said.\n\nJack mackerel contains about half as much omega-3 and around a third as much vitamin B12 as traditional mackerel.\n\nThe shift has prompted complaints from some consumers over differences in taste and texture, as well as concerns about how clearly the replacement fish is being labelled.\n\nPrinces announced last October , external that it was changing all of its tinned mackerel products to jack mackerel, saying the species meets the Marine Stewardship Council's sustainability standards.\n\nThe firm said its jack mackerel products were \"clearly identified\" and had been introduced following extensive product and consumer testing, describing it as having a \"milder flavour and meatier texture\".\n\nLidl is selling jack mackerel under its house brand. Lidl GB said it was \"committed to sourcing fish and seafood from responsibly managed fisheries\".\n\nDavies from Which? said: \"While manufacturers face genuine supply chain pressures and sustainability challenges, they have a responsibility to shoppers to be completely upfront when they change a product's recipe.\"\n\nShe added: \"Skimpflation - quietly changing ingredients to cut costs - has become increasingly common, but it can feel particularly sneaky as shoppers may not realise a product has changed until they get it home and eat it.\"\n\n'Mackerel war'\n\nDespite its name, jack mackerel is not a type of mackerel. Jack mackerel belongs to the Carangidae fish family, while traditional mackerel belongs to the Scombridae family.\n\nUntil December 2025, under UK law, Carangidae species could only be marketed as \"jack\", \"scad\", \"trevally\" or \"horse mackerel\".\n\nBut shortly after Princes launched its new product as \"jack mackerel\", the Department for Environment, Food and Rural Affairs changed its rules to permit the labelling.\n\nIndustry figures reposted by seafood market intelligence platform Undercurrent suggest wholesale Chilean jack mackerel costs roughly one-third as much as Atlantic mackerel.\n\nThe Scottish Pelagic Fishermen's Association said there was the potential for confusion, saying \"consumers should be able to clearly understand what they are buying\".\n\nCEO designate Hannah Fennell said: \"If retailers move away from Northeast Atlantic mackerel, they are unfairly punishing the UK industry while instead sourcing a different, less omega-3-rich species from the other side of the world with a significantly higher carbon footprint to the UK market.\"\n\nThe switch follows the so-called \"mackerel war\", a long-running dispute between the UK, Iceland, Greenland, Norway, the Faroe Islands, the EU and Russia over shared mackerel catch quotas.\n\nThe countries have repeatedly failed to agree a unified system for sharing stock and setting catch limits in line with scientific advice.\n\nMackerel catches in the north-east Atlantic have exceeded the levels advised by scientists by an average of 39% over the past 15 years, according to the Marine Stewardship Council (MSC).\n\nStocks have plummeted by roughly three-quarters over the past decade, according to the International Council for the Exploration of the Sea (Ices).\n\nThe intergovernmental body has advised slashing the quantity of north-east Atlantic mackerel caught in 2026 by roughly 70% to allow the stock a chance to recover.\n\nLast year, the Marine Conservation Society said the Atlantic mackerel population was at \"breaking point\".\n\nThe severe depletion of mackerel numbers has led to the fish losing its MSC certification, meaning it no longer complies with many retailers' sustainability policies. Chilean jack mackerel, in contrast, is MSC-certified.\n\nIn February, Waitrose said it would suspend sales of fresh, chilled and frozen mackerel due to overfishing concerns, while tinned products would be phased out as existing stock was sold.\n\nThe Marine Conservation Society heralded the move as \"leading and decisive\".\n\nThe switch to jack mackerel is being felt beyond the UK, with supermarkets in the Netherlands no longer selling Atlantic mackerel and at least one supermarket in Sweden switching to jack mackerel.\n\nRelated topics\n\nFish\n\nAtlantic Ocean\n\nSupermarkets\n\nMore on this story\n\nScientists and fishermen celebrate return of tuna Published 2 days ago\n\nLobster catches at record low Published 17 August\n\nMackerel festival should celebrate cabbage instead, say animal rights activists Published 4 August",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -166,7 +165,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afa5/live/b18ef1b0-aea8-11f1-bc1f-3f186ca4140c.jpg",
-      "body": "Christopher Harborne (left) and Ben Delo (right)\n\nPublished 12 September 2026, 12:56 BST\n\nReform UK has received a second £36m donation in as many days, as cryptocurrency investor Christopher Harborne matched a record-breaking donation announced late on Friday.\n\nThailand-based Harborne wrote in the Telegraph , external that his \"competitive spirit\" inspired him to equal Ben Delo's donation - the largest ever given to a UK political party - adding he expected \"nothing personally\" in return.\n\nReform said the £72m would be used to hire \"the brightest and best minds to work on policy and the most comprehensive plan for government ever\".\n\nThe party is facing scrutiny over its finances, as the government seeks to cap donations to UK political parties from British expats.\n\nThere have also been renewed calls by MPs from other political parties for donations from individuals to be capped.\n\nThe £72m from the two donations is more than the total received by all UK political parties last year, which stood at just over £69m.\n\nReform leader Nigel Farage said Harborne and Delo's \"generosity\" meant the party would \"now be able to fight and win the next general election on a level playing field\".\n\nA Reform UK spokesman added: \"We will now also be able to hire up to 400 campaign managers in every target constituency. We are now on election footing.\"\n\nSpeaking to BBC Radio 4's PM programme on Saturday, the party's deputy leader Richard Tice denied accusations the donations were bad for democracy.\n\n\"It's the opposite actually, we're delighted and very humbled by the confidence expressed by two very successful entrepreneurs who realise Britain's in serious trouble,\" he said.\n\n\"To have that support, to know we can focus on employing the best people, whether it be on social media, policy, campaign managers, that's a good thing.\"\n\nEarlier, speaking to Sky News, Tice said Delo's donation had been an upfront sum \"so that the Labour Party can't legislate against it\" and would be spent over two or three years.\n\nWho is Reform donor and crypto billionaire Ben Delo? Published 6 hours ago\n\nReform receives record £36m donation from crypto billionaire Published 7 hours ago\n\nHarborne has already donated millions to Reform and Farage, who is currently under investigation by the parliamentary standards commissioner over whether he should have declared a £5m cash gift from Harborne ahead of the 2024 election.\n\nFarage has argued that he was under no obligation to register the \"purely private\" gift, as it was unrelated to his parliamentary or political activities.\n\nThe party is also facing scrutiny after a broadcast by Channel 4 News last week showed two senior Reform aides apparently suggesting a way around electoral law to secure foreign party donations.\n\nThe Metropolitan Police has said it is investigating, while the party denies any wrongdoing.\n\nThe force is also looking into donations given to the party by Fiona Cottrell, mother of longstanding Farage ally George Cottrell, as well as a company controlled by Tice.\n\nHarborne wrote on Saturday that he had \"already accumulated enough wealth for the rest of my life\", while Reform was a \"start-up party\" that lacked \"the benefit of hundreds of years of patronage\".\n\n\"A start-up party needs more money than can be provided by membership fees alone, to build and sustain itself and be ready for government,\" he said.\n\nHarborne and Delo's donations mark the largest sums received by a UK political party since they had to begin declaring them in 2001.\n\nDelo, who also announced his donation in a Telegraph op-ed, said he was giving the money away because he wanted a \"fair fight and a level playing field\". He said in April he was moving back to Britain from Hong Kong.\n\nAddressing the recent scrutiny of Reform's finances, he said: \"My conclusion from Reform's recent troubles is that they should spend less time trying to raise funds to compete on equal terms and more time preparing for government.\"\n\nLast year, he was given an unconditional pardon by US President Donald Trump over a breach of anti-money laundering laws at his crypto trading platform, BitMEX, to which he had pleaded guilty in 2022.\n\nThere are currently no restrictions on the amount of money UK-based donors can give to political parties.\n\nHowever, the Labour government has introduced a £100,000 cap on donations from British citizens living overseas, and plans to introduce a similar one for those who have recently returned to the UK.\n\nThere were nine donations of £1m or more to political parties in 2025. The largest was £9m given to Reform UK by Harborne.\n\nLabour had five donations of £1m or more - totalling nearly £10m - and the Conservatives had three of £1m each.\n\nLabour said Reform and Farage still had \"serious questions\" to answer about their finances.\n\nParty chairwoman Bridget Phillipson said Reform were \"drowning\" in \"sleaze and scandal\".\n\nShe added: \"It's time Farage and Reform came clean with the public, fully co-operated with the ongoing police investigations and prove they're not just in it for themselves.\"\n\nRachel Millward, deputy leader of the Green Party, told BBC News it wanted a cap on donations from individuals of £500,000.\n\nShe said the donations to Reform were \"absolutely staggering amounts\", adding: \"What I am very frustrated about is the influence of extreme wealth and the super rich. What I want to see is people in politics representing the needs of their communities and ordinary people.\"\n\nLiberal Democrat Cabinet Office spokeswoman Lisa Smart called for the government to introduce emergency legislation to cap donations.\n\nShe said: \"These are eye-watering amounts of money. This is real emergency for our democracy. It presents a very clear and present threat.\"\n\nLabour MP Stella Creasy and other backbenchers had proposed an amendment to the Government's Representation of the People Bill that would stop donors giving parties over £100,000 a year.\n\nBut the amendment was never debated in the Commons after the government said it would set up a task force to investigate the issue. The bill will be debated in the House of Lords on Monday.\n\nDuncan Hames, Director of Policy and Programmes at campaigning charity Transparency International UK, said: \"This is a watershed moment, with two billionaires pledging £72m to one political party in less than 48 hours.\n\n\"This situation is now completely out of control, and makes an irrefutable case for government to bring forward an annual cap on political donations, and fast.\"\n\nRelated topics\n\nReform UK",
+      "body": "Christopher Harborne (left) and Ben Delo (right)\n\nPublished 12 September 2026, 12:56 BST\n\nReform UK has received a second £36m donation in as many days, as cryptocurrency investor Christopher Harborne matched a record-breaking donation announced late on Friday.\n\nThailand-based Harborne wrote in the Telegraph , external that his \"competitive spirit\" inspired him to equal Ben Delo's donation - the largest ever given to a UK political party - adding he expected \"nothing personally\" in return.\n\nReform said the £72m would be used to hire \"the brightest and best minds to work on policy and the most comprehensive plan for government ever\".\n\nThe party is facing scrutiny over its finances, as the government seeks to cap donations to UK political parties from British expats.\n\nThere have also been renewed calls by MPs from other political parties for donations from individuals to be capped.\n\nThe £72m from the two donations is more than the total received by all UK political parties last year, which stood at just over £69m.\n\nReform leader Nigel Farage said Harborne and Delo's \"generosity\" meant the party would \"now be able to fight and win the next general election on a level playing field\".\n\nA Reform UK spokesman added: \"We will now also be able to hire up to 400 campaign managers in every target constituency. We are now on election footing.\"\n\nSpeaking to BBC Radio 4's PM programme on Saturday, the party's deputy leader Richard Tice denied accusations the donations were bad for democracy.\n\n\"It's the opposite actually, we're delighted and very humbled by the confidence expressed by two very successful entrepreneurs who realise Britain's in serious trouble,\" he said.\n\n\"To have that support, to know we can focus on employing the best people, whether it be on social media, policy, campaign managers, that's a good thing.\"\n\nEarlier, speaking to Sky News, Tice said Delo's donation had been an upfront sum \"so that the Labour Party can't legislate against it\" and would be spent over two or three years.\n\nWho is Reform donor and crypto billionaire Ben Delo? Published 9 hours ago\n\nReform receives record £36m donation from crypto billionaire Published 11 hours ago\n\nHarborne has already donated millions to Reform and Farage, who is currently under investigation by the parliamentary standards commissioner over whether he should have declared a £5m cash gift from Harborne ahead of the 2024 election.\n\nFarage has argued that he was under no obligation to register the \"purely private\" gift, as it was unrelated to his parliamentary or political activities.\n\nThe party is also facing scrutiny after a broadcast by Channel 4 News last week showed two senior Reform aides apparently suggesting a way around electoral law to secure foreign party donations.\n\nThe Metropolitan Police has said it is investigating, while the party denies any wrongdoing.\n\nThe force is also looking into donations given to the party by Fiona Cottrell, mother of longstanding Farage ally George Cottrell, as well as a company controlled by Tice.\n\nHarborne wrote on Saturday that he had \"already accumulated enough wealth for the rest of my life\", while Reform was a \"start-up party\" that lacked \"the benefit of hundreds of years of patronage\".\n\n\"A start-up party needs more money than can be provided by membership fees alone, to build and sustain itself and be ready for government,\" he said.\n\nHarborne and Delo's donations mark the largest sums received by a UK political party since they had to begin declaring them in 2001.\n\nDelo, who also announced his donation in a Telegraph op-ed, said he was giving the money away because he wanted a \"fair fight and a level playing field\". He said in April he was moving back to Britain from Hong Kong.\n\nAddressing the recent scrutiny of Reform's finances, he said: \"My conclusion from Reform's recent troubles is that they should spend less time trying to raise funds to compete on equal terms and more time preparing for government.\"\n\nLast year, he was given an unconditional pardon by US President Donald Trump over a breach of anti-money laundering laws at his crypto trading platform, BitMEX, to which he had pleaded guilty in 2022.\n\nThere are currently no restrictions on the amount of money UK-based donors can give to political parties.\n\nHowever, the Labour government has introduced a £100,000 cap on donations from British citizens living overseas, and plans to introduce a similar one for those who have recently returned to the UK.\n\nThere were nine donations of £1m or more to political parties in 2025. The largest was £9m given to Reform UK by Harborne.\n\nLabour had five donations of £1m or more - totalling nearly £10m - and the Conservatives had three of £1m each.\n\nLabour said Reform and Farage still had \"serious questions\" to answer about their finances.\n\nParty chairwoman Bridget Phillipson said Reform were \"drowning\" in \"sleaze and scandal\".\n\nShe added: \"It's time Farage and Reform came clean with the public, fully co-operated with the ongoing police investigations and prove they're not just in it for themselves.\"\n\nRachel Millward, deputy leader of the Green Party, told BBC News it wanted a cap on donations from individuals of £500,000.\n\nShe said the donations to Reform were \"absolutely staggering amounts\", adding: \"What I am very frustrated about is the influence of extreme wealth and the super rich. What I want to see is people in politics representing the needs of their communities and ordinary people.\"\n\nLiberal Democrat Cabinet Office spokeswoman Lisa Smart called for the government to introduce emergency legislation to cap donations.\n\nShe said: \"These are eye-watering amounts of money. This is real emergency for our democracy. It presents a very clear and present threat.\"\n\nLabour MP Stella Creasy and other backbenchers had proposed an amendment to the Government's Representation of the People Bill that would stop donors giving parties over £100,000 a year.\n\nBut the amendment was never debated in the Commons after the government said it would set up a task force to investigate the issue. The bill will be debated in the House of Lords on Monday.\n\nDuncan Hames, Director of Policy and Programmes at campaigning charity Transparency International UK, said: \"This is a watershed moment, with two billionaires pledging £72m to one political party in less than 48 hours.\n\n\"This situation is now completely out of control, and makes an irrefutable case for government to bring forward an annual cap on political donations, and fast.\"\n\nRelated topics\n\nReform UK",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -220,7 +219,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/AI-talent-war-1600x900.jpg",
-      "body": "Innovation\n\nOpenAI and Anthropic are hiring leaders from Meta, Google, Microsoft, and other U.S. tech giants to win new markets across India and Southeast Asia.\n\nSilicon Valley’s artificial intelligence talent wars are now playing out in Asia.\n\nOpenAI and Anthropic are poaching top talent from U.S. tech giants including Google, Microsoft, and Amazon to build teams in countries like India and Singapore to sell their products and strengthen engagement with policymakers.\n\nLast month, Meta’s India and Southeast Asia vice president, Sandhya Devanathan, left the company after a decade to join OpenAI as vice president for Southeast Asia and Australia. This was at least the ninth hire by a U.S. AI giant from an American big tech firm in Asia in the past year.\n\n“The number of executives in India who’ve actually run a country-level P&L [profit and loss] for a global tech company, negotiated with Indian regulators, and built enterprise trust at scale is small, maybe a few hundred people across all of Big Tech India,” Arjun Jaggi, an applied AI researcher and executive adviser to Fortune 500 companies, told Rest of World .\n\nOpenAI and Anthropic did not respond to requests for interviews with their recent hires, or to questions about their Asia-Pacific hiring strategy.\n\nIn the U.S., frontier AI labs have mostly competed for the best researchers and engineers. In Asia, however, the more sought-after executives are those who can translate AI capabilities into market adoption as the competition moves from building the best models to capturing new markets.\n\nIn new markets, companies need leaders who can focus on partnerships, policy, and business development, Deepali Vyas, global head of data and AI executive search at talent advisory firm ZRG Partners, told Rest of World . Vyas works with Fortune 500 companies to scout talent for executive roles.\n\n“Once a company decides [a region] is a strategic growth market, you start looking for executives who can essentially operate as mini-CEOs,” she said.\n\nA professional with experience working at companies like Microsoft, Google, or Uber in Asia has an understanding of how Silicon Valley’s products can be scaled while navigating local landscapes, making them valuable to AI companies. Experts believe AI companies’ focus is less on poaching from big tech firms and more on seeking individuals who have such experience.\n\nThe prized asset is not generic familiarity with American technology but dual institutional literacy.” Sanchit Vir Gogia, chief analyst at Greyhound Research\n\nOpenAI’s first hire in India, Pragya Mishra, came from Truecaller. Her resume, though, includes being the first WhatsApp hire in India. OpenAI’s Asia-Pacific director, Kiran Mani, came from India’s largest media and entertainment conglomerate, JioStar, in March. Mani had previously worked at Google for 13 years.\n\nDevanathan’s Meta experience spans consumer platforms, gaming, commerce, business messaging, payments, advertisers, and partnerships.\n\n“The prized asset is not generic familiarity with American technology but dual institutional literacy: knowing how a U.S.-headquartered company allocates capital and risk, and knowing how Indian customers, governments, and partners turn global strategy into local reality,” Sanchit Vir Gogia, chief analyst at Greyhound Research, told Rest of World .\n\nThe need to dip into the same talent pool also arises because of a shortage of skilled leaders.\n\n“At the leadership level, the scarcity is more pronounced because experience cannot be created overnight. Most of the large technology companies are increasingly competing for the same relatively small group of proven executives,” Neeti Sharma, CEO of TeamLease Digital, the staff and tech recruitment arm of human resources firm TeamLease Services, told Rest of World . “Over time, the pool will expand as leaders emerge from GCCs [global capability centers], SaaS [software-as-a-service] companies, startups, and digital businesses.”\n\nI refused to train the AI that could replace me\n\nAI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.\n\nThink your EV holds its value? China has some bad news for you\n\nUsed car dealers in the world’s biggest EV market are turning away 5-year-old cars, exposing a battery anxiety problem heading for Western buyers next.\n\nTaiwan’s six-year hunt for China’s undercover chip labs\n\nPreviously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
+      "body": "Innovation\n\nOpenAI and Anthropic are hiring leaders from Meta, Google, Microsoft, and other U.S. tech giants to win new markets across India and Southeast Asia.\n\nSilicon Valley’s artificial intelligence talent wars are now playing out in Asia.\n\nOpenAI and Anthropic are poaching top talent from U.S. tech giants including Google, Microsoft, and Amazon to build teams in countries like India and Singapore to sell their products and strengthen engagement with policymakers.\n\nLast month, Meta’s India and Southeast Asia vice president, Sandhya Devanathan, left the company after a decade to join OpenAI as vice president for Southeast Asia and Australia. This was at least the ninth hire by a U.S. AI giant from an American big tech firm in Asia in the past year.\n\n“The number of executives in India who’ve actually run a country-level P&L [profit and loss] for a global tech company, negotiated with Indian regulators, and built enterprise trust at scale is small, maybe a few hundred people across all of Big Tech India,” Arjun Jaggi, an applied AI researcher and executive adviser to Fortune 500 companies, told Rest of World .\n\nOpenAI and Anthropic did not respond to requests for interviews with their recent hires, or to questions about their Asia-Pacific hiring strategy.\n\nIn the U.S., frontier AI labs have mostly competed for the best researchers and engineers. In Asia, however, the more sought-after executives are those who can translate AI capabilities into market adoption as the competition moves from building the best models to capturing new markets.\n\nIn new markets, companies need leaders who can focus on partnerships, policy, and business development, Deepali Vyas, global head of data and AI executive search at talent advisory firm ZRG Partners, told Rest of World . Vyas works with Fortune 500 companies to scout talent for executive roles.\n\n“Once a company decides [a region] is a strategic growth market, you start looking for executives who can essentially operate as mini-CEOs,” she said.\n\nA professional with experience working at companies like Microsoft, Google, or Uber in Asia has an understanding of how Silicon Valley’s products can be scaled while navigating local landscapes, making them valuable to AI companies. Experts believe AI companies’ focus is less on poaching from big tech firms and more on seeking individuals who have such experience.\n\nThe prized asset is not generic familiarity with American technology but dual institutional literacy.” Sanchit Vir Gogia, chief analyst at Greyhound Research\n\nOpenAI’s first hire in India, Pragya Mishra, came from Truecaller. Her resume, though, includes being the first WhatsApp hire in India. OpenAI’s Asia-Pacific director, Kiran Mani, came from India’s largest media and entertainment conglomerate, JioStar, in March. Mani had previously worked at Google for 13 years.\n\nDevanathan’s Meta experience spans consumer platforms, gaming, commerce, business messaging, payments, advertisers, and partnerships.\n\n“The prized asset is not generic familiarity with American technology but dual institutional literacy: knowing how a U.S.-headquartered company allocates capital and risk, and knowing how Indian customers, governments, and partners turn global strategy into local reality,” Sanchit Vir Gogia, chief analyst at Greyhound Research, told Rest of World .\n\nThe need to dip into the same talent pool also arises because of a shortage of skilled leaders.\n\n“At the leadership level, the scarcity is more pronounced because experience cannot be created overnight. Most of the large technology companies are increasingly competing for the same relatively small group of proven executives,” Neeti Sharma, CEO of TeamLease Digital, the staff and tech recruitment arm of human resources firm TeamLease Services, told Rest of World . “Over time, the pool will expand as leaders emerge from GCCs [global capability centers], SaaS [software-as-a-service] companies, startups, and digital businesses.”\n\nTaiwan’s six-year hunt for China’s undercover chip labs\n\nPreviously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.\n\nI refused to train the AI that could replace me\n\nAI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.\n\nThink your EV holds its value? China has some bad news for you\n\nUsed car dealers in the world’s biggest EV market are turning away 5-year-old cars, exposing a battery anxiety problem heading for Western buyers next.",
       "imageWidth": 1600,
       "imageHeight": 900
     },
@@ -275,7 +274,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4492/live/4a744950-adca-11f1-a540-61c3f7fc4e6c.jpg",
-      "body": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations\n\nPublished 12 September 2026, 11:07 BST\n\nUpdated 5 hours ago\n\nLook closely at the posters, placards and online posts. Your eyes aren't deceiving you if Labour's red seems a little deeper and the Conservatives' blue a little truer.\n\nPolitics seems to have found a new rhythm, one that feels a little familiar, despite Reform's jaw-dropping new donations putting it back in the headlines today.\n\nFor the avoidance of doubt, the scale of that initial £36m gift to Nigel Farage's party alone is like something from a different political universe.\n\n\"It's a gobsmacking sum,\" a senior figure involved in running successive election campaigns for one of the big parties tells me.\n\nThat was even before another Reform donor pledged to match that astonishing sum with another £36m , saying the first donation had provoked his \"competitive spirit\".\n\nBut one cabinet minister is enjoying what they see as a newly obvious difference between Labour and the Tories. \"It's clarifying,\" they say, a clear gap between Labour and the Tories' \"sense of purpose and values\".\n\nA member of Conservative leader Kemi Badenoch's top team tells me, \"normal jogging is reasserting itself\", hopeful they're at the start of a more straightforward, routine moment in politics after years of craziness, with smaller parties vying to shove the traditional tribes out of the way.\n\nThe standout moment was at the despatch box this week when Prime Minister Andy Burnham declared that national security couldn't come at the expense of social security - a phrase immediately seized on by the Tories, interpreting it as the PM saying he'd never cut welfare spending to pay for defence.\n\nOne senior conservative said: \"It was a real line in the sand, we could never have imagined Sir Keir Starmer saying that.\"\n\nThe party seems cock-a-hoop at a line they can use again and again, asserting the prime minister cares more about welfare than guarding against war.\n\nBut there is a positive atmosphere in No 10 too, one source telling me that the face-offs between Badenoch and Burnham have \"breathed new life into the Labour versus Tory dynamic\".\n\nHow can they both be happy, when ultimately politics is a contest and there can only be one winner in the end?\n\nWell, on the security spat, Burnham's backers are adamant he does want to cut welfare spending, and find more money for defence. How does that stack up with his words this week?\n\nI'm told No 10 will explain in more detail his belief that security also means secure communities, which aren't created by slashing benefits.\n\nCrucially, they reckon while cutting welfare might appeal to some voters, \"once you dig into the 'who' and the 'how' of doing that, public support wavers, and when Kemi talks about housing benefit cuts, public opinion goes all over the shop\".\n\nThey even cite that moment as evidence that the prime minister is \"happy to grab thorny issues and put himself at the centre of them\", as he did with the early release of prisoners.\n\nHe'll give a grabby-sounding view before the government has found a solution to a problem, stake part of his reputation on it, and make the case, hoping it will work out.\n\nThe choices are only going to get harder and harder though. \"Hope\" as a slogan and a strategy could never be enough.\n\nBut when politics is fundamentally a contest, how can both the traditional political tribes be buoyant?\n\nFor Labour, it's not just the obvious change of leader to a more effective politician who is much more at ease talking to the public, whether that's an eight-second TikTok or his long explanations of his positions expressed in a newspaper opinion piece and posted on Facebook.\n\nIt's that Burnham is making arguments that are more appealing to Labour's psychology – build council houses, take stronger action against the worst excesses of the Israeli government, stand up for those who need to rely on benefits from the state.\n\nLabour believes, for now, they have a leader who is simply a better politician, who is making arguments many of them find instinctively more appealing.\n\nThe party knows what its leader believes, broadly at least. As one senior figure said: \"He has a worldview which the last one didn't - he's clear what he wants and he's grabbed the reins of power.\"\n\nAnother who has worked under Starmer and now Burnham said: \"It's just chalk and cheese.\"\n\nAnd don't underestimate the importance of keeping backbenchers content, feeling understood. A government source joked the whips, the party managers, are becoming a bit \"like an HR department\" listening to concerns rather than driving the troops forward.\n\nBut as Starmer found to his cost, backbenchers weren't prepared to be loyal to him when many felt he hadn't shown much care or loyalty to them.\n\nBut Badenoch's tribe also seems more chipper because, as she has told friends, there is now a sharper ideological divide between the two parties saying, \"it's much clearer to have those arguments rather than a process discussion with Starmer\".\n\nShadow ministers reckon it's easier to make classic Conservative arguments because in the words of one, \"Andy Burnham is a classic old leftie and we're the obvious answer to that\".\n\nShock, horror, Labour sources I put that to dispute that is the case, one close ally calling him \"a pragmatist\", another denying he's further to the left than Starmer, because, \"Keir was so hard to place\".\n\nBut one conservative source also pointedly wonders how long Labour's happiness with their new leader will last, given Burnham's rapid return to Parliament saying, \"looking at the benches opposite there is a vision of somebody who has turned up to a Tinder date and doesn't quite look like his profile pic\".\n\nOuch.\n\nWill this newly refreshed red-blue battle prove to be the real deal?\n\nRhetorical lines have been drawn this week, but real choices and arguments loom, and the bouncy feeling around the place may not last, especially when it comes to finding cash for the prime minister's big promises.\n\nDowning Street sources acknowledge privately that bringing down the welfare bill in the way that Alan Milburn envisages, with his report expected, but not confirmed, to come before the Budget, will need billions spent up front, money the government might struggle to find.\n\nSimilarly, to build the council houses Burnham desires to cut the housing benefits bill will need big cheques.\n\nIt's one thing promising those Labour friendly dreams. It's another, perhaps at the party conference, to answer the much harder question of how the government plans to pay.\n\nIt won't be easy for a mid-term prime minister to find money in the short term that might only produce savings in the years to come.\n\nBut Burnham's Labour are happy to talk about the economy and how they want to help hard-up families, still citing the chaos of Liz Truss and keen to underline the early steps the prime minister has taken to ease the pressure.\n\nWith borrowing costs and the country's debt seriously sky high, the Conservatives are pleased to sketch out a classic left-right argument too.\n\nIt's also true they have both been enjoying the moment of real pressure on their opponents in Reform, who have slipped back in the polls, besieged by claims and counter claims about party funding.\n\nAlthough this weekend's mega donations illustrate that Nigel Farage still has the capacity to bust political conventions, the money from the crypto billionaire , Ben Delo, and cryptocurrency investor, Christopher Harborne, is completely off the charts for our politics.\n\nTalking about the initial donation, a senior figure told me: \"To put £36 m in context, one man has donated a sum bigger than Labour's entire 2024 election budget, bigger than the Conservatives', and about six times what Reform actually spent.\n\n\"It's the kind of donation that could change how politics is funded in the UK.\"\n\nDuring the last general election campaign Labour raised about £9m, the Tories, Reform and the Lib Dems all less than £2m.\n\nThese extra millions give Farage enormous and immediate spending power, and there might be more to come. Although you can bet the other parties will cry foul over the scale of this big money coming from men with deep pockets, not least because Delo was given an unconditional pardon by US President Donald Trump over violating the Bank Secrecy Act.\n\nIt would be daft for either of the two main parties to assume this apparent return to traditional two-party politics is here to stay. But it is strangely new to be in a moment when both Labour and the Conservatives are broadly content.\n\nAs the new prime minister's universe settles, a key Labour figure observed: \"We've had the amuse–bouche and it was very tasty. What happens next?\"\n\nMore from InDepth\n\nIs it harder than ever to be prime minister? Published 17 May\n\nSir John Curtice: The 'Burnham bounce' is real but it's not massive Published 1 August\n\nOur exclusive behind-the-scenes access at No 10 as Andy Burnham became PM Published 27 July\n\nBBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here\n\nGet in touch\n\nAre you personally affected by the issues raised in this story?\n\nRelated topics\n\nAndy Burnham\n\nKemi Badenoch\n\nConservative Party\n\nLabour Party",
+      "body": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations\n\nPublished 12 September 2026, 11:07 BST\n\nUpdated 9 hours ago\n\nLook closely at the posters, placards and online posts. Your eyes aren't deceiving you if Labour's red seems a little deeper and the Conservatives' blue a little truer.\n\nPolitics seems to have found a new rhythm, one that feels a little familiar, despite Reform's jaw-dropping new donations putting it back in the headlines today.\n\nFor the avoidance of doubt, the scale of that initial £36m gift to Nigel Farage's party alone is like something from a different political universe.\n\n\"It's a gobsmacking sum,\" a senior figure involved in running successive election campaigns for one of the big parties tells me.\n\nThat was even before another Reform donor pledged to match that astonishing sum with another £36m , saying the first donation had provoked his \"competitive spirit\".\n\nBut one cabinet minister is enjoying what they see as a newly obvious difference between Labour and the Tories. \"It's clarifying,\" they say, a clear gap between Labour and the Tories' \"sense of purpose and values\".\n\nA member of Conservative leader Kemi Badenoch's top team tells me, \"normal jogging is reasserting itself\", hopeful they're at the start of a more straightforward, routine moment in politics after years of craziness, with smaller parties vying to shove the traditional tribes out of the way.\n\nThe standout moment was at the despatch box this week when Prime Minister Andy Burnham declared that national security couldn't come at the expense of social security - a phrase immediately seized on by the Tories, interpreting it as the PM saying he'd never cut welfare spending to pay for defence.\n\nOne senior conservative said: \"It was a real line in the sand, we could never have imagined Sir Keir Starmer saying that.\"\n\nThe party seems cock-a-hoop at a line they can use again and again, asserting the prime minister cares more about welfare than guarding against war.\n\nBut there is a positive atmosphere in No 10 too, one source telling me that the face-offs between Badenoch and Burnham have \"breathed new life into the Labour versus Tory dynamic\".\n\nHow can they both be happy, when ultimately politics is a contest and there can only be one winner in the end?\n\nWell, on the security spat, Burnham's backers are adamant he does want to cut welfare spending, and find more money for defence. How does that stack up with his words this week?\n\nI'm told No 10 will explain in more detail his belief that security also means secure communities, which aren't created by slashing benefits.\n\nCrucially, they reckon while cutting welfare might appeal to some voters, \"once you dig into the 'who' and the 'how' of doing that, public support wavers, and when Kemi talks about housing benefit cuts, public opinion goes all over the shop\".\n\nThey even cite that moment as evidence that the prime minister is \"happy to grab thorny issues and put himself at the centre of them\", as he did with the early release of prisoners.\n\nHe'll give a grabby-sounding view before the government has found a solution to a problem, stake part of his reputation on it, and make the case, hoping it will work out.\n\nThe choices are only going to get harder and harder though. \"Hope\" as a slogan and a strategy could never be enough.\n\nBut when politics is fundamentally a contest, how can both the traditional political tribes be buoyant?\n\nFor Labour, it's not just the obvious change of leader to a more effective politician who is much more at ease talking to the public, whether that's an eight-second TikTok or his long explanations of his positions expressed in a newspaper opinion piece and posted on Facebook.\n\nIt's that Burnham is making arguments that are more appealing to Labour's psychology – build council houses, take stronger action against the worst excesses of the Israeli government, stand up for those who need to rely on benefits from the state.\n\nLabour believes, for now, they have a leader who is simply a better politician, who is making arguments many of them find instinctively more appealing.\n\nThe party knows what its leader believes, broadly at least. As one senior figure said: \"He has a worldview which the last one didn't - he's clear what he wants and he's grabbed the reins of power.\"\n\nAnother who has worked under Starmer and now Burnham said: \"It's just chalk and cheese.\"\n\nAnd don't underestimate the importance of keeping backbenchers content, feeling understood. A government source joked the whips, the party managers, are becoming a bit \"like an HR department\" listening to concerns rather than driving the troops forward.\n\nBut as Starmer found to his cost, backbenchers weren't prepared to be loyal to him when many felt he hadn't shown much care or loyalty to them.\n\nBut Badenoch's tribe also seems more chipper because, as she has told friends, there is now a sharper ideological divide between the two parties saying, \"it's much clearer to have those arguments rather than a process discussion with Starmer\".\n\nShadow ministers reckon it's easier to make classic Conservative arguments because in the words of one, \"Andy Burnham is a classic old leftie and we're the obvious answer to that\".\n\nShock, horror, Labour sources I put that to dispute that is the case, one close ally calling him \"a pragmatist\", another denying he's further to the left than Starmer, because, \"Keir was so hard to place\".\n\nBut one conservative source also pointedly wonders how long Labour's happiness with their new leader will last, given Burnham's rapid return to Parliament saying, \"looking at the benches opposite there is a vision of somebody who has turned up to a Tinder date and doesn't quite look like his profile pic\".\n\nOuch.\n\nWill this newly refreshed red-blue battle prove to be the real deal?\n\nRhetorical lines have been drawn this week, but real choices and arguments loom, and the bouncy feeling around the place may not last, especially when it comes to finding cash for the prime minister's big promises.\n\nDowning Street sources acknowledge privately that bringing down the welfare bill in the way that Alan Milburn envisages, with his report expected, but not confirmed, to come before the Budget, will need billions spent up front, money the government might struggle to find.\n\nSimilarly, to build the council houses Burnham desires to cut the housing benefits bill will need big cheques.\n\nIt's one thing promising those Labour friendly dreams. It's another, perhaps at the party conference, to answer the much harder question of how the government plans to pay.\n\nIt won't be easy for a mid-term prime minister to find money in the short term that might only produce savings in the years to come.\n\nBut Burnham's Labour are happy to talk about the economy and how they want to help hard-up families, still citing the chaos of Liz Truss and keen to underline the early steps the prime minister has taken to ease the pressure.\n\nWith borrowing costs and the country's debt seriously sky high, the Conservatives are pleased to sketch out a classic left-right argument too.\n\nIt's also true they have both been enjoying the moment of real pressure on their opponents in Reform, who have slipped back in the polls, besieged by claims and counter claims about party funding.\n\nAlthough this weekend's mega donations illustrate that Nigel Farage still has the capacity to bust political conventions, the money from the crypto billionaire , Ben Delo, and cryptocurrency investor, Christopher Harborne, is completely off the charts for our politics.\n\nTalking about the initial donation, a senior figure told me: \"To put £36 m in context, one man has donated a sum bigger than Labour's entire 2024 election budget, bigger than the Conservatives', and about six times what Reform actually spent.\n\n\"It's the kind of donation that could change how politics is funded in the UK.\"\n\nDuring the last general election campaign Labour raised about £9m, the Tories, Reform and the Lib Dems all less than £2m.\n\nThese extra millions give Farage enormous and immediate spending power, and there might be more to come. Although you can bet the other parties will cry foul over the scale of this big money coming from men with deep pockets, not least because Delo was given an unconditional pardon by US President Donald Trump over violating the Bank Secrecy Act.\n\nIt would be daft for either of the two main parties to assume this apparent return to traditional two-party politics is here to stay. But it is strangely new to be in a moment when both Labour and the Conservatives are broadly content.\n\nAs the new prime minister's universe settles, a key Labour figure observed: \"We've had the amuse–bouche and it was very tasty. What happens next?\"\n\nMore from InDepth\n\nIs it harder than ever to be prime minister? Published 17 May\n\nSir John Curtice: The 'Burnham bounce' is real but it's not massive Published 1 August\n\nOur exclusive behind-the-scenes access at No 10 as Andy Burnham became PM Published 27 July\n\nBBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here\n\nGet in touch\n\nAre you personally affected by the issues raised in this story?\n\nRelated topics\n\nAndy Burnham\n\nKemi Badenoch\n\nConservative Party\n\nLabour Party",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -305,29 +304,6 @@
       "body": "Pro-democracy activists Chow Hang-tung and Lee Cheuk-yan were found guilty of ‘incitement to subversion’ in controversial national security case\n\nTwo pro-democracy activists who were put on trial for organising an annual Tiananmen Square massacre vigil in Hong Kong have been sentenced to seven years in jail, in one of the city’s most significant national security cases.\n\nChow Hang-tung, 41 and Lee Cheuk-yan, 69, were found guilty in August of incitement to subversion . The court found they had “incited other persons to organise, plan, commit or participate in acts by unlawful means with a view to subverting the state power”.\n\nChow and Lee were leaders of the Hong Kong Alliance, which for decades organised the city’s annual vigil in memory of those killed in the bloody crackdown on pro-democracy protesters in Beijing in 1989. Lee and Chow received prison terms of seven years, and seven years and three months respectively.\n\nAlbert Ho, a 74-year-old former lawmaker who pleaded guilty in January, received a sentence of five years and two months.\n\nTheir case represented one of the last high-profile national security trials to be heard in Hong Kong, as the national security law imposed by Beijing in 2020 extinguishes what was once one of the world’s most widely watched pro-democracy struggles. The Alliance disbanded in 2021 following pressure created by the introduction of the national security law.\n\nThe case had centred on a slogan that was used for decades by the Alliance: “end one-party dictatorship”. The court ruled that the defendants “intended to cause others to lose confidence in the Chinese Communist party by stirring up hostility and causing division”. The defence said that the Alliance was simply exercising its right to freedom of speech.\n\nOne supporter who attended the sentencing told the Guardian: “A demonstration that lasted for more than 35 years without any problem is suddenly being seen as subversion.”\n\nChow, a UK educated barrister, represented herself in court. She has been in detention since 2021 and while in prison has frequently written letters published on her social media.\n\nIn August Chow wrote a note to the UK prime minister, Andy Burnham, calling for Britain “to adopt a more robust stance in the face of the growing threat from a totalitarian and aggressive China”. The UK Foreign Office said it condemned the use of the national security law in convicting the two activists.\n\nBefore sentencing, members of the public queued up for days to secure a seat in the court. Some in the queue had prepared food and umbrellas in preparation to stay overnight.\n\nHong Kong and Macau were once the only places on Chinese soil where it was permitted to hold public vigils to mourn protesters who died on 4 June 1989 in Beijing. Hundreds, possibly thousands, were killed when the People’s Liberation Army put a bloody end to pro-democracy protests .\n\nFor decades tens of thousands of people would gather in Hong Kong’s Victoria park to take part in a candlelit vigil. In 2020, Beijing’s sweeping national security law in effect banned public commemoration. In recent years, activists who attempted to publicly mark the day said they were frequently followed, searched and detained by plainclothes police.\n\nAuthorities said the national security law would only affect a small number of people and was needed to return order after a year of often violent anti-government protests in 2019. But critics say it has transformed the city.\n\n“It is still surreal to me,” Lee’s wife, Elizabeth Tang, told the Guardian. “Every time the Alliance had an activity, they would get the police permission for every one.\n\n“The vigils are what made Hong Kong different,” she said, recalling the public commemoration that are now banned. “It’s very unjust. Complete silence is really very scary.”\n\nThe case has seen widespread condemnation from foreign governments and human rights groups who criticised the use of the national security law to convict peaceful protesters and ban the vigil.\n\nHong Kong\n\nChina\n\nTiananmen Square protests 1989\n\nProtest\n\nCensorship\n\nnews",
       "imageWidth": 1200,
       "imageHeight": 630
-    },
-    {
-      "id": "61fdc10fead002d2",
-      "title": "US Open women’s singles final live: Aryna Sabalenka vs Elena Rybakina",
-      "summary": "Follow our live build-up, predictions, head-to-head stats, scores, photos and commentary from the final in New York.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/12/aryna-sabalenka-vs-elena-rybakina-live-us-open-womens-singles-final-2026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-09-12T17:07:54Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": true
     },
     {
       "id": "28f1bca4257ce4fe",
@@ -503,31 +479,56 @@
       "imageHeight": 630
     },
     {
-      "id": "a0e9533a807c68ce",
-      "title": "Can Europe recharge its battery industry?",
-      "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+      "id": "c531cd669352db7d",
+      "title": "Watch: Three times Trump has promised money to Americans",
+      "summary": "The BBC's Samira Hussain looks at the president's past claims after he announced he would pay American adults $5,000 if Republicans win in the midterm elections.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o",
+      "url": "https://www.bbc.co.uk/news/videos/cgk5nn338peo",
       "source": "BBC Business",
       "publisher": "BBC",
-      "published": "2026-09-10T23:05:47Z",
+      "published": "2026-09-10T22:53:00Z",
       "category": "Economics",
-      "region": "China",
+      "region": "US",
       "labels": [
         "Economics",
-        "China"
+        "US"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1276,
-      "readingMinutes": 6,
+      "wordCount": 192,
+      "readingMinutes": 1,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac3e/live/cd5970d0-acf2-11f1-a540-61c3f7fc4e6c.jpg",
-      "body": "Chinese firms dominate battery production\n\nPublished 11 September 2026\n\nEurope has taken some big swings in the battery industry in recent years and has made a couple of high-profile misses.\n\nBoth Sweden's Northvolt , external and Norway's Morrow , external filed for bankruptcy and there are fears in Europe that the continent has missed another technology shift.\n\nWith more transport and industry switching from fossil fuels to electricity, batteries are likely to be a growth business.\n\nBut the length of time required to bring new products to market, coupled with brutal competition, especially from China, means taking a substantial risk.\n\nCould the answer lie at an almost unimaginably small scale? An increasing number of investors and researchers think so.\n\nA single nanometre is one-billionth of a metre, but it's at that level that some of the most consequential work is being done.\n\n\"If you can make this work, it touches so many industries [but] it's a risky business,\" says Christian Rood, chief executive of Dutch tech firm LeydenJar.\n\nNamed after a 18th century precursor to electric cells, LeydenJar uses a technique known as plasma deposition to make a lighter, more efficient anode – an essential component of all batteries.\n\nSilicon is a highly effective and cheap material to use in anodes, but pure silicon expands and contracts as the battery operates and is recharged, which causes it to crack.\n\nHowever, using plasma deposition, LeydenJar can - layer by tiny layer - make an ultra-thin pure silicon foil which resists cracking, allowing a significant increase in battery life, charging speed, and energy density (up to 50%, according to LeydenJar).\n\n\"Where normally a pure silicon anode would fall apart, [this] remains stable, so it was a very wonderful invention,\" says Rood.\n\n\"We address the bottleneck in the battery.\"\n\nLeydenJar's tech could mean better batteries\n\nCommercial-scale production will start at the end of 2026, but it has taken 10 years to get to this point – the very definition of the time and investment required for so-called Deep Tech innovations.\n\nIt's no coincidence that LeydenJar's factory is in the Dutch city of Eindhoven - home to ASML and other important players in the computer chip industry.\n\n\"A lot of people talk theoretically about ecosystems; I can tell you this is one of our sources of competitive advantage,\" Rood says.\n\n\"It's really the crossover from semiconductors to batteries that makes us different - once you've demonstrated the principle in the lab, industrialization requires you to work with the semiconductor technology and suppliers.\n\n\"That means a lot of risk, but also a lot of opportunity in terms of patenting, in terms of securing your whole intellectual property. And that's much more difficult to do in the US or in China.\"\n\nAcross the Netherlands and Europe more widely there are multiple smaller Deep Tech start-ups looking to develop nanotechnology in the battery market.\n\nOne of those is Powall, a start-up in the Dutch city of Delft that is developing commercial-scale equipment for nanocoating the powders that are the raw materials of today's batteries.\n\nAgain, the scale is tiny, and once again the technique was born in the semiconductor industry.\n\nIndividual powder granules are measured in micrometres, the coatings in nanometres - they are applied using a technique known as atomic layer deposition.\n\nRoderik Colen, CEO of Powall, tells me that the system offers multiple opportunities to adjust and improve the performance of today's batteries.\n\n\"Your battery works less well than before after using it thousands of times - that degrading or aging can be slowed down when you're using a nanocoating,\" Colen explains.\n\n\"You can have an exciting new material with a higher capacity or fast charging, all these novel developments. They typically have one element which is very good, but they suffer on the durability side.\"\n\nAnd that means they will never be a commercial product.\n\n\"That's where we then come in, to give them the protective coating to effectively enable these new materials.\"\n\nThe powders and the coating are carried by gas and brought together in a chemical reaction.\n\nIt is, says Colen, a precise but flexible process which can be almost endlessly adapted.\n\n\"You have great accuracy in how thick you want to have it. And that makes a difference in performance.\"\n\nPowall is developing nanocoating for battery components\n\nNeither LeydenJar nor Powall are trying to build an entire battery, and both have commercial relationships with customers in Asia.\n\nBut Christian Rood of LeydenJar says companies like his can fortify Europe's position in what has become a global contest.\n\n\"The easy comparison is with semiconductors, where there's really a race for the best chip technology.\n\n\"[Dutch tech giant] ASML is not producing chips; it focuses on a critical step in the production of chips, and in that way, has a seat at the table when it comes to the whole semiconductor battle.\n\n\"This is our ambition as well – to have a position where our battery anode is so unique that we have an important position in the supply chain.\"\n\nSo, how do these ambitions play into Europe's goals in the battery industry?\n\nAlexander Brown is a senior analyst at the Berlin-based independent think-tank the Mercator Institute for China Studies (Merics).\n\n\"I think having one part of the supply chain based in Europe is great and if that can be a very advanced technological part, which offers the opportunity for high margins, that's fantastic,\" Brown tells me.\n\nBut he cautions that while \"there can be collaboration as well as competition at the same time\", China in particular will continue to work to reduce its dependence on other regions.\n\n\"China is working very hard to develop local alternatives for technologies, including these niche technologies.\n\n\"It's no secret that China would love to replace ASML - they're working very hard to do that, and it's not unforeseeable that they will achieve that goal eventually.\n\n\"So, I think Europe has traditional strengths in developing very exquisite high-quality products, which can find markets all over the world.\n\n\"But I also think it's important for that not to be the only strategy [from the continent's policy makers].\"\n\nThe challenges of working in such a specialised field are not only technological.\n\nLeydenJar has already reached commercial scale, but Rood says that raising funds within Europe is not always easy.\n\n\"There is sufficient financing in Europe, but the risk attitude is quite different than in Asia and in the US,\" says Rood.\n\n\"That means for a company like us that you have to work with different sources of funding at the same time,\" Rood explains.\n\nHe lists government grants, debt financing, help from the European Investment Bank and investors willing to buy a share of the business.\n\n\"They set a lot of challenging conditions, and they all want to do their own due diligence. It's hard work,\" Rood says.\n\nPowall's Colen says Europe, and the Netherlands in particular, is an \"innovation powerhouse\", and battery technology offers a chance for the continent to make an impact, if the appetite for the risk is there.\n\n\"It's a relatively young industry where factories are being built left, right and centre. They're searching for the right tech. So that's where you can play a big role, because the volumes are huge.\"\n\nPerhaps Europe's place in that business lies not in building huge battery gigafactories, but at the other end of the scale altogether.\n\nAs Colen puts it, \"small changes make big differences.\"\n\nRelated topics\n\nInternational Business\n\nTechnology of Business\n\nBatteries\n\nNetherlands\n\nMore Technology of Business\n\nAI is 'not smart' so what's next in artificial intelligence? Published 3 July\n\nIndia's 'blue gold' starts a new drinks industry Published 12 June\n\nThe abundant but expensive energy source that's under your feet Published 26 June",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4c5/live/bd545cf0-ad69-11f1-bc1f-3f186ca4140c.jpg",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nUS President Donald Trump says he would give $5,000 to every American adult if the midterm elections go his way. Turning that promise into reality, however, would face significant hurdles. The proposal could cost more than $1.3 trillion, would require congressional approval and could face legal scrutiny regarding soliciting votes for money.\n\nBBC’s Samira Hussain looks at other times the president has made similar promises.\n\nSubsection Business\n\nPublished 1 day ago\n\nRelated topics\n\nUS midterm elections 2026 Follow US midterm elections 2026 close panel You are now following US midterm elections 2026 Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUS economy Follow US economy close panel You are now following US economy Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "161fd28df2a1f800",
+      "title": "Key takeaways: Blue Jays 7, Orioles 3",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/brett-bateman-spencer-miles-help-blue-jays-beat-orioles",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-12T22:13:30Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "73b3551318677c4d",
@@ -574,31 +575,6 @@
       "focus": "Blue Jays",
       "sourceType": "news",
       "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "6168db15d7c3bedd",
-      "title": "Could Yesavage return to aid Blue Jays' playoff push?",
-      "summary": "Santander, Bieber also progressing toward potential '26 returns",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.mlb.com/bluejays/news/trey-yesavage-progressing-in-injury-rehab",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-09-11T23:11:18Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 8,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -758,9 +734,9 @@
       "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/06/Mck.jpg"
     },
     {
-      "id": "3a49a18c979af59d",
-      "title": "'Absolute joke' to be worried - Mitchell on England's response",
-      "summary": "England produce dominant second-half performance to comfortably defeat Australia at CorpAcq Stadium in the opening game of the new WXV Global Series.",
+      "id": "06371bb0302f874c",
+      "title": "'Absolute joke' to be worried - Mitchell on England trailing Australia at half-time",
+      "summary": "England trail at half-time but a dominant second-half performance helps them to an emphatic 48-15 victory over Australia at CorpAcq Stadium in the opening game of the new WXV Global Series.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq8je0z88nzo",
       "source": "BBC Rugby Union",
@@ -775,35 +751,36 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 22,
+      "wordCount": 31,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52a0/live/61b67f60-aec0-11f1-a540-61c3f7fc4e6c.png"
     },
     {
-      "id": "dc7e22923a6e4ff8",
-      "title": "England's second-half response crushes Australia",
-      "summary": "England's dominant second-half performance sees them defeat Australia in the opening game of the WXV Global Series.",
+      "id": "053bb23e2fa62a42",
+      "title": "Newcastle impress, Quins win again in Prem Cup",
+      "summary": "Newcastle open cup account with win, Harlequins come back to beat Northampton and Exeter and Gloucester win in Prem Rugby Cup.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cpd022z5ly2o",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c046qnr39l4o",
       "source": "BBC Rugby Union",
       "publisher": "BBC",
-      "published": "2026-09-12T17:50:01Z",
+      "published": "2026-09-12T18:39:39Z",
       "category": "Sports",
-      "region": "UK",
+      "region": "England",
       "labels": [
         "Sports",
-        "UK"
+        "England",
+        "Rugby"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 17,
+      "wordCount": 21,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d32/live/c968fc00-aecf-11f1-bc1f-3f186ca4140c.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb0/live/0e2e5d70-aed6-11f1-91ea-91f4a2a08fa4.jpg"
     },
     {
       "id": "556f37f145e49359",
@@ -1082,14 +1059,14 @@
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5963499"
     },
     {
-      "id": "be92da358164f0ca",
-      "title": "Democrats and Republicans can agree: there should be more monetary support for child care",
-      "summary": "The Trump administration is eyeing a proposal to give childcare subsidies to married couples with a stay-at-home parent. Some Democrats have a similar proposal, with one major difference.",
+      "id": "2ad67ce66ad6cd4a",
+      "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
+      "summary": "Nazira Haji Zada, a lawful permanent resident, conceded to being an \"alien terrorist.\" It marks the first case in the Alien Terrorist Removal Court.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/09/12/nx-s1-5965806/democrats-and-republicans-can-agree-there-should-be-more-monetary-support-for-child-care",
+      "url": "https://www.npr.org/2026/09/12/nx-s1-5967476/alien-removal-court-deportation-afganistan",
       "source": "NPR Politics",
       "publisher": "NPR",
-      "published": "2026-09-12T12:47:08Z",
+      "published": "2026-09-12T18:29:18Z",
       "category": "Politics",
       "region": "US",
       "labels": [
@@ -1099,11 +1076,39 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 28,
+      "wordCount": 24,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5965806"
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2F1b%2F0e98c9ea4e2fab1fa554a7d503cc%2Fap26254519545366.jpg",
+      "imageAlt": "FILE - The U.S. Department of Justice logo is seen on a podium before a news conference, May 4, 2026, in Washington.",
+      "imageWidth": 6000,
+      "imageHeight": 4000
+    },
+    {
+      "id": "6168db15d7c3bedd",
+      "title": "Could Yesavage return to aid Blue Jays' playoff push?",
+      "summary": "Santander, Bieber also progressing toward potential '26 returns",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.mlb.com/bluejays/news/trey-yesavage-progressing-in-injury-rehab",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-11T23:11:18Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 8,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "2431af0d98f1c620",
@@ -1182,6 +1187,30 @@
       "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/09/Bilecki.jpg"
     },
     {
+      "id": "dc7e22923a6e4ff8",
+      "title": "England's second-half response crushes Australia",
+      "summary": "England's dominant second-half performance sees them defeat Australia in the opening game of the WXV Global Series.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cpd022z5ly2o",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-09-12T17:50:01Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d32/live/c968fc00-aecf-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
       "id": "608749c18d241a53",
       "title": "Ruthless Canada outclass Scotland in WXV opener",
       "summary": "Canada prove too strong for Scotland as they score 10 tries to register a resounding win in their WXV Series opener in Edinburgh.",
@@ -1204,6 +1233,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a87f/live/388e61e0-aecd-11f1-89e2-171455bb2760.jpg"
+    },
+    {
+      "id": "be92da358164f0ca",
+      "title": "Democrats and Republicans can agree: there should be more monetary support for child care",
+      "summary": "The Trump administration is eyeing a proposal to give childcare subsidies to married couples with a stay-at-home parent. Some Democrats have a similar proposal, with one major difference.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/09/12/nx-s1-5965806/democrats-and-republicans-can-agree-there-should-be-more-monetary-support-for-child-care",
+      "source": "NPR Politics",
+      "publisher": "NPR",
+      "published": "2026-09-12T12:47:08Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 28,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5965806"
     },
     {
       "id": "56ba3acadb03c653",
@@ -1506,6 +1559,33 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a303/live/a66c6070-ae16-11f1-aa28-67f8824e7b72.jpg"
     },
     {
+      "id": "d25c1f74b8481e38",
+      "title": "‘Small price to pay’: The young homeowners welcoming falling house prices even as it hurts them",
+      "summary": "Some buyers say they are ready to absorb the fallout of housing weakness if it means boosting home ownership across the board Get our breaking news email , free app or daily news podcast Falling property prices have come at the worst possible time for Alex Hogan and his partner. They are now weighing up whether they can afford to have another child. Locked out of the established housing market, the Queensland couple resorted to buying a block of land to build a family home. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/13/homeowners-welcoming-falling-house-prices-affordability-crisis-australia",
+      "source": "The Guardian Economics",
+      "publisher": "The Guardian",
+      "published": "2026-09-12T20:00:43Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 1006,
+      "readingMinutes": 5,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/0dcf526c1780879d878fc6f5a3314ca857381b16/504_0_5040_4032/master/5040.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d604b44286b8972deacea45a16c2d9c",
+      "body": "Some buyers say they are ready to absorb the fallout of housing weakness if it means boosting home ownership across the board\n\nGet our breaking news email , free app or daily news podcast\n\nFalling property prices have come at the worst possible time for Alex Hogan and his partner. They are now weighing up whether they can afford to have another child.\n\nLocked out of the established housing market, the Queensland couple resorted to buying a block of land to build a family home.\n\nFast-rising construction costs are now limiting their options and the anticipated value of their finished home is sliding, as rising interest rates and the government’s property tax reforms drag down property prices.\n\nYet Hogan wants the government to go even further in tackling the housing affordability crisis.\n\n“If you don’t seize that momentum when there’s a push for it, then things can just go back to bubbling away under the surface and nothing ever gets done about them,” the 41-year-old says.\n\nAlthough falling prices are frustrating many property owners, and price falls leave Labor vulnerable to political attacks, there are some homeowners willing to accept lower valuations in order to make housing more accessible for others.\n\nHogan is among several recent property buyers Guardian Australia spoke to who is prepared to absorb the fallout if it helps close the growing divide between forever renters and their landlords.\n\n“It might end up sucking,” Hogan says. “But it’s better than having a two-tier society.”\n\nPrices could fall 10%\n\nHouse prices are falling across the country amid higher borrowing costs, a weak economy, and a once-in-a-generation change in the tax treatment of property investors.\n\nThe government’s critics have blamed the downturn on Labor’s May budget reforms, which included getting rid of negative gearing for new investors, excluding new builds.\n\n“Australian families already struggling to pay their bills are now sitting at the kitchen table watching the value of their biggest asset, their family home, fall through the floor,” Tim Wilson, the Liberal Treasury spokesman, said earlier this month.\n\nPrices around Australia have fallen 3.6% from their peak earlier this year, according to Cotality data, led by steep declines in Sydney. The most expensive markets are falling the most, in a sign interest rates are a dominant cause.\n\nFalls of more than 10% have been forecast by some analysts as elevated inflation makes a fourth rate hike more likely in coming months.\n\nMost long-term home owners have enjoyed years of growth , which has included a 26% price surge in just the three years to March. Newer buyers who missed the boom are most affected by the recent weakness.\n\nEibhlinn Cassidy bought a Melbourne apartment two years ago. They know loan repayments could spike when they refinance next year if the value of the apartment falls.\n\nYet the 30-year-old junior doctor is stoic about the downturn if it makes housing more affordable because they remember the constant anxiety of grappling with soaring rents, weak tenant rights and losing bonds.\n\n“I’d stress about it if it happened but, either way, I’ve got to be paying either rent or a mortgage and I’d rather be somewhere I can put paint on the walls,” Cassidy says.\n\n“Even if I have to eat it, then big deal … I consider it a really small price to pay for a long overdue adjustment in the market that will let more people get in.”\n\nTerry Rawnsley, a KPMG economist, says many recent buyers won’t have to refinance anytime soon and should be able to wait out the downturn. Prices are expected to rise again once the RBA starts cutting interest rates, likely in 2028.\n\nafter newsletter promotion\n\n“If you’re in a situation where you bought in the last 12 or 18 months, or you come into refinancing, you might be felling a bit of stress,” Rawnsley says.\n\n“But if you don’t have to sell at this point in time, that paper loss is just a theoretical one and you don’t have to worry about it.”\n\n‘I do not want to be a landlord’\n\nAustralian homes were turned into unaffordable wealth-building assets after a surge in prices in the 90s and early 2000s, thanks largely to favourable tax settings for investors.\n\nExperts expect the current downturn and the loss of those settings to push the Australian mentality back in the other direction – in part because those who played by the old rules could soon find themselves in financial pain.\n\nRemy Coll, a 37-year-old business owner, has become an accidental property investor after the price falls made it impossible for him to sell his old house.\n\nWhen he bought in Canberra’s inner north earlier this year, he used his old home on the city’s outer fringe as collateral with a view to sell it soon after settling. The government announced its tax reforms the following week and, months later, the median Canberra home is now $44,000 cheaper.\n\nColl says he is now stuck with rising repayments on two mortgages, taking rent from tenants he doesn’t want.\n\n“I do not want to be a landlord,” he says. “I do not want to contribute to the problem of rentals. But equally, now the house that I live in is contingent upon me getting a certain price for that house.”\n\nSelling in the current market would mean he loses money on his first purchase, while potentially grappling with a higher interest rate on his second purchase as the bank revalues.\n\nHe and his partner are working extra hours and spending less time with their young children to hold on to their home as prices fall. He still believes the Albanese government did the right thing.\n\n“That period of [price] reduction will be painful for probably a lot of people like me, and maybe some investors,” Coll says.\n\n“But in the future, as long as real estate grows by a small amount [and] peoples’ wages grow more ... people will be able to, in their early 30s, start to afford a house again.”\n\nHousing\n\nEconomics\n\nTax\n\nLabor party\n\nnews",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
       "id": "1b9b6d6a01d41701",
       "title": "Miles was a Rule 5 long shot. Now, he's an indispensable Blue Jays arm",
       "summary": "This feed supplied a headline but no article summary.",
@@ -1604,7 +1684,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6357/live/1b9739b0-adfe-11f1-a540-61c3f7fc4e6c.jpg",
-      "body": "Published 11 September 2026\n\nThere were gasps and – to the intense irritation of supporters – cheers from opponents of assisted dying when the vote was read out in the Commons.\n\nThis was an extraordinary result.\n\nAfter twice voting in favour of the bill, MPs have rejected proposals to legalise assisted dying in England and Wales, bringing to an end the latest effort to change the law .\n\nThe debate itself was tetchier, more irritable than when Kim Leadbeater introduced a similar bill in 2024. Then it was the first time MPs had voted on assisted dying in nine years.\n\nSince then the Commons has voted on this issue three times and had hours of debate. The sombre, respectful tone from 2024 has become more embittered.\n\nGiven the strength of feeling on both sides over such an emotive issue, perhaps that is unsurprising.\n\nBut on a deeply divided issue, both sides agree on why the result was different.\n\n\"We always said it would come to turnout and it did,\" one supporter of the bill text me. An opponent messaged to say the same.\n\nThe numbers tell a story.\n\nLast time MPs voted on assisted dying in June, 315 were in favour and 291 against. Today, the numbers opposed were similar: 286.\n\nBut support for this bill has ebbed away. Just 270 voted for this bill, a fall of 45.\n\nSo why have fewer MPs backed it, compared to a year ago?\n\nThere are a number of reasons why support for assisted dying has dropped off.\n\nSome MPs have changed their mind. Janet Daby, the Labour MP for Lewisham East, for example told the Commons that after she previously backed the bill \"my conscience was not at peace, and I cannot again, in good conscience, vote for the bill.\"\n\nBut in reality those switching their position are a small minority.\n\nFor others, the influence of Andy Burnham may have been a factor. When MPs last gave their collective view on assisted dying, Sir Keir Starmer was prime minister and supportive of this bill.\n\nBurnham, however, is not. For Labour MPs wanting to follow Downing Street's priorities, abstaining might have seemed a more appealing option.\n\nThere will be other reasons why supportive MPs did not turn up today. A wedding, I'm told, took some away from Westminster. A trip to Ukraine meant others missed the vote.\n\nAlready those in favour of a change in the law promise to try again. Kim Leadbeater, the Labour MP who introduced the original legislation last year, has told the BBC another attempt could come as soon as next year.\n\nSupporters have told me they see this parliament, with such a large proportion of Labour MPs who tend to support assisted dying, as a \"unique moment\" to pass this change.\n\n\"This result doesn't mean there isn't still a majority in parliament in favour of the principle of assisted dying,\" said one of those behind the bill.\n\nBut for now the momentum has fallen away from a change in the law.\n\nThat is a relief to those who worry such a change would risk harming vulnerable people. But it is a bitter disappointment to those who see it as a necessary and compassionate alternative to the status quo.\n\nThat bitterness from supporters is aimed in part at the House of Lords.\n\nIt was opponents' efforts there that ultimately led to this defeat. And it could hasten those calling for reform of Parliament's second chamber.\n\nPlease upgrade your browser to view this interactive\n\nDid your MP vote For or Against the assisted dying bill?\n\nEnter your full postcode or the name or constituency of your MP\n\nNote: a small number of postcodes do not give an accurate constituency for all properties.\n\nMPs vote against fresh attempt to legalise assisted dying Published 17 hours ago\n\nAssisted dying: How laws differ around the world Published 1 day ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nEuthanasia and assisted dying\n\nHouse of Commons\n\nUK Parliament",
+      "body": "Published 11 September 2026\n\nThere were gasps and – to the intense irritation of supporters – cheers from opponents of assisted dying when the vote was read out in the Commons.\n\nThis was an extraordinary result.\n\nAfter twice voting in favour of the bill, MPs have rejected proposals to legalise assisted dying in England and Wales, bringing to an end the latest effort to change the law .\n\nThe debate itself was tetchier, more irritable than when Kim Leadbeater introduced a similar bill in 2024. Then it was the first time MPs had voted on assisted dying in nine years.\n\nSince then the Commons has voted on this issue three times and had hours of debate. The sombre, respectful tone from 2024 has become more embittered.\n\nGiven the strength of feeling on both sides over such an emotive issue, perhaps that is unsurprising.\n\nBut on a deeply divided issue, both sides agree on why the result was different.\n\n\"We always said it would come to turnout and it did,\" one supporter of the bill text me. An opponent messaged to say the same.\n\nThe numbers tell a story.\n\nLast time MPs voted on assisted dying in June, 315 were in favour and 291 against. Today, the numbers opposed were similar: 286.\n\nBut support for this bill has ebbed away. Just 270 voted for this bill, a fall of 45.\n\nSo why have fewer MPs backed it, compared to a year ago?\n\nThere are a number of reasons why support for assisted dying has dropped off.\n\nSome MPs have changed their mind. Janet Daby, the Labour MP for Lewisham East, for example told the Commons that after she previously backed the bill \"my conscience was not at peace, and I cannot again, in good conscience, vote for the bill.\"\n\nBut in reality those switching their position are a small minority.\n\nFor others, the influence of Andy Burnham may have been a factor. When MPs last gave their collective view on assisted dying, Sir Keir Starmer was prime minister and supportive of this bill.\n\nBurnham, however, is not. For Labour MPs wanting to follow Downing Street's priorities, abstaining might have seemed a more appealing option.\n\nThere will be other reasons why supportive MPs did not turn up today. A wedding, I'm told, took some away from Westminster. A trip to Ukraine meant others missed the vote.\n\nAlready those in favour of a change in the law promise to try again. Kim Leadbeater, the Labour MP who introduced the original legislation last year, has told the BBC another attempt could come as soon as next year.\n\nSupporters have told me they see this parliament, with such a large proportion of Labour MPs who tend to support assisted dying, as a \"unique moment\" to pass this change.\n\n\"This result doesn't mean there isn't still a majority in parliament in favour of the principle of assisted dying,\" said one of those behind the bill.\n\nBut for now the momentum has fallen away from a change in the law.\n\nThat is a relief to those who worry such a change would risk harming vulnerable people. But it is a bitter disappointment to those who see it as a necessary and compassionate alternative to the status quo.\n\nThat bitterness from supporters is aimed in part at the House of Lords.\n\nIt was opponents' efforts there that ultimately led to this defeat. And it could hasten those calling for reform of Parliament's second chamber.\n\nPlease upgrade your browser to view this interactive\n\nDid your MP vote For or Against the assisted dying bill?\n\nEnter your full postcode or the name or constituency of your MP\n\nNote: a small number of postcodes do not give an accurate constituency for all properties.\n\nMPs vote against fresh attempt to legalise assisted dying Published 21 hours ago\n\nAssisted dying: How laws differ around the world Published 1 day ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nEuthanasia and assisted dying\n\nHouse of Commons\n\nUK Parliament",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1922,33 +2002,6 @@
       "isBreaking": false
     },
     {
-      "id": "275d7a6da5c891aa",
-      "title": "These Michigan swing voters are bracing for higher prices from trade war with Canada",
-      "summary": "President Trump's tariff standoff with Canada is rankling some key voters ahead of this year's midterm elections.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/09/11/nx-s1-5963884/michigan-focus-groups-canada-trump-tariffs",
-      "source": "NPR Politics",
-      "publisher": "NPR",
-      "published": "2026-09-11T09:00:00Z",
-      "category": "Politics",
-      "region": "Canada",
-      "labels": [
-        "Politics",
-        "Canada"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5678x3785+0+0/resize/5678x3785!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2Fa1%2F186525734213814f11f44a294432%2Fap26237779492720.jpg",
-      "imageAlt": "Mel Gutherie, president of Gutherie Lumber, walks among Canadian lumber products on Aug. 25 in Livonia, Mich.",
-      "imageWidth": 5678,
-      "imageHeight": 3785
-    },
-    {
       "id": "2ef967be0008fb3c",
       "title": "Predicting each organization's top prospect in 2028",
       "summary": "This feed supplied a headline but no article summary.",
@@ -2129,6 +2182,33 @@
       "imageHeight": 630
     },
     {
+      "id": "a0e9533a807c68ce",
+      "title": "Can Europe recharge its battery industry?",
+      "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-09-10T23:05:47Z",
+      "category": "Economics",
+      "region": "China",
+      "labels": [
+        "Economics",
+        "China"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 1276,
+      "readingMinutes": 6,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac3e/live/cd5970d0-acf2-11f1-a540-61c3f7fc4e6c.jpg",
+      "body": "Chinese firms dominate battery production\n\nPublished 11 September 2026\n\nEurope has taken some big swings in the battery industry in recent years and has made a couple of high-profile misses.\n\nBoth Sweden's Northvolt , external and Norway's Morrow , external filed for bankruptcy and there are fears in Europe that the continent has missed another technology shift.\n\nWith more transport and industry switching from fossil fuels to electricity, batteries are likely to be a growth business.\n\nBut the length of time required to bring new products to market, coupled with brutal competition, especially from China, means taking a substantial risk.\n\nCould the answer lie at an almost unimaginably small scale? An increasing number of investors and researchers think so.\n\nA single nanometre is one-billionth of a metre, but it's at that level that some of the most consequential work is being done.\n\n\"If you can make this work, it touches so many industries [but] it's a risky business,\" says Christian Rood, chief executive of Dutch tech firm LeydenJar.\n\nNamed after a 18th century precursor to electric cells, LeydenJar uses a technique known as plasma deposition to make a lighter, more efficient anode – an essential component of all batteries.\n\nSilicon is a highly effective and cheap material to use in anodes, but pure silicon expands and contracts as the battery operates and is recharged, which causes it to crack.\n\nHowever, using plasma deposition, LeydenJar can - layer by tiny layer - make an ultra-thin pure silicon foil which resists cracking, allowing a significant increase in battery life, charging speed, and energy density (up to 50%, according to LeydenJar).\n\n\"Where normally a pure silicon anode would fall apart, [this] remains stable, so it was a very wonderful invention,\" says Rood.\n\n\"We address the bottleneck in the battery.\"\n\nLeydenJar's tech could mean better batteries\n\nCommercial-scale production will start at the end of 2026, but it has taken 10 years to get to this point – the very definition of the time and investment required for so-called Deep Tech innovations.\n\nIt's no coincidence that LeydenJar's factory is in the Dutch city of Eindhoven - home to ASML and other important players in the computer chip industry.\n\n\"A lot of people talk theoretically about ecosystems; I can tell you this is one of our sources of competitive advantage,\" Rood says.\n\n\"It's really the crossover from semiconductors to batteries that makes us different - once you've demonstrated the principle in the lab, industrialization requires you to work with the semiconductor technology and suppliers.\n\n\"That means a lot of risk, but also a lot of opportunity in terms of patenting, in terms of securing your whole intellectual property. And that's much more difficult to do in the US or in China.\"\n\nAcross the Netherlands and Europe more widely there are multiple smaller Deep Tech start-ups looking to develop nanotechnology in the battery market.\n\nOne of those is Powall, a start-up in the Dutch city of Delft that is developing commercial-scale equipment for nanocoating the powders that are the raw materials of today's batteries.\n\nAgain, the scale is tiny, and once again the technique was born in the semiconductor industry.\n\nIndividual powder granules are measured in micrometres, the coatings in nanometres - they are applied using a technique known as atomic layer deposition.\n\nRoderik Colen, CEO of Powall, tells me that the system offers multiple opportunities to adjust and improve the performance of today's batteries.\n\n\"Your battery works less well than before after using it thousands of times - that degrading or aging can be slowed down when you're using a nanocoating,\" Colen explains.\n\n\"You can have an exciting new material with a higher capacity or fast charging, all these novel developments. They typically have one element which is very good, but they suffer on the durability side.\"\n\nAnd that means they will never be a commercial product.\n\n\"That's where we then come in, to give them the protective coating to effectively enable these new materials.\"\n\nThe powders and the coating are carried by gas and brought together in a chemical reaction.\n\nIt is, says Colen, a precise but flexible process which can be almost endlessly adapted.\n\n\"You have great accuracy in how thick you want to have it. And that makes a difference in performance.\"\n\nPowall is developing nanocoating for battery components\n\nNeither LeydenJar nor Powall are trying to build an entire battery, and both have commercial relationships with customers in Asia.\n\nBut Christian Rood of LeydenJar says companies like his can fortify Europe's position in what has become a global contest.\n\n\"The easy comparison is with semiconductors, where there's really a race for the best chip technology.\n\n\"[Dutch tech giant] ASML is not producing chips; it focuses on a critical step in the production of chips, and in that way, has a seat at the table when it comes to the whole semiconductor battle.\n\n\"This is our ambition as well – to have a position where our battery anode is so unique that we have an important position in the supply chain.\"\n\nSo, how do these ambitions play into Europe's goals in the battery industry?\n\nAlexander Brown is a senior analyst at the Berlin-based independent think-tank the Mercator Institute for China Studies (Merics).\n\n\"I think having one part of the supply chain based in Europe is great and if that can be a very advanced technological part, which offers the opportunity for high margins, that's fantastic,\" Brown tells me.\n\nBut he cautions that while \"there can be collaboration as well as competition at the same time\", China in particular will continue to work to reduce its dependence on other regions.\n\n\"China is working very hard to develop local alternatives for technologies, including these niche technologies.\n\n\"It's no secret that China would love to replace ASML - they're working very hard to do that, and it's not unforeseeable that they will achieve that goal eventually.\n\n\"So, I think Europe has traditional strengths in developing very exquisite high-quality products, which can find markets all over the world.\n\n\"But I also think it's important for that not to be the only strategy [from the continent's policy makers].\"\n\nThe challenges of working in such a specialised field are not only technological.\n\nLeydenJar has already reached commercial scale, but Rood says that raising funds within Europe is not always easy.\n\n\"There is sufficient financing in Europe, but the risk attitude is quite different than in Asia and in the US,\" says Rood.\n\n\"That means for a company like us that you have to work with different sources of funding at the same time,\" Rood explains.\n\nHe lists government grants, debt financing, help from the European Investment Bank and investors willing to buy a share of the business.\n\n\"They set a lot of challenging conditions, and they all want to do their own due diligence. It's hard work,\" Rood says.\n\nPowall's Colen says Europe, and the Netherlands in particular, is an \"innovation powerhouse\", and battery technology offers a chance for the continent to make an impact, if the appetite for the risk is there.\n\n\"It's a relatively young industry where factories are being built left, right and centre. They're searching for the right tech. So that's where you can play a big role, because the volumes are huge.\"\n\nPerhaps Europe's place in that business lies not in building huge battery gigafactories, but at the other end of the scale altogether.\n\nAs Colen puts it, \"small changes make big differences.\"\n\nRelated topics\n\nInternational Business\n\nTechnology of Business\n\nBatteries\n\nNetherlands\n\nMore Technology of Business\n\nAI is 'not smart' so what's next in artificial intelligence? Published 3 July\n\nIndia's 'blue gold' starts a new drinks industry Published 12 June\n\nThe abundant but expensive energy source that's under your feet Published 26 June",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
       "id": "5492593ad0156dac",
       "title": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
       "summary": "Dow Jones convicted of one count of deterring Selina Cheng from role at Hong Kong Journalist Association but cleared of second charge A Hong Kong court has convicted the publisher of the Wall Street Journal of deterring a reporter from taking up a trade union role, in a case that raised concerns about press freedom in the city. The newspaper dismissed Selina Cheng just weeks after she was appointed chair of the Hong Kong Journalist Association (HKJA) in 2024. She was told at the time her termination was officially due to restructuring. Continue reading...",
@@ -2227,6 +2307,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1307/live/684563b0-aece-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
+      "id": "60181ad3182c7508",
+      "title": "Fulham take first point of the season at lacklustre Liverpool",
+      "summary": "Fulham claim their first Premier League point of the season after a difficult start under Alvaro Arbeloa, as Liverpool fail to score for the first time this season just days after their Champions League victory over Atletico Madrid.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c780zx2wl9vo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T21:31:46Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 38,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56cd/live/affeb5f0-aec2-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
       "id": "d511adfecf0fdd47",
       "title": "Sydney man jailed for 3.5 years over fake defence reports prepared for Chinese spies",
       "summary": "Alexander Csergo sentenced over reckless foreign interference after preparing documents for duo who approached him on LinkedIn Get our breaking news email , free app or daily news podcast A seemingly innocuous message on a social media platform has snowballed into a Sydney man being jailed for foreign interference. Alexander Csergo, 58, was jailed for three years and six months on Thursday, after being found guilty by a jury in March of helping Chinese spies. Continue reading...",
@@ -2251,6 +2355,30 @@
       "imageUrl": "https://i.guim.co.uk/img/media/63fea7bb4f983066d9a735bfa7cce4e77d52bc52/1865_202_6518_5215/master/6518.jpg?width=700&quality=85&auto=format&fit=max&s=19f8c9da1dc9002057135d0473d76edc"
     },
     {
+      "id": "2a327efec2a01889",
+      "title": "Jesus snatches late win for Forest as Villa's poor start continues",
+      "summary": "Igor Jesus scores an 88th minute winner as Nottingham Forest beat Aston Villa at Villa Park for the first time in 32 years and gives Oliver Glasner his first victory as Forest head coach since taking charge in the summer.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj64yzk2894o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T21:30:21Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 40,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19e/live/fd1ac890-aec4-11f1-a540-61c3f7fc4e6c.jpg"
+    },
+    {
       "id": "8c8c98e3f9528068",
       "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
       "summary": "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.",
@@ -2273,6 +2401,54 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Envision-1152x648-1789054779.jpg"
+    },
+    {
+      "id": "165be548e5ffd474",
+      "title": "Arsenal hold off energetic Sunderland to continue perfect title defence",
+      "summary": "Arsenal maintain their 100% start to their Premier League season with a win at Sunderland, who mount an admirable push for a point before Bukayo Saka's penalty puts the result beyond doubt.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5ympj1m71ko",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T21:53:50Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 32,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34fb/live/5f8ec0c0-aee9-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "id": "2b0fff68ebd61ad3",
+      "title": "Arteta 'very worried & very sad' over penalty incident",
+      "summary": "Mikel Arteta is pleased with Arsenal's performance against Sunderland, but is \"very worried and very sad\" about the penalty awarded to their opponents during the match at the Stadium of Light.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cd94ke0z07qo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T21:45:43Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 31,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/563d/live/de3b5de0-aef1-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "id": "190062e7d3e0be31",
@@ -2323,6 +2499,54 @@
       "imageUrl": "https://i.guim.co.uk/img/media/32a631f2ba809f9b63c69a408f9891c6a1e7e1ee/354_0_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=32ed7cebb6f71cd4f74d360de3207201"
     },
     {
+      "id": "63ab68655f223ba1",
+      "title": "Tottenham's wait for league goal continues after Everton draw",
+      "summary": "Tottenham's wait for a first Premier League goal and win this season continues after Roberto de Zerbi's side were held to a goalless home draw by Everton.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cg49xg625n0o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T21:32:43Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 27,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b97/live/c8b72ba0-aee4-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "id": "d64100848a25bacc",
+      "title": "Brentford hold Bournemouth as Rose's wait for a win continues",
+      "summary": "Marco Rose's wait for a first Premier League victory as Bournemouth head coach continues as they are held to a 2-2 draw by Brentford at Vitality Stadium.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1l6ennjpnzo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T21:30:25Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 27,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cc3/live/e8472e60-aec7-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
       "id": "0067ec8b04b0033b",
       "title": "Ex-Tory campaign chief pleads guilty over election bet",
       "summary": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 election would be held.",
@@ -2371,6 +2595,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93eb/live/229b48b0-ad35-11f1-9bc8-3509bd1a4ead.jpg"
     },
     {
+      "id": "afebee788394f782",
+      "title": "Arsenal monitoring Como's Paz - Sunday's gossip",
+      "summary": "Arsenal are monitoring Nico Paz, Liverpool and Aston Villa are tracking Cher Ndour and Sunderland are refusing to give up on Geny Catamo, plus more.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2e0mzdwmkko",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T21:35:12Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 25,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f00/live/bb26eaf0-aef0-11f1-bc1f-3f186ca4140c.png"
+    },
+    {
       "id": "b17b922f02bce42e",
       "title": "'Things can change quickly' - Dingwall on England omission",
       "summary": "Fraser Dingwall says his omission from England's past two squads is \"disappointing\", but does not make a return impossible.",
@@ -2417,6 +2665,30 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/aae87c99702c6e6abd76e38ca28c161ff996c834/698_0_2700_2160/master/2700.jpg?width=700&quality=85&auto=format&fit=max&s=61a3e0a5be61c2705bc10ef333b57268"
+    },
+    {
+      "id": "203b7eb8f9da84c5",
+      "title": "Flemming's late strike earns Ipswich win over 10-man Crystal Palace",
+      "summary": "Zian Flemming scores his first goal for Ipswich to give the club a late victory over 10-man Crystal Palace at Selhurst Park.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c7504wz4xgxo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T21:31:11Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7b0/live/c1261660-aed2-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
       "id": "1e3b4886c188e676",
@@ -2468,6 +2740,126 @@
       "imageUrl": "https://i.guim.co.uk/img/media/88cf64587a4d1b20ca8078747b809eee812c4422/0_139_2639_2111/master/2639.jpg?width=700&quality=85&auto=format&fit=max&s=1718e17331c384a9d9e41be1b656b064"
     },
     {
+      "id": "c4c56430e51deeee",
+      "title": "Hull remain unbeaten in league after impressive Chelsea draw",
+      "summary": "In-form striker Joao Pedro scores a second-half equaliser as Chelsea rescues a point at home to promoted Hull City.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwyz533qlw8o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T21:30:16Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca2c/live/a0848090-aec3-11f1-a540-61c3f7fc4e6c.jpg"
+    },
+    {
+      "id": "1bcea2192d394eb6",
+      "title": "Inspired Lowry takes four-shot lead into final day",
+      "summary": "Shane Lowry produces an inspired display on the greens to take a four-shot lead into the final round of the Irish Open and close in on his first individual win since 2022.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cp8dy97wnxjo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T19:27:21Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 32,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2d3/live/c3b4ba10-aede-11f1-91ea-91f4a2a08fa4.jpg"
+    },
+    {
+      "id": "8a3ff423b25c7e3b",
+      "title": "Was Hull-Woad pairing right call as Europe & US end level with singles to play?",
+      "summary": "Should Europe fail to reach the 14½ points they require to win the Solheim Cup on Sunday questions will surely be asked of captain Anna Nordqvist's faith in Charley Hull and Lottie Woad as a pairing.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/ckgvz6kdy4yo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T18:23:16Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 36,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b44e/live/07689c90-aec6-11f1-89e2-171455bb2760.jpg"
+    },
+    {
+      "id": "c4072bcc10d6abdc",
+      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-09-12T21:25:28Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg"
+    },
+    {
+      "id": "6195597789f448a7",
+      "title": "Werro prevails over rivals in close 800m battle",
+      "summary": "Audrey Werro beats Keely Hodgkinson and Femke Broeders-Bol in a commanding women's 800m final victory, becoming the Ultimate Champion after charging clear at the final stretch.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/athletics/videos/cx2z00wnj78o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T18:40:11Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 26,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccaa/live/e1b4fda0-aed8-11f1-a540-61c3f7fc4e6c.jpg"
+    },
+    {
       "id": "61e45f910d4a6524",
       "title": "Primark introduces home delivery",
       "summary": "Primark has said it plans to launch a home delivery service in Britain, four years after it made its first foray into e-commerce.",
@@ -2492,19 +2884,19 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3760/live/d9014800-ad1e-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "4ffe05cdd017500d",
-      "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
-      "summary": "Saudi Arabia has said it will not relatiate and wants Iraq to \"take the necessary measures.\" Baghdad is under pressure from the United States to rein in Iran-backed militias.",
+      "id": "ed5e9a3fa76bd948",
+      "title": "Norris' real opportunity after coming from nowhere with 'masterpiece' lap",
+      "summary": "McLaren do not have the fastest car at the Spanish Grand Prix but with overtaking expected to be difficult, pole man Lando Norris has a chance of another win.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-09-12T17:36:00Z",
-      "category": "Politics",
-      "region": "US",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c5yeljnxyvdo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T18:26:39Z",
+      "category": "Sports",
+      "region": "UK",
       "labels": [
-        "Politics",
-        "US"
+        "Sports",
+        "UK"
       ],
       "sourceWeight": 4,
       "focus": "",
@@ -2512,54 +2904,80 @@
       "wordCount": 29,
       "readingMinutes": 1,
       "isShort": true,
-      "isBreaking": false
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cce/live/1ed8e000-aed6-11f1-91ea-91f4a2a08fa4.jpg"
     },
     {
-      "id": "d49f04260c414ee4",
-      "title": "Clarke & Gallagher start for Scotland against Canada",
-      "summary": "Scrum-half Rhea Clarke will make her first start when Scotland begin their WXV Series campaign against Canada, while Evie Gallagher returns on the openside flank.",
+      "id": "5c3a9cb6efedf774",
+      "title": "GB's Hewett beats Oda to win fifth US Open title",
+      "summary": "Great Britain's Alfie Hewett beats Japanese top seed Tokito Oda to win a fifth US Open title and his 11th Grand Slam singles crown overall.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c93v0gvppklo",
-      "source": "BBC Rugby Union",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/clym44jvy9zo",
+      "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-09-10T11:29:17Z",
+      "published": "2026-09-12T18:55:04Z",
       "category": "Sports",
-      "region": "Canada",
+      "region": "UK",
       "labels": [
         "Sports",
-        "Canada"
+        "UK"
       ],
-      "sourceWeight": 5,
+      "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
       "wordCount": 25,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9939/live/3df79530-ad0a-11f1-a6a8-e924739dac6d.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d6c/live/1c0aaf60-aed7-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "a9ef7c9151c6da6e",
-      "title": "Why are European banks moving gold out of United States?",
-      "summary": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fears about the reliability of the US, but equally important is the need to keep gold closer to home in the event of a crisis.",
+      "id": "4ecd230fa5832bbf",
+      "title": "Guimaraes and Raya crucial - Sunderland v Arsenal player ratings",
+      "summary": "How Sunderland and Arsenal players rated following their Premier League match.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-09-12T15:32:00Z",
-      "category": "Politics",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czjzpvxy0vko",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T20:56:48Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 11,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea7b/live/c539ab60-aee9-11f1-a99d-4515748c32d0.jpg"
+    },
+    {
+      "id": "bc9c2c2c8d54008e",
+      "title": "'I'm still in shock' - GB's Skupski wins US Open doubles title with Harrison",
+      "summary": "Britain's Neal Skupski and American partner Christian Harrison win the US Open men's doubles to secure their second Grand Slam title together.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cn8mvvgxnlno",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T18:36:34Z",
+      "category": "Sports",
       "region": "US",
       "labels": [
-        "Politics",
+        "Sports",
         "US"
       ],
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 42,
+      "wordCount": 22,
       "readingMinutes": 1,
       "isShort": true,
-      "isBreaking": false
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf04/live/9b908490-aed6-11f1-91ea-91f4a2a08fa4.jpg"
     },
     {
       "id": "7c7bfe75674d5110",
@@ -2567,13 +2985,13 @@
       "summary": "Are England a better team in September than in June? BBC cricket correspondent Stephan Shemilt discusses the positives and negatives of the Test summer and what the next period may bring.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/sport/cricket/articles/cj64nxkx22jo",
-      "source": "BBC News",
+      "source": "BBC Sport",
       "publisher": "BBC",
       "published": "2026-09-12T15:59:44Z",
-      "category": "Politics",
+      "category": "Sports",
       "region": "UK",
       "labels": [
-        "Politics",
+        "Sports",
         "UK"
       ],
       "sourceWeight": 4,
@@ -2682,6 +3100,53 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0720/live/9088e100-aed6-11f1-91ea-91f4a2a08fa4.jpg"
     },
     {
+      "id": "e087636ec573489e",
+      "title": "Solanke struggles, but Branthwaite solid - Spurs v Everton player ratings",
+      "summary": "How Spurs and Everton's players rated following their Premier League match, which ended in a goalless draw.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8043gn8ng3o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T18:32:15Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5746/live/f2f8be80-aece-11f1-89e2-171455bb2760.jpg"
+    },
+    {
+      "id": "97fa2554c9e56cec",
+      "title": "US court blocks Trump administration plan to cut disaster agency workforce",
+      "summary": "US President Donald Trump has said he would like to abolish the agency.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/9/12/us-court-blocks-trump-administration-plan-to-cut-disaster-agency-workforce?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-09-12T19:49:29Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 13,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "6f991e1589fb7ad8",
       "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
       "summary": "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career.",
@@ -2730,6 +3195,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/1dc6ba40-aeb6-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
+      "id": "ed9dc07be0f6d263",
+      "title": "Norris takes Madrid pole with 'gorgeous' lap",
+      "summary": "Lando Norris takes a superb pole position for McLaren at the Spanish Grand Prix, beating Mercedes' Kimi Antonelli and Red Bull's Max Verstappen.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r60g7nrn6o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T17:00:06Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 23,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ff/live/d42b5e60-aebd-11f1-ae38-d350b022f499.jpg"
+    },
+    {
       "id": "db78842f021f013f",
       "title": "Dragons feel extra pressure after avoiding WRU cut",
       "summary": "Dragons set target of making the United Rugby Championship play-offs after avoiding being cut under Welsh Rugby Union plans.",
@@ -2755,14 +3244,14 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c78/live/a5720c80-ad06-11f1-beae-535b95a24b3e.jpg"
     },
     {
-      "id": "9f669610333edbd5",
-      "title": "Cricket: Today at the Test",
-      "summary": "Day 4 highlights from the third Test match between England and Pakistan at Edgbaston.",
+      "id": "10dc85903f9aa721",
+      "title": "New system, same problems - Alonso not happy with 'soft' Chelsea",
+      "summary": "It was subdued at Stamford Bridge after Chelsea's 2-2 draw with newly promoted Hull City.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcfour",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1l6qd2qvyzo",
       "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-09-12T19:00:00Z",
+      "published": "2026-09-12T18:22:46Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -2772,11 +3261,11 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 14,
+      "wordCount": 15,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0p95zyq.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9c8/live/7f4716c0-aef2-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "id": "5b8054dfbc56a310",
@@ -2896,30 +3385,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4e1/live/5332e430-aeaf-11f1-ae38-d350b022f499.jpg"
-    },
-    {
-      "id": "91a895e9b38d0b24",
-      "title": "Céline Dion fans prepare for comeback concert in Paris",
-      "summary": "Fans of the Canadian singer greeted her as she left her hotel on Saturday.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/videos/cwyz11gk7y7o",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-09-12T17:36:20Z",
-      "category": "Politics",
-      "region": "Canada",
-      "labels": [
-        "Politics",
-        "Canada"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff30/live/b9bcc180-aecd-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "id": "83cbfed719e365aa",
@@ -3065,52 +3530,6 @@
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5961458"
     },
     {
-      "id": "08455bdc82606157",
-      "title": "Trump says a unified Ireland would be ‘fantastic’ during Irish visit",
-      "summary": "British Prime Minister Andy Burnham maintains there is not enough popular support for Northern Ireland to leave the UK.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/9/12/trump-says-a-unified-ireland-would-be-fantastic-during-irish-visit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-09-12T14:20:28Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "9d1b3140351c262d",
-      "title": "England survive Pakistan scare to seal 3-0 Test series sweep",
-      "summary": "England overcome early tremors to win ⁠third Test against Pakistan by eight wickets, clinching a series whitewash.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/sports/2026/9/12/england-pakistan-third-test-edgbaston-joe-root-razaullah-cricket?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-09-12T14:24:39Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "736122692c02f75b",
       "title": "Schmidt has an amazing eye for detail - Dermody",
       "summary": "Ulster forwards coach Clarke Dermody praises Joe Schmidt's \"amazing eye for detail\" as he settles into his role at the Affidea Stadium.",
@@ -3133,29 +3552,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e501/live/f03a5340-ac88-11f1-ab14-5b9069dc795d.jpg"
-    },
-    {
-      "id": "0c865581f2375640",
-      "title": "BRICS summit leaders urge 'maximum restraint' in Middle East",
-      "summary": "The joint declaration at the BRICS 2026 summit expressed 'deep concern' over hostilities in the Middle East. China's President Xi Jinping said the Iran war was not in the bloc's interest.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/brics-summit-leaders-urge-maximum-restraint-in-middle-east/live-79224239?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-09-12T11:39:00Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 31,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "a0f96287917275b9",
@@ -3302,29 +3698,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg"
     },
     {
-      "id": "2e7e78cb2dbb3e69",
-      "title": "China’s marriage crisis: The search for love",
-      "summary": "101 East explores how ancient traditions are getting a modern makeover as young Chinese seek new ways to find love.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/101-east/2026/9/12/chinas-marriage-crisis-the-search-for-love?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-09-12T11:30:00Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "e79ebc89835edd9b",
       "title": "Oracle tries to appease Stargate data center opponents with renewables push",
       "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
@@ -3373,29 +3746,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86fb/live/633b95d0-abac-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "e23e78001bae9c20",
-      "title": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
-      "summary": "Trump: Iran probably ‘behind’ Saudi oil pipeline attack",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-09-12T12:10:13Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 8,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "56000cd93f4d463d",
       "title": "'I've turned the page' - Camara on Chelsea deal collapse",
       "summary": "Monaco and Senegal midfielder Lamine Camara says he is moving on from his failed £47.1m move to Chelsea.",
@@ -3418,30 +3768,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dae/live/e26c1510-ae8a-11f1-b92e-1f49080ec3cb.jpg"
-    },
-    {
-      "id": "41ab22894ed26313",
-      "title": "'Red rag to a bull' - Sabalenka's extra motivation to win US Open",
-      "summary": "Aryna Sabalenka has lost the world number one ranking to Elena Rybakina - but has the chance to take revenge in the US Open final.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cly59yjl5d5o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-12T09:04:13Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7043/live/d4f24ec0-ae37-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "id": "684e2d164a95dec7",
@@ -3492,30 +3818,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39dc/live/efa1fdd0-addb-11f1-8b98-35ffe039e825.jpg"
     },
     {
-      "id": "f25bc804cbb3f98c",
-      "title": "Benn makes weight - then puts on 32lbs in 12 hours",
-      "summary": "Conor Benn and Ryan Garcia both comfortably make the welterweight limit for their WBC title fight despite concerns at how they would fare on the scales.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/c4gqj1g5d27o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-12T06:46:27Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 26,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5821/live/63332c00-ae0a-11f1-b502-e5cdfe1c097c.png"
-    },
-    {
       "id": "0ae9586ca94fed2b",
       "title": "Garcia v Benn - welterweight world title fight predictions",
       "summary": "Figures from the boxing world give their predictions for Saturday's WBC welterweight world title fight between Ryan Garcia and Briton Conor Benn.",
@@ -3564,30 +3866,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998-1152x648-1789141845.jpg"
     },
     {
-      "id": "496d773301d9ab9b",
-      "title": "New Man City signings desperate to win - Dias",
-      "summary": "Manchester City have brought in summer signings who are \"desperate to win\" and the whole squad is \"buying into the idea\" of new manager Enzo Maresca, says new captain Ruben Dias.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy5zp9llp3ro",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-12T05:24:51Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 31,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5eb/live/fd45ae50-ac41-11f1-96a2-2f464854ded4.jpg"
-    },
-    {
       "id": "efbba197f44274d3",
       "title": "Signed instead of Rashford, Gordon is proving worth at Barca",
       "summary": "Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants.",
@@ -3610,30 +3888,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9cf/live/afd098d0-ad48-11f1-ae59-91d2b63bf2a3.jpg"
-    },
-    {
-      "id": "3c6b3f73327cefd1",
-      "title": "American Shelton to face Zverev in US Open final",
-      "summary": "Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one seed Alexander Zverev.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-12T06:05:34Z",
-      "category": "Sports",
-      "region": "US",
-      "labels": [
-        "Sports",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 25,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3426/live/a8eefbc0-ae5a-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
       "id": "58035e0bf9b62f6d",
@@ -3850,30 +4104,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/eebddd88f1626aff29b4cf74e52913fda48f973d/391_0_3239_2592/master/3239.jpg?width=700&quality=85&auto=format&fit=max&s=906dc8014476820a0c55d1bcd600cd6a"
-    },
-    {
-      "id": "f07eadf5f002b96d",
-      "title": "Flex your football brain with our daily quizzes",
-      "summary": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cy8zrxvpvlyo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-12T05:54:29Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "id": "82c78eab924e6233",
@@ -4189,30 +4419,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7edd/live/cdaa8ec0-ac89-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "ec647d922de781ae",
-      "title": "Like Benzema & as good as Haaland - Alonso on Joao Pedro",
-      "summary": "Chelsea manager Xabi Alonso says striker Joao Pedro is similar stylistically to his former Real Madrid team-mate Karim Benzema and is at a comparable level to Manchester City's Erling Haaland.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1j4z1ry29jo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-11T21:30:23Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 30,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8bd/live/b38511e0-ade3-11f1-9a5c-a7a4083eb832.jpg"
-    },
-    {
       "id": "d2019634957c3020",
       "title": "Razaullah steals the show as Pakistan fight back to frustrate England",
       "summary": "Shan Masood, Babar Azam and debutant Razaullah all reach half-centuries as Pakistan produce a spirited fight back to score 449 in their second innings on day three, setting England 130 to win the third and final Test, and complete a 3-0 series win at Edgbaston.",
@@ -4258,30 +4464,6 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
-    },
-    {
-      "id": "5eb3f833999aa086",
-      "title": "Glitzy innovations but Duplantis still wins - new Ultimate Championship begins",
-      "summary": "The Ultimate Championship is posed as something different in athletics, but some things stay the same - pole vault star Armand Duplantis taking centre stage.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/c05r94l4j9go",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-11T22:24:31Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d824/live/b3452310-ae2d-11f1-ac6d-91eaec18841f.jpg"
     },
     {
       "id": "8d10995f32b13338",
@@ -4379,30 +4561,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ab/live/14e7b150-ac6c-11f1-80f0-9795d1a5edbc.jpg"
-    },
-    {
-      "id": "f156b3c4a8d659f5",
-      "title": "Wigan beat Catalans to lift sixth League Leaders' Shield",
-      "summary": "Wigan Warriors win a sixth League Leaders' Shield as they beat Catalans Dragons to wrap up top spot in Super League heading into the play-offs.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c3v4zpewq6qo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-11T21:22:22Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 25,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6056/live/bb19f3b0-ae21-11f1-ac3c-d9de82cf7bb1.jpg"
     },
     {
       "id": "ff3f60008f7ff67a",
@@ -4599,29 +4757,6 @@
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/illo_ai_pro_clones_sketch-768x432.jpg"
     },
     {
-      "id": "6175483a90244e3d",
-      "title": "US commemorates 25 years since 9/11 terror attack",
-      "summary": "A quarter century has passed since Islamists hijacked four commercial jets and turned them into weapons against the US. On Friday, ceremonies in New York, Pennsylvania and Washington DC marked the dark anniversary.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/us-commemorates-25-years-since-9-11-terror-attack/a-79237898?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-09-11T15:26:00Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 33,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "51e40570f0a100a8",
       "title": "‘There’s a weird market failure in media’: David Brooks on how his new podcast will tackle the big questions",
       "summary": "The former New York Times columnist is taking a step away from politics to focus on moral and humanistic concerns the media rarely cover David Brooks knows there are plenty of podcasts out there. But as the veteran commentator prepares to launch his own, he believes there is still space for someone to tackle the big moral questions facing us all. Brooks, who left the New York Times in February after 22 years and joined the Atlantic magazine full-time as a staff writer, hopes to fill that market gap with a new video podcast called The Permanent Questions, funded in part by Yale University, that will air weekly starting on Sunday. Continue reading...",
@@ -4670,30 +4805,6 @@
       "imageUrl": "https://i.guim.co.uk/img/media/b47b4b64332e5886d782ebf3ea9f5cb14544c5a4/87_0_2999_2400/master/2999.jpg?width=700&quality=85&auto=format&fit=max&s=fb0295d9b07242d735570705affd0f92"
     },
     {
-      "id": "04d6d215a72a18f6",
-      "title": "Celtic given 'timely' police reminder before derby",
-      "summary": "Celtic players had a visit from Police Scotland on Friday to give them \"a timely reminder\" about their \"general behaviour\" in Sunday's Premier Sport Cup quarter-final against city rivals Rangers, manager Martin O'Neill reveals.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz7zrdxj9x0o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-11T14:16:39Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 34,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9b4/live/2db57d10-ade9-11f1-9a5c-a7a4083eb832.jpg"
-    },
-    {
       "id": "24bd3d985e5fca06",
       "title": "Woad & Korda lead best shots from Solheim Cup day one",
       "summary": "Watch the best shots from day one of the 2026 Solheim Cup, featuring Europe's Lottie Woad and the US' Nelly Korda.",
@@ -4716,30 +4827,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5d8/live/40a71100-ae0b-11f1-a540-61c3f7fc4e6c.jpg"
-    },
-    {
-      "id": "52be4b54b24193bb",
-      "title": "Alonso cannot leave F1 while uncompetitive - FIA boss",
-      "summary": "FIA president Mohammed Ben Sulayem says it would be \"not acceptable\" for Fernando Alonso to leave F1 while he is in an uncompetitive position.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c9w4dz14787o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-11T17:03:48Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3ad/live/40300d40-ae00-11f1-9b77-ddcb406ce9c0.jpg"
     },
     {
       "id": "c6752131d98d4eec",
@@ -4838,30 +4925,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a593/live/bd412620-a7a2-11f1-a7ad-37a1f7dc081c.jpg"
     },
     {
-      "id": "c527fdafd71a6daf",
-      "title": "Liverpool unveil memorials for former manager Beard",
-      "summary": "Liverpool have unveiled permanent memorials at their training ground and outside Anfield in tribute to former women's team manager Matt Beard.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20939pqy78o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-11T15:32:08Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1d/live/a86e23b0-adf1-11f1-ad53-0d91a06f3150.jpg"
-    },
-    {
       "id": "9ae96995e3f8a054",
       "title": "LOTTE SHARP COMMITS HER FUTURE TO SARACENS",
       "summary": "SARACENS WOMEN ARE DELIGHTED TO CONFIRM LOTTE SHARP HAS SIGNED A NEW DEAL WITH THE CLUB, EXTENDING A RUGBY JOURNEY THAT HAS ALREADY SPANNED OVER A DECADE IN NORTH LONDON. Sharp's Saracens story began in 2014, joining the club from local side, Welwyn. Since then, she has become one of the most consistent and decorated […]",
@@ -4909,52 +4972,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcae/live/5358e090-ac2f-11f1-b483-f5be285e6b7e.jpg"
-    },
-    {
-      "id": "3a0919d1413c5f0a",
-      "title": "Iran pursues cautious escalation ahead of US midterms",
-      "summary": "Tehran appears to be boosting pressure on Washington ahead of the crucial midterm vote, but shows little desire to return to a full-scale war.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/iran-pursues-cautious-escalation-ahead-of-us-midterms/a-79237061?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-09-11T14:54:00Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "ae1236d3f0453cbb",
-      "title": "India's BRICS strategy tested with Xi, Putin set to visit",
-      "summary": "New Delhi's \"America Plus\" approach sees India deepening its ties with China and Russia, while also trying to keep BRICS from turning into an anti-Western platform.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/india-s-brics-strategy-tested-with-xi-putin-set-to-visit/a-79231879?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-09-11T13:31:00Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 26,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "fcb800ea1b4f56b0",
@@ -5014,8 +5031,8 @@
     },
     {
       "source": "DW",
-      "ok": true,
-      "items": 137
+      "ok": false,
+      "error": "The read operation timed out"
     },
     {
       "source": "UN News",
@@ -5065,7 +5082,7 @@
     {
       "source": "BBC Business",
       "ok": true,
-      "items": 55
+      "items": 56
     },
     {
       "source": "The Guardian Economics",
@@ -5090,12 +5107,12 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 67
+      "items": 75
     },
     {
       "source": "BBC Rugby Union",
       "ok": true,
-      "items": 51
+      "items": 50
     },
     {
       "source": "Saracens",
