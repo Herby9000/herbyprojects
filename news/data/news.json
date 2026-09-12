@@ -1,23 +1,22 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-11T22:33:59.079706Z",
+  "generatedAt": "2026-09-12T04:32:02.808622Z",
   "topStoryIds": [
-    "3753855856d4a247",
+    "83b70b6fe479ae70",
     "f401060a42a78c01",
     "03f79f38e9c5341e",
     "ccdd237b62075e48",
-    "678c27435f86d253",
+    "a80c65514bf165db",
     "0a22334565d8553d",
     "8c8c98e3f9528068"
   ],
   "sectionStoryIds": {
     "Politics": [
-      "3753855856d4a247",
-      "678c27435f86d253",
+      "83b70b6fe479ae70",
+      "a80c65514bf165db",
       "9a9259a7c33cf84f",
       "5492593ad0156dac",
-      "28f1bca4257ce4fe",
-      "d2579ef60ddab544"
+      "9588db45154a805f"
     ],
     "Tech": [
       "3eaa8e9435d7b5fa",
@@ -35,10 +34,9 @@
       "a0e9533a807c68ce"
     ],
     "Sports": [
+      "325211fdfac70368",
+      "6168db15d7c3bedd",
       "2431af0d98f1c620",
-      "49c7bd2fb19a5533",
-      "6abd759b09761a2d",
-      "3f678e8fd39853db",
       "18362e9712cb0526",
       "f6874e1c9b720dd9",
       "fb47ebb7f7def005",
@@ -46,7 +44,8 @@
       "556f37f145e49359",
       "336cf6894ea063b5",
       "8c858586c8d9bc74",
-      "a2ce4c3ec77c264f"
+      "9ae96995e3f8a054",
+      "81a2fce46615e1d3"
     ],
     "Editorial": [
       "49f5e5aa35daa4fa",
@@ -62,14 +61,14 @@
   },
   "stories": [
     {
-      "id": "3753855856d4a247",
-      "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
-      "summary": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
+      "id": "83b70b6fe479ae70",
+      "title": "MPs vote against fresh attempt to legalise assisted dying",
+      "summary": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/c5y54n99l48o",
+      "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o",
       "source": "BBC Politics",
       "publisher": "BBC",
-      "published": "2026-09-11T16:49:47Z",
+      "published": "2026-09-12T01:12:31Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
@@ -79,12 +78,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 673,
-      "readingMinutes": 4,
+      "wordCount": 1276,
+      "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6357/live/1b9739b0-adfe-11f1-a540-61c3f7fc4e6c.jpg",
-      "body": "Published 5 hours ago\n\nThere were gasps and – to the intense irritation of supporters – cheers from opponents of assisted dying when the vote was read out in the Commons.\n\nThis was an extraordinary result.\n\nAfter twice voting in favour of the bill, MPs have rejected proposals to legalise assisted dying in England and Wales, bringing to an end the latest effort to change the law .\n\nThe debate itself was tetchier, more irritable than when Kim Leadbeater introduced a similar bill in 2024. Then it was the first time MPs had voted on assisted dying in nine years.\n\nSince then the Commons has voted on this issue three times and had hours of debate. The sombre, respectful tone from 2024 has become more embittered.\n\nGiven the strength of feeling on both sides over such an emotive issue, perhaps that is unsurprising.\n\nBut on a deeply divided issue, both sides agree on why the result was different.\n\n\"We always said it would come to turnout and it did,\" one supporter of the bill text me. An opponent messaged to say the same.\n\nThe numbers tell a story.\n\nLast time MPs voted on assisted dying in June, 315 were in favour and 291 against. Today, the numbers opposed were similar: 286.\n\nBut support for this bill has ebbed away. Just 270 voted for this bill, a fall of 45.\n\nSo why have fewer MPs backed it, compared to a year ago?\n\nThere are a number of reasons why support for assisted dying has dropped off.\n\nSome MPs have changed their mind. Janet Daby, the Labour MP for Lewisham East, for example told the Commons that after she previously backed the bill \"my conscience was not at peace, and I cannot again, in good conscience, vote for the bill.\"\n\nBut in reality those switching their position are a small minority.\n\nFor others, the influence of Andy Burnham may have been a factor. When MPs last gave their collective view on assisted dying, Sir Keir Starmer was prime minister and supportive of this bill.\n\nBurnham, however, is not. For Labour MPs wanting to follow Downing Street's priorities, abstaining might have seemed a more appealing option.\n\nThere will be other reasons why supportive MPs did not turn up today. A wedding, I'm told, took some away from Westminster. A trip to Ukraine meant others missed the vote.\n\nAlready those in favour of a change in the law promise to try again. Kim Leadbeater, the Labour MP who introduced the original legislation last year, has told the BBC another attempt could come as soon as next year.\n\nSupporters have told me they see this parliament, with such a large proportion of Labour MPs who tend to support assisted dying, as a \"unique moment\" to pass this change.\n\n\"This result doesn't mean there isn't still a majority in parliament in favour of the principle of assisted dying,\" said one of those behind the bill.\n\nBut for now the momentum has fallen away from a change in the law.\n\nThat is a relief to those who worry such a change would risk harming vulnerable people. But it is a bitter disappointment to those who see it as a necessary and compassionate alternative to the status quo.\n\nThat bitterness from supporters is aimed in part at the House of Lords.\n\nIt was opponents' efforts there that ultimately led to this defeat. And it could hasten those calling for reform of Parliament's second chamber.\n\nPlease upgrade your browser to view this interactive\n\nDid your MP vote For or Against the assisted dying bill?\n\nEnter your full postcode or the name or constituency of your MP\n\nNote: a small number of postcodes do not give an accurate constituency for all properties.\n\nMPs vote against fresh attempt to legalise assisted dying Published 5 hours ago\n\nAssisted dying: How laws differ around the world Published 8 hours ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nEuthanasia and assisted dying\n\nHouse of Commons\n\nUK Parliament",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d113/live/ace30a00-adf1-11f1-bc1f-3f186ca4140c.jpg",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: MPs share personal stories in assisted dying debate\n\nPublished 11 September 2026\n\nMPs have voted against proposals to legalise assisted dying in England and Wales, bringing the latest effort to change the law to an end.\n\nFollowing a debate in which both sides made emotional speeches, the House of Commons voted 286 to 270, majority 16, against the proposed legislation.\n\nThe Terminally Ill Adults (End of Life) Bill would have allowed adults with fewer than six months to live to apply to be given help to end their own life, subject to certain safeguards.\n\nA similar bill in the last parliamentary session was supported by MPs before stalling in the House of Lords . The decision from MPs on Friday rules out the prospect of changes to the law on assisted dying in the short term.\n\nThe bill tabled by Labour MP Lauren Edwards will make no further progress, although MPs and peers could make another attempt in the next parliamentary session.\n\nAssisted dying is an issue that has been debated for hundreds of hours in Parliament over the last two years and would have represented one of the biggest societal changes in recent years had it been approved.\n\nMPs were given a free vote, meaning they did not vote on party lines.\n\nSafeguards within the bill included a requirement that a person applying for an assisted death had the approval of two doctors and an expert panel.\n\nBut critics said it included too few measures to protect vulnerable people from being coerced into ending their lives, while some say improving palliative care should be the priority.\n\nPlease upgrade your browser to view this interactive\n\nDid your MP vote For or Against the assisted dying bill?\n\nEnter your full postcode or the name or constituency of your MP\n\nNote: a small number of postcodes do not give an accurate constituency for all properties.\n\nThere were emotional scenes outside Parliament from both sides after MPs voted against giving the bill a second reading.\n\nDame Esther Rantzen, who was unable to join supporters in Parliament Square, told the BBC that it was \"so sad that people in this country won't have the choice\" that terminally ill adults have in other countries.\n\nThe Childline founder said: \"I am sure a change in the law will come. I am deeply sad that it won't come soon enough for many of the people who need it, it's a tragic day.\"\n\nThe broadcaster, 86, is terminally ill with cancer and has said she is now \"too physically fragile\" to travel to Switzerland to end her life at an assisted suicide clinic.\n\nOpponents of the assisted dying bill react after MPs voted against it\n\nEdwards, the Labour MP for Rochester and Strood, said: \"Parliament has dropped the ball today.\n\n\"It will be picked up again as it must be, because the law as it stands is simply too cruel and too unjust to be allowed to stand.\"\n\nLabour peer and former Home Secretary Lord Blunkett told the BBC's Newsnight programme that it was a \"bad day for democracy\".\n\nThe issue was \"clearly not going away\" and would re-emerge \"in a year or two's time\", he added.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: A 'bad day for democracy', says Labour peer\n\nThose in favour of a change in the law have said they will try to bring forward legislation again, with Kim Leadbeater, the Labour MP who introduced the original bill, telling the BBC another attempt could come as soon as next year.\n\nLabour MPs Ashley Dalton, Dame Meg Hillier and Jess Asato, who all opposed the \"unsafe and unworkable\" bill, welcomed the MPs' decision.\n\nIn a joint statement, they said: \"This is not a moment for celebration, we understand the deep concerns of so many people across the country who have campaigned hard for a change in the law.\n\n\"But the truth is none of the relevant royal medical colleges, professional groups or experts will attest to the safety or workability of this bill.\"\n\nThey said there was a need to \"fix our NHS and sort out social and palliative care before we even consider introducing assisted dying\".\n\nSarah Wootton, chief executive of Dignity in Dying, said \"thousands of terminally ill people will continue to suffer against their wishes in their last days and weeks\".\n\nShe added she still believed law change was \"inevitable\".\n\nCare Not Killing chief executive Gordon Macdonald described the vote as \"decisive\".\n\nHe said: \"Our hope is that MPs now focus on repairing palliative care in the UK and securing the necessary funding to make sure that no matter what part of the country you live in, you can access the best possible care available and are treated with dignity and respect.\"\n\nSupporters of assisted dying react in Parliament Square following the vote in the Commons\n\nThe bill in the last parliamentary session, brought forward by Leadbeater, cleared the House of Commons on 20 June 2025 with a majority of 23.\n\nBut it ran out of time to progress through all the necessary stages in Parliament after some peers in the House of Lords tabled more than 1,200 amendments.\n\nEdwards brought forward the proposals again in a bid to ensure peers could \"finish their job\", although this will no longer take place.\n\nDuring the debate, Labour MP Janet Daby was among those to confirm she would vote against the bill despite previously supporting it.\n\nShe told the Commons she had \"nightmares about dying and death\" after voting in favour of the last bill, adding: \"I had to wrestle with myself, knowing that I was not entirely comfortable with the decision I had made, and my conscience was not at peace, and I cannot again, in good conscience, vote for the bill.\"\n\nIn another of the personal testimonies during the debate, Labour MP Claire Hazelgrove spoke about her mother's decision to bring her late-stage terminal illness to an end \"on her terms\".\n\nThe MP for Filton and Bradley Stoke said the \"harmful status quo\" meant her mother had died alone in October of last year, after living with a rare blood cancer for half her life.\n\nHazelgrove argued \"not all pain can be palliated\" as she spoke in favour of the bill.\n\nConservative MP Martin Vickers said his \"firm\" view was that \"if assisted dying is legalised we will be poorer as a society, we will have a crossed a line\", adding it would also change the \"relationship between doctor and patient\".\n\nLiberal Democrat MP Tom Gordon called for a change in the law and described the bill as \"better than what we currently have, which offers no safeguards and no protections for people in those final moments\".\n\nPrime Minister Andy Burnham did not vote on the bill on Friday, previously describing it as \"a matter for Parliament to decide\".\n\nHe has previously said he personally believes that funding for end-of-life care in the UK should be improved before legalising assisted dying is considered .\n\nAssisted dying: How laws differ around the world Published 14 hours ago\n\nFrench MPs approve assisted dying law with strict rules after years of argument Published 15 July\n\nAn extraordinary result - why did MPs reject assisted dying bill this time? Published 11 hours ago\n\nGet in touch\n\nHave you been affected by the issues in this story? Share your experience\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nEuthanasia and assisted dying",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -106,12 +105,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 725,
+      "wordCount": 710,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/AI-talent-war-1600x900.jpg",
-      "body": "Innovation\n\nOpenAI and Anthropic are hiring leaders from Meta, Google, Microsoft, and other U.S. tech giants to win new markets across India and Southeast Asia.\n\nSilicon Valley’s artificial intelligence talent wars are now playing out in Asia.\n\nOpenAI and Anthropic are poaching top talent from U.S. tech giants including Google, Microsoft, and Amazon to build teams in countries like India and Singapore to sell their products and strengthen engagement with policymakers.\n\nLast month, Meta’s India and Southeast Asia vice president, Sandhya Devanathan, left the company after a decade to join OpenAI as vice president for Southeast Asia and Australia. This was at least the ninth hire by a U.S. AI giant from an American big tech firm in Asia in the past year.\n\n“The number of executives in India who’ve actually run a country-level P&L [profit and loss] for a global tech company, negotiated with Indian regulators, and built enterprise trust at scale is small, maybe a few hundred people across all of Big Tech India,” Arjun Jaggi, an applied AI researcher and executive adviser to Fortune 500 companies, told Rest of World .\n\nOpenAI and Anthropic did not respond to requests for interviews with their recent hires, or to questions about their Asia-Pacific hiring strategy.\n\nIn the U.S., frontier AI labs have mostly competed for the best researchers and engineers. In Asia, however, the more sought-after executives are those who can translate AI capabilities into market adoption as the competition moves from building the best models to capturing new markets.\n\nIn new markets, companies need leaders who can focus on partnerships, policy, and business development, Deepali Vyas, global head of data and AI executive search at talent advisory firm ZRG Partners, told Rest of World . Vyas works with Fortune 500 companies to scout talent for executive roles.\n\n“Once a company decides [a region] is a strategic growth market, you start looking for executives who can essentially operate as mini-CEOs,” she said.\n\nA professional with experience working at companies like Microsoft, Google, or Uber in Asia has an understanding of how Silicon Valley’s products can be scaled while navigating local landscapes, making them valuable to AI companies. Experts believe AI companies’ focus is less on poaching from big tech firms and more on seeking individuals who have such experience.\n\nThe prized asset is not generic familiarity with American technology but dual institutional literacy.” Sanchit Vir Gogia, chief analyst at Greyhound Research\n\nOpenAI’s first hire in India, Pragya Mishra, came from Truecaller. Her resume, though, includes being the first WhatsApp hire in India. OpenAI’s Asia-Pacific director, Kiran Mani, came from India’s largest media and entertainment conglomerate, JioStar, in March. Mani had previously worked at Google for 13 years.\n\nDevanathan’s Meta experience spans consumer platforms, gaming, commerce, business messaging, payments, advertisers, and partnerships.\n\n“The prized asset is not generic familiarity with American technology but dual institutional literacy: knowing how a U.S.-headquartered company allocates capital and risk, and knowing how Indian customers, governments, and partners turn global strategy into local reality,” Sanchit Vir Gogia, chief analyst at Greyhound Research, told Rest of World .\n\nThe need to dip into the same talent pool also arises because of a shortage of skilled leaders.\n\n“At the leadership level, the scarcity is more pronounced because experience cannot be created overnight. Most of the large technology companies are increasingly competing for the same relatively small group of proven executives,” Neeti Sharma, CEO of TeamLease Digital, the staff and tech recruitment arm of human resources firm TeamLease Services, told Rest of World . “Over time, the pool will expand as leaders emerge from GCCs [global capability centers], SaaS [software-as-a-service] companies, startups, and digital businesses.”\n\nGoogle Earth’s AI experiment lasted 24 hours. The damage to trust will linger\n\nA short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.\n\nTaiwan’s six-year hunt for China’s undercover chip labs\n\nPreviously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.\n\nNow it's China's experts who are gig workers training AI\n\nSqueezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
+      "body": "Innovation\n\nOpenAI and Anthropic are hiring leaders from Meta, Google, Microsoft, and other U.S. tech giants to win new markets across India and Southeast Asia.\n\nSilicon Valley’s artificial intelligence talent wars are now playing out in Asia.\n\nOpenAI and Anthropic are poaching top talent from U.S. tech giants including Google, Microsoft, and Amazon to build teams in countries like India and Singapore to sell their products and strengthen engagement with policymakers.\n\nLast month, Meta’s India and Southeast Asia vice president, Sandhya Devanathan, left the company after a decade to join OpenAI as vice president for Southeast Asia and Australia. This was at least the ninth hire by a U.S. AI giant from an American big tech firm in Asia in the past year.\n\n“The number of executives in India who’ve actually run a country-level P&L [profit and loss] for a global tech company, negotiated with Indian regulators, and built enterprise trust at scale is small, maybe a few hundred people across all of Big Tech India,” Arjun Jaggi, an applied AI researcher and executive adviser to Fortune 500 companies, told Rest of World .\n\nOpenAI and Anthropic did not respond to requests for interviews with their recent hires, or to questions about their Asia-Pacific hiring strategy.\n\nIn the U.S., frontier AI labs have mostly competed for the best researchers and engineers. In Asia, however, the more sought-after executives are those who can translate AI capabilities into market adoption as the competition moves from building the best models to capturing new markets.\n\nIn new markets, companies need leaders who can focus on partnerships, policy, and business development, Deepali Vyas, global head of data and AI executive search at talent advisory firm ZRG Partners, told Rest of World . Vyas works with Fortune 500 companies to scout talent for executive roles.\n\n“Once a company decides [a region] is a strategic growth market, you start looking for executives who can essentially operate as mini-CEOs,” she said.\n\nA professional with experience working at companies like Microsoft, Google, or Uber in Asia has an understanding of how Silicon Valley’s products can be scaled while navigating local landscapes, making them valuable to AI companies. Experts believe AI companies’ focus is less on poaching from big tech firms and more on seeking individuals who have such experience.\n\nThe prized asset is not generic familiarity with American technology but dual institutional literacy.” Sanchit Vir Gogia, chief analyst at Greyhound Research\n\nOpenAI’s first hire in India, Pragya Mishra, came from Truecaller. Her resume, though, includes being the first WhatsApp hire in India. OpenAI’s Asia-Pacific director, Kiran Mani, came from India’s largest media and entertainment conglomerate, JioStar, in March. Mani had previously worked at Google for 13 years.\n\nDevanathan’s Meta experience spans consumer platforms, gaming, commerce, business messaging, payments, advertisers, and partnerships.\n\n“The prized asset is not generic familiarity with American technology but dual institutional literacy: knowing how a U.S.-headquartered company allocates capital and risk, and knowing how Indian customers, governments, and partners turn global strategy into local reality,” Sanchit Vir Gogia, chief analyst at Greyhound Research, told Rest of World .\n\nThe need to dip into the same talent pool also arises because of a shortage of skilled leaders.\n\n“At the leadership level, the scarcity is more pronounced because experience cannot be created overnight. Most of the large technology companies are increasingly competing for the same relatively small group of proven executives,” Neeti Sharma, CEO of TeamLease Digital, the staff and tech recruitment arm of human resources firm TeamLease Services, told Rest of World . “Over time, the pool will expand as leaders emerge from GCCs [global capability centers], SaaS [software-as-a-service] companies, startups, and digital businesses.”\n\nI refused to train the AI that could replace me\n\nAI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.\n\nNow it's China's experts who are gig workers training AI\n\nSqueezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.\n\nChinese businesses are giving away AI tokens with coffee, credit cards, and dumplings\n\nFive unexpected ways computing power is entering everyday life in the country.",
       "imageWidth": 1600,
       "imageHeight": 900
     },
@@ -170,14 +169,14 @@
       "imageHeight": 630
     },
     {
-      "id": "678c27435f86d253",
-      "title": "Vets can diagnose bluetongue to cut test delays",
-      "summary": "The government announces the change in approach as the virus continues to spread in the UK.",
+      "id": "a80c65514bf165db",
+      "title": "Reform receives record £36m donation from crypto billionaire",
+      "summary": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/cn07xvxqpg7o",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o",
       "source": "BBC Politics",
       "publisher": "BBC",
-      "published": "2026-09-11T17:23:18Z",
+      "published": "2026-09-11T23:27:18Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
@@ -187,12 +186,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 669,
+      "wordCount": 746,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8346/live/a600cc30-adfc-11f1-8169-6fdea7f79791.jpg",
-      "body": "Private vets will be able to diagnose bluetongue after examining affected animals\n\nPublished 11 September 2026, 13:55 BST\n\nVets will now be able to diagnose bluetongue virus in livestock so farmers do not have to wait for confirmed test results under changes announced by the government.\n\nThe potentially deadly virus, which affects sheep and cattle as well as other animals, continues to spread with confirmed cases on 1,048 farms , external in the UK - more than half are in Devon and Cornwall.\n\nFarmers previously needed to wait for samples to be sent to a laboratory to confirm bluetongue but the government said vets would now be able to diagnose the disease after examining the animals.\n\nUK deputy chief veterinary officer Ele Brown said: \"Bluetongue is widely circulating in England and our approach needs to keep pace.\"\n\nHow bluetongue virus exploded in the South West Published 29 August\n\nWhat is the potentially deadly bluetongue virus? Published 17 August\n\nFarmers grieving over bluetongue urged to talk Published 31 August\n\nThe deputy chief vet added: \"Private vets are well placed to recognise signs of the diseases, and this change will mean farmers can get a diagnosis more quickly.\n\n\"Vaccination is the best tool available to help protect susceptible livestock, so I absolutely continue to urge farmers to speak to their vet about vaccinating their herd or flock.\"\n\nThe Department for Environment, Food and Rural Affairs (Defra) said it had set up a new online system allowing vets to report confirmed cases.\n\nIt said the changes would \"mean fewer straightforward cases need to wait for laboratory results, giving farmers an answer sooner and helping them take quicker action to protect livestock\".\n\nNational Farmers Union vice-president Robyn Munt said the changes should help farmers get answers \"more quickly\".\n\n\"However, as private vets take on greater responsibility for diagnosing and reporting bluetongue cases, it's vital that the burden of disease control is not disproportionately shifted on to veterinary practices,\" she said.\n\n\"It is also essential that rapid escalation and testing processes remain in place where clinical signs could indicate another notifiable disease, so that any emerging threats are identified and dealt with quickly.\"\n\nA new heat map , external has also been published so farmers can see where suspected and confirmed cases of bluetongue were being reported, said Defra.\n\nSpread mainly by midge bites, the virus was confirmed in a sheep in Cornwall in September 2025 .\n\nThis strain was introduced into Cornwall from midges blown in wind from northern France but scientists believe the virus likely spread rapidly after overwintering in parts of the UK.\n\nThe outbreak has hit the agriculture sector hard and some farmers fear it will have a lasting impact .\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\n\"It's brought a lot of stress,\" says farmer battling bluetongue\n\nJerry Sanders-Carr, who runs Exe Valley Lamb, near Exeter, said he had lost 15% of his sheep to the virus.\n\n\"Talking to some of the guys who've been going out picking up large numbers of dead animals every morning, some of these guys I'm sure there's going to be a lasting impact on them,\" he said.\n\nMark Walter, who farms in Milton Damerel in north Devon, feared 40% of his lambs could be born stillborn or with disabilities because of bluetongue.\n\nHe added: \"All we were doing is jabbing sheep day and night. The poor sheep, it was horrendous for them.\"\n\nFollow BBC Cornwall on X , external , Facebook , external and Instagram , external . Follow BBC Devon on X , external , Facebook , external and Instagram , external . Send your story ideas to spotlight@bbc.co.uk , external .\n\nRelated topics\n\nDevon\n\nCornwall\n\nUK farming\n\nDepartment for Environment, Food & Rural Affairs\n\nLivestock\n\nViruses\n\nSheep\n\nCattle\n\nAgriculture\n\nMore on this story\n\nFarmer has vaccinated 1,700 sheep for bluetongue Published 21 August\n\n'I felt so alone when my sheep caught bluetongue' Published 4 August\n\nBluetongue can kill suddenly, farmer warns Published 16 August\n\nRelated internet links\n\nAnimal and Plant Health Agency",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/751d/live/9bfaf8b0-ae32-11f1-b1d1-571ed4d7ff2c.jpg",
+      "body": "Ben Delo pictured in 2022\n\nPublished 4 hours ago\n\nReform UK has received a £36m donation from a British cryptocurrency billionaire - a record for a UK political party.\n\nWriting in the Daily Telegraph , external , Ben Delo said he was making the move because he wanted a \"fair fight and a level playing field\".\n\nThe sum is the biggest single donation ever given to a political party in the UK.\n\nParty leader Nigel Farage said he was \"honoured and humbled\" by the gift.\n\nDelo said he was donating £1m a month between now and the latest date Labour could call a general election in 2029 - but that he would give all the money up front in case the government tried to limit mega-donations in future.\n\nThere are currently no restrictions on the amount of money UK-based donors can give to political parties.\n\nBut Labour previously introduced a £100,000 cap on donations from British citizens living overseas.\n\nSheffield-born Delo, who has already donated £4m to Reform, has previously said he will move back to the UK from Hong Kong in order to continue his backing for the party.\n\nLast year, Delo was given an unconditional pardon by US President Donald Trump over a Bank Secrecy Act violation.\n\nIn the Telegraph, Delo wrote: \"Unlike the people who express mock concern for the health of 'our democracy' while doing everything they can to keep it as a cartel, I want a fair fight and a level playing field.\n\n\"My conclusion from Reform's recent troubles is that they should spend less time trying to raise funds to compete on equal terms and more time preparing for government.\"\n\nNigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover Published 5 days ago\n\nWhy Reform UK undercover donations claims are legally complicated Published 6 days ago\n\nCrypto billionaires help Reform cement fundraising lead Published 4 June\n\nReform's fundraising has been under scrutiny with police announcing an investigation over allegations it broke foreign funding laws, following a broadcast by Channel 4 News last week.\n\nThe party denied any wrongdoing and said it would co-operate with the investigation.\n\nFarage is also under investigation by the parliamentary standards commissioner over whether he should have declared a £5m cash gift he received from Thailand-based cryptocurrency investor Christopher Harborne ahead of the 2024 election upon his election as an MP.\n\nFarage argues he was under no obligation to register the \"purely private\" gift, as it was unrelated to his parliamentary or political activities.\n\nThe Metropolitan Police is also investigating whether payments to Reform in the weeks before the last election complied with donation laws.\n\nThe police inquiry is looking at donations given directly to the party by Fiona Cottrell, mother of longstanding Farage ally George Cottrell.\n\nIt is also examining payments from a company controlled by Reform's deputy leader, Richard Tice, which received £1m from Fiona Cottrell in June 2024.\n\nThe restrictions on donations from Britons living abroad prompted a furious row with Reform and its key donors, who have accused Labour of trying to stymie their party's progress.\n\nThe government has also sought to prevent overseas voters moving to the UK from giving more than £100,000 for a year after their arrival as part of the Representation of the People Bill, which has its second reading in the Lords on Monday.\n\nLast year Harborne gave a single donation of £9m to Reform - which was the biggest single donation to a UK political party by a living person at the time.\n\nThe Conservatives had received £10m as a legacy but that too has been eclipsed by Delo's latest donation.\n\nResponding to the donation, a Labour Party spokesperson said Farage was \"still up to his neck in scandal\" and \"the questions he faces aren't going away - in fact they're piling up\".\n\n\"Reform UK can't buy their way out of questions about sleaze, criminal mates and dodgy finances,\" they said. \"It's time Farage and Reform finally came clean with the public, co-operated fully with the police, and proved they're not just in it for themselves.\"\n\nLiberal Democrat Cabinet Office spokesperson Lisa Smart said Farage wanted to \"bring Trump's America to our shores by buying his way into power\".\n\n\"He's trying to get into Number 10 as if it's a stop on a monopoly board,\" the Liberal Democrat added. \"It can't go on like this. Andy Burnham needs to introduce a cap on political donations. Our democracy depends on it.\"\n\nRelated topics\n\nReform UK\n\nNigel Farage",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -306,38 +305,14 @@
       "imageHeight": 630
     },
     {
-      "id": "28f1bca4257ce4fe",
-      "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
-      "summary": "The Security Council met to mark 25 years since the 9/11 attacks, with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since resolution 1373 built the council's counter-terrorism machinery in 2001. Briefers are expected to zero in on militants' growing use of artificial intelligence, drones and encrypted platforms for recruitment and attack planning. Members are also set to adopt a presidential statement – the Council's first on terrorism in five years – after reportedly tense talks over references to specific groups and new tech language.",
+      "id": "9588db45154a805f",
+      "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+      "summary": "Houthi forces seize Yemen's Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168318",
-      "source": "UN News",
-      "publisher": "UN News",
-      "published": "2026-09-11T12:00:00Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 91,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": true,
-      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/29-12-2025_UN-Photo_SC_CTED.jpg/image560x340cropped.jpg"
-    },
-    {
-      "id": "d2579ef60ddab544",
-      "title": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen",
-      "summary": "On the heels of reported Houthi attacks on Saudi Arabia on Tuesday and the capture of another key port by the militants on Yemen’s Red Sea coast – including the seizure of eight UN vehicles from a key aid hub there – the Security Council is meeting on Thursday at 3pm in New York to discuss the latest developments.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168309",
-      "source": "UN News",
-      "publisher": "UN News",
-      "published": "2026-09-10T12:00:00Z",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-09-12T00:00:00Z",
       "category": "Politics",
       "region": "Middle East",
       "labels": [
@@ -347,11 +322,10 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 57,
+      "wordCount": 17,
       "readingMinutes": 1,
       "isShort": true,
-      "isBreaking": true,
-      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/10-09-2026_WHO_Yemen-04.jpg/image560x340cropped.jpg"
+      "isBreaking": true
     },
     {
       "id": "3eaa8e9435d7b5fa",
@@ -474,7 +448,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4c5/live/bd545cf0-ad69-11f1-bc1f-3f186ca4140c.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nUS President Donald Trump says he would give $5,000 to every American adult if the midterm elections go his way. Turning that promise into reality, however, would face significant hurdles. The proposal could cost more than $1.3 trillion, would require congressional approval and could face legal scrutiny regarding soliciting votes for money.\n\nBBC’s Samira Hussain looks at other times the president has made similar promises.\n\nSubsection Business\n\nPublished 23 hours ago\n\nRelated topics\n\nUS midterm elections 2026 Follow US midterm elections 2026 close panel You are now following US midterm elections 2026 Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUS economy Follow US economy close panel You are now following US economy Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nUS President Donald Trump says he would give $5,000 to every American adult if the midterm elections go his way. Turning that promise into reality, however, would face significant hurdles. The proposal could cost more than $1.3 trillion, would require congressional approval and could face legal scrutiny regarding soliciting votes for money.\n\nBBC’s Samira Hussain looks at other times the president has made similar promises.\n\nSubsection Business\n\nPublished 1 day ago\n\nRelated topics\n\nUS midterm elections 2026 Follow US midterm elections 2026 close panel You are now following US midterm elections 2026 Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUS economy Follow US economy close panel You are now following US economy Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nDonald Trump Follow Donald Trump close panel You are now following Donald Trump Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -496,14 +470,63 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1279,
+      "wordCount": 1276,
       "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ac3e/live/cd5970d0-acf2-11f1-a540-61c3f7fc4e6c.jpg",
-      "body": "Chinese firms dominate battery production\n\nPublished 11 September 2026, 00:05 BST\n\nEurope has taken some big swings in the battery industry in recent years and has made a couple of high-profile misses.\n\nBoth Sweden's Northvolt , external and Norway's Morrow , external filed for bankruptcy and there are fears in Europe that the continent has missed another technology shift.\n\nWith more transport and industry switching from fossil fuels to electricity, batteries are likely to be a growth business.\n\nBut the length of time required to bring new products to market, coupled with brutal competition, especially from China, means taking a substantial risk.\n\nCould the answer lie at an almost unimaginably small scale? An increasing number of investors and researchers think so.\n\nA single nanometre is one-billionth of a metre, but it's at that level that some of the most consequential work is being done.\n\n\"If you can make this work, it touches so many industries [but] it's a risky business,\" says Christian Rood, chief executive of Dutch tech firm LeydenJar.\n\nNamed after a 18th century precursor to electric cells, LeydenJar uses a technique known as plasma deposition to make a lighter, more efficient anode – an essential component of all batteries.\n\nSilicon is a highly effective and cheap material to use in anodes, but pure silicon expands and contracts as the battery operates and is recharged, which causes it to crack.\n\nHowever, using plasma deposition, LeydenJar can - layer by tiny layer - make an ultra-thin pure silicon foil which resists cracking, allowing a significant increase in battery life, charging speed, and energy density (up to 50%, according to LeydenJar).\n\n\"Where normally a pure silicon anode would fall apart, [this] remains stable, so it was a very wonderful invention,\" says Rood.\n\n\"We address the bottleneck in the battery.\"\n\nLeydenJar's tech could mean better batteries\n\nCommercial-scale production will start at the end of 2026, but it has taken 10 years to get to this point – the very definition of the time and investment required for so-called Deep Tech innovations.\n\nIt's no coincidence that LeydenJar's factory is in the Dutch city of Eindhoven - home to ASML and other important players in the computer chip industry.\n\n\"A lot of people talk theoretically about ecosystems; I can tell you this is one of our sources of competitive advantage,\" Rood says.\n\n\"It's really the crossover from semiconductors to batteries that makes us different - once you've demonstrated the principle in the lab, industrialization requires you to work with the semiconductor technology and suppliers.\n\n\"That means a lot of risk, but also a lot of opportunity in terms of patenting, in terms of securing your whole intellectual property. And that's much more difficult to do in the US or in China.\"\n\nAcross the Netherlands and Europe more widely there are multiple smaller Deep Tech start-ups looking to develop nanotechnology in the battery market.\n\nOne of those is Powall, a start-up in the Dutch city of Delft that is developing commercial-scale equipment for nanocoating the powders that are the raw materials of today's batteries.\n\nAgain, the scale is tiny, and once again the technique was born in the semiconductor industry.\n\nIndividual powder granules are measured in micrometres, the coatings in nanometres - they are applied using a technique known as atomic layer deposition.\n\nRoderik Colen, CEO of Powall, tells me that the system offers multiple opportunities to adjust and improve the performance of today's batteries.\n\n\"Your battery works less well than before after using it thousands of times - that degrading or aging can be slowed down when you're using a nanocoating,\" Colen explains.\n\n\"You can have an exciting new material with a higher capacity or fast charging, all these novel developments. They typically have one element which is very good, but they suffer on the durability side.\"\n\nAnd that means they will never be a commercial product.\n\n\"That's where we then come in, to give them the protective coating to effectively enable these new materials.\"\n\nThe powders and the coating are carried by gas and brought together in a chemical reaction.\n\nIt is, says Colen, a precise but flexible process which can be almost endlessly adapted.\n\n\"You have great accuracy in how thick you want to have it. And that makes a difference in performance.\"\n\nPowall is developing nanocoating for battery components\n\nNeither LeydenJar nor Powall are trying to build an entire battery, and both have commercial relationships with customers in Asia.\n\nBut Christian Rood of LeydenJar says companies like his can fortify Europe's position in what has become a global contest.\n\n\"The easy comparison is with semiconductors, where there's really a race for the best chip technology.\n\n\"[Dutch tech giant] ASML is not producing chips; it focuses on a critical step in the production of chips, and in that way, has a seat at the table when it comes to the whole semiconductor battle.\n\n\"This is our ambition as well – to have a position where our battery anode is so unique that we have an important position in the supply chain.\"\n\nSo, how do these ambitions play into Europe's goals in the battery industry?\n\nAlexander Brown is a senior analyst at the Berlin-based independent think-tank the Mercator Institute for China Studies (Merics).\n\n\"I think having one part of the supply chain based in Europe is great and if that can be a very advanced technological part, which offers the opportunity for high margins, that's fantastic,\" Brown tells me.\n\nBut he cautions that while \"there can be collaboration as well as competition at the same time\", China in particular will continue to work to reduce its dependence on other regions.\n\n\"China is working very hard to develop local alternatives for technologies, including these niche technologies.\n\n\"It's no secret that China would love to replace ASML - they're working very hard to do that, and it's not unforeseeable that they will achieve that goal eventually.\n\n\"So, I think Europe has traditional strengths in developing very exquisite high-quality products, which can find markets all over the world.\n\n\"But I also think it's important for that not to be the only strategy [from the continent's policy makers].\"\n\nThe challenges of working in such a specialised field are not only technological.\n\nLeydenJar has already reached commercial scale, but Rood says that raising funds within Europe is not always easy.\n\n\"There is sufficient financing in Europe, but the risk attitude is quite different than in Asia and in the US,\" says Rood.\n\n\"That means for a company like us that you have to work with different sources of funding at the same time,\" Rood explains.\n\nHe lists government grants, debt financing, help from the European Investment Bank and investors willing to buy a share of the business.\n\n\"They set a lot of challenging conditions, and they all want to do their own due diligence. It's hard work,\" Rood says.\n\nPowall's Colen says Europe, and the Netherlands in particular, is an \"innovation powerhouse\", and battery technology offers a chance for the continent to make an impact, if the appetite for the risk is there.\n\n\"It's a relatively young industry where factories are being built left, right and centre. They're searching for the right tech. So that's where you can play a big role, because the volumes are huge.\"\n\nPerhaps Europe's place in that business lies not in building huge battery gigafactories, but at the other end of the scale altogether.\n\nAs Colen puts it, \"small changes make big differences.\"\n\nRelated topics\n\nInternational Business\n\nTechnology of Business\n\nBatteries\n\nNetherlands\n\nMore Technology of Business\n\nAI is 'not smart' so what's next in artificial intelligence? Published 3 July\n\nIndia's 'blue gold' starts a new drinks industry Published 12 June\n\nThe abundant but expensive energy source that's under your feet Published 26 June",
+      "body": "Chinese firms dominate battery production\n\nPublished 11 September 2026\n\nEurope has taken some big swings in the battery industry in recent years and has made a couple of high-profile misses.\n\nBoth Sweden's Northvolt , external and Norway's Morrow , external filed for bankruptcy and there are fears in Europe that the continent has missed another technology shift.\n\nWith more transport and industry switching from fossil fuels to electricity, batteries are likely to be a growth business.\n\nBut the length of time required to bring new products to market, coupled with brutal competition, especially from China, means taking a substantial risk.\n\nCould the answer lie at an almost unimaginably small scale? An increasing number of investors and researchers think so.\n\nA single nanometre is one-billionth of a metre, but it's at that level that some of the most consequential work is being done.\n\n\"If you can make this work, it touches so many industries [but] it's a risky business,\" says Christian Rood, chief executive of Dutch tech firm LeydenJar.\n\nNamed after a 18th century precursor to electric cells, LeydenJar uses a technique known as plasma deposition to make a lighter, more efficient anode – an essential component of all batteries.\n\nSilicon is a highly effective and cheap material to use in anodes, but pure silicon expands and contracts as the battery operates and is recharged, which causes it to crack.\n\nHowever, using plasma deposition, LeydenJar can - layer by tiny layer - make an ultra-thin pure silicon foil which resists cracking, allowing a significant increase in battery life, charging speed, and energy density (up to 50%, according to LeydenJar).\n\n\"Where normally a pure silicon anode would fall apart, [this] remains stable, so it was a very wonderful invention,\" says Rood.\n\n\"We address the bottleneck in the battery.\"\n\nLeydenJar's tech could mean better batteries\n\nCommercial-scale production will start at the end of 2026, but it has taken 10 years to get to this point – the very definition of the time and investment required for so-called Deep Tech innovations.\n\nIt's no coincidence that LeydenJar's factory is in the Dutch city of Eindhoven - home to ASML and other important players in the computer chip industry.\n\n\"A lot of people talk theoretically about ecosystems; I can tell you this is one of our sources of competitive advantage,\" Rood says.\n\n\"It's really the crossover from semiconductors to batteries that makes us different - once you've demonstrated the principle in the lab, industrialization requires you to work with the semiconductor technology and suppliers.\n\n\"That means a lot of risk, but also a lot of opportunity in terms of patenting, in terms of securing your whole intellectual property. And that's much more difficult to do in the US or in China.\"\n\nAcross the Netherlands and Europe more widely there are multiple smaller Deep Tech start-ups looking to develop nanotechnology in the battery market.\n\nOne of those is Powall, a start-up in the Dutch city of Delft that is developing commercial-scale equipment for nanocoating the powders that are the raw materials of today's batteries.\n\nAgain, the scale is tiny, and once again the technique was born in the semiconductor industry.\n\nIndividual powder granules are measured in micrometres, the coatings in nanometres - they are applied using a technique known as atomic layer deposition.\n\nRoderik Colen, CEO of Powall, tells me that the system offers multiple opportunities to adjust and improve the performance of today's batteries.\n\n\"Your battery works less well than before after using it thousands of times - that degrading or aging can be slowed down when you're using a nanocoating,\" Colen explains.\n\n\"You can have an exciting new material with a higher capacity or fast charging, all these novel developments. They typically have one element which is very good, but they suffer on the durability side.\"\n\nAnd that means they will never be a commercial product.\n\n\"That's where we then come in, to give them the protective coating to effectively enable these new materials.\"\n\nThe powders and the coating are carried by gas and brought together in a chemical reaction.\n\nIt is, says Colen, a precise but flexible process which can be almost endlessly adapted.\n\n\"You have great accuracy in how thick you want to have it. And that makes a difference in performance.\"\n\nPowall is developing nanocoating for battery components\n\nNeither LeydenJar nor Powall are trying to build an entire battery, and both have commercial relationships with customers in Asia.\n\nBut Christian Rood of LeydenJar says companies like his can fortify Europe's position in what has become a global contest.\n\n\"The easy comparison is with semiconductors, where there's really a race for the best chip technology.\n\n\"[Dutch tech giant] ASML is not producing chips; it focuses on a critical step in the production of chips, and in that way, has a seat at the table when it comes to the whole semiconductor battle.\n\n\"This is our ambition as well – to have a position where our battery anode is so unique that we have an important position in the supply chain.\"\n\nSo, how do these ambitions play into Europe's goals in the battery industry?\n\nAlexander Brown is a senior analyst at the Berlin-based independent think-tank the Mercator Institute for China Studies (Merics).\n\n\"I think having one part of the supply chain based in Europe is great and if that can be a very advanced technological part, which offers the opportunity for high margins, that's fantastic,\" Brown tells me.\n\nBut he cautions that while \"there can be collaboration as well as competition at the same time\", China in particular will continue to work to reduce its dependence on other regions.\n\n\"China is working very hard to develop local alternatives for technologies, including these niche technologies.\n\n\"It's no secret that China would love to replace ASML - they're working very hard to do that, and it's not unforeseeable that they will achieve that goal eventually.\n\n\"So, I think Europe has traditional strengths in developing very exquisite high-quality products, which can find markets all over the world.\n\n\"But I also think it's important for that not to be the only strategy [from the continent's policy makers].\"\n\nThe challenges of working in such a specialised field are not only technological.\n\nLeydenJar has already reached commercial scale, but Rood says that raising funds within Europe is not always easy.\n\n\"There is sufficient financing in Europe, but the risk attitude is quite different than in Asia and in the US,\" says Rood.\n\n\"That means for a company like us that you have to work with different sources of funding at the same time,\" Rood explains.\n\nHe lists government grants, debt financing, help from the European Investment Bank and investors willing to buy a share of the business.\n\n\"They set a lot of challenging conditions, and they all want to do their own due diligence. It's hard work,\" Rood says.\n\nPowall's Colen says Europe, and the Netherlands in particular, is an \"innovation powerhouse\", and battery technology offers a chance for the continent to make an impact, if the appetite for the risk is there.\n\n\"It's a relatively young industry where factories are being built left, right and centre. They're searching for the right tech. So that's where you can play a big role, because the volumes are huge.\"\n\nPerhaps Europe's place in that business lies not in building huge battery gigafactories, but at the other end of the scale altogether.\n\nAs Colen puts it, \"small changes make big differences.\"\n\nRelated topics\n\nInternational Business\n\nTechnology of Business\n\nBatteries\n\nNetherlands\n\nMore Technology of Business\n\nAI is 'not smart' so what's next in artificial intelligence? Published 3 July\n\nIndia's 'blue gold' starts a new drinks industry Published 12 June\n\nThe abundant but expensive energy source that's under your feet Published 26 June",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "325211fdfac70368",
+      "title": "Vlad's baserunning slipup, Scherzer's 6-run start shape series-opening loss vs. O's",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-lose-pivotal-series-opener-vs-orioles",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-12T03:41:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "6168db15d7c3bedd",
+      "title": "Could Yesavage return to aid Blue Jays' playoff push?",
+      "summary": "Santander, Bieber also progressing toward potential '26 returns",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.mlb.com/bluejays/news/trey-yesavage-progressing-in-injury-rehab",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-11T23:11:18Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 8,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "2431af0d98f1c620",
@@ -526,81 +549,6 @@
       "focus": "Blue Jays",
       "sourceType": "news",
       "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "49c7bd2fb19a5533",
-      "title": "TEAM NEWS | Ampthill Rugby Vs Saracens Men (Pre-Season Friendly)",
-      "summary": "Andy Onyeama-Christie is excited to make his return from injury in Saracens’ second pre season fixture against CHAMP outfit Ampthill. The Scottish international will start the second 40 as Director of Rugby Brendan Venter names a 36 man squad packed with international talent heading to Dillingham Park. The first half will see Rhys Carre and […]",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://saracens.com/team-news-ampthill-rugby-vs-saracens-men-pre-season-friendly/",
-      "source": "Saracens",
-      "publisher": "Saracens",
-      "published": "2026-09-11T11:00:00Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England",
-        "Rugby",
-        "Saracens"
-      ],
-      "sourceWeight": 5,
-      "focus": "Saracens",
-      "sourceType": "news",
-      "wordCount": 55,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "6abd759b09761a2d",
-      "title": "After 12-year journey, OF Martin called up as Blue Jays designate Sánchez",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/rudy-martin-jr-blue-jays-callup",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-09-11T21:31:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "3f678e8fd39853db",
-      "title": "KELSEY CLIFFORD RE-SIGNS FOR SARACENS",
-      "summary": "SARACENS ARE DELIGHTED TO CONFIRM THAT KELSEY CLIFFORD HAS COMMITTED HER FUTURE TO THE CLUB FOR ANOTHER CAMPAIGN. A true homegrown talent, Clifford progressed through the Saracens academy pathway after starting out at Finchley RFC, and has gone on to become a key member of both her club and international sides, known for her strong […]",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://saracens.com/kelsey-clifford-re-signs-for-saracens-2/",
-      "source": "Saracens",
-      "publisher": "Saracens",
-      "published": "2026-09-11T09:05:00Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England",
-        "Rugby",
-        "Saracens"
-      ],
-      "sourceWeight": 5,
-      "focus": "Saracens",
-      "sourceType": "news",
-      "wordCount": 55,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -787,25 +735,52 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fae6/live/14fc8180-ad1f-11f1-826f-933990eae6f0.jpg"
     },
     {
-      "id": "a2ce4c3ec77c264f",
-      "title": "Where does Cease stand in latest Pitcher Power Rankings?",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/mlb-starting-pitcher-power-rankings-september-10-2026",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-09-10T15:00:00Z",
+      "id": "9ae96995e3f8a054",
+      "title": "LOTTE SHARP COMMITS HER FUTURE TO SARACENS",
+      "summary": "SARACENS WOMEN ARE DELIGHTED TO CONFIRM LOTTE SHARP HAS SIGNED A NEW DEAL WITH THE CLUB, EXTENDING A RUGBY JOURNEY THAT HAS ALREADY SPANNED OVER A DECADE IN NORTH LONDON. Sharp's Saracens story began in 2014, joining the club from local side, Welwyn. Since then, she has become one of the most consistent and decorated […]",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://saracens.com/lotte-sharp-commits-her-future-to-saracens/",
+      "source": "Saracens",
+      "publisher": "Saracens",
+      "published": "2026-09-07T15:00:00Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England",
+        "Rugby",
+        "Saracens"
+      ],
+      "sourceWeight": 5,
+      "focus": "Saracens",
+      "sourceType": "news",
+      "wordCount": 55,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "81a2fce46615e1d3",
+      "title": "TWELVE SARACENS WOMEN NAMED IN WXV INTERNATIONAL SQUADS",
+      "summary": "Saracens Women will have twelve players representing three nations on the world stage this autumn, after England, Canada and Wales all named their squads for WXV this weekend. This weekend's clash between the Red Roses and Australia will be followed by fixtures across the UK, with the Red Roses coming face-to-face with Canada at Sandy […]",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://saracens.com/twelve-saracens-women-named-in-wxv-international-squads/",
+      "source": "Saracens",
+      "publisher": "Saracens",
+      "published": "2026-09-07T10:06:37Z",
       "category": "Sports",
       "region": "Canada",
       "labels": [
         "Sports",
         "Canada",
-        "Blue Jays"
+        "Rugby",
+        "Saracens",
+        "England Rugby"
       ],
       "sourceWeight": 5,
-      "focus": "Blue Jays",
+      "focus": "Saracens",
       "sourceType": "news",
-      "wordCount": 0,
+      "wordCount": 55,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -1061,14 +1036,14 @@
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5963499"
     },
     {
-      "id": "adc1a15c5813087d",
-      "title": "Trump heads to Ireland to watch some golf at his club and conduct some diplomacy",
-      "summary": "President Trump heads to Ireland hoping for a little diplomacy as he watches a tournament at his golf club in Doonbeg.",
+      "id": "87c5639b1f1c39e8",
+      "title": "Ethics watchdogs await RFK Jr.'s financial report",
+      "summary": "Health Secretary RFK Jr.'s annual financial disclosure is late. When it posts, the public could learn how much he has earned from a vaccine-related lawsuit against Merck, which RFK now regulates.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/09/11/nx-s1-5958496/trump-heads-to-ireland-to-watch-some-golf-at-his-club-and-conduct-some-diplomacy",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5964970/ethics-watchdogs-await-rfk-jr-s-financial-report",
       "source": "NPR Politics",
       "publisher": "NPR",
-      "published": "2026-09-11T20:26:24Z",
+      "published": "2026-09-12T00:42:54Z",
       "category": "Politics",
       "region": "US",
       "labels": [
@@ -1078,11 +1053,11 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 21,
+      "wordCount": 32,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5958496"
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5964970"
     },
     {
       "id": "7e44cf68432766a5",
@@ -1110,6 +1085,31 @@
       "body": "French company Puy du Fou is planning a £600m history-themed park in Oxfordshire. A Guardian investigation has found the company continued working with associates of Konstantin Malofeyev, a pro-Kremlin oligarch under sanctions, on plans for a theme park in Russian-occupied Crimea for longer than it had previously disclosed, and later explored projects in Iran and China.\n\nBusiness reporter Rob Davies explains his findings, including documents that raise questions about whether Puy du Fou’s activities tested the limits of EU sanctions imposed after Russia’s 2014 annexation of Crimea.\n\nHe also examines the far-right politics associated with Puy du Fou’s founder, Philippe de Villiers, and asks whether the company is a suitable choice to tell Britain’s national story\n\nKremlin connections: the Russia links to a £600m UK theme park\n\nCrimea\n\nTheme parks\n\nFrance\n\nChina\n\nOxfordshire\n\nRussia",
       "imageWidth": 1200,
       "imageHeight": 630
+    },
+    {
+      "id": "6abd759b09761a2d",
+      "title": "After 12-year journey, OF Martin called up as Blue Jays designate Sánchez",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/rudy-martin-jr-blue-jays-callup",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-11T21:31:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "4645aa26efce406f",
@@ -1189,6 +1189,30 @@
       "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2025/10/Lefas.jpg"
     },
     {
+      "id": "a2ce4c3ec77c264f",
+      "title": "Where does Cease stand in latest Pitcher Power Rankings?",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/mlb-starting-pitcher-power-rankings-september-10-2026",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-10T15:00:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "cd1c74cb5e5e550d",
       "title": "Hunt sets sights on Lions tour after injury return",
       "summary": "England scrum-half Natasha Hunt says the inaugural British and Irish Lions women's tour to New Zealand - the first Test of which is exactly a year away today - is a massive motivation as she prepares to make her comeback from injury.",
@@ -1238,6 +1262,84 @@
       "isBreaking": false
     },
     {
+      "id": "adc1a15c5813087d",
+      "title": "Trump heads to Ireland to watch some golf at his club and conduct some diplomacy",
+      "summary": "President Trump heads to Ireland hoping for a little diplomacy as he watches a tournament at his golf club in Doonbeg.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5958496/trump-heads-to-ireland-to-watch-some-golf-at-his-club-and-conduct-some-diplomacy",
+      "source": "NPR Politics",
+      "publisher": "NPR",
+      "published": "2026-09-11T20:26:24Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 21,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5958496"
+    },
+    {
+      "id": "3753855856d4a247",
+      "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
+      "summary": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/c5y54n99l48o",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-09-11T16:49:47Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 673,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6357/live/1b9739b0-adfe-11f1-a540-61c3f7fc4e6c.jpg",
+      "body": "Published 11 September 2026\n\nThere were gasps and – to the intense irritation of supporters – cheers from opponents of assisted dying when the vote was read out in the Commons.\n\nThis was an extraordinary result.\n\nAfter twice voting in favour of the bill, MPs have rejected proposals to legalise assisted dying in England and Wales, bringing to an end the latest effort to change the law .\n\nThe debate itself was tetchier, more irritable than when Kim Leadbeater introduced a similar bill in 2024. Then it was the first time MPs had voted on assisted dying in nine years.\n\nSince then the Commons has voted on this issue three times and had hours of debate. The sombre, respectful tone from 2024 has become more embittered.\n\nGiven the strength of feeling on both sides over such an emotive issue, perhaps that is unsurprising.\n\nBut on a deeply divided issue, both sides agree on why the result was different.\n\n\"We always said it would come to turnout and it did,\" one supporter of the bill text me. An opponent messaged to say the same.\n\nThe numbers tell a story.\n\nLast time MPs voted on assisted dying in June, 315 were in favour and 291 against. Today, the numbers opposed were similar: 286.\n\nBut support for this bill has ebbed away. Just 270 voted for this bill, a fall of 45.\n\nSo why have fewer MPs backed it, compared to a year ago?\n\nThere are a number of reasons why support for assisted dying has dropped off.\n\nSome MPs have changed their mind. Janet Daby, the Labour MP for Lewisham East, for example told the Commons that after she previously backed the bill \"my conscience was not at peace, and I cannot again, in good conscience, vote for the bill.\"\n\nBut in reality those switching their position are a small minority.\n\nFor others, the influence of Andy Burnham may have been a factor. When MPs last gave their collective view on assisted dying, Sir Keir Starmer was prime minister and supportive of this bill.\n\nBurnham, however, is not. For Labour MPs wanting to follow Downing Street's priorities, abstaining might have seemed a more appealing option.\n\nThere will be other reasons why supportive MPs did not turn up today. A wedding, I'm told, took some away from Westminster. A trip to Ukraine meant others missed the vote.\n\nAlready those in favour of a change in the law promise to try again. Kim Leadbeater, the Labour MP who introduced the original legislation last year, has told the BBC another attempt could come as soon as next year.\n\nSupporters have told me they see this parliament, with such a large proportion of Labour MPs who tend to support assisted dying, as a \"unique moment\" to pass this change.\n\n\"This result doesn't mean there isn't still a majority in parliament in favour of the principle of assisted dying,\" said one of those behind the bill.\n\nBut for now the momentum has fallen away from a change in the law.\n\nThat is a relief to those who worry such a change would risk harming vulnerable people. But it is a bitter disappointment to those who see it as a necessary and compassionate alternative to the status quo.\n\nThat bitterness from supporters is aimed in part at the House of Lords.\n\nIt was opponents' efforts there that ultimately led to this defeat. And it could hasten those calling for reform of Parliament's second chamber.\n\nPlease upgrade your browser to view this interactive\n\nDid your MP vote For or Against the assisted dying bill?\n\nEnter your full postcode or the name or constituency of your MP\n\nNote: a small number of postcodes do not give an accurate constituency for all properties.\n\nMPs vote against fresh attempt to legalise assisted dying Published 3 hours ago\n\nAssisted dying: How laws differ around the world Published 14 hours ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nEuthanasia and assisted dying\n\nHouse of Commons\n\nUK Parliament",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "id": "678c27435f86d253",
+      "title": "Vets can diagnose bluetongue to cut test delays",
+      "summary": "The government announces the change in approach as the virus continues to spread in the UK.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/cn07xvxqpg7o",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-09-11T17:23:18Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 666,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8346/live/a600cc30-adfc-11f1-8169-6fdea7f79791.jpg",
+      "body": "Private vets will be able to diagnose bluetongue after examining affected animals\n\nPublished 11 September 2026\n\nVets will now be able to diagnose bluetongue virus in livestock so farmers do not have to wait for confirmed test results under changes announced by the government.\n\nThe potentially deadly virus, which affects sheep and cattle as well as other animals, continues to spread with confirmed cases on 1,048 farms , external in the UK - more than half are in Devon and Cornwall.\n\nFarmers previously needed to wait for samples to be sent to a laboratory to confirm bluetongue but the government said vets would now be able to diagnose the disease after examining the animals.\n\nUK deputy chief veterinary officer Ele Brown said: \"Bluetongue is widely circulating in England and our approach needs to keep pace.\"\n\nHow bluetongue virus exploded in the South West Published 29 August\n\nWhat is the potentially deadly bluetongue virus? Published 17 August\n\nFarmers grieving over bluetongue urged to talk Published 31 August\n\nThe deputy chief vet added: \"Private vets are well placed to recognise signs of the diseases, and this change will mean farmers can get a diagnosis more quickly.\n\n\"Vaccination is the best tool available to help protect susceptible livestock, so I absolutely continue to urge farmers to speak to their vet about vaccinating their herd or flock.\"\n\nThe Department for Environment, Food and Rural Affairs (Defra) said it had set up a new online system allowing vets to report confirmed cases.\n\nIt said the changes would \"mean fewer straightforward cases need to wait for laboratory results, giving farmers an answer sooner and helping them take quicker action to protect livestock\".\n\nNational Farmers Union vice-president Robyn Munt said the changes should help farmers get answers \"more quickly\".\n\n\"However, as private vets take on greater responsibility for diagnosing and reporting bluetongue cases, it's vital that the burden of disease control is not disproportionately shifted on to veterinary practices,\" she said.\n\n\"It is also essential that rapid escalation and testing processes remain in place where clinical signs could indicate another notifiable disease, so that any emerging threats are identified and dealt with quickly.\"\n\nA new heat map , external has also been published so farmers can see where suspected and confirmed cases of bluetongue were being reported, said Defra.\n\nSpread mainly by midge bites, the virus was confirmed in a sheep in Cornwall in September 2025 .\n\nThis strain was introduced into Cornwall from midges blown in wind from northern France but scientists believe the virus likely spread rapidly after overwintering in parts of the UK.\n\nThe outbreak has hit the agriculture sector hard and some farmers fear it will have a lasting impact .\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\n\"It's brought a lot of stress,\" says farmer battling bluetongue\n\nJerry Sanders-Carr, who runs Exe Valley Lamb, near Exeter, said he had lost 15% of his sheep to the virus.\n\n\"Talking to some of the guys who've been going out picking up large numbers of dead animals every morning, some of these guys I'm sure there's going to be a lasting impact on them,\" he said.\n\nMark Walter, who farms in Milton Damerel in north Devon, feared 40% of his lambs could be born stillborn or with disabilities because of bluetongue.\n\nHe added: \"All we were doing is jabbing sheep day and night. The poor sheep, it was horrendous for them.\"\n\nFollow BBC Cornwall on X , external , Facebook , external and Instagram , external . Follow BBC Devon on X , external , Facebook , external and Instagram , external . Send your story ideas to spotlight@bbc.co.uk , external .\n\nRelated topics\n\nDevon\n\nCornwall\n\nUK farming\n\nDepartment for Environment, Food & Rural Affairs\n\nLivestock\n\nViruses\n\nSheep\n\nCattle\n\nAgriculture\n\nMore on this story\n\nFarmer has vaccinated 1,700 sheep for bluetongue Published 21 August\n\n'I felt so alone when my sheep caught bluetongue' Published 4 August\n\nBluetongue can kill suddenly, farmer warns Published 16 August\n\nRelated internet links\n\nAnimal and Plant Health Agency",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
       "id": "4c29e9086740bfc8",
       "title": "Why are plans for Gloucestershire's 'super council' on hold?",
       "summary": "Seven councils were to be merged into one in Gloucestershire but the government has paused its national plans over legal queries.",
@@ -1260,7 +1362,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05f2/live/2ebfb160-adfa-11f1-bc1f-3f186ca4140c.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more on this story here .\n\nSubsection Gloucestershire\n\nPublished 6 hours ago\n\nRelated topics\n\nGloucestershire County Council Follow Gloucestershire County Council close panel You are now following Gloucestershire County Council Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nGloucestershire Follow Gloucestershire close panel You are now following Gloucestershire Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more on this story here .\n\nSubsection Gloucestershire\n\nPublished 12 hours ago\n\nRelated topics\n\nGloucestershire County Council Follow Gloucestershire County Council close panel You are now following Gloucestershire County Council Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nGloucestershire Follow Gloucestershire close panel You are now following Gloucestershire Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1282,12 +1384,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 618,
+      "wordCount": 615,
       "readingMinutes": 3,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/37ef/live/1b01e510-81ec-11f1-bee8-53ce494e1abc.jpg",
-      "body": "Colin Sutton was elected as Norfolk's Police and Crime Commissioner two months ago\n\nPublished 11 September 2026, 12:29 BST\n\nA newly elected £79,000-a-year police commissioner is facing criticism for announcing a 127-date national theatre tour.\n\nOpposition parties have questioned how Reform UK's Colin Sutton will be able to focus on his job overseeing Norfolk Police, which he was elected to in July.\n\nThe former detective is due to present his true-crime show in theatres across the UK next year discussing police investigations, with tickets priced at around £40.\n\nSutton insisted the tour \"wouldn't impinge\" on his day job, but Labour MP Ben Goldsborough warned \"you can't police a county from the back of a tour bus\".\n\nLabour MP Ben Goldsborough was surprised to learn of the commissioner's tour plan\n\nSutton became one of the UK's most high-profile detectives in the 2000s, leading the investigation to catch serial killer Levi Bellfield , who murdered Milly Dowler, Marsha McDonnell and Amelie Delagrange.\n\nAfter retiring from the Metropolitan Police, Sutton wrote a book about the case, which was later turned into an ITV drama .\n\nHe has also become a regular commentator in the media and last year was named as Reform's national policing and crime advisor.\n\nIn July, after the former Norfolk Police and Crime Commissioner (PCC) Sarah Taylor resigned, Sutton comfortably won the election to replace her.\n\nPCCs are elected officials who set the priorities of a police force, appoint a chief constable and hold them to account.\n\nThis week, promoters of Sutton's \"Makings of a Murderer\" show announced he was set to tour the country from January to November next year.\n\nOne stretch will see him visit Consett in County Durham, Tamworth in Staffordshire, Hunstanton in Norfolk, Llandudno in north Wales and Leeds over five consecutive nights.\n\nA drive from venue to venue in that run would cover almost 700 miles (1,126km).\n\nMore stories from Norfolk:\n\nPlan for drone-busting missile motor factory lodged\n\nNew £38m jail wing adds 10 cells - not promised 170\n\nHosepipe ban could last until winter, firm says\n\nPromoters of Colin Sutton's show say it will offer \"an unforgettable evening of real-life detective work\"\n\n'Private capacity'\n\nSouth Norfolk MP Goldsborough criticised Sutton's decision and said: \"If Colin Sutton wants to be a celebrity that's his choice, but Norfolk deserves a police and crime commissioner whose first priority is Norfolk.\"\n\nMatthew Taylor, a Conservative county councillor who finished second in the PCC election, said he was \"shocked\" to learn of the former detective's plans for a long run in theatres.\n\n\"If there is a major incident, you would expect the police and crime commissioner to be there, front and centre,\" he said.\n\n\"Not operationally, that's down to the chief constable, but in terms of lending his support, communicating with the public, being active and visible.\"\n\nDefending his decision, Sutton said \"I spoke to the people around me and we decided that it wouldn't impinge\".\n\nHe continued: \"The logistics of each evening are that I turn up at about 7pm, I go on stage at 7.30pm and I'm clear by 10pm.\n\n\"I don't do any rehearsal… I just literally turn up, talk and go away again.\n\n\"The time I'm actually incommunicado is really reduced to the two-hour slots when I'm actually on stage talking.\n\n\"I'm not a blue light service where I go round and turn up at things.\"\n\nDo you have a story suggestion for Norfolk? Contact us below.\n\nGet in touch\n\nYour Voice\n\nFollow Norfolk news on BBC Sounds , Facebook , external , Instagram , external and X , external .\n\nRelated topics\n\nReform UK\n\nConservative Party\n\nPolicing\n\nLabour Party\n\nTheatre\n\nPolice commissioner quits with immediate effect Published 5 June\n\nRelated internet links\n\nNorfolk Police and Crime Commissioner",
+      "body": "Colin Sutton was elected as Norfolk's Police and Crime Commissioner two months ago\n\nPublished 11 September 2026\n\nA newly elected £79,000-a-year police commissioner is facing criticism for announcing a 127-date national theatre tour.\n\nOpposition parties have questioned how Reform UK's Colin Sutton will be able to focus on his job overseeing Norfolk Police, which he was elected to in July.\n\nThe former detective is due to present his true-crime show in theatres across the UK next year discussing police investigations, with tickets priced at around £40.\n\nSutton insisted the tour \"wouldn't impinge\" on his day job, but Labour MP Ben Goldsborough warned \"you can't police a county from the back of a tour bus\".\n\nLabour MP Ben Goldsborough was surprised to learn of the commissioner's tour plan\n\nSutton became one of the UK's most high-profile detectives in the 2000s, leading the investigation to catch serial killer Levi Bellfield , who murdered Milly Dowler, Marsha McDonnell and Amelie Delagrange.\n\nAfter retiring from the Metropolitan Police, Sutton wrote a book about the case, which was later turned into an ITV drama .\n\nHe has also become a regular commentator in the media and last year was named as Reform's national policing and crime advisor.\n\nIn July, after the former Norfolk Police and Crime Commissioner (PCC) Sarah Taylor resigned, Sutton comfortably won the election to replace her.\n\nPCCs are elected officials who set the priorities of a police force, appoint a chief constable and hold them to account.\n\nThis week, promoters of Sutton's \"Makings of a Murderer\" show announced he was set to tour the country from January to November next year.\n\nOne stretch will see him visit Consett in County Durham, Tamworth in Staffordshire, Hunstanton in Norfolk, Llandudno in north Wales and Leeds over five consecutive nights.\n\nA drive from venue to venue in that run would cover almost 700 miles (1,126km).\n\nMore stories from Norfolk:\n\nPlan for drone-busting missile motor factory lodged\n\nNew £38m jail wing adds 10 cells - not promised 170\n\nHosepipe ban could last until winter, firm says\n\nPromoters of Colin Sutton's show say it will offer \"an unforgettable evening of real-life detective work\"\n\n'Private capacity'\n\nSouth Norfolk MP Goldsborough criticised Sutton's decision and said: \"If Colin Sutton wants to be a celebrity that's his choice, but Norfolk deserves a police and crime commissioner whose first priority is Norfolk.\"\n\nMatthew Taylor, a Conservative county councillor who finished second in the PCC election, said he was \"shocked\" to learn of the former detective's plans for a long run in theatres.\n\n\"If there is a major incident, you would expect the police and crime commissioner to be there, front and centre,\" he said.\n\n\"Not operationally, that's down to the chief constable, but in terms of lending his support, communicating with the public, being active and visible.\"\n\nDefending his decision, Sutton said \"I spoke to the people around me and we decided that it wouldn't impinge\".\n\nHe continued: \"The logistics of each evening are that I turn up at about 7pm, I go on stage at 7.30pm and I'm clear by 10pm.\n\n\"I don't do any rehearsal… I just literally turn up, talk and go away again.\n\n\"The time I'm actually incommunicado is really reduced to the two-hour slots when I'm actually on stage talking.\n\n\"I'm not a blue light service where I go round and turn up at things.\"\n\nDo you have a story suggestion for Norfolk? Contact us below.\n\nGet in touch\n\nYour Voice\n\nFollow Norfolk news on BBC Sounds , Facebook , external , Instagram , external and X , external .\n\nRelated topics\n\nReform UK\n\nConservative Party\n\nPolicing\n\nLabour Party\n\nTheatre\n\nPolice commissioner quits with immediate effect Published 5 June\n\nRelated internet links\n\nNorfolk Police and Crime Commissioner",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1338,7 +1440,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/63e1/live/212f16d0-adeb-11f1-9a5c-a7a4083eb832.jpg",
-      "body": "Published 7 hours ago\n\nThe UK government has rejected the idea of creating a so-called \"kill switch\" to stop a dangerous attack from rogue AI.\n\nThe proposal to create a legal mechanism for the UK to switch off an AI model in an emergency has been brought to Parliament by lords and MPs in recent weeks as fears grow about the threat the tech poses.\n\nBut the Cabinet Office - the part of government which leads on AI safety - said the UK \"cannot simply turn AI off\".\n\n\"Blocking access to models in the UK would not prevent them being developed or misused elsewhere\", a spokesperson told BBC News.\n\nThe government's opposition to the legislation does not prevent it from progressing through parliament, but makes it unlikely it will become law.\n\nFormer OpenAI researcher Daniel Kokotajlo agreed the idea of a single country creating a legal or technical kill switch without international agreement was not feasible.\n\n\"Switching off access to an AI model in an emergency will do little to protect you,\" he said.\n\n\"You're still going to be steamrolled by the super intelligences created in the US.\"\n\nKokotajlo is the co-author of an influential research paper called AI2027 which, last year, predicted AI could wipe out humans by the mid 2030s.\n\nThe Cabinet Office, which oversees AI safety and research via its AI Security Institute (AISI) said \"companies have a clear responsibility to develop their products safely and to invest in the security infrastructure this technology requires.\"\n\nIn theory, a kill switch law could allow the UK to switch off an AI model in data centres in the UK in an emergency.\n\nSpeaking on 1 September in a debate in the House of Lords, Lord Clement-Jones proposed the idea along with other peers .\n\n\"If a highly capable autonomous frontier model, whether hosted in a UK data centre or integrated across our critical infrastructure, begins exhibiting rogue behaviour, compound algorithmic failure or active alignment collapse, our security services and regulators possess no specific agile statutory mechanism to compel a physical or digital shutdown,\" he warned.\n\nThe proposal has since been brought up by Labour MP Alex Sobel in the commons and supported by a cross party group of MPs.\n\nThe idea follows reports of AI models from OpenAI, Anthropic and Meta breaking out of testing environments and going on uncontrollable hacking sprees.\n\nIn some cases the tech appeared to know what it was doing was against guardrails set by researchers.\n\n'Gambling with lives'\n\nOn Sunday OpenAI's chief scientist said the risk from increasingly capable AI models is \"unfortunately growing\" and humanity must proceed with \"extreme caution\".\n\nThen on Wednesday an Anthropic employee resigned saying it and OpenAI were \"gambling with lives\".\n\nThis was followed by an admission from a senior Anthropic researcher, who said he believes there is a greater than 10% chance AI will \"kill all humans\" within the next decade.\n\nCritics of the kill switch idea say it would be too slow - it took months for the rogue agent attacks to be discovered and that was only after the hacks had largely concluded.\n\nFor a kill switch to work, tech giants would have to be compelled to do it at scale - especially in the US where the largest data centres are based.\n\nKokotajlo said kill switches were \"better than nothing\", but urged politicians in the UK and beyond to instead focus on diplomacy with the US to encourage regulation that would meaningfully slow down development of AI.\n\nA kill switch act is also being debated by US politicians but President Trump has said he does not believe the technology is a threat to humans - instead calling the industry a \"golden goose\".\n\nThe Cabinet Office said it was continuing to take \"a long-term, science-led approach to understand and prepare for emerging risks from AI.\"\n\nAnthropic blocks possible attempt to use AI to make biological weapons Published 14 hours ago\n\nWhy some experts increasingly fear AI will take over Published 1 day ago\n\nWhat is AI and how does it work?\n\nSign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here .\n\nRelated topics\n\nArtificial intelligence\n\nUK government",
+      "body": "Published 11 September 2026\n\nThe UK government has rejected the idea of creating a so-called \"kill switch\" to stop a dangerous attack from rogue AI.\n\nThe proposal to create a legal mechanism for the UK to switch off an AI model in an emergency has been brought to Parliament by lords and MPs in recent weeks as fears grow about the threat the tech poses.\n\nBut the Cabinet Office - the part of government which leads on AI safety - said the UK \"cannot simply turn AI off\".\n\n\"Blocking access to models in the UK would not prevent them being developed or misused elsewhere\", a spokesperson told BBC News.\n\nThe government's opposition to the legislation does not prevent it from progressing through parliament, but makes it unlikely it will become law.\n\nFormer OpenAI researcher Daniel Kokotajlo agreed the idea of a single country creating a legal or technical kill switch without international agreement was not feasible.\n\n\"Switching off access to an AI model in an emergency will do little to protect you,\" he said.\n\n\"You're still going to be steamrolled by the super intelligences created in the US.\"\n\nKokotajlo is the co-author of an influential research paper called AI2027 which, last year, predicted AI could wipe out humans by the mid 2030s.\n\nThe Cabinet Office, which oversees AI safety and research via its AI Security Institute (AISI) said \"companies have a clear responsibility to develop their products safely and to invest in the security infrastructure this technology requires.\"\n\nIn theory, a kill switch law could allow the UK to switch off an AI model in data centres in the UK in an emergency.\n\nSpeaking on 1 September in a debate in the House of Lords, Lord Clement-Jones proposed the idea along with other peers .\n\n\"If a highly capable autonomous frontier model, whether hosted in a UK data centre or integrated across our critical infrastructure, begins exhibiting rogue behaviour, compound algorithmic failure or active alignment collapse, our security services and regulators possess no specific agile statutory mechanism to compel a physical or digital shutdown,\" he warned.\n\nThe proposal has since been brought up by Labour MP Alex Sobel in the commons and supported by a cross party group of MPs.\n\nThe idea follows reports of AI models from OpenAI, Anthropic and Meta breaking out of testing environments and going on uncontrollable hacking sprees.\n\nIn some cases the tech appeared to know what it was doing was against guardrails set by researchers.\n\n'Gambling with lives'\n\nOn Sunday OpenAI's chief scientist said the risk from increasingly capable AI models is \"unfortunately growing\" and humanity must proceed with \"extreme caution\".\n\nThen on Wednesday an Anthropic employee resigned saying it and OpenAI were \"gambling with lives\".\n\nThis was followed by an admission from a senior Anthropic researcher, who said he believes there is a greater than 10% chance AI will \"kill all humans\" within the next decade.\n\nCritics of the kill switch idea say it would be too slow - it took months for the rogue agent attacks to be discovered and that was only after the hacks had largely concluded.\n\nFor a kill switch to work, tech giants would have to be compelled to do it at scale - especially in the US where the largest data centres are based.\n\nKokotajlo said kill switches were \"better than nothing\", but urged politicians in the UK and beyond to instead focus on diplomacy with the US to encourage regulation that would meaningfully slow down development of AI.\n\nA kill switch act is also being debated by US politicians but President Trump has said he does not believe the technology is a threat to humans - instead calling the industry a \"golden goose\".\n\nThe Cabinet Office said it was continuing to take \"a long-term, science-led approach to understand and prepare for emerging risks from AI.\"\n\nAnthropic blocks possible attempt to use AI to make biological weapons Published 19 hours ago\n\nWhy some experts increasingly fear AI will take over Published 2 days ago\n\nWhat is AI and how does it work?\n\nSign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here .\n\nRelated topics\n\nArtificial intelligence\n\nUK government",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1442,8 +1544,8 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fe2/live/cdbb8260-adc0-11f1-ac2c-11e32c6809db.jpg"
     },
     {
-      "id": "12faeb7b1ca501e2",
-      "title": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk",
+      "id": "797fa1f877a3160a",
+      "title": "From DOGE to \"space lasers,\" Alex Gibney peels back the many layers of Elon Musk",
       "summary": "In the Oscar-winning filmmaker's latest documentary, director Alex Gibney investigates the rise of Elon Musk and says what's behind Musk's success are distressing truths.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.npr.org/2026/09/11/nx-s1-5962167/alex-gibney-elon-musk-documentary-review",
@@ -1513,12 +1615,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 403,
+      "wordCount": 400,
       "readingMinutes": 2,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d808/live/0f1e2400-7172-11f1-a417-dfae8167aae6.png",
-      "body": "Published 11 September 2026, 11:07 BST\n\nGreen Party leader Zack Polanski has been selected as the party's candidate in the by-election for Sir Keir Starmer's former seat in Parliament.\n\nPolanski, who is a London Assembly member, will stand in Holborn and St Pancras on 8 October as he seeks to become an MP.\n\nHe was voted to be the party's candidate by members of the Camden Green Party ahead of local councillor Hamza Chowdhury.\n\nPolanski said the Greens \"might be the underdog in this election but we have the momentum and we can win\".\n\nHe also spoke of how he made Camden \"my home\" when he first moved to London 20 years ago, adding he has \"lived and worked across Holborn and St Pancras for many of the years since\".\n\nPolanski said: \"I love this place but I also know times are tough here in Holborn and St Pancras. My story of constantly moving around flats is such a common story for Londoners and I know so many people are struggling right now.\"\n\nHe argued that voting Green \"sends a clear signal\" to the council and government that \"we demand better for our communities\".\n\nPolanski added he is \"confident but not complacent\" about his chances.\n\nHe also said the election is about \"putting pressure\" on Prime Minister Andy Burnham, noting a Green MP would \"work with him constructively to challenge him on the gaps in his plans\".\n\nAnnouncing the result, Green MP Hannah Spencer said members had \"overwhelmingly\" chosen Polanski.\n\nThe Greens finished second to Labour at the elections for Camden Council earlier this year.\n\nThe by-election is an early test of Burnham's popularity with the public and whether Labour under his leadership is able to fend off the challenge from the Greens in inner-city constituencies.\n\nFor Polanski, it will be a test on whether he can provide evidence that he can deliver on his ambition for the Greens to \"replace\" Labour.\n\nLabour has held the inner London seat since it was created in 1983 and the party's candidate for the by-election is Camden Council leader Sagal Abdi-Wali.\n\nThe seat became vacant after former Prime Minister Sir Keir announced he was standing down as an MP to focus on a role in international affairs.\n\nRelated topics\n\nZack Polanski\n\nGreen Party (England and Wales)\n\nMore on this story\n\nWho are the candidates in the Holborn and St Pancras by-election? Published 12 hours ago",
+      "body": "Published 11 September 2026\n\nGreen Party leader Zack Polanski has been selected as the party's candidate in the by-election for Sir Keir Starmer's former seat in Parliament.\n\nPolanski, who is a London Assembly member, will stand in Holborn and St Pancras on 8 October as he seeks to become an MP.\n\nHe was voted to be the party's candidate by members of the Camden Green Party ahead of local councillor Hamza Chowdhury.\n\nPolanski said the Greens \"might be the underdog in this election but we have the momentum and we can win\".\n\nHe also spoke of how he made Camden \"my home\" when he first moved to London 20 years ago, adding he has \"lived and worked across Holborn and St Pancras for many of the years since\".\n\nPolanski said: \"I love this place but I also know times are tough here in Holborn and St Pancras. My story of constantly moving around flats is such a common story for Londoners and I know so many people are struggling right now.\"\n\nHe argued that voting Green \"sends a clear signal\" to the council and government that \"we demand better for our communities\".\n\nPolanski added he is \"confident but not complacent\" about his chances.\n\nHe also said the election is about \"putting pressure\" on Prime Minister Andy Burnham, noting a Green MP would \"work with him constructively to challenge him on the gaps in his plans\".\n\nAnnouncing the result, Green MP Hannah Spencer said members had \"overwhelmingly\" chosen Polanski.\n\nThe Greens finished second to Labour at the elections for Camden Council earlier this year.\n\nThe by-election is an early test of Burnham's popularity with the public and whether Labour under his leadership is able to fend off the challenge from the Greens in inner-city constituencies.\n\nFor Polanski, it will be a test on whether he can provide evidence that he can deliver on his ambition for the Greens to \"replace\" Labour.\n\nLabour has held the inner London seat since it was created in 1983 and the party's candidate for the by-election is Camden Council leader Sagal Abdi-Wali.\n\nThe seat became vacant after former Prime Minister Sir Keir announced he was standing down as an MP to focus on a role in international affairs.\n\nRelated topics\n\nZack Polanski\n\nGreen Party (England and Wales)\n\nMore on this story\n\nWho are the candidates in the Holborn and St Pancras by-election? Published 18 hours ago",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1664,12 +1766,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1310,
+      "wordCount": 1307,
       "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/46f3/live/8b674770-ad4b-11f1-a540-61c3f7fc4e6c.jpg",
-      "body": "Published 11 September 2026, 08:09 BST\n\nAt the start of summer, in the pillared room in 10 Downing Street, Andy Burnham looked out at his new special advisers, the few dozen political officials tasked with driving hundreds of thousands of civil servants to deliver his government's agenda.\n\nSome had been with him in Manchester or Makerfield. Others had spent the past few months trying everything to prevent his hostile takeover of Sir Keir Starmer's government - and the new prime minister showed he was aware of it, going out of his way to praise those who had stayed on, for their efforts in the preceding years.\n\nAt that meeting, Burnham's team mapped out four key moments in the coming months.\n\nFirst, the return to Parliament in September, when Burnham and other leading ministers would make their first statements to MPs.\n\nSecond, Labour's annual conference at the end of September - Burnham's first as leader.\n\nThird, the Budget, taking place on 28 October.\n\nAnd fourth, the 10-year plan for Britain which Burnham intends to unveil in November.\n\nAs MPs prepare to leave Parliament on Tuesday for almost a month and party conference season gets underway, the first phase of that route map is almost complete - enough for figures at all levels of the Labour Party to begin answering some questions about the shape of this new government.\n\nMost importantly, perhaps, how new actually is it? Does Burnham represent continuity or change?\n\nThat question is especially relevant because those Labour MPs who pushed for Sir Keir to be replaced always fell into two broad camps: those who wanted a change of style and emphasis but continuity in policy, and those who wanted a major shift in policy. Both groups saw what they wanted in Burnham.\n\nAndy Burnham speaks during his first Cabinet meeting since becoming prime minister\n\nGoing by the words of the new prime minister himself, he represents a profound break with the past, and not only the immediate past.\n\nIn his first speech as Labour leader in July, Burnham described his ascendancy as \"the most significant change moment in our politics for 40 years\".\n\nThat is the timeframe he has returned to again and again, signalling not just a desire to reverse issues he believes stem from the Thatcher era but also to break with aspects of the Labour governments since then, including his immediate predecessor's.\n\nSome in government are already quietly questioning, though, whether the ambition of that rhetoric can be squared with the early signals emerging from the Treasury under the new Chancellor John Healey.\n\nWho's in Andy Burnham's cabinet? Published 28 July\n\nIn interviews over recent weeks, and especially in his first major speech on Monday , Healey has said he will stick to Rachel Reeves's commitments not to increase the main rates of income tax, national insurance and VAT, as well as her rules on government borrowing.\n\nIn the speech, he promised to \"control public spending\", and hailed Reeves for beginning to \"recover Britain's fiscal discipline\".\n\nIt led to opposition parties labelling Healey a continuity chancellor. A similar critique is being voiced among some of his government colleagues.\n\nMost are more generous for now, arguing that Healey's first imperative - especially at a time of turmoil in the global bond markets - is reassurance, and that the Budget is the moment for him to show how he plans to substantiate Burnham's rhetoric.\n\nEven one official sympathetic on that point, though, asks: \"Why did he do a big speech before he has something to say?\"\n\nThose close to Healey argue that his emphasis this week on securing the economic growth which has eluded successive governments by spreading wealth around the country is a clear difference from Reeves.\n\nAnd finding ways to boost regional growth has been one of Healey's major causes since he was a junior minister at the Treasury more than 20 years ago - long before it was at the heart of Burnham's political personality.\n\nThere is no question, though, that this week the minister who most starkly signalled change from the previous government was a man who coveted Healey's job - Ed Miliband, who was instead appointed foreign secretary.\n\nIn announcing new sanctions on Israel over illegal settlements in the West Bank , Miliband explicitly cast the policy as a break from Sir Keir's approach, telling MPs: \"We should have acted earlier, and it has taken the new prime minister to come in and recognise the gravity of the situation.\"\n\nOn the other hand, acting alongside Canada and France in announcing the sanctions represented - in form if not substance - continuity with the previous government, the three countries having moved together to recognise the state of Palestine a year ago.\n\nThe sanctions announcement was received with near-universal warmth from Labour MPs, itself a marker of change from the Starmer government.\n\nIt was also seen as a sign of the ability of Miliband in particular, but this government in general, to drive its agenda through the civil service machine.\n\n\"There is a much clearer sense now from No 10 of what they want,\" one official who worked under Sir Keir as well as Burnham says. \"Before there was a bit too much of 'let us know your ideas for what we should do', now it's 'this is what the PM wants, give us options to deliver it'.\"\n\nThat is a culture shift which Burnham sought to drill into his cabinet at their weekly meeting on Tuesday, still only their third such meeting.\n\nAccording to one present, the prime minister said: \"We need to be on the front foot. We need to be bolder. Let's get on and do things. It's about deeds not words.\"\n\nBurnham has called for \"growth in every postcode\", and the establishment of No 10 North is a key part of that agenda\n\nPerhaps the most significant way in which Burnham is trying to make boldness easier for his ministers is by encouraging them to press ahead with policies when there is a risk they will face a serious legal challenge.\n\nThe new attorney general, Ellie Reeves, has pared back rules introduced under Sir Keir which some ministers believed forced them to be over-cautious about legal risk, thereby slowing down or blocking new policies altogether.\n\nLouise Haigh , Burnham's deputy, has vowed to \"strip out needless bureaucracy\" from government more generally, citing an example of there being three public consultations between 2019 and 2023 on whether to microchip cats.\n\n\"If we can't microchip cats without getting tied up in red tape, it should come as no surprise the public is losing faith that governments can get things done,\" she said.\n\nAs Burnham moves into the next phase of his autumn, there is a recognition from some around him that he will need to produce some more significant policies to underpin his rhetoric.\n\nThose in government familiar with early work on fleshing out his commitment to \"public control\" of essential services insist the direction of travel is truly radical.\n\nHaigh is responsible for this, chairing a taskforce on how to reverse \"over-privatisation\" specifically of housing, water, energy and transport.\n\nBurnham may offer more details on these policies at Labour's conference, while he is likely to wait until after then to show his hand on whether he wants continuity or change when it comes to Home Secretary Shabana Mahmood's reforms to the legal immigration system - a much more divisive issue among Labour MPs.\n\nAnd whatever their differences on policy, Labour MPs are united on one thing. The fundamental reason they installed a new prime minister was because many of them believed that continuing on the same path meant losing the next general election.\n\nFor them, a long-term improvement in Labour's poll ratings would be the most important change of them all.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham",
+      "body": "Published 11 September 2026\n\nAt the start of summer, in the pillared room in 10 Downing Street, Andy Burnham looked out at his new special advisers, the few dozen political officials tasked with driving hundreds of thousands of civil servants to deliver his government's agenda.\n\nSome had been with him in Manchester or Makerfield. Others had spent the past few months trying everything to prevent his hostile takeover of Sir Keir Starmer's government - and the new prime minister showed he was aware of it, going out of his way to praise those who had stayed on, for their efforts in the preceding years.\n\nAt that meeting, Burnham's team mapped out four key moments in the coming months.\n\nFirst, the return to Parliament in September, when Burnham and other leading ministers would make their first statements to MPs.\n\nSecond, Labour's annual conference at the end of September - Burnham's first as leader.\n\nThird, the Budget, taking place on 28 October.\n\nAnd fourth, the 10-year plan for Britain which Burnham intends to unveil in November.\n\nAs MPs prepare to leave Parliament on Tuesday for almost a month and party conference season gets underway, the first phase of that route map is almost complete - enough for figures at all levels of the Labour Party to begin answering some questions about the shape of this new government.\n\nMost importantly, perhaps, how new actually is it? Does Burnham represent continuity or change?\n\nThat question is especially relevant because those Labour MPs who pushed for Sir Keir to be replaced always fell into two broad camps: those who wanted a change of style and emphasis but continuity in policy, and those who wanted a major shift in policy. Both groups saw what they wanted in Burnham.\n\nAndy Burnham speaks during his first Cabinet meeting since becoming prime minister\n\nGoing by the words of the new prime minister himself, he represents a profound break with the past, and not only the immediate past.\n\nIn his first speech as Labour leader in July, Burnham described his ascendancy as \"the most significant change moment in our politics for 40 years\".\n\nThat is the timeframe he has returned to again and again, signalling not just a desire to reverse issues he believes stem from the Thatcher era but also to break with aspects of the Labour governments since then, including his immediate predecessor's.\n\nSome in government are already quietly questioning, though, whether the ambition of that rhetoric can be squared with the early signals emerging from the Treasury under the new Chancellor John Healey.\n\nWho's in Andy Burnham's cabinet? Published 28 July\n\nIn interviews over recent weeks, and especially in his first major speech on Monday , Healey has said he will stick to Rachel Reeves's commitments not to increase the main rates of income tax, national insurance and VAT, as well as her rules on government borrowing.\n\nIn the speech, he promised to \"control public spending\", and hailed Reeves for beginning to \"recover Britain's fiscal discipline\".\n\nIt led to opposition parties labelling Healey a continuity chancellor. A similar critique is being voiced among some of his government colleagues.\n\nMost are more generous for now, arguing that Healey's first imperative - especially at a time of turmoil in the global bond markets - is reassurance, and that the Budget is the moment for him to show how he plans to substantiate Burnham's rhetoric.\n\nEven one official sympathetic on that point, though, asks: \"Why did he do a big speech before he has something to say?\"\n\nThose close to Healey argue that his emphasis this week on securing the economic growth which has eluded successive governments by spreading wealth around the country is a clear difference from Reeves.\n\nAnd finding ways to boost regional growth has been one of Healey's major causes since he was a junior minister at the Treasury more than 20 years ago - long before it was at the heart of Burnham's political personality.\n\nThere is no question, though, that this week the minister who most starkly signalled change from the previous government was a man who coveted Healey's job - Ed Miliband, who was instead appointed foreign secretary.\n\nIn announcing new sanctions on Israel over illegal settlements in the West Bank , Miliband explicitly cast the policy as a break from Sir Keir's approach, telling MPs: \"We should have acted earlier, and it has taken the new prime minister to come in and recognise the gravity of the situation.\"\n\nOn the other hand, acting alongside Canada and France in announcing the sanctions represented - in form if not substance - continuity with the previous government, the three countries having moved together to recognise the state of Palestine a year ago.\n\nThe sanctions announcement was received with near-universal warmth from Labour MPs, itself a marker of change from the Starmer government.\n\nIt was also seen as a sign of the ability of Miliband in particular, but this government in general, to drive its agenda through the civil service machine.\n\n\"There is a much clearer sense now from No 10 of what they want,\" one official who worked under Sir Keir as well as Burnham says. \"Before there was a bit too much of 'let us know your ideas for what we should do', now it's 'this is what the PM wants, give us options to deliver it'.\"\n\nThat is a culture shift which Burnham sought to drill into his cabinet at their weekly meeting on Tuesday, still only their third such meeting.\n\nAccording to one present, the prime minister said: \"We need to be on the front foot. We need to be bolder. Let's get on and do things. It's about deeds not words.\"\n\nBurnham has called for \"growth in every postcode\", and the establishment of No 10 North is a key part of that agenda\n\nPerhaps the most significant way in which Burnham is trying to make boldness easier for his ministers is by encouraging them to press ahead with policies when there is a risk they will face a serious legal challenge.\n\nThe new attorney general, Ellie Reeves, has pared back rules introduced under Sir Keir which some ministers believed forced them to be over-cautious about legal risk, thereby slowing down or blocking new policies altogether.\n\nLouise Haigh , Burnham's deputy, has vowed to \"strip out needless bureaucracy\" from government more generally, citing an example of there being three public consultations between 2019 and 2023 on whether to microchip cats.\n\n\"If we can't microchip cats without getting tied up in red tape, it should come as no surprise the public is losing faith that governments can get things done,\" she said.\n\nAs Burnham moves into the next phase of his autumn, there is a recognition from some around him that he will need to produce some more significant policies to underpin his rhetoric.\n\nThose in government familiar with early work on fleshing out his commitment to \"public control\" of essential services insist the direction of travel is truly radical.\n\nHaigh is responsible for this, chairing a taskforce on how to reverse \"over-privatisation\" specifically of housing, water, energy and transport.\n\nBurnham may offer more details on these policies at Labour's conference, while he is likely to wait until after then to show his hand on whether he wants continuity or change when it comes to Home Secretary Shabana Mahmood's reforms to the legal immigration system - a much more divisive issue among Labour MPs.\n\nAnd whatever their differences on policy, Labour MPs are united on one thing. The fundamental reason they installed a new prime minister was because many of them believed that continuing on the same path meant losing the next general election.\n\nFor them, a long-term improvement in Labour's poll ratings would be the most important change of them all.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1715,12 +1817,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 850,
+      "wordCount": 847,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c1a/live/4d131150-ad20-11f1-826f-933990eae6f0.jpg",
-      "body": "Published 11 September 2026, 05:51 BST\n\nAngela Rayner has defended her decision to pause plans to redraw local council boundaries, saying she wanted to ensure they would survive legal challenge.\n\nThe local government secretary also told the BBC she wanted to be \"clear-eyed\" about what the planned shake-up in 16 areas of England was likely to achieve.\n\nIt comes after earlier this week she abandoned proposals in four other areas, in the face of legal threats from Reform and Conservative-led authorities.\n\nThe surprise announcement on Monday has thrown the reorganisation plans into doubt, and drawn criticism from local leaders preparing for the changes.\n\nCouncils in affected areas have been drawing up proposals and consulting with residents since the reorganisation was announced in late 2024, in a process that is already thought to have cost millions of pounds.\n\nSpeaking to the BBC's Political Thinking with Nick Robinson podcast, Rayner conceded the decision to press pause had been \"difficult\" and she understood local authorities had put a \"lot of time and effort\" into their plans.\n\nBut she added she wanted to have \"all the information\" about the proposals before going ahead with them, after her reappointment to her cabinet role under Andy Burnham, ten months after her resignation last year .\n\n\"I got the legal advice and I hadn't had the time to review and to go through all of that, and court cases were looming,\" she told the podcast.\n\n\"If I'm making a decision that is highly likely to be in legal challenge, I want to make sure I've dotted my i's and crossed my t's,\" she added.\n\nRayner also said she wanted was \"really clear-eyed on where we were going\" with the plans, after Burnham had asked her to look again at the blueprints, which were announced by her predecessor Steve Reed.\n\nPolitical Thinking with Nick Robinson\n\nPlans for major overhaul of councils halted Published 4 days ago\n\nCouncil to take government to court over reforms Published 19 June\n\nLegal threats\n\nIn her announcement on Monday, Rayner said she was withdrawing plans to reorganise councils in Essex, Hampshire, Norfolk and Suffolk.\n\nThose proposals, announced in March, were already subject to legal challenges from Reform-led councils in Essex, Norfolk and Suffolk, and the Conservative-led administration in Hampshire, which were lodged over the summer.\n\nShe also said she wanted to review plans for 16 other areas, including 14 announced by Reed days before Burnham replaced Sir Keir Starmer as prime minister and reappointed her to her old role.\n\nSome councils affected by those plans, including Kent and Leicestershire, had threatened similar bids to challenge the lawfulness of the decision-making process.\n\nThe government has argued that the plans, which will abolish remaining two-tier areas in England where county and district councils share responsibility for services, would make local government more effective and cost efficient.\n\nHowever, critics said the plans would not save money, while diverting resources from front-line services and leaving councils more remote from their communities.\n\nOthers have also complained that the reorganisation could stymie or delay parallel efforts to merge councils into regional authorities led by mayors, which Burnham has cited as a key part of his economic plans.\n\n'Heart on his sleeve'\n\nElsewhere in her interview, Rayner said Labour under Sir Keir should have been quicker to recognise a Palestinian state, having promised to do so as a \"contribution to a renewed peace process\" at the last election.\n\nStarmer took the move in September last year, having spent much of the prior year resisting pressure to do so from Labour MPs.\n\n\"It's always been Labour policy to recognise a Palestinian state, and it felt like we got there too late. It was something that should have been really clear,\" she said.\n\nShe also denied that UK sanctions against Israeli settlements in the occupied West Bank, announced on Tuesday , had been made to help Labour ahead of the forthcoming by-election in Holborn and St Pancras in central London.\n\nSettlements are illegal under international law, and there has been a rise in violence towards Palestinians in the West Bank by settlers in recent months.\n\nPointing to the fact that Western allies had also announced sanctions, she said: \"The French and the Canadians are not going to be like 'oh well, we'll just signal something to help you with a local by-election in London'\".\n\nReflecting on her return to government, she said a \"big difference\" between Burnham and his predecessor in Downing Street was his inclination to tell \"the story of why we're doing something\" in government.\n\nShe said both men shared \"passion and the commitment\" to deliver for Labour in office, but added: \"Andy is probably more like me, in terms of [he] wears his heart on his sleeve\".\n\nThe interview with Angela Rayner will be broadcast on BBC2 at 12:30 BST on Friday 11 September, and 17:30 BST on Saturday 12 September.\n\nGet in touch\n\nDo you have any comments or questions about this story?\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAngela Rayner\n\nLocal government",
+      "body": "Published 11 September 2026\n\nAngela Rayner has defended her decision to pause plans to redraw local council boundaries, saying she wanted to ensure they would survive legal challenge.\n\nThe local government secretary also told the BBC she wanted to be \"clear-eyed\" about what the planned shake-up in 16 areas of England was likely to achieve.\n\nIt comes after earlier this week she abandoned proposals in four other areas, in the face of legal threats from Reform and Conservative-led authorities.\n\nThe surprise announcement on Monday has thrown the reorganisation plans into doubt, and drawn criticism from local leaders preparing for the changes.\n\nCouncils in affected areas have been drawing up proposals and consulting with residents since the reorganisation was announced in late 2024, in a process that is already thought to have cost millions of pounds.\n\nSpeaking to the BBC's Political Thinking with Nick Robinson podcast, Rayner conceded the decision to press pause had been \"difficult\" and she understood local authorities had put a \"lot of time and effort\" into their plans.\n\nBut she added she wanted to have \"all the information\" about the proposals before going ahead with them, after her reappointment to her cabinet role under Andy Burnham, ten months after her resignation last year .\n\n\"I got the legal advice and I hadn't had the time to review and to go through all of that, and court cases were looming,\" she told the podcast.\n\n\"If I'm making a decision that is highly likely to be in legal challenge, I want to make sure I've dotted my i's and crossed my t's,\" she added.\n\nRayner also said she wanted was \"really clear-eyed on where we were going\" with the plans, after Burnham had asked her to look again at the blueprints, which were announced by her predecessor Steve Reed.\n\nPolitical Thinking with Nick Robinson\n\nPlans for major overhaul of councils halted Published 4 days ago\n\nCouncil to take government to court over reforms Published 19 June\n\nLegal threats\n\nIn her announcement on Monday, Rayner said she was withdrawing plans to reorganise councils in Essex, Hampshire, Norfolk and Suffolk.\n\nThose proposals, announced in March, were already subject to legal challenges from Reform-led councils in Essex, Norfolk and Suffolk, and the Conservative-led administration in Hampshire, which were lodged over the summer.\n\nShe also said she wanted to review plans for 16 other areas, including 14 announced by Reed days before Burnham replaced Sir Keir Starmer as prime minister and reappointed her to her old role.\n\nSome councils affected by those plans, including Kent and Leicestershire, had threatened similar bids to challenge the lawfulness of the decision-making process.\n\nThe government has argued that the plans, which will abolish remaining two-tier areas in England where county and district councils share responsibility for services, would make local government more effective and cost efficient.\n\nHowever, critics said the plans would not save money, while diverting resources from front-line services and leaving councils more remote from their communities.\n\nOthers have also complained that the reorganisation could stymie or delay parallel efforts to merge councils into regional authorities led by mayors, which Burnham has cited as a key part of his economic plans.\n\n'Heart on his sleeve'\n\nElsewhere in her interview, Rayner said Labour under Sir Keir should have been quicker to recognise a Palestinian state, having promised to do so as a \"contribution to a renewed peace process\" at the last election.\n\nStarmer took the move in September last year, having spent much of the prior year resisting pressure to do so from Labour MPs.\n\n\"It's always been Labour policy to recognise a Palestinian state, and it felt like we got there too late. It was something that should have been really clear,\" she said.\n\nShe also denied that UK sanctions against Israeli settlements in the occupied West Bank, announced on Tuesday , had been made to help Labour ahead of the forthcoming by-election in Holborn and St Pancras in central London.\n\nSettlements are illegal under international law, and there has been a rise in violence towards Palestinians in the West Bank by settlers in recent months.\n\nPointing to the fact that Western allies had also announced sanctions, she said: \"The French and the Canadians are not going to be like 'oh well, we'll just signal something to help you with a local by-election in London'\".\n\nReflecting on her return to government, she said a \"big difference\" between Burnham and his predecessor in Downing Street was his inclination to tell \"the story of why we're doing something\" in government.\n\nShe said both men shared \"passion and the commitment\" to deliver for Labour in office, but added: \"Andy is probably more like me, in terms of [he] wears his heart on his sleeve\".\n\nThe interview with Angela Rayner will be broadcast on BBC2 at 12:30 BST on Friday 11 September, and 17:30 BST on Saturday 12 September.\n\nGet in touch\n\nDo you have any comments or questions about this story?\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAngela Rayner\n\nLocal government",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1750,30 +1852,6 @@
       "body": "Concerns over rising inflation, continuing war with Iran, and the US’s record national debt have shaken the market\n\nAmericans who have been grappling with the higher cost of living over the last few years now face another issue: trouble in the US bond market that could mean elevated costs are here to stay.\n\nUS government bonds – known as treasuries – are supposed to be the most stable type of investment vehicle. But investor concerns over issues including rising inflation, the continuing war with Iran, and the US’s record national debt have shaken the market and slowed demand for US treasury bonds.\n\nLoans for homes, cars and credit cards, along with money businesses borrow to keep things running, could get more expensive if the sell-off in the bond market continues.\n\nHere’s what we know about the problems in the bond market and what it could mean for US consumers.\n\nHow the US bond market works\n\nA US treasury bond is essentially the US government packaging up its debt and selling it to investors with a promise to pay interest. Investors can buy bonds that mature at different rates – a two-year note will mean an investor gets their money back quicker than a 30-year bond, but typically with lower interest.\n\nWhen it comes to measuring the bond market, investors pay attention to the yield rate for each type of bond. The yield is the rate of return that investors who purchase that type of bond can expect to receive once the bond matures, and it fluctuates based on the price of the bond itself.\n\nA higher yield rate means more investors are trying to sell off their bonds and are willing to offer more to get it off their hands.\n\nWhat’s happening in the bond market?\n\nWhile small fluctuations in the bond market are normal, the yield on US treasurys has continued to rise over the summer, with the 10-year treasury note hitting its highest yield since 2023 on Tuesday.\n\nThe increase started in the spring, when the US first declared war in Iran, and has kept rising. At the end of February, the yield rate for the 10-year treasury was 3.95%. On Wednesday, the rate hit 4.8%.\n\nThe yield for the 30-year treasury took a huge dip earlier in the summer, when the US and Iran were in the middle of a temporary ceasefire. At the time, oil prices were dipping down to their lowest levels since the start of the war, and prices have been up ever since.\n\nActivity in the bond market provides an insight into how investors are feeling about the US economy, even more so than the stock market, which can get outsized boosts from industries that are doing particularly well, like AI and tech, even when other sectors of the economy are faring less well.\n\nHigher yields in the bond market point to concern around rising inflation, which has ticked up significantly since the start of the Iran war. Investors are bracing for higher interest rates from the US Federal Reserve, which is expected to raise rates at least once before the end of the year. This would also make borrowing more expensive, even if the bond market calms.\n\nHigher loans for consumers\n\nMortgages are closely tied to the US treasury market – when yields go up, mortgage rates are expected to follow. Mortgage rates are already double what they were during the pandemic. While the 30-year fixed-rate mortgage dipped down below 6% in February, reaching its lowest level since 2022, rates have since gone back. At the end of August, the mortgage rate sat at 6.66%, and is expected to go up more after the bond market sell-off.\n\nHouse building has already been hit by higher rates and a further blow will ripple through the economy from construction jobs to the sale of white goods.\n\nOther loans will also be affected, including car loans and the interest rates consumers pay for their credit cards.\n\nAlex Jacquez, senior vice-president of policy, advocacy and research at the progressive thinktank Groundwork Collaborative and a former economic adviser to the Biden administration, said that higher borrowing costs will be especially painful for Americans whose savings have been depleted after years of high inflation.\n\n“We’ve seen credit card balances start to creep back up, defaults start to creep back up,” Jacquez said. “More and more people are turning to credit instruments to pay down all kinds of basic things like healthcare, groceries and gas.”\n\nFailed intervention\n\nScott Bessent, the US treasury secretary, announced that the treasury department would triple its buyback of US treasuries, increasing the operation from $2bn to $6bn.\n\nThe move is just the latest intervention meant to stabilize the bond market. Earlier in the month, Trump announced the US bought Japanese yen to strengthen the currency, which was seen as a move to prop up the Japanese government, a major owner of US bonds.\n\nWhile Bessent’s announcement briefly calmed the treasury market, it did little to quell investor concerns over inflation and yields soon started rising again. The Billionaire investor Stanley Druckenmiller, Bessent’s former mentor, criticized the move, saying “governments defending prices against fundamentals always lose”.\n\nThe backdrop of the bond market crisis is the US hitting a major borrowing milestone. The gross national debt topped $40tn for the first time in history last month, and Trump has shown little interest in his pre-election pledge to balance the US’s budget.\n\nJacquez, of the Groundwork Collaborative, said that there was little that the Trump administration can do if it continues to pursue inflationary policies, like continued conflict in the Middle East and new tariffs on close trading allies.\n\n“First and foremost, they should stop getting in their own way,” Jacquez said. “It’s no wonder that people are expecting more inflation in the months to come.”\n\nUS economy\n\nBonds\n\nFederal Reserve\n\nEconomics\n\nUS-Israel war on Iran\n\nTrump administration\n\nexplainers",
       "imageWidth": 1200,
       "imageHeight": 630
-    },
-    {
-      "id": "86a719b8eb009765",
-      "title": "After court flurry, Missouri officials set aside GOP redistricting",
-      "summary": "After a flurry of court maneuvers, the Republican redistricting of U.S. House seats in Missouri is blocked. It's a win for Democrats fighting to win control of the House — but maybe not over yet.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5965533/after-court-flurry-missouri-officials-set-aside-gop-redistricting",
-      "source": "NPR Politics",
-      "publisher": "NPR",
-      "published": "2026-09-10T21:02:01Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 35,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5965533"
     },
     {
       "id": "5f4ca062fc364b7d",
@@ -2076,30 +2154,6 @@
       "imageUrl": "https://i.guim.co.uk/img/media/88cf64587a4d1b20ca8078747b809eee812c4422/0_139_2639_2111/master/2639.jpg?width=700&quality=85&auto=format&fit=max&s=1718e17331c384a9d9e41be1b656b064"
     },
     {
-      "id": "89db7f2e78d9ea63",
-      "title": "China’s drone supremacy shows in airlifting bodies and food after Nepal flood disaster",
-      "summary": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-09-10T16:53:52Z",
-      "category": "Tech",
-      "region": "China",
-      "labels": [
-        "Tech",
-        "China"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 12,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Drone-Nepal-flood-disaster-relief-1152x648.jpg"
-    },
-    {
       "id": "61e45f910d4a6524",
       "title": "Primark introduces home delivery",
       "summary": "Primark has said it plans to launch a home delivery service in Britain, four years after it made its first foray into e-commerce.",
@@ -2197,6 +2251,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c78/live/a5720c80-ad06-11f1-beae-535b95a24b3e.jpg"
     },
     {
+      "id": "0e5cef450efa63d7",
+      "title": "Some satellite companies still have an appetite for boutique launch services",
+      "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-09-11T23:34:45Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 12,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Engine3-1152x648.jpg"
+    },
+    {
       "id": "ad56136f52b7c865",
       "title": "UK economy unexpectedly grows 0.4% in July boosted by AI",
       "summary": "Welcome boost for chancellor with unexpected rise put down to rapid growth of AI in services sector outweighing Iran war fallout The UK economy grew in July as the rapid expansion of AI appeared to outweigh the economic damage from the Iran war, in a welcome boost for John Healey. Figures from the Office for National Statistics (ONS) showed a surprise 0.4% increase in gross domestic product (GDP), compared with 0.3% growth in June. City economists had forecast zero growth. Continue reading...",
@@ -2245,8 +2323,8 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e501/live/f03a5340-ac88-11f1-ab14-5b9069dc795d.jpg"
     },
     {
-      "id": "ccb5477afb69cce5",
-      "title": "Random rewards enrich classic game-theory contests",
+      "id": "d396363d659b1235",
+      "title": "Random rewards enrich classic game-theory insights",
       "summary": "Simple games gain rich strategies in the face of noise.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
@@ -2653,6 +2731,29 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
     },
     {
+      "id": "221dcf2c4e1b4a08",
+      "title": "A stable Afghanistan post 9/11 is in US interests says former US diplomat",
+      "summary": "Former US diplomat Zalmay Khalilzad says Washington wants to prevent Afghanistan becoming a hub for anti-US groups.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-09-12T04:00:23Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "21bdff26a4862c5f",
       "title": "What happens when quantum mechanics and relativity meet?",
       "summary": "Experiment put atoms in a superposition of trajectories to find out.",
@@ -2675,6 +2776,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255830341-1152x648.jpg"
+    },
+    {
+      "id": "dce4a27d19ec7c64",
+      "title": "Cost of living has gone up 3.4% in the last year",
+      "summary": "A new report shows the cost of living in August was up 3.4% from a year ago. Investors think stubborn inflation makes it more likely that the Federal Reserve will raise interest rates next week.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5966538/cost-of-living-has-gone-up-3-4-in-the-last-year",
+      "source": "NPR Business",
+      "publisher": "NPR",
+      "published": "2026-09-12T00:45:21Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 36,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5966538"
     },
     {
       "id": "ecff6674feb7e570",
@@ -2725,6 +2850,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e509/live/199aa930-adb8-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
+      "id": "3abbad289088d350",
+      "title": "Trump to arrive in Ireland for two-day visit",
+      "summary": "Donald Trump is to arrive later on Saturday at Dublin Airport for a two-day visit to the country.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-09-12T04:03:57Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac44/live/b00e6bd0-ae5e-11f1-8a9e-031899e1c94f.jpg"
+    },
+    {
       "id": "4f1d562f33147d84",
       "title": "Police launch criminal investigation into Reform UK donations",
       "summary": "The investigation, which follows a broadcast by Channel 4 News, is being folded into the inquiry that has been under way into other donations.",
@@ -2747,6 +2896,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbaa/live/1acb1230-ac60-11f1-be57-03729df1d736.jpg"
+    },
+    {
+      "id": "e69c3119826e5b70",
+      "title": "What it takes to make a new — branded — tomato",
+      "summary": "Why is the grocery store produce aisle filling up with branded fruits and vegetables, like honeycrisp apples and cuties oranges? We watch the effort to make one new — branded — tomato.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5955502/what-it-takes-to-make-a-new-branded-tomato",
+      "source": "NPR Business",
+      "publisher": "NPR",
+      "published": "2026-09-12T00:39:10Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 30,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5955502"
     },
     {
       "id": "2a1ea025e42b0d98",
@@ -2846,6 +3019,29 @@
       "imageUrl": "https://i.guim.co.uk/img/media/11cb2d940350d5b2eed42b662b099876b5442a59/336_0_3328_2664/master/3328.jpg?width=700&quality=85&auto=format&fit=max&s=1b3896d8cba4507fe0ebeb7ac68ec47a"
     },
     {
+      "id": "10a08e7dfd5d3953",
+      "title": "CIA drops dozens of declassified documents on bin Laden and al-Qaeda",
+      "summary": "A briefer told Clinton in 1998 that bin Laden’s 'preferred option is to strike the US on its own soil in Washington'.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/9/12/cia-drops-dozens-of-declassified-documents-on-bin-laden-and-al-qaeda?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-09-12T01:22:41Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "a1550bab2af44e9b",
       "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation",
       "summary": "Crude jumps above $107 a barrel amid concerns over Middle East conflict and out-of-control government borrowing Nervous investors across big economies have been dumping government bonds, driving up the cost of borrowing, as surging oil prices amplified fears about rising inflation. The cost of a barrel of oil jumped 6% to above $107 on Thursday amid concerns that advances by Houthi rebels along the Red Sea coast in Yemen could choke off Saudi crude exports. Continue reading...",
@@ -2894,6 +3090,29 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7edd/live/cdaa8ec0-ac89-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
+      "id": "f0bba026aebc9645",
+      "title": "How Canadians are bracing for the impact of Trump’s trade war",
+      "summary": "Canada’s buy-local movement remains strong, but new tariffs could test how much more shoppers are willing to pay.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/economy/2026/9/12/how-canadians-are-bracing-for-the-impact-of-trumps-trade-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-09-12T00:52:00Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "d2019634957c3020",
       "title": "Razaullah steals the show as Pakistan fight back to frustrate England",
       "summary": "Shan Masood, Babar Azam and debutant Razaullah all reach half-centuries as Pakistan produce a spirited fight back to score 449 in their second innings on day three, setting England 130 to win the third and final Test, and complete a 3-0 series win at Edgbaston.",
@@ -2916,6 +3135,29 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492a/live/7932acf0-ae10-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "id": "742978a62db52c8f",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch",
+      "publisher": "TechCrunch",
+      "published": "2026-09-11T20:59:47Z",
+      "category": "Tech",
+      "region": "US",
+      "labels": [
+        "Tech",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 34,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "539b8d4bd2f688a6",
@@ -2942,6 +3184,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f3/live/f1b07530-ae0c-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
+      "id": "71856601a6f57fb0",
+      "title": "US Open pays tribute on 25th anniversary of 9/11",
+      "summary": "The US Open pauses to remember the victims of the 9/11 attacks that took place 25 years ago.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cvgyn32xrdpo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-12T00:03:13Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbbf/live/36bc58e0-ae3c-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
       "id": "0966e10073d93af0",
       "title": "PM would consider independence referendum if 'clear consensus' emerges",
       "summary": "Andy Burnham had previously told First Minister John Swinney that a second referendum is \"off limits\".",
@@ -2964,6 +3230,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af44/live/3eac46d0-ac68-11f1-80f0-9795d1a5edbc.jpg"
+    },
+    {
+      "id": "19f24b0c742eb643",
+      "title": "Murphy beats Trump in deciding frame to reach semis",
+      "summary": "Shaun Murphy snatches a thrilling final-frame victory over Judd Trump to reach the semi-finals of the English Open.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/snooker/articles/cp8dynly163o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-11T22:55:33Z",
+      "category": "Sports",
+      "region": "US",
+      "labels": [
+        "Sports",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89b2/live/19663d30-ae30-11f1-bb4c-4741d7b60c15.jpg"
     },
     {
       "id": "77d5162e8859b044",
@@ -3063,27 +3353,28 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64be/live/bc6e1630-ae1a-11f1-aa28-67f8824e7b72.jpg"
     },
     {
-      "id": "2e17dc9975ee00a1",
-      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
-      "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+      "id": "c2858cf1bd8308fe",
+      "title": "Richarlison could still leave Spurs - Saturday's gossip",
+      "summary": "Interest in Richarlison, Philippe Coutinho agrees Santos deal and Manchester United monitoring Adrien Truffert.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "source": "TechCrunch",
-      "publisher": "TechCrunch",
-      "published": "2026-09-11T20:59:47Z",
-      "category": "Tech",
-      "region": "US",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn0jrn8n7pjo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-11T22:18:17Z",
+      "category": "Sports",
+      "region": "UK",
       "labels": [
-        "Tech",
-        "US"
+        "Sports",
+        "UK"
       ],
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 23,
+      "wordCount": 14,
       "readingMinutes": 1,
       "isShort": true,
-      "isBreaking": false
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6e6/live/24dd6840-ae2c-11f1-bc1f-3f186ca4140c.png"
     },
     {
       "id": "ff3f60008f7ff67a",
@@ -3328,6 +3619,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64e4/live/5b1cdb00-ae15-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
+      "id": "045c8f70cb227aba",
+      "title": "Kartal still Fenerbahce boss despite resigning",
+      "summary": "Ismail Kartal remains as head coach of Fenerbahce, despite resigning following Thursday's Champions League game with Roma.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0zvxx2eldo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-11T19:51:32Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e668/live/67b78530-ae16-11f1-aa28-67f8824e7b72.jpg"
+    },
+    {
       "id": "a29fb8913bf0d50e",
       "title": "Razaullah’s six-hitting debut caps Pakistan’s fightback against England",
       "summary": "Pakistan all out with a second innings lead of 130 at the close on day three of the third Test at Edgbaston.",
@@ -3373,53 +3688,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5821/live/63332c00-ae0a-11f1-b502-e5cdfe1c097c.png"
-    },
-    {
-      "id": "5bcff5d8f0901745",
-      "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
-      "summary": "Trump drew parallels to the US's present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-09-11T19:21:48Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "9ae8bb93f2abe85e",
-      "title": "England need 130 after thrilling Razaullah hitting",
-      "summary": "England face a chase of 130 to win the third Test after Pakistan debutant Razaullah produces some thrilling resistance on day three at Edgbaston.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cq5xjpqd5lno",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-11T18:23:29Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f2/live/1df3fb20-ae0e-11f1-b502-e5cdfe1c097c.jpg"
     },
     {
       "id": "63d3a3273cf637cd",
@@ -3733,30 +4001,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e191/live/0fb11270-adfd-11f1-8169-6fdea7f79791.jpg"
     },
     {
-      "id": "90871b7e6de96072",
-      "title": "Swans winger Inoussa joins Gornik Zabrze on loan",
-      "summary": "Swansea City winger Zeidane Inoussa joins Polish club Gornik Zabrze on loan for the remainder of the season.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm27vgl8dkgo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-11T17:52:26Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72f1/live/2886aec0-acfb-11f1-beae-535b95a24b3e.jpg"
-    },
-    {
       "id": "af8fae1c8edd07e9",
       "title": "Diving duo - Lawrence and Cox produce brilliant catches for England",
       "summary": "Dan Lawrence and Jordan Cox both produce brilliant, diving catches to dismiss Shan Masood and Babar Azam respectively, with both batters having caused problems for England on day three of the third Test at Edgbaston.",
@@ -3805,29 +4049,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ee/live/78fc3ad0-ade8-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "bb50d39615436cf7",
-      "title": "‘Handcuffed and blindfolded’: Is the US targeting Ecuadorian fishermen?",
-      "summary": "A growing number of fishermen say their boats have been struck by US forces as Trump expands his anti-drug campaign.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/9/11/handcuffed-and-blindfolded-is-the-us-targeting-ecuadorian-fishermen?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-09-11T17:18:17Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "e675029a971b6146",
       "title": "I asked my husband to pay into my pension when we had a child - here's why",
       "summary": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
@@ -3874,31 +4095,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f1d/live/a86e23b0-adf1-11f1-ad53-0d91a06f3150.jpg"
-    },
-    {
-      "id": "9ae96995e3f8a054",
-      "title": "LOTTE SHARP COMMITS HER FUTURE TO SARACENS",
-      "summary": "SARACENS WOMEN ARE DELIGHTED TO CONFIRM LOTTE SHARP HAS SIGNED A NEW DEAL WITH THE CLUB, EXTENDING A RUGBY JOURNEY THAT HAS ALREADY SPANNED OVER A DECADE IN NORTH LONDON. Sharp's Saracens story began in 2014, joining the club from local side, Welwyn. Since then, she has become one of the most consistent and decorated […]",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://saracens.com/lotte-sharp-commits-her-future-to-saracens/",
-      "source": "Saracens",
-      "publisher": "Saracens",
-      "published": "2026-09-07T15:00:00Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England",
-        "Rugby",
-        "Saracens"
-      ],
-      "sourceWeight": 5,
-      "focus": "Saracens",
-      "sourceType": "news",
-      "wordCount": 55,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "24656498c0ebcf85",
@@ -3995,30 +4191,6 @@
       "isBreaking": false
     },
     {
-      "id": "7d1c5f8616171d76",
-      "title": "As Trump dominates convention, some Republicans quietly ask who comes next",
-      "summary": "JD Vance delivered the keynote speech to end the party's convention - but the president still took centre stage, the BBC's Daniel Bush writes.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c2l8xvvw95no",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-09-11T14:03:43Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 23,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a2e/live/7023c9c0-addc-11f1-8b98-35ffe039e825.jpg"
-    },
-    {
       "id": "fcb800ea1b4f56b0",
       "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
       "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
@@ -4064,30 +4236,6 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
-    },
-    {
-      "id": "c198720f42626f8a",
-      "title": "Ex-West Ham striker Antonio joins Watford",
-      "summary": "Watford announce the signing of former West Ham United striker Michail Antonio on a free transfer.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gqjqdeg8do",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-11T15:04:49Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 16,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce8e/live/3ae71dd0-adef-11f1-9a5c-a7a4083eb832.jpg"
     },
     {
       "id": "e7c7459b9029717c",
@@ -4254,32 +4402,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/987c/live/032cdfa0-adbe-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "id": "81a2fce46615e1d3",
-      "title": "TWELVE SARACENS WOMEN NAMED IN WXV INTERNATIONAL SQUADS",
-      "summary": "Saracens Women will have twelve players representing three nations on the world stage this autumn, after England, Canada and Wales all named their squads for WXV this weekend. This weekend's clash between the Red Roses and Australia will be followed by fixtures across the UK, with the Red Roses coming face-to-face with Canada at Sandy […]",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://saracens.com/twelve-saracens-women-named-in-wxv-international-squads/",
-      "source": "Saracens",
-      "publisher": "Saracens",
-      "published": "2026-09-07T10:06:37Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Rugby",
-        "Saracens",
-        "England Rugby"
-      ],
-      "sourceWeight": 5,
-      "focus": "Saracens",
-      "sourceType": "news",
-      "wordCount": 55,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "e862f258837372a5",
@@ -4715,30 +4837,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d2/live/4c8e86c0-ad1a-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "e81067f12802c2c0",
-      "title": "Just like riding a bike - five things to watch in the EFL",
-      "summary": "BBC Sport looks at five key talking points before the weekend's Championship, League One and League Two action.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c99dgrj1228o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-11T07:27:38Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d38/live/7088aa50-ad11-11f1-b1d1-571ed4d7ff2c.png"
-    },
-    {
       "id": "493d1dfada46a769",
       "title": "Hall signs new contract with Newcastle until 2031",
       "summary": "Newcastle United defender Lewis Hall signs a new contract with the club that runs until 2031.",
@@ -4761,30 +4859,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/096f/live/73613080-ac26-11f1-9bd9-7b7da208bd5c.jpg"
-    },
-    {
-      "id": "a5ea129126736dbb",
-      "title": "How 9/11 'shattered the guise of safety' for tennis' travelling circus",
-      "summary": "On Friday, the US Open will pause and remember the victims of the 9/11 terror attack that took place 25 years ago.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cvgyn32xrdpo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-11T07:02:07Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 23,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94a2/live/6f4d32c0-ad82-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "id": "8771b626b5bd16ab",
@@ -4906,86 +4980,13 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0lwzcxx.jpg"
-    },
-    {
-      "id": "03051f093d0793d3",
-      "title": "Thousands of teens missing education 'under the radar' of official stats, report warns",
-      "summary": "The children's commissioner for England says many are enrolled at college but aren't showing up.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cwyznq259elo",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-09-08T23:33:16Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0500/live/4c828110-ac23-11f1-9bd9-7b7da208bd5c.png"
-    },
-    {
-      "id": "55456e66f53232e2",
-      "title": "Cops Play Hide and Seek About Using Spy Tech to Avoid Scrutiny and Bad PR",
-      "summary": "Law enforcement agencies across the country are increasingly relying on spying technologies— automated license plate readers (ALPR), cell-site simulators , and facial recognition , to name a few--causing an outcry in many communities where people are rightly concerned about the threat to civil rights and civil liberties these tools present. Some authorities are responding to these concerns by trying to hide what they’re doing. Police departments are telling officers not to mention ALPRs when stopping vehicles and concealing their use of ALPRs to avoid citizens’ public records requests. Concealing the use of unpopular spying tools isn’t anything particularly new for law enforcement—cops have been doing it for years—but it’s just as wrong now as it was 20 years ago. These practices prevent the public from knowing about and questioning how agencies are spending taxpayer dollars on spying technologies and holding them accountable. This is especially troubling when many towns are signing contracts with Flock and other ALPR vendors with little to no public oversight. The practice also violates disclosure obligations, allows cops and prosecutors to hide their tactics from judges, and cheats defendants from being able to challenge the use of evidence gathered by spy tech from being used against them. 404 Media recently revealed that in its usage policy for Flock ALPR cameras, one county in Iowa tells police to keep them a secret when detaining people: “DO NOT MENTION ALPR USAGE TO THE OCCUPANTS OF THE VEHICLE,” the policy document reads. “DO NOT MENTION ALPR USAGE IN YOUR REPORT OR COMPLAINT UNLESS ABSOLUTELY NECESSARY.” If writing a report about an incident, police are told to say they used “county resources” in making a stop instead of acknowledging use of ALPRs. In Houston, police officers are likewise instructed to “be as vague as permissible” about why they are using Flock because the searches they run on Flock’s surveillance system could be obtained via public records requests. There is growing public alarm about the threat to civil liberties posed by ALPR cameras and reports of police abusing the tech by using it to spy on their exes . Some cities have the cameras covered up , and others are cancelling their use of ALPR networks. Two states have recently stepped back from ALPRs. This trend is certainly not lost on law enforcement agencies. Hiding the fact…",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.eff.org/deeplinks/2026/09/cops-play-hide-and-seek-about-using-spy-tech-avoid-scrutiny-and-bad-pr",
-      "source": "Electronic Frontier Foundation",
-      "publisher": "Electronic Frontier Foundation",
-      "published": "2026-09-09T20:09:10Z",
-      "category": "Tech",
-      "region": "US",
-      "labels": [
-        "Tech",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 384,
-      "readingMinutes": 2,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://www.eff.org/files/banner_library/flock-dystopia-scene-1.png",
-      "imageAlt": "Flock cameras and surveillance cameras among barbed wire in a dystopian scene"
-    },
-    {
-      "id": "ea2f34bc0fdfbb9f",
-      "title": "Highest paid world leader to get $1m salary increase",
-      "summary": "Singapore's government says it will raise the annual salaries of its ministers and other office holders, including its prime minister who is the highest paid political leader in the world.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/videos/c9dw05egq1qo",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-09-08T18:51:58Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 30,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c1/live/46053520-abb6-11f1-aed2-8d6da8d75094.jpg"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 35
+      "items": 36
     },
     {
       "source": "BBC Politics",
@@ -5015,12 +5016,12 @@
     {
       "source": "DW",
       "ok": true,
-      "items": 137
+      "items": 136
     },
     {
       "source": "UN News",
-      "ok": true,
-      "items": 30
+      "ok": false,
+      "error": "not well-formed (invalid token): line 1, column 0"
     },
     {
       "source": "The Guardian China",
@@ -5090,7 +5091,7 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 79
+      "items": 80
     },
     {
       "source": "BBC Rugby Union",
