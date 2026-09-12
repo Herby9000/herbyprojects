@@ -1,0 +1,147 @@
+[
+  {
+    "title": "The Big Lebowski",
+    "image": "assets/posters/the-big-lebowski.jpg",
+    "bytes": 30169
+  },
+  {
+    "title": "Pretty in Pink",
+    "image": "assets/posters/pretty-in-pink.jpg",
+    "bytes": 33542
+  },
+  {
+    "title": "Portrait of a Lady on Fire",
+    "image": "assets/posters/portrait-of-a-lady-on-fire.jpg",
+    "bytes": 25528
+  },
+  {
+    "title": "Badlands",
+    "image": "assets/posters/badlands.jpg",
+    "bytes": 30048
+  },
+  {
+    "title": "The Truman Show",
+    "image": "assets/posters/the-truman-show.jpg",
+    "bytes": 40894
+  },
+  {
+    "title": "The Godfather",
+    "image": "assets/posters/the-godfather.jpg",
+    "bytes": 18997
+  },
+  {
+    "title": "Network",
+    "image": "assets/posters/network.jpg",
+    "bytes": 36188
+  },
+  {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "image": "assets/posters/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb.jpg",
+    "bytes": 29281
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "image": "assets/posters/it-s-a-wonderful-life.jpg",
+    "bytes": 33151
+  },
+  {
+    "title": "Casablanca",
+    "image": "assets/posters/casablanca.jpg",
+    "bytes": 29819
+  },
+  {
+    "title": "Amadeus",
+    "image": "assets/posters/amadeus.jpg",
+    "bytes": 35061
+  },
+  {
+    "title": "2001: A Space Odyssey",
+    "image": "assets/posters/2001-a-space-odyssey.jpg",
+    "bytes": 38754
+  },
+  {
+    "title": "The Third Man",
+    "image": "assets/posters/the-third-man.jpg",
+    "bytes": 44117
+  },
+  {
+    "title": "Chinatown",
+    "image": "assets/posters/chinatown.jpg",
+    "bytes": 28794
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "image": "assets/posters/one-flew-over-the-cuckoo-s-nest.jpg",
+    "bytes": 27639
+  },
+  {
+    "title": "Days of Heaven",
+    "image": "assets/posters/days-of-heaven.jpg",
+    "bytes": 28165
+  },
+  {
+    "title": "Capote",
+    "image": "assets/posters/capote.jpg",
+    "bytes": 20403
+  },
+  {
+    "title": "Zodiac",
+    "image": "assets/posters/zodiac.jpg",
+    "bytes": 16628
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "image": "assets/posters/the-silence-of-the-lambs.jpg",
+    "bytes": 24477
+  },
+  {
+    "title": "A History of Violence",
+    "image": "assets/posters/a-history-of-violence.jpg",
+    "bytes": 22487
+  },
+  {
+    "title": "The Talented Mr. Ripley",
+    "image": "assets/posters/the-talented-mr-ripley.jpg",
+    "bytes": 25896
+  },
+  {
+    "title": "Monster",
+    "image": "assets/posters/monster.jpg",
+    "bytes": 28086
+  },
+  {
+    "title": "No Country for Old Men",
+    "image": "assets/posters/no-country-for-old-men.jpg",
+    "bytes": 19735
+  },
+  {
+    "title": "Taxi Driver",
+    "image": "assets/posters/taxi-driver.jpg",
+    "bytes": 34296
+  },
+  {
+    "title": "American Psycho",
+    "image": "assets/posters/american-psycho.jpg",
+    "bytes": 19130
+  },
+  {
+    "title": "RoboCop",
+    "image": "assets/posters/robocop.jpg",
+    "bytes": 37369
+  },
+  {
+    "title": "Children of Men",
+    "image": "assets/posters/children-of-men.jpg",
+    "bytes": 10987
+  },
+  {
+    "title": "The Matrix",
+    "image": "assets/posters/the-matrix.jpg",
+    "bytes": 37565
+  },
+  {
+    "title": "Her",
+    "image": "assets/posters/her.jpg",
+    "bytes": 25468
+  }
+]

@@ -23,6 +23,7 @@ The apps may be personal, but the code is public. Private user data, credentials
 - [The Daily Seven](https://herby9000.github.io/herbyprojects/news/)
 - [Three Smiles](https://github.com/Herby9000/three-smiles)
 - [StickLab](https://github.com/Herby9000/sticklab)
+- [ARK Mobile Concept](https://herby9000.github.io/herbyprojects/projects/ark-mobile/)
 - [Next Rugby Match](https://github.com/Herby9000/rugby-next-match)
 - [Blue Jays Playoff Dashboard](https://github.com/Herby9000/blue-jays-playoff-dashboard)
 - [UNO Watch Display](https://github.com/Herby9000/uno-watch-display)

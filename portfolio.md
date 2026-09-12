@@ -15,6 +15,7 @@ Herby Projects collects practical personal software: family tools, concise news 
 - [UNO Watch Display](https://herby9000.github.io/uno-watch-display/) — a browser recreation of a one-hand, 24-hour watch display. [Source](https://github.com/Herby9000/uno-watch-display).
 - [After Dark Toronto](https://herby9000.github.io/toronto-entertainment/) — a rolling shortlist of Toronto concerts, comedy, and outings. [Source](https://github.com/Herby9000/toronto-entertainment).
 - [StickLab](https://herby9000.github.io/sticklab/) — a drum-pad trainer for rudiments, hand speed, and metronome practice. [Source](https://github.com/Herby9000/sticklab).
+- [ARK Mobile Concept](https://herby9000.github.io/herbyprojects/projects/ark-mobile/) — a cinematic mobile-first reimagining of ARK’s essential-movie catalogue with search, random discovery, and a saved shelf. [Source](https://github.com/Herby9000/herbyprojects/tree/main/projects/ark-mobile).
 
 ## Site index
 

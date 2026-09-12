@@ -1,0 +1,15 @@
+{
+  "name": "ARK — Essential Cinema",
+  "short_name": "ARK",
+  "description": "A mobile-first guide to essential cinema.",
+  "id": "/projects/ark-mobile/",
+  "start_url": "/projects/ark-mobile/",
+  "scope": "/projects/ark-mobile/",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "icons": [
+    {"src":"assets/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"assets/icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}

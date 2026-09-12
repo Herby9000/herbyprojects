@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#090909">
+  <meta name="description" content="ARK — a mobile-first guide to essential cinema.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon-180.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wdth,wght@75..100,400..700&family=Newsreader:opsz,wght@6..72,300..600&display=swap" rel="stylesheet">
+  <title>ARK — Essential Cinema</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <a class="skip" href="#catalogue">Skip to films</a>
+  <header class="topbar" id="topbar">
+    <button class="icon-button" id="menuButton" aria-label="Browse collections" aria-controls="collectionDrawer" aria-expanded="false">
+      <span></span><span></span>
+    </button>
+    <a class="wordmark" href="#top" aria-label="ARK home"><span>AR</span><i></i><span>K</span></a>
+    <button class="icon-button search-button" id="searchButton" aria-label="Search films">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4 4"></path></svg>
+    </button>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="heroTitle">
+      <img class="hero-image" src="assets/hero.webp" alt="Abstract film still in red and gold">
+      <div class="hero-shade"></div>
+      <div class="hero-copy">
+        <p class="eyebrow">Tonight on ARK</p>
+        <h1 id="heroTitle">Great films.<br><em>No algorithm.</em></h1>
+        <p class="hero-deck">A human map through the movies that stay with you.</p>
+        <div class="hero-actions">
+          <button class="primary-button" data-open="The Big Lebowski">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 7 8 5-8 5Z"></path></svg>
+            Start exploring
+          </button>
+          <button class="round-button" id="diceButton" aria-label="Pick a random film">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h3c5 0 5 10 10 10h3M17 4l3 3-3 3M4 17h3c1.7 0 2.8-1.1 3.8-2.6M15 8.5c.6-.9 1.2-1.5 2-1.5h3M17 14l3 3-3 3"></path></svg>
+          </button>
+        </div>
+      </div>
+      <div class="hero-index" aria-hidden="true"><span>001</span><span>CURATED IN NEW YORK</span></div>
+    </section>
+
+    <section class="quick-filter" aria-label="Quick filters">
+      <button class="chip is-active" data-filter="all">All</button>
+      <button class="chip" data-filter="tonight">Tonight</button>
+      <button class="chip" data-filter="essential">Essential</button>
+      <button class="chip" data-filter="mood">By mood</button>
+      <button class="chip" data-filter="director">Directors</button>
+      <button class="chip" data-filter="world">World cinema</button>
+    </section>
+
+    <section class="editorial-pick" data-section="tonight">
+      <div class="section-heading pick-heading">
+        <div><p class="kicker">The daily cut</p><h2>One film.<br>Chosen well.</h2></div>
+        <span class="issue">SAT / 12</span>
+      </div>
+      <button class="feature-card" data-open="The Big Lebowski" aria-label="Open The Big Lebowski">
+        <img src="assets/posters/the-big-lebowski.jpg" alt="The Big Lebowski poster">
+        <div class="feature-info">
+          <p class="micro">TONIGHT · COMEDY</p>
+          <h3>The Big<br>Lebowski</h3>
+          <span class="feature-link">Why this one <b>↗</b></span>
+        </div>
+      </button>
+    </section>
+
+    <div id="catalogue" class="catalogue"></div>
+
+    <section class="all-collections" data-section="discover">
+      <p class="kicker">There is more</p>
+      <h2>96 ways into<br>the movies.</h2>
+      <button class="outline-button" id="allCollectionsButton">Explore every collection <span>↗</span></button>
+    </section>
+  </main>
+
+  <nav class="bottom-nav" aria-label="Primary navigation">
+    <button class="nav-item is-active" data-view="home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 11.5 12 5l8 6.5V20h-5v-5H9v5H4Z"></path></svg><span>Home</span></button>
+    <button class="nav-item" data-view="discover"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"></circle><path d="m15 9-2 4-4 2 2-4Z"></path></svg><span>Discover</span></button>
+    <button class="nav-item" data-view="saved"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 4h12v17l-6-4-6 4Z"></path></svg><span>Saved</span></button>
+  </nav>
+
+  <div class="overlay" id="overlay" hidden></div>
+
+  <aside class="drawer" id="collectionDrawer" aria-label="Collections" aria-hidden="true">
+    <div class="drawer-head"><span>Browse ARK</span><button class="close-button" data-close aria-label="Close collections">×</button></div>
+    <div class="drawer-links">
+      <button data-drawer-view="home"><b>01</b>Movies</button>
+      <button data-drawer-view="discover"><b>02</b>Collections</button>
+      <button data-drawer-view="saved"><b>03</b>Saved</button>
+    </div>
+    <p class="drawer-note">A personal canon of essential movies, arranged by feeling—not by formula.</p>
+  </aside>
+
+  <section class="search-panel" id="searchPanel" aria-label="Search" aria-hidden="true">
+    <div class="search-head">
+      <label for="searchInput">Find a film</label>
+      <button class="close-button" data-close aria-label="Close search">×</button>
+    </div>
+    <div class="search-field"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4 4"></path></svg><input id="searchInput" type="search" autocomplete="off" placeholder="Title, mood, collection…"></div>
+    <div id="searchResults" class="search-results"><p>Try “future”, “criminal” or “love”.</p></div>
+  </section>
+
+  <section class="sheet" id="filmSheet" aria-label="Film details" aria-hidden="true">
+    <button class="sheet-close" data-close aria-label="Close film details">×</button>
+    <div id="sheetContent"></div>
+  </section>
+
+  <section class="sheet collection-sheet" id="collectionSheet" aria-label="All collections" aria-hidden="true">
+    <button class="sheet-close" data-close aria-label="Close collections">×</button>
+    <p class="kicker">The full index</p>
+    <h2>Every way in.</h2>
+    <div class="collection-cloud" id="collectionCloud"></div>
+  </section>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="assets/app.js"></script>
+</body>
+</html>
