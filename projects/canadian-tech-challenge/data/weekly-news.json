@@ -1,113 +1,153 @@
 {
   "schemaVersion": 1,
-  "editionDate": "2026-09-02",
-  "editionRange": "August 27–September 2, 2026",
-  "generatedAt": "2026-09-02T16:33:24Z",
+  "editionDate": "2026-09-16",
+  "editionRange": "September 8–16, 2026",
+  "generatedAt": "2026-09-16T16:32:32Z",
   "questionCount": 8,
   "questions": [
     {
-      "id": "2026-09-02-socan-suno-lawsuit",
-      "topic": "AI music copyright",
-      "company": "SOCAN and Suno",
-      "question": "SOCAN’s lawsuit accuses Suno of infringing on the rights of more than how many Canadian artists?",
-      "options": ["50", "100", "150", "500"],
-      "answer": 2,
-      "explanation": "SOCAN says Suno infringed on the rights of more than 150 Canadian artists without consent or proper compensation.",
-      "sourceUrl": "https://betakit.com/canadian-music-rights-organization-sues-ai-music-platform-suno/",
-      "sourceLabel": "BetaKit — SOCAN lawsuit against Suno",
-      "eventDate": "2026-09-02",
-      "asOf": "2026-09-02"
-    },
-    {
-      "id": "2026-09-02-metavista3d-financing",
-      "topic": "Spatial display technology",
-      "company": "Metavista3D",
-      "question": "How much financing did Vancouver-based Metavista3D secure to help commercialize its glasses-free 3D display technology?",
-      "options": ["$2 million", "$4 million", "$6 million", "$10 million"],
-      "answer": 2,
-      "explanation": "Metavista3D secured $6 million from Sorbie Bornholm and Sorbie Investments for commercialization, patents, and working capital.",
-      "sourceUrl": "https://techcouver.com/2026/09/02/metavista3d-commercialize-next-gen-visual-immersion-tech/",
-      "sourceLabel": "Techcouver — Metavista3D financing",
-      "eventDate": "2026-09-02",
-      "asOf": "2026-09-02"
-    },
-    {
-      "id": "2026-09-02-ubc-spin-off-milestone",
-      "topic": "Research commercialization",
-      "company": "University of British Columbia",
-      "question": "Which spin-off milestone did UBC reach after adding 15 new ventures in 2026?",
-      "options": ["Its 202nd spin-off", "Its 252nd spin-off", "Its 302nd spin-off", "Its 352nd spin-off"],
-      "answer": 2,
-      "explanation": "The 15-company cohort brought UBC to its 302nd spin-off company.",
-      "sourceUrl": "https://techcouver.com/2026/09/02/ubc-surpasses-300-spin-off-companies-with-latest-cohort/",
-      "sourceLabel": "Techcouver — UBC spin-off milestone",
-      "eventDate": "2026-09-02",
-      "asOf": "2026-09-02"
-    },
-    {
-      "id": "2026-09-02-era-innovation-investments",
-      "topic": "Clean technology investment",
-      "company": "Emissions Reduction Alberta",
-      "question": "How many Alberta innovation projects shared nearly $51 million in new ERA funding?",
-      "options": ["8", "12", "16", "24"],
-      "answer": 2,
-      "explanation": "Emissions Reduction Alberta committed just under $51 million to 16 projects intended to cut emissions and grow the economy.",
-      "sourceUrl": "https://betakit.com/emissions-reduction-alberta-doles-out-nearly-51-million-in-slew-of-innovation-investments/",
-      "sourceLabel": "BetaKit — ERA innovation investments",
-      "eventDate": "2026-09-01",
-      "asOf": "2026-09-02"
-    },
-    {
-      "id": "2026-09-02-sweet-rebrand",
-      "topic": "FinTech lending software",
-      "company": "Sweet Technologies",
-      "question": "What new name did agriculture-lending software company Landjourney adopt?",
-      "options": ["Harvest Finance", "Sweet Technologies", "FieldLedger", "Prairie Capital"],
+      "id": "2026-09-16-portage-ventures-iv",
+      "topic": "FinTech venture capital",
+      "company": "Portage",
+      "question": "Which funding stages will Portage Ventures IV target?",
+      "options": [
+        "Pre-seed only",
+        "Seed to Series C",
+        "Series D and later",
+        "Public markets only"
+      ],
       "answer": 1,
-      "explanation": "Landjourney rebranded as Sweet Technologies while raising capital to expand its SweetAg lending platform.",
-      "sourceUrl": "https://betakit.com/landjourney-rebrands-to-sweet-secures-7-4-million-usd-to-simplify-commercial-lending-beyond-agriculture/",
-      "sourceLabel": "BetaKit — Landjourney rebrands to Sweet",
-      "eventDate": "2026-09-01",
-      "asOf": "2026-09-02"
+      "explanation": "Portage said its approximately $600-million USD fourth fund will back FinTech founders from seed to Series C.",
+      "sourceUrl": "https://betakit.com/portage-closes-fourth-fintech-vc-fund-at-600-million-usd/",
+      "sourceLabel": "BetaKit — Portage Ventures IV close",
+      "eventDate": "2026-09-16",
+      "asOf": "2026-09-16"
     },
     {
-      "id": "2026-09-02-kobalt-partnerships",
-      "topic": "Cybersecurity partnerships",
-      "company": "Kobalt.io",
-      "question": "Which new Kobalt.io partner specializes in application and cloud security consulting?",
-      "options": ["Forward Security", "Johanson Group", "Insight Assurance", "Version One Ventures"],
+      "id": "2026-09-16-lawzero-sovereign-compute",
+      "topic": "AI safety infrastructure",
+      "company": "LawZero",
+      "question": "Which two Canadian data-centre providers will partner with LawZero on sovereign compute infrastructure?",
+      "options": [
+        "Hypertec and 5C",
+        "Bell and TELUS",
+        "OVHcloud and Cologix",
+        "eStruxture and QScale"
+      ],
       "answer": 0,
-      "explanation": "Forward Security is the application and cloud security consultancy in Kobalt.io’s newly announced partner group.",
-      "sourceUrl": "https://techcouver.com/2026/09/01/ground-shifting-kobalt-teamwork-ai-disrupts-cybersecurity/",
-      "sourceLabel": "Techcouver — Kobalt.io partnerships",
-      "eventDate": "2026-09-01",
-      "asOf": "2026-09-02"
+      "explanation": "LawZero plans to establish dedicated sovereign compute infrastructure in Canada through a partnership with Hypertec and 5C.",
+      "sourceUrl": "https://betakit.com/yoshua-bengios-lawzero-receives-300-million-backing-from-canada-and-germany-to-pursue-safer-ai-ambitions/",
+      "sourceLabel": "BetaKit — LawZero Canada-Germany backing",
+      "eventDate": "2026-09-16",
+      "asOf": "2026-09-16"
     },
     {
-      "id": "2026-09-02-meissner-superconductor-testing",
-      "topic": "Superconductor discovery",
-      "company": "Meissner",
-      "question": "Where does Toronto startup Meissner plan to test its top superconductor candidates?",
-      "options": ["TRIUMF", "McMaster Innovation Park", "University of Waterloo’s Quantum-Nano facility", "Canadian Light Source"],
+      "id": "2026-09-16-cohere-aleph-alpha-combination",
+      "topic": "Enterprise AI consolidation",
+      "company": "Cohere and Aleph Alpha",
+      "question": "Where will the combined Cohere and Aleph Alpha company be dual-headquartered?",
+      "options": [
+        "Toronto and Paris",
+        "Montréal and Munich",
+        "Toronto and Berlin",
+        "Vancouver and Heidelberg"
+      ],
       "answer": 2,
-      "explanation": "Meissner plans to test candidates at the University of Waterloo’s Quantum-Nano Fabrication and Characterization Facility.",
-      "sourceUrl": "https://betakit.com/bdc-other-xanadu-investors-back-meissners-discovery-engine-for-superconductors/",
-      "sourceLabel": "BetaKit — Meissner superconductor discovery",
-      "eventDate": "2026-09-01",
-      "asOf": "2026-09-02"
+      "explanation": "The combined company will retain the Cohere name and be dual-headquartered in Toronto and Berlin, subject to regulatory approvals.",
+      "sourceUrl": "https://betakit.com/cohere-reaches-terms-with-german-peer-aleph-alpha-to-take-on-ai-giants/",
+      "sourceLabel": "BetaKit — Cohere and Aleph Alpha agreement",
+      "eventDate": "2026-09-16",
+      "asOf": "2026-09-16"
     },
     {
-      "id": "2026-09-02-indro-talos-power",
-      "topic": "Autonomous defence robotics",
-      "company": "InDro Robotics",
-      "question": "According to InDro Robotics, how long could the Talos truck power a 50-bed field hospital?",
-      "options": ["Two days", "Five days", "Ten days", "Thirty days"],
+      "id": "2026-09-16-canada-rocket-r2-payload",
+      "topic": "Sovereign space launch",
+      "company": "Canada Rocket Company",
+      "question": "What payload capacity is Canada Rocket Company targeting for its medium-lift launch vehicle?",
+      "options": [
+        "1,000 kilograms",
+        "6,500 kilograms",
+        "12,000 kilograms",
+        "20,000 kilograms"
+      ],
       "answer": 2,
-      "explanation": "InDro CEO Philip Reece said Talos carries enough onboard power to run a 50-bed field hospital for 10 days.",
-      "sourceUrl": "https://betakit.com/how-indro-robotics-is-turning-a-giant-truck-into-a-mobile-autonomous-command-centre/",
-      "sourceLabel": "BetaKit — InDro Robotics Talos truck",
-      "eventDate": "2026-09-01",
-      "asOf": "2026-09-02"
+      "explanation": "Canada Rocket Company is targeting 12,000-kilogram payloads after moving directly to a medium-lift design.",
+      "sourceUrl": "https://betakit.com/canada-rocket-company-wants-to-build-a-sovereign-alternative-to-spacexs-falcon-9/",
+      "sourceLabel": "BetaKit — Canada Rocket Company launch plans",
+      "eventDate": "2026-09-16",
+      "asOf": "2026-09-16"
+    },
+    {
+      "id": "2026-09-16-bell-saskatchewan-ai-hub",
+      "topic": "AI data-centre infrastructure",
+      "company": "Bell",
+      "question": "How much new capacity could Bell's planned Saskatchewan AI hub expansion add?",
+      "options": [
+        "300 megawatts",
+        "600 megawatts",
+        "900 megawatts",
+        "1.2 gigawatts"
+      ],
+      "answer": 2,
+      "explanation": "Bell said the expansion could add up to 900 megawatts, taking the original 300-megawatt facility to 1.2 gigawatts.",
+      "sourceUrl": "https://mobilesyrup.com/2026/09/15/bell-saskatchewan-ai-hub-expansion/",
+      "sourceLabel": "MobileSyrup — Bell Saskatchewan AI hub expansion",
+      "eventDate": "2026-09-15",
+      "asOf": "2026-09-16"
+    },
+    {
+      "id": "2026-09-16-bdc-strongnorth-expansion",
+      "topic": "Defence technology investment",
+      "company": "Business Development Bank of Canada",
+      "question": "To what size did BDC increase its direct-investment StrongNorth Fund?",
+      "options": [
+        "$300 million",
+        "$400 million",
+        "$500 million",
+        "$1 billion"
+      ],
+      "answer": 2,
+      "explanation": "BDC increased the StrongNorth Fund from $300 million to $500 million as part of its Defence Platform deployment.",
+      "sourceUrl": "https://betakit.com/bdc-outlines-how-it-will-deploy-1-billion-from-its-defence-platform-into-funds-and-startups/",
+      "sourceLabel": "BetaKit — BDC Defence Platform deployment",
+      "eventDate": "2026-09-15",
+      "asOf": "2026-09-16"
+    },
+    {
+      "id": "2026-09-16-fcc-velocity-fund",
+      "topic": "Agri-food growth capital",
+      "company": "Farm Credit Canada and Velocity Agri-Capital Partners",
+      "question": "Which international region will the Velocity Agri-Capital Partners Fund help Canadian food and agriculture companies expand into?",
+      "options": [
+        "Southeast Asia",
+        "Northern Europe",
+        "South America",
+        "East Africa"
+      ],
+      "answer": 0,
+      "explanation": "The $500-million fund will back Canadian agriculture and food companies seeking to expand into Southeast Asia.",
+      "sourceUrl": "https://betakit.com/farm-credit-canada-invests-150-million-in-new-agri-food-fund-led-by-arlene-dickinson/",
+      "sourceLabel": "BetaKit — FCC investment in Velocity fund",
+      "eventDate": "2026-09-15",
+      "asOf": "2026-09-16"
+    },
+    {
+      "id": "2026-09-16-earthdaily-standing-offer",
+      "topic": "Government satellite imagery procurement",
+      "company": "EarthDaily Analytics",
+      "question": "What does EarthDaily's federal standing offer explicitly not guarantee?",
+      "options": [
+        "Future purchases by Ottawa",
+        "Pre-agreed pricing terms",
+        "Eligibility for departments to order imagery",
+        "A procurement framework"
+      ],
+      "answer": 0,
+      "explanation": "The standing offer pre-sets procurement terms but is not a contract or a guarantee that Ottawa will make future purchases.",
+      "sourceUrl": "https://techcouver.com/2026/09/15/earthdaily-clears-path-to-supply-satellite-imagery-to-ottawa/",
+      "sourceLabel": "Techcouver — EarthDaily federal standing offer",
+      "eventDate": "2026-09-15",
+      "asOf": "2026-09-16"
     }
   ]
 }
