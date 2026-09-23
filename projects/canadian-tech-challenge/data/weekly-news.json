@@ -1,153 +1,153 @@
 {
   "schemaVersion": 1,
-  "editionDate": "2026-09-16",
-  "editionRange": "September 8–16, 2026",
-  "generatedAt": "2026-09-16T16:32:32Z",
+  "editionDate": "2026-09-23",
+  "editionRange": "September 15–23, 2026",
+  "generatedAt": "2026-09-23T16:34:21Z",
   "questionCount": 8,
   "questions": [
     {
-      "id": "2026-09-16-portage-ventures-iv",
-      "topic": "FinTech venture capital",
-      "company": "Portage",
-      "question": "Which funding stages will Portage Ventures IV target?",
+      "id": "2026-09-23-bell-cohere-cybersecurity-model",
+      "topic": "Cybersecurity AI",
+      "company": "Bell and Cohere",
+      "question": "Where is Bell integrating its new cybersecurity-focused Cohere model?",
       "options": [
-        "Pre-seed only",
-        "Seed to Series C",
-        "Series D and later",
-        "Public markets only"
+        "Its Autonomous Security Operations Centre",
+        "Its consumer MyBell app",
+        "Its fibre network routing system",
+        "Its retail device-support portal"
+      ],
+      "answer": 0,
+      "explanation": "The domain-specific model is being integrated into Bell Cyber's Autonomous Security Operations Centre to support threat investigations.",
+      "sourceUrl": "https://mobilesyrup.com/2026/09/23/bell-cohere-canadian-cybersecurity-ai/",
+      "sourceLabel": "MobileSyrup — Bell and Cohere cybersecurity AI",
+      "eventDate": "2026-09-23",
+      "asOf": "2026-09-23"
+    },
+    {
+      "id": "2026-09-23-smartarm-palm-camera",
+      "topic": "AI-powered prosthetics",
+      "company": "SmartArm",
+      "question": "Where is the onboard camera for SmartArm's object-recognition system located?",
+      "options": [
+        "Inside the wrist joint",
+        "On the user's shoulder",
+        "In the palm",
+        "Above the elbow"
+      ],
+      "answer": 2,
+      "explanation": "A camera built into the palm streams video to Dexterity OS, which identifies objects and selects an appropriate grip.",
+      "sourceUrl": "https://mobilesyrup.com/2026/09/23/toronto-startup-smartarm-uses-meta-ai-glasses-to-help-see-objects/",
+      "sourceLabel": "MobileSyrup — SmartArm object-recognition system",
+      "eventDate": "2026-09-23",
+      "asOf": "2026-09-23"
+    },
+    {
+      "id": "2026-09-23-blair-health-pre-seed",
+      "topic": "Women's health technology",
+      "company": "Blair Health",
+      "question": "What stage was Blair Health's first institutional financing?",
+      "options": [
+        "Series A",
+        "Pre-seed",
+        "Series B",
+        "Growth equity"
       ],
       "answer": 1,
-      "explanation": "Portage said its approximately $600-million USD fourth fund will back FinTech founders from seed to Series C.",
-      "sourceUrl": "https://betakit.com/portage-closes-fourth-fintech-vc-fund-at-600-million-usd/",
-      "sourceLabel": "BetaKit — Portage Ventures IV close",
-      "eventDate": "2026-09-16",
-      "asOf": "2026-09-16"
+      "explanation": "Blair Health announced a $4.24-million CAD pre-seed round, its first institutional financing.",
+      "sourceUrl": "https://betakit.com/blair-health-secures-4-2-million-to-make-specialized-womens-care-more-accessible/",
+      "sourceLabel": "BetaKit — Blair Health pre-seed financing",
+      "eventDate": "2026-09-23",
+      "asOf": "2026-09-23"
     },
     {
-      "id": "2026-09-16-lawzero-sovereign-compute",
-      "topic": "AI safety infrastructure",
-      "company": "LawZero",
-      "question": "Which two Canadian data-centre providers will partner with LawZero on sovereign compute infrastructure?",
+      "id": "2026-09-23-td-layer6-cohere-collaboration",
+      "topic": "Enterprise AI adoption",
+      "company": "TD Layer 6 and Cohere",
+      "question": "Over what period will TD's initial AI investment of up to $25 million be made?",
       "options": [
-        "Hypertec and 5C",
-        "Bell and TELUS",
-        "OVHcloud and Cologix",
-        "eStruxture and QScale"
+        "One year",
+        "Two years",
+        "Three years",
+        "Five years"
+      ],
+      "answer": 2,
+      "explanation": "TD announced an initial investment of up to $25 million CAD over three years to support AI development and adoption through the collaboration.",
+      "sourceUrl": "https://betakit.com/tds-layer-6-and-cohere-embark-on-25-million-ai-collaboration/",
+      "sourceLabel": "BetaKit — TD Layer 6 and Cohere collaboration",
+      "eventDate": "2026-09-22",
+      "asOf": "2026-09-23"
+    },
+    {
+      "id": "2026-09-23-birdandbe-series-a",
+      "topic": "Reproductive health technology",
+      "company": "Bird&Be",
+      "question": "Which two investors co-led Bird&Be's $13-million USD Series A?",
+      "options": [
+        "BDC Thrive Fund and BFG Partners",
+        "BAM Ventures and Founder Collective",
+        "Rejuvenation Ventures and HSR Ventures",
+        "Accelia Capital and Garage Capital"
       ],
       "answer": 0,
-      "explanation": "LawZero plans to establish dedicated sovereign compute infrastructure in Canada through a partnership with Hypertec and 5C.",
-      "sourceUrl": "https://betakit.com/yoshua-bengios-lawzero-receives-300-million-backing-from-canada-and-germany-to-pursue-safer-ai-ambitions/",
-      "sourceLabel": "BetaKit — LawZero Canada-Germany backing",
-      "eventDate": "2026-09-16",
-      "asOf": "2026-09-16"
+      "explanation": "BDC's Thrive Fund and consumer-focused venture firm BFG Partners co-led Bird&Be's all-equity Series A.",
+      "sourceUrl": "https://betakit.com/birdbe-raises-13-million-usd-series-a-for-fertility-support-platform/",
+      "sourceLabel": "BetaKit — Bird&Be Series A",
+      "eventDate": "2026-09-22",
+      "asOf": "2026-09-23"
     },
     {
-      "id": "2026-09-16-cohere-aleph-alpha-combination",
-      "topic": "Enterprise AI consolidation",
-      "company": "Cohere and Aleph Alpha",
-      "question": "Where will the combined Cohere and Aleph Alpha company be dual-headquartered?",
+      "id": "2026-09-23-ualberta-regenerative-hub",
+      "topic": "Regenerative medicine",
+      "company": "University of Alberta",
+      "question": "How is the University of Alberta's new regenerative medicine hub primarily structured?",
       "options": [
-        "Toronto and Paris",
-        "Montréal and Munich",
-        "Toronto and Berlin",
-        "Vancouver and Heidelberg"
+        "As a physical manufacturing plant",
+        "As a hospital-only clinical unit",
+        "As a primarily virtual network",
+        "As an undergraduate degree program"
       ],
       "answer": 2,
-      "explanation": "The combined company will retain the Cohere name and be dual-headquartered in Toronto and Berlin, subject to regulatory approvals.",
-      "sourceUrl": "https://betakit.com/cohere-reaches-terms-with-german-peer-aleph-alpha-to-take-on-ai-giants/",
-      "sourceLabel": "BetaKit — Cohere and Aleph Alpha agreement",
-      "eventDate": "2026-09-16",
-      "asOf": "2026-09-16"
+      "explanation": "The hub is a primarily virtual network connecting biomedical researchers with clinicians, regulators, entrepreneurs, and other healthcare stakeholders.",
+      "sourceUrl": "https://betakit.com/university-of-alberta-launches-regenerative-medicine-hub-at-life-sciences-week/",
+      "sourceLabel": "BetaKit — University of Alberta regenerative medicine hub",
+      "eventDate": "2026-09-22",
+      "asOf": "2026-09-23"
     },
     {
-      "id": "2026-09-16-canada-rocket-r2-payload",
-      "topic": "Sovereign space launch",
-      "company": "Canada Rocket Company",
-      "question": "What payload capacity is Canada Rocket Company targeting for its medium-lift launch vehicle?",
+      "id": "2026-09-23-astrus-chip-design-ai",
+      "topic": "Semiconductor design automation",
+      "company": "Astrus",
+      "question": "Which AI approach does Astrus use for the physical design of integrated circuits?",
       "options": [
-        "1,000 kilograms",
-        "6,500 kilograms",
-        "12,000 kilograms",
-        "20,000 kilograms"
-      ],
-      "answer": 2,
-      "explanation": "Canada Rocket Company is targeting 12,000-kilogram payloads after moving directly to a medium-lift design.",
-      "sourceUrl": "https://betakit.com/canada-rocket-company-wants-to-build-a-sovereign-alternative-to-spacexs-falcon-9/",
-      "sourceLabel": "BetaKit — Canada Rocket Company launch plans",
-      "eventDate": "2026-09-16",
-      "asOf": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-bell-saskatchewan-ai-hub",
-      "topic": "AI data-centre infrastructure",
-      "company": "Bell",
-      "question": "How much new capacity could Bell's planned Saskatchewan AI hub expansion add?",
-      "options": [
-        "300 megawatts",
-        "600 megawatts",
-        "900 megawatts",
-        "1.2 gigawatts"
-      ],
-      "answer": 2,
-      "explanation": "Bell said the expansion could add up to 900 megawatts, taking the original 300-megawatt facility to 1.2 gigawatts.",
-      "sourceUrl": "https://mobilesyrup.com/2026/09/15/bell-saskatchewan-ai-hub-expansion/",
-      "sourceLabel": "MobileSyrup — Bell Saskatchewan AI hub expansion",
-      "eventDate": "2026-09-15",
-      "asOf": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-bdc-strongnorth-expansion",
-      "topic": "Defence technology investment",
-      "company": "Business Development Bank of Canada",
-      "question": "To what size did BDC increase its direct-investment StrongNorth Fund?",
-      "options": [
-        "$300 million",
-        "$400 million",
-        "$500 million",
-        "$1 billion"
-      ],
-      "answer": 2,
-      "explanation": "BDC increased the StrongNorth Fund from $300 million to $500 million as part of its Defence Platform deployment.",
-      "sourceUrl": "https://betakit.com/bdc-outlines-how-it-will-deploy-1-billion-from-its-defence-platform-into-funds-and-startups/",
-      "sourceLabel": "BetaKit — BDC Defence Platform deployment",
-      "eventDate": "2026-09-15",
-      "asOf": "2026-09-16"
-    },
-    {
-      "id": "2026-09-16-fcc-velocity-fund",
-      "topic": "Agri-food growth capital",
-      "company": "Farm Credit Canada and Velocity Agri-Capital Partners",
-      "question": "Which international region will the Velocity Agri-Capital Partners Fund help Canadian food and agriculture companies expand into?",
-      "options": [
-        "Southeast Asia",
-        "Northern Europe",
-        "South America",
-        "East Africa"
+        "Reinforcement learning",
+        "Federated learning",
+        "Optical character recognition",
+        "Speech synthesis"
       ],
       "answer": 0,
-      "explanation": "The $500-million fund will back Canadian agriculture and food companies seeking to expand into Southeast Asia.",
-      "sourceUrl": "https://betakit.com/farm-credit-canada-invests-150-million-in-new-agri-food-fund-led-by-arlene-dickinson/",
-      "sourceLabel": "BetaKit — FCC investment in Velocity fund",
-      "eventDate": "2026-09-15",
-      "asOf": "2026-09-16"
+      "explanation": "Astrus is developing a reinforcement-learning system to automate physical integrated-circuit design for analog designers.",
+      "sourceUrl": "https://betakit.com/with-new-funding-astrus-prepares-to-automate-one-of-the-biggest-bottlenecks-in-chip-design/",
+      "sourceLabel": "BetaKit — Astrus chip-design automation",
+      "eventDate": "2026-09-22",
+      "asOf": "2026-09-23"
     },
     {
-      "id": "2026-09-16-earthdaily-standing-offer",
-      "topic": "Government satellite imagery procurement",
-      "company": "EarthDaily Analytics",
-      "question": "What does EarthDaily's federal standing offer explicitly not guarantee?",
+      "id": "2026-09-23-heidi-toronto-headquarters",
+      "topic": "Clinical AI expansion",
+      "company": "Heidi",
+      "question": "How many additional Canadian jobs does Heidi expect to create as it establishes its Toronto headquarters?",
       "options": [
-        "Future purchases by Ottawa",
-        "Pre-agreed pricing terms",
-        "Eligibility for departments to order imagery",
-        "A procurement framework"
+        "17",
+        "30",
+        "47",
+        "75"
       ],
-      "answer": 0,
-      "explanation": "The standing offer pre-sets procurement terms but is not a contract or a guarantee that Ottawa will make future purchases.",
-      "sourceUrl": "https://techcouver.com/2026/09/15/earthdaily-clears-path-to-supply-satellite-imagery-to-ottawa/",
-      "sourceLabel": "Techcouver — EarthDaily federal standing offer",
-      "eventDate": "2026-09-15",
-      "asOf": "2026-09-16"
+      "answer": 1,
+      "explanation": "Heidi said it has already hired 17 employees in Canada and expects to add 30 jobs across engineering, clinical, and commercial teams.",
+      "sourceUrl": "https://betakit.com/heidi-invests-nearly-26-million-to-establish-toronto-as-north-american-headquarters/",
+      "sourceLabel": "BetaKit — Heidi Toronto headquarters investment",
+      "eventDate": "2026-09-22",
+      "asOf": "2026-09-23"
     }
   ]
 }
