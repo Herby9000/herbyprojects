@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-25T23:17:30.777849Z",
+  "generatedAt": "2026-09-26T04:55:21.519865Z",
   "topStoryIds": [
     "40604a1222b32213",
-    "53bf34224693c9e8",
+    "87b15a05ff8b7b38",
     "b3f633adf8a29209",
     "297f686c24ffbbe9",
+    "5a6e679719bb8c61",
     "ce9f0a2642d4274d",
-    "c4eb37a09e4f6f90",
     "7b528b92b54da7af"
   ],
   "sectionStoryIds": {
@@ -20,8 +20,8 @@
       "4140f38aa8da02bd"
     ],
     "Tech": [
-      "53bf34224693c9e8",
-      "c4eb37a09e4f6f90",
+      "87b15a05ff8b7b38",
+      "5a6e679719bb8c61",
       "7b528b92b54da7af",
       "98eec9965a33349e",
       "af3e7eca137ac5a6",
@@ -33,18 +33,18 @@
       "b3f633adf8a29209"
     ],
     "Sports": [
+      "c974f3a6aa6e35c9",
       "65f11ee6b238a7f4",
       "2431af0d98f1c620",
-      "06c517776a20de8b",
-      "e362f3afa8879691",
-      "5aa54d199ebc2148",
       "c52e1833378b0209",
       "ba2a6f580ff5d342",
       "bd91c3205c213884",
       "53db666d274bce9d",
       "3eaa15c65eab4b68",
       "53898a855a139df5",
-      "f7493174e62c6100"
+      "f7493174e62c6100",
+      "8eb590fd271fe67b",
+      "d5135289f960d7c5"
     ],
     "Editorial": [
       "511df708f953113c",
@@ -87,30 +87,30 @@
       "imageHeight": 630
     },
     {
-      "id": "53bf34224693c9e8",
-      "title": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
-      "summary": "The new LFP battery charges from 10 to 70% in 4.5 minutes at just 65˚C.",
+      "id": "87b15a05ff8b7b38",
+      "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
+      "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
+      "url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
       "source": "Ars Technica",
       "publisher": "Ars Technica",
-      "published": "2026-09-25T15:21:55Z",
+      "published": "2026-09-25T23:00:26Z",
       "category": "Tech",
-      "region": "China",
+      "region": "US",
       "labels": [
         "Tech",
-        "China"
+        "US"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 645,
-      "readingMinutes": 3,
+      "wordCount": 1102,
+      "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Geely-robot-charger-1152x648.jpg",
-      "body": "The new LFP battery charges from 10 to 70% in 4.5 minutes at just 65˚C.\n\nHype merchants have a habit of overdoing it , but there’s no denying that China is making the US look more than a little antiquated when it comes to electric vehicles. Some of that is due to a deep integration of connected services and an extension of the car as part of the owner’s digital life—think additional infotainment screens and AI personal assistants, but with an Android phone-maker’s cadence of updates rather than that of a traditional car company. Other advances sound more appealing. China’s OEMs are in a battle over who can charge the fastest, and this week, Geely fired its latest salvo.\n\nChina might have a much younger driving culture than North America or Europe, but it has still been long enough to condition those drivers to how long it takes to fill a tank of gas. For all their many improvements over internal combustion engine vehicles—far greater efficiency, instant torque, very little NVH, more reliabiity, and so on—EVs do still take longer to recharge than it takes to refuel a car with a liquid.\n\nAt least until now, it seems.\n\nGeely’s new battery can charge at up to 2.2 MW and will recharge from 10 to 70 percent in 4.5 minutes. A 10–98 percent charge takes 8 minutes and 40 seconds. Predictive thermal management is done through AI, with an average pack temperature of 55˚C and a peak temperature during charging of 65˚C, Geely said.\n\nAnd while you might think pumping large amounts of energy into a battery quickly and repeatedly could harm its health, Geely says that, using AI, the system applies micro pulses of current to “reactivate lithium ions accumulated at the negative electrodes during repeated fast charging,” extending battery life by 20 percent. The pack has been tested in both the Zeekr 001 and Lynk and Co 10—maybe we’ll see a Volvo or Lotus use the same tech someday.\n\nThe numbers eclipse those from BYD, which debuted a new product in March that can charge from 10 to 70 percent in 5 minutes and 10 to 97 percent in 9 minutes. But CATL still looks like it’s on top; in April, it announced an LFP battery that can charge from 10 to 80 percent in 3 minutes 44 seconds, or from 10 to 98 percent in 6 minutes and 27 seconds.\n\nIn the US, the most powerful car chargers deliver a modest fraction of those megawatt outputs. All but the newest Tesla Superchargers top out at 250 kW and 400 V; in the 800 V world, Electrify America maxes out at 350 KW , IONNA’s new machines are rated for 400 kW , and ChargePoint has a 600 kW charger on the market.\n\nMeanwhile, our electric vehicles lag in their charging speeds. Hyundai and Kia’s popular range of 800 V EVs (including the Ioniq 5 and EV6) will actually max out around 240 kW on an 800 V DC fast charger, and Porsche’s Taycan will only accept up to 320 kW, not all 350. The latest wave of 800 V German EVs like the BMW iX3 and Porsche Cayenne are now arriving with 400 kW DC charging capabilities.\n\nMegawatt charging in the US is still the preserve of heavy-duty EVs—buses, semis, and the like; ChargePoint told Ars recently that “if you take two Express solos [its new 600 KW charger] and join them with a common DC bus, you now can deliver 1.2 megawatts through one port,” said ChargePoint CEO Rick Wilmer.\n\n“Now, obviously, a NACS connector or a CCS1 connector won’t handle that much power, but an MCS connector will. So that’s all part of the roadmap for the Express architecture, with the Solo being the first product off that architecture,” he said.",
-      "imageWidth": 1152,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-1024x648.jpg",
+      "body": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.\n\nHeidi Overton , President Trump’s nominee to lead the Food and Drug Administration, went before the Senate health committee Thursday, facing questions about her stances on vaccines, flavored vapes, birth control, and abortion, among other issues. She spent nearly two hours stonewalling senators, even on softball questions.\n\nOverton, a physician with a doctoral degree in clinical investigation, is currently the deputy assistant to the president for domestic policy. She previously worked at a conservative think tank and has taken a clear stance opposing abortion , raising obvious questions about her objectivity. The FDA is currently reviewing the safety of the abortion pill, mifepristone, despite extensive data showing it is extremely safe.\n\nOverton also notably stood behind President Trump at a press conference in August during which Trump falsely called the measles, mumps, and rubella (MMR) vaccine “ quite lethal .” He further claimed that vaccine doses for infants are “like the size of a soda bottle,” and called for the MMR vaccine to be split into three separate immunizations, despite no evidence of benefit from such a split and no such individual immunizations being available in the US.\n\nVaccine contradictions\n\nIn the hearing, Overton directly contradicted Trump on several occasions, saying at various times that “the MMR vaccine is not lethal” and that “the MMR vaccine is safe and effective.”\n\nStill, when Sen. Maggie Hassan (D-NH), asked “Do you think it’s possible for the president to ever be wrong about something?” Overton dodged. Instead of answering the question, she began spouting a non-answer that started with: “I’ve had the privilege of working for the president for over a year and a half and have had robust discussions with him.”\n\nHassan cut her off, pressing: “Is it possible for him to be wrong?” But again, Overton was evasive.\n\nHassan asked her if she thought the MMR vaccine might be lethal. Again, Overton said it was safe and effective. “So,” Hassan asked,\"was the president wrong when he suggested that the combined measles, mumps, and rubella vaccine may be lethal?”\n\n“Senator, the president asks questions and wants the best outcomes for the American people right now.”\n\nHassan kept pressing, switching to Trump’s false claim that Tylenol taken during pregnancy is linked to autism in children. “Was he wrong when he said that? Yes or no?” Again, Overton didn’t answer, only saying “There is no current evidence of a causal link between Tylenol and autism.”\n\n“I wish it wasn’t so difficult for members of the administration to just plainly say that the president’s wrong,” Hassan said. “And it’s really concerning to me that you are equivocating on it here.”\n\nBad options\n\nSen. Lisa Blunt-Rochester (D-Del.) also asked about the vaccine claims Trump made in August, noting that reports suggested it was Overton herself who suggested to Trump that the combination vaccine could be split into multiple shots. Even if there was reason to think splitting the vaccine would improve safety and/or efficacy, it would take huge investments and years of trials to get the individual vaccines approved in the US.\n\n“So obviously,” Blunt-Rochester asked, “you think these were good options, correct?”\n\nOverton replied that, in her current role, her job is to give Trump options.\n\n“You wouldn’t have provided bad options, right?”\n\nBut Overton again wouldn’t answer Blunt-Rochester’s question. “This is just a simple question,” Blunt-Rochester interjected. “This, I thought, was the easy question.” Blunt-Rochester went on to ask Overton if she reviewed data about splitting the MMR vaccine or if current doses were the size of a soda bottle, but again she dodged the questions.\n\nFlavored vapes\n\nThe FDA has been without a commissioner since May, when Marty Makary resigned from the role after resisting Trump’s pressure to approve flavored vapes. The FDA issued a policy allowing their sale in early May, despite bipartisan opposition to the products, which are largely seen at being marketed to youth.\n\nSen. Chris Murphy (D-Conn.) laid out a timeline of how it happened, saying:\n\nOn April 30th, it’s a Thursday afternoon, Reynolds, one of the biggest tobacco companies in the country, makes an $8 million donation to the president. Two days later on Saturday, because of that donation, they have lunch with the president and they tell him that they want a change in FDA rules, especially regarding flavored vapes. The president calls the FDA commissioner, he calls the secretary of [the health department], and three days later on Tuesday, new guidance is issued that paves the way to the sale of flavored vapes.\n\nMurphy asked Overton if she saw a connection between the donation and the policy change, and if that’s how she thinks the FDA should work. “I reject the framing of that question,” Overton replied, adding that Trump is “committed to the best possible outcomes for American.”\n\nSen. Tim Kaine (D-Va) pushed Overton on upcoming plans that the Trump administration has to further ease regulation of tobacco products, including fruity vapes. Kaine asked what Overton, a key domestic policy advisor, knew about the upcoming changes. But Overton would only say that she was “not involved in those discussions.”\n\n“Dr. Overton, now come on, don’t play games with me,” Kaine said. “I didn’t ask whether you were involved in them. I asked, are you aware … are you aware of discussions that is going on about whether the FDA will roll back tobacco safety regulations? And that’s an easy [question]. You’re either aware of them or you’re not.”\n\nAfter again declining to answer the question, Kaine gave up, saying “Let the record reflect that the witness refused to answer the question. I yield.”\n\n“Pretty good job”\n\nOn the topic of birth control and abortion, Overton was equally evasive, refusing to say whether she thinks IUDs (intrauterine devices) are a form of abortion or whether women are polluting the water supply by taking birth control pills—both things anti-abortion groups claim.\n\nEven for friendly questions, Overton refused to answer things directly. Sen. Ashley Moody (R-Fla.) asked about illegal, imported vapes, something Overton mentioned wanting to crack down on in her opening statement. Moody asked a softball question, simply getting Overton to confirm the FDA’s current rules for vaping products, which allow products to be sold while applications for FDA approvals are pending.\n\n“If someone files an application, they can sell, right?” Moody asked multiple times.\n\nBut Overton didn’t answer the question and Moody became frustrated, exclaiming at one point: “I’m just trying to find out what the law is!”\n\nHalfway through the hearing, Murphy summed it up succinctly, telling Overton: “You’ve done a pretty good job of avoiding answering questions.”",
+      "imageWidth": 1024,
       "imageHeight": 648
     },
     {
@@ -131,12 +131,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1182,
+      "wordCount": 1179,
       "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/602f/live/4a515750-b8a7-11f1-a430-4d16ee157c41.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: The world’s two most powerful men just met. How did it go?\n\nPublished 25 September 2026, 06:42 BST\n\nUS President Donald Trump and China's President Xi Jinping exchanged warm words at a lavish White House state dinner but gave little indication of progress on pressing issues.\n\nXi stressed that they should ensure AI remain \"under human control\" and act \"as responsible major countries\", while Trump toasted a future of \"harmony, peace and success\" for both nations.\n\nBut tensions remain despite the diplomatic niceties, including over Taiwan - with Xi urging Trump earlier in the day to take the \"correct position\" on the self-governing island which Beijing claims, amid a weapons package paused by Trump.\n\nBillionaire business leaders and US tech CEOs joined the leaders at the extravagant dinner late on Thursday.\n\nTheir arrival was marked by protesters shouting from just outside the White House gates, some of whom were arrested.\n\nTrump lavished praise on Xi during his first visit to the US in over a decade, telling those attending the dinner that while the two countries had \"different systems\", they had \"never gotten along better\".\n\nXi meanwhile welcomed the \"historic juncture\" in US-China relations - and said both leaders' ambitions could \"surely be mutually reinforcing\".\n\n\"China and the United States must act as responsible major countries to meet the expectations of our peoples, keep pace with the trend of our times, and explore a new approach for major countries to get along with each other,\" he said.\n\nWhile Xi said he and Trump had shared \"in-depth exchanges and reached common understanding on many issues\", little mention was made of the crucial matters which divide the leaders of the world's two most powerful countries.\n\nChina believes the US is trying to contain its rise as a superpower, and it wants Washington to stay out of its way - particularly when it comes to trade, technology and Taiwan.\n\nTrump has meanwhile been expected to aim for deals around trade and tariffs during the visit – like lowering Chinese tariffs on American goods, increasing imports of Chinese rare earth minerals, and increasing exports of US agricultural products.\n\nBack at the White House after the dinner on Friday morning, Xi said he believed he and Trump were \"charting the course for the great shift of China-US relations\".\n\nHe also confirmed that the two men would meet two more times by year's end, at the end of the Asia-Pacific Economic Cooperation, or Apec, leaders' meeting in Shenzhen, China in November and again at the G20 held in Florida in November.\n\nXi thanked his hosts for receiving him and his wife with \"meticulous care and consideration\"\n\nTrump has been blunt about his ambitions for artificial intelligence (AI) - and clear that he considers China to be the US's main rival for its development.\n\nBut beyond Xi's reference to AI remaining under \"human control\", little indication was given of what progress the two leaders may have made on the issue during their talks.\n\nThe dinner also came just hours after Chinese state media reported Xi had, behind closed doors, advised Washington to handle \"with prudence\" its approach to Taiwan. Washington is yet to comment publicly on the remarks.\n\nThe US is legally bound to provide Taiwan with the means to defend itself, but Trump delayed approving a $14bn (£11bn) arms package for it after Xi in May warned that mishandling the issue could cause the two countries to \"collide or even enter into conflict\".\n\nAt the time, Trump called it a \"very good negotiating chip\" with Beijing.\n\nXi visit to Washington all pomp but little progress so far Published 1 day ago\n\nTrump and Xi come face-to-face as US and China battle to win the AI race Published 2 days ago\n\nXi got Trump's red carpet welcome - but not everything he wanted Published 19 hours ago\n\nThe evening marked a continuation of the lavish welcome Xi has so far received in the US.\n\nTrump presented the Chinese president with a sculpture of a bald eagle - America's national symbol - saying it embodied \"the free and soaring spirit of America\". First Lady Melania had participated in its design, Trump added.\n\nOthers in attendance included key White House figures, such as Defence Secretary Pete Hegseth, chief of staff Monica Crowley, and Trump's son-in-law Jared Kushner.\n\nThey were joined by scores of US officials, as well as conservative broadcasters, tech industry bosses, social media CEOs and corporate executives.\n\nApple's Tim Cook and Nvidia's Jensen Huang were seated at the same table as Trump and Xi, as was Elon Musk, who previously worked in Trump's administration leading the effort to shrink government.\n\nOpenAI's Sam Altman, Google's Sundar Pichai, and Amazon's Jeff Bezos were also present, as were Mark Zuckerberg and Jeff Yass, the American billionaire who owns a share of TikTok.\n\nMusk was seen mingling with guests, alongside US Secretary of State Marco Rubio\n\nThe leaders of companies including General Motors, Visa, Paramount Skydance and ExxonMobil could also be seen in the room.\n\n\"Everybody wanted to be there,\" Trump said ahead of the event. \"I would say you have the entire tech world, the entire banking world, and a lot more.\"\n\nOne notable absence was Anthropic - one of the biggest and most valuable AI firms in the world. The BBC has asked Anthropic if it was invited, or if they chose not to be there.\n\nBusiness leaders and tech bosses were among those in attendance\n\nThe office of the First Lady Melania Trump, which planned the event, said the dinner menu would showcase \"American ingredients with subtle Chinese influence\".\n\nThe first course was yellow squash, wild mushrooms and crispy pancetta. The guests ate off red tablecloths - red being a symbol of luck and good fortune in China.\n\nFor their main course they dined on a sesame-crusted sea bass, braised bok choy and roasted eggplant.\n\nDessert featured the two leaders and their fellow diners tucking into vanilla crémeux with sour cherry confit, with an accompanying ice cream \"made with harvested White House honey\".\n\nThe wine chosen by the first lady included Schramsberg Blanc De Noir - a nod to President Nixon's 1972 \"Toast to Peace\" with former Chinese Premier Zhou Enlai, when they used a bottle from the same vineyard.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: Trump puts on a warm reception for Xi in Washington\n\nTrump and Xi began the final day of their visit on Friday with tea at the White House's Red Room with their wives.\n\nThe group then headed to the US National Archives for a tour of the building and its exhibits.\n\nFormally called the National Archives and Records Administration, the building holds some of the most important documents regarding the founding of the United States - including the US Constitution, the Declaration of Independence and the Bill of Rights.\n\nXi and his wife are expected to depart Washington later in the day.\n\nRelated topics\n\nChina-US relations\n\nXi Jinping\n\nChina\n\nDonald Trump\n\nUnited States",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: The world’s two most powerful men just met. How did it go?\n\nPublished 25 September 2026\n\nUS President Donald Trump and China's President Xi Jinping exchanged warm words at a lavish White House state dinner but gave little indication of progress on pressing issues.\n\nXi stressed that they should ensure AI remain \"under human control\" and act \"as responsible major countries\", while Trump toasted a future of \"harmony, peace and success\" for both nations.\n\nBut tensions remain despite the diplomatic niceties, including over Taiwan - with Xi urging Trump earlier in the day to take the \"correct position\" on the self-governing island which Beijing claims, amid a weapons package paused by Trump.\n\nBillionaire business leaders and US tech CEOs joined the leaders at the extravagant dinner late on Thursday.\n\nTheir arrival was marked by protesters shouting from just outside the White House gates, some of whom were arrested.\n\nTrump lavished praise on Xi during his first visit to the US in over a decade, telling those attending the dinner that while the two countries had \"different systems\", they had \"never gotten along better\".\n\nXi meanwhile welcomed the \"historic juncture\" in US-China relations - and said both leaders' ambitions could \"surely be mutually reinforcing\".\n\n\"China and the United States must act as responsible major countries to meet the expectations of our peoples, keep pace with the trend of our times, and explore a new approach for major countries to get along with each other,\" he said.\n\nWhile Xi said he and Trump had shared \"in-depth exchanges and reached common understanding on many issues\", little mention was made of the crucial matters which divide the leaders of the world's two most powerful countries.\n\nChina believes the US is trying to contain its rise as a superpower, and it wants Washington to stay out of its way - particularly when it comes to trade, technology and Taiwan.\n\nTrump has meanwhile been expected to aim for deals around trade and tariffs during the visit – like lowering Chinese tariffs on American goods, increasing imports of Chinese rare earth minerals, and increasing exports of US agricultural products.\n\nBack at the White House after the dinner on Friday morning, Xi said he believed he and Trump were \"charting the course for the great shift of China-US relations\".\n\nHe also confirmed that the two men would meet two more times by year's end, at the end of the Asia-Pacific Economic Cooperation, or Apec, leaders' meeting in Shenzhen, China in November and again at the G20 held in Florida in November.\n\nXi thanked his hosts for receiving him and his wife with \"meticulous care and consideration\"\n\nTrump has been blunt about his ambitions for artificial intelligence (AI) - and clear that he considers China to be the US's main rival for its development.\n\nBut beyond Xi's reference to AI remaining under \"human control\", little indication was given of what progress the two leaders may have made on the issue during their talks.\n\nThe dinner also came just hours after Chinese state media reported Xi had, behind closed doors, advised Washington to handle \"with prudence\" its approach to Taiwan. Washington is yet to comment publicly on the remarks.\n\nThe US is legally bound to provide Taiwan with the means to defend itself, but Trump delayed approving a $14bn (£11bn) arms package for it after Xi in May warned that mishandling the issue could cause the two countries to \"collide or even enter into conflict\".\n\nAt the time, Trump called it a \"very good negotiating chip\" with Beijing.\n\nXi visit to Washington all pomp but little progress so far Published 1 day ago\n\nTrump and Xi come face-to-face as US and China battle to win the AI race Published 2 days ago\n\nXi got Trump's red carpet welcome - but not everything he wanted Published 1 day ago\n\nThe evening marked a continuation of the lavish welcome Xi has so far received in the US.\n\nTrump presented the Chinese president with a sculpture of a bald eagle - America's national symbol - saying it embodied \"the free and soaring spirit of America\". First Lady Melania had participated in its design, Trump added.\n\nOthers in attendance included key White House figures, such as Defence Secretary Pete Hegseth, chief of staff Monica Crowley, and Trump's son-in-law Jared Kushner.\n\nThey were joined by scores of US officials, as well as conservative broadcasters, tech industry bosses, social media CEOs and corporate executives.\n\nApple's Tim Cook and Nvidia's Jensen Huang were seated at the same table as Trump and Xi, as was Elon Musk, who previously worked in Trump's administration leading the effort to shrink government.\n\nOpenAI's Sam Altman, Google's Sundar Pichai, and Amazon's Jeff Bezos were also present, as were Mark Zuckerberg and Jeff Yass, the American billionaire who owns a share of TikTok.\n\nMusk was seen mingling with guests, alongside US Secretary of State Marco Rubio\n\nThe leaders of companies including General Motors, Visa, Paramount Skydance and ExxonMobil could also be seen in the room.\n\n\"Everybody wanted to be there,\" Trump said ahead of the event. \"I would say you have the entire tech world, the entire banking world, and a lot more.\"\n\nOne notable absence was Anthropic - one of the biggest and most valuable AI firms in the world. The BBC has asked Anthropic if it was invited, or if they chose not to be there.\n\nBusiness leaders and tech bosses were among those in attendance\n\nThe office of the First Lady Melania Trump, which planned the event, said the dinner menu would showcase \"American ingredients with subtle Chinese influence\".\n\nThe first course was yellow squash, wild mushrooms and crispy pancetta. The guests ate off red tablecloths - red being a symbol of luck and good fortune in China.\n\nFor their main course they dined on a sesame-crusted sea bass, braised bok choy and roasted eggplant.\n\nDessert featured the two leaders and their fellow diners tucking into vanilla crémeux with sour cherry confit, with an accompanying ice cream \"made with harvested White House honey\".\n\nThe wine chosen by the first lady included Schramsberg Blanc De Noir - a nod to President Nixon's 1972 \"Toast to Peace\" with former Chinese Premier Zhou Enlai, when they used a bottle from the same vineyard.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: Trump puts on a warm reception for Xi in Washington\n\nTrump and Xi began the final day of their visit on Friday with tea at the White House's Red Room with their wives.\n\nThe group then headed to the US National Archives for a tour of the building and its exhibits.\n\nFormally called the National Archives and Records Administration, the building holds some of the most important documents regarding the founding of the United States - including the US Constitution, the Declaration of Independence and the Bill of Rights.\n\nXi and his wife are expected to depart Washington later in the day.\n\nRelated topics\n\nChina-US relations\n\nXi Jinping\n\nChina\n\nDonald Trump\n\nUnited States",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -168,6 +168,33 @@
       "imageHeight": 630
     },
     {
+      "id": "5a6e679719bb8c61",
+      "title": "Court rules Trump can blacklist Anthropic for refusing to enable Claude features",
+      "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-09-25T21:36:20Z",
+      "category": "Tech",
+      "region": "US",
+      "labels": [
+        "Tech",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 1113,
+      "readingMinutes": 6,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+      "body": "“Overly constrained AI models” could cause military operations to fail, judges say.\n\nA US appeals court today approved the Trump administration’s blacklisting of Anthropic technology. Judges decided the US had authority to blacklist Anthropic for withholding certain AI features even if Anthropic had no malicious intent.\n\nIn a 2-1 ruling issued by the US Court of Appeals for the District of Columbia Circuit, a panel of judges said the “case raises profoundly difficult questions about the appropriate military uses of an almost unimaginably powerful new technology.” The US “raises the deeply sobering prospect of overly constrained AI models shutting down unexpectedly and thus causing important military operations to fail. Anthropic raises the deeply sobering prospect of unconstrained AI models hallucinating inappropriate targets for lethal military force,” the ruling said.\n\nTrump and Defense Secretary Pete Hegseth “must determine how best to balance the competing risks,” the court said. “In doing so here, the Secretary did not transgress any limits on his authority under the Supply Chain Security Act or the Constitution. Accordingly, we deny the petitions for review.” The same court previously denied Anthropic’s emergency motion for a stay in April.\n\nThe two judges who ruled against Anthropic were both appointed by Trump and served in the first Trump administration. Judge Gregory Katsas was previously deputy counsel to the president, and Judge Neomi Rao served in the Trump administration’s Office of Management and Budget.\n\nTwo courts, two different decisions\n\nAnthropic sued the Trump administration in March after Trump and Hegseth ordered federal agencies to stop using Anthropic’s products and banned defense contractors from doing any business with Anthropic. Anthropic may appeal today’s ruling, either by asking for an en banc review with all of the appeals court judges or by petitioning the Supreme Court.\n\n“We respectfully disagree with the court’s decision,” an Anthropic spokesperson told CNBC . “Another federal court has already held the government’s parallel designation unlawful. We remain confident in our position and are considering all options, including further review.” Despite the ongoing legal battle, Commerce Secretary Howard Lutnick recently said the Trump administration and Anthropic have patched up their relationship and are “in tune.”\n\nTwo courts have been reviewing the US blacklisting of Anthropic. A judge in US District Court for the Northern District of California ruled last month that the action was illegal because Anthropic does not meet the definition of a supply-chain risk, which is limited to “the risk that an adversary may sabotage, maliciously introduce unwanted function, or otherwise subvert… a covered system.”\n\nToday’s ruling from the DC Circuit did not dispute the district court’s primary finding. But it said the district court was tasked with reviewing whether the decision was allowed under one law while the appeals court has exclusive jurisdiction to review the decision under a different, more permissive grant of authority.\n\nThe district court decision found a violation of 10 U.S.C. § 3252, in which supply chain risks are limited to malicious actions by adversaries. The appeals court reviewed the blacklisting under 41 U.S.C. § 4713, which doesn’t have the same restrictions. Notably, Congress gave the DC Circuit appeals court exclusive jurisdiction to review procurement actions taken under Section 4713 designations.\n\nBad motive not required\n\nToday’s ruling said:\n\nWe have no quarrel with the Northern District’s conclusion that use of the critical noun adversary , combined with the sinister connotation fairly pervading the string of sabotage , maliciously introduce , and otherwise subvert , indicate that bad motive is required to support a designation under section 3252. Likewise, we have no quarrel with the Northern District’s conclusion that Anthropic has acted with no such bad motive in its dealings with the Department. But as explained at length above, no such bad motive is required to support a designation under the much broader definition set forth in section 4713.\n\nThe US designated Anthropic as a supply chain risk under both 3252 and 4713. The latter statute defines “supply chain risk” as “the risk that any person may sabotage, maliciously introduce unwanted function, extract data, or otherwise manipulate the design, integrity, manufacturing, production, distribution, installation, operation, maintenance, disposition, or retirement” of covered technology products “so as to surveil, deny, disrupt, or otherwise manipulate the function, use, or operation of” those products or the information stored or transmitted on them, the court said.\n\nThe use of “any person” shows that the definition is not limited to adversaries or foreign entities, the court said. The court also pointed to the word “deny,” which it said applies to Anthropic preventing the US from using certain Claude features.\n\n“In sum, we conclude that the Secretary’s concern about Anthropic disabling Claude from performing lawful actions requested by the Department qualifies as a ‘supply chain risk’ within the meaning of section 4713,” the court majority said. It also said “the Department reasonably feared that Anthropic might manipulate Claude’s design to prevent it from performing national-security functions that the Department deems contractually authorized and necessary.”\n\nJudge’s dissent\n\nThe dissenting vote was cast by Judge Karen Henderson, a George H.W. Bush appointee. Henderson disputed the majority’s reading of the definition in 4713, saying that when “viewed in their statutory context, the verbs at issue are all directed at deliberately impeding or eavesdropping on the ‘function, use, or operation’ of a covered article that has entered the federal supply chain.”\n\nCongress “enacted the statute in response to calls from the US intelligence community for legislation to meet the threat of ‘[h]ostile nation state and other bad actors’ infiltrating the federal government’s information and technology systems through its supply chains,” Henderson wrote. She said the definition should not be interpreted to cover “a contractor’s honest and upfront enforcement of restrictions on a covered article’s use disfavored by the government.”\n\nAnthropic alleged, and the district court judge in California agreed, that the Trump administration illegally retaliated against the company after it refused to drop restrictions on the use of its products for lethal autonomous warfare and mass surveillance of Americans.\n\nThe appeals court said that Anthropic “encodes restrictions into Claude that prevent the model from performing tasks that Anthropic wishes to prevent. On more than one occasion, these restrictions have stopped Claude from performing tasks requested by government users. And recently, a dispute arose over whether the contractual prohibitions barred the use of Claude in an ongoing overseas military operation, leaving the Department uncertain whether Claude would perform as needed and intended.”\n\nThe case in the Northern District of California was presided over by Judge Rita Lin, a Biden appointee. Lin determined that the blacklisting violated the First Amendment. “The empty invocation of national security is not a blank check to punish and retaliate against government critics,” she wrote.",
+      "imageWidth": 1152,
+      "imageHeight": 648
+    },
+    {
       "id": "ce9f0a2642d4274d",
       "title": "Glasgow City Council pauses plan to fire and rehire 23,000 staff",
       "summary": "Talks between the council and three unions will resume early next week to try to reach a new deal on pay.",
@@ -185,41 +212,14 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1240,
+      "wordCount": 1237,
       "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9bb1/live/5b4a9420-b8bd-11f1-8668-c7d18ac42397.jpg",
-      "body": "Unison members during a previous strike outside Glasgow City Chambers\n\nPublished 25 September 2026, 10:39 BST\n\nGlasgow City Council has agreed to pause plans to fire and rehire more than 23,000 members of staff.\n\nThe decision follows online talks between the council and three trade unions, chaired by Deputy First Minister Jenny Gilruth.\n\nNegotiations between the council and the GMB, Unison and Unite unions will resume early next week to try to reach a new deal on pay.\n\nLetters which had been due to be sent to staff informing them of the fire and rehire plans will not be issued.\n\nThe SNP-led council had threatened to sack thousands of members of staff and then rehire them on new contracts after negotiations with unions over equal pay proposals broke down.\n\nThe talks were about the council's plans to replace a pay system found to discriminate against mostly women workers. The changes would see the majority of staff unaffected or better off, but they would cut pay for 11% of staff.\n\nGilruth said the Scottish government did not support fire and rehire schemes and had urged the council and trade unions to get back around the negotiating table.\n\nShe said: \"Given the significance of this situation and the impact on staff, I wanted to bring all parties together to make clear that I expect negotiations between the council and unions to continue so that a collective agreement can be reached and bring an end to discriminatory pay practices.\n\n\"My expectation is that all parties act in line with the principles of fair work and continue to exhaust all avenues for collective agreement.\"\n\nOn behalf of unions Unite, Unison and GMB, the Scottish Trades Unions Congress said: \"We are pleased at the lifting of the threat of fire and rehire and that meaningful negotiations will take place next week.\n\n\"We also welcome the Scottish government's clear statement that the practice of fire and rehire' does not align with the principles and expected practice of fair work.\"\n\nGlasgow City Council to fire and rehire over 23,000 employees Published 1 day ago\n\nHundreds of council workers face wages cut in end to equal pay row Published 17 August\n\nGMB organiser David Hume said the council had initially made the wrong decision - but welcomed its willingness to review and reverse it.\n\n\"After seven years of hard negotiations, we believe the new structure is ready to be put before our members. They should now be allowed to decide and that should be done as a matter of urgency,\" he said.\n\nOne Glasgow City Council worker had earlier described the situation as \"heartbreaking\".\n\nJoanne, a support for learning worker from Glasgow, said the local authority \"had a cheek to say they care about their employees\" after she read the council's message saying it was dismissing all staff.\n\nShe was told two weeks ago that she would be one of the workers facing a pay cut under the new system, leaving her \"distraught\". She will lose about £300 per year.\n\nShe said: \"I came away from my work crying - really, really upset. I couldn't believe that after 25 years' service to Glasgow City Council, I am getting let down yet again.\"\n\nShe continued: \"I am working with the most vulnerable children in society. I would put it to Glasgow City Council: please come and do my job for one day - one day only.\n\n\"It is so wrong, and I can't afford to lose money.\"\n\nGlasgow City Council is overhauling its pay and grading structure\n\nAt a meeting last month, the council agreed to an overhaul of its pay and grading structure after eight years of negotiations.\n\nThe council has previously paid over £770m to 19,000 claimants after it emerged that female workers in roles such as catering or cleaning were paid less than those in male-dominated areas such as refuse collection.\n\nThe new system would see 63% of those affected gain financially, while 11% would have their wages reduced.\n\nIt was calculated after a job evaluation programme looked at each role within the local authority.\n\nThis saw staff being given questionnaires to fill out, and in some cases interviewed about their job.\n\nGet in touch\n\nAre you a Glasgow City Council employee? How have you been affected by the fire-and-rehire decision?\n\nEach evaluation was based around 13 different factors. Categories included physical effort, mental skills, concentration and physical co-ordination.\n\nThe job evaluation then provided a score for each role within the council, with those scores used to establish which pay grade - out of a possible 12 - each job should sit in.\n\nHowever, this has resulted in some roles being moved onto lower salaries than they were previously on, with the highest drop in wages expected to be around £11,500.\n\nThe council had said on Thursday that every member of non-teaching staff would be issued with a letter of dismissal, including chief executive Susanne Millar, nursery staff and refuse collectors. They would then be offered new contracts, set to begin on 1 January.\n\nChanges to UK-wide employment law will come in effect on the same date.\n\nThese changes will make dismissing an employee for refusing to accept contract changes automatically an unfair dismissal.\n\n'We are willing to speak'\n\nTalks between the council and the GMB, Unison and Unite unions fell apart on Wednesday when Unison said it would not ballot its members on a proposed new pay offer.\n\nThe council accused Unison of \"betraying\" members by not giving them the chance to vote on it, but the union's education convener Sylvia Haughey accused the council of using \"bullying tactics\".\n\nShe told BBC Radio Scotland Breakfast : \"We haven't betrayed anyone, we certainly haven't betrayed our members. We are out fighting for our members.\n\n\"We are fighting for the members who are... losing big financial amounts, whether its £200 or £12,000.\n\n\"We have not walked away from anything. We are willing to speak to the council at any time.\"\n\nGlasgow City Council’s communications director, Colin Edgar, said it was a “hellish situation” that “almost no-one” wanted to be in.\n\nHe acknowledged that staff would feel distressed and anxious, but promised that all those affected would be rehired without a break in their continuity of service.\n\nCouncil staff threaten legal action over contracts Published 10 October 2024\n\nFire and rehire move damaging for council - union Published 30 September 2024\n\nEdgar said the council did not want to be in this situation, but it was a consequence of fixing an unlawful pay scheme.\n\n“Whenever any council does this exercise, there are people who gain and people who lose - in our case that’s about 11% of people who will earn less,” he said.\n\nBoth the GMB and Unite unions were in favour of balloting their members over the proposed pay structure, and said they had secured an extra £110m to be added into the salary structure.\n\nHowever, Unison said the extra funding was for \"assimilation and arrears\", and would not help the staff facing wage cuts.\n\nIt said the upcoming discussions must be \"underpinned by increased funding\".\n\nThe GMB and Unite unions had both criticised the original decision to go ahead with fire and re-hire, with Unite calling it a \"scandalous threat\".\n\nThe UK government's Scottish Secretary, Douglas Alexander, said had called for the council's readers to \"get back around the table\" and find a better way forward.\n\nRelated topics\n\nGlasgow City Council\n\nUnite\n\nUnison\n\nPay\n\nGlasgow\n\nTrade Unions",
+      "body": "Unison members during a previous strike outside Glasgow City Chambers\n\nPublished 25 September 2026\n\nGlasgow City Council has agreed to pause plans to fire and rehire more than 23,000 members of staff.\n\nThe decision follows online talks between the council and three trade unions, chaired by Deputy First Minister Jenny Gilruth.\n\nNegotiations between the council and the GMB, Unison and Unite unions will resume early next week to try to reach a new deal on pay.\n\nLetters which had been due to be sent to staff informing them of the fire and rehire plans will not be issued.\n\nThe SNP-led council had threatened to sack thousands of members of staff and then rehire them on new contracts after negotiations with unions over equal pay proposals broke down.\n\nThe talks were about the council's plans to replace a pay system found to discriminate against mostly women workers. The changes would see the majority of staff unaffected or better off, but they would cut pay for 11% of staff.\n\nGilruth said the Scottish government did not support fire and rehire schemes and had urged the council and trade unions to get back around the negotiating table.\n\nShe said: \"Given the significance of this situation and the impact on staff, I wanted to bring all parties together to make clear that I expect negotiations between the council and unions to continue so that a collective agreement can be reached and bring an end to discriminatory pay practices.\n\n\"My expectation is that all parties act in line with the principles of fair work and continue to exhaust all avenues for collective agreement.\"\n\nOn behalf of unions Unite, Unison and GMB, the Scottish Trades Unions Congress said: \"We are pleased at the lifting of the threat of fire and rehire and that meaningful negotiations will take place next week.\n\n\"We also welcome the Scottish government's clear statement that the practice of fire and rehire' does not align with the principles and expected practice of fair work.\"\n\nGlasgow City Council to fire and rehire over 23,000 employees Published 1 day ago\n\nHundreds of council workers face wages cut in end to equal pay row Published 17 August\n\nGMB organiser David Hume said the council had initially made the wrong decision - but welcomed its willingness to review and reverse it.\n\n\"After seven years of hard negotiations, we believe the new structure is ready to be put before our members. They should now be allowed to decide and that should be done as a matter of urgency,\" he said.\n\nOne Glasgow City Council worker had earlier described the situation as \"heartbreaking\".\n\nJoanne, a support for learning worker from Glasgow, said the local authority \"had a cheek to say they care about their employees\" after she read the council's message saying it was dismissing all staff.\n\nShe was told two weeks ago that she would be one of the workers facing a pay cut under the new system, leaving her \"distraught\". She will lose about £300 per year.\n\nShe said: \"I came away from my work crying - really, really upset. I couldn't believe that after 25 years' service to Glasgow City Council, I am getting let down yet again.\"\n\nShe continued: \"I am working with the most vulnerable children in society. I would put it to Glasgow City Council: please come and do my job for one day - one day only.\n\n\"It is so wrong, and I can't afford to lose money.\"\n\nGlasgow City Council is overhauling its pay and grading structure\n\nAt a meeting last month, the council agreed to an overhaul of its pay and grading structure after eight years of negotiations.\n\nThe council has previously paid over £770m to 19,000 claimants after it emerged that female workers in roles such as catering or cleaning were paid less than those in male-dominated areas such as refuse collection.\n\nThe new system would see 63% of those affected gain financially, while 11% would have their wages reduced.\n\nIt was calculated after a job evaluation programme looked at each role within the local authority.\n\nThis saw staff being given questionnaires to fill out, and in some cases interviewed about their job.\n\nGet in touch\n\nAre you a Glasgow City Council employee? How have you been affected by the fire-and-rehire decision?\n\nEach evaluation was based around 13 different factors. Categories included physical effort, mental skills, concentration and physical co-ordination.\n\nThe job evaluation then provided a score for each role within the council, with those scores used to establish which pay grade - out of a possible 12 - each job should sit in.\n\nHowever, this has resulted in some roles being moved onto lower salaries than they were previously on, with the highest drop in wages expected to be around £11,500.\n\nThe council had said on Thursday that every member of non-teaching staff would be issued with a letter of dismissal, including chief executive Susanne Millar, nursery staff and refuse collectors. They would then be offered new contracts, set to begin on 1 January.\n\nChanges to UK-wide employment law will come in effect on the same date.\n\nThese changes will make dismissing an employee for refusing to accept contract changes automatically an unfair dismissal.\n\n'We are willing to speak'\n\nTalks between the council and the GMB, Unison and Unite unions fell apart on Wednesday when Unison said it would not ballot its members on a proposed new pay offer.\n\nThe council accused Unison of \"betraying\" members by not giving them the chance to vote on it, but the union's education convener Sylvia Haughey accused the council of using \"bullying tactics\".\n\nShe told BBC Radio Scotland Breakfast : \"We haven't betrayed anyone, we certainly haven't betrayed our members. We are out fighting for our members.\n\n\"We are fighting for the members who are... losing big financial amounts, whether its £200 or £12,000.\n\n\"We have not walked away from anything. We are willing to speak to the council at any time.\"\n\nGlasgow City Council’s communications director, Colin Edgar, said it was a “hellish situation” that “almost no-one” wanted to be in.\n\nHe acknowledged that staff would feel distressed and anxious, but promised that all those affected would be rehired without a break in their continuity of service.\n\nCouncil staff threaten legal action over contracts Published 10 October 2024\n\nFire and rehire move damaging for council - union Published 30 September 2024\n\nEdgar said the council did not want to be in this situation, but it was a consequence of fixing an unlawful pay scheme.\n\n“Whenever any council does this exercise, there are people who gain and people who lose - in our case that’s about 11% of people who will earn less,” he said.\n\nBoth the GMB and Unite unions were in favour of balloting their members over the proposed pay structure, and said they had secured an extra £110m to be added into the salary structure.\n\nHowever, Unison said the extra funding was for \"assimilation and arrears\", and would not help the staff facing wage cuts.\n\nIt said the upcoming discussions must be \"underpinned by increased funding\".\n\nThe GMB and Unite unions had both criticised the original decision to go ahead with fire and re-hire, with Unite calling it a \"scandalous threat\".\n\nThe UK government's Scottish Secretary, Douglas Alexander, said had called for the council's readers to \"get back around the table\" and find a better way forward.\n\nRelated topics\n\nGlasgow City Council\n\nUnite\n\nUnison\n\nPay\n\nGlasgow\n\nTrade Unions",
       "imageWidth": 1200,
       "imageHeight": 675
-    },
-    {
-      "id": "c4eb37a09e4f6f90",
-      "title": "Trump administration takes Musk’s side in fight over EU tech rules",
-      "summary": "Washington says Brussels overreached when it fined X €120 million under the DSA.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-09-25T13:45:49Z",
-      "category": "Tech",
-      "region": "US",
-      "labels": [
-        "Tech",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 494,
-      "readingMinutes": 3,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/x-eu-1152x648-1743790778.jpg",
-      "body": "Washington says Brussels overreached when it fined X €120 million under the DSA.\n\nThe Trump administration is seeking to join Elon Musk’s appeal against a €120 million EU fine of the billionaire’s social media platform X, the latest escalation in the transatlantic clash over Brussels’ efforts to rein in US tech companies.\n\nThe US Department of Justice on Thursday filed an application to intervene in a pair of cases brought by Musk and X seeking annulment of the penalty, which will be heard at the EU’s General Court in Luxembourg.\n\n“The European Commission inappropriately attempted to expand its regulatory authority to reach American companies not present or operating within its jurisdiction,” assistant attorney general Brett Shumate said.\n\n“We will not tolerate the European Commission engaging in regulatory over-reach to try and control American engines of innovation and economic growth,” Shumate added.\n\nThe European Commission in December last year fined X €120 million for breaking the Digital Services Act, the first such penalty under the bloc’s online safety regime. It accused the platform of breaching its regulations for transparency, providing insufficient access to data and the deceptive design of its blue-tick system for verified accounts.\n\nThe DSA, a more aggressive set of rules to police online players, has become a flashpoint between Brussels and US tech companies. Donald Trump’s administration has supported claims by US companies that the EU is unfairly targeting American groups and infringing freedom of speech principles championed by the Maga movement.\n\nSeveral senior figures of the administration, including US vice-president JD Vance, have criticised the EU’s fining X. Musk is one of the largest donors to President Trump and his favoured Republican candidates ahead of the midterm elections.\n\nIn its statement, the DOJ said the DSA had improperly “extended legal scrutiny to Mr Musk himself as a private individual and implicated entirely separate and unrelated American corporate entities under his ownership\n\nThe DOJ also asserted that the Commission inappropriately calculated the fine based on the combined global annual revenue of other companies that Musk controlled, rather than what X earned within its jurisdiction.\n\nIn March 2025, X was first merged with Musk’s artificial intelligence company xAI, which was subsequently acquired by his rocket maker SpaceX ahead of its public listing in June this year.\n\nSpaceX declined to comment.\n\nSeparately, the EU is investigating X for other potential breaches under the DSA, including whether the company has assessed and mitigated risks associated with the integration of its AI chatbot Grok into X for EU users.\n\nApple is also appealing a €500 million fine imposed under the EU’s related Digital Markets Act for anti-competitive behaviour in its app store.\n\nTrump has railed against the penalties, calling them “overseas extortion” and called them a “form of taxation.” During his first administration, the president unsuccessfully tried to influence Apple’s challenge against a €13 billion Irish tax bill.\n\n© 2026 The Financial Times Ltd . All rights reserved Not to be redistributed, copied, or modified in any way.",
-      "imageWidth": 1152,
-      "imageHeight": 648
     },
     {
       "id": "7b528b92b54da7af",
@@ -267,12 +267,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 733,
+      "wordCount": 730,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44aa/live/02195500-b8fc-11f1-83cd-2998f68d9572.png",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nBurnham: 'No election anytime soon'\n\nPublished 25 September 2026, 17:04 BST\n\nAndy Burnham has insisted he is not tempted to call an early general election, arguing it would throw \"the country into a backward-looking process\".\n\nDuring a round of BBC interviews ahead of Labour's annual conference, the prime minister said his focus was on helping people with the cost of living and supporting businesses.\n\nRecent polling has suggested Labour's position has improved since Burnham replaced Sir Keir Starmer in Downing Street in July, although Reform UK and the Conservatives are not far behind.\n\nAn early general election could give Burnham a mandate of his own and free him from commitments made in Labour's 2024 manifesto. The next general election must be held by August 2029.\n\nAsked by ITV Calendar if the next election would be in 2029, he replied: \"Yes, that's when the next election will be.\n\n\"All of this speculation on an early election, I can knock that dead.\"\n\nNew policies, election speculation: What to expect from Burnham's first Labour conference as PM Published 23 hours ago\n\nBurnham heads to his first Labour Party conference as prime minister this weekend, with speculation over the prospect of a snap election likely to be a topic of conversation among some of those attending the event in Liverpool.\n\nLabour has been projected to lose its majority but remain the largest party in the House of Commons if there were a snap election, according to recent polling.\n\nIt comes amid media reports that some of the prime minister's advisers have been weighing up the prospect of an election as early as next year.\n\nBut Burnham sought to rule out this prospect during interviews with BBC regional political editors ahead of the conference opening on Sunday.\n\nAsked by BBC West political editor Paul Barltrop whether he was tempted to call an early poll, Burnham replied: \"No, not particularly. No, I'm not.\n\n\"I see all the speculation and it just races ahead,\" he said. \"No election anytime soon. I'm focused on the job as prime minister, doing what I said I would do.\"\n\n'Backward-looking'\n\nHe was later asked by BBC East Midlands political editor Peter Saull if there would be a general election next May, alongside council elections in the area.\n\nThe PM replied \"no\" before adding: \"Not having a general election.\"\n\nBurnham also said he wanted to use the conference to say more about \"the direction I want to take the country in\", adding: \"The focus is on that, helping people with the cost of living, helping businesses with the cost of running a business.\n\n\"These have got to be the priorities right now, rather than throwing the country into a backward-looking process where we're arguing again amongst ourselves.\"\n\nBurnham said he wanted to ensure people were \"feeling a bit of hope in their lives again\", adding: \"That's what I'm trying to do, and I hope to take it further in the coming period, rather than putting people back into an election cycle.\"\n\nThe prime minister was also asked about the number of migrants crossing the English Channel in small boats.\n\nIt comes after 781 people were recorded arriving in 10 boats on Wednesday, the highest total for a single day so far this year.\n\nBurnham said his goal was that he did not want to see any crossings \"at all\".\n\nHe declined to put a timescale on this ambition, but said his government would \"not stop\" working until crossings went \"right down\".\n\nHe argued that Brexit had hampered the UK's ability to stop the arrivals, saying it had led to a \"loss of collaboration with neighbours\".\n\nElsewhere in the series of interviews, he said:\n\nHe would not do any \"special interviews\" with the Sun - he told the BBC in 2015 that he had not forgiven the newspaper for its coverage of the 1989 Hillsborough disaster\n\nTourists would not \"begrudge paying a few extra pounds\" as a result of his proposal to allow regional mayors in England to charge new tax on visitors' overnight stays\n\nThe government would \"do what we can within the resources that we've got to support people\" in the Budget next month\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nBurnham: 'No election anytime soon'\n\nPublished 25 September 2026\n\nAndy Burnham has insisted he is not tempted to call an early general election, arguing it would throw \"the country into a backward-looking process\".\n\nDuring a round of BBC interviews ahead of Labour's annual conference, the prime minister said his focus was on helping people with the cost of living and supporting businesses.\n\nRecent polling has suggested Labour's position has improved since Burnham replaced Sir Keir Starmer in Downing Street in July, although Reform UK and the Conservatives are not far behind.\n\nAn early general election could give Burnham a mandate of his own and free him from commitments made in Labour's 2024 manifesto. The next general election must be held by August 2029.\n\nAsked by ITV Calendar if the next election would be in 2029, he replied: \"Yes, that's when the next election will be.\n\n\"All of this speculation on an early election, I can knock that dead.\"\n\nNew policies, election speculation: What to expect from Burnham's first Labour conference as PM Published 1 day ago\n\nBurnham heads to his first Labour Party conference as prime minister this weekend, with speculation over the prospect of a snap election likely to be a topic of conversation among some of those attending the event in Liverpool.\n\nLabour has been projected to lose its majority but remain the largest party in the House of Commons if there were a snap election, according to recent polling.\n\nIt comes amid media reports that some of the prime minister's advisers have been weighing up the prospect of an election as early as next year.\n\nBut Burnham sought to rule out this prospect during interviews with BBC regional political editors ahead of the conference opening on Sunday.\n\nAsked by BBC West political editor Paul Barltrop whether he was tempted to call an early poll, Burnham replied: \"No, not particularly. No, I'm not.\n\n\"I see all the speculation and it just races ahead,\" he said. \"No election anytime soon. I'm focused on the job as prime minister, doing what I said I would do.\"\n\n'Backward-looking'\n\nHe was later asked by BBC East Midlands political editor Peter Saull if there would be a general election next May, alongside council elections in the area.\n\nThe PM replied \"no\" before adding: \"Not having a general election.\"\n\nBurnham also said he wanted to use the conference to say more about \"the direction I want to take the country in\", adding: \"The focus is on that, helping people with the cost of living, helping businesses with the cost of running a business.\n\n\"These have got to be the priorities right now, rather than throwing the country into a backward-looking process where we're arguing again amongst ourselves.\"\n\nBurnham said he wanted to ensure people were \"feeling a bit of hope in their lives again\", adding: \"That's what I'm trying to do, and I hope to take it further in the coming period, rather than putting people back into an election cycle.\"\n\nThe prime minister was also asked about the number of migrants crossing the English Channel in small boats.\n\nIt comes after 781 people were recorded arriving in 10 boats on Wednesday, the highest total for a single day so far this year.\n\nBurnham said his goal was that he did not want to see any crossings \"at all\".\n\nHe declined to put a timescale on this ambition, but said his government would \"not stop\" working until crossings went \"right down\".\n\nHe argued that Brexit had hampered the UK's ability to stop the arrivals, saying it had led to a \"loss of collaboration with neighbours\".\n\nElsewhere in the series of interviews, he said:\n\nHe would not do any \"special interviews\" with the Sun - he told the BBC in 2015 that he had not forgiven the newspaper for its coverage of the 1989 Hillsborough disaster\n\nTourists would not \"begrudge paying a few extra pounds\" as a result of his proposal to allow regional mayors in England to charge new tax on visitors' overnight stays\n\nThe government would \"do what we can within the resources that we've got to support people\" in the Budget next month\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -451,6 +451,31 @@
       "imageHeight": 630
     },
     {
+      "id": "c974f3a6aa6e35c9",
+      "title": "Okamoto paces Blue Jays' offense as spectacular rookie year continues",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-begin-final-series-with-win-over-reds",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-26T02:44:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "65f11ee6b238a7f4",
       "title": "Vlad Jr. apologizes to fans: 'Not really what I wanted to say'",
       "summary": "This feed supplied a headline but no article summary.",
@@ -489,80 +514,6 @@
         "Sports",
         "Canada",
         "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "06c517776a20de8b",
-      "title": "TEAM NEWS | Leicester Tigers Vs Saracens Men (PREM R1)",
-      "summary": "Joe Shaw is anticipating a real battle in a box office Gallagher PREM opener as the Original Club of North London head to Mattioli Woods Welford Road this Sunday. The Saracens head coach sees the challenge of Leicester Tigers as the perfect test for the evolved Men’s outfit after a faultless start to their 2026/27 […]",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://saracens.com/team-news-leicester-tigers-vs-saracens-men-prem-r1/",
-      "source": "Saracens",
-      "publisher": "Saracens",
-      "published": "2026-09-25T11:00:00Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England",
-        "Rugby",
-        "Saracens"
-      ],
-      "sourceWeight": 5,
-      "focus": "Saracens",
-      "sourceType": "news",
-      "wordCount": 56,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "e362f3afa8879691",
-      "title": "TEAM NEWS | Saracens Women vs Sale Sharks Women (CUP R2)",
-      "summary": "Saracens Women return to PWR JAECOO Next-Gen Cup action this weekend as they host Sale Sharks for the first home game of the season. A key player to note is Lucy Lawford-Wilby, who is making her return to the field from the bench after 2 years of being out of action due to injury. Director […]",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://saracens.com/team-news-saracens-women-vs-sale-sharks-women-cup-r2/",
-      "source": "Saracens",
-      "publisher": "Saracens",
-      "published": "2026-09-25T10:00:00Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England",
-        "Rugby",
-        "Saracens"
-      ],
-      "sourceWeight": 5,
-      "focus": "Saracens",
-      "sourceType": "news",
-      "wordCount": 55,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "5aa54d199ebc2148",
-      "title": "These are the top 20 MLB jerseys from 2026 season",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/most-popular-mlb-players-jerseys-for-2026-season",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-09-25T16:57:18Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
         "Blue Jays"
       ],
       "sourceWeight": 5,
@@ -748,6 +699,56 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e35d/live/897bc660-b918-11f1-9be9-632355708508.jpg"
+    },
+    {
+      "id": "8eb590fd271fe67b",
+      "title": "LAETITIA ROYER TO DEPART SARACENS",
+      "summary": "Saracens can confirm that Laetitia Royer will depart the club following the conclusion of the 2025/26 season. Royer leaves North London after a successful season with the Women in Black. The Canadian international joined Saracens following the Rugby World Cup, making her debut against Harlequins in the London Derby. The powerful second row quickly established […]",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://saracens.com/laetitia-royer-to-depart-saracens/",
+      "source": "Saracens",
+      "publisher": "Saracens",
+      "published": "2026-09-23T15:00:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Rugby",
+        "Saracens"
+      ],
+      "sourceWeight": 5,
+      "focus": "Saracens",
+      "sourceType": "news",
+      "wordCount": 56,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "d5135289f960d7c5",
+      "title": "Saracens return to Bramley Road to unveil 150th collection",
+      "summary": "There are places that become part of a club’s identity. For Saracens, Bramley Road is one of them. For generations, it was where Saracens players pulled on the black jersey, where families gathered on matchdays and where the club’s story continued to be written. Long before StoneX Stadium, Bramley Road was home. It was here […]",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://saracens.com/saracens-return-to-bramley-road-to-unveil-150th-collection/",
+      "source": "Saracens",
+      "publisher": "Saracens",
+      "published": "2026-09-23T10:43:29Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England",
+        "Rugby",
+        "Saracens"
+      ],
+      "sourceWeight": 5,
+      "focus": "Saracens",
+      "sourceType": "news",
+      "wordCount": 55,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "511df708f953113c",
@@ -977,38 +978,37 @@
       "body": "Rooftop solar arrays in Beirut, Lebanon. Wael Hamzeh / EPA\n\nOPINION\n\nSoaring energy costs are driving a solar rush in developing countries, but as households unplug from the grid, those who remain face higher electricity bills. If governments fail to manage the buildout, the growth of solar could destabilize power systems and deepen economic inequality.\n\nBy Jan Rosenow • September 22, 2026\n\nFacebook\n\nTwitter\n\nLinkedIn\n\nEmail\n\nLook at satellite images of Pakistan and you will be struck by the number of solar panels dotting rooftops and balconies across its major cities. Solar is the single largest source of electricity in Pakistan, generating around a quarter of the country’s power during peak months. A decade ago, it was contributing less than 1 percent. The solar boom was not driven by a major subsidy program. Rather, households and businesses largely drove it themselves in response to unreliable and expensive electricity.\n\nPakistan is probably the most dramatic and well-known case of a bottom-up solar revolution, but it is not unique, and versions of the same story are unfolding across the world right now: Countries with hot climates, fast-growing economies, expensive energy, and fragile grids are increasingly turning to solar. Not because of policy, but because individuals are voting with their wallets. In six developing nations — Pakistan, Nigeria, Lebanon, Sri Lanka, Zambia, and Yemen — recorded solar generation has grown more than sixfold since 2019. Solar’s share of the electricity mix has risen sharply in each of them, in some cases by an order of magnitude .\n\nBut while Pakistan’s rapid, bottom-up solar shift offers a hopeful model for ramping up clean energy, it also offers a warning. The proliferation of household solar in Pakistan has led to an exodus from the national grid, rattling the network while saddling the poorest ratepayers — who cannot afford solar panels — with higher bills. Similar dynamics are now at play in Nigeria and Zambia. These countries are facing a boom and a crisis at the same time.\n\nAnalysts have turned to customs records and satellite imagery to determine how much solar is being built off the grid.\n\nThat matters far beyond these countries, because most of the world’s future growth in electricity demand will come from emerging and developing economies, and much of it will be supplied by solar. The challenge is clear: Solar power can be a liberatory force in developing countries, offering a new source of cheap electricity in places long starved of energy, but if governments fail to manage the transition well, the coming buildout could weaken already creaky power systems and worsen economic inequality.\n\nThe scale of the solar boom now underway in parts of the developing world is unprecedented. Sri Lanka reports that rooftop solar capacity grew more than sixfold between 2020 and 2025, while in Lebanon, recorded solar capacity rose more than tenfold over that period. In Yemen, more than half of all people now rely on solar as their main source of electricity for lighting.\n\nWhat is remarkable is that much of this data does not appear in government statistics because the new installations are overwhelmingly rooftop arrays and home systems that are behind the meter and not officially registered. Analysts have increasingly turned to customs records and even satellite imagery to reconstruct what is really happening on the ground. In Nigeria, they found an estimated 96 percent of solar capacity is off-grid. In Pakistan, as much as three-quarters of the country’s actual solar deployment may never be officially recorded.\n\nSatellite images of Sector G-13, a neighborhood in Islamabad, Pakistan, in 2022 and 2024. The area has seen an explosion of rooftop solar. Google Maps\n\nWhat we see happening in these places is called “leapfrogging.” People in developing countries are adopting new energy technology without first going through the same stages of fossil-fuel development that wealthier countries went through. Leapfrogging happens when three conditions are met: The new technology is already proven in mature markets. It offers better or comparable functionality to the incumbent technology. And it provides a way around expensive or dysfunctional infrastructure.\n\nSolar is now a mature technology, widely adopted in wealthy countries. It has established supply chains around the world, and as manufacturing has ramped up, primarily in China, the price of solar has collapsed. Chinese manufacturers have built far more factory capacity than the world currently needs, and with trade tariffs now keeping many of their panels out of markets such as the United States and India, much of the surplus has ended up in places like Pakistan and Nigeria instead.\n\nIn countries with rickety power grids, solar can offer more reliable electricity, especially when coupled with batteries. The grid in Pakistan is frequently unstable, and in the worst-served districts, households can face 16 to 20 hours of outages in a single day. In Nigeria, around 40 percent of the population has no grid connection or electricity at all, while in Yemen, damage to the power system from the country’s brutal civil war has left close to 90 percent of the population without access to the grid. In these places, solar offers far greater functionality.\n\nWealthier households that can afford solar can insulate themselves from rising energy costs. Poorer households cannot.\n\nSolar also offers a workaround for expensive electricity. In Pakistan, the average electric rate almost tripled over the last decade as subsidies were withdrawn, imported fuel costs surged following Russia’s invasion of Ukraine, and consumers were left paying to maintain underused power plants. In Nigeria, electricity prices for some consumers rose by over 240 percent following rate reform in 2024. Yemen offers what is perhaps the most extreme case of rising grid electricity prices: In July, its government approved increasing rates thirty-six-fold. With every rate hike, solar has become a more attractive alternative.\n\nClimate campaigners have celebrated the solar boom underway in emerging economies, but the rapid growth of solar can create problems if it is poorly managed. Power grids have large fixed costs: Transmission systems must be maintained, and power plants must remain available even when customers buy less electricity. When households and businesses that can afford solar panels stop consuming power from the grid, utilities lose revenue. The result can be a vicious circle: Fixed costs are spread across a smaller number of customers. Rates rise, which in turn makes solar more attractive. That spurs more customers to defect from the grid, and the cycle starts again. This is the famous “ utility death spiral .”\n\nSolar panel import figures are based on Chinese customs data through the end of 2025. On-grid solar capacity is based on official statistics for 2025. Sources: Ember , IRENA . Yale Environment 360 / Made with Flourish\n\nPakistan is already showing signs of spiraling. Grid electricity sales fell 10 percent in 2023, and the country’s energy minister has warned that falling demand could make grid electricity increasingly unaffordable. The distributional consequences are potentially stark. Wealthier households and businesses that can afford the upfront cost of panels and batteries can insulate themselves from rising prices, but poorer households cannot. If rates are raised to recover the grid’s costs, those unable to invest in solar can end up paying more for electricity. And thus, what is a profoundly democratizing technology can ultimately worsen economic inequality when it is adopted into an already dysfunctional electricity system.\n\nIn some cases, solar users may only partly exit the system, which can make the arithmetic for the grid even worse. In Pakistan, many solar owners have sharply reduced their use of the grid during daylight hours but still rely on it after sunset. The grid, therefore, has to remain capable of meeting the evening peak even as it sells far less electricity during the day. Those still on the grid full-time are paying to keep power plants on standby so they are available to generate electricity after the sun goes down.\n\nNone of this is an argument against solar. Quite the opposite. Installing solar in countries with hot climates, growing economies, and unreliable grids generates huge benefits for the economy, education, and health. Solar pumps let farmers irrigate their fields without paying for diesel-operated equipment. Solar lets schools without grid connections run lights, fans, and computers. Swapping diesel generators for solar panels and batteries also means cleaner air. In countries like Nigeria, where millions of homes and businesses rely on diesel for their electricity, the adoption of solar can have a meaningful impact on public health.\n\nRegulations were written for a system built around large power plants rather than millions of rooftop arrays.\n\nAn important task for governments and international agencies is to bring distributed solar into official energy statistics, using import data, registrations, and, where necessary, satellite monitoring. Think tanks such as Ember in the U.K. and Renewables First in Pakistan are already piecing this picture together from customs data. Governments need to use that data for planning. With a clearer picture of what is happening on the ground, officials can begin to integrate fast-growing solar capacity into the power system and do it in a way that strengthens the grid rather than undermines it. That means installing batteries that can store cheap solar during the day for use in the evening. It means building more flexible transmission networks that can move surplus rooftop power to where it is needed instead of wasting it. And it means offering targeted support for low-income households to make solar affordable for more people.\n\nWhy isn’t this happening already? One reason is that regulators in developing countries are struggling to keep up with the solar boom. The rules on electric rates and grid connections were written for a system built around large power plants rather than millions of rooftop arrays. Many utilities are also in deep financial trouble — Pakistan’s power sector alone has accumulated billions of dollars of debt. This leaves few financial resources for batteries, smart meters, or network upgrades.\n\nGovernments need to update regulations to make it easier for households and businesses with solar arrays to sell power back to the grid. Wealthy nations and development banks can help countries integrate solar by providing the financing they need to modernize their power systems. However, that support should be tied to regulatory reform and not used to cover utility losses.\n\nWorkers install solar panels on a home in Lagos, Nigeria. Sunday Alamba / AP Photo\n\nLebanon, whose extraordinary solar boom may have begun to plateau , offers a glimpse of the path forward. With a new government in place and a $250 million World Bank loan to build solar farms, modernize the state utility’s electric billing, and set up a national control center to manage the power network , the country has an opportunity to integrate thousands of decentralized systems into a functioning grid. That will mean registering rooftop systems, paying their owners a fair price for surplus power, and using that solar to cut the utility’s costly fuel imports.\n\nNigeria, on the other hand, risks following the same path as Pakistan, but with an even weaker distribution sector to manage the consequences. Its 2024 rate increase fell on its top tier of customers, who are promised at least 20 hours of power a day. These are the businesses and better-off households that have the resources to switch to solar. They are also the customers whose monthly payments the struggling distribution companies rely on most. Rising electric rates will likely spur many consumers to take up solar and ditch the grid.\n\nThe problem with solar is not the technology itself. The key challenge in many developing countries is that the existing power infrastructure and the institutions running it are struggling to keep pace with the energy transition. The choice for governments is between letting distributed solar spur an unmanaged exit from the grid or intentionally making solar part of a more flexible and reliable network. A well-managed transition can ensure that the solar boom strengthens the electricity system and protects those who cannot afford to leave it behind.\n\nRelated Articles\n\nA Hard-Won Rule to Cut Chemical Plant Pollution Is Being Unraveled By Beth Gardiner\n\nBeyond Lithium: New Battery Tech Starts to Break Through By Nicola Jones\n\nA Home Battery Revolution Is Reshaping the Power Grid By Paul Hockenos\n\nMore From E360\n\nOPINION The Solar Boom in Developing Nations: Fast, Chaotic, and Unequal\n\nClimate Why Germany Is Building an Ark for U.S. Climate Data\n\nINTERVIEW From Indigenous Loss, a Potent Legal Argument on Climate\n\nBiodiversity Sargassum Superbloom: Seaweed Scourge or Ecological Boon?\n\nOceans A Surge of Marine Heat Waves Threatens to Scramble Ocean Life\n\nPolicy A Hard-Won Rule to Cut Chemical Plant Pollution Is Being Unraveled\n\nE360 FILM CONTEST WINNER Filipino Cacao Growers Learn to Live With a Hotter Climate\n\nE360 FILM CONTEST A Bicycle Journey Across Brazil to Find a Vanishing Savanna\n\nOPINION For America’s Rarest Wildlife, Survival May Hinge on a Single Word\n\nE360 Film Contest Who Gets to Decide the Fate of a Pristine Alaskan Rainforest?\n\nBiodiversity ‘Wastelands’ No More: India Charts a Future for Its Grasslands\n\nClimate After Decades of Drought, Water Is Rising in the African Sahel"
     },
     {
-      "id": "78948a03517db22b",
-      "title": "Europe frets about Trump. But soon he could be the least of our problems | Mujtaba Rahman",
-      "summary": "The US relationship is stabilising, but how will Europe face up to Russia and China if President Le Pen is in power? I addressed a group of more than 100 European ambassadors recently on the big challenges facing the continent this year and next. My main point to these senior diplomats was that, perhaps counterintuitively, Europe’s biggest external challenges over the next 12 months will come from Russia and China, rather than the US. Europe’s relationship with Trump’s America remains difficult. The US president has weakened confidence in Nato, raised new transatlantic trade tensions and introduced uncertainty into everything from US support for Ukraine to his territorial designs on Greenland. Yet paradoxically, and notwithstanding Trump’s latest tariff threats over the EU’s outreach to Canada, the transatlantic relationship is becoming the more stable part of Europe’s external environment. Not stable, but more stable. Mujtaba Rahman is the managing director for Europe at Eurasia Group, a political risk research and consulting firm Continue reading...",
+      "id": "4f99dc1826df40b9",
+      "title": "Canada and EU: A look at the bloc's special relationships",
+      "summary": "Though Canada may be some distance from Europe geographically, closer political ties are in the cards. With talk of an associate membership, DW takes a look at other arrangements the EU has with particular countries.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/23/europe-frets-about-trump-but-soon-he-could-be-the-least-of-our-problems",
-      "source": "The Guardian China",
-      "publisher": "The Guardian",
-      "published": "2026-09-23T04:00:14Z",
+      "url": "https://www.dw.com/en/canada-and-eu-a-look-at-the-bloc-s-special-relationships/a-79328797?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-09-18T14:26:00Z",
       "category": "Politics",
       "region": "Canada",
       "labels": [
         "Politics",
         "Canada"
       ],
-      "sourceWeight": 5,
+      "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 162,
+      "wordCount": 35,
       "readingMinutes": 1,
       "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/a98c9ed54e79f865884a7e1f3ae9bec924c7ccd7/1126_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=ddc572a51f6df1b5b8fdec0348163f59"
+      "isBreaking": false
     },
     {
-      "id": "18b6429e514d0074",
-      "title": "Full moons, mooncakes and lanterns in every colour: the mid-autumn festival – in pictures",
-      "summary": "The mid-autumn festival, also known as the moon festival, is a celebration of harvest and family in Chinese culture – a time to gather with relatives and friends under a full moon. During the festival, people eat mooncakes – a rich round pastry that symbolises wholeness – and display lanterns: beacons that light the path towards prosperity and good luck. It is held on the 15th day of the eighth month of the Chinese calendar, when the moon is believed to be at its fullest and brightest, coinciding with the harvest in the middle of autumn. In 2026, it will be held on Friday 25 September Avant-garments: the wild world of wearable art – in pictures Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/culture/gallery/2026/sep/25/chinese-mid-autumn-festival-september-2026-in-pictures",
+      "id": "d0ddb660cfcdc3f9",
+      "title": "Specialist coaches and hours of practice a day: the making of China’s six-year-old Rubik’s Cube prodigy",
+      "summary": "Mother of Lian Yunzhi says world record a ‘dream come true’ for child who now gets autograph requests from fellow students The mother of the six-year-old girl who broke the women’s world record for solving a Rubik’s Cube in an average time of just over four seconds said the accolade was a “dream come true” for her daughter, who trains for up to three hours a day for competitions. “She was overjoyed and felt that all her hard work had paid off,” Lin Yangxi told the Guardian of her daughter’s feat. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/world/2026/sep/26/dream-come-true-six-year-old-rubiks-cube-world-record",
       "source": "The Guardian China",
       "publisher": "The Guardian",
-      "published": "2026-09-24T15:00:21Z",
+      "published": "2026-09-26T02:00:22Z",
       "category": "Politics",
       "region": "China",
       "labels": [
@@ -1018,13 +1018,38 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 114,
-      "readingMinutes": 1,
-      "isShort": true,
+      "wordCount": 575,
+      "readingMinutes": 3,
+      "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/2cbecabdfbb2e0884cdb80cb56e6b412b8dd5a70/636_0_6748_5398/master/6748.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a4e61dac4233ff1efe9f145c335e82b",
+      "imageUrl": "https://i.guim.co.uk/img/media/6a43beefcc1f58eb6aa713fad5bcf9e2fa0d64c3/386_0_2955_2364/master/2955.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de0d5a7001d6c34ab07624f83ca4744c",
+      "body": "Mother of Lian Yunzhi says world record a ‘dream come true’ for child who now gets autograph requests from fellow students\n\nT he mother of the six-year-old girl who broke the women’s world record for solving a Rubik’s Cube in an average time of just over four seconds said the accolade was a “dream come true” for her daughter, who trains for up to three hours a day for competitions.\n\n“She was overjoyed and felt that all her hard work had paid off,” Lin Yangxi told the Guardian of her daughter’s feat.\n\nLian Yunzhi, known as Zhizhi, broke the women’s 3x3 average world record at a “speedcubing” event in Guangzhou hosted by the World Cube Association on 16 September. The girl, who is from Chengdu, solved the puzzle in an average time of 4.27 seconds, breaking the record of 4.52 seconds she had set earlier in the month. In some single attempts, she has solved the puzzle in under four seconds.\n\n“The whole school knows her now,” Lin said. “The teacher told me that older students came to her classroom with slips of paper asking for her autograph, crowding the room.\n\n“She has gained a lot of love and attention through cubing.”\n\nZhizhi’s journey from amateur Rubik’s Cube hobbyist to world record-holder started at four years old, when her mother took her to speedcubing classes as one of her “seven or eight” extracurricular activities, which include dancing, painting and gymnastics.\n\nAlthough Zhihi was well-behaved in all her classes, Lin and her husband decided that the speedcubing route “had great potential for her future development, so we proactively chose to invest more time in it.”\n\nLin said that solving the puzzle helped “improve concentration, memory, logical thinking and spatial awareness”.\n\n“We felt it was really good for her.”\n\nHowever, Zhizhi’s world-beating success didn’t feel inevitable. After several months of training, she brought her average time down to eight seconds, but then hit a bottleneck.\n\n“For about three or four months, no matter how she practised, her times didn’t improve at all,” Lin said. “To be honest, both as parents and the child, we felt like giving up at that point.”\n\nBut after finding a specialist teacher in Shanghai and learning more than 1,300 Rubik’s cube formulas, her speeds improved “very quickly”.\n\nZhizhi now balances training for speedcubing events alongside her kindergarten studies, spending two to three hours on weekdays and up to six hours at the weekend on the puzzle.\n\nLin said most weekends were spent at speedcubing competitions, which were a chance for Zhizhi to unwind from regular practice and see friends.\n\nZhizhi used to envy children who had more playtime, her mother said, “but she later told me she no longer envied them, because pursuing her own goals made her truly happy too”.\n\nWhile physical injuries are rare in speedcubing, Lin monitors Zhihi’s eyesight for signs of myopia, a shortsightedness condition that is especially prevalent in China .\n\nLin said she and her husband felt “extremely nervous” at this month’s speedcubing championship, but admired how their daughter “handled the pressure at that crucial moment”.\n\nZhizhi’s mother doesn’t see a speedcubing career for her daughter, but said the sport instilled good habits.\n\n“We just wanted to accompany her as far as she could go. It can forge some grit and perseverance in her, which will serve her well in whatever she chooses to pursue in the future.”\n\nChina\n\nAsia Pacific\n\nPuzzle games\n\nfeatures",
       "imageWidth": 1200,
       "imageHeight": 630
+    },
+    {
+      "id": "5aa54d199ebc2148",
+      "title": "These are the top 20 MLB jerseys from 2026 season",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/most-popular-mlb-players-jerseys-for-2026-season",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-09-25T16:57:18Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "dab40ffc0cbd4bb6",
@@ -1136,7 +1161,7 @@
     {
       "id": "f90baf0e5a7dafd6",
       "title": "Supreme Court blocks Trump-backed Missouri congressional map",
-      "summary": "The ruling is a defeat for Republicans seeking to give their party an edge in the midterm elections for control of the House. It means voters will face a different map than the one used in the primary elections.",
+      "summary": "The ruling is a defeat for Republicans seeking to give their party an edge in the midterms for control of the House. It means voters will face a different map than the one used in the primaries.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
       "source": "NPR Politics",
@@ -1151,7 +1176,7 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 39,
+      "wordCount": 37,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
@@ -1211,30 +1236,6 @@
       "body": "Bank of England's Lombardelli warns that rates will probably rise unless energy shock fades\n\nNewsflash: A Bank of England deputy governor is warning that interest rates will be raised, if necessary, to combat the risk of persistent inflationary pressures from higher oil prices.\n\nClare Lombardelli is telling the Sixth Biennial Conference on Macroeconomic Policy in Warsaw that the energy shock due to the conflict in the Middle East is likely to keep pushing UK inflation higher in the coming months.\n\nLombardelli points out that businesses have proved more resilient to higher energy costs than the Bank expected. But…. the longer energy prices remain high and volatile, the greater the risk for pass-through more widely into domestic wages and prices. she says.\n\nLombardelli is one of six Bank policymakers who voted to leave interest rates on hold last week, outvoting their three colleagues who voted for a rise in interest rates.\n\nShe also warns that other global costs could add to inflation, saying:\n\ndouble quotation mark Strong demand for AI components is already pushing up global export prices and weather-related shocks add upside risks. On the other hand, trade diversion is reducing inflation.\n\nThe key question is whether “second-round effects” – where high inflation pushes up wages, fuelling inflation – are developing.\n\nLombardelli says there is “material uncertainty” about the size and duration of the energy shock.\n\nBut unless there is also evidence that the economy is weakening, interest rates will probably have to rise, she says:\n\ndouble quotation mark The longer higher energy prices persist, the greater the risk that indirect effects build and that inflation expectations, wage bargaining and price-setting behaviour begin to adjust in response. On that basis, policy is increasingly likely to need to tighten if elevated energy prices persist, absent clear evidence of disinflation or weaker activity. But this is by no means suggesting that monetary policy should respond mechanically to movements in energy prices. The key issue is not the spot price of energy itself but the interaction of the underlying economy, higher energy prices, and the nature of their transmission. That, ultimately, is what will determine whether Bank Rate needs to rise.\n\nClosing post\n\nSo, with the yield on 30-year US Treasury bonds hitting a fresh 22-year high of 5.4583% a moment ago, it’s time to wrap up.\n\nUS 10-year bond yields have hit their highest since 2007 this afternoon too!\n\nHere are today’s main stories:\n\nFTSE 100 ends the day lower\n\nThe UK’s blue-chip stock index has ended the day in the red.\n\nThe FTSE 100 index fell by 25 points or 0.24% to close at 10,679 points.\n\n“The continued ascent in US borrowing costs is causing jitters on the markets,” says Dan Coatsworth, head of markets at AJ Bell , adding:\n\ndouble quotation mark “The US 30-year Treasury yield hit 5.447%, the highest level since 2004, with investors focused on inflationary pressures as oil remains stubbornly above $100 a barrel. The black stuff jumped 2.6% to nearly $106 a barrel. “Bond investors are grumpy at the prospect of interest rates going higher, so they’re voting with their feet and selling existing bonds. As prices fall, yields rise, which reflects the higher return investors now demand.\n\nBond yields climbing again as oil rises\n\nThe oil price has jumped again, pushing bond yields higher, following reports of more military clashes between Saudi Arabia and Houthi forces.\n\nSix ballistic missiles targeting Saudi Arabia’s port of Yanbu on the Red Sea and the southwestern city of Taif have been intercepted, a Saudi military spokesperson said Thursday, blaming Iran-backed Houthi rebels in neighboring Yemen, Associated Press reports.\n\nAnd Reuters reports that Yemen’s Houthis say they have attacked Saudi military sites in Jazan, which is around 1,000km to the south.\n\nBrent crude is now up almost 4% at $107.13 a barrel, creating new inflationary concerns that are pushing up goverment borrowing costs again.\n\nThe UK’s 10-year bond yields, which had subsided earlier, are back up to 5.385%, a gain of seven basis points (0.07 of a percentage point).\n\nThirty-year UK bond yields are also up around 7bps to 5.88%.\n\nBoE's Breeden: Rates decision is not like 2022\n\nThe Bank of England’s Sarah Breeden has also played down the likely need for a dramatic increase in interest rates should the war in Iran continue through the autumn and into the winter months.\n\nSpeaking at the Macro Policy Forum at Imperial College in London, she said:\n\ndouble quotation mark “We are not talking about immense differences around the MPC table. We are talking about 0.25 basis points up or down, which is small beer. It is not like 2022 when we had a mountain to climb.”\n\nBreeden said she welcomed the review of the Bank’s remit by MPs on the Treasury committee ( see earlier post ).\n\n“It is always healthy to check the remit,” she said, adding:\n\ndouble quotation mark “The world in which we are doing monetary policy now feels very different to the one 20 years ago. In a world of shocks, of structural shifts, when you are using a different set of tools, it is healthy to step back and ask whether we are set up in the right way and have we got the legitimacy, as a bunch of unelected officials, to take the decisions we do. I think the answer is we do, but it can only be a good thing that we look at it because on the other side of the pond we have seen some challenges to central bank independence.”\n\nIsabel Schnabel , a senior European Central Bank official, is leaving the eurozone central bank early to take on a top job at the IMF.\n\nSchnabel has been lined up to become the IMF’s next financial counsellor and director of the monetary and capital markets department.\n\nIMF chief Kristalina Georgieva says:\n\ndouble quotation mark “Isabel is a well-respected leader and communicator,. She is well known for her collaborative leadership style, commitment to developing talent, and ability to build consensus around complex policy issues. At a time of profound transformation, her intellectual leadership, policy experience, and commitment to international cooperation will further strengthen the Fund’s work to promote global monetary and financial stability. We look forward to welcoming her to the Fund.”\n\nSchnabel is a member of the ECB’s executive board, so this means a deeper shake-up at the bank, where president Christine Lagarde is expected to leave before her term as president expires in October 2027.\n\nAnother central bank decision today: Ghana’s ⁠central ⁠bank ​has maintained its main ⁠interest ⁠rate ​at ‌14.00%.\n\nAnalysts at Investec have predicted that the Bank of England’s patience with high energy costs is “wearing thin”.\n\nThey now believe the BoE will hike interest rates in November, and again three months later, telling clients:\n\ndouble quotation mark Unless there is material progress in negotiations that see substantial energy flows resume transit through the Strait of Hormuz, we imagine that tolerance for the majority of committee members will soon run thin, triggering a 25bp rate hike, likely in November. We think that will be followed by a further lift in rates in February, with committee members preferring to wait to increase interest rates again until they have the backing of a new set of Monetary Policy Report economic forecasts. Similar to the Fed and the ECB, we imagine this extra policy restriction will be removed in the second half of next year once conditions normalise, resulting in an end-2027 Bank rate of 3.75%.\n\nA second Bank of England deputy governor has suggested that UK interest rates could be pushed higher to combat higher energy prices.\n\nBank of England deputy governor Sarah Breeden told the UK Macro Policy Forum organised by the National Institute of Economic and Social Research :\n\ndouble quotation mark “The larger and longer the shock, the more likely it is that we’ll see the material second-round effects that policy needs to respond (to). “I wasn’t there in September (in terms of being ready to vote for a rate hike), but I was mindful that the balance of risks had shifted, and as risks crystallise it’s increasingly appropriate for Bank Rate to respond.”\n\nMarkets in 'recovery mode' as Wall Street opens lower\n\nThe US stock market has opened in the red, as investors fret about the recent slide in bond prices.\n\nThe Dow Jones industrial average, which tracks 30 large US companies, has dipped by almost 0.54% at the open, with the broader S&P 500 index down 0.4%.\n\nAlthough bond yields have dipped back from their earlier highs, there’s still a lot of uncertainty out there.\n\nKathleen Brooks , research director at XTB , says:\n\ndouble quotation mark Markets are in recovery mode as we move into the US session on Thursday. Bond yields are bouncing around like a see-saw, up one minute and down the next. Brent crude spiked to as high as $106 per barrel earlier, before dropping 3%, and futures prices are now back below $100 per barrel. There is no clear direction for markets. Are we in a bond crisis or not? Is the Iran war getting worse or is the situation improving? Are enough oil supplies getting through the Strait of Hormuz, and will Ukraine continue to target Russian refinery infrastructure?\n\nUS jobless claims drop\n\nJust in: US companies continued to hold onto staff last week, keeping layoffs low.\n\nNew data from the US Department of Labour shows there were 197,000 new ‘initial claims’ for unemployment support last week, a drop of 1,000, and a low figure in historic terms.\n\nBack in the markets, the pound has dipped to its lowest level against the US dollar in almost three months.\n\nSterling has slipped by 0.1% to $1.322, its lowest level since 1 July, as traders anticipate the US Federal Reserve is more likely to raise interest rates in October.",
       "imageWidth": 1200,
       "imageHeight": 630
-    },
-    {
-      "id": "89e03b0a7ed60781",
-      "title": "With primaries over, some members of the GOP are breaking with President Trump",
-      "summary": "Several Republicans in competitive races broke with President Trump on key agenda issues this week as voters continue to express concern about the economy and the war with Iran.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5980383/with-primaries-over-some-members-of-the-gop-are-breaking-with-president-trump",
-      "source": "NPR Politics",
-      "publisher": "NPR",
-      "published": "2026-09-25T20:48:45Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 29,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5980383"
     },
     {
       "id": "06203c8922b40fa2",
@@ -1517,7 +1518,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9deb/live/583faf30-b8eb-11f1-a430-4d16ee157c41.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on this story.\n\nSubsection Politics\n\nPublished 8 hours ago\n\nRelated topics\n\nAlcohol Follow Alcohol close panel You are now following Alcohol Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nConservative Party Follow Conservative Party close panel You are now following Conservative Party Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on this story.\n\nSubsection Politics\n\nPublished 13 hours ago\n\nRelated topics\n\nAlcohol Follow Alcohol close panel You are now following Alcohol Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nConservative Party Follow Conservative Party close panel You are now following Conservative Party Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1571,7 +1572,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d465/live/400e7170-b8f6-11f1-bd4a-e9ce4be469f6.png",
-      "body": "The Manston centre in Kent, used to hold thousands of migrants, became overcrowded in 2022\n\nPublished 6 hours ago\n\nAn overcrowded migrant reception centre, where a man died, raises \"very serious questions\" for ministers in the former Conservative government, including two home secretaries and former prime ministers, an inquiry has heard.\n\nThe Manston centre in Kent became overwhelmed in November 2022 at the height of the small boats crisis, with around 4,000 people held there.\n\nHome Office officials knew conditions were unlawful and children were at risk of harm, but had no alternative plan for where to accommodate them, the inquiry heard on Friday.\n\nFormer Home Secretaries Dame Priti Patel and Suella Braverman shared in preliminary evidence that Number 10 was involved in decisions made at the time.\n\nThe Manston centre, a former military site near Dover, was converted into an emergency holding facility for cross-channel migrants in early 2022, as small boat crossings began to soar.\n\nIt was designed to hold up to around 1,000 people at any one time and for no longer than a legal limit of 24 hours.\n\nBut by November 2022, thousands of people were sleeping in marquees and it was apparent that there was disease, illness and no adequate care for children traumatised by crossing the English Channel.\n\nDuring this critical period, the government was hoping that it could eventually send asylum seekers to Rwanda.\n\nAs the number of detainees grew, doctors identified diphtheria was present - and that 31-year-old Iraqi Hussein Haseeb Ahmed was suspected of suffering from the highly dangerous disease, the preparatory inquiry hearing heard on Friday.\n\nHe was not immediately taken to hospital, but died on 19 November at 05:30 after he was admitted to hospital as his condition deteriorated.\n\n\"He was handcuffed until around 2am,\" Claire Dobbin KC, the inquiry's lead lawyer, said.\n\n\"His handcuffing in hospital at a point when he must have been close to death, all require separate examination.\"\n\nAt one stage, some 81 families were sharing one toilet with babies, children, teenagers and adults sharing the same space despite clear safety concerns, she said.\n\nSome detainees had visible wounds. One person, who was not given medical care, was using a plastic croissant wrapper as a dressing.\n\n\"The position of children is a matter of great concern,\" said Dobbin.\n\n\"Generally the circumstances in which children can be detained in England are very limited indeed.\"\n\nDobbin added that one senior official at the Home Office told colleagues that the conditions were the worst he had seen in 20 years.\n\nHe wrote in an email: \"Political decisions have forced hard-working officials and suppliers into an impossible position. This will end up as a public inquiry and rightly.\"\n\nOther witnesses have said there was racism, hostility and aggression towards the detainees from some staff, with some accused of threatening to withhold meals from people who wanted to use the toilet.\n\n\"The body of evidence raises very serious questions for senior officials and ministers as to how the detention of children in these conditions was tolerated on humanitarian or legal grounds,\" said Dobbin.\n\nTwo former home secretaries involved in the Manston decision-making - Dame Priti and Braverman - have already provided evidence that will be examined in depth in future hearings.\n\nBraverman's personal legal representative - who is paid for by the government - gave no statement on her behalf during Friday's session.\n\nBut the inquiry heard she had already explained in written submissions that Number 10 had been aware of the situation at Manston and that the decision to pause using hotels had led to the overcrowding.\n\nIt was also told there had been \"prolonged periods of disengagement\" from Robert Jenrick, the immigration minister in late 2022, although he had provided a statement.\n\nIt is not clear yet whether former Prime Ministers Boris Johnson or Rishi Sunak will be asked to give evidence about their roles.\n\nThe inquiry team will now continue gathering evidence with the date for full hearings yet to be fixed.\n\nRelated topics\n\nManston\n\nRefugees and asylum seekers",
+      "body": "The Manston centre in Kent, used to hold thousands of migrants, became overcrowded in 2022\n\nPublished 25 September 2026\n\nAn overcrowded migrant reception centre, where a man died, raises \"very serious questions\" for ministers in the former Conservative government, including two home secretaries and former prime ministers, an inquiry has heard.\n\nThe Manston centre in Kent became overwhelmed in November 2022 at the height of the small boats crisis, with around 4,000 people held there.\n\nHome Office officials knew conditions were unlawful and children were at risk of harm, but had no alternative plan for where to accommodate them, the inquiry heard on Friday.\n\nFormer Home Secretaries Dame Priti Patel and Suella Braverman shared in preliminary evidence that Number 10 was involved in decisions made at the time.\n\nThe Manston centre, a former military site near Dover, was converted into an emergency holding facility for cross-channel migrants in early 2022, as small boat crossings began to soar.\n\nIt was designed to hold up to around 1,000 people at any one time and for no longer than a legal limit of 24 hours.\n\nBut by November 2022, thousands of people were sleeping in marquees and it was apparent that there was disease, illness and no adequate care for children traumatised by crossing the English Channel.\n\nDuring this critical period, the government was hoping that it could eventually send asylum seekers to Rwanda.\n\nAs the number of detainees grew, doctors identified diphtheria was present - and that 31-year-old Iraqi Hussein Haseeb Ahmed was suspected of suffering from the highly dangerous disease, the preparatory inquiry hearing heard on Friday.\n\nHe was not immediately taken to hospital, but died on 19 November at 05:30 after he was admitted to hospital as his condition deteriorated.\n\n\"He was handcuffed until around 2am,\" Claire Dobbin KC, the inquiry's lead lawyer, said.\n\n\"His handcuffing in hospital at a point when he must have been close to death, all require separate examination.\"\n\nAt one stage, some 81 families were sharing one toilet with babies, children, teenagers and adults sharing the same space despite clear safety concerns, she said.\n\nSome detainees had visible wounds. One person, who was not given medical care, was using a plastic croissant wrapper as a dressing.\n\n\"The position of children is a matter of great concern,\" said Dobbin.\n\n\"Generally the circumstances in which children can be detained in England are very limited indeed.\"\n\nDobbin added that one senior official at the Home Office told colleagues that the conditions were the worst he had seen in 20 years.\n\nHe wrote in an email: \"Political decisions have forced hard-working officials and suppliers into an impossible position. This will end up as a public inquiry and rightly.\"\n\nOther witnesses have said there was racism, hostility and aggression towards the detainees from some staff, with some accused of threatening to withhold meals from people who wanted to use the toilet.\n\n\"The body of evidence raises very serious questions for senior officials and ministers as to how the detention of children in these conditions was tolerated on humanitarian or legal grounds,\" said Dobbin.\n\nTwo former home secretaries involved in the Manston decision-making - Dame Priti and Braverman - have already provided evidence that will be examined in depth in future hearings.\n\nBraverman's personal legal representative - who is paid for by the government - gave no statement on her behalf during Friday's session.\n\nBut the inquiry heard she had already explained in written submissions that Number 10 had been aware of the situation at Manston and that the decision to pause using hotels had led to the overcrowding.\n\nIt was also told there had been \"prolonged periods of disengagement\" from Robert Jenrick, the immigration minister in late 2022, although he had provided a statement.\n\nIt is not clear yet whether former Prime Ministers Boris Johnson or Rishi Sunak will be asked to give evidence about their roles.\n\nThe inquiry team will now continue gathering evidence with the date for full hearings yet to be fixed.\n\nRelated topics\n\nManston\n\nRefugees and asylum seekers",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1652,6 +1653,33 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4404/live/c48f8e40-b8e5-11f1-a430-4d16ee157c41.jpg"
     },
     {
+      "id": "53bf34224693c9e8",
+      "title": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
+      "summary": "The new LFP battery charges from 10 to 70% in 4.5 minutes at just 65˚C.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-09-25T15:21:55Z",
+      "category": "Tech",
+      "region": "China",
+      "labels": [
+        "Tech",
+        "China"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 645,
+      "readingMinutes": 3,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Geely-robot-charger-1152x648.jpg",
+      "body": "The new LFP battery charges from 10 to 70% in 4.5 minutes at just 65˚C.\n\nHype merchants have a habit of overdoing it , but there’s no denying that China is making the US look more than a little antiquated when it comes to electric vehicles. Some of that is due to a deep integration of connected services and an extension of the car as part of the owner’s digital life—think additional infotainment screens and AI personal assistants, but with an Android phone-maker’s cadence of updates rather than that of a traditional car company. Other advances sound more appealing. China’s OEMs are in a battle over who can charge the fastest, and this week, Geely fired its latest salvo.\n\nChina might have a much younger driving culture than North America or Europe, but it has still been long enough to condition those drivers to how long it takes to fill a tank of gas. For all their many improvements over internal combustion engine vehicles—far greater efficiency, instant torque, very little NVH, more reliabiity, and so on—EVs do still take longer to recharge than it takes to refuel a car with a liquid.\n\nAt least until now, it seems.\n\nGeely’s new battery can charge at up to 2.2 MW and will recharge from 10 to 70 percent in 4.5 minutes. A 10–98 percent charge takes 8 minutes and 40 seconds. Predictive thermal management is done through AI, with an average pack temperature of 55˚C and a peak temperature during charging of 65˚C, Geely said.\n\nAnd while you might think pumping large amounts of energy into a battery quickly and repeatedly could harm its health, Geely says that, using AI, the system applies micro pulses of current to “reactivate lithium ions accumulated at the negative electrodes during repeated fast charging,” extending battery life by 20 percent. The pack has been tested in both the Zeekr 001 and Lynk and Co 10—maybe we’ll see a Volvo or Lotus use the same tech someday.\n\nThe numbers eclipse those from BYD, which debuted a new product in March that can charge from 10 to 70 percent in 5 minutes and 10 to 97 percent in 9 minutes. But CATL still looks like it’s on top; in April, it announced an LFP battery that can charge from 10 to 80 percent in 3 minutes 44 seconds, or from 10 to 98 percent in 6 minutes and 27 seconds.\n\nIn the US, the most powerful car chargers deliver a modest fraction of those megawatt outputs. All but the newest Tesla Superchargers top out at 250 kW and 400 V; in the 800 V world, Electrify America maxes out at 350 KW , IONNA’s new machines are rated for 400 kW , and ChargePoint has a 600 kW charger on the market.\n\nMeanwhile, our electric vehicles lag in their charging speeds. Hyundai and Kia’s popular range of 800 V EVs (including the Ioniq 5 and EV6) will actually max out around 240 kW on an 800 V DC fast charger, and Porsche’s Taycan will only accept up to 320 kW, not all 350. The latest wave of 800 V German EVs like the BMW iX3 and Porsche Cayenne are now arriving with 400 kW DC charging capabilities.\n\nMegawatt charging in the US is still the preserve of heavy-duty EVs—buses, semis, and the like; ChargePoint told Ars recently that “if you take two Express solos [its new 600 KW charger] and join them with a common DC bus, you now can deliver 1.2 megawatts through one port,” said ChargePoint CEO Rick Wilmer.\n\n“Now, obviously, a NACS connector or a CCS1 connector won’t handle that much power, but an MCS connector will. So that’s all part of the roadmap for the Express architecture, with the Solo being the first product off that architecture,” he said.",
+      "imageWidth": 1152,
+      "imageHeight": 648
+    },
+    {
       "id": "824539725947aca0",
       "title": "A twin bill with twin umpires! Austin and Tyler Jones make MLB history",
       "summary": "This feed supplied a headline but no article summary.",
@@ -1698,7 +1726,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ad1/live/d9b6f320-b8f5-11f1-a430-4d16ee157c41.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more on Rory Stewart.\n\nSubsection Politics\n\nPublished 7 hours ago\n\nRelated topics\n\nRory Stewart Follow Rory Stewart close panel You are now following Rory Stewart Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more on Rory Stewart.\n\nSubsection Politics\n\nPublished 13 hours ago\n\nRelated topics\n\nRory Stewart Follow Rory Stewart close panel You are now following Rory Stewart Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1751,6 +1779,33 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1659/live/544f35c0-b8d8-11f1-ba42-19e1456ae537.jpg"
     },
     {
+      "id": "c4eb37a09e4f6f90",
+      "title": "Trump administration takes Musk’s side in fight over EU tech rules",
+      "summary": "Washington says Brussels overreached when it fined X €120 million under the DSA.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-09-25T13:45:49Z",
+      "category": "Tech",
+      "region": "US",
+      "labels": [
+        "Tech",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 495,
+      "readingMinutes": 3,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/x-eu-1152x648-1743790778.jpg",
+      "body": "Washington says Brussels overreached when it fined X €120 million under the DSA.\n\nThe Trump administration is seeking to join Elon Musk’s appeal against a €120 million EU fine of the billionaire’s social media platform X, the latest escalation in the transatlantic clash over Brussels’ efforts to rein in US tech companies.\n\nThe US Department of Justice on Thursday filed an application to intervene in a pair of cases brought by Musk and X seeking annulment of the penalty, which will be heard at the EU’s General Court in Luxembourg.\n\n“The European Commission inappropriately attempted to expand its regulatory authority to reach American companies not present or operating within its jurisdiction,” assistant attorney general Brett Shumate said.\n\n“We will not tolerate the European Commission engaging in regulatory overreach to try and control American engines of innovation and economic growth,” Shumate added.\n\nThe European Commission in December last year fined X €120 million for breaking the Digital Services Act, the first such penalty under the bloc’s online safety regime. It accused the platform of breaching its regulations for transparency, providing insufficient access to data and the deceptive design of its blue-tick system for verified accounts.\n\nThe DSA, a more aggressive set of rules to police online players, has become a flashpoint between Brussels and US tech companies. Donald Trump’s administration has supported claims by US companies that the EU is unfairly targeting American groups and infringing freedom of speech principles championed by the Maga movement.\n\nSeveral senior figures of the administration, including US Vice President JD Vance, have criticized the EU’s fining X. Musk is one of the largest donors to President Trump and his favored Republican candidates ahead of the midterm elections.\n\nIn its statement, the DOJ said the DSA had improperly “extended legal scrutiny to Mr. Musk himself as a private individual and implicated entirely separate and unrelated American corporate entities under his ownership\n\nThe DOJ also asserted that the Commission inappropriately calculated the fine based on the combined global annual revenue of other companies that Musk controlled, rather than what X earned within its jurisdiction.\n\nIn March 2025, X was first merged with Musk’s artificial intelligence company xAI, which was subsequently acquired by his rocket maker SpaceX ahead of its public listing in June this year.\n\nSpaceX declined to comment.\n\nSeparately, the EU is investigating X for other potential breaches under the DSA, including whether the company has assessed and mitigated risks associated with the integration of its AI chatbot Grok into X for EU users.\n\nApple is also appealing a €500 million fine imposed under the EU’s related Digital Markets Act for anti-competitive behavior in its app store.\n\nTrump has railed against the penalties, calling them “overseas extortion” and called them a “form of taxation.” During his first administration, the president unsuccessfully tried to influence Apple’s challenge against a €13 billion Irish tax bill.\n\n© 2026 The Financial Times Ltd . All rights reserved Not to be redistributed, copied, or modified in any way.",
+      "imageWidth": 1152,
+      "imageHeight": 648
+    },
+    {
       "id": "bf2845dd3985006c",
       "title": "Ex-Saints skipper Lawes to make Sale debut - Prem team news",
       "summary": "Veteran forward Courtney Lawes makes his debut for Sale Sharks, while England prop Will Stuart returns for Bath.",
@@ -1773,31 +1828,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03a6/live/e2eb1230-b8d4-11f1-9247-0dbab683e1d2.jpg"
-    },
-    {
-      "id": "8eb590fd271fe67b",
-      "title": "LAETITIA ROYER TO DEPART SARACENS",
-      "summary": "Saracens can confirm that Laetitia Royer will depart the club following the conclusion of the 2025/26 season. Royer leaves North London after a successful season with the Women in Black. The Canadian international joined Saracens following the Rugby World Cup, making her debut against Harlequins in the London Derby. The powerful second row quickly established […]",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://saracens.com/laetitia-royer-to-depart-saracens/",
-      "source": "Saracens",
-      "publisher": "Saracens",
-      "published": "2026-09-23T15:00:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Rugby",
-        "Saracens"
-      ],
-      "sourceWeight": 5,
-      "focus": "Saracens",
-      "sourceType": "news",
-      "wordCount": 56,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "89efa52b308ea1db",
@@ -1900,6 +1930,32 @@
       "imageAlt": "President Donald Trump shakes hands with China",
       "imageWidth": 4774,
       "imageHeight": 3183
+    },
+    {
+      "id": "18b6429e514d0074",
+      "title": "Full moons, mooncakes and lanterns in every colour: the mid-autumn festival – in pictures",
+      "summary": "The mid-autumn festival, also known as the moon festival, is a celebration of harvest and family in Chinese culture – a time to gather with relatives and friends under a full moon. During the festival, people eat mooncakes – a rich round pastry that symbolises wholeness – and display lanterns: beacons that light the path towards prosperity and good luck. It is held on the 15th day of the eighth month of the Chinese calendar, when the moon is believed to be at its fullest and brightest, coinciding with the harvest in the middle of autumn. In 2026, it will be held on Friday 25 September Avant-garments: the wild world of wearable art – in pictures Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/culture/gallery/2026/sep/25/chinese-mid-autumn-festival-september-2026-in-pictures",
+      "source": "The Guardian China",
+      "publisher": "The Guardian",
+      "published": "2026-09-24T15:00:21Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 114,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/2cbecabdfbb2e0884cdb80cb56e6b412b8dd5a70/636_0_6748_5398/master/6748.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a4e61dac4233ff1efe9f145c335e82b",
+      "imageWidth": 1200,
+      "imageHeight": 630
     },
     {
       "id": "c8b5cc439f82e3e8",
@@ -2213,31 +2269,6 @@
       "imageHeight": 630
     },
     {
-      "id": "d5135289f960d7c5",
-      "title": "Saracens return to Bramley Road to unveil 150th collection",
-      "summary": "There are places that become part of a club’s identity. For Saracens, Bramley Road is one of them. For generations, it was where Saracens players pulled on the black jersey, where families gathered on matchdays and where the club’s story continued to be written. Long before StoneX Stadium, Bramley Road was home. It was here […]",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://saracens.com/saracens-return-to-bramley-road-to-unveil-150th-collection/",
-      "source": "Saracens",
-      "publisher": "Saracens",
-      "published": "2026-09-23T10:43:29Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England",
-        "Rugby",
-        "Saracens"
-      ],
-      "sourceWeight": 5,
-      "focus": "Saracens",
-      "sourceType": "news",
-      "wordCount": 55,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "d0250a2459aa2b4d",
       "title": "Hooker Oghre signs contract extension with Bristol",
       "summary": "Bristol Bears hooker Gabriel Oghre signs a new contract with the Prem club.",
@@ -2306,12 +2337,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 525,
+      "wordCount": 522,
       "readingMinutes": 3,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f79/live/2b47c240-b87a-11f1-a430-4d16ee157c41.jpg",
-      "body": "Published 25 September 2026, 03:51 BST\n\nForeign Secretary Ed Miliband has told Iran's Foreign Minister Abbas Araghchi that the UK will \"not tolerate intimidation, threats or hostile activity on UK soil\".\n\nThe ministers met face-to-face at the UN General Assembly in New York City.\n\nThe Foreign Office said Miliband spoke to his counterpart about \"the UK's unwavering resolve to combat threats from Iranian-linked groups in UK soil, including attacks on the British Jewish community\". They also discussed war in the Middle East and a British couple detained in Iran, it said.\n\nThere was no immediate comment from Araghchi. Iranian news agency Irna reported that the men \"discussed bilateral ties and international developments during their talks\".\n\nMiliband's comments follow an arson attack on four Jewish community ambulances in Golders Green in March and other incidents.\n\nThe BBC understands that UK intelligence chiefs were initially keeping an open mind as to whether the Iranian state or organisations working for it played a role in the Hatzola ambulance attack and other attacks against Jewish communities during 2026.\n\nThey later concluded that intelligence pointed to Iran or its proxies being involved in the attack.\n\nA small power plant in the UK was also shut down in July due to a cyber attack, which the Telegraph reported , external was carried out by hackers affiliated with the Iranian regime.\n\nThe Foreign Office said Miliband also spoke to his counterpart about the country's war with the US, telling Araghchi that Iran should choose \"de-escalation and diplomacy instead of prolonging the war\" while stressing the importance of reopening the Strait of Hormuz.\n\nIn February, the US and Israel attacked Iran, killing the country's supreme leader.\n\nIran responded by launching strikes on Israel and neighbouring Gulf Arab states that host US military bases. It also effectively closed the Strait of Hormuz, through which a fifth of global oil and gas shipments usually pass, impacting the global economy.\n\nIranian President Masoud Pezeshkian told the UN General Assembly on Wednesday that any peace deal would have to include an end to the US blockade preventing Iranian ships from using the waterway.\n\nResponding to US President Donald Trump's threat to \"annihilate\" the Islamic Republic if a deal was not reached soon, Pezeshkian said his country will never \"bend the knee\" .\n\n\"The resistance of the Iranian people will only increase in the face of sanctions, increased pressure, increased bullying,\" he said.\n\nThere was no immediate comment from the US, whose delegation walked out of the chamber at the start of Pezeshkian's address.\n\nThe Foreign Office said Miliband also used Thursday's meeting to raise the detention of British couple Lindsay and Craig Foreman .\n\nThe couple, from East Sussex, have been detained in Iran for more than 20 months after being arrested while passing through the country on a motorcycle journey.\n\nThe Foremans were each sentenced to 10 years in jail in February on espionage charges, which they deny.\n\nIn Miliband's discussion with the Iranian foreign minister, he reiterated the call for them to be immediately released and stressed that their welfare remained a priority for the government, the Foreign Office said.\n\nRelated topics\n\nIran\n\nEd Miliband\n\nUnited Nations",
+      "body": "Published 25 September 2026\n\nForeign Secretary Ed Miliband has told Iran's Foreign Minister Abbas Araghchi that the UK will \"not tolerate intimidation, threats or hostile activity on UK soil\".\n\nThe ministers met face-to-face at the UN General Assembly in New York City.\n\nThe Foreign Office said Miliband spoke to his counterpart about \"the UK's unwavering resolve to combat threats from Iranian-linked groups in UK soil, including attacks on the British Jewish community\". They also discussed war in the Middle East and a British couple detained in Iran, it said.\n\nThere was no immediate comment from Araghchi. Iranian news agency Irna reported that the men \"discussed bilateral ties and international developments during their talks\".\n\nMiliband's comments follow an arson attack on four Jewish community ambulances in Golders Green in March and other incidents.\n\nThe BBC understands that UK intelligence chiefs were initially keeping an open mind as to whether the Iranian state or organisations working for it played a role in the Hatzola ambulance attack and other attacks against Jewish communities during 2026.\n\nThey later concluded that intelligence pointed to Iran or its proxies being involved in the attack.\n\nA small power plant in the UK was also shut down in July due to a cyber attack, which the Telegraph reported , external was carried out by hackers affiliated with the Iranian regime.\n\nThe Foreign Office said Miliband also spoke to his counterpart about the country's war with the US, telling Araghchi that Iran should choose \"de-escalation and diplomacy instead of prolonging the war\" while stressing the importance of reopening the Strait of Hormuz.\n\nIn February, the US and Israel attacked Iran, killing the country's supreme leader.\n\nIran responded by launching strikes on Israel and neighbouring Gulf Arab states that host US military bases. It also effectively closed the Strait of Hormuz, through which a fifth of global oil and gas shipments usually pass, impacting the global economy.\n\nIranian President Masoud Pezeshkian told the UN General Assembly on Wednesday that any peace deal would have to include an end to the US blockade preventing Iranian ships from using the waterway.\n\nResponding to US President Donald Trump's threat to \"annihilate\" the Islamic Republic if a deal was not reached soon, Pezeshkian said his country will never \"bend the knee\" .\n\n\"The resistance of the Iranian people will only increase in the face of sanctions, increased pressure, increased bullying,\" he said.\n\nThere was no immediate comment from the US, whose delegation walked out of the chamber at the start of Pezeshkian's address.\n\nThe Foreign Office said Miliband also used Thursday's meeting to raise the detention of British couple Lindsay and Craig Foreman .\n\nThe couple, from East Sussex, have been detained in Iran for more than 20 months after being arrested while passing through the country on a motorcycle journey.\n\nThe Foremans were each sentenced to 10 years in jail in February on espionage charges, which they deny.\n\nIn Miliband's discussion with the Iranian foreign minister, he reiterated the call for them to be immediately released and stressed that their welfare remained a priority for the government, the Foreign Office said.\n\nRelated topics\n\nIran\n\nEd Miliband\n\nUnited Nations",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2385,12 +2416,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1693,
+      "wordCount": 1690,
       "readingMinutes": 8,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a126/live/549bede0-b822-11f1-a430-4d16ee157c41.jpg",
-      "body": "Andy Burnham is gearing up to deliver his first conference speech as Labour leader\n\nPublished 25 September 2026, 00:44 BST\n\nAndy Burnham had plenty to say about where the government - and the country - was going wrong at last year's Labour conference in Liverpool.\n\nBut that was at a fringe meeting on the sidelines of the main event.\n\nNow, as Labour leader and prime minister, he is the main event - and it is down to him to show party members and the wider public that he has some answers.\n\nEarlier this week, he said his debut leader's speech would leave nobody in any doubt about \"what I'm trying to do in this role\".\n\n\"People are going to know the direction I want to take this country and I will set it down quite clearly,\" he told reporters en route to the UN General Assembly in New York.\n\nAn internal No 10 note has set out the broad themes he will explore when he takes to the stage in Liverpool on Tuesday - including setting out long-term solutions to build a belief that the future can be brighter.\n\nThe slogan for this year's conference is \"Hope Again\".\n\nSo in his speech he is likely to point to his forthcoming 10 Year Plan for the UK – which, he says, will have \"making life more affordable\" at its core.\n\nAs for the specifics of what he will say, some of it will be very familiar to anyone who was listening to his conference fringe speech 12 months ago.\n\nPotential crowd-pleaser\n\nBack then, he declared then that the country had \"lost control\" of \"the essentials\" following the Thatcher-era sell off of utilities and that we were all \"overpaying for water, housing energy, transport\".\n\nHe called for a renewed emphasis on technical education and wanted to see a decade of council house building on the scale of the post-war Labour government.\n\nFor a politician frequently denounced for \"flip flopping\" he has been remarkably consistent in recent times.\n\nHe is likely to re-alight on themes from his Labour leadership campaign – saying more about his commitment to greater \"public control\" – though not necessarily public ownership - of life's necessities; building national resilience in an unstable world; and investing political capital in the reform of social care.\n\nA potential crowd pleaser would be to tell Labour activists from the main stage what he told them as Greater Manchester mayor from the fringe last year – that he will set up a commission to examine electoral reform.\n\nA quarter of his own MPs signed a parliamentary amendment calling for this, and the Labour conference has previously given its backing to changing the voting system, though this was not taken forward in government.\n\nBut it may now be a way of demonstrating Burnham's commitment to a \"new politics\".\n\nWe are also likely to hear more about getting young people into work or training, with the conclusions of the review by the former Labour cabinet minister Alan Milburn likely to be published soon.\n\nAnd there is certain to be plenty about his efforts to devolve power away from Whitehall to England's mayors and the new No 10 North.\n\nThe task for Burnham is to meld these snapshots into a compelling and coherent narrative, culminating in a vision of the Britain he wants to see a decade from now.\n\nBut there are already worries that this might become a fictional narrative unless he also focuses even more on the here and now.\n\nAfter all, Sir Keir Starmer's \"decade of national renewal\" was binned after just two bumpy years in office.\n\nUnite's Sharon Graham is calling for more help with the cost of living\n\nWe are told there will be policy announcements on each day of the conference – starting on Saturday.\n\nEach announcement will have to fit in with the PM's priorities – \"putting power in people's hands\" - in other words more devolved powers; \"growth in every postcode\" – such as investment decisions around the country; and help with cost of living.\n\nWindfall tax?\n\nParty insiders say measures such as removing VAT from electricity bills are just the start of that assistance.\n\nBut Labour's biggest union funder, Unite, wants to see much more robust action on living costs sooner rather than later. The union does not want the promise of jam tomorrow, but some instant sweeteners.\n\nIts leader, Sharon Graham, has called for a \"winter fuel in reverse\" – a policy from Burnham next week which would be as popular as Starmer's early removal of payments from many pensioners was unpopular.\n\nThe union has put forward a motion which gives the PM plenty of options such as a cap on energy prices and unfreezing tax thresholds – an issue Burnham himself said had come up on the doorsteps when he was campaigning to be the MP for Makerfield.\n\nThe union has said revenue can be raised through a windfall tax on banks. The umbrella body for unions, the TUC, has called for an increase in the bank surcharge to subsidise energy bills.\n\nAll eyes will be on John Healey's first conference speech as chancellor on Monday.\n\nWith borrowing costs for last month soaring to their second highest level , his room for manoeuvre is limited and he will not scoop his own Budget next month by announcing what is in it.\n\nBut Labour activists will be keen to know from his language whether Healey's Treasury will opt for continuity or will represent a break from the past two years under Rachel Reeves, not just in rhetoric but reality.\n\nEarly election?\n\nSome in Labour's ranks believe Burnham is planning for an early election, with party HQ recently launching \"operation second term\", to beef up its campaigning and organising strength.\n\nBurnham does not have to call an election until August 2029 - but going to the country early - perhaps as early as next spring - could deliver him a mandate of his own and free him from the constraints of Sir Keir Starmer's 2024 manifesto.\n\nRecent polling has suggested that a \"Burnham bounce\" is real, though not dramatic.\n\nThe party has moved from just under 20% in the polls at the end of the Starmer era to around the mid-twenties now.\n\nIpsos puts its standing as high as 28% , external , while YouGov registers a more modest 23% , external .\n\nLabour strategists will be pleased that Reform UK's share – 21% in YouGov - is the lowest since January 2025, and that Nigel Farage's party is now neck-and-neck with Kemi Badenoch's Conservatives.\n\nOne Labour insider told me that Burnham is happy to see a resilient Badenoch, as this blunts Reform support and could point to a split vote on the right at an election.\n\nAnd new research from YouGov , external suggests that at the all important constituency level, 63-68% of Lib Dem and Green voters would tactically vote for Labour to stop Reform UK winning their seat.\n\nBurnham of course also faces a challenge on the left.\n\nHow much of a threat Zack Polanski's Greens can be in some traditional Labour seats will be tested in the Holborn and St Pancras by-election just a week after the Labour conference concludes.\n\nDowning Street insists that an early election is not being planned.\n\nTo say anything else, though, would be to repeat the uncertainty of Gordon Brown's early months in No 10 when election speculation wasn't doused - and had become so rife that he was reputationally damaged when he decided not to go to the polls.\n\nBut some who have been in regular touch with No 10 tell me they have seen no serious signs that an early election is in the offing.\n\nBurnham appears determined to give his government enough time in office to present tangible achievements to a sceptical electorate.\n\nAnd with Labour still well below the 34% vote share it captured in 2024, many Labour MPs will be pushing the PM not to cut and run.\n\nSo don't expect the centre point of Burnham's conference speech to be a message to his MPs to go back to their constituencies and prepare for a loss of some of their seats.\n\nBut equally don't expect election speculation to subside at this conference.\n\nEnvironmental campaigners are firmly opposed to Rosebank and Jackdaw\n\n'Breathing space'\n\nThe Labour Party has tried and trusted methods of managing dissent at party conferences, when it comes to votes on party policy.\n\nBut the coming week could see a concerted effort by some on the left to push for a complete ban on arms sales to Israel and for Israel's actions in Gaza to be described by Labour as a genocide.\n\nThose close to Burnham believe he has gained considerable credit by sanctioning the illegal Israeli settlements on the West Bank and won't need to go further.\n\nThere is also some frustration that his government has not yet revised proposals to make migrants wait much longer to gain permanent residency rights, and there are genuine differences over whether the Rosebank and Jackdaw oil and gas fields should go ahead.\n\nBut while Burnham is facing some difficult calls, this is not a leader facing a restless party in revolt.\n\nHe has offered to give the hard-pressed public \"breathing space\" amid a cost of living crisis.\n\nAnd his own party is so far giving him breathing space as leader – largely sighing with relief that it is not Sir Keir Starmer who will be delivering the main address this year.\n\nSenior Labour officials have hailed the forthcoming conference as an opportunity to \"show voters a party that is boldly, confidently, and authentically Labour\".\n\nBut not too far below the political radar, there are already demands from some in the wider Labour movement to prove it.\n\nGet in touch\n\nDo you have any views, comments or questions about this story?\n\nUK to fight Russian disinformation and push new global AI standards, Burnham says Published 2 days ago\n\nNo 'switch' to stop small boats, Lucy Powell tells BBC Published 1 day ago\n\nBurnham brands ban on football fans drinking alcohol in stands as 'discrimination' Published 2 days ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham\n\nLabour Party Conference\n\nLabour Party",
+      "body": "Andy Burnham is gearing up to deliver his first conference speech as Labour leader\n\nPublished 25 September 2026\n\nAndy Burnham had plenty to say about where the government - and the country - was going wrong at last year's Labour conference in Liverpool.\n\nBut that was at a fringe meeting on the sidelines of the main event.\n\nNow, as Labour leader and prime minister, he is the main event - and it is down to him to show party members and the wider public that he has some answers.\n\nEarlier this week, he said his debut leader's speech would leave nobody in any doubt about \"what I'm trying to do in this role\".\n\n\"People are going to know the direction I want to take this country and I will set it down quite clearly,\" he told reporters en route to the UN General Assembly in New York.\n\nAn internal No 10 note has set out the broad themes he will explore when he takes to the stage in Liverpool on Tuesday - including setting out long-term solutions to build a belief that the future can be brighter.\n\nThe slogan for this year's conference is \"Hope Again\".\n\nSo in his speech he is likely to point to his forthcoming 10 Year Plan for the UK – which, he says, will have \"making life more affordable\" at its core.\n\nAs for the specifics of what he will say, some of it will be very familiar to anyone who was listening to his conference fringe speech 12 months ago.\n\nPotential crowd-pleaser\n\nBack then, he declared then that the country had \"lost control\" of \"the essentials\" following the Thatcher-era sell off of utilities and that we were all \"overpaying for water, housing energy, transport\".\n\nHe called for a renewed emphasis on technical education and wanted to see a decade of council house building on the scale of the post-war Labour government.\n\nFor a politician frequently denounced for \"flip flopping\" he has been remarkably consistent in recent times.\n\nHe is likely to re-alight on themes from his Labour leadership campaign – saying more about his commitment to greater \"public control\" – though not necessarily public ownership - of life's necessities; building national resilience in an unstable world; and investing political capital in the reform of social care.\n\nA potential crowd pleaser would be to tell Labour activists from the main stage what he told them as Greater Manchester mayor from the fringe last year – that he will set up a commission to examine electoral reform.\n\nA quarter of his own MPs signed a parliamentary amendment calling for this, and the Labour conference has previously given its backing to changing the voting system, though this was not taken forward in government.\n\nBut it may now be a way of demonstrating Burnham's commitment to a \"new politics\".\n\nWe are also likely to hear more about getting young people into work or training, with the conclusions of the review by the former Labour cabinet minister Alan Milburn likely to be published soon.\n\nAnd there is certain to be plenty about his efforts to devolve power away from Whitehall to England's mayors and the new No 10 North.\n\nThe task for Burnham is to meld these snapshots into a compelling and coherent narrative, culminating in a vision of the Britain he wants to see a decade from now.\n\nBut there are already worries that this might become a fictional narrative unless he also focuses even more on the here and now.\n\nAfter all, Sir Keir Starmer's \"decade of national renewal\" was binned after just two bumpy years in office.\n\nUnite's Sharon Graham is calling for more help with the cost of living\n\nWe are told there will be policy announcements on each day of the conference – starting on Saturday.\n\nEach announcement will have to fit in with the PM's priorities – \"putting power in people's hands\" - in other words more devolved powers; \"growth in every postcode\" – such as investment decisions around the country; and help with cost of living.\n\nWindfall tax?\n\nParty insiders say measures such as removing VAT from electricity bills are just the start of that assistance.\n\nBut Labour's biggest union funder, Unite, wants to see much more robust action on living costs sooner rather than later. The union does not want the promise of jam tomorrow, but some instant sweeteners.\n\nIts leader, Sharon Graham, has called for a \"winter fuel in reverse\" – a policy from Burnham next week which would be as popular as Starmer's early removal of payments from many pensioners was unpopular.\n\nThe union has put forward a motion which gives the PM plenty of options such as a cap on energy prices and unfreezing tax thresholds – an issue Burnham himself said had come up on the doorsteps when he was campaigning to be the MP for Makerfield.\n\nThe union has said revenue can be raised through a windfall tax on banks. The umbrella body for unions, the TUC, has called for an increase in the bank surcharge to subsidise energy bills.\n\nAll eyes will be on John Healey's first conference speech as chancellor on Monday.\n\nWith borrowing costs for last month soaring to their second highest level , his room for manoeuvre is limited and he will not scoop his own Budget next month by announcing what is in it.\n\nBut Labour activists will be keen to know from his language whether Healey's Treasury will opt for continuity or will represent a break from the past two years under Rachel Reeves, not just in rhetoric but reality.\n\nEarly election?\n\nSome in Labour's ranks believe Burnham is planning for an early election, with party HQ recently launching \"operation second term\", to beef up its campaigning and organising strength.\n\nBurnham does not have to call an election until August 2029 - but going to the country early - perhaps as early as next spring - could deliver him a mandate of his own and free him from the constraints of Sir Keir Starmer's 2024 manifesto.\n\nRecent polling has suggested that a \"Burnham bounce\" is real, though not dramatic.\n\nThe party has moved from just under 20% in the polls at the end of the Starmer era to around the mid-twenties now.\n\nIpsos puts its standing as high as 28% , external , while YouGov registers a more modest 23% , external .\n\nLabour strategists will be pleased that Reform UK's share – 21% in YouGov - is the lowest since January 2025, and that Nigel Farage's party is now neck-and-neck with Kemi Badenoch's Conservatives.\n\nOne Labour insider told me that Burnham is happy to see a resilient Badenoch, as this blunts Reform support and could point to a split vote on the right at an election.\n\nAnd new research from YouGov , external suggests that at the all important constituency level, 63-68% of Lib Dem and Green voters would tactically vote for Labour to stop Reform UK winning their seat.\n\nBurnham of course also faces a challenge on the left.\n\nHow much of a threat Zack Polanski's Greens can be in some traditional Labour seats will be tested in the Holborn and St Pancras by-election just a week after the Labour conference concludes.\n\nDowning Street insists that an early election is not being planned.\n\nTo say anything else, though, would be to repeat the uncertainty of Gordon Brown's early months in No 10 when election speculation wasn't doused - and had become so rife that he was reputationally damaged when he decided not to go to the polls.\n\nBut some who have been in regular touch with No 10 tell me they have seen no serious signs that an early election is in the offing.\n\nBurnham appears determined to give his government enough time in office to present tangible achievements to a sceptical electorate.\n\nAnd with Labour still well below the 34% vote share it captured in 2024, many Labour MPs will be pushing the PM not to cut and run.\n\nSo don't expect the centre point of Burnham's conference speech to be a message to his MPs to go back to their constituencies and prepare for a loss of some of their seats.\n\nBut equally don't expect election speculation to subside at this conference.\n\nEnvironmental campaigners are firmly opposed to Rosebank and Jackdaw\n\n'Breathing space'\n\nThe Labour Party has tried and trusted methods of managing dissent at party conferences, when it comes to votes on party policy.\n\nBut the coming week could see a concerted effort by some on the left to push for a complete ban on arms sales to Israel and for Israel's actions in Gaza to be described by Labour as a genocide.\n\nThose close to Burnham believe he has gained considerable credit by sanctioning the illegal Israeli settlements on the West Bank and won't need to go further.\n\nThere is also some frustration that his government has not yet revised proposals to make migrants wait much longer to gain permanent residency rights, and there are genuine differences over whether the Rosebank and Jackdaw oil and gas fields should go ahead.\n\nBut while Burnham is facing some difficult calls, this is not a leader facing a restless party in revolt.\n\nHe has offered to give the hard-pressed public \"breathing space\" amid a cost of living crisis.\n\nAnd his own party is so far giving him breathing space as leader – largely sighing with relief that it is not Sir Keir Starmer who will be delivering the main address this year.\n\nSenior Labour officials have hailed the forthcoming conference as an opportunity to \"show voters a party that is boldly, confidently, and authentically Labour\".\n\nBut not too far below the political radar, there are already demands from some in the wider Labour movement to prove it.\n\nGet in touch\n\nDo you have any views, comments or questions about this story?\n\nUK to fight Russian disinformation and push new global AI standards, Burnham says Published 2 days ago\n\nNo 'switch' to stop small boats, Lucy Powell tells BBC Published 1 day ago\n\nBurnham brands ban on football fans drinking alcohol in stands as 'discrimination' Published 2 days ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham\n\nLabour Party Conference\n\nLabour Party",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2445,6 +2476,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c86/live/03eb8740-b72b-11f1-b6b0-f732836ccdab.jpg"
+    },
+    {
+      "id": "0a327c92e3e9fb97",
+      "title": "Long agenda, short meeting: Trump and Xi meet",
+      "summary": "All Things Considered host Mary Louise Kelly talks with White House correspondent Emily Feng about the Trump/Xi summit.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5973112/long-agenda-short-meeting-trump-and-xi-meet",
+      "source": "NPR Politics",
+      "publisher": "NPR",
+      "published": "2026-09-24T22:10:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5973112"
     },
     {
       "id": "8add3b1c7c5b87c9",
@@ -3027,30 +3082,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d55/live/5ec72f60-b8cb-11f1-ad1f-538855f30ba1.jpg"
     },
     {
-      "id": "4c3a1f002329365a",
-      "title": "Man City found guilty of breaking financial rules",
-      "summary": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-09-25T20:11:12Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f162/live/8ef99460-b91c-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
       "id": "54fcdd484d0155ec",
       "title": "How Irish provinces are shaping up for new season",
       "summary": "With the new United Rugby Championship season starting on Friday evening, BBC Sport NI looks at the prospects for all four Irish teams in 2025-26.",
@@ -3074,6 +3105,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55d0/live/2a057140-b698-11f1-a430-4d16ee157c41.png"
+    },
+    {
+      "id": "cef6f550c8e82a4c",
+      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+      "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-09-25T21:10:51Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tesla-Optimus-V3-humanoid-robot-1152x648.jpg"
     },
     {
       "id": "f6c90cfecca94bb7",
@@ -3127,7 +3182,7 @@
     {
       "id": "35c4f69ae4ddb161",
       "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring”",
+      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
       "contentStatus": "Source-provided feed summary",
       "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
       "source": "Ars Technica",
@@ -3171,6 +3226,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/iPhone-18-Pro-1152x648.jpg"
+    },
+    {
+      "id": "277e79e0c6e24a69",
+      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+      "summary": "Ads appearing all over the Internet are trying to scam people.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-09-25T19:38:59Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 11,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg"
     },
     {
       "id": "b7602637e03e6853",
@@ -3559,6 +3638,52 @@
       "imageUrl": "https://i.guim.co.uk/img/media/4b583dc819f5ec7ab9617c413172a05c53fab2bb/317_0_6827_5464/master/6827.jpg?width=700&quality=85&auto=format&fit=max&s=886e5ce4763854419de9434927049022"
     },
     {
+      "id": "f8ad319f0953fcdb",
+      "title": "US official claims Trump holds all the cards in Iran talks",
+      "summary": "US State Department Spokesman Tommy Pigott says President Donald Trump ‘holds all of the cards’ in talks with Tehran.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-09-26T04:37:22Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "58c2acfc41da338c",
+      "title": "White House bars CNN from Air Force One for Trump’s upcoming trip",
+      "summary": "Real America's Voice News replaces CNN on Air Force One amid escalating tensions between President Trump and US media.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/9/26/white-house-bars-cnn-from-air-force-one-for-trumps-upcoming-trip?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-09-26T04:27:07Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "99b6cfa208e5619e",
       "title": "UK diesel price close to all-time high",
       "summary": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
@@ -3772,6 +3897,30 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
+    },
+    {
+      "id": "3ea8c0ab1bf6ef36",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-09-25T23:20:48Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1747/live/dc2a8ea0-b85a-11f1-a8b8-8b929801ec51.jpg"
     },
     {
       "id": "d746e2c63a7f1eda",
@@ -4086,6 +4235,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89fb/live/cd4d2380-b921-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
+      "id": "28043800441ae5c2",
+      "title": "What could the potential sanctions for Man City be?",
+      "summary": "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-09-25T14:55:14Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 42,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0db/live/85271ca0-b8f4-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
       "id": "d49f1d1689bb5922",
       "title": "British trio lose European finals but claim silvers",
       "summary": "Chantelle Reid, Abdul Burton and Damar Thomas are all beaten in their final bouts at the European Boxing Championships.",
@@ -4367,29 +4540,6 @@
       "focus": "",
       "sourceType": "news",
       "wordCount": 33,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "a3b5bd6bd9bd4646",
-      "title": "US top court allows Trump to use controversial voter verification system",
-      "summary": "Voting rights groups have warned system may falsely identify voters as non-citizens, leading to disenfranchisement.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-09-25T17:45:24Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -4871,150 +5021,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg"
-    },
-    {
-      "id": "1d51dda4746aeea9",
-      "title": "Back and loving it - Pietersen on his history, Brook & helping win the Ashes",
-      "summary": "Former batter turned specialist mentor Kevin Pietersen talks about his new role with England, his past history with the ECB and working with Harry Brook and Brendon McCullum.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c32l8q4z481wo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-09-25T11:00:21Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 28,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03c3/live/d1b4e4b0-b8c4-11f1-ad1f-538855f30ba1.jpg"
-    },
-    {
-      "id": "53aaf6b5e3f0b3eb",
-      "title": "Why this Pokémon set is dropping in value",
-      "summary": "How does one price a cemetery plot? Are they using dynamic pricing to figure it out? We tackle that question and many more in this week's Indicator newsletter.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
-      "source": "NPR Business",
-      "publisher": "NPR",
-      "published": "2026-09-25T11:00:00Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 28,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5980393"
-    },
-    {
-      "id": "05b54402f31d2e44",
-      "title": "F-Droid gets its biggest update in a decade with new UI and smoother app installs",
-      "summary": "F-Droid's Android app store has been rebuilt from the ground up.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-09-24T19:30:42Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 11,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/F-Droid2-1-1152x648.jpg"
-    },
-    {
-      "id": "c3ccf5f38ba2b15e",
-      "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
-      "summary": "Oscar-winning documentarian Alex Gibney focuses on the world's wealthiest man.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-09-24T18:52:23Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 10,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/elonTOP-1152x648-1790271240.jpg"
-    },
-    {
-      "id": "73d59f9d7bffff2c",
-      "title": "Robots make combat airdrops, clear mines as Ukraine defeats Russian pincer",
-      "summary": "Ukraine’s Operation Vivaldi has erased Russian gains with the help of robots.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-09-24T18:39:47Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 12,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Ukraine-ground-robot-1152x648.jpg"
-    },
-    {
-      "id": "369ea6fb3b1a871b",
-      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-      "summary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-09-24T18:20:58Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 10,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/DataOne-drone-image-via-Sustain-SJ-1152x648.jpg"
     }
   ],
   "sourceStatus": [
@@ -5051,7 +5057,7 @@
     {
       "source": "DW",
       "ok": true,
-      "items": 138
+      "items": 135
     },
     {
       "source": "UN News",
