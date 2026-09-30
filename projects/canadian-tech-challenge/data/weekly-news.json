@@ -1,153 +1,153 @@
 {
   "schemaVersion": 1,
-  "editionDate": "2026-09-23",
-  "editionRange": "September 15–23, 2026",
-  "generatedAt": "2026-09-23T16:34:21Z",
+  "editionDate": "2026-09-30",
+  "editionRange": "September 22–30, 2026",
+  "generatedAt": "2026-09-30T16:34:50Z",
   "questionCount": 8,
   "questions": [
     {
-      "id": "2026-09-23-bell-cohere-cybersecurity-model",
-      "topic": "Cybersecurity AI",
-      "company": "Bell and Cohere",
-      "question": "Where is Bell integrating its new cybersecurity-focused Cohere model?",
+      "id": "2026-09-30-quantum-emotion-plurilock-deal",
+      "topic": "Cybersecurity acquisition",
+      "company": "Quantum eMotion and Plurilock",
+      "question": "How is Quantum eMotion's proposed acquisition of Plurilock structured?",
       "options": [
-        "Its Autonomous Security Operations Centre",
-        "Its consumer MyBell app",
-        "Its fibre network routing system",
-        "Its retail device-support portal"
+        "30% cash and 70% Quantum eMotion shares",
+        "70% cash and 30% Quantum eMotion shares",
+        "Entirely in cash",
+        "Entirely in Quantum eMotion shares"
       ],
       "answer": 0,
-      "explanation": "The domain-specific model is being integrated into Bell Cyber's Autonomous Security Operations Centre to support threat investigations.",
-      "sourceUrl": "https://mobilesyrup.com/2026/09/23/bell-cohere-canadian-cybersecurity-ai/",
-      "sourceLabel": "MobileSyrup — Bell and Cohere cybersecurity AI",
-      "eventDate": "2026-09-23",
-      "asOf": "2026-09-23"
+      "explanation": "The nearly $34-million CAD deal would be paid 30 percent in cash and 70 percent in Quantum eMotion common shares.",
+      "sourceUrl": "https://betakit.com/quantum-emotion-to-acquire-fellow-canadian-cybersecurity-firm-plurilock/",
+      "sourceLabel": "BetaKit — Quantum eMotion's proposed Plurilock acquisition",
+      "eventDate": "2026-09-29",
+      "asOf": "2026-09-30"
     },
     {
-      "id": "2026-09-23-smartarm-palm-camera",
-      "topic": "AI-powered prosthetics",
-      "company": "SmartArm",
-      "question": "Where is the onboard camera for SmartArm's object-recognition system located?",
+      "id": "2026-09-30-daedal-fusion-diagnostics-funding",
+      "topic": "Fusion diagnostics",
+      "company": "Daedal Systems",
+      "question": "What does Daedal Systems plan to build with its new funding?",
       "options": [
-        "Inside the wrist joint",
-        "On the user's shoulder",
-        "In the palm",
-        "Above the elbow"
-      ],
-      "answer": 2,
-      "explanation": "A camera built into the palm streams video to Dexterity OS, which identifies objects and selects an appropriate grip.",
-      "sourceUrl": "https://mobilesyrup.com/2026/09/23/toronto-startup-smartarm-uses-meta-ai-glasses-to-help-see-objects/",
-      "sourceLabel": "MobileSyrup — SmartArm object-recognition system",
-      "eventDate": "2026-09-23",
-      "asOf": "2026-09-23"
-    },
-    {
-      "id": "2026-09-23-blair-health-pre-seed",
-      "topic": "Women's health technology",
-      "company": "Blair Health",
-      "question": "What stage was Blair Health's first institutional financing?",
-      "options": [
-        "Series A",
-        "Pre-seed",
-        "Series B",
-        "Growth equity"
+        "A commercial fusion reactor",
+        "Three reactor diagnostic systems",
+        "A uranium-enrichment facility",
+        "A grid-scale battery factory"
       ],
       "answer": 1,
-      "explanation": "Blair Health announced a $4.24-million CAD pre-seed round, its first institutional financing.",
-      "sourceUrl": "https://betakit.com/blair-health-secures-4-2-million-to-make-specialized-womens-care-more-accessible/",
-      "sourceLabel": "BetaKit — Blair Health pre-seed financing",
-      "eventDate": "2026-09-23",
-      "asOf": "2026-09-23"
+      "explanation": "Daedal plans to build its first three plasma-measurement reactor diagnostic systems and deploy the prototypes with pilot customers.",
+      "sourceUrl": "https://betakit.com/ex-general-fusion-employee-raises-4-million-usd-for-fusion-diagnostics-startup-daedal/",
+      "sourceLabel": "BetaKit — Daedal Systems fusion-diagnostics funding",
+      "eventDate": "2026-09-29",
+      "asOf": "2026-09-30"
     },
     {
-      "id": "2026-09-23-td-layer6-cohere-collaboration",
-      "topic": "Enterprise AI adoption",
-      "company": "TD Layer 6 and Cohere",
-      "question": "Over what period will TD's initial AI investment of up to $25 million be made?",
+      "id": "2026-09-30-bell-cisco-sovereign-ai",
+      "topic": "Sovereign AI infrastructure",
+      "company": "Bell and Cisco",
+      "question": "Which Cisco offering is part of its sovereign-AI collaboration with Bell?",
       "options": [
-        "One year",
-        "Two years",
-        "Three years",
-        "Five years"
+        "Webex Contact Center",
+        "Meraki Go",
+        "Sovereign Critical Infrastructure",
+        "Cisco Spaces"
       ],
       "answer": 2,
-      "explanation": "TD announced an initial investment of up to $25 million CAD over three years to support AI development and adoption through the collaboration.",
-      "sourceUrl": "https://betakit.com/tds-layer-6-and-cohere-embark-on-25-million-ai-collaboration/",
-      "sourceLabel": "BetaKit — TD Layer 6 and Cohere collaboration",
-      "eventDate": "2026-09-22",
-      "asOf": "2026-09-23"
+      "explanation": "The memorandum of understanding combines Bell's data-centre, network, and operations capabilities with Cisco technology including Sovereign Critical Infrastructure.",
+      "sourceUrl": "https://mobilesyrup.com/2026/09/29/bell-cisco-sign-mou-on-sovereign-ai-infrastructure-in-canada/",
+      "sourceLabel": "MobileSyrup — Bell and Cisco sovereign-AI memorandum",
+      "eventDate": "2026-09-29",
+      "asOf": "2026-09-30"
     },
     {
-      "id": "2026-09-23-birdandbe-series-a",
-      "topic": "Reproductive health technology",
-      "company": "Bird&Be",
-      "question": "Which two investors co-led Bird&Be's $13-million USD Series A?",
+      "id": "2026-09-30-brodie-rec-expansion-goal",
+      "topic": "Sports technology",
+      "company": "Brodie Rec",
+      "question": "What North American expansion goal has Brodie Rec set for the end of 2027?",
       "options": [
-        "BDC Thrive Fund and BFG Partners",
-        "BAM Ventures and Founder Collective",
-        "Rejuvenation Ventures and HSR Ventures",
-        "Accelia Capital and Garage Capital"
+        "Operating in every Canadian province",
+        "Reaching one million active players",
+        "Running 1,000 games each week",
+        "Being present in the top 100 markets"
       ],
-      "answer": 0,
-      "explanation": "BDC's Thrive Fund and consumer-focused venture firm BFG Partners co-led Bird&Be's all-equity Series A.",
-      "sourceUrl": "https://betakit.com/birdbe-raises-13-million-usd-series-a-for-fertility-support-platform/",
-      "sourceLabel": "BetaKit — Bird&Be Series A",
-      "eventDate": "2026-09-22",
-      "asOf": "2026-09-23"
+      "answer": 3,
+      "explanation": "Brodie Rec aims to be present in the top 100 North American markets by the end of 2027 as it expands its technology-enabled basketball league.",
+      "sourceUrl": "https://betakit.com/how-brodie-rec-is-turning-recreational-basketball-into-a-10-million-growth-story/",
+      "sourceLabel": "BetaKit — Brodie Rec expansion",
+      "eventDate": "2026-09-29",
+      "asOf": "2026-09-30"
     },
     {
-      "id": "2026-09-23-ualberta-regenerative-hub",
-      "topic": "Regenerative medicine",
-      "company": "University of Alberta",
-      "question": "How is the University of Alberta's new regenerative medicine hub primarily structured?",
+      "id": "2026-09-30-adbio-montreal-expansion",
+      "topic": "Life-sciences venture capital",
+      "company": "AdBio Partners",
+      "question": "What share of AdBio Partners' third fund is expected to be invested outside Europe?",
       "options": [
-        "As a physical manufacturing plant",
-        "As a hospital-only clinical unit",
-        "As a primarily virtual network",
-        "As an undergraduate degree program"
-      ],
-      "answer": 2,
-      "explanation": "The hub is a primarily virtual network connecting biomedical researchers with clinicians, regulators, entrepreneurs, and other healthcare stakeholders.",
-      "sourceUrl": "https://betakit.com/university-of-alberta-launches-regenerative-medicine-hub-at-life-sciences-week/",
-      "sourceLabel": "BetaKit — University of Alberta regenerative medicine hub",
-      "eventDate": "2026-09-22",
-      "asOf": "2026-09-23"
-    },
-    {
-      "id": "2026-09-23-astrus-chip-design-ai",
-      "topic": "Semiconductor design automation",
-      "company": "Astrus",
-      "question": "Which AI approach does Astrus use for the physical design of integrated circuits?",
-      "options": [
-        "Reinforcement learning",
-        "Federated learning",
-        "Optical character recognition",
-        "Speech synthesis"
-      ],
-      "answer": 0,
-      "explanation": "Astrus is developing a reinforcement-learning system to automate physical integrated-circuit design for analog designers.",
-      "sourceUrl": "https://betakit.com/with-new-funding-astrus-prepares-to-automate-one-of-the-biggest-bottlenecks-in-chip-design/",
-      "sourceLabel": "BetaKit — Astrus chip-design automation",
-      "eventDate": "2026-09-22",
-      "asOf": "2026-09-23"
-    },
-    {
-      "id": "2026-09-23-heidi-toronto-headquarters",
-      "topic": "Clinical AI expansion",
-      "company": "Heidi",
-      "question": "How many additional Canadian jobs does Heidi expect to create as it establishes its Toronto headquarters?",
-      "options": [
-        "17",
-        "30",
-        "47",
-        "75"
+        "10 percent",
+        "20 percent",
+        "35 percent",
+        "50 percent"
       ],
       "answer": 1,
-      "explanation": "Heidi said it has already hired 17 employees in Canada and expects to add 30 jobs across engineering, clinical, and commercial teams.",
-      "sourceUrl": "https://betakit.com/heidi-invests-nearly-26-million-to-establish-toronto-as-north-american-headquarters/",
-      "sourceLabel": "BetaKit — Heidi Toronto headquarters investment",
-      "eventDate": "2026-09-22",
-      "asOf": "2026-09-23"
+      "explanation": "AdBio partner Mounia Azzi said she expects 20 percent of the 120-million-euro fund to be invested outside Europe, with a focus on Québec.",
+      "sourceUrl": "https://betakit.com/french-vc-firm-adbio-expands-into-canada-with-montreal-office/",
+      "sourceLabel": "BetaKit — AdBio Partners Montréal expansion",
+      "eventDate": "2026-09-29",
+      "asOf": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-bridge-impact-ai-beta",
+      "topic": "Reconciliation technology",
+      "company": "Bridge Impact AI",
+      "question": "Where did Bridge launch the beta version of its reconciliation app?",
+      "options": [
+        "Collision Conference",
+        "Victoria Tech Week",
+        "Web Summit Vancouver",
+        "Startupfest Montréal"
+      ],
+      "answer": 1,
+      "explanation": "The Victoria-based startup launched its app beta at Victoria Tech Week with tools for measuring and implementing reconciliation practices.",
+      "sourceUrl": "https://betakit.com/with-launch-of-new-app-bc-startup-bridge-looks-to-digitize-reconciliation/",
+      "sourceLabel": "BetaKit — Bridge Impact AI beta launch",
+      "eventDate": "2026-09-30",
+      "asOf": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-animikii-niiwin-hosting",
+      "topic": "Indigenous data sovereignty",
+      "company": "Animikii",
+      "question": "Where does Animikii host its Canadian Niiwin service?",
+      "options": [
+        "At a non-US-owned data centre in Québec",
+        "At a US-owned data centre in Virginia",
+        "Exclusively on servers in Manitoba",
+        "Across public-cloud regions in Europe"
+      ],
+      "answer": 0,
+      "explanation": "Animikii offers a hosted Niiwin service in Canada using a non-US-owned data centre in Québec, while also supporting deployment elsewhere.",
+      "sourceUrl": "https://betakit.com/qa-animikiis-jeff-ward-on-databack-and-what-the-world-can-learn-from-indigenous-tech/",
+      "sourceLabel": "BetaKit — Animikii's Niiwin data-sovereignty platform",
+      "eventDate": "2026-09-30",
+      "asOf": "2026-09-30"
+    },
+    {
+      "id": "2026-09-30-indigenous-workplace-ai-report",
+      "topic": "Workplace AI adoption",
+      "company": "Toronto Metropolitan University",
+      "question": "What share of Indigenous respondents said they were very familiar with workplace AI programs?",
+      "options": [
+        "17 percent",
+        "25 percent",
+        "30 percent",
+        "32 percent"
+      ],
+      "answer": 3,
+      "explanation": "The report found that 32 percent of Indigenous respondents were very familiar with workplace AI programs, compared with 17 percent of non-Indigenous respondents.",
+      "sourceUrl": "https://betakit.com/workplace-ai-adoption-accelerates-among-indigenous-peoples/",
+      "sourceLabel": "BetaKit — TMU report on Indigenous workplace AI adoption",
+      "eventDate": "2026-09-30",
+      "asOf": "2026-09-30"
     }
   ]
 }
