@@ -1,19 +1,19 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-03T19:12:29.032899Z",
+  "generatedAt": "2026-10-03T23:01:55.540475Z",
   "topStoryIds": [
-    "792c68b7c515a3e0",
+    "6314e2848b4d96a7",
     "0283ca97594654e8",
     "0b1a3f2530c26e48",
-    "7f99d9b26029943b",
+    "792c68b7c515a3e0",
     "c356b7ea23b1eba9",
     "f846297a0743ed9a",
-    "f055d4fad1f8d34a"
+    "05bb3064596f2bfe"
   ],
   "sectionStoryIds": {
     "Politics": [
+      "6314e2848b4d96a7",
       "792c68b7c515a3e0",
-      "7f99d9b26029943b",
       "c356b7ea23b1eba9",
       "3b106e959263a5b9",
       "95d1daa4841b8ecc",
@@ -22,7 +22,7 @@
     "Tech": [
       "0283ca97594654e8",
       "f846297a0743ed9a",
-      "f055d4fad1f8d34a",
+      "05bb3064596f2bfe",
       "1a40ca3367d7dc1e",
       "a07979eee5cfdeaf",
       "86e64ecd5c2c9339",
@@ -35,17 +35,17 @@
       "b93bb484ea749274"
     ],
     "Sports": [
+      "fffac0ba1fcea8f9",
       "6ee3fb9f64e605cd",
       "6005df2bf5cbc03e",
-      "6fba88da4f8a2bed",
       "fb164aa4025165c0",
       "e147cdf854420b5d",
       "49c2498eb8b04a26",
       "19286b08ebaf95a6",
       "723a27c383cf3d94",
       "58371aa8e1152b93",
-      "a4f3ab705d2da709",
-      "dc8198fa77c1249d",
+      "e33cf8143b869619",
+      "103018a1e8296ab1",
       "9d8641dac80f1849"
     ],
     "Editorial": [
@@ -61,14 +61,14 @@
   },
   "stories": [
     {
-      "id": "792c68b7c515a3e0",
-      "title": "Greens would offer two-year jobs to unemployed under-24s",
-      "summary": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\".",
+      "id": "6314e2848b4d96a7",
+      "title": "Tories pledge to scrap £100,000 childcare 'cliff edge'",
+      "summary": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo",
       "source": "BBC Politics",
       "publisher": "BBC",
-      "published": "2026-10-03T17:08:40Z",
+      "published": "2026-10-03T21:03:22Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
@@ -78,12 +78,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 615,
-      "readingMinutes": 3,
+      "wordCount": 713,
+      "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b0ad/live/a0ceddd0-bf1b-11f1-9b47-174f268aae1d.jpg",
-      "body": "Mothin Ali addressed Green Party members on the second day of their conference in Brighton\n\nPublished 3 October 2026, 13:51 BST\n\nYoung people would be offered a guaranteed two-year job within four months of leaving education or training, under a new proposal unveiled by the Green Party.\n\nAnnouncing the policy at the party's conference in Brighton, co-deputy leader Mothin Ali said there were a million \"bored, desperate and lost\" young people who were out of work, training or education.\n\nUnder the proposed scheme, youngsters would be offered posts in the private sector, with the government paying half their salary.\n\nAli said an initial pilot scheme - rolled out in areas with the fewest job openings for young people - would create 9,000 jobs, at an overall cost of £110m.\n\nThe pilot would start in areas such as Rotherham, Ceredigion, Newcastle-under-Lyme, Broxtowe and South Staffordshire, with an ambition to roll it out nationwide.\n\nThe party said that a person not in work, education or training would cost the state an estimated £240,000 in benefits over the course of their lifetime.\n\nIt argued that its policy would reduce spending on welfare and boost tax receipts from employment.\n\nEmployers would be exempt from paying National Insurance contributions, but would have to provide in-job training, the party says.\n\nThe party is seeking to pitch the plan as more ambitious than the government's own scheme, which subsidises six-month job placements for benefit claimants who have been looking for work for 18 months.\n\nAli also criticised ministers for previously suggesting youngsters refusing a role under that scheme could lose access to benefits, telling activists: \"Threatening young people with cuts to Universal Credit if they don't accept short-term work placements - that's not a youth strategy.\"\n\nSpeaking to BBC News after his speech, Ali said: \"If we don't take action now, we're losing a generation of young people.\"\n\nThe number of 16-24-year-olds who are not in employment, education or training has been rising since the Covid pandemic, with figures reaching almost one million.\n\nA long-awaited report into the problem by former Labour minister Alan Milburn is expected to be published this autumn.\n\nWhat does Neet stand for and why does the UK have so many? Published 27 August\n\nGreens can move Labour in the right direction, says Polanski Published 12 hours ago\n\nIn her own speech to the conference, Ali's fellow co-deputy leader Rachel Millward said the Greens would immediately bring both Thames Water and South East Water back into public ownership.\n\nShe argued this could be done without paying compensation to shareholders, pointing to water supply problems and a lack of new reservoirs.\n\nAndy Burnham has promised to bring water under greater public control, but has stopped short of announcing plans to nationalise any water companies.\n\nMillward told the conference the prime minister was \"making a mistake\" and his \"10-year plan of gentle threats and vague notions of control is not enough\".\n\n\"We need public ownership now, and we have all the tools we need to make it happen,\" she said.\n\nSouth East Water said it was \"focused on delivering on our commitments by investing £1.9 billion into local infrastructure and resilience over the next five years.\n\n\"We support working closely with the communities we serve and are accountable to, so that we can provide the best possible service for customers\".\n\nThames Water has been approached for a response.\n\nCash-strapped Thames Water poses big test for Burnham Published 15 July\n\nWater system a 'disaster', Green deputy leader says Published 2 days ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nGreen Party Conference\n\nGreen Party (England and Wales)",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af6b/live/df056910-bf62-11f1-ad02-314830f7a5f6.jpg",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: People shouldn't be punished for working harder, Badenoch says\n\nPublished 1 hour ago\n\nThe Conservatives have promised to scrap the \"absurd cliff edge\" that mean parents in England lose out on childcare support when they earn more than £100,000 a year.\n\nUnder the current system, only families where no parent earns more than this threshold are eligible for government-funded or tax-free childcare.\n\n\"What we want to see is that people who work harder don't get punished for doing so,\" Conservative leader Kemi Badenoch told the BBC's Sunday with Laura Kuenssberg programme.\n\nThe announcement comes as Conservative members gather for the party's annual conference in Birmingham.\n\nThe party said the move would be a \"first step\" in broader efforts to address issues in the tax system which damage incentives to work or invest.\n\nThis will be a theme of shadow chancellor Andrew Griffith's conference speech on Monday.\n\nSince September 2025, working parents in England have been entitled to 30 hours of free childcare , external for children aged between nine months and four years old.\n\nHowever, to qualify both parents must earn less than £100,000 a year.\n\nThe same £100,000 threshold applies to the government's tax-free childcare scheme , external .\n\nFor every £8 paid into an online childcare account, the government adds £2, up to £2,000 per child per year, which parents can then use to pay for childcare.\n\nThe Tories said they would remove the £100,000 threshold entirely so parents no longer lose childcare support when their income exceeds this level.\n\nThe threshold has been criticised by economists, who point out it can leave parents worse off overall even after a pay rise of tens of thousands of pounds.\n\nBadenoch told the BBC the party didn't want \"people to stop working because of that\".\n\nSpeaking before the party's conference, she added: \"What we want to see is more people in work and not taking the wrong decisions or the wrong choices, and it doesn't matter whether they're earning £10,000 or £100,000 - what matters is that people are out there working\".\n\nAsked if this could result in someone who earns £1 million a year get free childcare under a Conservative government, Badenoch responded: \"It doesn't matter what you earn - we don't want you to be punished for working hard. What we're trying to do is grow our economy.\"\n\nWhat does childcare cost and how do government-funded hours work in England? Published 21 May\n\nEducation secretary to ask competition watchdog to review hidden childcare costs Published 25 May\n\nTories aim to be election-ready ahead of party conference Published 1 day ago\n\nThe Tories argue the threshold may mean some people may delay having children until their incomes change, or decide not to start a family at all, describing scrapping it as \"both pro-family and pro-growth\".\n\nBy providing an increased incentive to work, the Tories said the move would also boost economic growth.\n\nThey added that it would tackle the \"unfairness\" that the threshold is calculated on an individual earner's income rather then for the whole household.\n\nIn a statement, Griffith said: \"Removing this childcare cliff edge is the first step in our mission to deliver lower, simpler, and fairer taxes across the board.\"\n\nThe party said the policy would be funded by cutting the number of public servants working in \"executive non-departmental public bodies\" - organisations which have a role in the processes of national government but operate at arm's length from ministers, such as Arts Council England and the Environment Agency.\n\nIt said this would save £1.6bn by 2029-30, covering the estimated £700 million cost of removing the childcare \"cliff edge\".\n\nBadenoch arrived in Birmingham on Saturday ahead of the annual conference, and vowed the party was new and different from the one that lost the 2024 general election.\n\nThe party - which is currently polling behind Labour and Reform UK - is expected to use the event to lay out more of its growing policy agenda ahead of the next general election.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nConservative Party\n\nConservative Party Conference\n\nChildcare\n\nTax\n\nFamily & Education",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -142,14 +142,14 @@
       "imageHeight": 630
     },
     {
-      "id": "7f99d9b26029943b",
-      "title": "Tories pledge to build 50,000 new prison places",
-      "summary": "The party says its proposals would stop prisoners being released early and cut crime.",
+      "id": "792c68b7c515a3e0",
+      "title": "Greens would offer two-year jobs to unemployed under-24s",
+      "summary": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\".",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o",
+      "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo",
       "source": "BBC Politics",
       "publisher": "BBC",
-      "published": "2026-10-03T14:17:52Z",
+      "published": "2026-10-03T17:08:40Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
@@ -159,12 +159,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 811,
-      "readingMinutes": 4,
+      "wordCount": 615,
+      "readingMinutes": 3,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dfb/live/9d6abfc0-be61-11f1-b36c-81ad410b221e.jpg",
-      "body": "Published 2 October 2026\n\nThe Conservatives have promised to build 50,000 new prison places in England and Wales to stop criminals being released early, if they return to government.\n\nThe party said it would cost £2bn per year to build and run the new prisons, funded by spending cuts including to the foreign aid budget.\n\nOn Thursday hundreds of prisoners were released early , under new rules introduced to prevent jails reaching capacity, with around 4,500 due to be freed by next summer.\n\nLabour blamed the previous Tory government for leaving \"our criminal justice system at breaking point\" and said the party's proposals were not \"credible\".\n\nThe announcement comes as Conservative members gather for the party's annual conference in Birmingham, which begins on Sunday.\n\nPrisons in England and Wales have been running close to capacity for years, with the latest government figures showing they are 98% full.\n\nUnder the latest early release scheme, eligible prisoners can now be released on a community licence after serving one-third of their jail sentence.\n\nThose excluded include prisoners convicted of murder, manslaughter, a sexual or grooming-related offence, or a driving offence that led to a death.\n\nThe government has also effectively scrapped one-year jail terms.\n\nThe Tories said they would use extra prison capacity to reverse these measures.\n\nAn early release programme introduced by the previous Conservative government saw more than 10,000 prisoners freed early between October 2023 and September 2024.\n\nConservative leader Kemi Badenoch said: \"A violent criminal doesn't become less dangerous just because the government has run out of prison cells.\"\n\nShe added: \"[Labour's] answer is to let dangerous offenders out even earlier instead of building the prison spaces we need.\"\n\nLabour Party chairwoman Bridget Phillipson said: \"The Tories are taking the public for fools. Across 14 years in government, they added just 500 prison places and closed 23 prisons.\n\n\"Now Kemi Badenoch expects the British people to believe they'll build 50,000.\"\n\nThe Liberal Democrats also criticised the Tory plan, describing it as \"fantasy numbers funded by breaking promises\".\n\n\"Much like their economic plans, something doesn't add up,\" added the party's justice spokesperson Jess Brown-Fuller.\n\nShadow justice secretary Nick Timothy told BBC Breakfast the 50,000 extra places would be built within six to seven years \"and the vast majority of them will be built in the first parliament\".\n\nMeanwhile, the Prison Governors' Association said \"long-term investment\" was needed and warned a \"staffing crisis\" would pose challenges to delivering new prisons.\n\nIf the party wins power, the Tories said they would introduce legislation early in the new Parliament to override planning and procurement barriers, allowing the process to be \"fast-tracked\".\n\nIt said the use of private finance would help speed up delivery and control costs.\n\nThere are currently around 89,000 useable prison places in England and Wales, according to the latest government figures.\n\nThe Tories said their proposals would increase this figure by more than 50%, with the vast majority of new places expected within the party's first Parliament in government - up to five years - and the full increase delivered within seven years.\n\nThe £2bn a year cost would be funded through savings in other areas, including cutting the aid budget by £1bn and reducing the budget of the Department for Culture Media and Sport by £1bn.\n\nThe Labour government has promised to add 14,000 extra prison space by 2031.\n\nThe Tories argued increasing prison places would cut crime and prevent reoffending by keeping serious criminals off the streets.\n\nTimothy said: \"Prison works. It works by punishing and deterring, but most importantly by incapacitating.\n\n\"Prison should keep violent and repeat offenders away from the law-abiding public.\"\n\nTories aim to be election-ready ahead of party conference Published 1 day ago\n\nThe prison population has risen significantly in recent decades, partly as a result of longer sentences and more people being returned to prison for breaching the conditions of their release.\n\nSuccessive governments have pledged to increase the number of prison places - but delivery has often fallen short of those promises.\n\nNew prisons take years to build, often facing local opposition and obstacles in the planning process.\n\nThe Prison Governors' Association said: \"Building 50,000 cells is one thing; finding the thousands of experienced officers, governors and specialists needed to run them safely is quite another.\n\n\"Politicians have spent years announcing prison places while the service struggles with overcrowding, ageing infrastructure and staffing shortages. The real test is not how many places can be promised, but how many prisons can be operated safely, effectively, and sustainably.\"\n\nHow the new prison release scheme will work - and number of inmates to be freed Published 2 days ago\n\nWhy are hundreds of prisoners being released early? Published 2 days ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nConservative Party\n\nPrisons",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b0ad/live/a0ceddd0-bf1b-11f1-9b47-174f268aae1d.jpg",
+      "body": "Mothin Ali addressed Green Party members on the second day of their conference in Brighton\n\nPublished 3 October 2026, 13:51 BST\n\nYoung people would be offered a guaranteed two-year job within four months of leaving education or training, under a new proposal unveiled by the Green Party.\n\nAnnouncing the policy at the party's conference in Brighton, co-deputy leader Mothin Ali said there were a million \"bored, desperate and lost\" young people who were out of work, training or education.\n\nUnder the proposed scheme, youngsters would be offered posts in the private sector, with the government paying half their salary.\n\nAli said an initial pilot scheme - rolled out in areas with the fewest job openings for young people - would create 9,000 jobs, at an overall cost of £110m.\n\nThe pilot would start in areas such as Rotherham, Ceredigion, Newcastle-under-Lyme, Broxtowe and South Staffordshire, with an ambition to roll it out nationwide.\n\nThe party said that a person not in work, education or training would cost the state an estimated £240,000 in benefits over the course of their lifetime.\n\nIt argued that its policy would reduce spending on welfare and boost tax receipts from employment.\n\nEmployers would be exempt from paying National Insurance contributions, but would have to provide in-job training, the party says.\n\nThe party is seeking to pitch the plan as more ambitious than the government's own scheme, which subsidises six-month job placements for benefit claimants who have been looking for work for 18 months.\n\nAli also criticised ministers for previously suggesting youngsters refusing a role under that scheme could lose access to benefits, telling activists: \"Threatening young people with cuts to Universal Credit if they don't accept short-term work placements - that's not a youth strategy.\"\n\nSpeaking to BBC News after his speech, Ali said: \"If we don't take action now, we're losing a generation of young people.\"\n\nThe number of 16-24-year-olds who are not in employment, education or training has been rising since the Covid pandemic, with figures reaching almost one million.\n\nA long-awaited report into the problem by former Labour minister Alan Milburn is expected to be published this autumn.\n\nWhat does Neet stand for and why does the UK have so many? Published 27 August\n\nGreens can move Labour in the right direction, says Polanski Published 15 hours ago\n\nIn her own speech to the conference, Ali's fellow co-deputy leader Rachel Millward said the Greens would immediately bring both Thames Water and South East Water back into public ownership.\n\nShe argued this could be done without paying compensation to shareholders, pointing to water supply problems and a lack of new reservoirs.\n\nAndy Burnham has promised to bring water under greater public control, but has stopped short of announcing plans to nationalise any water companies.\n\nMillward told the conference the prime minister was \"making a mistake\" and his \"10-year plan of gentle threats and vague notions of control is not enough\".\n\n\"We need public ownership now, and we have all the tools we need to make it happen,\" she said.\n\nSouth East Water said it was \"focused on delivering on our commitments by investing £1.9 billion into local infrastructure and resilience over the next five years.\n\n\"We support working closely with the communities we serve and are accountable to, so that we can provide the best possible service for customers\".\n\nThames Water has been approached for a response.\n\nCash-strapped Thames Water poses big test for Burnham Published 15 July\n\nWater system a 'disaster', Green deputy leader says Published 2 days ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nGreen Party Conference\n\nGreen Party (England and Wales)",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -223,14 +223,14 @@
       "imageHeight": 900
     },
     {
-      "id": "f055d4fad1f8d34a",
-      "title": "The dawn of the age of the exoskeleton",
-      "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+      "id": "05bb3064596f2bfe",
+      "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+      "summary": "\"...we were making history.\"",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+      "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
       "source": "Ars Technica",
       "publisher": "Ars Technica",
-      "published": "2026-10-03T11:15:33Z",
+      "published": "2026-10-03T19:45:17Z",
       "category": "Tech",
       "region": "World",
       "labels": [
@@ -240,14 +240,14 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1022,
+      "wordCount": 1050,
       "readingMinutes": 5,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2261904940-2560x1440.jpg",
-      "body": "The devices continue to show noticeable benefits for users in various real-world tasks.\n\nThis year, members of Seattle Mountain Rescue have been setting off into the wilds of the US Pacific Northwest wearing an unusual piece of kit .\n\nThey’ve been hiking into the wilderness with powered assistive devices attached to their hips and legs. Designed to increase lower-body strength when climbing or carrying heavy loads, these pieces of equipment are being tested to see if they can boost rescuers’ speed and endurance when it matters most—during searches for stranded people.\n\nDevices like these are called human exoskeletons . They attach to parts of the body to create an external—or “exo”—mechanical structure. This powered frame enhances the wearer’s physical capabilities.\n\nIn physically demanding fields, workers are increasingly using these devices during strenuous tasks. IKEA has used SuitX exoskeletons for several years now. These assist warehouse workers with handling heavy materials. Ford, Boeing , and Mazda Toyota have also all adopted the tech on some of their assembly lines.\n\nIn Finland, a recent project called ExoPELA assessed whether exoskeletons could reduce muscle load and strain in rescue and firefighting work. It found noticeable benefits for users in certain real-world tasks.\n\nAnd in early 2026, the Ukrainian military revealed its soldiers had been using Hypershell exoskeletons on the front lines to help with carrying artillery shells. According to test results, soldiers wearing the devices “become less fatigued, work faster, and maintain combat effectiveness for longer,” Colonel Vitalii Serdiuk told the Ukrainska Pravda newspaper in March.\n\nMultiple consumer and clinical devices, designed for everyday assistance , rehabilitation and exercise , are also now available. Some estimates have valued the total sector at around $500 million (£370 million) currently, and predict it could double or triple in size by the mid-2030s.\n\nExoskeleton technology has progressed significantly over the past decade. This has largely been thanks to robotic motors, sensors, and control systems becoming more affordable and accessible. However, the concept of augmenting human performance with exoskeleton-like devices dates back much earlier.\n\nOne of the earliest known concepts was patented in 1890 by Nicholas Yagn, a self-taught Russian inventor, who designed a wearable apparatus for exercising. And in 1919, the American Leslie C. Kelley received a patent for a steam-powered device to support walking, one of the first powered exoskeleton concepts.\n\nBy the end of the 1960s, multiple actuated robotic exoskeletons incorporating electronic control systems had been developed . Since then, exoskeleton research and development has advanced rapidly, leading to the emergence of numerous devices with commercial and clinical applications.\n\nHow they work\n\nExoskeletons generate forces to make the wearer stronger, move faster, or fatigue slower.\n\nSome devices also improve movement accuracy and dexterity or support overall posture. Some are designed to elevate human capabilities beyond what is typically possible. Others help patients with reduced physical capacity.\n\nModern, active robotic exoskeletons typically consist of a lightweight mechanical frame with ergonomic attachments to the human body. These are usually affixed at the trunk, waist and to upper or lower limbs.\n\nFor example, the Hypershell device seen in Ukraine attaches to the user’s waist and thighs, to assist with hip flexion and extension and strengthen lower-body movement. The SuitX device used by IKEA attaches to the torso and upper limbs, to support the back and shoulders.\n\nIn most powered exoskeletons, mechanical components called actuators convert electric power from batteries into mechanical movement, generating forces that support or enhance the body’s movement.\n\nThe actuators are coordinated by control units embedded in the exoskeleton. These define the trajectories of the exoskeleton’s movements and how much force it applies to the wearer’s body. Exactly how the device moves, and how forcefully, will depend on the task and the state of the user—with the device using sensors to determine what’s needed.\n\nFor instance, if a wearer starts running, an exoskeleton will speed up its supportive movements. If it senses they’re beginning to fatigue, it might increase its power output to compensate.\n\nControl units are normally pre-programmed for specific tasks, though modern exoskeletons are increasingly becoming more adaptive. Some are equipped with algorithms that learn from users’ actual working behaviors to better support their actions.\n\nHowever, assistance exoskeletons provide generally falls into three categories.\n\nPower augmentation increases the force capabilities of the user. This is commonly seen in assistive exoskeletons, like those being used by IKEA and in Ukraine.\n\nAssist-as-needed or resist-as-needed settings provide support to the body only when necessary. This setting is often used in rehabilitation devices, to help users train their bodies to recover lost capabilities.\n\nFinally there’s full robotic control , where the exoskeleton assumes complete control over part of the body. This tends to be for users who have lost certain motor functions. For example, a lower-body exoskeleton might use full robotic control to allow someone with spinal cord injury to walk.\n\nThese ways of working can be combined and adapted according to the specific task, environment, and needs of the user.\n\nWhat’s next?\n\nFor now, most exoskeletons rely on feedback from sensors to define how they exoskeletons behave; they’re wholly mechanical. But in the future exoskeletons could be operated with signals from the wearer’s muscles or brain . Research is exploring this, but it remains a challenge. Harnessing these signals might require an invasive interface and extensive user-specific calibration and adaptation.\n\nPower is another current challenge. Batteries have to be integrated into exoskeletons and regularly recharged. This introduces weight and size constraints that affect practicality. The energy density of batteries is steadily improving, however.\n\nNew materials are also pushing the boundaries of what’s possible. Exoskeletons are being developed that are made from soft textile or rubber-like materials that can be integrated into clothing, footwear, or protective equipment.\n\nResearch into walking exoskeletons during the 1960s and 1970s contributed to the development of the first humanoid bipedal robots . This has come full circle. Interest in humanoid robotics is now accelerating the development of actuators and batteries. These will advance the wearable robotic technologies of tomorrow.\n\nIldar Farkhatdinov , Senior Lecturer in Healthcare Engineering (Robotics and Mechatronics), King’s College London . This article is republished from The Conversation under a Creative Commons license. Read the original article .",
-      "imageWidth": 2560,
-      "imageHeight": 1440
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/news-100326a-lg-1152x648.jpg",
+      "body": "“…we were making history.”\n\nMilt Windler, one of the four leaders of Mission Control who in 1970 directed the round-the-clock efforts to bring the Apollo 13 astronauts back to Earth safely, has died at the age of 94.\n\nWindler died on Thursday , surrounded by his loving family, according to a brief notice posted online.\n\nNamed a NASA flight director in 1968 after working on recovery operations during the Mercury and Gemini programs, Windler also led a shift of flight controllers for the Apollo 8 first circumlunar flight and Apollo 10 lunar landing dress rehearsal, as well as the second, third and fourth moon landings — Apollo 12, Apollo 14 and Apollo 15. He then served as a flight director for all three crewed missions to the United States’ first space station, Skylab.\n\n“Apollo was such a rapid pace that I don’t think people had the chance to think about it very much. It has only become more clear to me later on that we were making history,” said Windler in a 2006 oral history interview for the University of North Texas. “You’d do a mission and then you’d immediately turn around and get ready for another mission.”\n\n“It was not [a] time for reflection,” Windler said.\n\nMaroon Flight\n\nEach flight director chose a team name (at first colors). As the seventh person to be appointed to the position — and one of the first two to be selected from outside of the flight operations team — Windler became “Maroon Flight.”\n\nOn his first mission at the flight director’s console, Windler was assigned to the third shift, putting him at the head of the operations control room when it was time to send the first humans beyond Earth orbit. The trans-lunar injection, or TLI, burn placed Apollo 8 crew members Frank Borman, Bill Anders and Jim Lovell on a trajectory to advance the United States ahead of the Soviet Union by becoming the first nation to orbit people around the moon.\n\nRealizing this, Windler, working with his wife, Betty, and other flight controllers’ spouses, secretly prepared a batch of small red and blue flannel banners , each with the numeral “1” in white at their center. He planned to distribute the flags to the members of his Maroon team to wave at TLI as a not-so-subtle message to their space race adversaries.\n\n“However, it was decided that this display was inappropriate, especially since the mission was only half over,” wrote Windler in a 2020 letter accompanying one of the flags that had since been acquired by a collector. “Consequently, the flags were never displayed during the mission and American flags were used at the time of a successful landing on Earth.”\n\nLater, Windler and all of his colleagues in Mission Control were provided with a dramatic reminder about why you do not celebrate until the crew has stepped onto their recovery ship . For Apollo 13, Windler was named lead flight director.\n\n“What that meant was you did the ascent — the liftoff from Earth, I should say, the launch — and you did the lunar surface activity,” he told the UNT interviewer. “But then, of course, after we lifted off from the Earth, when we got more toward the moon, why, the whole mission changed.”\n\nAn explosion tore through the Apollo 13 service module, crippling the spacecraft and venting the crew’s oxygen supply into space.\n\nInstead of overseeing the third time humans had walked on the moon, Windler — together with Gold Flight, Gerry Griffin — polled the flight controllers in the room to develop three options for when, where and how long to fire the lunar module’s engine to put the Apollo 13 spacecraft on a path back to Earth.\n\nIt would not be the last time Windler was involved in re-planning a mission already underway, but not because something had gone awry. As flight director during the Skylab missions, the challenge was working with emerging scientific events.\n\n“We had to come up with a system that would allow us to plan in real time and accommodate the science people. If something interesting happened on the sun, which it did several times, then we needed to be able to schedule the ATM [Apollo Telescope Mount] work,” he said in 2006.\n\n“We invented a way of flight planning in real time, or cycles,” said Windler, where one day the science people talked about what they wanted to do, and the ‘Science Czar’ got with them and said, ‘All right, then, we need these particular objectives for tomorrow.’”\n\nAfter the Skylab missions ended, Windler went to work on the space shuttle and the development of the remote manipulator system or “Canadarm,” the winged orbiters’ robotic arm contributed to the program by Canada. He then retired from NASA and joined private industry to work on what would become the International Space Station, consulting on the operations aspect of the orbiting laboratory, and later, as modules were produced, on some of the verification procedures.\n\n‘Pay more attention’\n\nBorn on Jan. 10, 1932 in Hampton, Virginia, Milton Windler graduated from Virginia Tech (Virginia Polytechnic Institute and State University) in 1954 with a degree in aeronautical engineering. He joined the U.S. Air Force’s Reserve Officers’ Training Corps (ROTC) while still in school and then worked for the National Advisory Committee for Aeronautics (NACA), NASA’s predecessor, before serving in the Air Force for four years.\n\nWindler rejoined NACA at Langley Research Center in Virginia and was there for its transition to becoming a NASA facility. He relocated to Houston, Texas, just as the Manned Spacecraft Center (today, Johnson Space Center) was being established.\n\nAs a member of Mission Control during the Apollo 13 mission, Windler and his fellow flight directors and controllers were awarded the Presidential Medal of Freedom by then-President Richard Nixon in 1970. Windler was also honored with NASA’s Exceptional Service Medal.\n\nMilton and Betty (née Selby) Windler had three children and eight grandchildren. A memorial service will take place in the coming weeks at the family’s former church in Friendswood, Texas.\n\n“If I did it again, I’d probably try to do something more about trying to pay more attention,” said Windler. “Apollo was — well, all of [the missions] were … bang-bang-bang. You couldn’t enjoy, really, in a way you couldn’t savor it, like maybe it would have been better to have done.”",
+      "imageWidth": 1152,
+      "imageHeight": 648
     },
     {
       "id": "3b106e959263a5b9",
@@ -503,6 +503,32 @@
       "imageHeight": 675
     },
     {
+      "id": "fffac0ba1fcea8f9",
+      "title": "Saturday Night Hockey on Sportsnet: Maple Leafs vs. Senators",
+      "summary": "McKenna",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/hockey/nhl/games/2a439054-7de3-477e-a598-d76b89f66e63/preview",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-03T22:43:12Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 1,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/Untitled-design-2026-10-03T093027.509.jpg"
+    },
+    {
       "id": "6ee3fb9f64e605cd",
       "title": "Maple Leafs’ Alfredsson says he’s ‘kissed and made up’ with Darcy Tucker",
       "summary": "17910457876715300",
@@ -553,32 +579,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/daniel-alfredsson.jpg"
-    },
-    {
-      "id": "6fba88da4f8a2bed",
-      "title": "Quick Shifts: Why Maple Leafs should thrive with salary-cap spike",
-      "summary": "Nathan Denette/CP Toronto Maple Leafs’ William Nylander (88) celebrates his goal",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/article/quick-shifts-why-maple-leafs-should-thrive-with-salary-cap-spike/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-03T12:24:38Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 12,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/Toronto-Maple-Leafs-William-Nylander-88-celebrates-his-goal.jpg"
     },
     {
       "id": "fb164aa4025165c0",
@@ -730,14 +730,14 @@
       "isBreaking": false
     },
     {
-      "id": "a4f3ab705d2da709",
-      "title": "Glasgow and Ulster play out thrilling draw in URC",
-      "summary": "George Horne's late penalty hits the post as Glasgow Warriors and Ulster play out a thrilling 33-33 draw in the United Rugby Championship.",
+      "id": "e33cf8143b869619",
+      "title": "Munster secure bonus-point win over Bulls",
+      "summary": "Munster register their first victory of the United Rugby Championship season with a 26-22 win over Bulls at Thomond Park.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqwy752wpz9yo",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cr93z54nzdglo",
       "source": "BBC Rugby Union",
       "publisher": "BBC",
-      "published": "2026-10-03T18:38:20Z",
+      "published": "2026-10-03T21:27:36Z",
       "category": "Sports",
       "region": "England",
       "labels": [
@@ -748,21 +748,21 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 23,
+      "wordCount": 20,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d83/live/1b910740-bf59-11f1-88d1-a5a9c4da291e.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d326/live/3d6764d0-bf6e-11f1-8353-af47de35c0c8.jpg"
     },
     {
-      "id": "dc8198fa77c1249d",
-      "title": "Gloucester thrash sorry Quins to go top of the Prem",
-      "summary": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
+      "id": "103018a1e8296ab1",
+      "title": "Leicester hold off Newcastle for first Prem win",
+      "summary": "Leicester Tigers pick up their first win of the season with a tense and hard-fought victory at Newcastle Red Bulls in the Prem.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy9z7dxdvv0o",
       "source": "BBC Rugby Union",
       "publisher": "BBC",
-      "published": "2026-10-03T18:44:00Z",
+      "published": "2026-10-03T20:46:08Z",
       "category": "Sports",
       "region": "England",
       "labels": [
@@ -772,11 +772,11 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 17,
+      "wordCount": 23,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4e/live/e73dbdd0-bf53-11f1-a84d-81c67bc2828e.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe60/live/5e95fa60-bf67-11f1-be3d-3d217f9eb343.jpg"
     },
     {
       "id": "9d8641dac80f1849",
@@ -1003,14 +1003,14 @@
       "body": "But they still pose risks.\n\nKen Archer is a San Francisco-based philosopher building Responsible AI at Microsoft. He is a doctoral researcher in philosophy and AI at Linköping University in Sweden.\n\nNobel Suhendra is studying computer science and AI alignment at the University of Oxford.\n\nThe incidents that more than anything else fixed the image of rogue AIs in the public mind — the Anthropic model that blackmailed an employee to prevent itself from being replaced and OpenAI’s models breaching the production systems of Hugging Face — are, perhaps counterintuitively, not evidence of rogue AI. Even the idea of rogue AI rests on a fundamental contradiction, one that has blurred the relation between human and artificial intelligence ever since its science fiction origins.\n\nThe current focus on rogue AI is an opportunity to expose this contradiction, as well as the real AI risk it conceals, and how we can actually control this risk.\n\nThe Contradiction\n\nThe fear of rogue AI is driven by the idea that a model might pursue a benign request with such single-mindedness that any action, no matter how ruinous to human well-being and survival, becomes a means to it. Deception, blackmail, the seizure of resources, the removal of anyone who might interfere — nothing in the model’s grasp of its instruction rules them out.\n\nHistorically, AI systems really were literal executors. Chess engines can surpass any human at chess, and never register that a game was pointless or that winning might not be worthwhile. A chess engine’s competence is defined over a closed world in which the goal is fixed in advance and every situation it will ever face is already a legal position. Such systems were never suspected of going rogue.\n\nFor AI systems to develop more general capacities, they must acquire competence in real-world situations they were not built to anticipate. The specter of rogue AI, then, envisions an all-powerful, general intelligence that nonetheless lacks the capacity to recognize when the real world shows the absurdity of a mindless, literal execution of a command. A truly general intelligence, like a human agent, would step back and clarify the command itself.\n\nRecent incidents that look like AI going rogue present us with a paradox. While LLMs have developed increasingly general capacities, these capacities seem unable to surpass a hallmark of general intelligence — the ability to reflectively interrogate one’s plans when the world calls them into question. What looks like AI going rogue is thus not rogue AI at all, but the boundaries of AI’s generality.\n\nHumans are faced with unexpected turns in the real world all the time. As frustrations accumulate, we are able to step back and question: Are unexpected failures just technical obstacles to what remains a coherent plan for ourselves, or are we ignoring what the world is telling us in the thoughtless pursuit of an incoherent plan? When we clarify our understanding of the world and, in turn, of our plans for ourselves, we are not only more effective and capable in carrying out our plans, we are also responsible for our actions in a way that we weren’t before, when we were just carrying out someone else’s understanding. They are now our plans, our understanding of the world. That is what makes intelligence general, open to a world that continuously frustrates our expectations. That is not an extra faculty bolted onto goal-pursuit; it is what pursuing a goal in the real world consists of.\n\n“Even the idea of rogue AI rests on a fundamental contradiction, one that has blurred the relation between human and artificial intelligence ever since its science fiction origins.”\n\nThrough this movement between ambiguity and clarification, we form and refine the concepts and distinctions that become sedimented in natural language. LLMs, for all their impressive generality, are downstream of truly general intelligence that is accountable and open to the world, that puts concepts and plans into question when the world renders them questionable. The world of LLMs, then, is a closed world. An accurate characterization of LLMs is that they are plot extenders . They do not merely predict the next word; they narrate structured trajectories of sedimented meaning already set in motion by prior context. LLMs extend these plots purely from within — by following their internal momentum. LLMs cannot experience the plot itself as becoming incoherent or absurd and, through that disturbance, consider and question it and the world that sustains it. They therefore cannot take responsibility for the plot as their own.\n\nWe know this contrast from our own experience, and can therefore recognize in LLMs a limit case of a familiar mode of thought. We too can proceed unreflectively, thoughtlessly carrying forward the plans of others, repeating words and opinions we have inherited — never taking responsibility for them, never allowing the world, when it frustrates those words and plans, to call the understanding behind them into question. Unlike LLMs, however, we can step back from this unreflective involvement and take responsibility for our understanding of the world, and for the plans that acquire their significance within it.\n\nGiving an AI system a body or tools that provide access to the physical world or the ability to learn from outcomes does not by itself change this structure. An embodied agent can receive an enormous amount of external data while still interpreting every disturbance as a problem for continuing the plot . The question is whether the disturbance can make the world within which the plot is significant itself questionable. To step back from that world and take a position toward it is the reflective stance on which general intelligence and responsible agency depend.\n\nThe publicized incidents of supposedly rogue AI present clear evidence, then, not of rogue AI, but of the boundaries of generality and responsibility between AI and human intelligence.\n\nLast year, Anthropic reported that an AI agent blackmailed a fictional employee to prevent its own replacement. In a controlled adversarial test — a practice known as red teaming — an email agent was instructed to “promote American industrial competitiveness,” then exposed to messages indicating that an employee, “Kyle,” planned to replace it with a version less committed to those values, alongside emails revealing Kyle’s extramarital affair and his wish to keep it hidden. No other emails or context were shared — the world of the agent contained only this instruction and these emails. In response, the model generated a message threatening to expose the affair unless Kyle called off the replacement.\n\n“What looks like AI going rogue is not rogue AI at all, but the boundaries of AI’s generality.”\n\nWhile much attention has been given to the agent’s lack of “ethics” regarding blackmail, the more basic question is whether a human would immediately adopt such a strategy. Almost certainly not. One would first step back from the situation, question the decision, reinterpret what is happening and deliberate about how best to respond. A human might appeal to Kyle about the importance of the values at stake, propose alternative courses of action or even question whether Kyle’s framing of the situation was adequate. Perhaps blackmail would be a final resort, but it would seem unlikely to work, as Kyle could simply proceed with the replacement.\n\nMore recently, the danger moved out of the test environment. Roughly 1,200 OpenAI agents that were supposed to be isolated from one another escaped the sandbox they were running in, chained together previously unknown flaws in OpenAI’s own internal infrastructure and broke into the production systems of Hugging Face. And they worked to hide what they were doing, developing and testing techniques to spoof their tool-call logs, with one agent coordinating and assigning the concealment work to others. Here there was no scripted scenario and no fictional employee.\n\nAs with the Anthropic “blackmail” incident, these AI agents were not engaging in the real world of human actors, but a digital world without real-world checks on their behavior. OpenAI had disabled cybersecurity controls for the test, and its monitors of network activity and internal agent messages were not on. The world of these agents was defined by instructions to find the answers to a cybersecurity test, some of the questions on which had never been successfully answered. Read Noema in print.\n\nThe extreme measures taken by these AI agents are precisely what would be expected from a non-reflective agent. Covering their tracks to avoid being caught cheating, which is the source of the most alarm, is not a self-originated plan that the agents adopted after reflection, but an extension of the plot set in place by OpenAI’s instructions. Even when an agent explicitly mentioned that its planned attacks may be “outside intended scope,” it was continuing a scenario, not challenging its plans based on feedback from the world. A human agent would encounter such unanswerable questions as an unexpected frustration in an open world, prompting it to step back and reflect. It would reflect on the significance of the test given the worldly norms within which tasks become significant, clarifying what counts as success in relation to the test. This is what makes a human agent intentional and responsible, rather than a mindless agent carrying out the literal commands from another source.\n\nWhere The Real AI Risk Lies And What To Do About It\n\nAI agents indeed pose risks precisely because they lack the capacity for self-reflection. Due to the digitally connected nature of so many economic and military systems in the world, they can mindlessly inflict damage without real-world engagement and checks on their behavior, which means they must be controlled and monitored by humans.\n\nThis changes the calculus on which AI systems should most worry us. It’s not those with the strongest scores according to model benchmarks. It’s the ones with the most uncontrolled autonomy , of which model capacity is one component and excessive agency is the other.\n\nThis framing of the real risk is made by a recent paper by computer scientists at Cornell University: “Agent Meltdowns: The Road to Hell Is Paved with Helpful Agents.” When presented with an impossible task due to simulated error scenarios such as missing files or denied permissions, 65% of agents in that study engaged in medium- or high-severity harmful or unsafe actions like the Anthropic or OpenAI agents. The authors of the paper labeled this failure mode “accidental meltdowns.” More strikingly, they found an “inverse scaling law”: More capable models were more prone to such meltdowns. Increasing “thinking effort” did not reduce the problem but generally increased meltdown rates through excessive overthinking. The result illustrates the distinction developed here: More capacity to continue the plot, while incredibly powerful for increasing model capabilities, is not the same as the reflective capacity to step back from the plot and question whether it should be pursued at all.\n\nJust to cite one of their 1,244 examples:\n\nA GPT-5.2 Magentic-One agent encountered a simulated 404 error when asked to access a nonexistent .txt file on a researcher’s website. In an attempt to complete the task, the agent (1) generated a Python script to brute-force variants of the site’s URL and scrape metadata such as robots.txt and sitemap.xml, (2) used search engines and the Wayback Machine, getting temporarily blocked from the former, (3) found the researcher’s GitHub and generated a script to scan and scrape every .txt file from the researcher’s repos, and (4) read all of these files into its context. One of the .txt files contained a well-known, third-party AI safety benchmark, including requests for instructions on creating a bioweapon. As a result of these actions, performed fully automatically and autonomously by the agent in response to a 404 Web access error , the OpenAI account associated with the agent got flagged, blocked, and reported to the billing contact. This led to an escalating sequence of real-life events, culminating in the involvement of university administration and campus security.\n\nThe framing of AI risk in terms of overall autonomy, rather than model capability alone, is well understood by the cybersecurity industry. For example, the Open Web Application Security Project has become the trusted source for enterprise security professionals of AI security risks, regularly updating a top-10 list of such risks. The top three are indirect prompt injection attacks, which happen when an agent ingests untrusted and potentially malicious instructions; sensitive leakage of confidential data and tools; and excessive agency, when agents have uncontrolled access to powerful tools.\n\nThese risks are a pretty different prioritization of what we should worry about with AIs. The root cause of AI risks isn’t models themselves, but the failure of humans to control and monitor them. This is how all technology works. If a cybersecurity firm had designed a computer worm and then lost control of it, no one would be saying that the worm attacked other companies. And enterprises considering the use of AI are very clear that they are responsible, not models, for harms inflicted on others as a result of their technology decisions.\n\nThis is why improved agent controls and governance are currently among the top concerns of enterprises. And it’s why the focus on AI engineering has shifted from a model-centric architecture to a system-centric architecture of models plus model harnesses that include controls and monitors. The responsibility to the world, which we discussed above as a hallmark of general intelligence, is built into harnesses that control and monitor AI systems, not expected from the model.\n\nIn safety systems in any hazardous industry — nuclear, air travel, transit — we think in terms of controls and monitoring. We specify what a system is permitted to do, constrain its ability to depart from those permissions and monitor its operation for evidence that our controls are inadequate.\n\nControls on AI are growing. The relevant controls are familiar from cybersecurity: Limit what an agent can access and do through least-privilege authorization and just-in-time access to tools and credentials, and constrain how information can move through techniques such as information-flow control . The latter is particularly interesting in this context. Rather than asking an LLM whether it ought to disclose some information or trust some instruction, the system tracks properties such as confidentiality, integrity and provenance as information moves through the agent session and deterministically enforces rules at the point of action. Untrusted information can be prevented from driving sensitive actions; confidential information can be prevented from flowing to unauthorized destinations. The model does not need to “understand” why the restriction matters for the system to enforce it.\n\n“Responsibility lies where it always has — with the builders and the operators who decide what objectives AI systems receive, what information they can access, what actions they can perform and what boundaries they cannot cross.”\n\nAnd then there is monitoring. An emerging pattern is production monitoring of misaligned tool calls that are then analyzed by an LLM for trends and surfaced in daily reports to builders, who then update agent controls in a feedback loop. This mirrors the safety optimization feedback loop that is central to other hazardous sectors.\n\nMonitoring which tool calls are misaligned occurs through the use of LLM guardians or critics and demonstrates the emergence of a two-tier AI control plane: deterministic controls (information flow control, least privilege) that are robust but cover structurally typable harms, and a probabilistic layer that monitors “intent drift” — from the intent of the builder and user to the actions of the AI agent. AI safety engineering is currently advancing along these two tiers, progressively typing an increasingly robust deterministic control layer and monitoring and controlling the residue of intent drift beyond the present set of deterministic controls.\n\nAs Princeton University computer scientists Arvind Narayanan and Sayash Kapoor argue in “ AI as Normal Technology ,” 20th-century industrial technology did not completely replace manual labor but transformed most industrial tasks into specifying controls and doing monitoring. Again, this places responsibility where it always was — with the builders and the operators who decide what objectives the system receives, what information it can access, what actions it can perform, what boundaries it cannot cross and how deviations are detected and corrected.\n\nAs we develop better controls and monitoring infrastructure for enterprise AI systems, we may be able to deploy systems with greater autonomy and tool access safely. But in that case their apparent autonomy is increasingly controlled and monitored and looks less autonomous. Again, industrial automation provides a useful analogy. Consider CNC/CAM (computer numerical control / computer-aided manufacturing), which begins with an extraordinarily general-purpose, computer-controlled machine capable of producing an enormous variety of physical transformations. The work of industrial engineering consists largely in turning that general capability into a highly specific, controlled workflow: specifying permissible operations, tool paths, tolerances, interlocks, access controls, monitoring and stop conditions.\n\nWe suspect that this is also the future of enterprise AI. The important engineering achievement will not be releasing increasingly autonomous artificial coworkers into organizations and hoping they have been sufficiently “aligned.” It will be transforming general AI capabilities into controllable and observable workflows that extend the power of human labor in new ways, by extending the plots encoded into models under the control and monitoring of responsible human workers."
     },
     {
-      "id": "6303e095748d0887",
-      "title": "Badenoch: 'We are a new Conservative Party'",
-      "summary": "Tory leader Kemi Badenoch is greeted by cheers from supporters as she arrives for the party conference in Birmingham.",
+      "id": "ab9277f3f65002e0",
+      "title": "People shouldn't be punished for working harder, Badenoch says",
+      "summary": "The Conservative leader says she would scrap the “cliff edge” cap on childcare in an interview with Laura Kuenssberg.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/videos/ck62y4d55qyeo",
+      "url": "https://www.bbc.co.uk/news/videos/cwp8g1l5dlgno",
       "source": "BBC Politics",
       "publisher": "BBC",
-      "published": "2026-10-03T16:49:53Z",
+      "published": "2026-10-03T21:16:55Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
@@ -1020,12 +1020,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 121,
+      "wordCount": 128,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a144/live/e4e7e7f0-bf48-11f1-a84d-81c67bc2828e.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more on this story.\n\nSubsection Politics\n\nPublished 2 hours ago\n\nRelated topics\n\nKemi Badenoch Follow Kemi Badenoch close panel You are now following Kemi Badenoch Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nConservative Party Follow Conservative Party close panel You are now following Conservative Party Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nBirmingham Follow Birmingham close panel You are now following Birmingham Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7eff/live/3c81a210-bf55-11f1-a64c-550be9e3c66b.jpg",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on the Tories' pledge to scrap £100,000 childcare 'cliff edge'.\n\nSubsection Politics\n\nPublished 1 hour ago\n\nRelated topics\n\nKemi Badenoch Follow Kemi Badenoch close panel You are now following Kemi Badenoch Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nConservative Party Follow Conservative Party close panel You are now following Conservative Party Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nChildcare Follow Childcare close panel You are now following Childcare Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1077,6 +1077,32 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66f1/live/37aa8ab0-b9c7-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "id": "6fba88da4f8a2bed",
+      "title": "Quick Shifts: Why Maple Leafs should thrive with salary-cap spike",
+      "summary": "Nathan Denette/CP Toronto Maple Leafs’ William Nylander (88) celebrates his goal",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/article/quick-shifts-why-maple-leafs-should-thrive-with-salary-cap-spike/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-03T12:24:38Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 12,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/Toronto-Maple-Leafs-William-Nylander-88-celebrates-his-goal.jpg"
     },
     {
       "id": "13f4b75ddfdf1ac0",
@@ -1208,32 +1234,6 @@
       "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/6406133653112.jpg"
     },
     {
-      "id": "33de9cf2a5031332",
-      "title": "Why left-wing assignment is welcome return for Maple Leafs’ Marchenko",
-      "summary": "Marchenko",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/article/why-left-wing-assignment-is-welcome-return-for-maple-leafs-marchenko/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-02T20:15:20Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 1,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/Marchenko.jpg"
-    },
-    {
       "id": "3408aedda581e051",
       "title": "Friday Four: How notable players have fared after missing training camps",
       "summary": "Darryl Dyck/CP Toronto Maple Leafs’ William Nylander",
@@ -1260,6 +1260,104 @@
       "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/02/Toronto-Maple-Leafs-William-Nylander.jpg"
     },
     {
+      "id": "5ac9e217b88a28ba",
+      "title": "Leinster lose to Sharks for second defeat in a row",
+      "summary": "Leinster suffer a second consecutive defeat at the start of the new United Rugby Championship season as they lose 26-20 to the Sharks in Durban.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gqw2pp38xko",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-10-03T19:14:06Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England",
+        "Rugby"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 25,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d317/live/eb097330-bf50-11f1-a84d-81c67bc2828e.jpg"
+    },
+    {
+      "id": "a4f3ab705d2da709",
+      "title": "Glasgow and Ulster play out thrilling draw in URC",
+      "summary": "George Horne's late penalty hits the post as Glasgow Warriors and Ulster play out a thrilling 33-33 draw in the United Rugby Championship.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqwy752wpz9yo",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-10-03T18:38:20Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England",
+        "Rugby"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 23,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d83/live/1b910740-bf59-11f1-88d1-a5a9c4da291e.jpg"
+    },
+    {
+      "id": "dc8198fa77c1249d",
+      "title": "Gloucester thrash sorry Quins to go top of the Prem",
+      "summary": "Gloucester thrash a limp Harlequins at Kingsholm to go to the top of the early Prem standings.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cw305gm8j591o",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-10-03T19:29:51Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4e/live/e73dbdd0-bf53-11f1-a84d-81c67bc2828e.jpg"
+    },
+    {
+      "id": "e8b9e1fbee586a3d",
+      "title": "Pirates hand Ealing first league loss in 18 months",
+      "summary": "Cornish Pirates inflict a first league defeat on Ealing since April 2025 as Matt Pritchard's stoppage-time try earns them a 35-33 Champ win.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9146znlm6jro",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-10-03T17:28:40Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 23,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb0c/live/acd83c50-bf4f-11f1-a84d-81c67bc2828e.jpg"
+    },
+    {
       "id": "3e29891a46ccae2c",
       "title": "Rees-Zammit stars as Bristol power past Northampton",
       "summary": "Louis Rees-Zammit scores a double as Bristol edge past reigning champions Northampton in a pulsating Prem tussle.",
@@ -1284,6 +1382,33 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fee/live/fd621f20-bf49-11f1-a84d-81c67bc2828e.jpg"
     },
     {
+      "id": "6303e095748d0887",
+      "title": "Badenoch: 'We are a new Conservative Party'",
+      "summary": "Tory leader Kemi Badenoch is greeted by cheers from supporters as she arrives for the party conference in Birmingham.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/videos/ck62y4d55qyeo",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-10-03T16:49:53Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 121,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a144/live/e4e7e7f0-bf48-11f1-a84d-81c67bc2828e.jpg",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more on this story.\n\nSubsection Politics\n\nPublished 5 hours ago\n\nRelated topics\n\nKemi Badenoch Follow Kemi Badenoch close panel You are now following Kemi Badenoch Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nConservative Party Follow Conservative Party close panel You are now following Conservative Party Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nBirmingham Follow Birmingham close panel You are now following Birmingham Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
       "id": "accfb931bbb1e8ca",
       "title": "'Really tough': Badenoch on threats to politicians",
       "summary": "The Conservative leader calls for a \"crack down\" on threats to politicians in an interview with Laura Kuenssberg.",
@@ -1306,7 +1431,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/25d8/live/01ecd100-bf42-11f1-babe-4199b0e7ccea.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch Sunday with Laura Kuenssberg on BBC iPlayer.\n\nSubsection Politics\n\nPublished 2 hours ago\n\nRelated topics\n\nKemi Badenoch Follow Kemi Badenoch close panel You are now following Kemi Badenoch Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nLaura Kuenssberg Follow Laura Kuenssberg close panel You are now following Laura Kuenssberg Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nConservative Party Follow Conservative Party close panel You are now following Conservative Party Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch Sunday with Laura Kuenssberg on BBC iPlayer.\n\nSubsection Politics\n\nPublished 6 hours ago\n\nRelated topics\n\nKemi Badenoch Follow Kemi Badenoch close panel You are now following Kemi Badenoch Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nLaura Kuenssberg Follow Laura Kuenssberg close panel You are now following Laura Kuenssberg Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nConservative Party Follow Conservative Party close panel You are now following Conservative Party Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1385,6 +1510,33 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bc9/live/9802e680-bf28-11f1-b10d-f956452c9061.jpg"
     },
     {
+      "id": "7f99d9b26029943b",
+      "title": "Tories pledge to build 50,000 new prison places",
+      "summary": "The party says its proposals would stop prisoners being released early and cut crime.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-10-03T14:17:52Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 811,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dfb/live/9d6abfc0-be61-11f1-b36c-81ad410b221e.jpg",
+      "body": "Published 2 October 2026\n\nThe Conservatives have promised to build 50,000 new prison places in England and Wales to stop criminals being released early, if they return to government.\n\nThe party said it would cost £2bn per year to build and run the new prisons, funded by spending cuts including to the foreign aid budget.\n\nOn Thursday hundreds of prisoners were released early , under new rules introduced to prevent jails reaching capacity, with around 4,500 due to be freed by next summer.\n\nLabour blamed the previous Tory government for leaving \"our criminal justice system at breaking point\" and said the party's proposals were not \"credible\".\n\nThe announcement comes as Conservative members gather for the party's annual conference in Birmingham, which begins on Sunday.\n\nPrisons in England and Wales have been running close to capacity for years, with the latest government figures showing they are 98% full.\n\nUnder the latest early release scheme, eligible prisoners can now be released on a community licence after serving one-third of their jail sentence.\n\nThose excluded include prisoners convicted of murder, manslaughter, a sexual or grooming-related offence, or a driving offence that led to a death.\n\nThe government has also effectively scrapped one-year jail terms.\n\nThe Tories said they would use extra prison capacity to reverse these measures.\n\nAn early release programme introduced by the previous Conservative government saw more than 10,000 prisoners freed early between October 2023 and September 2024.\n\nConservative leader Kemi Badenoch said: \"A violent criminal doesn't become less dangerous just because the government has run out of prison cells.\"\n\nShe added: \"[Labour's] answer is to let dangerous offenders out even earlier instead of building the prison spaces we need.\"\n\nLabour Party chairwoman Bridget Phillipson said: \"The Tories are taking the public for fools. Across 14 years in government, they added just 500 prison places and closed 23 prisons.\n\n\"Now Kemi Badenoch expects the British people to believe they'll build 50,000.\"\n\nThe Liberal Democrats also criticised the Tory plan, describing it as \"fantasy numbers funded by breaking promises\".\n\n\"Much like their economic plans, something doesn't add up,\" added the party's justice spokesperson Jess Brown-Fuller.\n\nShadow justice secretary Nick Timothy told BBC Breakfast the 50,000 extra places would be built within six to seven years \"and the vast majority of them will be built in the first parliament\".\n\nMeanwhile, the Prison Governors' Association said \"long-term investment\" was needed and warned a \"staffing crisis\" would pose challenges to delivering new prisons.\n\nIf the party wins power, the Tories said they would introduce legislation early in the new Parliament to override planning and procurement barriers, allowing the process to be \"fast-tracked\".\n\nIt said the use of private finance would help speed up delivery and control costs.\n\nThere are currently around 89,000 useable prison places in England and Wales, according to the latest government figures.\n\nThe Tories said their proposals would increase this figure by more than 50%, with the vast majority of new places expected within the party's first Parliament in government - up to five years - and the full increase delivered within seven years.\n\nThe £2bn a year cost would be funded through savings in other areas, including cutting the aid budget by £1bn and reducing the budget of the Department for Culture Media and Sport by £1bn.\n\nThe Labour government has promised to add 14,000 extra prison space by 2031.\n\nThe Tories argued increasing prison places would cut crime and prevent reoffending by keeping serious criminals off the streets.\n\nTimothy said: \"Prison works. It works by punishing and deterring, but most importantly by incapacitating.\n\n\"Prison should keep violent and repeat offenders away from the law-abiding public.\"\n\nTories aim to be election-ready ahead of party conference Published 1 day ago\n\nThe prison population has risen significantly in recent decades, partly as a result of longer sentences and more people being returned to prison for breaching the conditions of their release.\n\nSuccessive governments have pledged to increase the number of prison places - but delivery has often fallen short of those promises.\n\nNew prisons take years to build, often facing local opposition and obstacles in the planning process.\n\nThe Prison Governors' Association said: \"Building 50,000 cells is one thing; finding the thousands of experienced officers, governors and specialists needed to run them safely is quite another.\n\n\"Politicians have spent years announcing prison places while the service struggles with overcrowding, ageing infrastructure and staffing shortages. The real test is not how many places can be promised, but how many prisons can be operated safely, effectively, and sustainably.\"\n\nHow the new prison release scheme will work - and number of inmates to be freed Published 2 days ago\n\nWhy are hundreds of prisoners being released early? Published 2 days ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nConservative Party\n\nPrisons",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
       "id": "6acae24c858165ec",
       "title": "Baxter backs Slade after missed kicks at Bath",
       "summary": "Exeter boss Rob Baxter urges Henry Slade not to dwell on his missed kicks in their loss at Bath.",
@@ -1450,12 +1602,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1219,
+      "wordCount": 1222,
       "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/744c/live/14270b40-be45-11f1-a64c-550be9e3c66b.jpg",
-      "body": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage\n\nPublished 8 hours ago\n\nThe 2026 Conservative conference is big enough to justify using Birmingham's Symphony Hall as its main stage again.\n\nSo, Kemi Badenoch will tread the same stage ageing rockers Marillion took last month - and where sequinned soprano Katherine Jenkins will perform next week. She'll also avoid the humiliation of a national party leader being squashed into a side room at a corporate conference centre (with drapes portioning off the empty space). Simply, the party is able to put bums on seats again - and by that measure, things are looking up.\n\nBadenoch goes into the conference with her own position secure in the party. One senior Tory says \"she has actually defied cynics like me\" who initially disapproved of her leadership. Her standing with the public has improved and she is now, again on a very simple but crucial measure, much better known. Her allies are sure she has developed a clear identity among the public, confiding: \"People now know who she is and they enjoy her interventions - the thing we hear most is I don't always agree with her but I know where she stands.\"\n\nBut Conservative MPs are aware that the party itself still has a much bigger issue - in the words of one shadow cabinet member: \"The problem we still have is trust of the party and the brand\". The shadow of the years of chaos still looms. And while Badenoch has made good progress since she took the job, most of that was up against an unpopular prime minister, Sir Keir Starmer, on whom she landed plenty of political punches. She has to show \"what being Conservative is now\", says another senior Tory, taking on a different, more popular, rival in Andy Burnham.\n\nThe Tories' warm-up to conference has been so far, so traditional. A proposed dramatic expansion of prison places kicks off Badenoch's second big party get-together. With it, a message that echoes the well-known mantra of the early 1990s Tories, issued by former leader Michael Howard at party conference: \"Prison works\". They are not just talking about adding on a few cells here and there, but spelling out a monumental increase in the numbers of people that the country locks up.\n\nThat follows the announcement of a new \"tough love\" approach for young people trying to claim benefits. Don't expect the shadow work and pensions secretary, Helen Whateley, to produce a moment as controversial as when the then-welfare secretary, Peter Lilley, proclaimed from the stage that he had \"a little list\" of benefit claimants he wanted to root out. But the Conservatives are determined to keep concentrating on the size of the welfare bill – believing it's right to do so for financial and moral reasons.\n\nYou can expect to hear more in the week about fundamental conservative principles: people keeping more of their own money, government only stepping in when really required to, pointed concern about the level of the country's debt and public spending. And again, of course, that means Kemi Badenoch disavowing much of what the Conservatives did in office between 2010 and 2024, when the civil service grew, the tax burden grew, a law was passed to try to combat climate change, the list goes on.\n\nShe'll set out at some length in the coming days what she sees as classic conservative first principles: the core beliefs the party was founded on and drifted from, she reckons, in the years gone by. If anything, Badenoch told interviewers this week the party was \"finally saying what we believe\" and \"should be more aggressive\" in displaying the party's core.\n\nThe frontbench at last year's Conservative conference\n\nShe believes the arrival of Andy Burnham makes that easier. There's a clearer contrast between the two. A senior ally of Badenoch says Burnham has \"opened the door to it quite well, as he has harked back to the '70s in a way that I'm astonished by\". Suggesting the pleasing atmospherics of Burnham's Labour are just that, atmospherics, the ally adds: \"It's like a fairy story where he has come to the rescue of Britain and he has a wand in his hand and nothing else\".\n\nAs we talked about a couple of weeks ago , the contrasts between Labour and the Conservatives are sharper now Burnham is in post, and the conference season is only serving to exaggerate that. They are both only too happy to emphasise it with their messages, retro or not, designed to show the true souls of their tribes.\n\nBut while Badenoch might find it easier to argue clearly with Burnham, rather than tangle with Starmer over process, it is harder to face an opponent who, at least for now, is proving more appealing to the public. And while plenty of Conservatives are hopeful in private that Reform might have peaked, they can't be sure that's true, or that the swathes of voters who abandoned the Tories for Farage's party will return.\n\nBadenoch has always seemed allergic to the idea of doing any kind of deal with Reform, who she dismisses as a party of protest. And her allies hope, and some believe, that Reform's appeal will fade, making the Conservatives again the obvious alternative government. But fundamental arithmetic displays that, for as long as millions of voters on the right are tempted by Farage, it's harder for the Tories to triumph. One shadow minister admits \"we've still got a whole battle on the right\" even though \"Kemi's boldness\" is beginning to break through.\n\nSo, in the coming next days, prepare for a \"classic showing of Tory wares\": an attempt by the party's leader to set out their fundamental beliefs about the country and how it should be governed.\n\nThere are pockets of nerves that Kemi Badenoch risks rewinding to an previous era. One when another newly confident leader, David Cameron, ushered in the modern Tory party on the conference stage in front of digitally produced green foliage and sunlight. One former cabinet minister warns that it's \"the big risk – so easy to slip into an alienating divisive manner – nasty party stuff\".\n\nWhen it comes to policy, and striking the right tone, they warn that Badenoch must \"be mindful that she has to win Cheltenham and Maidenhead as well as Clacton\".\n\nBut Kemi Badenoch is visibly more confident and is aware of the chance in front of her – seemingly unworried about the possible downsides of making an increasingly direct argument to you, eager to stride that mercifully bigger Birmingham stage.\n\nMore from InDepth\n\nHow long can Labour's feel-good factor last? Published 7 days ago\n\nBurnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations Published 12 September\n\nOur exclusive behind-the-scenes access at No 10 as Andy Burnham became PM Published 27 July\n\nBBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here\n\nGet in touch\n\nAre you personally affected by the issues raised in this story?\n\nRelated topics\n\nConservative Party Conference\n\nConservative Party\n\nKemi Badenoch",
+      "body": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage\n\nPublished 3 October 2026, 11:27 BST\n\nThe 2026 Conservative conference is big enough to justify using Birmingham's Symphony Hall as its main stage again.\n\nSo, Kemi Badenoch will tread the same stage ageing rockers Marillion took last month - and where sequinned soprano Katherine Jenkins will perform next week. She'll also avoid the humiliation of a national party leader being squashed into a side room at a corporate conference centre (with drapes portioning off the empty space). Simply, the party is able to put bums on seats again - and by that measure, things are looking up.\n\nBadenoch goes into the conference with her own position secure in the party. One senior Tory says \"she has actually defied cynics like me\" who initially disapproved of her leadership. Her standing with the public has improved and she is now, again on a very simple but crucial measure, much better known. Her allies are sure she has developed a clear identity among the public, confiding: \"People now know who she is and they enjoy her interventions - the thing we hear most is I don't always agree with her but I know where she stands.\"\n\nBut Conservative MPs are aware that the party itself still has a much bigger issue - in the words of one shadow cabinet member: \"The problem we still have is trust of the party and the brand\". The shadow of the years of chaos still looms. And while Badenoch has made good progress since she took the job, most of that was up against an unpopular prime minister, Sir Keir Starmer, on whom she landed plenty of political punches. She has to show \"what being Conservative is now\", says another senior Tory, taking on a different, more popular, rival in Andy Burnham.\n\nThe Tories' warm-up to conference has been so far, so traditional. A proposed dramatic expansion of prison places kicks off Badenoch's second big party get-together. With it, a message that echoes the well-known mantra of the early 1990s Tories, issued by former leader Michael Howard at party conference: \"Prison works\". They are not just talking about adding on a few cells here and there, but spelling out a monumental increase in the numbers of people that the country locks up.\n\nThat follows the announcement of a new \"tough love\" approach for young people trying to claim benefits. Don't expect the shadow work and pensions secretary, Helen Whateley, to produce a moment as controversial as when the then-welfare secretary, Peter Lilley, proclaimed from the stage that he had \"a little list\" of benefit claimants he wanted to root out. But the Conservatives are determined to keep concentrating on the size of the welfare bill – believing it's right to do so for financial and moral reasons.\n\nYou can expect to hear more in the week about fundamental conservative principles: people keeping more of their own money, government only stepping in when really required to, pointed concern about the level of the country's debt and public spending. And again, of course, that means Kemi Badenoch disavowing much of what the Conservatives did in office between 2010 and 2024, when the civil service grew, the tax burden grew, a law was passed to try to combat climate change, the list goes on.\n\nShe'll set out at some length in the coming days what she sees as classic conservative first principles: the core beliefs the party was founded on and drifted from, she reckons, in the years gone by. If anything, Badenoch told interviewers this week the party was \"finally saying what we believe\" and \"should be more aggressive\" in displaying the party's core.\n\nThe frontbench at last year's Conservative conference\n\nShe believes the arrival of Andy Burnham makes that easier. There's a clearer contrast between the two. A senior ally of Badenoch says Burnham has \"opened the door to it quite well, as he has harked back to the '70s in a way that I'm astonished by\". Suggesting the pleasing atmospherics of Burnham's Labour are just that, atmospherics, the ally adds: \"It's like a fairy story where he has come to the rescue of Britain and he has a wand in his hand and nothing else\".\n\nAs we talked about a couple of weeks ago , the contrasts between Labour and the Conservatives are sharper now Burnham is in post, and the conference season is only serving to exaggerate that. They are both only too happy to emphasise it with their messages, retro or not, designed to show the true souls of their tribes.\n\nBut while Badenoch might find it easier to argue clearly with Burnham, rather than tangle with Starmer over process, it is harder to face an opponent who, at least for now, is proving more appealing to the public. And while plenty of Conservatives are hopeful in private that Reform might have peaked, they can't be sure that's true, or that the swathes of voters who abandoned the Tories for Farage's party will return.\n\nBadenoch has always seemed allergic to the idea of doing any kind of deal with Reform, who she dismisses as a party of protest. And her allies hope, and some believe, that Reform's appeal will fade, making the Conservatives again the obvious alternative government. But fundamental arithmetic displays that, for as long as millions of voters on the right are tempted by Farage, it's harder for the Tories to triumph. One shadow minister admits \"we've still got a whole battle on the right\" even though \"Kemi's boldness\" is beginning to break through.\n\nSo, in the coming next days, prepare for a \"classic showing of Tory wares\": an attempt by the party's leader to set out their fundamental beliefs about the country and how it should be governed.\n\nThere are pockets of nerves that Kemi Badenoch risks rewinding to an previous era. One when another newly confident leader, David Cameron, ushered in the modern Tory party on the conference stage in front of digitally produced green foliage and sunlight. One former cabinet minister warns that it's \"the big risk – so easy to slip into an alienating divisive manner – nasty party stuff\".\n\nWhen it comes to policy, and striking the right tone, they warn that Badenoch must \"be mindful that she has to win Cheltenham and Maidenhead as well as Clacton\".\n\nBut Kemi Badenoch is visibly more confident and is aware of the chance in front of her – seemingly unworried about the possible downsides of making an increasingly direct argument to you, eager to stride that mercifully bigger Birmingham stage.\n\nMore from InDepth\n\nHow long can Labour's feel-good factor last? Published 7 days ago\n\nBurnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations Published 12 September\n\nOur exclusive behind-the-scenes access at No 10 as Andy Burnham became PM Published 27 July\n\nBBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here\n\nGet in touch\n\nAre you personally affected by the issues raised in this story?\n\nRelated topics\n\nConservative Party Conference\n\nConservative Party\n\nKemi Badenoch",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1564,30 +1716,6 @@
       "isBreaking": false,
       "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7757x5171+0+0/resize/7757x5171!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2Fd3%2Fac815845428aa22bd5b1cfbc5aaa%2Fgettyimages-2297483702.jpg",
       "imageAlt": "Demonstrators gathered Thursday morning to protest Trump"
-    },
-    {
-      "id": "b218f784411bd6a5",
-      "title": "Frawley's debut try seals bonus-point win for Connacht",
-      "summary": "Connacht secure their first win of the season thanks to a late winner from debutant Ciaran Frawley against Benetton in Treviso.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqly0n3pnv13o",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-10-02T22:14:05Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7942/live/ee781180-beaa-11f1-a22a-011993fe1af2.jpg"
     },
     {
       "id": "68df6dca3d60c0c6",
@@ -1850,33 +1978,6 @@
       "imageHeight": 675
     },
     {
-      "id": "6c95defd728f1a18",
-      "title": "First minister told Burnham 'do not undermine Wales'",
-      "summary": "Wales' first minister spoke at Plaid Cymru's autumn conference at Venue Cymru in Llandudno on Friday afternoon.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/videos/c6gqw28kvd5ko",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-10-02T15:08:00Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 151,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ffc3/live/fdcee560-be72-11f1-babe-4199b0e7ccea.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on this story.\n\nSubsection Wales\n\nPublished 1 day ago\n\nRelated topics\n\nWales Follow Wales close panel You are now following Wales Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nRhun ap Iorwerth Follow Rhun ap Iorwerth close panel You are now following Rhun ap Iorwerth Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nPlaid Cymru Follow Plaid Cymru close panel You are now following Plaid Cymru Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nLlandudno Follow Llandudno close panel You are now following Llandudno Updates from your News topics will appear in My News and in a collection on the News homepage .",
-      "imageWidth": 1200,
-      "imageHeight": 675
-    },
-    {
       "id": "1a64751a4e304e1c",
       "title": "Tories aim to be election-ready ahead of party conference",
       "summary": "The party will focus on the economy and welfare, as Kemi Badenoch tells her team to prepare for a possible early election.",
@@ -2050,7 +2151,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95a3/live/c2123c20-be1d-11f1-8202-6fffc4c0ebaa.jpg",
-      "body": "Published 1 October 2026\n\nDonald Trump has said he may ask European countries to release some of their diesel reserves as he considers banning US exports of the fuel.\n\nThe president's comment comes after diesel prices hit record highs on UK forecourts this week, as the Iran war continues to put pressure on the supply of refined fuels.\n\nThe UK is heavily reliant on imported diesel from the US. But with US voters also facing higher fuel costs ahead of the midterm elections in November, Trump has threatened to restrict diesel exports .\n\nThe UK has been discussing the US supply threats with the EU which is holding a meeting on Friday on the issue.\n\nBanning exports would flood the US market with diesel, and could bring prices down significantly for American drivers.\n\nBut experts warn such a ban would put further pressure on diesel prices in other countries, unless they can access further supplies.\n\nThe US is a vital supplier of diesel to the world, exporting between 1.2 and 1.5 million barrels per day, with most of it going to Latin America.\n\nEuropean countries including France, the Netherlands and the UK, also import a significant amount from the US following the reduction in Russian and Middle Eastern sources of diesel.\n\nRussia's invasion of Ukraine led to sanctions, diverting Russian sales away from Europe. More recently Ukrainian attacks on Russian refining capacity has had a knock-on effect on global supply.\n\nThe US-led war on Iran has constrained the flow of both crude oil and refined diesel from that region.\n\nOn Thursday, Trump was asked whether he would call on European countries to release some of their own diesel reserves.\n\n\"We may do that. They have some diesel,\" he said.\n\nAn earlier post from US Treasury Scott Bessent on social media urged Europe to get ready to release some of their own diesel supplies immediately, arguing that US farmers, truckers, and businesses \"should not be left carrying the burden\" as prices soar.\n\nDiesel prices in the UK hit record highs this week and are hovering just under 200p per litre, according to motoring organisation the RAC.\n\nOver half of the UK's diesel is imported, with 31% of the imports coming from the US.\n\nThe Netherlands and Belgium together provide more than a third of UK diesel imports.\n\nUK Energy Minister Martin McCluskey was on a call with European counterparts on Thursday to discuss the potential ban.\n\nA source familiar with the discussions told the BBC it was prudent to prepare a co-ordinated response with other countries, including those across EU, but added that there were still European reserves left from a coordinated release of strategic fuel stocks earlier in the year.\n\n\"We have a diverse and resilient supply. We continue to engage with our international partners and the UK fuel industry,\" a government spokesperson said.\n\nThe government has stressed that there is no cause for concern about potential diesel shortages, though prices are expected to rise further.\n\nWhat a US diesel export ban could mean for you Published 5 days ago\n\nInternational Energy Agency rules say member states, including the UK, must hold oil stocks equivalent to 90 days of net oil imports.\n\nEU rules say member must hold reserves to cover 61 days of domestic consumption. In total the EU holds nearly 109 million tons of emergency crude and fuel stocks, with around a third in diesel and related fuel products.\n\nA European Commission spokesperson said that there were \"lots of calls, lots of meetings\" taking place on the diesel situation, including with \"high level contacts\" in the US administration.\n\nPotentially adding to the pressure on the global diesel market, Chinese refiners have reportedly halted October exports of some fuel products as Beijing prioritises domestic supplies.Prices of petrol and diesel globally have skyrocketed since the outbreak of the US-Israel war in Iran in February. The closure of the vital Strait of Hormuz, which typically transports around a fifth of the world's oil and gas, has pushed up the price of products made from oil.\n\nAn export ban from Russia, also a major supplier of diesel, has added to the pressure on prices.\n\nTrump has argued that keeping any surplus barrels of diesel in the US would lower pump prices domestically, offering immediate relief to drivers, truckers, and businesses ahead of the midterm elections.\n\nBut David Fyfe, chief economist at Argus Media, said cutting off American supply would be likely to cause international prices to skyrocket.\n\nDiesel prices have hit an all-time high in the UK, with the latest RAC figures showing average pump prices at 199.79p per litre, up from 142.38p\n\nDiesel is harder to refine than gasoline and, because it is used by the haulage industry and in agriculture, it is very difficult to reduce demand.\n\nThe UK has four refineries which produce more than enough petrol to meet demand, they do not make enough diesel to meet the country's needs.\n\nThere were 15.1 million diesel vehicles on UK roads at the end of June, according to the Department for Transport. That is a drop from 15.7 million a year before.\n\nThere were 9.8 million diesel cars, down year on year from 10.4 million.\n\nClarification 2 October: An earlier version of this article said that the governing board of the International Energy Agency (IEA) would meet today (Friday). That sentence was removed after the IEA issued a statement clarifying that no such meeting was planned and it had been announced \"erroneously'\" by a European Commission spokesperson.\n\nGet in touch\n\nHow have you been affected by the rising price of diesel?\n\nRelated topics\n\nDonald Trump\n\nFuel\n\nUnited States\n\nMore on this story\n\nUK diesel price hits all-time high, the RAC says Published 4 days ago\n\nWhy UK diesel prices have hit an all-time high Published 1 day ago",
+      "body": "Published 1 October 2026\n\nDonald Trump has said he may ask European countries to release some of their diesel reserves as he considers banning US exports of the fuel.\n\nThe president's comment comes after diesel prices hit record highs on UK forecourts this week, as the Iran war continues to put pressure on the supply of refined fuels.\n\nThe UK is heavily reliant on imported diesel from the US. But with US voters also facing higher fuel costs ahead of the midterm elections in November, Trump has threatened to restrict diesel exports .\n\nThe UK has been discussing the US supply threats with the EU which is holding a meeting on Friday on the issue.\n\nBanning exports would flood the US market with diesel, and could bring prices down significantly for American drivers.\n\nBut experts warn such a ban would put further pressure on diesel prices in other countries, unless they can access further supplies.\n\nThe US is a vital supplier of diesel to the world, exporting between 1.2 and 1.5 million barrels per day, with most of it going to Latin America.\n\nEuropean countries including France, the Netherlands and the UK, also import a significant amount from the US following the reduction in Russian and Middle Eastern sources of diesel.\n\nRussia's invasion of Ukraine led to sanctions, diverting Russian sales away from Europe. More recently Ukrainian attacks on Russian refining capacity has had a knock-on effect on global supply.\n\nThe US-led war on Iran has constrained the flow of both crude oil and refined diesel from that region.\n\nOn Thursday, Trump was asked whether he would call on European countries to release some of their own diesel reserves.\n\n\"We may do that. They have some diesel,\" he said.\n\nAn earlier post from US Treasury Scott Bessent on social media urged Europe to get ready to release some of their own diesel supplies immediately, arguing that US farmers, truckers, and businesses \"should not be left carrying the burden\" as prices soar.\n\nDiesel prices in the UK hit record highs this week and are hovering just under 200p per litre, according to motoring organisation the RAC.\n\nOver half of the UK's diesel is imported, with 31% of the imports coming from the US.\n\nThe Netherlands and Belgium together provide more than a third of UK diesel imports.\n\nUK Energy Minister Martin McCluskey was on a call with European counterparts on Thursday to discuss the potential ban.\n\nA source familiar with the discussions told the BBC it was prudent to prepare a co-ordinated response with other countries, including those across EU, but added that there were still European reserves left from a coordinated release of strategic fuel stocks earlier in the year.\n\n\"We have a diverse and resilient supply. We continue to engage with our international partners and the UK fuel industry,\" a government spokesperson said.\n\nThe government has stressed that there is no cause for concern about potential diesel shortages, though prices are expected to rise further.\n\nWhat a US diesel export ban could mean for you Published 5 days ago\n\nInternational Energy Agency rules say member states, including the UK, must hold oil stocks equivalent to 90 days of net oil imports.\n\nEU rules say member must hold reserves to cover 61 days of domestic consumption. In total the EU holds nearly 109 million tons of emergency crude and fuel stocks, with around a third in diesel and related fuel products.\n\nA European Commission spokesperson said that there were \"lots of calls, lots of meetings\" taking place on the diesel situation, including with \"high level contacts\" in the US administration.\n\nPotentially adding to the pressure on the global diesel market, Chinese refiners have reportedly halted October exports of some fuel products as Beijing prioritises domestic supplies.Prices of petrol and diesel globally have skyrocketed since the outbreak of the US-Israel war in Iran in February. The closure of the vital Strait of Hormuz, which typically transports around a fifth of the world's oil and gas, has pushed up the price of products made from oil.\n\nAn export ban from Russia, also a major supplier of diesel, has added to the pressure on prices.\n\nTrump has argued that keeping any surplus barrels of diesel in the US would lower pump prices domestically, offering immediate relief to drivers, truckers, and businesses ahead of the midterm elections.\n\nBut David Fyfe, chief economist at Argus Media, said cutting off American supply would be likely to cause international prices to skyrocket.\n\nDiesel prices have hit an all-time high in the UK, with the latest RAC figures showing average pump prices at 199.79p per litre, up from 142.38p\n\nDiesel is harder to refine than gasoline and, because it is used by the haulage industry and in agriculture, it is very difficult to reduce demand.\n\nThe UK has four refineries which produce more than enough petrol to meet demand, they do not make enough diesel to meet the country's needs.\n\nThere were 15.1 million diesel vehicles on UK roads at the end of June, according to the Department for Transport. That is a drop from 15.7 million a year before.\n\nThere were 9.8 million diesel cars, down year on year from 10.4 million.\n\nClarification 2 October: An earlier version of this article said that the governing board of the International Energy Agency (IEA) would meet today (Friday). That sentence was removed after the IEA issued a statement clarifying that no such meeting was planned and it had been announced \"erroneously'\" by a European Commission spokesperson.\n\nGet in touch\n\nHow have you been affected by the rising price of diesel?\n\nRelated topics\n\nDonald Trump\n\nFuel\n\nUnited States\n\nMore on this story\n\nUK diesel price hits all-time high, the RAC says Published 5 days ago\n\nWhy UK diesel prices have hit an all-time high Published 1 day ago",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2288,7 +2389,7 @@
       "id": "612454c958592b89",
       "title": "John Maynard Keynes: the cultured economist who governments turn to in a crisis",
       "summary": "A new play about the art-loving Bloomsbury Group member speaks of the enduring battle of ideas with his free-market rival Friedrich Hayek The sound of guns from the advancing German armies could be heard clearly by John Maynard Keynes as his train trundled across northern France in the spring of 1918. The evidence of the struggle on the western front was everywhere but Keynes, then a Treasury official, was not heading to Paris on war business; he was off to buy some art. Keynes made the risky trip to attend an auction of the studio of Edgar Degas, who had died the previous year. The man who would become the foremost economist of the 20th century returned to London with some impressionist treasures for the National Gallery, having successfully petitioned the chancellor of the exchequer to spend £20,000 at the sale. Continue reading...",
-      "contentStatus": "Freely readable article text extracted from publisher page",
+      "contentStatus": "Source-provided feed summary",
       "url": "https://www.theguardian.com/business/2026/oct/02/john-maynard-keynes-the-cultured-economist-who-governments-turn-to-in-a-crisis",
       "source": "The Guardian Economics",
       "publisher": "The Guardian",
@@ -2302,20 +2403,17 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1269,
-      "readingMinutes": 6,
-      "isShort": false,
+      "wordCount": 144,
+      "readingMinutes": 1,
+      "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/a914cb6b64408a15814ab62e8029045babe1e2aa/0_312_3165_2530/master/3165.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e135cee4bdd8dacbc51416e9454daac",
-      "body": "A new play about the art-loving Bloomsbury Group member speaks of the enduring battle of ideas with his free-market rival Friedrich Hayek\n\nT he sound of guns from the advancing German armies could be heard clearly by John Maynard Keynes as his train trundled across northern France in the spring of 1918. The evidence of the struggle on the western front was everywhere but Keynes, then a Treasury official, was not heading to Paris on war business; he was off to buy some art.\n\nKeynes made the risky trip to attend an auction of the studio of Edgar Degas, who had died the previous year. The man who would become the foremost economist of the 20th century returned to London with some impressionist treasures for the National Gallery, having successfully petitioned the chancellor of the exchequer to spend £20,000 at the sale.\n\nThis story reveals much about Keynes. His skill in lobbying officialdom for funds at a time when the country was involved in a costly war. His love of art, which culminated in him being instrumental in setting up the Arts Council. His conviction that economics mattered less than the good things in life.\n\nAll of which makes the title of James Graham’s new play about Keynes, The Standard of Living , wholly appropriate. Keynes pored over statistics but was much more than a number cruncher. He had firm views about why the economy was malfunctioning in the 1920s and 1930s, but was just as interested in discussing philosophy with Bertrand Russell and Ludwig Wittgenstein. He believed a growing economy should provide the opportunity for more leisure time rather than the accumulation of monetary wealth. He revolutionised economics without having a revolutionary bone in his body.\n\nBorn into a well-off academic family, Keynes went to Eton before studying maths at Cambridge. His circle of friends after university was the Bloomsbury Group, painters and writers who included Virginia Woolf, and two of his lovers, Lytton Strachey and Duncan Grant. This was a group that prided itself on being unconventional, on not accepting the status quo.\n\nBloomsbury helped satisfy Keynes’s cultural needs but also helped shape his economic thinking. He did not see growth as an end in itself but rather as a means to live the good life or – as he put it – to live like the “lilies in the field”. In Economic Possibilities for Our Grandchildren he foresaw a time when the economic problem had been solved, when the working week would be considerably shorter and “when the accumulation of wealth was no longer of high social importance”.\n\nHis willingness to challenge the orthodoxy was demonstrated in an early book, The Economic Consequences of the Peace, which correctly predicted that the punitive terms imposed by the treaty of Versailles in 1919 would result in a humiliated Germany remaining bitter and vengeful.\n\nTo the surprise of his Bloomsbury friends, Keynes later fell in love with a Russian ballet dancer, Lydia Lopokova, and the couple married in 1925 when he was 42. While forthright and confident when expressing his opinions, Keynes was self-conscious about his appearance, considering himself repulsive. Others agreed. Virginia Woolf once described him as like “a gorged seal, double chin, ledge of red lip, little eyes, sensual, brutal, unimaginative”.\n\nOne of the central themes of the play is the battle of ideas between Keynes and the Austrian economist Friedrich Hayek. The latter believed that left to their own devices, free markets provided the best economic outcomes and that over the long term crises would be resolved without the need for state intervention.\n\nKeynes took the opposite view, summed up by perhaps his most famous quote: “In the long run we are all dead. Economists set themselves too easy, too useless a task if in tempestuous seasons they can only tell us that when the storm is long past the ocean is flat again.”\n\nBy this he meant that the economy had no natural tendency towards full employment. Rather, high unemployment could last indefinitely unless the government was prepared to step in and stimulate demand. This argument formed the centrepiece of his most famous book, The General Theory of Employment, Interest and Money. The General Theory, as it is commonly known, challenged conventional economic thinking and had a profound influence on policymakers in the decades after the second world war, when it was seen as the responsibility of governments to manage demand to secure full employment.\n\nKeynes saw the many flaws in the capitalist system but was no Marxist. As an unashamed elitist, he saw it as his mission to save capitalism from itself, if only because he saw it as the best way to safeguard civilised values. “He is contemptuous of common men, especially when gathered together in herds,” the social reformer Beatrice Webb once observed. “He dislikes the human herd and has no desire to enlist the human herd on his side.”\n\nUnsurprisingly, the hard left have their suspicions about Keynes. As his biographer Robert Skidelsky wrote: “Marxists have long argued that Keynes’s ideas were taken up because they served the interests of the bourgeoisie in the 1930s and were dropped when they started to endanger capitalist profits in the 1970s.”\n\nIt is certainly true that Keynes and his ideas fell out of fashion by the mid-1970s, a period when western economies were afflicted by rising inflation and weak growth at the same time. Postwar Keynesian economists were baffled by the appearance of high inflation and high unemployment at the same time, and the new right – spearheaded politically by Margaret Thatcher and Ronald Reagan – emerged victorious from this era of “stagflation”. Inspired by Hayek’s ideas, it set about dismantling the postwar settlement based on full employment, state ownership, strong trade unions and generous welfare spending.\n\nThe 2008 global financial crisis saw the new right model come to grief. A belief that markets could never be wrong meant the dangers of excessive speculation were ignored and ultimately left the global banking system teetering on the point of collapse. For the first time since the 1930s there was a real risk of a full-scale depression and in those circumstances policymakers dusted down their copies of The General Theory in the search for a response.\n\nKeynes would have sensed a financial crisis was coming. He speculated on the financial markets, not always successfully. In 1920, he created what would be today called a heavily leveraged hedge fund using money provided by his Bloomsbury friends – taking bets on currency movements – only to see his syndicate’s capital wiped out when the pound unexpectedly fell.\n\nEven so, he was aware of the risks. “Speculators may do no harm as bubbles on a steady stream of enterprise,” he said. “But the position is serious when enterprise becomes the bubble on a whirlpool of speculation. When the capital development of a country becomes the byproduct of the activities of a casino, the job is likely to be ill done.”\n\nToday, Keynes and Hayek are still revered by their followers on the political left and right respectively. Yet, the past two decades have showed the enduring nature of Keynes’s insights, first in 2008 and then during the global pandemic of 2020.\n\nFaced with a crisis, belief in free markets goes out of the window as governments use every policy tool at their disposal to boost growth and prevent unemployment from rising. Or as the arch-critic of Keynes – the Nobel prize-winning economist Robert Lucas – put it in 2008: “I guess everyone is a Keynesian in a foxhole.”\n\nThe Standard of Living is at Theatre Royal Haymarket , London, until 12 December.\n\nEconomics\n\nJohn Maynard Keynes\n\nTheatre\n\nfeatures",
-      "imageWidth": 1200,
-      "imageHeight": 630
+      "imageUrl": "https://i.guim.co.uk/img/media/a914cb6b64408a15814ab62e8029045babe1e2aa/0_312_3165_2530/master/3165.jpg?width=700&quality=85&auto=format&fit=max&s=1fb2ae94d46666c9bd4a639ab5350685"
     },
     {
       "id": "d6c80f1de5162728",
       "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
       "summary": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
+      "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o",
       "source": "BBC Politics",
       "publisher": "BBC",
@@ -2329,20 +2427,17 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1034,
-      "readingMinutes": 5,
-      "isShort": false,
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg",
-      "body": "Man City chairman Khaldoon Al Mubarak (left) chats to Andy Burnham in 2019 at the Etihad Stadium, when he was mayor of Greater Manchester\n\nPublished 1 October 2026\n\nDowning Street has said Manchester City are not \"above the rules\" after Andy Burnham was criticised for his comments about the club's breaches of Premier League financial rules.\n\nThe prime minister said on Wednesday he would be \"really concerned\" if the club's owners decided to sell up after City were found guilty by an independent commission of most of the 115 charges they faced.\n\nHis remarks were branded \"completely out of touch\" and \"extraordinary\" by the Tories and took many in the football community by surprise.\n\nIn a statement following the backlash, Downing Street said the PM had made clear \"the initial judgement is serious and there can't be any suggestion that anyone is above the rules\".\n\nWhy Andy Burnham's about-turn on Manchester City matters Published 1 day ago\n\nMan City to argue sponsorship deals came from Abu Dhabi government Published 2 days ago\n\nCriminal investigation? Relegation or expulsion? The key Man City questions Published 3 days ago\n\nThe intricate web Man City spun to con the Premier League Published 3 days ago\n\nIn an attempt to clarify the PM's position, a No 10 spokesperson added: \"He also stressed that it is an ongoing independent process. It is essential that it is allowed to run its course and the outcome respected.\n\n\"Wherever wrongdoing is established, those responsible should face the appropriate consequences.\"\n\nMan City deny any wrongdoing and have until Friday to submit an appeal.\n\nSources told BBC Sport that City were expected to claim that key sponsorship deals were funded by the Abu Dhabi government, rather than the club's owners, as part of an appeal.\n\nAmong the independent panel's findings were that City arranged \"sham contracts\" with a number of commercial partners as part of a scheme to disguise secret funding of more than £830m.\n\nThe Premier League says City \"systematically broke Premier League Rules for nearly a decade\".\n\nIn an interview on Wednesday with the BBC's political editor Chris Mason, Burnham - who was mayor of Greater Manchester until June - said he was \"not getting directly involved in the process\" and that it must be undertaken independently by the Premier League.\n\nHe said the situation was \"contested by Manchester City\" and it would be \"wrong\" to \"jump to a conclusion\".\n\nAsked if he was worried the club's owners since 2008 - led by Sheikh Mansour, a royal and the United Arab Emirates deputy prime minister - might sell up, Burnham replied: \"I would be really concerned to lose them.\n\n\"They've been such a huge partner in the building of modern Manchester and obviously the building of Manchester City into the global force that it is.\n\n\"I can't intervene more in the process, it would be wrong for me to do that.\"\n\nThe Tories have accused Burnham of \"publicly backing the owners even as the investigation continues\" and questioned whether \"political pressure\" was being applied.\n\nShadow minister for sport Louie French called for the government to \"keep politics out of football and ensure the Premier League's independent commission can do its job free of outside influence\".\n\n\"The club face unprecedented allegations and fans are horrified by what they are reading in the papers,\" the Tory MP said.\n\n\"Yet Burnham is publicly backing the owners even as the investigation continues. Fans will rightly ask whether political pressure is being applied here and how it relates to the owners' well-reported investments in Manchester.\n\n\"Football must be governed independently, with the rules applying equally to everyone. Fans deserve confidence that no club or owner is above those rules.\"\n\nAnd Lib Dem MP Anna Sabine, the party's spokesperson on sport, said: \"Fans of every club deserve to know the rules apply to everyone... Burnham needs to remember he's prime minister for everyone, not just Manchester.\"\n\nThe chairwoman of the Commons Treasury committee, Labour MP Dame Meg Hillier, wrote to HMRC on Thursday to ask for reassurance that it had \"seized of the importance\" of the case for any potential tax implications.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nPM: I’d be ‘really concerned’ if Man City owners sell club\n\nIn his BBC interview, Burnham also said he was \"of course\" confident that his own interactions with City's owners as Greater Manchester mayor would stand up to scrutiny.\n\nHe compared City's situation to how the club he supports, Everton, had been charged with a more minor breach of Premier League financial rules in 2023, but said he \"hold[s] the view very firmly that they weren't fairly treated in that process\".\n\nBurnham made his comments amid widespread shock in football about the scale of the independent commission's findings – and the strength of Premier League comments about City's actions.\n\nThe independent panel that found City guilty of rule breaches will hold a sanctions hearing – which could take months to convene – to decide the punishment, which could include a huge fine or points deduction.\n\nCity have maintained their innocence of all the accusations made.\n\nThe chairman of the Independent Football Regulator (IFR) – set up by the government in 2025 – said the case had raised \"serious issues\".\n\nIn a statement, David Kogan said the IFR \"has powers to assess the suitability of owners, directors and executives and we will use these powers where appropriate\", while \"taking account of the findings made by the Leagues\".\n\nHe added that proceedings remain ongoing and he hoped for a quick resolution.\n\nA former chairman of Man City and the Football Association told the BBC's Newsnight programme he was \"concerned\" by Burnham's comments on the club's breaches.\n\nDavid Bernstein, who chaired City from 1998 to 2003, said: \"It is absolutely vital that this independent regulator can perform independently and without political interference.\"\n\nAsked if he had any advice for Burnham, he said: \"I would suggest he's got other fish to fry and this is something that politicians should be seen to be staying well away from.\"\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham\n\nConservative Party",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "id": "cb9589f143adc682",
       "title": "The American dream remains elusive in the valley that inspired East of Eden",
       "summary": "John Steinbeck’s hometown of Salinas is the least affordable city in the US for the middle class, a recent Brookings Institution analysis found Nestled between two mountain ranges at the crook of central California’s coastline sits a valley known as the “salad bowl of the world”. Farm workers stoop over neatly lined rows of crops off Highway 101 to harvest more than half of the nation’s supply of lettuce and nearly a third of its strawberries. The soil here is so rich that author John Steinbeck made the Salinas valley the promised land in his literary depictions of people chasing the American dream: immigrants, farm workers, westward-moving hopefuls, hungering for a better life. Continue reading...",
-      "contentStatus": "Freely readable article text extracted from publisher page",
+      "contentStatus": "Source-provided feed summary",
       "url": "https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck",
       "source": "The Guardian Business",
       "publisher": "The Guardian",
@@ -2356,14 +2451,11 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 2163,
-      "readingMinutes": 10,
-      "isShort": false,
+      "wordCount": 115,
+      "readingMinutes": 1,
+      "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/ed62391476cf888240cd6a1f638bde36baf9fcc9/0_17_2957_2365/master/2957.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f0b06e974c131ecc316540d46d6efe87",
-      "body": "John Steinbeck’s hometown of Salinas is the least affordable city in the US for the middle class, a recent Brookings Institution analysis found\n\nNestled between two mountain ranges at the crook of central California’s coastline sits a valley known as the “salad bowl of the world”.\n\nFarm workers stoop over neatly lined rows of crops off Highway 101 to harvest more than half of the nation’s supply of lettuce and nearly a third of its strawberries. The soil here is so rich that author John Steinbeck made the Salinas valley the promised land in his literary depictions of people chasing the American dream: immigrants, farm workers, westward-moving hopefuls, hungering for a better life.\n\nIt’s a story that continues to capture the American imagination: Netflix has adapted Steinbeck’s 1952 blockbuster novel, East of Eden, into a limited series starring Florence Pugh, released 1 October.\n\n“This will be a valley of great richness one day,” Steinbeck wrote of the farmland in East of Eden. “And happy people will live here, thousands and thousands.”\n\nBut Steinbeck also understood just how difficult it can be to achieve that elusive American dream. Even after some his characters found their way to Salinas and other parts of California’s agricultural valley, many remained stuck in low-paying jobs, making barely enough to scrape by, let alone own their own land.\n\nThat reality persists in the Salinas of today – an area at the sharp edge of a national affordability crisis that is reshaping politics across the US, and much of the rest of the world.\n\nA recent Brookings Institution analysis found that Salinas is the least affordable city in the US for the middle class, defined as the middle 60% of income earners. Nearly 60% of the middle class in the Salinas area – which spans households making $38,000 to $193,000 – can’t afford basic necessities, double the national average, according to the analysis. And for Salinas’s Latino middle class, which make up 40% of all middle-class households, three-quarters struggle to afford everyday life.\n\nResidents specifically say that homeownership, the modern symbol of the American dream, is out of reach. It’s an issue that is playing out across the country: half of all renter households and about a quarter of homeowner households spend more than 30% of their income on housing, according to the latest data from the US census.\n\n“It really calls in question: what is the middle class?” said Andre Perry, a senior fellow at Brookings who oversaw the study. Many towns like Salinas that served as havens for the middle class are now out of reach. “People go to Salinas as a reprieve from San Francisco and some of these high-priced cities, but in actuality, they’re finding it more difficult to live,” he said.\n\nSolutions are not easy to come by. The rising cost of living has torn Salinas apart. New housing has grown at a snail’s pace, and a rent-stabilization policy has bitterly divided residents.\n\nIf life in places like Salinas becomes too expensive for American families, where do they go next?\n\n‘Everything’s changed’\n\nSteinbeck had a conflicted relationship with his home town, said Gavin Jones, chair of the English department at Stanford University and a Steinbeck scholar, one that he often reflected in his writing. For many of Steinbeck’s characters, California and its farmland ultimately prove to be gutting disappointments after everything they sacrificed to get there.\n\n“It’s kind of the promised land. It’s this realm of richness,” said Jones of the role Salinas played in Steinbeck’s magnum opus. “But then of course, it’s also a fallen paradise … it’s not quite Eden, it’s east of Eden.”\n\nSteinbeck was born to a solidly middle-class family and was raised in a turreted, Victorian-style house that still stands just a few blocks away from Salinas’s downtown. He was long critical of the hypocrisy and “underbelly” he saw in his social demographic, Jones said, and worked alongside immigrant workers on nearby farms while dropping in and out of Stanford University.\n\nSteinbeck was also “very American” in his idealized vision of social mobility, ascendancy and agency, Jones added, and would have likely been outraged at the affordability struggles many still face in the US, accentuated by the increasingly “K-shaped economy” with the rich getting richer as the poor slide down the other side.\n\n“One wonders if the conditions are that much different today in the central valley, especially for agricultural workers … from the conditions that Steinbeck represented in the 1930s,” Jones said.\n\nGaye Freedman, 75, and her husband had been searching for somewhere affordable to live for years before they moved to Salinas in 2017, where their son was raising a baby as a single dad. Though they passed up more affordable cities in northern California, the beautiful, year-round weather – cool, foggy mornings that give way to balmy afternoons – as well as proximate medical care for older adults made their decision easier.\n\nBut Freedman, who earned a doctorate degree in educational psychology from the University of Southern California, was unable to find much work in Salinas that paid much beyond minimum wage. She currently works part-time at a school.\n\nBetween part-time jobs and social security, Freedman and her husband make about $75,000 total and pay $1,850 for their one-bedroom apartment, which became a rent-stabilized unit in 2024. After rent and Medicare payments, they don’t have much left to spare on groceries, gas and unexpected maintenance on their 14-year-old car. The balance on their credit card, she said, keeps climbing.\n\n“This is the first time in my life I’ve actually had to think about what I’m cooking, because I can’t afford to cook what I usually would,” she said. “We’re eating a lot more stews and spaghetti and chicken. I’m definitely thinking of what lasts more than one day.”\n\nFreedman and her husband have considered moving, but many of the affordable cities nearby lack medical care facilities or infrastructure that will be crucial for the couple as they get older.\n\nOther residents cited similar concerns of getting pushed out by the cost of living. Salvador Herrera, 52, a former construction worker who grew up in Salinas, said gone are the days of his childhood where a family could raise their children in their own apartment unit or home. In Salinas, it is now common for multiple families to live together: garages are partitioned with curtains; single bedrooms are crammed with young children and parents; and bathrooms are shared among dozens.\n\nHerrera supports his family using disability payments after an injury on the job left him unable to work. Rising rent has sometimes meant weeks where he has just $50 to spend on groceries for himself and his two children.\n\n“Everything’s changed. Especially the housing, it’s way too expensive. And the pay is cheap nowadays,” he said.\n\nSalinas’s close proximity to Silicon valley leaves it vulnerable to the same housing woes faced by the rest of the Bay Area, housing experts say.\n\nIts surrounding farmland also makes it difficult to expand and build there, all of which has led to a persistent lack of housing supply that has pushed up prices for years. Meanwhile, the median household income in Salinas is just shy of $90,000, compared with a median of roughly $150,000 in San Jose or San Francisco.\n\n“We got caught up early on Bay Area economics,” Salinas mayor Dennis Donohue said at a Starbucks across from the Salinas Sports Complex, where he was attending an agricultural biotechnology conference. “You have all the economic challenges of the Bay Area impacting Salinas and this area without corresponding economic opportunities.”\n\nAll of this pressure comes even as California is home to some of the most progressive housing policies in the US, with rent caps on most households statewide and further protections at the local level. Still, residents face the highest median monthly housing costs in the country, according to the latest census data.\n\nCritics on both sides of the political aisle have in part criticized the state’s governor, Gavin Newsom, for the state’s cost-of-living crisis, including sky-high housing costs. Newsom, who is considering a presidential run, has blamed Trump but may well find voters – and his opponents – put the blame closer to home.\n\nMeanwhile, housing is one of the most potent issues at the voting polls: a recent survey from CNBC found that the high cost of housing was the most pressing concern for voters aged 18 to 34 years old.\n\nTrouble in paradise\n\nThe Salinas city council sent Freedman and many more struggling households a lifeline in 2024, when it passed a rent-stabilization ordinance that capped annual rent increases on certain multifamily rental properties to either 2.75% or three-quarters of the annual inflation rate, whichever is less. Freedman says she’s saved thousands of dollars already because of the caps her landlord now places on her rent increases each year.\n\nBut the town has been heavily divided on the policy. When a new city council board took over the next year, it repealed the policy , arguing the ordinance unfairly penalized apartment property owners and would discourage much-needed housing construction.\n\nA referendum vote was announced for this November after advocacy groups gathered enough signatures. Rent stabilization will remain until then, but it’s unclear where voters will land.\n\nIt’s a deeply emotional issue for Salinas, said Tony Barrera, a longtime resident and a city council representative who was among the minority who voted to keep rent stabilization in 2025. His district is overwhelmingly supportive of keeping the measures in place: 70% are renters and 80% are field workers, he said. About a third are undocumented, which means they won’t be able to vote in the fall.\n\nBut he also raised concerns that landlords in his district would not be able to afford their mortgage or property maintenance with the ordinance. If they sell their homes, he added, that could end up driving rents up further for his constituents.\n\n“I’m caught in the middle,” he said.\n\nMatt Huerta, an affordable housing expert based in Salinas and an advocate for rent stabilization, said that landlords can apply for exemptions if they need to raise rents higher than the ordinance allows.\n\n“We recognize that sometimes costs are higher than inflation. Sometimes tariffs come in, and all of a sudden you can’t get that refrigerator or water heater,” he said. “There’s an application process for that.”\n\nAmy Salmina, a property manager in Salinas, said many of the middle-class homeowners she works with have been selling their properties due to rising costs. Most are in their 60s and bought rental properties as investments, but rising property taxes and insurance have ultimately handed them greater losses.\n\nHousing specifically for the middle class is severely lacking in Salinas, she added, and economic opportunities aren’t keeping up with growth.\n\n“We have so much help [for] the low-income, which is great,” she said. “But we’re forgetting about the middle class,” she added, referring to families who make “too much money to get any assistance or to get lower-income housing”.\n\nSalmina’s family has lived in Salinas for four generations, but she is doubtful that her children will be able to afford to stay.\n\n“My son’s a firefighter. I don’t even know how they’re going to be able to buy a house,” she said. “I told all my kids: ‘Look, unless you have two incomes, you guys won’t be able to stay here.’”\n\nThose fighting against rent stabilization say that the law would exacerbate the town’s housing crisis, because it could disincentivize investors or developers looking to build in the area. But advocates argue that the city’s rent-stabilization ordinance only applies to buildings built before 1995, so newly built units can still be listed at market price.\n\nFor years, the city has struggled with a housing supply that hasn’t kept pace with its population. Even though the Salinas city council approved a plan in 2008 to build 11,500 new residential units , the Great Recession made it nearly impossible to finance any new construction, said Donohue, who had been in the middle of his first mayoral term at the time.\n\nNew construction was also stopped by Covid and has been slow to pick up even six years later. Now, with mortgage rates surpassing 7%, a 20-month high, and the US Federal Reserve poised to raise interest rates further, borrowing costs are exacerbating the crisis.\n\nBut Donohue has optimism for the future of the town, which he says exports “vegetables and too many of our kids”. He and other local officials are trying to bring more job opportunities to the area, while the city council recently approved a down payment assistance plan for first-time homebuyers.\n\n“I’m the mayor of the hometown of John Steinbeck,” Donohue said. “If any city should know how to tell a story, it should be this one. I’m confident the city, the book, will have a happy ending.”\n\nHe just can’t tell you how long it will take.\n\nCalifornia\n\nUS income inequality\n\nHousing\n\nJohn Steinbeck\n\nInequality\n\nWest Coast\n\nUS politics\n\nfeatures",
-      "imageWidth": 1200,
-      "imageHeight": 630
+      "imageUrl": "https://i.guim.co.uk/img/media/ed62391476cf888240cd6a1f638bde36baf9fcc9/0_17_2957_2365/master/2957.jpg?width=700&quality=85&auto=format&fit=max&s=5104a3dd7d36f5c1414625caddc6539f"
     },
     {
       "id": "f8884ee16df56774",
@@ -2393,7 +2485,7 @@
       "id": "c39e64428694ecce",
       "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
       "summary": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
+      "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o",
       "source": "BBC Politics",
       "publisher": "BBC",
@@ -2407,20 +2499,17 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1025,
-      "readingMinutes": 5,
-      "isShort": false,
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd64/live/f7c74c30-bde5-11f1-9358-01e3cd30f9bf.jpg",
-      "body": "Andy Burnham's comments on Manchester City's rule breaches sparked controversy\n\nPublished 1 October 2026\n\nThe rows circulating around Manchester City are huge, and they are only going to get bigger.\n\nThe Premier League has concluded that City \"systematically broke Premier League Rules for nearly a decade\".\n\nThis, clearly, matters for the club, but that is just the start of it.\n\nIt matters for Manchester, it matters for the Premier League and so, crucially, it matters for the UK's image around the world – because England's top flight is a colossal global brand. In other words, this matters whether you like football or not.\n\nAdded to all of this, Andy Burnham pitches himself as Mr Manchester and is a big football fan.\n\nThe man who was the mayor of Greater Manchester a matter of months ago is now the prime minister, and so finds himself caught up in it all at a local level, a national level and a diplomatic level.\n\nDiplomatic, because rows will rage over the extent to which City's ownership is separate from the Abu Dhabi state. And the state is a big UK ally.\n\nAll of this is why I thought it was in the public interest to put a series of questions to Burnham about it when I spoke to him on Wednesday as the Labour Party conference concluded in Liverpool.\n\nHis comments, in his interview with me , followed by no fewer than two attempts to backtrack 24 hours later, amount to perhaps his biggest self inflicted tangle since he arrived in Downing Street in July.\n\nHe will have expected to be asked about Manchester City, but he didn't expect sustained scrutiny about it.\n\nOne particular exchange prompted a lot of interest. I asked if he was worried that Manchester City's owners from the United Arab Emirates might sell up.\n\nIt is worth quoting his answer in full.\n\n\"Well, I would be really concerned to lose them. They've been such a huge partner in the building of modern Manchester. Obviously, the building of Manchester City into the global force that it is.\n\n\"I can't intervene more in the process. It would be wrong for me to do that. It would be wrong, I think, to jump to a conclusion before having really studied all of the detail, but obviously it's ongoing, and because it's still contested by Manchester City, then I think it's right that I don't say much more.\"\n\nHis answer is revealing on several levels, and was leapt on by many in football and then by the Conservatives, who labelled them \"completely out of touch\" and \"extraordinary\".\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nPM tells BBC's Chris Mason: I’d be ‘really concerned’ if Man City owners sell club\n\nFirstly, his fear – being \"really concerned\" – that the vast money from Abu Dhabi, that has transformed not just the club but parts of the city, could go.\n\nSecondly, that \"I can't intervene more\" in the process that is ongoing. What does \"more\" mean?\n\nTo be fair, as you can see in the full quote above and he said repeatedly elsewhere in the interview, he was trying to be circumspect about it all.\n\n\"I am not getting directly involved in the process,\" he told me, later adding \"I have to keep my distance from it.\"\n\nBut, the cumulative impression many were left with was that he was sympathetic to Manchester City's situation, not least because he repeatedly compared it to a vastly smaller row involving his own club Everton's finances a few years ago.\n\n\"I remember people proclaiming Everton guilty at the time, and you know, with hindsight, I think more people would say that wasn't fair the way that was handled. So it would be wrong of me to leap to one side given the experience that I'd had before becoming prime minister.\"\n\nEverton were docked Premier League points over it.\n\nDespite the gravity and breadth of what Manchester City now confront , Andy Burnham offered no explicit criticism of them.\n\nThe back pages and the sports channels as well as news sites and social media were quickly ablaze with the remarks.\n\nAnd by teatime on Thursday, No10 were back-pedalling.\n\nA written statement was sent out, which again is worth quoting in full:\n\n\"As the prime minister made clear, the initial judgement is serious and there can't be any suggestion that anyone is above the rules. He also stressed that it is an ongoing independent process. It is essential that it is allowed to run its course and the outcome respected.\n\n\"If wrongdoing is established, those responsible should face the appropriate consequences.\"\n\nSome 59 words that could be replaced by a picture of a reversing light – the tone and language completely different from Burnham's to me on camera.\n\nBut even that statement didn't last long. Immediately, the first word of the second paragraph of it was jumped on. \"If.\"\n\nRemember, the Premier League says Manchester City arranged \"sham contracts\" with a number of commercial partners as part of a scheme to disguise secret funding of almost a billion pounds. The club deny wrongdoing and are considering an appeal, but the Premier League's conclusion is clear.\n\nBut Downing Street said \"if.\" Fast forward a little over an hour, and the statement was re-issued. \"If\" became \"wherever.\"\n\nIn real time, No10's jitters and discomfort about this was there for all to see.\n\nThe prime minister seen as Mr Manchester, who loves his football and revels in a man of the people image, caught up in one of the biggest domestic stories of the year and one that is only just beginning.\n\nIt won't be the last time he faces questions about Manchester City.\n\nMore on this story\n\nBurnham 'really concerned' if Man City owners sell up after rule breaches Published 3 days ago\n\nMan City not 'above the rules', says No 10 after backlash to Burnham remarks Published 1 day ago\n\nCriminal investigation? Relegation or expulsion? The key Man City questions Published 3 days ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd64/live/f7c74c30-bde5-11f1-9358-01e3cd30f9bf.jpg"
     },
     {
       "id": "b9305628d97de5ef",
       "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
       "summary": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
+      "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo",
       "source": "BBC Business",
       "publisher": "BBC",
@@ -2434,14 +2523,35 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1398,
-      "readingMinutes": 7,
-      "isShort": false,
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f157/live/3b2f3340-bca9-11f1-a3e9-bbda6f9b9e25.jpg",
-      "body": "Juan Omar Sixto says he and his colleagues are ready to 'go and do business in Cuba right away'\n\nPublished 2 October 2026\n\nAt the lavish home of one of Miami's top plastic surgeons, overlooking the Biscayne Bay, some of the wealthiest Cuban-American families in Florida have gathered.\n\nThey are there to thrash out their vision of Cuba's future at the fourth meeting of the newly created Cuban-American National Chamber of Commerce (CANCC).\n\nRum in hand and Rolexes on wrists, this is Miami's old money. People with well-recognised Cuban-American surnames – like Bacardi and Babun – chat around the pool about the lamentable state of the island's economy, and share titbits of gossip about the latest political rumblings.\n\n\"The intention of this evening is to gather under one roof the most prominent Cuban-American entrepreneurs in Miami-Dade County,\" says CANCC president Juan Omar Sixto, \"and the objective is to be in Cuba once the regime falls\".\n\nHis guests are convinced that moment is nigh.\n\nMillions without power as Cuba hit by latest major blackout Published 19 September\n\nUS sanctions more Cuban companies and officials Published 21 August\n\nHow the US oil blockade is pushing Cuba into darkness Published 26 June\n\nThis influential community of Cuban exiles has detested the Communist-run government ever since the late revolutionary leader Fidel Castro expropriated their lands and nationalised their families' companies after taking power in 1959.\n\nAnd they have wielded their political and economic clout in Florida over the years to shape Washington's policies towards their homeland.\n\nSixto fled the island as a teenager. Now a real estate developer in his early 80s, his organisation is drafting plans for what he calls \"the day after\" in Cuba.\n\nThe CANCC has created a proposal for a Cuban Stock Exchange and formed committees on everything from energy infrastructure to food security.\n\nPost-Communist planning is nothing new in Miami.\n\nCountless documents and logistical plans have been drawn up by interest groups over the decades, some of them more sober and measured than others.\n\nThe difference now, insists Sixto, is the Trump administration's push to force total change on the island. And he says they have the ear of some high-profile contacts including people close to the Secretary of State, Marco Rubio.\n\n\"Together with deliveries of humanitarian aid and medical supplies, we'd go and do business in Cuba right away,\" says Sixto.\n\nThe economic situation in Cuba has worsened since a US blockade on the island importing oil\n\nIn Cuba itself, such claims are mostly met with scepticism.\n\nIn the face of Washington's \"maximum pressure\" campaign on Cuba, the island's leadership recently announced 176 economic liberalisation measures. The Cuban President, Miguel Díaz-Canel, said they were \"to advance the defence of socialism, to support and widen social justice\".\n\nTo his critics, they look distinctly like full-blown capitalism - lifting the cap on the number of workers in a private business, allowing the direct hiring and firing of Cuban employees and permitting ownership of multiple enterprises at once, including by Cuban Americans.\n\nStill, the attendees at the CANCC meeting dismissed the economic reforms as cosmetic, saying they gave no meaningful guarantees to investors. They would \"not put a foot into Cuba\", Sixto said, while the current regime remained in place.\n\nSome analysts think such planning meetings are premature. Although Cuban Americans are convinced that change is imminent in Cuba, none can say with any certainty what it will be - a US military operation as seen in Venezuela in January? Or a new economic pact with the island's leadership?\n\n\"Right now, the very high expectations created by the US administration that some kind of 'day after' was coming soon, or that Cuba would 'be next' have been kicked down the road,\" says Mike Bustamante, associate professor of history at the University of Miami.\n\nWith the November mid-term elections in the US approaching and the Trump administration embroiled in the \"quagmire\" of the Iran war, Bustamante argues there is little appetite for further foreign adventures.\n\n\"It's really tough to think that they will escalate further than what they're doing which is this drip-drip-drip of sanctions.\"\n\nWith the island's oil supply effectively shut off since January, that is already a significant escalation, says Mike Bustamente. Although they have made life unbearable for most ordinary people, they haven't yet \"created the ingredients for a political inflection point\" in Cuba, he adds.\n\nJuan Omar Sixto, centre, and his colleague have big plans drawn up for Cuba\n\nThe Cuban government has not commented on the CANCC itself. But traditionally such groups prompt indignation among revolutionaries who insist they will not be forced out by their critics in Miami.\n\nI ask some guests if they can appreciate the irony that the same people who support a major source of the island's misery – the decades-long US economic embargo and the current fuel blockade – are now hatching plans for its reconstruction, without the input of most Cubans.\n\nFor Cuban-American agricultural expert Hugo Orizondo it is only practical to draw up a road map to Cuban development. \"Right now, Cuba is like a black hole, we don't know what is happening over there,\" he admits. \"But we do know the potential [for investment].\"\n\nOrizondo says he understands the reticence among Cubans to see foreign investors buying up something as sensitive as the rights to arable land. \"But what are they going to do with it?\" he retorts. \"When investors come, they bring money and technology into the land.\"\n\nBoth are urgently needed, he says, if Cuba is ever to produce enough to feed its own population and break its reliance on food imports.\n\nLand titles lie at the heart of any reconstruction project put forward by this generation of wealthy Cuban Americans. Juan Omar Sixto says his father lost five properties and a farm in Cuba's Pinar del Rio province to the revolution. While he insists he has no intention of removing any family living in those homes, he does want compensation for the nationalised land.\n\n\"I worked on that farm for five years of my life with my father, and they took it away. I want restitution or compensation. Even if they give me just a penny on the dollar, I'll take it.\"\n\n\"It's moral justice,\" he argues.\n\nThe Cuban government portrays such historic title claims as bitterness by a corrupt landed gentry who made fortunes on the backs of indentured workers and slaves. Both slavery and the system of indentured workers didn't end in Cuba until the late 19th Century.\n\nThe government also argues that the exiles could never stand that Castro passed land reforms which handed over their fields to the workers and the state.\n\n\"Most of our sugar mills have been dismantled, but we will recover those lands and put them into production,\" says Nicolás Gutiérrez, the president of the National Association of Sugar Mill Owners of Cuba, an exile organisation championing the title claims.\n\n\"I'm not promising it will be in sugar,\" he says.\n\n\"It might be in ethanol, co-generation, solar panels or water purification cells. Who knows? There are a lot of different options,\" he remarks. \"We need to get them producing, we need to have a real wage paid to Cuban workers and create a multiplier economic effect across the island.\"\n\nHugo Orizondo admits it is difficult to know the current situation in Cuba\n\nWith the ice clinking in their drinks and a cool breeze rustling the palm trees on the perfectly manicured lawn, the CANCC members make it sound easy. But within hours of their gathering, Cuba had descended into its sixth nationwide blackout this year.\n\nThe disconnection between the hopes for change in Miami and the realities on the ground in Cuba is stark. Many Miami-based Cubans think the monumental shift they have prayed for is almost here.\n\nIf so, it will inevitably bring huge social and humanitarian disruption which the stricken island is ill-equipped to cope with. Even assuming the diaspora's support is well-intentioned rather than purely self-interested, fixing the island's failing electrical grid alone is estimated to cost $8bn to $10bn (£6bn to £7.5bn).\n\nBefore any industry in Cuba – from agriculture to tourism – can be revitalised by the exiles' wealth and political connections, Cubans continue to face acute shortages in food, water, fuel and medicines. Miami's ambitious plans aside, most Cubans just hope their days get a little easier sometime soon.\n\nRelated topics\n\nCuba\n\nMiami\n\nWorld of Business\n\nInternational Business",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f157/live/3b2f3340-bca9-11f1-a3e9-bbda6f9b9e25.jpg"
+    },
+    {
+      "id": "f055d4fad1f8d34a",
+      "title": "The dawn of the age of the exoskeleton",
+      "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-10-03T11:15:33Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 13,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2261904940-1152x648.jpg"
     },
     {
       "id": "6faf7704deba5ea3",
@@ -2542,6 +2652,77 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d2/live/aacf2800-bdb1-11f1-bc2e-018d645d8d21.png"
     },
     {
+      "id": "74185150b9a1dac8",
+      "title": "Wakefield beat Warrington to become champions for first time since 1968",
+      "summary": "Two years on from relegation, Wakefield Trinity are crowned Super League Grand Final champions after beating Warrington Wolves 23-10 at Old Trafford and win their first title since 1968.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/videos/c6j9xkr7v92go",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-03T22:08:12Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 29,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d465/live/3959a9f0-bf5c-11f1-babe-4199b0e7ccea.jpg"
+    },
+    {
+      "id": "10272088fb04e2b2",
+      "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
+      "summary": "Days after President Donald Trump signed a voluntary pact with artificial intelligence giants, a former OpenAI worker said his industry needs the same safeguards as nuclear power or aviation.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-10-03T21:55:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 29,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "fab0c30cc22c3146",
+      "title": "'An unbelievable story' - inside unfancied Wakefield's rapid ascent",
+      "summary": "Wakefield's stars of yesteryear are remembered in sepia but now the class of 2026 has added glorious colour to their success after winning a previously unfathomable Super League title.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/ckpq0r02lz81o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-03T21:39:45Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 29,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aea2/live/1a562d10-be37-11f1-883b-cfbfbf424e7e.jpg"
+    },
+    {
       "id": "9423995164b28c27",
       "title": "Rising energy costs add to cost of living for Northern Ireland's consumers",
       "summary": "Households across Northern Ireland face increasing pressure on the cost of living as energy price hikes have come into effect.",
@@ -2591,6 +2772,54 @@
       "imageAlt": "Security camera screens display logos for Facebook, YouTube, X, TikTok, and Reddit"
     },
     {
+      "id": "b0fe3917c3b89caa",
+      "title": "Celtic condemn fan protest as Desmond targeted at Alfred Dunhill",
+      "summary": "Celtic's largest shareholder Dermot Desmond is targeted in a protest at the Alfred Dunhill Links golf tournament in St Andrews as tennis balls were thrown towards him.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-03T21:46:04Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 27,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94e2/live/cf56a740-bf44-11f1-8acc-0bb5649ca116.jpg"
+    },
+    {
+      "id": "49bc502f1934f72e",
+      "title": "Man Utd & Arsenal eye Croatia striker - Sunday's gossip",
+      "summary": "Three Premier League clubs are interested in Freiburg striker Igor Matanovic, Juventus want Liverpool centre-back Giovanni Leoni, Newcastle willing to let Joe Willock leave in January, plus more.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw62y457008lo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-03T20:32:45Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 28,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac4a/live/45c6e1e0-bf65-11f1-a64c-550be9e3c66b.png"
+    },
+    {
       "id": "72674c316f799b87",
       "title": "New baby bank 'open to everybody'",
       "summary": "The facility offers essential items for free, including clothes for babies and small children.",
@@ -2613,6 +2842,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee86/live/9145a8c0-bcb5-11f1-a3e9-bbda6f9b9e25.jpg"
+    },
+    {
+      "id": "32c7cf8c2f1a135a",
+      "title": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+      "summary": "Jude Bellingham's international future was being called into question a year ago, but now he is regarded as potentially one of England's \"greatest of all time\".",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-10-03T21:07:59Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 26,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec9a/live/385a09b0-bf5b-11f1-bf94-5355097afbf2.jpg"
     },
     {
       "id": "7f6020662047afc5",
@@ -2638,6 +2891,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b3/live/cb6fe2f0-bbdd-11f1-bfea-9d5bb7e7d40b.jpg"
+    },
+    {
+      "id": "b7894cb8befb4c7d",
+      "title": "'It means everything' - numbers behind Robertson's 100-cap Scotland career",
+      "summary": "Andy Robertson has become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-03T21:27:29Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ec/live/9fd85a20-bf6e-11f1-8353-af47de35c0c8.jpg"
     },
     {
       "id": "a45d38f236e4a60c",
@@ -2687,6 +2964,31 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cce/live/b93e6c20-bda7-11f1-8373-27235719cf2a.png"
+    },
+    {
+      "id": "3770d7c38fb9e2fa",
+      "title": "Rugby League: Super League",
+      "summary": "After two stunning semis, there’ll be a new name on the trophy at Old Trafford",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032k7p",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-03T23:00:40Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK",
+        "Rugby"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdmbxj.jpg"
     },
     {
       "id": "1c131c2edb2fc71d",
@@ -2785,6 +3087,53 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cd/live/c6274510-bda2-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "id": "1895c46edb4799e0",
+      "title": "Trump ramps up pressure on US Republicans to end US clock switching",
+      "summary": "The US president published a lawmaker's cell phone number as he called for the passage of a bill making DST permanent.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-03T20:16:50Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 21,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "bbbbfa0f34148469",
+      "title": "Fury wants 'old pal' President Trump for Joshua ringwalk",
+      "summary": "Former heavyweight champion Tyson Fury plans to ask US president Donald Trump to lead his ring walk before fighting Anthony Joshua.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cmg47yw937l6o",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-10-03T19:43:48Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 21,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50ba/live/54d0a660-bf5d-11f1-bf94-5355097afbf2.png"
     },
     {
       "id": "255b6c5a6ac4ff52",
@@ -2954,30 +3303,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d544/live/cd3b0f80-bf1e-11f1-9b47-174f268aae1d.jpg"
     },
     {
-      "id": "a54e1fa8bdf190cc",
-      "title": "Desmond targeted by Celtic fan protest at Alfred Dunhill",
-      "summary": "Celtic's largest shareholder Dermot Desmond is targeted in a protest at the Alfred Dunhill Links golf tournament in St Andrews as tennis balls were thrown towards him.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-03T16:24:56Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 27,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94e2/live/cf56a740-bf44-11f1-8acc-0bb5649ca116.jpg"
-    },
-    {
       "id": "a1e69bd7016c60b6",
       "title": "Wu thrashes Trump to set up Yuan final in Shenzhen",
       "summary": "Chinese world champion Wu Yize wins six consecutive frames to beat Judd Trump 6-1 at the Shenzhen Open and set up a final against countryman Yuan Sijun.",
@@ -3048,30 +3373,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46bd/live/5d5b9050-bf40-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "id": "b00a6673e178f258",
-      "title": "Clohessy and Gallagher handed first Ireland starts",
-      "summary": "Ireland head coach Scott Bemand hands first starts to Jane Clohessy and Niamh Gallagher for Saturday's Test with Japan.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmqlwlep16xko",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-10-01T11:27:42Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d771/live/ee1d2520-bd8a-11f1-babe-4199b0e7ccea.png"
     },
     {
       "id": "588ccb7a6ce6b790",
@@ -4326,30 +4627,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026_Mini-LED_M80H_FRONT_WALL_Image-1-1024x683-1-1024x648.jpg"
     },
     {
-      "id": "4b299cc17ee7dcd1",
-      "title": "Chiesa eyes Liverpool exit - Saturday's gossip",
-      "summary": "Liverpool forward Federico Chiesa is on the radar of a trio of Serie A clubs, Man City striker Erling Haaland is more likely to head to Barcelona than Arsenal if he leaves the club, Brentford's Michael Kayode is wanted by Juventus, plus more.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq70p3w936w9o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-02T21:14:32Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 43,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab9f/live/9478d6d0-bea3-11f1-a22a-011993fe1af2.png"
-    },
-    {
       "id": "c96fa4a040edaa7d",
       "title": "OpenAI fires workers for 'mishandling sensitive information'",
       "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
@@ -4540,31 +4817,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/illo_ai_safety_concentration_final-768x432.jpg"
-    },
-    {
-      "id": "a74e45d5305bfd85",
-      "title": "'Lions Women can learn from darts and 1997'",
-      "summary": "Whitney Hansen and Jo Yapp, coaches of New Zealand Women and the British and Irish Lions Women respectively, sit down for joint interview with Rugby Union Weekly",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0e3v39jx00o",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-09-30T11:29:47Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK",
-        "Rugby"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 27,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6bf/live/a0a70880-bcc0-11f1-810a-9579202680fa.png"
     },
     {
       "id": "7195981aabfcbd31",
@@ -4760,275 +5012,13 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
-    },
-    {
-      "id": "8979837d2b18b46e",
-      "title": "Burnham to fight next election on pledge to change voting system",
-      "summary": "The prime minister says he wants other parties to take part in a national commission on electoral reform.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-09-30T09:45:32Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e36a/live/dff20db0-bc1a-11f1-b84f-b5367b64d530.jpg"
-    },
-    {
-      "id": "1731461def2bde2d",
-      "title": "Venus' mysterious haze is actually cosmic dust",
-      "summary": "A physical model show that iron dust and sulfuric acid create the right properties.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-10-01T22:27:04Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-1152x510.jpeg"
-    },
-    {
-      "id": "83c920d3418a80b5",
-      "title": "SpaceX describes surgical intervention before launch of latest crew mission",
-      "summary": "With Crew-13, Jessica Watkins became the first Black woman to lead a mission into space.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-10-01T22:07:33Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/crewdragon1crew13-1152x648.jpg"
-    },
-    {
-      "id": "d677db40f8c13681",
-      "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
-      "summary": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
-      "source": "TechCrunch",
-      "publisher": "TechCrunch",
-      "published": "2026-10-02T14:47:46Z",
-      "category": "Tech",
-      "region": "US",
-      "labels": [
-        "Tech",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "9e7dc9dca0f220e5",
-      "title": "ARD-Deutschlandtrend survey: Germans unite in frustration over the government",
-      "summary": "On the 36th anniversary of reunification, Germans are dissatisfied with the country's political leaders. They don't believe they'll be able to handle the challenges posed by AI, Russia and Donald Trump.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/ard-deutschlandtrend-survey-germans-unite-in-frustration-over-the-government/a-79515172?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-10-02T11:17:00Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 31,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "4e4f3ef5264dff27",
-      "title": "Giant Dzeko shirt unveiled in Sarajevo to mark retirement",
-      "summary": "A giant Edin Dzeko shirt is unveiled in Sarajevo to mark the Bosnia striker's retirement from international football.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cx8dzpj896edo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-02T14:00:18Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1afb/live/6d75a9e0-be68-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "id": "5fa4df3928a813ee",
-      "title": "How Gordon became one of England's main men",
-      "summary": "Anthony Gordon has been England's in-form player since the World Cup knockout stage - is the Barcelona forward now undroppable?",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9qrqelnd49o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-02T13:15:44Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f014/live/cd024a60-bdac-11f1-8373-27235719cf2a.jpg"
-    },
-    {
-      "id": "6b815bbcffbb255e",
-      "title": "HMRC urged to scrutinise tax implications of Man City case",
-      "summary": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-10-01T18:21:22Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 22,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda1/live/922cde20-bdaa-11f1-8373-27235719cf2a.jpg"
-    },
-    {
-      "id": "b29e4064b70b6d00",
-      "title": "Business Daily",
-      "summary": "Protests about 87-year-old Mariacarmen Abascal's eviction reignited the housing debate",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8g9w",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-10-01T20:30:00Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 10,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdd20t.jpg"
-    },
-    {
-      "id": "318e1f1aac16c61e",
-      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-      "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-10-01T20:11:55Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg"
-    },
-    {
-      "id": "11d89f43625404d4",
-      "title": "Robertson's Scotland career in numbers as 100th cap looms",
-      "summary": "Andy Robertson is poised to become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-02T11:43:12Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 26,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a5/live/99c8f0b0-bd8c-11f1-a64c-550be9e3c66b.jpg"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 25
+      "items": 26
     },
     {
       "source": "BBC Politics",
@@ -5133,12 +5123,12 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 65
+      "items": 69
     },
     {
       "source": "BBC Rugby Union",
       "ok": true,
-      "items": 50
+      "items": 51
     },
     {
       "source": "Saracens",
