@@ -1,21 +1,22 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-03T23:01:55.540475Z",
+  "generatedAt": "2026-10-04T05:49:33.477103Z",
   "topStoryIds": [
-    "6314e2848b4d96a7",
+    "bb5c9ea6568b9a28",
     "0283ca97594654e8",
+    "ae93c3fd1ff01524",
+    "77febcb6e07f4b4d",
     "0b1a3f2530c26e48",
-    "792c68b7c515a3e0",
-    "c356b7ea23b1eba9",
     "f846297a0743ed9a",
     "05bb3064596f2bfe"
   ],
   "sectionStoryIds": {
     "Politics": [
-      "6314e2848b4d96a7",
+      "bb5c9ea6568b9a28",
+      "77febcb6e07f4b4d",
       "792c68b7c515a3e0",
       "c356b7ea23b1eba9",
-      "3b106e959263a5b9",
+      "bf8fab4a8ba36fae",
       "95d1daa4841b8ecc",
       "2c893fcd4678cb4b"
     ],
@@ -35,17 +36,17 @@
       "b93bb484ea749274"
     ],
     "Sports": [
-      "fffac0ba1fcea8f9",
-      "6ee3fb9f64e605cd",
-      "6005df2bf5cbc03e",
+      "19fe0cc42ce23ed0",
+      "0f999788c7ed3933",
+      "76e36b2252349913",
       "fb164aa4025165c0",
       "e147cdf854420b5d",
       "49c2498eb8b04a26",
+      "f66308c0825615bc",
       "19286b08ebaf95a6",
       "723a27c383cf3d94",
       "58371aa8e1152b93",
       "e33cf8143b869619",
-      "103018a1e8296ab1",
       "9d8641dac80f1849"
     ],
     "Editorial": [
@@ -61,31 +62,31 @@
   },
   "stories": [
     {
-      "id": "6314e2848b4d96a7",
-      "title": "Tories pledge to scrap £100,000 childcare 'cliff edge'",
-      "summary": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
+      "id": "bb5c9ea6568b9a28",
+      "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
+      "summary": "Britain under pressure to put tariffs on cheap Chinese vehicle imports ahead of protectionist trade measures Britain’s car industry is grappling with a “difficult trade-off” between China and Europe, as manufacturers struggle to balance the benefits of both markets ahead of looming trade measures that could restrict UK exports to the EU. The UK is an outlier in choosing not to put import taxes on Chinese vehicles, even as the US has shut them out almost entirely , and the EU imposes duties of up to 45% . Continue reading...",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-10-03T21:03:22Z",
+      "url": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
+      "source": "The Guardian China",
+      "publisher": "The Guardian",
+      "published": "2026-10-04T05:00:18Z",
       "category": "Politics",
-      "region": "UK",
+      "region": "China",
       "labels": [
         "Politics",
-        "UK"
+        "China"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 713,
+      "wordCount": 744,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af6b/live/df056910-bf62-11f1-ad02-314830f7a5f6.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: People shouldn't be punished for working harder, Badenoch says\n\nPublished 1 hour ago\n\nThe Conservatives have promised to scrap the \"absurd cliff edge\" that mean parents in England lose out on childcare support when they earn more than £100,000 a year.\n\nUnder the current system, only families where no parent earns more than this threshold are eligible for government-funded or tax-free childcare.\n\n\"What we want to see is that people who work harder don't get punished for doing so,\" Conservative leader Kemi Badenoch told the BBC's Sunday with Laura Kuenssberg programme.\n\nThe announcement comes as Conservative members gather for the party's annual conference in Birmingham.\n\nThe party said the move would be a \"first step\" in broader efforts to address issues in the tax system which damage incentives to work or invest.\n\nThis will be a theme of shadow chancellor Andrew Griffith's conference speech on Monday.\n\nSince September 2025, working parents in England have been entitled to 30 hours of free childcare , external for children aged between nine months and four years old.\n\nHowever, to qualify both parents must earn less than £100,000 a year.\n\nThe same £100,000 threshold applies to the government's tax-free childcare scheme , external .\n\nFor every £8 paid into an online childcare account, the government adds £2, up to £2,000 per child per year, which parents can then use to pay for childcare.\n\nThe Tories said they would remove the £100,000 threshold entirely so parents no longer lose childcare support when their income exceeds this level.\n\nThe threshold has been criticised by economists, who point out it can leave parents worse off overall even after a pay rise of tens of thousands of pounds.\n\nBadenoch told the BBC the party didn't want \"people to stop working because of that\".\n\nSpeaking before the party's conference, she added: \"What we want to see is more people in work and not taking the wrong decisions or the wrong choices, and it doesn't matter whether they're earning £10,000 or £100,000 - what matters is that people are out there working\".\n\nAsked if this could result in someone who earns £1 million a year get free childcare under a Conservative government, Badenoch responded: \"It doesn't matter what you earn - we don't want you to be punished for working hard. What we're trying to do is grow our economy.\"\n\nWhat does childcare cost and how do government-funded hours work in England? Published 21 May\n\nEducation secretary to ask competition watchdog to review hidden childcare costs Published 25 May\n\nTories aim to be election-ready ahead of party conference Published 1 day ago\n\nThe Tories argue the threshold may mean some people may delay having children until their incomes change, or decide not to start a family at all, describing scrapping it as \"both pro-family and pro-growth\".\n\nBy providing an increased incentive to work, the Tories said the move would also boost economic growth.\n\nThey added that it would tackle the \"unfairness\" that the threshold is calculated on an individual earner's income rather then for the whole household.\n\nIn a statement, Griffith said: \"Removing this childcare cliff edge is the first step in our mission to deliver lower, simpler, and fairer taxes across the board.\"\n\nThe party said the policy would be funded by cutting the number of public servants working in \"executive non-departmental public bodies\" - organisations which have a role in the processes of national government but operate at arm's length from ministers, such as Arts Council England and the Environment Agency.\n\nIt said this would save £1.6bn by 2029-30, covering the estimated £700 million cost of removing the childcare \"cliff edge\".\n\nBadenoch arrived in Birmingham on Saturday ahead of the annual conference, and vowed the party was new and different from the one that lost the 2024 general election.\n\nThe party - which is currently polling behind Labour and Reform UK - is expected to use the event to lay out more of its growing policy agenda ahead of the next general election.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nConservative Party\n\nConservative Party Conference\n\nChildcare\n\nTax\n\nFamily & Education",
+      "imageUrl": "https://i.guim.co.uk/img/media/b10db41e65d9e09adda2a58a3691fd5ec4bb508a/1094_279_2900_2320/master/2900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=486ad5ff173603a409f184ae9fefeb30",
+      "body": "Britain under pressure to put tariffs on cheap Chinese vehicle imports ahead of protectionist trade measures\n\nBritain’s car industry is grappling with a “difficult trade-off” between China and Europe , as manufacturers struggle to balance the benefits of both markets ahead of looming trade measures that could restrict UK exports to the EU.\n\nThe UK is an outlier in choosing not to put import taxes on Chinese vehicles, even as the US has shut them out almost entirely , and the EU imposes duties of up to 45% .\n\nEU officials reportedly warned Andy Burnham last month that the UK must put tariffs on cheap Chinese vehicles otherwise Brussels would impose protectionist “made in Europe” barriers on British exports to the bloc, hitting British carmakers in their largest market.\n\nMinisters have so far resisted such calls, with Jonathan Reynolds, the business secretary, arguing any levies would “probably be reciprocated” – costing UK manufacturers sales in China .\n\nTariffs would also raise prices for British drivers, who have flocked to cheaper Chinese models , and could deter brands such as Chery, which is in talks to build cars at Nissan’s Sunderland plant , from investing further in the UK.\n\n“There is a difficult trade-off,” said Emily Sawicz, of the consultancy RSM UK, adding that the UK “cannot afford to drift between the two indefinitely”. Chinese investment could be a “lifeline” for carmakers, while access to Europe would also be “crucial” for smaller manufacturers.\n\n“Being excluded risks UK suppliers becoming increasingly shut out of those European opportunities,” she added. “Manufacturers need clarity on which direction the government intends to take so they can make long-term investment decisions.”\n\nIan Plummer, commercial director at Autotrader, said competition from Chinese brands had made cars more affordable and “is encouraging more people to go and buy a new car”.\n\nBrands such as BYD, Omoda and Jaecoo more than tripled their share of the UK new car market in the first eight months of 2026, reaching 12% of sales, according to industry figures.\n\nFigures released on Friday showed that British new car ⁠registrations rose 12% in the year to September, the best month for annual growth since 2017. The preliminary data from the Society of Motor Manufacturers and Traders (SMMT) showed the boom was powered by a demand for electric vehicles and Chinese brands, with the Jaecoo 7 and BYD’s ​Sealion ‌7 among the top sellers.\n\nThe trade body said on Wednesday that the European Commission’s made in Europe rules, which restrict subsidies, tax breaks and public procurement contracts to vehicles built within the EU, pose an existential threat to British car production. The EU accounted for 58% of UK car exports in the first half of the year, compared with about 4% for China.\n\nMike Hawes, the SMMT’s chief executive, said: “The UK and EU automotive industries are deeply integrated, so effectively excluding British-produced vehicles from their largest market would assure mutual damage.”\n\n.\n\nMassimiliano Messina, Nissan’s chair in Europe, said last month: “Europe cannot have a Trojan horse where the Chinese are going to flood the market through the UK.”\n\nafter newsletter promotion\n\nVictor Zhang, the deputy UK chief of Chery, which owns the Jaecoo and Omoda brands, rejected that claim, saying: “Most of what we sell are super-hybrids, not the cars that those tariffs are about, and the cars we sell here stay here.”\n\nHe added: “Tariffs can come and go, but we won’t change our ongoing investment in the UK.”\n\nBrussels raised its own tariffs on Chinese EVs in 2024, triggering a decline in what was then an accelerating sales trajectory. It is now facing calls for fresh barriers to be imposed on importing hybrid electric vehicles, potentially quotas or price floors.\n\nImports of plug-in and battery hybrid cars rocketed after the EU tariffs were imposed on EVs, underlining China’s ability to pivot its export efforts when hit by trade barriers.\n\nOthers in the industry believe tariffs could help protect the UK’s manufacturers, whose market share in Britain continues to be eroded Chinese firms.\n\nTim Tozer, a former chair of Vauxhall, said that tariffs were “vital” to stop Britain’s car sector “atrophying”. He said: “We are at last knockings now, trying to save the industry.”\n\nHe added that Reynolds was “whistling in the wind” with hopes of continuing to export to China en masse, arguing the market had become “fiercely nationalistic,” with buyers increasingly loyal to domestic brands “because they’re bloody good”.\n\nAutomotive industry\n\nEuropean Union\n\nChina\n\nTrade policy\n\nManufacturing sector\n\nAsia Pacific\n\nEurope\n\nnews",
       "imageWidth": 1200,
-      "imageHeight": 675
+      "imageHeight": 630
     },
     {
       "id": "0283ca97594654e8",
@@ -115,6 +116,60 @@
       "imageHeight": 648
     },
     {
+      "id": "ae93c3fd1ff01524",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-10-03T04:38:31Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 990,
+      "readingMinutes": 5,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg",
+      "body": "Published 2 October 2026\n\nThe G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.\n\nIt includes a \"substantial release\" of diesel within 20 days, with discussions around \"additional diesel releases as necessary\", G7 leaders said in a statement.\n\nThe group of advanced economies, including the US, said the move would begin immediately and would last for four months.\n\nUnder the measures, which come after US President Donald Trump had threatened to ban diesel exports , there will not be any \"export restrictions on energy and energy products\" between G7 members.\n\nThe G7 includes the US, UK, Canada, Japan, Germany, Italy and France, with the EU also represented at its meetings.\n\nDonald Trump had warned he would ban diesel exports from the US if European countries did not agree to put more of their own stocks onto the market. That would have eased pressure on prices for US consumers ahead of November's midterm elections, but pushed up prices elsewhere.\n\nOn Friday, he said on social media: \"Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately.\"\n\nHis Treasury Secretary Scott Bessent had argued US farmers, truckers, and businesses \"should not be left carrying the burden\" as prices soar.\n\nSpeaking later at the White House, Trump said an export ban on diesel was \"never really on the table\".\n\nReferring to the decision by the G7 to release fuel from reserves, he added that \"what Europe did was a great thing.\"\n\n\"Europe has a lot of diesel and they're going to be making a major world contribution - and so are we,\" he said.\n\n\"And we're not going to be doing the export ban, we're going to be doing what we're supposed to do.\"\n\nTrump had first said he backed a diesel export ban early last week, and was still considering it on Thursday, as his administration put pressure on Europe to tap its supplies.\n\nDiesel is used heavily by the haulage industry and in agriculture, meaning rises in the cost of the fuel feed through into essentials such as food.\n\nEmmanuel Macron chaired a meeting of G7 leaders to agree the release of fuel reserves\n\nFollowing a meeting of G7 leaders, French President Emmanuel Macron said the bloc had agreed to release reserves of \"up to 100 million barrels\" within four months under the co-ordination of the International Energy Agency (IEA).\n\nThe UK was represented at the meeting by Foreign Secretary Ed Miliband, who said the measures would \"stabilise energy supplies, build resilience in supply chains and shield households and businesses from price shocks\".\n\nMacron said the co-ordinated action would \"bring down the prices of petroleum products, particularly diesel\". Highlighting the agreement not to pursue export bans, Macron said \"President Trump, in particular, was very clear on this point\".\n\nIn the joint statement, G7 leaders said: \"We will implement our commitments with a co-ordinated release through the IEA of 100 million barrels to begin immediately over four months, including a frontloaded substantial diesel release within the first 20 days by G7 members and partners.\"\n\nIt is not yet clear which partner countries will release stocks, nor how quickly.\n\nThe 100 million barrels will comprise a mix of diesel and crude oil. The price of global benchmark Brent crude oil briefly dropped below $100 a barrel, but rose back to around $102 by Friday evening. Before the US and Israel invaded Iran, it was trading at around $73.\n\nMatt Smith, director of commodities research at Kpler, said oil had risen again due to renewed strikes between Saudi Arabia and the Houthis in Yemen.\n\n\"Oil prices were selling off strongly due to the announcement of strategic stock releases in Europe, but they reversed course on rumours of Saudi Arabia planning an offensive into Yemen as it looks to re-establish a safe path via Bab-Al Mandeb,\" he said.\n\nEuropean countries had pushed back against US threats to turn off American diesel, against a backdrop of the US-led war in the Middle East and reduced supplies from Russia and China.\n\nThe G7 leaders said they will also co-ordinate maintenance schedules to avoid multiple refineries being shut down at the same time, while encouraging countries with the capacity to do so to ramp up refining of diesel in particular.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: Why did Trump threaten to ban US diesel exports?\n\nAvoiding a ban on US diesel exports will offer significant relief to countries which are reliant on imports of the fuel, including the UK, where prices at the pump topped £2 a litre for the first time on Friday .\n\nOver half of the UK's diesel is imported, with 31% of those imports coming from the US.\n\nThe US is one of the world's leading diesel suppliers, with domestic refineries churning out roughly four to five million barrels every day, according to the US Energy Information Administration (EIA).\n\nAmericans consume about 3.6 million barrels of that. Refiners export the remaining 1.2 to 1.5 million barrels per day, making the US a vital supplier to the global market.\n\nWhy UK diesel prices have breached the £2 per litre mark Published 1 day ago\n\nSupplies of diesel internationally have been heavily constrained by the conflict in the Middle East, which has restricted the flow of both crude oil and refined diesel onto global markets.\n\nRussia, which is also a major producer, has implemented its own export ban on diesel, following attacks on its refineries by Ukraine, further limiting supply. The G7 leaders stressed that they will maintain sanctions against Russia amid its ongoing war in Ukraine.\n\nDiesel is harder to refine than petrol and, because of its use in the haulage industry and agriculture, it is very difficult to reduce demand.\n\nRelated topics\n\nOil\n\nFuel\n\nDonald Trump\n\nG7",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "id": "77febcb6e07f4b4d",
+      "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
+      "summary": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-10-03T21:03:22Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 719,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af6b/live/df056910-bf62-11f1-ad02-314830f7a5f6.jpg",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: People shouldn't be punished for working harder, Badenoch says\n\nPublished 8 hours ago\n\nThe Conservatives have promised to scrap the \"absurd cliff edge\" that mean parents in England lose out on childcare support when they earn more than £100,000 a year.\n\nUnder the current system, only families where no parent earns more than this threshold are eligible for government-funded or tax-free childcare.\n\n\"What we want to see is that people who work harder don't get punished for doing so,\" Conservative leader Kemi Badenoch told the BBC's Sunday with Laura Kuenssberg programme.\n\nThe announcement comes as Conservative members gather for the party's annual conference in Birmingham.\n\nThe party said the move would be a \"first step\" in broader efforts to address issues in the tax system which damage incentives to work or invest.\n\nThis will be a theme of shadow chancellor Andrew Griffith's conference speech on Monday.\n\nSince September 2025, working parents in England have been entitled to 30 hours of free childcare , external for children aged between nine months and four years old.\n\nHowever, to qualify both parents must earn less than £100,000 a year.\n\nThe same £100,000 threshold applies to the government's tax-free childcare scheme , external .\n\nFor every £8 paid into an online childcare account, the government adds £2, up to £2,000 per child per year, which parents can then use to pay for childcare.\n\nThe Tories said that if they return to power they would remove the £100,000 threshold entirely so parents no longer lose childcare support when their income exceeds this level.\n\nThe threshold has been criticised by economists, who point out it can leave parents worse off overall even after a pay rise of tens of thousands of pounds.\n\nBadenoch told the BBC the party didn't want \"people to stop working because of that\".\n\nSpeaking before the party's conference, she added: \"What we want to see is more people in work and not taking the wrong decisions or the wrong choices, and it doesn't matter whether they're earning £10,000 or £100,000 - what matters is that people are out there working\".\n\nAsked if this could result in someone who earns £1 million a year get free childcare under a Conservative government, Badenoch responded: \"It doesn't matter what you earn - we don't want you to be punished for working hard. What we're trying to do is grow our economy.\"\n\nWhat does childcare cost and how do government-funded hours work in England? Published 21 May\n\nEducation secretary to ask competition watchdog to review hidden childcare costs Published 25 May\n\nTories aim to be election-ready ahead of party conference Published 1 day ago\n\nThe Tories argue the threshold may mean some people may delay having children until their incomes change, or decide not to start a family at all, describing scrapping it as \"both pro-family and pro-growth\".\n\nBy providing an increased incentive to work, the Tories said the move would also boost economic growth.\n\nThey added that it would tackle the \"unfairness\" that the threshold is calculated on an individual earner's income rather then for the whole household.\n\nIn a statement, Griffith said: \"Removing this childcare cliff edge is the first step in our mission to deliver lower, simpler, and fairer taxes across the board.\"\n\nThe party said the policy would be funded by cutting the number of public servants working in \"executive non-departmental public bodies\" - organisations which have a role in the processes of national government but operate at arm's length from ministers, such as Arts Council England and the Environment Agency.\n\nIt said this would save £1.6bn by 2029-30, covering the estimated £700 million cost of removing the childcare \"cliff edge\".\n\nBadenoch arrived in Birmingham on Saturday ahead of the annual conference, and vowed the party was new and different from the one that lost the 2024 general election.\n\nThe party - which is currently polling behind Labour and Reform UK - is expected to use the event to lay out more of its growing policy agenda ahead of the next general election.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nConservative Party\n\nConservative Party Conference\n\nChildcare\n\nTax\n\nFamily & Education",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
       "id": "0b1a3f2530c26e48",
       "title": "There is a way to look after people, the planet – and Britain’s growth. It’s what we call the ‘wellbeing economy’ | Jamie Driscoll",
       "summary": "Imagine the UK with a 20-year investment plan, with green homes and fast transport. We already have the tools to make it happen You’ve just left school. What’s your future? I know a physics graduate making flat whites; a 30-year-old living in his childhood bedroom who feels like a failure; a lad in Blyth who turned down a job 15 miles away because there’s no bus, and for young people his age car insurance is almost £2,000 a year. Britain’s young people are our greatest resource, and we are failing them because capital markets won’t allocate investment where it is needed. Saying “hope” in a conference speech sounds warm. But people need a plan. Jamie Driscoll is a Green party councillor on Newcastle city council and former North of Tyne mayor Continue reading...",
@@ -142,60 +197,6 @@
       "imageHeight": 630
     },
     {
-      "id": "792c68b7c515a3e0",
-      "title": "Greens would offer two-year jobs to unemployed under-24s",
-      "summary": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\".",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-10-03T17:08:40Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 615,
-      "readingMinutes": 3,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b0ad/live/a0ceddd0-bf1b-11f1-9b47-174f268aae1d.jpg",
-      "body": "Mothin Ali addressed Green Party members on the second day of their conference in Brighton\n\nPublished 3 October 2026, 13:51 BST\n\nYoung people would be offered a guaranteed two-year job within four months of leaving education or training, under a new proposal unveiled by the Green Party.\n\nAnnouncing the policy at the party's conference in Brighton, co-deputy leader Mothin Ali said there were a million \"bored, desperate and lost\" young people who were out of work, training or education.\n\nUnder the proposed scheme, youngsters would be offered posts in the private sector, with the government paying half their salary.\n\nAli said an initial pilot scheme - rolled out in areas with the fewest job openings for young people - would create 9,000 jobs, at an overall cost of £110m.\n\nThe pilot would start in areas such as Rotherham, Ceredigion, Newcastle-under-Lyme, Broxtowe and South Staffordshire, with an ambition to roll it out nationwide.\n\nThe party said that a person not in work, education or training would cost the state an estimated £240,000 in benefits over the course of their lifetime.\n\nIt argued that its policy would reduce spending on welfare and boost tax receipts from employment.\n\nEmployers would be exempt from paying National Insurance contributions, but would have to provide in-job training, the party says.\n\nThe party is seeking to pitch the plan as more ambitious than the government's own scheme, which subsidises six-month job placements for benefit claimants who have been looking for work for 18 months.\n\nAli also criticised ministers for previously suggesting youngsters refusing a role under that scheme could lose access to benefits, telling activists: \"Threatening young people with cuts to Universal Credit if they don't accept short-term work placements - that's not a youth strategy.\"\n\nSpeaking to BBC News after his speech, Ali said: \"If we don't take action now, we're losing a generation of young people.\"\n\nThe number of 16-24-year-olds who are not in employment, education or training has been rising since the Covid pandemic, with figures reaching almost one million.\n\nA long-awaited report into the problem by former Labour minister Alan Milburn is expected to be published this autumn.\n\nWhat does Neet stand for and why does the UK have so many? Published 27 August\n\nGreens can move Labour in the right direction, says Polanski Published 15 hours ago\n\nIn her own speech to the conference, Ali's fellow co-deputy leader Rachel Millward said the Greens would immediately bring both Thames Water and South East Water back into public ownership.\n\nShe argued this could be done without paying compensation to shareholders, pointing to water supply problems and a lack of new reservoirs.\n\nAndy Burnham has promised to bring water under greater public control, but has stopped short of announcing plans to nationalise any water companies.\n\nMillward told the conference the prime minister was \"making a mistake\" and his \"10-year plan of gentle threats and vague notions of control is not enough\".\n\n\"We need public ownership now, and we have all the tools we need to make it happen,\" she said.\n\nSouth East Water said it was \"focused on delivering on our commitments by investing £1.9 billion into local infrastructure and resilience over the next five years.\n\n\"We support working closely with the communities we serve and are accountable to, so that we can provide the best possible service for customers\".\n\nThames Water has been approached for a response.\n\nCash-strapped Thames Water poses big test for Burnham Published 15 July\n\nWater system a 'disaster', Green deputy leader says Published 2 days ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nGreen Party Conference\n\nGreen Party (England and Wales)",
-      "imageWidth": 1200,
-      "imageHeight": 675
-    },
-    {
-      "id": "c356b7ea23b1eba9",
-      "title": "US arrests California man for allegedly smuggling $300m worth of computer servers to China",
-      "summary": "Greg Lui allegedly used false paperwork to smuggle export-controlled gear from US to third countries and then China US authorities have arrested a man accused of smuggling more than $300m worth of computer servers to China , the Department of Justice announced. Greg Lui, 38, of California , also known as “Yiu Kong Lui”, allegedly used false paperwork and shipments through third countries to smuggle the export-controlled computer servers to China, the justice department said in a statement on Thursday. Continue reading...",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/us-news/2026/oct/02/arrest-smuggled-computer-servers-china",
-      "source": "The Guardian China",
-      "publisher": "The Guardian",
-      "published": "2026-10-02T18:46:29Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 288,
-      "readingMinutes": 2,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/b150fbf305d621454311041d7c8c8c7d201d7d70/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef35fbc11a191152a78412d3fa0017c6",
-      "body": "Greg Lui allegedly used false paperwork to smuggle export-controlled gear from US to third countries and then China\n\nUS authorities have arrested a man accused of smuggling more than $300m worth of computer servers to China , the Department of Justice announced.\n\nGreg Lui, 38, of California , also known as “Yiu Kong Lui”, allegedly used false paperwork and shipments through third countries to smuggle the export-controlled computer servers to China, the justice department said in a statement on Thursday.\n\nThe servers contained “US-manufactured graphics processing units (GPUs) commonly used for Super Intelligence (SI)”, it added, using the Trump administration’s new name for artificial intelligence (AI).\n\n“Protecting America’s national security means keeping our advanced super intelligence technology from being used to strengthen our adversaries’ military capabilities,” the US attorney for the central district of California , Bill Essayli, said.\n\n“We will aggressively prosecute those who put our national security at risk for profit,” he added.\n\nLui operated a technology company called Earthmade Computer, which he used to buy and send items to China without the licenses required by the US Department of Commerce from 2023 to 2024, according to the statement.\n\nThe company shipped the items to countries including Malaysia and Singapore, where no such license is required, then illegally re-exported them to China.\n\nIf convicted, Lui could face a maximum of 50 years in prison.\n\nafter newsletter promotion\n\nChina, long seen as trailing the United States on cutting-edge AI, has been closing that gap fast.\n\nThe United States has long tried to slow China’s progress with export controls on the advanced chips needed for cutting-edge AI, blocking access to top-end US semiconductors such as those made by Nvidia.\n\nCalifornia\n\nAI (artificial intelligence)\n\nChina\n\nInternational trade\n\nUS crime\n\nLaw (US)\n\nnews",
-      "imageWidth": 1200,
-      "imageHeight": 630
-    },
-    {
       "id": "f846297a0743ed9a",
       "title": "Who gets to decide if AI is safe? Africa wants a say",
       "summary": "African companies race to adopt American and Chinese AI, with little attention paid to safety.",
@@ -213,12 +214,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 940,
+      "wordCount": 944,
       "readingMinutes": 5,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/AI-safety-Nesta-1600x900.jpg",
-      "body": "Innovation\n\nAfrican companies race to adopt American and Chinese AI, with little attention paid to safety.\n\nIncidents of AI misuse and malfunction are growing across Africa.\n\nCompanies are piloting American and Chinese AI systems, with little consideration for safety.\n\nFrontier models should undergo Africa-centric safety evaluations, experts say.\n\nAfrican leaders called last week for a greater role in setting global standards for artificial intelligence.\n\nTheir statements at the United Nations came amid warnings from Silicon Valley executives about AI models being misused , and sometimes going rogue and taking unauthorized actions. OpenAI’s agents hacked government websites across the world in June. Models from Anthropic , Google , and Meta , too, hacked into other companies’ systems during tests.\n\n“Africa … must be equal co-architects in determining the standards, ethics, and architectures of this technological era,” Lewis Garseedah Brown II, permanent representative of Liberia, said at a U.N. Security Council meeting on AI.\n\nAfrican companies and governments are racing to deploy AI systems built in the U.S. and China. But many nations lack the ability to independently test whether those systems are safe for their populations, experts told Rest of World.\n\n“ There’s essentially no real discussion about AI safety. So, there’s a real vacuum,” said Jonathan Shock, associate professor in math at the University of Cape Town.\n\nIf countries set up their own safeguards, it could complicate operations for American and Chinese companies in new markets. Fragmented regulations could make global deployments of models more costly and difficult.\n\nIncidents of AI misuse and malfunction are surfacing across Africa. Kenya’s predictive machine learning algorithm for setting health insurance contributions has driven up costs for poor households. Scammers in West Africa have used AI-generated content to blackmail victims in extortion schemes . The militant group Boko Haram has also used AI to organize attacks and design weapons after bypassing safeguards.\n\n“I think it’s going to take a potentially catastrophic incident for governments to really take [heed],” Shock said, which he dubbed his optimistic view. “The pessimistic view is we don’t stop it in time.”\n\nRace to catch up\n\nAfrica currently lags behind other regions in AI adoption, though its companies are moving quickly. Out of 85 large companies surveyed by PricewaterhouseCoopers this year, more than 80% were running AI pilots. Many lack formal structures to oversee safety, according to the report.\n\n“Everyone is just trying to catch up [on AI deployment],” Mélanie Keïta, CEO and founder of Nairobi-based financing company Melanin Kapital, told Rest of World .\n\nLike many African companies, Melanin Kapital has weighed the choice between American and Chinese AI models, testing both internally. Both come with their own risks, Keïta said. “We might become a product of other foreign corporations that … own all our data as opposed to really being autonomous and free.”\n\nRisk also correlates with how easily a model can be shut down if something goes wrong. ChatGPT and Claude are closed-weight models, centrally controlled by their providers.\n\nChinese models such as DeepSeek and Kimi, along with a few American models, are open-weight and can be downloaded and modified by users. That makes it harder for their developers to shut down remotely, Jane Munga, fellow at the Carnegie Endowment for International Peace, told Rest of World .\n\n“The distinction that matters is not Chinese versus American; it is: Who holds the off switch?” she said.\n\nLack of guardrails\n\nGovernments across Africa are beginning to use AI in sensitive areas such as healthcare, education, and public services, even though fewer than half of African countries have AI policies or strategies, Shock said.\n\nKenya is the only African nation participating in an international AI safety network that is developing methods to evaluate advanced AI models.\n\nLast year, the network tested AI agents for risks such as sensitive data leaks and fraud. But the exercise focused on common global risks rather than ones specific to Africa, Joanna Wiaterek, co-founder of the Centre for AI Security and Access, told Rest of World . It found agent safeguards worked unevenly across languages.\n\n“Africa-centric” safety evaluations should judge harm by the size of each country’s economy, Gathoni Ireri, research scholar at the Nairobi-based Ilina Program, an AI safety research center, told Rest of World. An incident that might be considered minor in a Western country could irrevocably harm an African one, she said.\n\nCompanies currently carry out their own safety tests, but this needs to be replaced by third-party evaluations that assess risks specific to Africa, Ireri said.\n\n“I think we also have to have our own ideas about what it means for a system to be safe within our own context,” she said.\n\nAfrican nations need to develop the capacity to conduct those evaluations, Ali Mohamed Omar, Somalia’s state minister for foreign affairs, said at the U.N.\n\n“Africa cannot remain merely a market for systems developed elsewhere, a source of raw data, or a testing ground for a technology it did not help govern,” he said. “[Africa] must be granted a genuine representation and a voice in these multilateral processes.”\n\nDario Amodei wants to slow AI. China isn’t taking orders\n\nChinese officials and engineers see an attempt to preserve the U.S. lead; “Why do you always get to define the game — and change the rules?”\n\nChina is excelling in health tech. That’s good news for the world\n\nRuby Wang, a physician and biotech consultant in the U.K., on her upcoming book on the emergence of China as a global health superpower.\n\nAwkward: Saudi Arabia’s new EV brand takes on the U.S. rival it already controls\n\nThe Saudi wealth fund’s new EV will compete with Chinese rivals and with Lucid, the U.S. carmaker the fund controls.",
+      "body": "Innovation\n\nAfrican companies race to adopt American and Chinese AI, with little attention paid to safety.\n\nIncidents of AI misuse and malfunction are growing across Africa.\n\nCompanies are piloting American and Chinese AI systems, with little consideration for safety.\n\nFrontier models should undergo Africa-centric safety evaluations, experts say.\n\nAfrican leaders called last week for a greater role in setting global standards for artificial intelligence.\n\nTheir statements at the United Nations came amid warnings from Silicon Valley executives about AI models being misused , and sometimes going rogue and taking unauthorized actions. OpenAI’s agents hacked government websites across the world in June. Models from Anthropic , Google , and Meta , too, hacked into other companies’ systems during tests.\n\n“Africa … must be equal co-architects in determining the standards, ethics, and architectures of this technological era,” Lewis Garseedah Brown II, permanent representative of Liberia, said at a U.N. Security Council meeting on AI.\n\nAfrican companies and governments are racing to deploy AI systems built in the U.S. and China. But many nations lack the ability to independently test whether those systems are safe for their populations, experts told Rest of World.\n\n“ There’s essentially no real discussion about AI safety. So, there’s a real vacuum,” said Jonathan Shock, associate professor in math at the University of Cape Town.\n\nIf countries set up their own safeguards, it could complicate operations for American and Chinese companies in new markets. Fragmented regulations could make global deployments of models more costly and difficult.\n\nIncidents of AI misuse and malfunction are surfacing across Africa. Kenya’s predictive machine learning algorithm for setting health insurance contributions has driven up costs for poor households. Scammers in West Africa have used AI-generated content to blackmail victims in extortion schemes . The militant group Boko Haram has also used AI to organize attacks and design weapons after bypassing safeguards.\n\n“I think it’s going to take a potentially catastrophic incident for governments to really take [heed],” Shock said, which he dubbed his optimistic view. “The pessimistic view is we don’t stop it in time.”\n\nRace to catch up\n\nAfrica currently lags behind other regions in AI adoption, though its companies are moving quickly. Out of 85 large companies surveyed by PricewaterhouseCoopers this year, more than 80% were running AI pilots. Many lack formal structures to oversee safety, according to the report.\n\n“Everyone is just trying to catch up [on AI deployment],” Mélanie Keïta, CEO and founder of Nairobi-based financing company Melanin Kapital, told Rest of World .\n\nLike many African companies, Melanin Kapital has weighed the choice between American and Chinese AI models, testing both internally. Both come with their own risks, Keïta said. “We might become a product of other foreign corporations that … own all our data as opposed to really being autonomous and free.”\n\nRisk also correlates with how easily a model can be shut down if something goes wrong. ChatGPT and Claude are closed-weight models, centrally controlled by their providers.\n\nChinese models such as DeepSeek and Kimi, along with a few American models, are open-weight and can be downloaded and modified by users. That makes it harder for their developers to shut down remotely, Jane Munga, fellow at the Carnegie Endowment for International Peace, told Rest of World .\n\n“The distinction that matters is not Chinese versus American; it is: Who holds the off switch?” she said.\n\nLack of guardrails\n\nGovernments across Africa are beginning to use AI in sensitive areas such as healthcare, education, and public services, even though fewer than half of African countries have AI policies or strategies, Shock said.\n\nKenya is the only African nation participating in an international AI safety network that is developing methods to evaluate advanced AI models.\n\nLast year, the network tested AI agents for risks such as sensitive data leaks and fraud. But the exercise focused on common global risks rather than ones specific to Africa, Joanna Wiaterek, co-founder of the Centre for AI Security and Access, told Rest of World . It found agent safeguards worked unevenly across languages.\n\n“Africa-centric” safety evaluations should judge harm by the size of each country’s economy, Gathoni Ireri, research scholar at the Nairobi-based Ilina Program, an AI safety research center, told Rest of World. An incident that might be considered minor in a Western country could irrevocably harm an African one, she said.\n\nCompanies currently carry out their own safety tests, but this needs to be replaced by third-party evaluations that assess risks specific to Africa, Ireri said.\n\n“I think we also have to have our own ideas about what it means for a system to be safe within our own context,” she said.\n\nAfrican nations need to develop the capacity to conduct those evaluations, Ali Mohamed Omar, Somalia’s state minister for foreign affairs, said at the U.N.\n\n“Africa cannot remain merely a market for systems developed elsewhere, a source of raw data, or a testing ground for a technology it did not help govern,” he said. “[Africa] must be granted a genuine representation and a voice in these multilateral processes.”\n\nChina is excelling in health tech. That’s good news for the world\n\nRuby Wang, a physician and biotech consultant in the U.K., on her upcoming book on the emergence of China as a global health superpower.\n\nAwkward: Saudi Arabia’s new EV brand takes on the U.S. rival it already controls\n\nThe Saudi wealth fund’s new EV will compete with Chinese rivals and with Lucid, the U.S. carmaker the fund controls.\n\nSouth Korea’s AI chip giants are fighting for a bigger role in America’s AI boom\n\nSamsung and SK Hynix dominate the high-bandwidth memory market. Now they are competing to become indispensable to Nvidia, OpenAI, and other U.S. AI companies.",
       "imageWidth": 1600,
       "imageHeight": 900
     },
@@ -250,14 +251,41 @@
       "imageHeight": 648
     },
     {
-      "id": "3b106e959263a5b9",
-      "title": "‘Stand on the right side of history’: Starbucks urged to close stores in China’s Xinjiang",
-      "summary": "US lawmakers say operating in region where Muslim minorities face mass detention is ‘morally bankrupt’ US lawmakers have urged Starbucks to close newly opened outlets in China’s Xinjiang, saying it was a “morally bankrupt decision” to operate in a region where Beijing has been accused of widespread human rights abuses against Muslim minorities. The coffeehouse chain, which last year sold a controlling stake in its China retail business to the Hong Kong-based investment firm Boyu Capital, opened two stores in the region on Tuesday. Continue reading...",
+      "id": "792c68b7c515a3e0",
+      "title": "Greens would offer two-year jobs to unemployed under-24s",
+      "summary": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\".",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/business/2026/oct/02/starbucks-urged-close-stores-in-chinas-xinjiang",
+      "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-10-03T17:08:40Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 612,
+      "readingMinutes": 3,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b0ad/live/a0ceddd0-bf1b-11f1-9b47-174f268aae1d.jpg",
+      "body": "Mothin Ali addressed Green Party members on the second day of their conference in Brighton\n\nPublished 3 October 2026\n\nYoung people would be offered a guaranteed two-year job within four months of leaving education or training, under a new proposal unveiled by the Green Party.\n\nAnnouncing the policy at the party's conference in Brighton, co-deputy leader Mothin Ali said there were a million \"bored, desperate and lost\" young people who were out of work, training or education.\n\nUnder the proposed scheme, youngsters would be offered posts in the private sector, with the government paying half their salary.\n\nAli said an initial pilot scheme - rolled out in areas with the fewest job openings for young people - would create 9,000 jobs, at an overall cost of £110m.\n\nThe pilot would start in areas such as Rotherham, Ceredigion, Newcastle-under-Lyme, Broxtowe and South Staffordshire, with an ambition to roll it out nationwide.\n\nThe party said that a person not in work, education or training would cost the state an estimated £240,000 in benefits over the course of their lifetime.\n\nIt argued that its policy would reduce spending on welfare and boost tax receipts from employment.\n\nEmployers would be exempt from paying National Insurance contributions, but would have to provide in-job training, the party says.\n\nThe party is seeking to pitch the plan as more ambitious than the government's own scheme, which subsidises six-month job placements for benefit claimants who have been looking for work for 18 months.\n\nAli also criticised ministers for previously suggesting youngsters refusing a role under that scheme could lose access to benefits, telling activists: \"Threatening young people with cuts to Universal Credit if they don't accept short-term work placements - that's not a youth strategy.\"\n\nSpeaking to BBC News after his speech, Ali said: \"If we don't take action now, we're losing a generation of young people.\"\n\nThe number of 16-24-year-olds who are not in employment, education or training has been rising since the Covid pandemic, with figures reaching almost one million.\n\nA long-awaited report into the problem by former Labour minister Alan Milburn is expected to be published this autumn.\n\nWhat does Neet stand for and why does the UK have so many? Published 27 August\n\nGreens can move Labour in the right direction, says Polanski Published 22 hours ago\n\nIn her own speech to the conference, Ali's fellow co-deputy leader Rachel Millward said the Greens would immediately bring both Thames Water and South East Water back into public ownership.\n\nShe argued this could be done without paying compensation to shareholders, pointing to water supply problems and a lack of new reservoirs.\n\nAndy Burnham has promised to bring water under greater public control, but has stopped short of announcing plans to nationalise any water companies.\n\nMillward told the conference the prime minister was \"making a mistake\" and his \"10-year plan of gentle threats and vague notions of control is not enough\".\n\n\"We need public ownership now, and we have all the tools we need to make it happen,\" she said.\n\nSouth East Water said it was \"focused on delivering on our commitments by investing £1.9 billion into local infrastructure and resilience over the next five years.\n\n\"We support working closely with the communities we serve and are accountable to, so that we can provide the best possible service for customers\".\n\nThames Water has been approached for a response.\n\nCash-strapped Thames Water poses big test for Burnham Published 15 July\n\nWater system a 'disaster', Green deputy leader says Published 2 days ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nGreen Party Conference\n\nGreen Party (England and Wales)",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "id": "c356b7ea23b1eba9",
+      "title": "US arrests California man for allegedly smuggling $300m worth of computer servers to China",
+      "summary": "Greg Lui allegedly used false paperwork to smuggle export-controlled gear from US to third countries and then China US authorities have arrested a man accused of smuggling more than $300m worth of computer servers to China , the Department of Justice announced. Greg Lui, 38, of California , also known as “Yiu Kong Lui”, allegedly used false paperwork and shipments through third countries to smuggle the export-controlled computer servers to China, the justice department said in a statement on Thursday. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/us-news/2026/oct/02/arrest-smuggled-computer-servers-china",
       "source": "The Guardian China",
       "publisher": "The Guardian",
-      "published": "2026-10-02T15:44:48Z",
+      "published": "2026-10-02T18:46:29Z",
       "category": "Politics",
       "region": "China",
       "labels": [
@@ -267,14 +295,37 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 542,
-      "readingMinutes": 3,
+      "wordCount": 288,
+      "readingMinutes": 2,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/44355ee7ac9fec013f25c8c4afc3adfe2f985633/475_0_5545_4436/master/5545.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a06e70497cb51d82c1baed05d2447922",
-      "body": "US lawmakers say operating in region where Muslim minorities face mass detention is ‘morally bankrupt’\n\nUS lawmakers have urged Starbucks to close newly opened outlets in China’s Xinjiang, saying it was a “morally bankrupt decision” to operate in a region where Beijing has been accused of widespread human rights abuses against Muslim minorities.\n\nThe coffeehouse chain, which last year sold a controlling stake in its China retail business to the Hong Kong-based investment firm Boyu Capital, opened two stores in the region on Tuesday.\n\nVideos on Chinese social media showed long queues for the flagship store in Urumqi’s Grand Bazaar tourist area, with influencers showing off special edition drinks including “milk-skin-flavoured salty milk tea”.\n\nBut John Moolenaar, the chair of the US House of Representatives’ select committee on China, called the move “morally bankrupt”.\n\n“There is no justifiable reason for an American company to do business in a region where the Chinese Communist party has detained more than a million Uyghurs and is stripping them of their faith, language and culture,” he said. “Every cup sold in these stores ties an iconic American brand to the CCP’s brutal campaign against the Uyghurs.”\n\nWashington is among several governments and rights groups that have accused China of genocide in Xinjiang , which Beijing has categorically denied.\n\nThe United Nations has warned of possible crimes against humanity, including the detention of more than a million Uyghurs and other Muslim minorities in camps.\n\nChina says these were “education” camps and that crackdowns were necessary to combat terrorism.\n\nThe World Uyghur Congress advocacy group called on Starbucks to “stand on the right side of history”.\n\n“The presence of Starbucks in Xinjiang’s streets … fits in the party state’s narrative, that there’s nothing wrong about the region,” said Human Rights Watch’s deputy Asia director, Maya Wang.\n\nResponding to the US comments, the Chinese foreign ministry told Reuters that allegations of repression were “naked lies” and that Xinjiang enjoyed a “stable society, economic growth, ​racial unity and religious harmony”.\n\nThe Guardian has contacted Starbucks and Boyu Capital for comment.\n\nChina has poured resources into developing Xinjiang as a tourism destination in recent years.\n\nStarbucks is far from alone in seeing the commercial appeal there: other major western brands such as Hilton and InterContinental Hotels Group have been criticised for their operations too.\n\nCritics have characterised Xinjiang’s development as “Disneyfication” – commodifying the region’s heritage even as its inhabitants’ ability to practise their culture on their own terms has been restricted.\n\nOn Chinese social media, excited visitors posted pictures of Starbucks-branded merchandise, including patterned flasks and teddy bears in outfits based on local ethnic dress.\n\nWhen the deal with Boyu Capital was announced, Starbucks said it would bring “deep local expertise”, with analysts noting the US behemoth had been losing ground to domestic competitors for some time.\n\nThe move by Starbucks makes “commercial sense”, said Yaling Jiang, the founder of the research and strategy consultancy ApertureChina.\n\n“What is politically correct in China is not necessarily politically correct in the rest of the world, and this is a prime example,” she said. “Starbucks in China is now operating from a Chinese perspective rather than a US perspective, and that is ultimately how they can win in China.”\n\nStarbucks\n\nUyghurs\n\nChina\n\nHouse of Representatives\n\nnews",
+      "imageUrl": "https://i.guim.co.uk/img/media/b150fbf305d621454311041d7c8c8c7d201d7d70/500_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ef35fbc11a191152a78412d3fa0017c6",
+      "body": "Greg Lui allegedly used false paperwork to smuggle export-controlled gear from US to third countries and then China\n\nUS authorities have arrested a man accused of smuggling more than $300m worth of computer servers to China , the Department of Justice announced.\n\nGreg Lui, 38, of California , also known as “Yiu Kong Lui”, allegedly used false paperwork and shipments through third countries to smuggle the export-controlled computer servers to China, the justice department said in a statement on Thursday.\n\nThe servers contained “US-manufactured graphics processing units (GPUs) commonly used for Super Intelligence (SI)”, it added, using the Trump administration’s new name for artificial intelligence (AI).\n\n“Protecting America’s national security means keeping our advanced super intelligence technology from being used to strengthen our adversaries’ military capabilities,” the US attorney for the central district of California , Bill Essayli, said.\n\n“We will aggressively prosecute those who put our national security at risk for profit,” he added.\n\nLui operated a technology company called Earthmade Computer, which he used to buy and send items to China without the licenses required by the US Department of Commerce from 2023 to 2024, according to the statement.\n\nThe company shipped the items to countries including Malaysia and Singapore, where no such license is required, then illegally re-exported them to China.\n\nIf convicted, Lui could face a maximum of 50 years in prison.\n\nafter newsletter promotion\n\nChina, long seen as trailing the United States on cutting-edge AI, has been closing that gap fast.\n\nThe United States has long tried to slow China’s progress with export controls on the advanced chips needed for cutting-edge AI, blocking access to top-end US semiconductors such as those made by Nvidia.\n\nCalifornia\n\nAI (artificial intelligence)\n\nChina\n\nInternational trade\n\nUS crime\n\nLaw (US)\n\nnews",
       "imageWidth": 1200,
       "imageHeight": 630
+    },
+    {
+      "id": "bf8fab4a8ba36fae",
+      "title": "Iran war live: Yemeni forces strike Sanaa as Trump warns Tehran of hard way",
+      "summary": "Fighting in Yemen displaces more civilians, as Trump says a decision on Iran is coming.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/4/iran-war-live-yemeni-forces-strike-sanaa-as-trump-warns-tehran-of-hard-way?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-04T00:00:29Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": true
     },
     {
       "id": "95d1daa4841b8ecc",
@@ -449,33 +500,6 @@
       "imageHeight": 630
     },
     {
-      "id": "ae93c3fd1ff01524",
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-10-03T04:38:31Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 990,
-      "readingMinutes": 5,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg",
-      "body": "Published 2 October 2026\n\nThe G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.\n\nIt includes a \"substantial release\" of diesel within 20 days, with discussions around \"additional diesel releases as necessary\", G7 leaders said in a statement.\n\nThe group of advanced economies, including the US, said the move would begin immediately and would last for four months.\n\nUnder the measures, which come after US President Donald Trump had threatened to ban diesel exports , there will not be any \"export restrictions on energy and energy products\" between G7 members.\n\nThe G7 includes the US, UK, Canada, Japan, Germany, Italy and France, with the EU also represented at its meetings.\n\nDonald Trump had warned he would ban diesel exports from the US if European countries did not agree to put more of their own stocks onto the market. That would have eased pressure on prices for US consumers ahead of November's midterm elections, but pushed up prices elsewhere.\n\nOn Friday, he said on social media: \"Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately.\"\n\nHis Treasury Secretary Scott Bessent had argued US farmers, truckers, and businesses \"should not be left carrying the burden\" as prices soar.\n\nSpeaking later at the White House, Trump said an export ban on diesel was \"never really on the table\".\n\nReferring to the decision by the G7 to release fuel from reserves, he added that \"what Europe did was a great thing.\"\n\n\"Europe has a lot of diesel and they're going to be making a major world contribution - and so are we,\" he said.\n\n\"And we're not going to be doing the export ban, we're going to be doing what we're supposed to do.\"\n\nTrump had first said he backed a diesel export ban early last week, and was still considering it on Thursday, as his administration put pressure on Europe to tap its supplies.\n\nDiesel is used heavily by the haulage industry and in agriculture, meaning rises in the cost of the fuel feed through into essentials such as food.\n\nEmmanuel Macron chaired a meeting of G7 leaders to agree the release of fuel reserves\n\nFollowing a meeting of G7 leaders, French President Emmanuel Macron said the bloc had agreed to release reserves of \"up to 100 million barrels\" within four months under the co-ordination of the International Energy Agency (IEA).\n\nThe UK was represented at the meeting by Foreign Secretary Ed Miliband, who said the measures would \"stabilise energy supplies, build resilience in supply chains and shield households and businesses from price shocks\".\n\nMacron said the co-ordinated action would \"bring down the prices of petroleum products, particularly diesel\". Highlighting the agreement not to pursue export bans, Macron said \"President Trump, in particular, was very clear on this point\".\n\nIn the joint statement, G7 leaders said: \"We will implement our commitments with a co-ordinated release through the IEA of 100 million barrels to begin immediately over four months, including a frontloaded substantial diesel release within the first 20 days by G7 members and partners.\"\n\nIt is not yet clear which partner countries will release stocks, nor how quickly.\n\nThe 100 million barrels will comprise a mix of diesel and crude oil. The price of global benchmark Brent crude oil briefly dropped below $100 a barrel, but rose back to around $102 by Friday evening. Before the US and Israel invaded Iran, it was trading at around $73.\n\nMatt Smith, director of commodities research at Kpler, said oil had risen again due to renewed strikes between Saudi Arabia and the Houthis in Yemen.\n\n\"Oil prices were selling off strongly due to the announcement of strategic stock releases in Europe, but they reversed course on rumours of Saudi Arabia planning an offensive into Yemen as it looks to re-establish a safe path via Bab-Al Mandeb,\" he said.\n\nEuropean countries had pushed back against US threats to turn off American diesel, against a backdrop of the US-led war in the Middle East and reduced supplies from Russia and China.\n\nThe G7 leaders said they will also co-ordinate maintenance schedules to avoid multiple refineries being shut down at the same time, while encouraging countries with the capacity to do so to ramp up refining of diesel in particular.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: Why did Trump threaten to ban US diesel exports?\n\nAvoiding a ban on US diesel exports will offer significant relief to countries which are reliant on imports of the fuel, including the UK, where prices at the pump topped £2 a litre for the first time on Friday .\n\nOver half of the UK's diesel is imported, with 31% of those imports coming from the US.\n\nThe US is one of the world's leading diesel suppliers, with domestic refineries churning out roughly four to five million barrels every day, according to the US Energy Information Administration (EIA).\n\nAmericans consume about 3.6 million barrels of that. Refiners export the remaining 1.2 to 1.5 million barrels per day, making the US a vital supplier to the global market.\n\nWhy UK diesel prices have breached the £2 per litre mark Published 1 day ago\n\nSupplies of diesel internationally have been heavily constrained by the conflict in the Middle East, which has restricted the flow of both crude oil and refined diesel onto global markets.\n\nRussia, which is also a major producer, has implemented its own export ban on diesel, following attacks on its refineries by Ukraine, further limiting supply. The G7 leaders stressed that they will maintain sanctions against Russia amid its ongoing war in Ukraine.\n\nDiesel is harder to refine than petrol and, because of its use in the haulage industry and agriculture, it is very difficult to reduce demand.\n\nRelated topics\n\nOil\n\nFuel\n\nDonald Trump\n\nG7",
-      "imageWidth": 1200,
-      "imageHeight": 675
-    },
-    {
       "id": "b93bb484ea749274",
       "title": "US jobs market sees sharp slowdown ahead of midterm elections",
       "summary": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
@@ -503,14 +527,66 @@
       "imageHeight": 675
     },
     {
-      "id": "fffac0ba1fcea8f9",
-      "title": "Saturday Night Hockey on Sportsnet: Maple Leafs vs. Senators",
-      "summary": "McKenna",
+      "id": "19fe0cc42ce23ed0",
+      "title": "Penalty trouble, power-play stumbles sink Maple Leafs against rival Senators",
+      "summary": "(Frank Gunn/CP) CP177026734",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/hockey/nhl/games/2a439054-7de3-477e-a598-d76b89f66e63/preview",
+      "url": "https://www.sportsnet.ca/nhl/article/penalty-trouble-power-play-stumbles-sink-maple-leafs-against-rival-senators/",
       "source": "Sportsnet Maple Leafs",
       "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-03T22:43:12Z",
+      "published": "2026-10-04T04:35:33Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 4,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/CP177026734.jpg"
+    },
+    {
+      "id": "0f999788c7ed3933",
+      "title": "‘Lots of iron’: Maple Leafs’ loss to Senators not all puck luck",
+      "summary": "(Frank Gunn/CP) CP177026697",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/article/lots-of-iron-maple-leafs-loss-to-senators-not-all-puck-luck/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-04T03:32:47Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 4,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/CP177026697.jpg"
+    },
+    {
+      "id": "76e36b2252349913",
+      "title": "NHL Highlights: Senators 3, Maple Leafs 2",
+      "summary": "17910803486715687",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-senators-3-maple-leafs-2-2/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-04T02:20:39Z",
       "category": "Sports",
       "region": "Canada",
       "labels": [
@@ -526,59 +602,7 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/Untitled-design-2026-10-03T093027.509.jpg"
-    },
-    {
-      "id": "6ee3fb9f64e605cd",
-      "title": "Maple Leafs’ Alfredsson says he’s ‘kissed and made up’ with Darcy Tucker",
-      "summary": "17910457876715300",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/video/maple-leafs-alfredsson-says-hes-kissed-and-made-up-with-darcy-tucker/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-03T16:43:40Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 1,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/6406173481112.jpg"
-    },
-    {
-      "id": "6005df2bf5cbc03e",
-      "title": "Maple Leafs assistant Daniel Alfredsson ready to switch sides in Battle of Ontario",
-      "summary": "daniel alfredsson",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/article/maple-leafs-assistant-daniel-alfredsson-ready-to-switch-sides-in-battle-of-ontario/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-03T16:40:26Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 2,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/daniel-alfredsson.jpg"
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/6406193109112.jpg"
     },
     {
       "id": "fb164aa4025165c0",
@@ -654,6 +678,31 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
+    },
+    {
+      "id": "f66308c0825615bc",
+      "title": "The URC talking points as Wales hopefuls impress",
+      "summary": "Which players are impressing as Cardiff and Dragons enjoy strong starts in the United Rugby Championship while Scarlets and Ospreys are still hunting a win.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqz0v73v2k5eo",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-10-04T04:03:19Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England",
+        "Rugby"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 25,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e80/live/a9490d30-bf72-11f1-babe-4199b0e7ccea.png"
     },
     {
       "id": "19286b08ebaf95a6",
@@ -753,30 +802,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d326/live/3d6764d0-bf6e-11f1-8353-af47de35c0c8.jpg"
-    },
-    {
-      "id": "103018a1e8296ab1",
-      "title": "Leicester hold off Newcastle for first Prem win",
-      "summary": "Leicester Tigers pick up their first win of the season with a tense and hard-fought victory at Newcastle Red Bulls in the Prem.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy9z7dxdvv0o",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-10-03T20:46:08Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 23,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe60/live/5e95fa60-bf67-11f1-be3d-3d217f9eb343.jpg"
     },
     {
       "id": "9d8641dac80f1849",
@@ -1025,9 +1050,33 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7eff/live/3c81a210-bf55-11f1-a64c-550be9e3c66b.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on the Tories' pledge to scrap £100,000 childcare 'cliff edge'.\n\nSubsection Politics\n\nPublished 1 hour ago\n\nRelated topics\n\nKemi Badenoch Follow Kemi Badenoch close panel You are now following Kemi Badenoch Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nConservative Party Follow Conservative Party close panel You are now following Conservative Party Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nChildcare Follow Childcare close panel You are now following Childcare Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on the Tories' pledge to scrap £100,000 childcare 'cliff edge'.\n\nSubsection Politics\n\nPublished 8 hours ago\n\nRelated topics\n\nKemi Badenoch Follow Kemi Badenoch close panel You are now following Kemi Badenoch Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nConservative Party Follow Conservative Party close panel You are now following Conservative Party Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nChildcare Follow Childcare close panel You are now following Childcare Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "3e097a3bc153cf06",
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-10-03T23:30:06Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c81/live/804a5860-bd08-11f1-8a64-4f07fd1a6b57.jpg"
     },
     {
       "id": "c4f18cd5f5fe556f",
@@ -1077,6 +1126,84 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66f1/live/37aa8ab0-b9c7-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "id": "031a838d0924b102",
+      "title": "Senators’ Jake Sanderson exits with apparent injury vs. Maple Leafs",
+      "summary": "Ellen Schmidt/AP Ottawa Senators defenseman Jake Sanderson",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/article/senators-jake-sanderson-exits-with-apparent-injury-vs-maple-leafs/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-04T00:25:24Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 8,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2025/10/Ottawa-Senators-defenseman-Jake-Sanderson.jpg"
+    },
+    {
+      "id": "379ad9a205075af4",
+      "title": "Halliday scores winner, Ullmark stands tall as Senators top Maple Leafs",
+      "summary": "leafs",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/article/halliday-scores-winner-ullmark-stands-tall-as-senators-top-maple-leafs/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-04T02:04:39Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 1,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/leafs.jpg"
+    },
+    {
+      "id": "389fdef8f83f7ab1",
+      "title": "Maple Leafs’ Matthews redirects Rielly shot for first of season",
+      "summary": "17910738686715545",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/video/maple-leafs-matthews-redirects-rielly-shot-for-first-of-season/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-04T00:32:31Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 1,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/6406187075112.jpg"
     },
     {
       "id": "6fba88da4f8a2bed",
@@ -1260,6 +1387,30 @@
       "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/02/Toronto-Maple-Leafs-William-Nylander.jpg"
     },
     {
+      "id": "103018a1e8296ab1",
+      "title": "Leicester hold off Newcastle for first Prem win",
+      "summary": "Leicester Tigers pick up their first win of the season with a tense and hard-fought victory at Newcastle Red Bulls in the Prem.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy9z7dxdvv0o",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-10-03T20:46:08Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 23,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe60/live/5e95fa60-bf67-11f1-be3d-3d217f9eb343.jpg"
+    },
+    {
       "id": "5ac9e217b88a28ba",
       "title": "Leinster lose to Sharks for second defeat in a row",
       "summary": "Leinster suffer a second consecutive defeat at the start of the new United Rugby Championship season as they lose 26-20 to the Sharks in Durban.",
@@ -1404,7 +1555,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a144/live/e4e7e7f0-bf48-11f1-a84d-81c67bc2828e.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more on this story.\n\nSubsection Politics\n\nPublished 5 hours ago\n\nRelated topics\n\nKemi Badenoch Follow Kemi Badenoch close panel You are now following Kemi Badenoch Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nConservative Party Follow Conservative Party close panel You are now following Conservative Party Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nBirmingham Follow Birmingham close panel You are now following Birmingham Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more on this story.\n\nSubsection Politics\n\nPublished 13 hours ago\n\nRelated topics\n\nKemi Badenoch Follow Kemi Badenoch close panel You are now following Kemi Badenoch Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nConservative Party Follow Conservative Party close panel You are now following Conservative Party Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nBirmingham Follow Birmingham close panel You are now following Birmingham Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1431,7 +1582,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/25d8/live/01ecd100-bf42-11f1-babe-4199b0e7ccea.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch Sunday with Laura Kuenssberg on BBC iPlayer.\n\nSubsection Politics\n\nPublished 6 hours ago\n\nRelated topics\n\nKemi Badenoch Follow Kemi Badenoch close panel You are now following Kemi Badenoch Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nLaura Kuenssberg Follow Laura Kuenssberg close panel You are now following Laura Kuenssberg Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nConservative Party Follow Conservative Party close panel You are now following Conservative Party Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch Sunday with Laura Kuenssberg on BBC iPlayer.\n\nSubsection Politics\n\nPublished 12 hours ago\n\nRelated topics\n\nKemi Badenoch Follow Kemi Badenoch close panel You are now following Kemi Badenoch Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nLaura Kuenssberg Follow Laura Kuenssberg close panel You are now following Laura Kuenssberg Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nConservative Party Follow Conservative Party close panel You are now following Conservative Party Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1532,7 +1683,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dfb/live/9d6abfc0-be61-11f1-b36c-81ad410b221e.jpg",
-      "body": "Published 2 October 2026\n\nThe Conservatives have promised to build 50,000 new prison places in England and Wales to stop criminals being released early, if they return to government.\n\nThe party said it would cost £2bn per year to build and run the new prisons, funded by spending cuts including to the foreign aid budget.\n\nOn Thursday hundreds of prisoners were released early , under new rules introduced to prevent jails reaching capacity, with around 4,500 due to be freed by next summer.\n\nLabour blamed the previous Tory government for leaving \"our criminal justice system at breaking point\" and said the party's proposals were not \"credible\".\n\nThe announcement comes as Conservative members gather for the party's annual conference in Birmingham, which begins on Sunday.\n\nPrisons in England and Wales have been running close to capacity for years, with the latest government figures showing they are 98% full.\n\nUnder the latest early release scheme, eligible prisoners can now be released on a community licence after serving one-third of their jail sentence.\n\nThose excluded include prisoners convicted of murder, manslaughter, a sexual or grooming-related offence, or a driving offence that led to a death.\n\nThe government has also effectively scrapped one-year jail terms.\n\nThe Tories said they would use extra prison capacity to reverse these measures.\n\nAn early release programme introduced by the previous Conservative government saw more than 10,000 prisoners freed early between October 2023 and September 2024.\n\nConservative leader Kemi Badenoch said: \"A violent criminal doesn't become less dangerous just because the government has run out of prison cells.\"\n\nShe added: \"[Labour's] answer is to let dangerous offenders out even earlier instead of building the prison spaces we need.\"\n\nLabour Party chairwoman Bridget Phillipson said: \"The Tories are taking the public for fools. Across 14 years in government, they added just 500 prison places and closed 23 prisons.\n\n\"Now Kemi Badenoch expects the British people to believe they'll build 50,000.\"\n\nThe Liberal Democrats also criticised the Tory plan, describing it as \"fantasy numbers funded by breaking promises\".\n\n\"Much like their economic plans, something doesn't add up,\" added the party's justice spokesperson Jess Brown-Fuller.\n\nShadow justice secretary Nick Timothy told BBC Breakfast the 50,000 extra places would be built within six to seven years \"and the vast majority of them will be built in the first parliament\".\n\nMeanwhile, the Prison Governors' Association said \"long-term investment\" was needed and warned a \"staffing crisis\" would pose challenges to delivering new prisons.\n\nIf the party wins power, the Tories said they would introduce legislation early in the new Parliament to override planning and procurement barriers, allowing the process to be \"fast-tracked\".\n\nIt said the use of private finance would help speed up delivery and control costs.\n\nThere are currently around 89,000 useable prison places in England and Wales, according to the latest government figures.\n\nThe Tories said their proposals would increase this figure by more than 50%, with the vast majority of new places expected within the party's first Parliament in government - up to five years - and the full increase delivered within seven years.\n\nThe £2bn a year cost would be funded through savings in other areas, including cutting the aid budget by £1bn and reducing the budget of the Department for Culture Media and Sport by £1bn.\n\nThe Labour government has promised to add 14,000 extra prison space by 2031.\n\nThe Tories argued increasing prison places would cut crime and prevent reoffending by keeping serious criminals off the streets.\n\nTimothy said: \"Prison works. It works by punishing and deterring, but most importantly by incapacitating.\n\n\"Prison should keep violent and repeat offenders away from the law-abiding public.\"\n\nTories aim to be election-ready ahead of party conference Published 1 day ago\n\nThe prison population has risen significantly in recent decades, partly as a result of longer sentences and more people being returned to prison for breaching the conditions of their release.\n\nSuccessive governments have pledged to increase the number of prison places - but delivery has often fallen short of those promises.\n\nNew prisons take years to build, often facing local opposition and obstacles in the planning process.\n\nThe Prison Governors' Association said: \"Building 50,000 cells is one thing; finding the thousands of experienced officers, governors and specialists needed to run them safely is quite another.\n\n\"Politicians have spent years announcing prison places while the service struggles with overcrowding, ageing infrastructure and staffing shortages. The real test is not how many places can be promised, but how many prisons can be operated safely, effectively, and sustainably.\"\n\nHow the new prison release scheme will work - and number of inmates to be freed Published 2 days ago\n\nWhy are hundreds of prisoners being released early? Published 2 days ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nConservative Party\n\nPrisons",
+      "body": "Published 2 October 2026\n\nThe Conservatives have promised to build 50,000 new prison places in England and Wales to stop criminals being released early, if they return to government.\n\nThe party said it would cost £2bn per year to build and run the new prisons, funded by spending cuts including to the foreign aid budget.\n\nOn Thursday hundreds of prisoners were released early , under new rules introduced to prevent jails reaching capacity, with around 4,500 due to be freed by next summer.\n\nLabour blamed the previous Tory government for leaving \"our criminal justice system at breaking point\" and said the party's proposals were not \"credible\".\n\nThe announcement comes as Conservative members gather for the party's annual conference in Birmingham, which begins on Sunday.\n\nPrisons in England and Wales have been running close to capacity for years, with the latest government figures showing they are 98% full.\n\nUnder the latest early release scheme, eligible prisoners can now be released on a community licence after serving one-third of their jail sentence.\n\nThose excluded include prisoners convicted of murder, manslaughter, a sexual or grooming-related offence, or a driving offence that led to a death.\n\nThe government has also effectively scrapped one-year jail terms.\n\nThe Tories said they would use extra prison capacity to reverse these measures.\n\nAn early release programme introduced by the previous Conservative government saw more than 10,000 prisoners freed early between October 2023 and September 2024.\n\nConservative leader Kemi Badenoch said: \"A violent criminal doesn't become less dangerous just because the government has run out of prison cells.\"\n\nShe added: \"[Labour's] answer is to let dangerous offenders out even earlier instead of building the prison spaces we need.\"\n\nLabour Party chairwoman Bridget Phillipson said: \"The Tories are taking the public for fools. Across 14 years in government, they added just 500 prison places and closed 23 prisons.\n\n\"Now Kemi Badenoch expects the British people to believe they'll build 50,000.\"\n\nThe Liberal Democrats also criticised the Tory plan, describing it as \"fantasy numbers funded by breaking promises\".\n\n\"Much like their economic plans, something doesn't add up,\" added the party's justice spokesperson Jess Brown-Fuller.\n\nShadow justice secretary Nick Timothy told BBC Breakfast the 50,000 extra places would be built within six to seven years \"and the vast majority of them will be built in the first parliament\".\n\nMeanwhile, the Prison Governors' Association said \"long-term investment\" was needed and warned a \"staffing crisis\" would pose challenges to delivering new prisons.\n\nIf the party wins power, the Tories said they would introduce legislation early in the new Parliament to override planning and procurement barriers, allowing the process to be \"fast-tracked\".\n\nIt said the use of private finance would help speed up delivery and control costs.\n\nThere are currently around 89,000 useable prison places in England and Wales, according to the latest government figures.\n\nThe Tories said their proposals would increase this figure by more than 50%, with the vast majority of new places expected within the party's first Parliament in government - up to five years - and the full increase delivered within seven years.\n\nThe £2bn a year cost would be funded through savings in other areas, including cutting the aid budget by £1bn and reducing the budget of the Department for Culture Media and Sport by £1bn.\n\nThe Labour government has promised to add 14,000 extra prison space by 2031.\n\nThe Tories argued increasing prison places would cut crime and prevent reoffending by keeping serious criminals off the streets.\n\nTimothy said: \"Prison works. It works by punishing and deterring, but most importantly by incapacitating.\n\n\"Prison should keep violent and repeat offenders away from the law-abiding public.\"\n\nTories aim to be election-ready ahead of party conference Published 1 day ago\n\nThe prison population has risen significantly in recent decades, partly as a result of longer sentences and more people being returned to prison for breaching the conditions of their release.\n\nSuccessive governments have pledged to increase the number of prison places - but delivery has often fallen short of those promises.\n\nNew prisons take years to build, often facing local opposition and obstacles in the planning process.\n\nThe Prison Governors' Association said: \"Building 50,000 cells is one thing; finding the thousands of experienced officers, governors and specialists needed to run them safely is quite another.\n\n\"Politicians have spent years announcing prison places while the service struggles with overcrowding, ageing infrastructure and staffing shortages. The real test is not how many places can be promised, but how many prisons can be operated safely, effectively, and sustainably.\"\n\nHow the new prison release scheme will work - and number of inmates to be freed Published 3 days ago\n\nWhy are hundreds of prisoners being released early? Published 2 days ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nConservative Party\n\nPrisons",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1602,12 +1753,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1222,
+      "wordCount": 1218,
       "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/744c/live/14270b40-be45-11f1-a64c-550be9e3c66b.jpg",
-      "body": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage\n\nPublished 3 October 2026, 11:27 BST\n\nThe 2026 Conservative conference is big enough to justify using Birmingham's Symphony Hall as its main stage again.\n\nSo, Kemi Badenoch will tread the same stage ageing rockers Marillion took last month - and where sequinned soprano Katherine Jenkins will perform next week. She'll also avoid the humiliation of a national party leader being squashed into a side room at a corporate conference centre (with drapes portioning off the empty space). Simply, the party is able to put bums on seats again - and by that measure, things are looking up.\n\nBadenoch goes into the conference with her own position secure in the party. One senior Tory says \"she has actually defied cynics like me\" who initially disapproved of her leadership. Her standing with the public has improved and she is now, again on a very simple but crucial measure, much better known. Her allies are sure she has developed a clear identity among the public, confiding: \"People now know who she is and they enjoy her interventions - the thing we hear most is I don't always agree with her but I know where she stands.\"\n\nBut Conservative MPs are aware that the party itself still has a much bigger issue - in the words of one shadow cabinet member: \"The problem we still have is trust of the party and the brand\". The shadow of the years of chaos still looms. And while Badenoch has made good progress since she took the job, most of that was up against an unpopular prime minister, Sir Keir Starmer, on whom she landed plenty of political punches. She has to show \"what being Conservative is now\", says another senior Tory, taking on a different, more popular, rival in Andy Burnham.\n\nThe Tories' warm-up to conference has been so far, so traditional. A proposed dramatic expansion of prison places kicks off Badenoch's second big party get-together. With it, a message that echoes the well-known mantra of the early 1990s Tories, issued by former leader Michael Howard at party conference: \"Prison works\". They are not just talking about adding on a few cells here and there, but spelling out a monumental increase in the numbers of people that the country locks up.\n\nThat follows the announcement of a new \"tough love\" approach for young people trying to claim benefits. Don't expect the shadow work and pensions secretary, Helen Whateley, to produce a moment as controversial as when the then-welfare secretary, Peter Lilley, proclaimed from the stage that he had \"a little list\" of benefit claimants he wanted to root out. But the Conservatives are determined to keep concentrating on the size of the welfare bill – believing it's right to do so for financial and moral reasons.\n\nYou can expect to hear more in the week about fundamental conservative principles: people keeping more of their own money, government only stepping in when really required to, pointed concern about the level of the country's debt and public spending. And again, of course, that means Kemi Badenoch disavowing much of what the Conservatives did in office between 2010 and 2024, when the civil service grew, the tax burden grew, a law was passed to try to combat climate change, the list goes on.\n\nShe'll set out at some length in the coming days what she sees as classic conservative first principles: the core beliefs the party was founded on and drifted from, she reckons, in the years gone by. If anything, Badenoch told interviewers this week the party was \"finally saying what we believe\" and \"should be more aggressive\" in displaying the party's core.\n\nThe frontbench at last year's Conservative conference\n\nShe believes the arrival of Andy Burnham makes that easier. There's a clearer contrast between the two. A senior ally of Badenoch says Burnham has \"opened the door to it quite well, as he has harked back to the '70s in a way that I'm astonished by\". Suggesting the pleasing atmospherics of Burnham's Labour are just that, atmospherics, the ally adds: \"It's like a fairy story where he has come to the rescue of Britain and he has a wand in his hand and nothing else\".\n\nAs we talked about a couple of weeks ago , the contrasts between Labour and the Conservatives are sharper now Burnham is in post, and the conference season is only serving to exaggerate that. They are both only too happy to emphasise it with their messages, retro or not, designed to show the true souls of their tribes.\n\nBut while Badenoch might find it easier to argue clearly with Burnham, rather than tangle with Starmer over process, it is harder to face an opponent who, at least for now, is proving more appealing to the public. And while plenty of Conservatives are hopeful in private that Reform might have peaked, they can't be sure that's true, or that the swathes of voters who abandoned the Tories for Farage's party will return.\n\nBadenoch has always seemed allergic to the idea of doing any kind of deal with Reform, who she dismisses as a party of protest. And her allies hope, and some believe, that Reform's appeal will fade, making the Conservatives again the obvious alternative government. But fundamental arithmetic displays that, for as long as millions of voters on the right are tempted by Farage, it's harder for the Tories to triumph. One shadow minister admits \"we've still got a whole battle on the right\" even though \"Kemi's boldness\" is beginning to break through.\n\nSo, in the coming next days, prepare for a \"classic showing of Tory wares\": an attempt by the party's leader to set out their fundamental beliefs about the country and how it should be governed.\n\nThere are pockets of nerves that Kemi Badenoch risks rewinding to an previous era. One when another newly confident leader, David Cameron, ushered in the modern Tory party on the conference stage in front of digitally produced green foliage and sunlight. One former cabinet minister warns that it's \"the big risk – so easy to slip into an alienating divisive manner – nasty party stuff\".\n\nWhen it comes to policy, and striking the right tone, they warn that Badenoch must \"be mindful that she has to win Cheltenham and Maidenhead as well as Clacton\".\n\nBut Kemi Badenoch is visibly more confident and is aware of the chance in front of her – seemingly unworried about the possible downsides of making an increasingly direct argument to you, eager to stride that mercifully bigger Birmingham stage.\n\nMore from InDepth\n\nHow long can Labour's feel-good factor last? Published 7 days ago\n\nBurnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations Published 12 September\n\nOur exclusive behind-the-scenes access at No 10 as Andy Burnham became PM Published 27 July\n\nBBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here\n\nGet in touch\n\nAre you personally affected by the issues raised in this story?\n\nRelated topics\n\nConservative Party Conference\n\nConservative Party\n\nKemi Badenoch",
+      "body": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage\n\nPublished 3 October 2026\n\nThe 2026 Conservative conference is big enough to justify using Birmingham's Symphony Hall as its main stage again.\n\nSo, Kemi Badenoch will tread the same stage ageing rockers Marillion took last month - and where sequinned soprano Katherine Jenkins will perform next week. She'll also avoid the humiliation of a national party leader being squashed into a side room at a corporate conference centre (with drapes portioning off the empty space). Simply, the party is able to put bums on seats again - and by that measure, things are looking up.\n\nBadenoch goes into the conference with her own position secure in the party. One senior Tory says \"she has actually defied cynics like me\" who initially disapproved of her leadership. Her standing with the public has improved and she is now, again on a very simple but crucial measure, much better known. Her allies are sure she has developed a clear identity among the public, confiding: \"People now know who she is and they enjoy her interventions - the thing we hear most is I don't always agree with her but I know where she stands.\"\n\nBut Conservative MPs are aware that the party itself still has a much bigger issue - in the words of one shadow cabinet member: \"The problem we still have is trust of the party and the brand\". The shadow of the years of chaos still looms. And while Badenoch has made good progress since she took the job, most of that was up against an unpopular prime minister, Sir Keir Starmer, on whom she landed plenty of political punches. She has to show \"what being Conservative is now\", says another senior Tory, taking on a different, more popular, rival in Andy Burnham.\n\nThe Tories' warm-up to conference has been so far, so traditional. A proposed dramatic expansion of prison places kicks off Badenoch's second big party get-together. With it, a message that echoes the well-known mantra of the early 1990s Tories, issued by former leader Michael Howard at party conference: \"Prison works\". They are not just talking about adding on a few cells here and there, but spelling out a monumental increase in the numbers of people that the country locks up.\n\nThat follows the announcement of a new \"tough love\" approach for young people trying to claim benefits. Don't expect the shadow work and pensions secretary, Helen Whateley, to produce a moment as controversial as when the then-welfare secretary, Peter Lilley, proclaimed from the stage that he had \"a little list\" of benefit claimants he wanted to root out. But the Conservatives are determined to keep concentrating on the size of the welfare bill – believing it's right to do so for financial and moral reasons.\n\nYou can expect to hear more in the week about fundamental conservative principles: people keeping more of their own money, government only stepping in when really required to, pointed concern about the level of the country's debt and public spending. And again, of course, that means Kemi Badenoch disavowing much of what the Conservatives did in office between 2010 and 2024, when the civil service grew, the tax burden grew, a law was passed to try to combat climate change, the list goes on.\n\nShe'll set out at some length in the coming days what she sees as classic conservative first principles: the core beliefs the party was founded on and drifted from, she reckons, in the years gone by. If anything, Badenoch told interviewers this week the party was \"finally saying what we believe\" and \"should be more aggressive\" in displaying the party's core.\n\nThe frontbench at last year's Conservative conference\n\nShe believes the arrival of Andy Burnham makes that easier. There's a clearer contrast between the two. A senior ally of Badenoch says Burnham has \"opened the door to it quite well, as he has harked back to the '70s in a way that I'm astonished by\". Suggesting the pleasing atmospherics of Burnham's Labour are just that, atmospherics, the ally adds: \"It's like a fairy story where he has come to the rescue of Britain and he has a wand in his hand and nothing else\".\n\nAs we talked about a couple of weeks ago , the contrasts between Labour and the Conservatives are sharper now Burnham is in post, and the conference season is only serving to exaggerate that. They are both only too happy to emphasise it with their messages, retro or not, designed to show the true souls of their tribes.\n\nBut while Badenoch might find it easier to argue clearly with Burnham, rather than tangle with Starmer over process, it is harder to face an opponent who, at least for now, is proving more appealing to the public. And while plenty of Conservatives are hopeful in private that Reform might have peaked, they can't be sure that's true, or that the swathes of voters who abandoned the Tories for Farage's party will return.\n\nBadenoch has always seemed allergic to the idea of doing any kind of deal with Reform, who she dismisses as a party of protest. And her allies hope, and some believe, that Reform's appeal will fade, making the Conservatives again the obvious alternative government. But fundamental arithmetic displays that, for as long as millions of voters on the right are tempted by Farage, it's harder for the Tories to triumph. One shadow minister admits \"we've still got a whole battle on the right\" even though \"Kemi's boldness\" is beginning to break through.\n\nSo, in the coming next days, prepare for a \"classic showing of Tory wares\": an attempt by the party's leader to set out their fundamental beliefs about the country and how it should be governed.\n\nThere are pockets of nerves that Kemi Badenoch risks rewinding to an previous era. One when another newly confident leader, David Cameron, ushered in the modern Tory party on the conference stage in front of digitally produced green foliage and sunlight. One former cabinet minister warns that it's \"the big risk – so easy to slip into an alienating divisive manner – nasty party stuff\".\n\nWhen it comes to policy, and striking the right tone, they warn that Badenoch must \"be mindful that she has to win Cheltenham and Maidenhead as well as Clacton\".\n\nBut Kemi Badenoch is visibly more confident and is aware of the chance in front of her – seemingly unworried about the possible downsides of making an increasingly direct argument to you, eager to stride that mercifully bigger Birmingham stage.\n\nMore from InDepth\n\nHow long can Labour's feel-good factor last? Published 26 September\n\nBurnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations Published 12 September\n\nOur exclusive behind-the-scenes access at No 10 as Andy Burnham became PM Published 27 July\n\nBBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here\n\nGet in touch\n\nAre you personally affected by the issues raised in this story?\n\nRelated topics\n\nConservative Party Conference\n\nConservative Party\n\nKemi Badenoch",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1664,6 +1815,33 @@
       "body": "Joshua Kerry has been charged with preparing acts of terror including against Reform UK leader Nigel Farage.\n\nPublished 2 October 2026\n\nThe man accused of murdering Ann Widdecombe has also been charged with preparing acts of terror including against Reform UK leader Nigel Farage.\n\nCounter terror police said Joshua Kerry, 28, was charged on Friday with one count of preparation of terrorist acts.\n\nThe charge relates to activity which is alleged to have taken place between May 2024 and July 2026.\n\nKerry was charged in July with the murder of 78-year-old Widdecombe, a former Conservative minister and Reform UK spokeswoman.\n\nHome Secretary Shabana Mahmood said she knew the fresh charge would be \"extremely concerning\" and her \"profound sympathies\" were with Farage and his family.\n\n\"Let no one make any mistake: an attack on anyone in politics is an attack on us all.\n\n\"This case raises serious questions about the security of those in public life. We must use this as an opportunity to reset. Once parliament returns, I will update on our work to strengthen protections for those who choose to serve.\"\n\nThe BBC contacted Reform UK for comment and a party source said: \"This is exactly why Nigel needed £5m to protect his security for life.\"\n\nFarage is currently facing a parliamentary standards watchdog probe into a £5m gift from a billionaire donor before he returned as an MP in 2024. The Reform leader has previously said the money was for his personal security.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nAnn Widdecombe's murder 'a wake-up call' - Reform UK deputy leader\n\nDeputy leader of Reform UK, Richard Tice, told BBC Radio 4's Today programme the murder of Ann Widdecombe had made everyone take security more seriously.\n\n\"What's particularly upsetting for those of us in and around him [Farage] is sometimes he's not been believed, not been listened to.\"\n\nTice added that he personally had security arrangements in place and his habits had changed which was a \"consequence of the world we live in\" arguing the \"online world has clearly hindered this whole process\".\n\nAsked if Reform had done enough to dial the temperature down and whether comments from politicians added to public anger, Tice said \"the passions that flow through democratic debate should be completely separate to the way that people respond\n\n\"It's the nature of democracy... it's part of the joy of it is that there will be robust debate but at the end of it one should be able to shake hands.\"\n\nCounter Terrorism Policing Deputy Assistant Commissioner Vicki Evans said the charge on Friday was the result of a \"hugely intensive and complex investigation\".\n\n\"This investigation has been led by a dedicated team of detectives, analysts, and forensic experts, working on multiple lines of enquiry, which has resulted in this very serious charge,\" she added.\n\nKerry, from Rotherham, is due to appear in court over the terror charge on Wednesday, police said.\n\nFrank Ferguson of the Crown Prosecution Service's Special Crime and Counter Terrorism Division said prosecutors \"worked closely\" with police to bring the charge and would continue to work alongside them as the investigation continued.\n\nWiddecombe was found dead on Thursday 9 July at her home in Haytor, Devon, having sustained serious injuries.\n\nShe served as Conservative MP for Maidstone in Kent for 23 years and was appointed to ministerial roles in Sir John Major's government in the 1990s.\n\nFollowing her departure from the Commons, Widdecombe appeared on the BBC's Strictly Come Dancing and would later become a Reform UK spokeswoman.\n\nRelated topics\n\nCounter-terrorism",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "3b106e959263a5b9",
+      "title": "‘Stand on the right side of history’: Starbucks urged to close stores in China’s Xinjiang",
+      "summary": "US lawmakers say operating in region where Muslim minorities face mass detention is ‘morally bankrupt’ US lawmakers have urged Starbucks to close newly opened outlets in China’s Xinjiang, saying it was a “morally bankrupt decision” to operate in a region where Beijing has been accused of widespread human rights abuses against Muslim minorities. The coffeehouse chain, which last year sold a controlling stake in its China retail business to the Hong Kong-based investment firm Boyu Capital, opened two stores in the region on Tuesday. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/business/2026/oct/02/starbucks-urged-close-stores-in-chinas-xinjiang",
+      "source": "The Guardian China",
+      "publisher": "The Guardian",
+      "published": "2026-10-02T15:44:48Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 542,
+      "readingMinutes": 3,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/44355ee7ac9fec013f25c8c4afc3adfe2f985633/475_0_5545_4436/master/5545.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a06e70497cb51d82c1baed05d2447922",
+      "body": "US lawmakers say operating in region where Muslim minorities face mass detention is ‘morally bankrupt’\n\nUS lawmakers have urged Starbucks to close newly opened outlets in China’s Xinjiang, saying it was a “morally bankrupt decision” to operate in a region where Beijing has been accused of widespread human rights abuses against Muslim minorities.\n\nThe coffeehouse chain, which last year sold a controlling stake in its China retail business to the Hong Kong-based investment firm Boyu Capital, opened two stores in the region on Tuesday.\n\nVideos on Chinese social media showed long queues for the flagship store in Urumqi’s Grand Bazaar tourist area, with influencers showing off special edition drinks including “milk-skin-flavoured salty milk tea”.\n\nBut John Moolenaar, the chair of the US House of Representatives’ select committee on China, called the move “morally bankrupt”.\n\n“There is no justifiable reason for an American company to do business in a region where the Chinese Communist party has detained more than a million Uyghurs and is stripping them of their faith, language and culture,” he said. “Every cup sold in these stores ties an iconic American brand to the CCP’s brutal campaign against the Uyghurs.”\n\nWashington is among several governments and rights groups that have accused China of genocide in Xinjiang , which Beijing has categorically denied.\n\nThe United Nations has warned of possible crimes against humanity, including the detention of more than a million Uyghurs and other Muslim minorities in camps.\n\nChina says these were “education” camps and that crackdowns were necessary to combat terrorism.\n\nThe World Uyghur Congress advocacy group called on Starbucks to “stand on the right side of history”.\n\n“The presence of Starbucks in Xinjiang’s streets … fits in the party state’s narrative, that there’s nothing wrong about the region,” said Human Rights Watch’s deputy Asia director, Maya Wang.\n\nResponding to the US comments, the Chinese foreign ministry told Reuters that allegations of repression were “naked lies” and that Xinjiang enjoyed a “stable society, economic growth, ​racial unity and religious harmony”.\n\nThe Guardian has contacted Starbucks and Boyu Capital for comment.\n\nChina has poured resources into developing Xinjiang as a tourism destination in recent years.\n\nStarbucks is far from alone in seeing the commercial appeal there: other major western brands such as Hilton and InterContinental Hotels Group have been criticised for their operations too.\n\nCritics have characterised Xinjiang’s development as “Disneyfication” – commodifying the region’s heritage even as its inhabitants’ ability to practise their culture on their own terms has been restricted.\n\nOn Chinese social media, excited visitors posted pictures of Starbucks-branded merchandise, including patterned flasks and teddy bears in outfits based on local ethnic dress.\n\nWhen the deal with Boyu Capital was announced, Starbucks said it would bring “deep local expertise”, with analysts noting the US behemoth had been losing ground to domestic competitors for some time.\n\nThe move by Starbucks makes “commercial sense”, said Yaling Jiang, the founder of the research and strategy consultancy ApertureChina.\n\n“What is politically correct in China is not necessarily politically correct in the rest of the world, and this is a prime example,” she said. “Starbucks in China is now operating from a Chinese perspective rather than a US perspective, and that is ultimately how they can win in China.”\n\nStarbucks\n\nUyghurs\n\nChina\n\nHouse of Representatives\n\nnews",
+      "imageWidth": 1200,
+      "imageHeight": 630
     },
     {
       "id": "0c781b574ecdce76",
@@ -1973,7 +2151,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e7d2/live/0c2648d0-be76-11f1-8a45-cd59664d243b.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nFirst Minister Rhun ap Iorwerth told Prime Minister Andy Burnham \"do not undermine Wales\"\n\nPublished 1 October 2026\n\nFirst Minister Rhun ap Iorwerth has demanded a \"new deal\" for Wales from the UK government that would put the country on an equal footing with Scotland.\n\nIn a letter he said powers over policing, justice, rail and the Crown Estate should be transferred to Cardiff.\n\nSpeaking at Plaid Cymru's conference in Llandudno, the party's leader said Prime Minister Andy Burnham has promised him he would not undermine Wales.\n\nAp Iorwerth is expected to meet the prime minister, along with the first ministers of Scotland and Northern Ireland, at the end of the month.\n\nThe UK government said it was \"committed to building a stronger and fairer Wales in a stronger and fairer United Kingdom\".\n\nPlaid Cymru is gathering in Llandudno's Venue Cymru for the first time since it won a historic victory at the Senedd election in May .\n\nThe party had won power for the first time, ending Labour's 27 year control of the Welsh government.\n\nAp Iorwerth said the result amounted to a \"new dawn\" for Wales, and \"the beginning of our work to give flight to a nation whose wings have been clipped for far too long.\"\n\nBut he warned that the upcoming Welsh government budget process would be \"tough\", and said he would have to \"find savings where we can\".\n\nAp Iorwerth has demanded a \"new deal\" for Wales from the UK government\n\nThe Plaid leader said his meeting with Burnham at the Commonwealth Games \"did leave me feeling positive - here we had an experienced devolutionist who wanted to bring power and people closer together.\n\n\"But as the weeks went on, it became increasingly clear that the prime minister's wave of new powers risked crashing against Offa's Dyke.\"\n\nHe accused Burnham of having a \"devolution programme for England\".\n\nSpeaking to party activists, ap Iorwerth said: \"I've looked him in the eyes and said do not undermine Wales as a nation. Do not bypass our Senedd. And he looked me in the eyes and promised he would not. I will hold him to that.\"\n\nScotland's government and parliament has more control over the country's own affairs than Wales, where policing and justice are controlled in Westminster, and not Cardiff, and where rail is largely devolved.\n\nAp Iorwerth said his proposed \"new deal\" would \"redress the historic unfairness of our fiscal and constitutional settlement and put Wales on an equal footing with Scotland as a bare minimum\".\n\n\"It remains my hope that the prime minister will listen in a shared spirit, and that he'll see that the respect agenda between the Welsh and UK governments must work both ways,\" he said.\n\n\"If he fails, Wales will know again that our best interests will never be served by Westminster, and that it matters little whether who lives in Number 10 Downing Street is an Evertonian or an Old Etonian.\"\n\nAp Iorwerth has sent a 2,000 word letter to Burnham spelling out his requests.\n\nRhun ap Iorwerth became first minister after Plaid Cymru won the Senedd election in May\n\nPlaid Cymru won the largest number of seats at May's election , and since the defection of Sarah Cooper-Lessad it has 44 in the Welsh Parliament chamber.\n\nIt is five short of a majority, and needs the help of at least one other party group to pass its spending plans next year . It has been in talks with Labour, the Tories and Reform.\n\nAp Iorwerth acknowledged a \"difficult economic and fiscal backdrop\" and said it would be a \"tight budget\".\n\n\"There will be difficult decisions. The budget arithmetic requires us to be disciplined and resourceful.\"\n\nHe added there was a need for a \"serious and collaborative approach with other parties\".\n\n\"We'll have to drive efficiency, improve productivity and find savings where we can; through consolidating and streamlining services, avoiding duplication and focusing on outcomes.\"\n\nBut he said that had to be \"free of the damaging approach of the parties on the right\", accusing them of defining \"savings\" and waste by \"ideology\".\n\nHe said the UK government's forthcoming autumn budget was a chance to \"reverse the planned-real terms cuts\" to the Welsh government's own spending.\n\nPlaid has long-called for Wales to receive substantial extra funds for rail. Ap Iorwerth said that should come \"now, not the 2030s\".\n\nIn another attack on rivals, he asked \"others in sincerity to consider whose side they are on\".\n\n\"Whose side are they on when it comes to protecting Wales from the poison of the far-right,\" he said.\n\nFirefighters had been tackling wildfires for weeks across Wales over the summer, including this one at Llanwonno Mountain above Ferndale\n\nThe party leader paid tribute to fire services who fought the summer's wildfires , and said he would \"not allow my government to burden my children and your children with the destructive legacy of complacency on climate change\".\n\nHe said they had provided an \"immediate cash injection to prioritise the longest NHS waits\", and had moved \"quickly to begin the rollout of the most generous childcare offer anywhere in the UK\".\n\nThe party eventually plans to roll out childcare to children as young as nine months before the next election.\n\nThe first minister said his government was \"determined\" to tackle problems in the NHS, saying \"too many aspects of the service are unfair on patients and on our brilliant staff\" and are \"unsustainable for the future\", although he acknowledged he could not change the NHS \"overnight\".\n\nHe said he would not \"shy away\" from tackling child poverty \"because of a difficult economic and fiscal backdrop\".\n\nLabour's Burnham has promised to end triple lock for pensions from 2030 to fund a new national care service. The idea appeared to win praise from Plaid ministers on Friday.\n\nSocial care is the responsibility of the Welsh government, and how it spends its money is up to its ministers. Both Plaid and Burnham would face elections before the policy would come in.\n\nPlaid Cymru promised to \"make progress\" on delivering a national care service in its manifesto for the Senedd election.\n\nSpeaking to BBC Radio Wales Breakfast , the Plaid leader suggested that he may spend extra funds that come to the Welsh government, if any came as a result of more social care in England.\n\nAp Iorwerth said Burnham's policy was a \"good direction of travel\", but he added: \"We don't know what the consequentials will be.\"\n\nAt a conference fringe, the deputy minister for social care, Delyth Jewell, said Burnham's announcement was \"very brave\" and that a Plaid Cymru Welsh government would \"have to work with the UK government on this\".\n\nBut she said the building blocks were already being put in place in Wales.\n\nThe leaders of the SNP, Plaid Cymru and Sinn Féin met in Cardiff last month\n\nBurnham had previously said he would be \"open\" to the idea of giving the Welsh government control over policing.\n\nHe has also said : \"I have to respect the governments in the nations of the UK, and I will, and give a fair hearing to anything that is put to me.\"\n\nA UK government spokesperson said: \"This government is committed to building a stronger and fairer Wales in a stronger and fairer United Kingdom.\n\n\"That's why our focus is now on working with the Welsh government to empower local leaders and communities to deliver good growth and jobs in every postcode.\"\n\nRelated topics\n\nPlaid Cymru\n\nRhun ap Iorwerth\n\nWales\n\nWelsh government\n\nMore top stories\n\nWe fear for our lives after being told our abusive exes will be freed from jail early Published 2 days ago\n\nBody of baby girl may have been in the water for weeks, police say Published 2 days ago\n\nMy husband suffered in his final days after catching scabies in hospital Published 2 days ago",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nFirst Minister Rhun ap Iorwerth told Prime Minister Andy Burnham \"do not undermine Wales\"\n\nPublished 1 October 2026\n\nFirst Minister Rhun ap Iorwerth has demanded a \"new deal\" for Wales from the UK government that would put the country on an equal footing with Scotland.\n\nIn a letter he said powers over policing, justice, rail and the Crown Estate should be transferred to Cardiff.\n\nSpeaking at Plaid Cymru's conference in Llandudno, the party's leader said Prime Minister Andy Burnham has promised him he would not undermine Wales.\n\nAp Iorwerth is expected to meet the prime minister, along with the first ministers of Scotland and Northern Ireland, at the end of the month.\n\nThe UK government said it was \"committed to building a stronger and fairer Wales in a stronger and fairer United Kingdom\".\n\nPlaid Cymru is gathering in Llandudno's Venue Cymru for the first time since it won a historic victory at the Senedd election in May .\n\nThe party had won power for the first time, ending Labour's 27 year control of the Welsh government.\n\nAp Iorwerth said the result amounted to a \"new dawn\" for Wales, and \"the beginning of our work to give flight to a nation whose wings have been clipped for far too long.\"\n\nBut he warned that the upcoming Welsh government budget process would be \"tough\", and said he would have to \"find savings where we can\".\n\nAp Iorwerth has demanded a \"new deal\" for Wales from the UK government\n\nThe Plaid leader said his meeting with Burnham at the Commonwealth Games \"did leave me feeling positive - here we had an experienced devolutionist who wanted to bring power and people closer together.\n\n\"But as the weeks went on, it became increasingly clear that the prime minister's wave of new powers risked crashing against Offa's Dyke.\"\n\nHe accused Burnham of having a \"devolution programme for England\".\n\nSpeaking to party activists, ap Iorwerth said: \"I've looked him in the eyes and said do not undermine Wales as a nation. Do not bypass our Senedd. And he looked me in the eyes and promised he would not. I will hold him to that.\"\n\nScotland's government and parliament has more control over the country's own affairs than Wales, where policing and justice are controlled in Westminster, and not Cardiff, and where rail is largely devolved.\n\nAp Iorwerth said his proposed \"new deal\" would \"redress the historic unfairness of our fiscal and constitutional settlement and put Wales on an equal footing with Scotland as a bare minimum\".\n\n\"It remains my hope that the prime minister will listen in a shared spirit, and that he'll see that the respect agenda between the Welsh and UK governments must work both ways,\" he said.\n\n\"If he fails, Wales will know again that our best interests will never be served by Westminster, and that it matters little whether who lives in Number 10 Downing Street is an Evertonian or an Old Etonian.\"\n\nAp Iorwerth has sent a 2,000 word letter to Burnham spelling out his requests.\n\nRhun ap Iorwerth became first minister after Plaid Cymru won the Senedd election in May\n\nPlaid Cymru won the largest number of seats at May's election , and since the defection of Sarah Cooper-Lessad it has 44 in the Welsh Parliament chamber.\n\nIt is five short of a majority, and needs the help of at least one other party group to pass its spending plans next year . It has been in talks with Labour, the Tories and Reform.\n\nAp Iorwerth acknowledged a \"difficult economic and fiscal backdrop\" and said it would be a \"tight budget\".\n\n\"There will be difficult decisions. The budget arithmetic requires us to be disciplined and resourceful.\"\n\nHe added there was a need for a \"serious and collaborative approach with other parties\".\n\n\"We'll have to drive efficiency, improve productivity and find savings where we can; through consolidating and streamlining services, avoiding duplication and focusing on outcomes.\"\n\nBut he said that had to be \"free of the damaging approach of the parties on the right\", accusing them of defining \"savings\" and waste by \"ideology\".\n\nHe said the UK government's forthcoming autumn budget was a chance to \"reverse the planned-real terms cuts\" to the Welsh government's own spending.\n\nPlaid has long-called for Wales to receive substantial extra funds for rail. Ap Iorwerth said that should come \"now, not the 2030s\".\n\nIn another attack on rivals, he asked \"others in sincerity to consider whose side they are on\".\n\n\"Whose side are they on when it comes to protecting Wales from the poison of the far-right,\" he said.\n\nFirefighters had been tackling wildfires for weeks across Wales over the summer, including this one at Llanwonno Mountain above Ferndale\n\nThe party leader paid tribute to fire services who fought the summer's wildfires , and said he would \"not allow my government to burden my children and your children with the destructive legacy of complacency on climate change\".\n\nHe said they had provided an \"immediate cash injection to prioritise the longest NHS waits\", and had moved \"quickly to begin the rollout of the most generous childcare offer anywhere in the UK\".\n\nThe party eventually plans to roll out childcare to children as young as nine months before the next election.\n\nThe first minister said his government was \"determined\" to tackle problems in the NHS, saying \"too many aspects of the service are unfair on patients and on our brilliant staff\" and are \"unsustainable for the future\", although he acknowledged he could not change the NHS \"overnight\".\n\nHe said he would not \"shy away\" from tackling child poverty \"because of a difficult economic and fiscal backdrop\".\n\nLabour's Burnham has promised to end triple lock for pensions from 2030 to fund a new national care service. The idea appeared to win praise from Plaid ministers on Friday.\n\nSocial care is the responsibility of the Welsh government, and how it spends its money is up to its ministers. Both Plaid and Burnham would face elections before the policy would come in.\n\nPlaid Cymru promised to \"make progress\" on delivering a national care service in its manifesto for the Senedd election.\n\nSpeaking to BBC Radio Wales Breakfast , the Plaid leader suggested that he may spend extra funds that come to the Welsh government, if any came as a result of more social care in England.\n\nAp Iorwerth said Burnham's policy was a \"good direction of travel\", but he added: \"We don't know what the consequentials will be.\"\n\nAt a conference fringe, the deputy minister for social care, Delyth Jewell, said Burnham's announcement was \"very brave\" and that a Plaid Cymru Welsh government would \"have to work with the UK government on this\".\n\nBut she said the building blocks were already being put in place in Wales.\n\nThe leaders of the SNP, Plaid Cymru and Sinn Féin met in Cardiff last month\n\nBurnham had previously said he would be \"open\" to the idea of giving the Welsh government control over policing.\n\nHe has also said : \"I have to respect the governments in the nations of the UK, and I will, and give a fair hearing to anything that is put to me.\"\n\nA UK government spokesperson said: \"This government is committed to building a stronger and fairer Wales in a stronger and fairer United Kingdom.\n\n\"That's why our focus is now on working with the Welsh government to empower local leaders and communities to deliver good growth and jobs in every postcode.\"\n\nRelated topics\n\nPlaid Cymru\n\nRhun ap Iorwerth\n\nWales\n\nWelsh government\n\nMore top stories\n\nWe fear for our lives after being told our abusive exes will be freed from jail early Published 2 days ago\n\nBody of baby girl may have been in the water for weeks, police say Published 2 days ago\n\nMy husband suffered in his final days after catching scabies in hospital Published 3 days ago",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2032,6 +2210,33 @@
       "imageHeight": 2428
     },
     {
+      "id": "7bda81f96e4406b6",
+      "title": "Failed 'torturous' execution attempt on Christa Pike reignites death penalty debate",
+      "summary": "The botched execution in Tennessee of Christa Pike, who survived despite being subject to two doses of lethal injection on Wednesday, has reignited furious debate about the death penalty in the U.S.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/10/02/nx-s1-5988832/christa-pike-reignites-death-penalty-debate",
+      "source": "NPR Politics",
+      "publisher": "NPR",
+      "published": "2026-10-02T10:25:03Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 33,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4457x2972+0+0/resize/4457x2972!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2Ff8%2Fefb76ddc42888246eec813a16700%2Fap26274095205700.jpg",
+      "imageAlt": "Media witnesses recount the moments before the execution of Christa Pike was halted Wednesday in Nashville, Tenn.",
+      "imageWidth": 4457,
+      "imageHeight": 2972
+    },
+    {
       "id": "6a402badb4803788",
       "title": "Gloucester winger Cokanasiga out until January",
       "summary": "Gloucester winger Phil Cokanasiga is ruled out until January after undergoing surgery on a foot injury suffered against Exeter.",
@@ -2078,30 +2283,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/9aab79b0-be56-11f1-8828-9d9deece30a1.jpg"
-    },
-    {
-      "id": "98910127f25b712c",
-      "title": "Furbank to make first start for Quins in Prem",
-      "summary": "George Furbank will make his first Prem start for Harlequins this weekend plus team news from all five games.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crd941l71jleo",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-10-02T12:12:19Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc8b/live/115832d0-be50-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "id": "54126369629feb8b",
@@ -2506,6 +2687,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd64/live/f7c74c30-bde5-11f1-9358-01e3cd30f9bf.jpg"
     },
     {
+      "id": "c1fd05b82a7ff576",
+      "title": "Wales aiming to prove they can thrive at top level",
+      "summary": "Captain Ben Davies says Wales will be driven by determination to prove they can live with challenges of Nations League A when they face Denmark in Cardiff.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0er2yz02yo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-04T03:40:55Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 27,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f60/live/18e85770-bf43-11f1-8acc-0bb5649ca116.jpg"
+    },
+    {
       "id": "b9305628d97de5ef",
       "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
       "summary": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
@@ -2552,6 +2757,29 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2261904940-1152x648.jpg"
+    },
+    {
+      "id": "2b24c841ff05fce4",
+      "title": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
+      "summary": "US president tells a rally in Ohio that he believes there will be a 'big surprise' in the upcoming elections.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-04T04:10:17Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "6faf7704deba5ea3",
@@ -2652,6 +2880,53 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2d2/live/aacf2800-bdb1-11f1-bc2e-018d645d8d21.png"
     },
     {
+      "id": "4abbea04dacd2568",
+      "title": "Whittaker survives late scare to hold on for points win",
+      "summary": "British light-heavyweight Ben Whittaker survives a dramatic late onslaught from Conor Wallace to move a step closer to a world-title shot with a points victory in Birmingham.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/boxing/articles/cmqxnj18d337o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-03T22:59:50Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 27,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb6a/live/749301f0-bf7b-11f1-850c-a731bd122ff4.jpg"
+    },
+    {
+      "id": "10272088fb04e2b2",
+      "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
+      "summary": "Days after US President Donald Trump signed a voluntary pact with artificial intelligence giants, a former OpenAI worker said his industry needs the same safeguards as nuclear power or aviation.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-10-03T21:55:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 30,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "74185150b9a1dac8",
       "title": "Wakefield beat Warrington to become champions for first time since 1968",
       "summary": "Two years on from relegation, Wakefield Trinity are crowned Super League Grand Final champions after beating Warrington Wolves 23-10 at Old Trafford and win their first title since 1968.",
@@ -2674,29 +2949,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d465/live/3959a9f0-bf5c-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "id": "10272088fb04e2b2",
-      "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
-      "summary": "Days after President Donald Trump signed a voluntary pact with artificial intelligence giants, a former OpenAI worker said his industry needs the same safeguards as nuclear power or aviation.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-10-03T21:55:00Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 29,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "fab0c30cc22c3146",
@@ -2893,6 +3145,29 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b3/live/cb6fe2f0-bbdd-11f1-bfea-9d5bb7e7d40b.jpg"
     },
     {
+      "id": "8d48bdf5e017da37",
+      "title": "Debris from missing medical plane found, US coastguard says",
+      "summary": "Six people were on board the Canadian-registered air ambulance jet travelling from Bermuda to Boston.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-03T23:03:44Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "b7894cb8befb4c7d",
       "title": "'It means everything' - numbers behind Robertson's 100-cap Scotland career",
       "summary": "Andy Robertson has become only the second man ever to play 100 times for Scotland. BBC Sport Scotland charts his international career in numbers.",
@@ -2964,31 +3239,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cce/live/b93e6c20-bda7-11f1-8373-27235719cf2a.png"
-    },
-    {
-      "id": "3770d7c38fb9e2fa",
-      "title": "Rugby League: Super League",
-      "summary": "After two stunning semis, there’ll be a new name on the trophy at Old Trafford",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032k7p",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-03T23:00:40Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK",
-        "Rugby"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdmbxj.jpg"
     },
     {
       "id": "1c131c2edb2fc71d",
@@ -3112,30 +3362,6 @@
       "isBreaking": false
     },
     {
-      "id": "bbbbfa0f34148469",
-      "title": "Fury wants 'old pal' President Trump for Joshua ringwalk",
-      "summary": "Former heavyweight champion Tyson Fury plans to ask US president Donald Trump to lead his ring walk before fighting Anthony Joshua.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/cmg47yw937l6o",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-10-03T19:43:48Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50ba/live/54d0a660-bf5d-11f1-bf94-5355097afbf2.png"
-    },
-    {
       "id": "255b6c5a6ac4ff52",
       "title": "Tories committed to pension triple lock, deputy leader says",
       "summary": "Alex Bughart says pensioners are a 'special case' as there is nothing they can do to increase their income.",
@@ -3254,29 +3480,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/cdde4efea06e37ebe5d234a8044fbbcd0be57a1b/409_0_2697_2158/master/2697.jpg?width=700&quality=85&auto=format&fit=max&s=f99e72f95ea4db4087c8a5fc5012ba39"
-    },
-    {
-      "id": "6ed5949ba9339c3d",
-      "title": "England trounce Croatia 7-0 in Nations League as Kane goal run continues",
-      "summary": "Harry Kane scores in sixth successive away game for England as Bukayo Saka also scores twice in Nations League thumping.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/sports/2026/10/3/england-trounce-croatia-7-0-in-nations-league-as-kane-goal-run-continues?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-10-03T18:20:51Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "1dd6b7173b3d3280",
@@ -3616,30 +3819,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac8/live/5d39bc00-bf36-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "598135f642a8dcaa",
-      "title": "Why has Brazil accused the US of election interference?",
-      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-10-03T13:52:13Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a8e/live/a3940800-bebd-11f1-8d3f-711f85e5e3bb.jpg"
-    },
-    {
       "id": "2c6cc5754e4463de",
       "title": "SARACENS RE-SIGN DONNA ROSE",
       "summary": "SARACENS CAN CONFIRM THAT WELSH INTERNATIONAL DONNA ROSE HAS EXTENDED HER CONTRACT FOR THE 2026/27 SEASON. Rose's route into professional rugby is one of the more unique stories in the squad. A carpenter by trade, she joined Saracens from Trojans Rugby Club, having played over 150 times for the Hampshire side and captaining them before […]",
@@ -3713,30 +3892,6 @@
       "imageUrl": "https://i.guim.co.uk/img/media/7ce1cdc2fc28979a647765972ecf7471ecf599a7/318_0_4380_3506/master/4380.jpg?width=700&quality=85&auto=format&fit=max&s=4ed003fa7f6aedb775390e7d655647f2"
     },
     {
-      "id": "406e0924a6b7674b",
-      "title": "Will Spain's housing crisis lead to a snap election?",
-      "summary": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-10-03T12:26:30Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 27,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2169/live/c040d170-bf23-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
       "id": "887013146e3fa91a",
       "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
       "summary": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR's Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.",
@@ -3783,29 +3938,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png"
-    },
-    {
-      "id": "3275386fd9ca288b",
-      "title": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
-      "summary": "Kenyan survivors are challenging the UK military over decades of alleged abuses — and the immunity that has shielded it.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-10-03T13:18:37Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "c01ee5a928b0a769",
@@ -3878,30 +4010,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2292181016.jpg"
-    },
-    {
-      "id": "db1ef1838355e83b",
-      "title": "The Standard of Living review – Rory Kinnear has bags of charm as Bloomsbury economist Keynes",
-      "summary": "Theatre Royal Haymarket, London James Graham’s high-wire writing brings economic theory to life and connects it with art and fulfilment in this polished, ravishingly staged story of John Maynard Keynes Not everyone will know that the Bloomsbury group had a jobbing economist among them. One with superstar status and a firm belief in capitalism. John Maynard Keynes (Rory Kinnear) may not have cut a very bohemian picture in his three-piece suit but the foremost thinker of economic policy in 20th century Britain was also a card-carrying art lover, avant-gardist and bisexual who had affairs with Lytton Strachey and Duncan Grant, hanging out with the gang at their nerve-centre in Charleston. He is played with equal amounts of old-school reserve, and charm, by Kinnear, as state-of-the-nation writer, James Graham, audaciously brings economic theory to the West End. The high-wire act of the subject matter is leavened by Graham’s remarkable facility to balance British social history and complex political ideas with speed, sparkle and a humorous lightness of touch. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/stage/2026/sep/30/the-standard-of-living-review-rory-kinnear-theatre-royal-haymarket-london-james-graham-nicholas-hytner",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-09-29T23:01:03Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 169,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/aaeb8a42f9b8d323f58530aae2c0d4d429a489b5/0_1057_3333_2667/master/3333.jpg?width=700&quality=85&auto=format&fit=max&s=3e9c41e67530f8c83d6463d7257c18ca"
     },
     {
       "id": "eba34fe39baf0b0e",
@@ -4795,6 +4903,29 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00c4/live/78692c20-bc9a-11f1-a430-4d16ee157c41.jpg"
     },
     {
+      "id": "aaf85407178477e2",
+      "title": "Germany's Merz arrives in Kyiv to pledge more support",
+      "summary": "Chancellor Friedrich Merz is expected to announce a new raft of measures to support Ukraine, including military aid and plans for the joint production of interceptor drones.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/germany-s-merz-arrives-in-kyiv-to-pledge-more-support/a-79534734?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-10-04T05:40:00Z",
+      "category": "Politics",
+      "region": "Europe",
+      "labels": [
+        "Politics",
+        "Europe"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 27,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "025aa3c1f01c9a63",
       "title": "AI companies want to embed safety evaluators, but countries need their own",
       "summary": "At a Rest of World event in New York last week, speakers explored how countries sidelined by the U.S.-China race can retain some control over safety standards as they adopt models from OpenAI, Anthropic, and others.",
@@ -4817,6 +4948,29 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://restofworld.org/wp-content/uploads/2026/09/illo_ai_safety_concentration_final-768x432.jpg"
+    },
+    {
+      "id": "6318e07a67fad20d",
+      "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
+      "summary": "Reports indicate Ethiopian government forces have made advances against a northern rebel group. Renewed fighting has raised fears the conflict could spill over into the wider region.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-10-04T03:48:00Z",
+      "category": "Politics",
+      "region": "Africa",
+      "labels": [
+        "Politics",
+        "Africa"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 27,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "7195981aabfcbd31",
@@ -4843,172 +4997,24 @@
       "imageUrl": "https://i.guim.co.uk/img/media/c413dd6eaf66a5ad05a6b46f5d2ad27f6063ccb6/2380_0_4975_3982/master/4975.jpg?width=700&quality=85&auto=format&fit=max&s=1594d31831662494cbb436bc39fb364d"
     },
     {
-      "id": "fe0e2fd1df1ff63e",
-      "title": "The U.S. added only 29,000 jobs in September as job market lacks spark",
-      "summary": "U.S. employers added 29,000 jobs in September as the unemployment rate inched up to 4.2%. Job gains for July and August were revised down by a total of 60,000 jobs, extending a lackluster run for the job market.",
+      "id": "f391106b741a7364",
+      "title": "West Indies beat India in record chase as Hope hits 162 in third ODI",
+      "summary": "Shai Hope's 162 leads the West Indies to a record cricket run chase as they beat India by five wickets in the third ODI.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/10/02/nx-s1-5989140/jobs-labor-wages-federal-reserve",
-      "source": "NPR Business",
-      "publisher": "NPR",
-      "published": "2026-10-02T13:54:18Z",
-      "category": "Economics",
-      "region": "US",
+      "url": "https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-04T05:28:38Z",
+      "category": "Politics",
+      "region": "World",
       "labels": [
-        "Economics",
-        "US"
+        "Politics",
+        "World"
       ],
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 42,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5346x3900+0+0/resize/5346x3900!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F11%2Ffbb8f99343aa89932751e3c1595a%2Fgettyimages-2280053681.jpg",
-      "imageAlt": "Restaurants and bars added 11,000 jobs in September, about a third of all the jobs added during the month. Job gains for July and August were revised downward."
-    },
-    {
-      "id": "0b2671b59a256b97",
-      "title": "Why is diesel more expensive than regular gas?",
-      "summary": "Diesel hasn't always been more expensive than other gasoline. Then in 2004, a switch happened due to air quality standards, demand, and taxes. In this week's Indicator newsletter, we dig into diesel prices, what kind of fun people are buying, and other forms of making your tax bill smaller.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/sections/planet-money/2026/10/02/nx-s1-5988075/why-is-diesel-more-expensive-than-regular-gas",
-      "source": "NPR Business",
-      "publisher": "NPR",
-      "published": "2026-10-02T11:00:00Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 49,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5988075"
-    },
-    {
-      "id": "2e7f117b3c9702c9",
-      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-      "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-10-01T23:45:06Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 16,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png"
-    },
-    {
-      "id": "9c5d285cc9f08996",
-      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-      "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-10-01T23:32:59Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca3a/live/a79a57d0-be2a-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "903aaddcb348fa6d",
-      "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-      "summary": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-10-01T23:00:06Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/166e/live/9297b320-bcd4-11f1-9f83-d9975ff80416.png"
-    },
-    {
-      "id": "8de75ddcd501ffba",
-      "title": "Rugby Union Weekly",
-      "summary": "Sara Orchard chats to two of the biggest names in women's rugby, Jo Yapp & Whitney Hansen",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pd5kkj",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-09-30T11:00:00Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England",
-        "Rugby"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 16,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0lwzcxx.jpg"
-    },
-    {
-      "id": "3626dc794551cd58",
-      "title": "150 Years of Memories",
-      "summary": "David's story: My history and PE teacher at Hatfield School, Ian Vinter, was a Saracens player. In 1973, he took a minibus of pupils, including me, to Bramley Road to watch him play Rosslyn Park. Saracens won, and I was hooked. The seat I am sitting in today is the same seat I sat in […]",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://saracens.com/150-years-of-memories/",
-      "source": "Saracens",
-      "publisher": "Saracens",
-      "published": "2026-09-28T15:49:55Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England",
-        "Rugby",
-        "Saracens"
-      ],
-      "sourceWeight": 5,
-      "focus": "Saracens",
-      "sourceType": "news",
-      "wordCount": 55,
+      "wordCount": 24,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -5018,7 +5024,7 @@
     {
       "source": "BBC News",
       "ok": true,
-      "items": 26
+      "items": 27
     },
     {
       "source": "BBC Politics",
@@ -5048,7 +5054,7 @@
     {
       "source": "DW",
       "ok": true,
-      "items": 135
+      "items": 132
     },
     {
       "source": "UN News",
@@ -5123,7 +5129,7 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 69
+      "items": 72
     },
     {
       "source": "BBC Rugby Union",
@@ -5143,7 +5149,7 @@
     {
       "source": "Sportsnet Maple Leafs",
       "ok": true,
-      "items": 9
+      "items": 13
     },
     {
       "source": "Sky Sports",
