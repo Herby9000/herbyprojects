@@ -1,153 +1,153 @@
 {
   "schemaVersion": 1,
-  "editionDate": "2026-09-30",
-  "editionRange": "September 22–30, 2026",
-  "generatedAt": "2026-09-30T16:34:50Z",
+  "editionDate": "2026-10-07",
+  "editionRange": "September 29–October 7, 2026",
+  "generatedAt": "2026-10-07T16:32:31Z",
   "questionCount": 8,
   "questions": [
     {
-      "id": "2026-09-30-quantum-emotion-plurilock-deal",
-      "topic": "Cybersecurity acquisition",
-      "company": "Quantum eMotion and Plurilock",
-      "question": "How is Quantum eMotion's proposed acquisition of Plurilock structured?",
+      "id": "2026-10-07-senso-zeta-acquisition",
+      "topic": "AI marketing acquisition",
+      "company": "Senso and Zeta Global",
+      "question": "What capability had Senso's technology already been powering for Zeta Global before the acquisition agreement?",
       "options": [
-        "30% cash and 70% Quantum eMotion shares",
-        "70% cash and 30% Quantum eMotion shares",
-        "Entirely in cash",
-        "Entirely in Quantum eMotion shares"
+        "Generative engine optimization",
+        "Email deliverability testing",
+        "Payment fraud detection",
+        "Warehouse demand forecasting"
       ],
       "answer": 0,
-      "explanation": "The nearly $34-million CAD deal would be paid 30 percent in cash and 70 percent in Quantum eMotion common shares.",
-      "sourceUrl": "https://betakit.com/quantum-emotion-to-acquire-fellow-canadian-cybersecurity-firm-plurilock/",
-      "sourceLabel": "BetaKit — Quantum eMotion's proposed Plurilock acquisition",
-      "eventDate": "2026-09-29",
-      "asOf": "2026-09-30"
+      "explanation": "Senso's technology had been powering Zeta's generative engine optimization offering, and the acquisition would bring that capability in-house.",
+      "sourceUrl": "https://betakit.com/senso-to-be-acquired-by-new-york-based-marketing-platform-zeta-global/",
+      "sourceLabel": "BetaKit — Zeta Global's agreement to acquire Senso",
+      "eventDate": "2026-10-07",
+      "asOf": "2026-10-07"
     },
     {
-      "id": "2026-09-30-daedal-fusion-diagnostics-funding",
-      "topic": "Fusion diagnostics",
-      "company": "Daedal Systems",
-      "question": "What does Daedal Systems plan to build with its new funding?",
+      "id": "2026-10-07-endo-ai-valuation-engine",
+      "topic": "Sports agency software",
+      "company": "Endo",
+      "question": "What is the name of Endo's proprietary AI engine for evaluating athlete endorsement offers?",
       "options": [
-        "A commercial fusion reactor",
-        "Three reactor diagnostic systems",
-        "A uranium-enrichment facility",
-        "A grid-scale battery factory"
+        "RosterRank",
+        "endodeals",
+        "SponsorScope",
+        "MarketPlay"
       ],
       "answer": 1,
-      "explanation": "Daedal plans to build its first three plasma-measurement reactor diagnostic systems and deploy the prototypes with pilot customers.",
-      "sourceUrl": "https://betakit.com/ex-general-fusion-employee-raises-4-million-usd-for-fusion-diagnostics-startup-daedal/",
-      "sourceLabel": "BetaKit — Daedal Systems fusion-diagnostics funding",
-      "eventDate": "2026-09-29",
-      "asOf": "2026-09-30"
+      "explanation": "Endo is building an AI valuation engine called endodeals to compare endorsement offers with media equivalency and anonymized contracts.",
+      "sourceUrl": "https://betakit.com/athlete-led-endo-launches-with-815000-to-modernize-sports-agencies/",
+      "sourceLabel": "BetaKit — Endo's launch and pre-seed funding",
+      "eventDate": "2026-10-07",
+      "asOf": "2026-10-07"
     },
     {
-      "id": "2026-09-30-bell-cisco-sovereign-ai",
-      "topic": "Sovereign AI infrastructure",
-      "company": "Bell and Cisco",
-      "question": "Which Cisco offering is part of its sovereign-AI collaboration with Bell?",
+      "id": "2026-10-07-telus-ast-satellite-test",
+      "topic": "Satellite connectivity",
+      "company": "Telus and AST SpaceMobile",
+      "question": "What did Telus and AST SpaceMobile demonstrate in their satellite-to-smartphone integration test?",
       "options": [
-        "Webex Contact Center",
-        "Meraki Go",
-        "Sovereign Critical Infrastructure",
-        "Cisco Spaces"
+        "Television broadcasting only",
+        "Emergency beacons without smartphones",
+        "Broadband data, voice calls, and texts",
+        "Home internet through rooftop dishes"
       ],
       "answer": 2,
-      "explanation": "The memorandum of understanding combines Bell's data-centre, network, and operations capabilities with Cisco technology including Sovereign Critical Infrastructure.",
-      "sourceUrl": "https://mobilesyrup.com/2026/09/29/bell-cisco-sign-mou-on-sovereign-ai-infrastructure-in-canada/",
-      "sourceLabel": "MobileSyrup — Bell and Cisco sovereign-AI memorandum",
-      "eventDate": "2026-09-29",
-      "asOf": "2026-09-30"
+      "explanation": "The test reached milestones in broadband data access, voice calls, and text messages sent directly between smartphones and satellites.",
+      "sourceUrl": "https://mobilesyrup.com/2026/10/06/telus-ast-spacemobile-complete-first-satellite-to-smartphone-network-test/",
+      "sourceLabel": "MobileSyrup — Telus and AST SpaceMobile integration test",
+      "eventDate": "2026-10-06",
+      "asOf": "2026-10-07"
     },
     {
-      "id": "2026-09-30-brodie-rec-expansion-goal",
-      "topic": "Sports technology",
-      "company": "Brodie Rec",
-      "question": "What North American expansion goal has Brodie Rec set for the end of 2027?",
+      "id": "2026-10-07-defence-investment-agency-crown-corp",
+      "topic": "Defence procurement",
+      "company": "Defence Investment Agency",
+      "question": "Under Bill C-40, what legal name would be given to the Crown corporation operating as the Defence Investment Agency?",
       "options": [
-        "Operating in every Canadian province",
-        "Reaching one million active players",
-        "Running 1,000 games each week",
-        "Being present in the top 100 markets"
+        "Canadian Defence Technology Authority",
+        "National Military Procurement Board",
+        "Defence Innovation and Export Corporation",
+        "Canadian Corporation for Defence Investment"
       ],
       "answer": 3,
-      "explanation": "Brodie Rec aims to be present in the top 100 North American markets by the end of 2027 as it expands its technology-enabled basketball league.",
-      "sourceUrl": "https://betakit.com/how-brodie-rec-is-turning-recreational-basketball-into-a-10-million-growth-story/",
-      "sourceLabel": "BetaKit — Brodie Rec expansion",
-      "eventDate": "2026-09-29",
-      "asOf": "2026-09-30"
+      "explanation": "Bill C-40 would create the Canadian Corporation for Defence Investment, which would continue to operate as the Defence Investment Agency.",
+      "sourceUrl": "https://betakit.com/feds-table-bill-to-turn-defence-investment-agency-into-crown-corporation/",
+      "sourceLabel": "BetaKit — Bill C-40 and the Defence Investment Agency",
+      "eventDate": "2026-10-06",
+      "asOf": "2026-10-07"
     },
     {
-      "id": "2026-09-30-adbio-montreal-expansion",
-      "topic": "Life-sciences venture capital",
-      "company": "AdBio Partners",
-      "question": "What share of AdBio Partners' third fund is expected to be invested outside Europe?",
+      "id": "2026-10-07-bell-ng911-outage-cause",
+      "topic": "Emergency communications",
+      "company": "Bell",
+      "question": "What did Bell identify as the cause of its 87-minute Next-Generation 911 outage?",
       "options": [
-        "10 percent",
-        "20 percent",
-        "35 percent",
-        "50 percent"
-      ],
-      "answer": 1,
-      "explanation": "AdBio partner Mounia Azzi said she expects 20 percent of the 120-million-euro fund to be invested outside Europe, with a focus on Québec.",
-      "sourceUrl": "https://betakit.com/french-vc-firm-adbio-expands-into-canada-with-montreal-office/",
-      "sourceLabel": "BetaKit — AdBio Partners Montréal expansion",
-      "eventDate": "2026-09-29",
-      "asOf": "2026-09-30"
-    },
-    {
-      "id": "2026-09-30-bridge-impact-ai-beta",
-      "topic": "Reconciliation technology",
-      "company": "Bridge Impact AI",
-      "question": "Where did Bridge launch the beta version of its reconciliation app?",
-      "options": [
-        "Collision Conference",
-        "Victoria Tech Week",
-        "Web Summit Vancouver",
-        "Startupfest Montréal"
-      ],
-      "answer": 1,
-      "explanation": "The Victoria-based startup launched its app beta at Victoria Tech Week with tools for measuring and implementing reconciliation practices.",
-      "sourceUrl": "https://betakit.com/with-launch-of-new-app-bc-startup-bridge-looks-to-digitize-reconciliation/",
-      "sourceLabel": "BetaKit — Bridge Impact AI beta launch",
-      "eventDate": "2026-09-30",
-      "asOf": "2026-09-30"
-    },
-    {
-      "id": "2026-09-30-animikii-niiwin-hosting",
-      "topic": "Indigenous data sovereignty",
-      "company": "Animikii",
-      "question": "Where does Animikii host its Canadian Niiwin service?",
-      "options": [
-        "At a non-US-owned data centre in Québec",
-        "At a US-owned data centre in Virginia",
-        "Exclusively on servers in Manitoba",
-        "Across public-cloud regions in Europe"
+        "A previously undetected software issue",
+        "A coordinated cyberattack",
+        "A fibre-optic cable cut",
+        "A planned network upgrade"
       ],
       "answer": 0,
-      "explanation": "Animikii offers a hosted Niiwin service in Canada using a non-US-owned data centre in Québec, while also supporting deployment elsewhere.",
-      "sourceUrl": "https://betakit.com/qa-animikiis-jeff-ward-on-databack-and-what-the-world-can-learn-from-indigenous-tech/",
-      "sourceLabel": "BetaKit — Animikii's Niiwin data-sovereignty platform",
-      "eventDate": "2026-09-30",
-      "asOf": "2026-09-30"
+      "explanation": "Bell reported that a previously undetected software issue triggered an unexpected condition; it said the outage was neither a cyberattack nor caused by a software or network change.",
+      "sourceUrl": "https://mobilesyrup.com/2026/10/06/bell-reveals-cause-behind-87-minute-911-outage-across-six-provinces/",
+      "sourceLabel": "MobileSyrup — Bell's report on the NG911 outage",
+      "eventDate": "2026-10-06",
+      "asOf": "2026-10-07"
     },
     {
-      "id": "2026-09-30-indigenous-workplace-ai-report",
-      "topic": "Workplace AI adoption",
-      "company": "Toronto Metropolitan University",
-      "question": "What share of Indigenous respondents said they were very familiar with workplace AI programs?",
+      "id": "2026-10-07-cyberworks-caf-contract",
+      "topic": "Autonomous defence systems",
+      "company": "CyberWorks Robotics",
+      "question": "Through which federal program did CyberWorks Robotics receive its Canadian Armed Forces contract?",
       "options": [
-        "17 percent",
-        "25 percent",
-        "30 percent",
-        "32 percent"
+        "Strategic Innovation Fund",
+        "Innovative Solutions Canada",
+        "Industrial Research Assistance Program",
+        "Canada Digital Adoption Program"
+      ],
+      "answer": 1,
+      "explanation": "CyberWorks said the contract to deliver and test autonomous vehicles came through the Innovative Solutions Canada program.",
+      "sourceUrl": "https://betakit.com/cyberworks-lands-1-million-canadian-armed-forces-contract/",
+      "sourceLabel": "BetaKit — CyberWorks Robotics' Canadian Armed Forces contract",
+      "eventDate": "2026-10-06",
+      "asOf": "2026-10-07"
+    },
+    {
+      "id": "2026-10-07-signal-bill-c22-metadata",
+      "topic": "Encryption and privacy",
+      "company": "Signal",
+      "question": "For how long could Bill C-22 force Signal to store additional metadata, according to Signal's vice-president?",
+      "options": [
+        "Thirty days",
+        "One year",
+        "Six months",
+        "Five years"
+      ],
+      "answer": 2,
+      "explanation": "Signal VP Udbhav Tiwari said the bill could force the service to collect more metadata than it currently does and retain it for six months.",
+      "sourceUrl": "https://betakit.com/signal-vp-reminds-lawmakers-the-secure-messaging-app-wont-comply-with-bill-c-22/",
+      "sourceLabel": "BetaKit — Signal's objections to Bill C-22",
+      "eventDate": "2026-10-06",
+      "asOf": "2026-10-07"
+    },
+    {
+      "id": "2026-10-07-ubc-venture-founder-cohort",
+      "topic": "Startup development",
+      "company": "Innovation UBC",
+      "question": "How long is Innovation UBC's fall 2026 Venture Founder program?",
+      "options": [
+        "8 weeks",
+        "24 weeks",
+        "One year",
+        "16 weeks"
       ],
       "answer": 3,
-      "explanation": "The report found that 32 percent of Indigenous respondents were very familiar with workplace AI programs, compared with 17 percent of non-Indigenous respondents.",
-      "sourceUrl": "https://betakit.com/workplace-ai-adoption-accelerates-among-indigenous-peoples/",
-      "sourceLabel": "BetaKit — TMU report on Indigenous workplace AI adoption",
-      "eventDate": "2026-09-30",
-      "asOf": "2026-09-30"
+      "explanation": "The 16-week program helps UBC students, faculty, and staff develop ventures through validation, business-model work, and leadership training.",
+      "sourceUrl": "https://techcouver.com/2026/10/07/ubc-welcomes-26-startups-to-fall-venture-founder-cohort/",
+      "sourceLabel": "Techcouver — Innovation UBC's fall Venture Founder cohort",
+      "eventDate": "2026-10-07",
+      "asOf": "2026-10-07"
     }
   ]
 }
