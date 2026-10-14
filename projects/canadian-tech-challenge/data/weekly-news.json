@@ -1,153 +1,153 @@
 {
   "schemaVersion": 1,
-  "editionDate": "2026-10-07",
-  "editionRange": "September 29–October 7, 2026",
-  "generatedAt": "2026-10-07T16:32:31Z",
+  "editionDate": "2026-10-14",
+  "editionRange": "October 6–14, 2026",
+  "generatedAt": "2026-10-14T16:32:37Z",
   "questionCount": 8,
   "questions": [
     {
-      "id": "2026-10-07-senso-zeta-acquisition",
-      "topic": "AI marketing acquisition",
-      "company": "Senso and Zeta Global",
-      "question": "What capability had Senso's technology already been powering for Zeta Global before the acquisition agreement?",
+      "id": "2026-10-14-bia-health-financing",
+      "topic": "Healthtech funding",
+      "company": "Bia Health",
+      "question": "Which firm provided $1.4 million in debt as part of Bia Health's $2.15-million financing?",
       "options": [
-        "Generative engine optimization",
-        "Email deliverability testing",
-        "Payment fraud detection",
-        "Warehouse demand forecasting"
-      ],
-      "answer": 0,
-      "explanation": "Senso's technology had been powering Zeta's generative engine optimization offering, and the acquisition would bring that capability in-house.",
-      "sourceUrl": "https://betakit.com/senso-to-be-acquired-by-new-york-based-marketing-platform-zeta-global/",
-      "sourceLabel": "BetaKit — Zeta Global's agreement to acquire Senso",
-      "eventDate": "2026-10-07",
-      "asOf": "2026-10-07"
-    },
-    {
-      "id": "2026-10-07-endo-ai-valuation-engine",
-      "topic": "Sports agency software",
-      "company": "Endo",
-      "question": "What is the name of Endo's proprietary AI engine for evaluating athlete endorsement offers?",
-      "options": [
-        "RosterRank",
-        "endodeals",
-        "SponsorScope",
-        "MarketPlay"
+        "Desjardins",
+        "Finalta Capital",
+        "Anges Québec",
+        "Investissement Québec"
       ],
       "answer": 1,
-      "explanation": "Endo is building an AI valuation engine called endodeals to compare endorsement offers with media equivalency and anonymized contracts.",
-      "sourceUrl": "https://betakit.com/athlete-led-endo-launches-with-815000-to-modernize-sports-agencies/",
-      "sourceLabel": "BetaKit — Endo's launch and pre-seed funding",
-      "eventDate": "2026-10-07",
-      "asOf": "2026-10-07"
+      "explanation": "Finalta Capital supplied $1.4 million in debt, while Anges Québec led the equity portion and Desjardins participated through its Startup en résidence program.",
+      "sourceUrl": "https://betakit.com/bia-health-raises-2-15-million-for-ai-to-reduce-unnecessary-medical-interventions/",
+      "sourceLabel": "BetaKit — Bia Health's $2.15-million financing",
+      "eventDate": "2026-10-14",
+      "asOf": "2026-10-14"
     },
     {
-      "id": "2026-10-07-telus-ast-satellite-test",
-      "topic": "Satellite connectivity",
-      "company": "Telus and AST SpaceMobile",
-      "question": "What did Telus and AST SpaceMobile demonstrate in their satellite-to-smartphone integration test?",
+      "id": "2026-10-14-cyber-clinics-canada",
+      "topic": "Cybersecurity training",
+      "company": "Rogers Cybersecure Catalyst",
+      "question": "Which task will students in the new Cyber Clinics Canada network not handle?",
       "options": [
-        "Television broadcasting only",
-        "Emergency beacons without smartphones",
-        "Broadband data, voice calls, and texts",
-        "Home internet through rooftop dishes"
+        "Vulnerability and risk assessments",
+        "Incident response planning",
+        "Active cyberattacks",
+        "Phishing and digital hygiene training"
       ],
       "answer": 2,
-      "explanation": "The test reached milestones in broadband data access, voice calls, and text messages sent directly between smartphones and satellites.",
-      "sourceUrl": "https://mobilesyrup.com/2026/10/06/telus-ast-spacemobile-complete-first-satellite-to-smartphone-network-test/",
-      "sourceLabel": "MobileSyrup — Telus and AST SpaceMobile integration test",
-      "eventDate": "2026-10-06",
-      "asOf": "2026-10-07"
+      "explanation": "Students will support assessments, training, planning, and compliance work, but the program says they will not handle active cyberattacks.",
+      "sourceUrl": "https://betakit.com/google-backs-launch-of-cross-canada-cybersecurity-training-hubs/",
+      "sourceLabel": "BetaKit — launch of Cyber Clinics Canada",
+      "eventDate": "2026-10-14",
+      "asOf": "2026-10-14"
     },
     {
-      "id": "2026-10-07-defence-investment-agency-crown-corp",
-      "topic": "Defence procurement",
-      "company": "Defence Investment Agency",
-      "question": "Under Bill C-40, what legal name would be given to the Crown corporation operating as the Defence Investment Agency?",
+      "id": "2026-10-14-csafe-fraud-exchange",
+      "topic": "Fraud prevention",
+      "company": "EnStream and Canadian banks",
+      "question": "Which platform will aggregate, standardize, and enrich confirmed fraud intelligence for CSAFE participants?",
       "options": [
-        "Canadian Defence Technology Authority",
-        "National Military Procurement Board",
-        "Defence Innovation and Export Corporation",
-        "Canadian Corporation for Defence Investment"
+        "Interac e-Transfer",
+        "Payments Canada Lynx",
+        "Verified.Me",
+        "EnStream"
       ],
       "answer": 3,
-      "explanation": "Bill C-40 would create the Canadian Corporation for Defence Investment, which would continue to operate as the Defence Investment Agency.",
-      "sourceUrl": "https://betakit.com/feds-table-bill-to-turn-defence-investment-agency-into-crown-corporation/",
-      "sourceLabel": "BetaKit — Bill C-40 and the Defence Investment Agency",
-      "eventDate": "2026-10-06",
-      "asOf": "2026-10-07"
+      "explanation": "CSAFE participants will share confirmed fraud intelligence through EnStream, which will aggregate, standardize, and enrich the data for participating institutions.",
+      "sourceUrl": "https://mobilesyrup.com/2026/10/14/canadian-carriers-banks-partner-anti-fraud-initiative/",
+      "sourceLabel": "MobileSyrup — launch of the CSAFE anti-fraud initiative",
+      "eventDate": "2026-10-14",
+      "asOf": "2026-10-14"
     },
     {
-      "id": "2026-10-07-bell-ng911-outage-cause",
-      "topic": "Emergency communications",
-      "company": "Bell",
-      "question": "What did Bell identify as the cause of its 87-minute Next-Generation 911 outage?",
+      "id": "2026-10-14-lightspeed-role-cuts",
+      "topic": "Technology workforce",
+      "company": "Lightspeed Commerce",
+      "question": "How many roles did Lightspeed say were affected by its latest organizational changes, including vacant roles being closed?",
       "options": [
-        "A previously undetected software issue",
-        "A coordinated cyberattack",
-        "A fibre-optic cable cut",
-        "A planned network upgrade"
-      ],
-      "answer": 0,
-      "explanation": "Bell reported that a previously undetected software issue triggered an unexpected condition; it said the outage was neither a cyberattack nor caused by a software or network change.",
-      "sourceUrl": "https://mobilesyrup.com/2026/10/06/bell-reveals-cause-behind-87-minute-911-outage-across-six-provinces/",
-      "sourceLabel": "MobileSyrup — Bell's report on the NG911 outage",
-      "eventDate": "2026-10-06",
-      "asOf": "2026-10-07"
-    },
-    {
-      "id": "2026-10-07-cyberworks-caf-contract",
-      "topic": "Autonomous defence systems",
-      "company": "CyberWorks Robotics",
-      "question": "Through which federal program did CyberWorks Robotics receive its Canadian Armed Forces contract?",
-      "options": [
-        "Strategic Innovation Fund",
-        "Innovative Solutions Canada",
-        "Industrial Research Assistance Program",
-        "Canada Digital Adoption Program"
+        "100",
+        "250",
+        "500",
+        "1,000"
       ],
       "answer": 1,
-      "explanation": "CyberWorks said the contract to deliver and test autonomous vehicles came through the Innovative Solutions Canada program.",
-      "sourceUrl": "https://betakit.com/cyberworks-lands-1-million-canadian-armed-forces-contract/",
-      "sourceLabel": "BetaKit — CyberWorks Robotics' Canadian Armed Forces contract",
-      "eventDate": "2026-10-06",
-      "asOf": "2026-10-07"
+      "explanation": "Lightspeed said 250 roles were affected, a total that included both layoffs and vacant positions that the company closed.",
+      "sourceUrl": "https://betakit.com/lightspeed-lays-off-staff-as-part-of-organizational-changes/",
+      "sourceLabel": "BetaKit — Lightspeed's organizational changes",
+      "eventDate": "2026-10-13",
+      "asOf": "2026-10-14"
     },
     {
-      "id": "2026-10-07-signal-bill-c22-metadata",
-      "topic": "Encryption and privacy",
-      "company": "Signal",
-      "question": "For how long could Bill C-22 force Signal to store additional metadata, according to Signal's vice-president?",
+      "id": "2026-10-14-dominion-tencore-termit",
+      "topic": "Defence technology",
+      "company": "Dominion Dynamics and Tencore",
+      "question": "Which Tencore uncrewed ground vehicle does Dominion Dynamics plan to manufacture in Canada?",
       "options": [
-        "Thirty days",
-        "One year",
-        "Six months",
-        "Five years"
+        "TerMIT",
+        "AuraNet",
+        "Sentinel",
+        "Arctic Fox"
+      ],
+      "answer": 0,
+      "explanation": "The agreement calls for Dominion Dynamics to manufacture Tencore's modular TerMIT vehicle and integrate Dominion's AuraNet command-and-control platform.",
+      "sourceUrl": "https://betakit.com/dominion-dynamics-strikes-deal-to-build-ukrainian-uncrewed-ground-vehicles-in-canada/",
+      "sourceLabel": "BetaKit — Dominion Dynamics' agreement with Tencore",
+      "eventDate": "2026-10-13",
+      "asOf": "2026-10-14"
+    },
+    {
+      "id": "2026-10-14-ai-containment-regulator",
+      "topic": "AI governance",
+      "company": "International scientific community",
+      "question": "What would the international AI body proposed by more than 400 scientists record and track?",
+      "options": [
+        "Consumer chatbot subscriptions",
+        "Semiconductor export licences",
+        "AI containment failures",
+        "University research grants"
       ],
       "answer": 2,
-      "explanation": "Signal VP Udbhav Tiwari said the bill could force the service to collect more metadata than it currently does and retain it for six months.",
-      "sourceUrl": "https://betakit.com/signal-vp-reminds-lawmakers-the-secure-messaging-app-wont-comply-with-bill-c-22/",
-      "sourceLabel": "BetaKit — Signal's objections to Bill C-22",
-      "eventDate": "2026-10-06",
-      "asOf": "2026-10-07"
+      "explanation": "The open letter proposes an international body to standardize AI containment practices and record and track containment failures.",
+      "sourceUrl": "https://betakit.com/geoffrey-hinton-yoshua-bengio-join-400-scientists-calling-for-international-ai-regulator/",
+      "sourceLabel": "BetaKit — scientists' call for an international AI regulator",
+      "eventDate": "2026-10-13",
+      "asOf": "2026-10-14"
     },
     {
-      "id": "2026-10-07-ubc-venture-founder-cohort",
-      "topic": "Startup development",
-      "company": "Innovation UBC",
-      "question": "How long is Innovation UBC's fall 2026 Venture Founder program?",
+      "id": "2026-10-14-promise-dr-horton-homes",
+      "topic": "Construction robotics",
+      "company": "Promise Robotics and DR Horton",
+      "question": "Approximately how many Phoenix-area homes will Promise Robotics support under its agreement with DR Horton?",
       "options": [
-        "8 weeks",
-        "24 weeks",
-        "One year",
-        "16 weeks"
+        "250 homes",
+        "750 homes",
+        "More than 1,250 homes",
+        "5,000 homes"
+      ],
+      "answer": 2,
+      "explanation": "The multi-year agreement will use Promise Robotics' technology and factory-as-a-service capabilities to support production of more than 1,250 homes.",
+      "sourceUrl": "https://betakit.com/promise-robotics-strikes-deal-to-supply-largest-us-homebuilder-dr-horton/",
+      "sourceLabel": "BetaKit — Promise Robotics' DR Horton agreement",
+      "eventDate": "2026-10-13",
+      "asOf": "2026-10-14"
+    },
+    {
+      "id": "2026-10-14-canada-ev-charging-q3",
+      "topic": "EV charging infrastructure",
+      "company": "Canada's charging networks",
+      "question": "Which province added the most EV charging stations in Canada during the third quarter of 2026?",
+      "options": [
+        "British Columbia",
+        "Alberta",
+        "Ontario",
+        "Quebec"
       ],
       "answer": 3,
-      "explanation": "The 16-week program helps UBC students, faculty, and staff develop ventures through validation, business-model work, and leadership training.",
-      "sourceUrl": "https://techcouver.com/2026/10/07/ubc-welcomes-26-startups-to-fall-venture-founder-cohort/",
-      "sourceLabel": "Techcouver — Innovation UBC's fall Venture Founder cohort",
-      "eventDate": "2026-10-07",
-      "asOf": "2026-10-07"
+      "explanation": "Quebec led the country with 49 new stations, ahead of Ontario's 22 and British Columbia's 18.",
+      "sourceUrl": "https://mobilesyrup.com/2026/10/13/canada-builds-more-ev-chargers-in-q3-study/",
+      "sourceLabel": "MobileSyrup — Canada's Q3 2026 EV charging additions",
+      "eventDate": "2026-10-13",
+      "asOf": "2026-10-14"
     }
   ]
 }
