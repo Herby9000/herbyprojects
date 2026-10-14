@@ -1,10 +1,10 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-13T23:43:04.846832Z",
+  "generatedAt": "2026-10-14T04:50:02.066562Z",
   "topStoryIds": [
-    "92c36f90d0901cfa",
+    "7af390b77c102d7c",
     "588ec2167bda61e8",
-    "c93ce4765fe52c7b",
+    "d2b53089ce540783",
     "f9ccaa304a6b43f0",
     "58a607fb336885df",
     "5eaa3e4379e917ca",
@@ -12,10 +12,11 @@
   ],
   "sectionStoryIds": {
     "Politics": [
+      "7af390b77c102d7c",
       "92c36f90d0901cfa",
       "58a607fb336885df",
-      "f1ab7b48a6ceebd4",
-      "9835257b7e55ce7b"
+      "9835257b7e55ce7b",
+      "11819c7dd23e47e5"
     ],
     "Tech": [
       "588ec2167bda61e8",
@@ -27,19 +28,20 @@
     ],
     "Economics": [
       "f9ccaa304a6b43f0",
+      "d2b53089ce540783",
       "d9df1a908c9c959b",
       "c93ce4765fe52c7b"
     ],
     "Sports": [
+      "b7b1f80beead4fbf",
+      "666fe3b43e51ce54",
+      "27fc335204d56057",
       "b3bec25803c8ebc0",
       "0b0466cfc580594b",
-      "b7b1f80beead4fbf",
-      "d8315bee676baa33",
-      "44d7db0201353737",
       "dbed8694ca5ccc5a",
       "289d5968cee8d484",
-      "4312f22cce8cd4b1",
       "15cdfb4e98c24c5b",
+      "18c2c85acff1bfb5",
       "4ac2f2c428280091",
       "971793fc0f738e2d",
       "1ec0204f29ea9198"
@@ -57,14 +59,14 @@
   },
   "stories": [
     {
-      "id": "92c36f90d0901cfa",
-      "title": "It’s My Time review – Michelle Yeoh excels in Rocky-style quest to be Rubik’s Cube champ",
-      "summary": "True story about a former maths teacher who became a puzzle champion in retirement is squeezed into predictable sports-movie formula It’s not quite up there with Leonardo DiCaprio eating raw bison liver to get into character, but Michelle Yeoh reportedly spent two years learning the Rubik’s Cube to prepare for this Chinese drama in which she plays a real-life former maths teacher who became a champion in retirement. The true story is stretched and squeezed here, fictionalised to fit sports-movie formula; it ends up being so-so entertaining and funny in places, but disappointingly predictable. The biggest surprise is that cubing is so popular it has its own world championship. Still, Yeoh gives a superb, spiky performance as blunt, foul-tempered Zhao Yanhong; following a stroke, Zhao is living in a nursing home where she is the resident badass, assaulting her robot care companion and making illicit trips to the off-licence. She discovers her natural talent for the Rubik’s Cube when a washed-up ex-champion called Wu Youwei (Haoran Liu) comes to the nursing home to give a tutorial. What follows is a classic sports-film structure, with qualifying heats and Zhao training day and night, lifting weights and pounding the city streets. (Yes, running is de rigueur in a Rubik’s Cube movie; physical strength is Zhao’s weak spot says Wu, who agrees to be her coach.) Continue reading...",
+      "id": "7af390b77c102d7c",
+      "title": "Graduate student accused of poisoning colleague and trying to flee to China arrested at LAX",
+      "summary": "Microbiologist Aili Wang, 32, poisoned tea of colleague in Wyoming who had pending patents, prosecutors allege A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents and with whom she did not get along, then tried to flee the country after police questioned her. Aili Wang, 32, was arrested 6 October at Los Angeles international airport, where prosecutors allege she sought to return to China. With her were laptops, electronic storage devices and documents now in the possession of police, who allege Wang was seen on surveillance video rummaging through the desk of the victim who specialized in technology for disease treatment – research similar to work she had done in China. Continue reading...",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/film/2026/oct/13/its-my-time-review-michelle-yeoh-excels-in-rocky-style-quest-to-be-rubiks-cube-champ",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest",
       "source": "The Guardian China",
       "publisher": "The Guardian",
-      "published": "2026-10-13T08:00:18Z",
+      "published": "2026-10-14T00:53:36Z",
       "category": "Politics",
       "region": "China",
       "labels": [
@@ -74,12 +76,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 340,
-      "readingMinutes": 2,
+      "wordCount": 546,
+      "readingMinutes": 3,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/c12ff3f30048a217ce3bbe4673aa518fab67574c/286_0_4691_3754/master/4691.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=1998417ae5a9f07a5fbd993396e39492",
-      "body": "True story about a former maths teacher who became a puzzle champion in retirement is squeezed into predictable sports-movie formula\n\nI t’s not quite up there with Leonardo DiCaprio eating raw bison liver to get into character, but Michelle Yeoh reportedly spent two years learning the Rubik’s Cube to prepare for this Chinese drama in which she plays a real-life former maths teacher who became a champion in retirement. The true story is stretched and squeezed here, fictionalised to fit sports-movie formula; it ends up being so-so entertaining and funny in places, but disappointingly predictable. The biggest surprise is that cubing is so popular it has its own world championship.\n\nStill, Yeoh gives a superb, spiky performance as blunt, foul-tempered Zhao Yanhong; following a stroke, Zhao is living in a nursing home where she is the resident badass, assaulting her robot care companion and making illicit trips to the off-licence. She discovers her natural talent for the Rubik’s Cube when a washed-up ex-champion called Wu Youwei (Haoran Liu) comes to the nursing home to give a tutorial. What follows is a classic sports-film structure, with qualifying heats and Zhao training day and night, lifting weights and pounding the city streets. (Yes, running is de rigueur in a Rubik’s Cube movie; physical strength is Zhao’s weak spot says Wu, who agrees to be her coach.)\n\nYeoh is enjoyably irascible as Zhao, who goes viral after thrashing a kid in her first competition. Her online fans call her “Grandma Zhao” and the film gently chips away at stereotypes of the older generation; fans assume Zhao is a cuddly elder, while younger cubers underestimate her skill and stamina. Yeoh brings intelligence to the role, but it’s odd that after making Zhao so testy and short-tempered, the film is all soft edges with a squishy centre. Next, can we expect a biopic of the six-year-old Chinese girl who recently set a Rubik’s Cube world record , solving it in just over four seconds?\n\nFilm\n\nDrama films\n\nBiopics\n\nPuzzle games\n\nSport films\n\nComedy films\n\nChina\n\nreviews",
+      "imageUrl": "https://i.guim.co.uk/img/media/b791f25feb95483ef91ffa0fee5564fad3437b2c/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2623fdff1756dc9c21bcbfe2542da5d0",
+      "body": "Microbiologist Aili Wang, 32, poisoned tea of colleague in Wyoming who had pending patents, prosecutors allege\n\nA Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents and with whom she did not get along, then tried to flee the country after police questioned her.\n\nAili Wang, 32, was arrested 6 October at Los Angeles international airport, where prosecutors allege she sought to return to China . With her were laptops, electronic storage devices and documents now in the possession of police, who allege Wang was seen on surveillance video rummaging through the desk of the victim who specialized in technology for disease treatment – research similar to work she had done in China.\n\nWang remained jailed without bail Tuesday in Los Angeles. She allegedly bought a chemical, acrylamide, over eBay, and it was first detected when the alleged victim’s wife and others tested water from the coffee maker he used to brew tea.\n\nUS officials for years have accused China of stealing intellectual property from American universities.\n\nThe microbiology professor overseeing both graduate students, Mark Gomelsky, said the accusations left him reeling. He was uncertain if the victim will fully recover.\n\n“It’s been disheartening, to say the least, to see that one of your students’ lives is in jeopardy and another student may be responsible for that,” Gomelsky told the Associated Press. “That was one of the worst shocks in my professional career.”\n\nWang had no attorney listed in court documents. The AP tried to reach her via email and LinkedIn messages.\n\nThe police investigation began after the victim, identified in court documents as “KT”, began experiencing symptoms and his wife and others allegedly isolated the chemical in the coffee maker water. The victim and campus police then set up surveillance cameras in the office space he shared with Wang at the university in Laramie.\n\nWang allegedly was recorded 27 September going through the alleged victim’s desk. On 1 October, she was recorded “taking photos and manipulating notebooks” on his desk, as well as rinsing out his mug with a liquid from her own mug, a University of Wyoming campus police officer’s affidavit said.\n\nWang and the alleged victim, who did not share research areas, did not get along, according to the affidavit.\n\nThe alleged victim began experiencing extreme tiredness, inability to sleep and other unexplained symptoms soon after attending a prestigious conference in August, Gomelsky said.\n\nHe also noticed a strange taste in the tea that he made with a small coffee maker on his desk, Gomelsky said. When he washed the coffee maker, Gomelsky said, the taste would go away.\n\nSuspecting someone in their shared office could be poisoning the graduate student, Gomelsky said a chemistry professor tested the water and identified acrylamide.\n\nWang faces a felony aggravated assault and battery charge in Wyoming punishable by up to 10 years in prison and a $10,000 fine.\n\nIt’s not clear when she could be extradited to the state, where Albany county circuit court judge Robert Sanford granted prosecutors’ request and raised bond to $1.5m cash-only.\n\nWang allegedly asked eBay to delete her account after she bought acrylamide over the online retail site twice last summer, police said.\n\nWyoming\n\nChina\n\nAsia Pacific\n\nnews",
       "imageWidth": 1200,
       "imageHeight": 630
     },
@@ -111,29 +113,29 @@
       "imageHeight": 648
     },
     {
-      "id": "c93ce4765fe52c7b",
-      "title": "BA flight forced to turn back over cracked window",
-      "summary": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
+      "id": "d2b53089ce540783",
+      "title": "Bank of America hit with $1.2bn fine for money laundering failings",
+      "summary": "The bank inadequately flagged transactions linked to potential Chinese money laundering networks, the Treasury said.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o",
       "source": "BBC Business",
       "publisher": "BBC",
-      "published": "2026-10-13T11:48:07Z",
+      "published": "2026-10-14T02:05:32Z",
       "category": "Economics",
-      "region": "UK",
+      "region": "China",
       "labels": [
         "Economics",
-        "UK"
+        "China"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 320,
+      "wordCount": 418,
       "readingMinutes": 2,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d81/live/e303dfe0-c702-11f1-9783-ed95709f9dec.jpg",
-      "body": "File photo of a British Airways plane\n\nPublished 13 October 2026, 12:48 BST\n\nA British Airways flight en route to Portugal was forced to return to Gatwick Airport on Tuesday due to a minor technical issue, reported to be a cracked window.\n\nFlight BA2660 was heading to Faro in the Algarve but diverted over north-western France in order to return to London Gatwick.\n\nAirNav Radar, a flight data provider, posted on X that \"a passenger window is cracked. Flight deck going through checks before deciding were to divert\".\n\nA spokesperson for British Airways said the plane landed safely at Gatwick due to a \"minor technical issue\" and passengers were due to resume their journey.\n\n\"We have apologised to customers for the delay to their journey, and our teams are working hard to get their travel plans back on track,\" they said.\n\nAirnav Radar reported that the BA Airbus A321 squawked the 7700 emergency code, which is used when there are mechanical or technical problems on board aircraft.\n\nLast week, a BA flight bound for Chicago spent five hours circling over Ireland, before turning back and landing at London Heathrow, where it had taken off.\n\nThe flight issued an emergency alert and passengers reported oxygen masks dropped in the cabin, as well as turbulence. Tracking data showed it rapidly descended from 37,000 feet to 9,000 feet.\n\nAnd in August Serbian national Ljubisa Karović's head and right shoulder were sucked out of the window on a Ryanair flight, leaving him \"seriously injured and in shock\".\n\nRyanair subsequently said the window may have been damaged by a foreign object.\n\nAdditional reporting by Emily Coady-Stemp\n\nRelated topics\n\nGatwick Airport\n\nAir travel\n\nTravel\n\nTransport\n\nMore on this story\n\n'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal Published 14 July\n\nRyanair broken window may have been caused by 'foreign object' Published 21 July",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b893/live/c1765210-c764-11f1-b06d-fb50486dda65.jpg",
+      "body": "Published 2 hours ago\n\nBank of America has been fined $1.2bn (£910m) for failing to detect potential money laundering and other illegal activity, the US Treasury Department said on Tuesday.\n\nThe banking giant failed to report over $5bn in suspicious activity to the government, $1bn of which posed national security and illicit finance risks, the Treasury said.\n\nThose failures included not flagging transactions that possibly involved Chinese money laundering networks or trade-based laundering \"with a substantial nexus to the southwest border\", according to the Treasury.\n\n\"Our team is far along with and committed to completing the work required to address the issues raised by our regulators,\" Bank of America told the BBC.\n\nThe announcement came less 24 hours before Bank of America was due to announce its quarterly earnings on Wednesday morning.\n\n\"Our third-quarter results will include a non-tax-deductible charge of $1.2 billion impacting net income by approximately 17 cents per share,\" the bank said in an emailed statement.\n\n\"We have already dedicated substantial personnel and resources to our ongoing remediation efforts, and those costs are in the current expense base,\" it added.\n\nIn announcing the fine, the third-largest the department has ever imposed, Treasury Secretary Scott Bessent said: \"When a bank of this size fails to meet its anti-money laundering and sanctions obligations, the consequences extend far beyond its own walls, exposing the entire US financial system to significant illicit finance risks.\"\n\nThe Treasury said the bank overly relied on inquiries from outside parties like law enforcement and other financial institutions instead of its own internal controls.\n\nThis meant that it \"effectively outsourced to third parties a substantial portion of its proactive detection and reporting obligations,\" the department said.\n\nAs part of the settlement, Bank of America admitted that it \"willfully violated\" the Bank Secrecy Act by failing to maintain a compliant anti-money laundering programme, conduct required due diligence on foreign correspondent accounts and file suspicious activity reports, the Treasury said.\n\nThe $1.2bn fine included penalties imposed by the Office of the Comptroller of the Currency (OCC) and the Office of Foreign Assets Control (OFAC).\n\nThe OCC's $750m fine marked the biggest penalty it has ever levied.\n\nOFAC said its settlement with the bank was tied to 475 apparent violations of sanctions programmes including those on Russia and Iran, narcotics, and global terrorism.\n\nThe settlement amount of $11.6m reflected the determination that Bank of America's apparent violations were \"non-egregious\", OFAC said.\n\nRelated topics\n\nInternational Business\n\nBank of America\n\nMoney laundering\n\nUnited States\n\nBanking",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -187,7 +189,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1cfb/live/4dfc3380-c724-11f1-b881-4391ac746e04.png",
-      "body": "Burnham met Zelensky at the United Nations General Assembly in New York last month\n\nPublished 2 hours ago\n\nPrime Minister Andy Burnham will host Ukrainian President Volodymyr Zelensky at Downing Street on Wednesday, as the UK announces it will accelerate its delivery of air defence missiles to Kyiv.\n\nBurnham is also expected to set out how his government will draw up further sanctions against Russia.\n\nSpeaking ahead of the meeting, Burnham said the UK was with Ukraine \"for as long as it takes\", adding: \"Russian aggression cannot be allowed to succeed on our continent.\"\n\nThe UK will also urge allies to step up pressure on Russia, with Chancellor John Healey using International Monetary Fund (IMF) meetings to call for a ban on Russian liquefied natural gas (LNG).\n\nThis will be Zelensky's second visit to the UK since Burnham became prime minister. His first was in late July, days after Burnham entered No 10, when the pair met troops and led a news conference at a naval base in Portsmouth.\n\nBurnham said: \"Our rock-solid support to Ukraine is vital for keeping us safe here in the UK and ensuring those on the frontlines have the equipment they need to push back Russia.\n\n\"My message to the Ukrainian people could not be clearer, we are with you for as long as it takes, and we will go further and faster in our support to back your courageous fight for peace in Europe.\n\n\"It is not just the right thing to do, but it's the necessary thing to do.\"\n\nAmong the measures being announced is the quicker delivery of British Lightweight Multirole Missiles (LMMs), with the UK having already committed to send more than 5,000 worth £1.6bn over the next four years.\n\nThe UK will also reaffirm its plans to fully implement a maritime services ban on Russian LNG exports.\n\nThe meeting between Zelensky and Burnham follows what Foreign Secretary Ed Miliband described as a \"very difficult few days\" for UK-US relations due to President Donald Trump's decision to ease sanctions on Russian diesel.\n\nZelensky criticised the US deal with Russia, calling it a \"gift\" to President Vladimir Putin. Trump, in response, called for new leadership in Ukraine and criticised Zelensky for striking Russian oil refineries.\n\nMeanwhile, Healey will ask partners at the IMF to step up support for Kyiv and ensure Russia heeds the US' call for a full energy ceasefire.\n\nTrump claimed on Sunday that Russia and Ukraine had agreed to an immediate energy ceasefire - but hours later, Zelensky said Russian attacks on energy facilities had continued.\n\nOn Monday, Russia's Foreign Minister Sergei Lavrov said Ukraine did not deserve the \"respite\" a ceasefire would bring.\n\n'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal Published 2 days ago\n\nAnalysis: Trump's global headaches worsen weeks before crucial elections Published 1 day ago\n\nZelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants Published 2 days ago\n\nSign up for our Politics Essential newsletter to read top political analysis, gain insight from across the UK and stay up to speed with the big moments. It'll be delivered straight to your inbox every weekday.\n\nRelated topics\n\nVolodymyr Zelensky\n\nWar in Ukraine\n\nAndy Burnham",
+      "body": "Burnham met Zelensky at the United Nations General Assembly in New York last month\n\nPublished 7 hours ago\n\nPrime Minister Andy Burnham will host Ukrainian President Volodymyr Zelensky at Downing Street on Wednesday, as the UK announces it will accelerate its delivery of air defence missiles to Kyiv.\n\nBurnham is also expected to set out how his government will draw up further sanctions against Russia.\n\nSpeaking ahead of the meeting, Burnham said the UK was with Ukraine \"for as long as it takes\", adding: \"Russian aggression cannot be allowed to succeed on our continent.\"\n\nThe UK will also urge allies to step up pressure on Russia, with Chancellor John Healey using International Monetary Fund (IMF) meetings to call for a ban on Russian liquefied natural gas (LNG).\n\nThis will be Zelensky's second visit to the UK since Burnham became prime minister. His first was in late July, days after Burnham entered No 10, when the pair met troops and led a news conference at a naval base in Portsmouth.\n\nBurnham said: \"Our rock-solid support to Ukraine is vital for keeping us safe here in the UK and ensuring those on the frontlines have the equipment they need to push back Russia.\n\n\"My message to the Ukrainian people could not be clearer, we are with you for as long as it takes, and we will go further and faster in our support to back your courageous fight for peace in Europe.\n\n\"It is not just the right thing to do, but it's the necessary thing to do.\"\n\nAmong the measures being announced is the quicker delivery of British Lightweight Multirole Missiles (LMMs), with the UK having already committed to send more than 5,000 worth £1.6bn over the next four years.\n\nThe UK will also reaffirm its plans to fully implement a maritime services ban on Russian LNG exports.\n\nThe meeting between Zelensky and Burnham follows what Foreign Secretary Ed Miliband described as a \"very difficult few days\" for UK-US relations due to President Donald Trump's decision to ease sanctions on Russian diesel.\n\nZelensky criticised the US deal with Russia, calling it a \"gift\" to President Vladimir Putin. Trump, in response, called for new leadership in Ukraine and criticised Zelensky for striking Russian oil refineries.\n\nMeanwhile, Healey will ask partners at the IMF to step up support for Kyiv and ensure Russia heeds the US' call for a full energy ceasefire.\n\nTrump claimed on Sunday that Russia and Ukraine had agreed to an immediate energy ceasefire - but hours later, Zelensky said Russian attacks on energy facilities had continued.\n\nOn Monday, Russia's Foreign Minister Sergei Lavrov said Ukraine did not deserve the \"respite\" a ceasefire would bring.\n\n'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal Published 3 days ago\n\nAnalysis: Trump's global headaches worsen weeks before crucial elections Published 1 day ago\n\nZelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants Published 2 days ago\n\nSign up for our Politics Essential newsletter to read top political analysis, gain insight from across the UK and stay up to speed with the big moments. It'll be delivered straight to your inbox every weekday.\n\nRelated topics\n\nVolodymyr Zelensky\n\nWar in Ukraine\n\nAndy Burnham",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -247,14 +249,14 @@
       "imageHeight": 600
     },
     {
-      "id": "f1ab7b48a6ceebd4",
-      "title": "‘Super app’ aimed at UK students uses servers owned by Chinese firm on US blacklist",
-      "summary": "ZyMix platform has contract with Tencent, which US alleges has links to People’s Liberation Army A new messaging and payment “super app” marketed at British students uses servers owned by a Chinese company that has been put on a US military blacklist for its alleged affiliation to the People’s Liberation Army. ZyMix, which is being pushed on university campuses as the UK’s first super app designed “for gen Z”, combining chat, payments and community features, has a contract with a German-based subsidiary of Tencent Holdings, a Chinese conglomerate in Shenzhen. Continue reading...",
+      "id": "92c36f90d0901cfa",
+      "title": "It’s My Time review – Michelle Yeoh excels in Rocky-style quest to be Rubik’s Cube champ",
+      "summary": "True story about a former maths teacher who became a puzzle champion in retirement is squeezed into predictable sports-movie formula It’s not quite up there with Leonardo DiCaprio eating raw bison liver to get into character, but Michelle Yeoh reportedly spent two years learning the Rubik’s Cube to prepare for this Chinese drama in which she plays a real-life former maths teacher who became a champion in retirement. The true story is stretched and squeezed here, fictionalised to fit sports-movie formula; it ends up being so-so entertaining and funny in places, but disappointingly predictable. The biggest surprise is that cubing is so popular it has its own world championship. Still, Yeoh gives a superb, spiky performance as blunt, foul-tempered Zhao Yanhong; following a stroke, Zhao is living in a nursing home where she is the resident badass, assaulting her robot care companion and making illicit trips to the off-licence. She discovers her natural talent for the Rubik’s Cube when a washed-up ex-champion called Wu Youwei (Haoran Liu) comes to the nursing home to give a tutorial. What follows is a classic sports-film structure, with qualifying heats and Zhao training day and night, lifting weights and pounding the city streets. (Yes, running is de rigueur in a Rubik’s Cube movie; physical strength is Zhao’s weak spot says Wu, who agrees to be her coach.) Continue reading...",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/business/2026/oct/13/super-app-uk-students-servers-china-us-blacklist",
+      "url": "https://www.theguardian.com/film/2026/oct/13/its-my-time-review-michelle-yeoh-excels-in-rocky-style-quest-to-be-rubiks-cube-champ",
       "source": "The Guardian China",
       "publisher": "The Guardian",
-      "published": "2026-10-13T04:00:14Z",
+      "published": "2026-10-13T08:00:18Z",
       "category": "Politics",
       "region": "China",
       "labels": [
@@ -264,12 +266,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 896,
-      "readingMinutes": 5,
+      "wordCount": 340,
+      "readingMinutes": 2,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/87571f2e8fc75dcaddd60f3c67b64dc7c33f0e10/426_0_5101_4081/master/5101.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0ba53e51619f7f9bb5bfdaf15543ba4",
-      "body": "ZyMix platform has contract with Tencent, which US alleges has links to People’s Liberation Army\n\nA new messaging and payment “super app” marketed at British students uses servers owned by a Chinese company that has been put on a US military blacklist for its alleged affiliation to the People’s Liberation Army.\n\nZyMix, which is being pushed on university campuses as the UK’s first super app designed “for gen Z”, combining chat, payments and community features, has a contract with a German-based subsidiary of Tencent Holdings, a Chinese conglomerate in Shenzhen.\n\nTencent Holdings was added in January 2026 to the US Department of Defense’s (DoD) list of Chinese military companies, which is formally known as the section 1260H list.\n\nThe citation on the DoD list says that the company, which is a gaming and social media conglomerate, is indirectly affiliated to the Chinese People’s Liberation Army.\n\nThe blacklist is part of a US attempt to counteract what it regards as Beijing’s efforts to increase its military power by using technology from Chinese firms, universities and research programmes.\n\nThe DoD is prohibited from entering into, renewing or extending contracts for goods, services or technology with any entity on the list although wider sanctions are not automatic.\n\nA Tencent spokesperson said: “Tencent’s inclusion on this list is clearly a mistake. We are not a military company or supplier. Unlike sanctions or export controls, this listing has no impact on our business. We will nonetheless work with the Department of Defense to address any misunderstanding.”\n\nChina’s footprint in higher education in the UK has become a controversial issue. MI5 recently warned British universities to cut ties with the China General Technology Research Institute.\n\nThe domestic intelligence service claimed it was secretly channelling funding from Beijing’s intelligence apparatus to UK-linked academics to improve the technical espionage capabilities of China’s ministry of state security.\n\nThe link between the Chinese-owned infrastructure and ZyMix was initially disclosed in the company’s privacy policy at the time of its launch last week.\n\nThe document, which is legally required, said that Tencent (Frankfurt) stored user-generated content and messages. After the Guardian approached the company, the privacy policy was rewritten and mention of Tencent was removed.\n\nThe policy now states that users’ personal data is stored and processed primarily in the United Kingdom and the EU, adding that “some of our service providers are located in other countries, including the United States”.\n\nIt goes on to say that “auxiliary infrastructure providers, hosted in the EU, receive only encrypted user messages and limited technical data, such as technical statistics, licence validation when the app starts”.\n\nA spokesperson said: “As a newly launched startup, we are updating our privacy notice as we develop our services, including clarifying that Tencent, Twilio and the other providers concerned are used solely for performance testing.”\n\nThe spokesperson added: “Our agreement is with Tencent Cloud Europe BV, which we use for auxiliary services, rather than as the provider that stores ZyMix user data. We take our obligations under UK data protection law seriously.”\n\nThe new privacy policy invites those who wish to know the identity of their suppliers to request the information from the company.\n\nIn response to a request from the Guardian, Tarique Ghaffur, a former assistant commissioner at the Metropolitan police, who described himself as a security consultant for ZyMix, responded.\n\nHe said: “We have reviewed your request as against our private privacy [sic] you mentioned. Unfortunately, at the present time for reasons of commercial confidentiality, contractual obligations and legal privileges, we are not able to provide you with the requested information.”\n\nFraser Sampson, a professor of security and national governance and formerly the UK’s biometrics and surveillance camera commissioner, said he was “sceptical when ‘commercial confidentiality’ arguments are used to duck basic policy questions and amending policy on the fly is never reassuring”.\n\nHe added: “When companies ask us for our personal data, they should expect us to ask them where it’s being kept, for what purpose(s) and who they’re going to share it with – and be prepared to answer fully.”\n\nSam Dunning, the director of the UK-China Transparency NGO, said: “There are serious questions about whether ZyMix have taken due care before launching this product.”\n\nA spokesperson for ZyMix said: “Whilst still in its beta stage, the ZyMix app has been developed to fully comply with all UK data, privacy and financial regulations.”\n\nZyMix is heavily targeting the university market and is offering £200 to £400 a month to people who agree to be brand ambassadors on campuses. Staff roles have also been advertised in the UK by ZyMix for Mandarin-speaking applicants.\n\nOne advert on LinkedIn for the job of operations manager (Mandarin speaking) required “excellent written and verbal communication skills in both English and Mandarin (required for daily communication with the China team)”.\n\nSeparately, a distinct company appeared to be recruiting on behalf of ZyMix on WeChat, the Chinese instant messaging service, saying: “The product, R&D, design and testing team is in Greater China, with branch-company bases covering: Taipei / Shenzhen / Guangzhou / Hangzhou / Chengdu / Zhengzhou.”\n\nGhaffur said that Flicknmix, the UK company that publishes the ZyMix app, “does not have any subsidiaries or branch offices in China. Our aim is to create opportunities within the UK”. A spokesperson for ZyMix described it as “British born”.\n\nTencent\n\nChina\n\nHigher education\n\nSocial media\n\nDigital media\n\nUK security and counter-terrorism\n\nPrivacy\n\nnews",
+      "imageUrl": "https://i.guim.co.uk/img/media/c12ff3f30048a217ce3bbe4673aa518fab67574c/286_0_4691_3754/master/4691.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=1998417ae5a9f07a5fbd993396e39492",
+      "body": "True story about a former maths teacher who became a puzzle champion in retirement is squeezed into predictable sports-movie formula\n\nI t’s not quite up there with Leonardo DiCaprio eating raw bison liver to get into character, but Michelle Yeoh reportedly spent two years learning the Rubik’s Cube to prepare for this Chinese drama in which she plays a real-life former maths teacher who became a champion in retirement. The true story is stretched and squeezed here, fictionalised to fit sports-movie formula; it ends up being so-so entertaining and funny in places, but disappointingly predictable. The biggest surprise is that cubing is so popular it has its own world championship.\n\nStill, Yeoh gives a superb, spiky performance as blunt, foul-tempered Zhao Yanhong; following a stroke, Zhao is living in a nursing home where she is the resident badass, assaulting her robot care companion and making illicit trips to the off-licence. She discovers her natural talent for the Rubik’s Cube when a washed-up ex-champion called Wu Youwei (Haoran Liu) comes to the nursing home to give a tutorial. What follows is a classic sports-film structure, with qualifying heats and Zhao training day and night, lifting weights and pounding the city streets. (Yes, running is de rigueur in a Rubik’s Cube movie; physical strength is Zhao’s weak spot says Wu, who agrees to be her coach.)\n\nYeoh is enjoyably irascible as Zhao, who goes viral after thrashing a kid in her first competition. Her online fans call her “Grandma Zhao” and the film gently chips away at stereotypes of the older generation; fans assume Zhao is a cuddly elder, while younger cubers underestimate her skill and stamina. Yeoh brings intelligence to the role, but it’s odd that after making Zhao so testy and short-tempered, the film is all soft edges with a squishy centre. Next, can we expect a biopic of the six-year-old Chinese girl who recently set a Rubik’s Cube world record , solving it in just over four seconds?\n\nFilm\n\nDrama films\n\nBiopics\n\nPuzzle games\n\nSport films\n\nComedy films\n\nChina\n\nreviews",
       "imageWidth": 1200,
       "imageHeight": 630
     },
@@ -296,9 +298,32 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b8ca/live/752f1a40-c723-11f1-b881-4391ac746e04.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\n'We have to go on the evidence' - Kogan\n\nPublished 7 hours ago\n\nThe head of English football's independent regulator says he will resign if he encounters any political interference over the future of Manchester City .\n\nAs chairman of the Independent Football Regulator (IFR), David Kogan has the power to assess the suitability of club owners and executives.\n\nIf an independent commission's findings that the club broke Premier League financial rules are upheld, the watchdog could even force a sale.\n\nLast month, the Prime Minister Andy Burnham was criticised for saying he would be \"really concerned\" if the scandal led to Manchester City 's Abu Dhabi owners selling the club.\n\n\"They've been such a huge partner in the building of modern Manchester and obviously the building of Manchester City into the global force that it is,\" he added.\n\nWhen asked about Burnham's comments, Kogan told BBC Sport: \"The Prime Minister is entirely entitled to make his own observations on anything.\n\n\"We are independent. That is in the name. I am the chairman of the Independent Football Regulator and independence absolutely runs through everything we're doing.\n\n\"And no politician has tried to influence and would try to influence anything we do on that.\"\n\nWhen asked what he would do if he did come under political pressure over the case, Kogan replied: \"I would resign.\"\n\nAn independent commission found City had broken rules over a nine-year period between 2009 and 2018. Owners Abu Dhabi United Group (ADUG) - a private investment company belonging to United Arab Emirates vice-president and deputy prime minister Sheikh Mansour - are said to have topped up the value of commercial deals as part of a \"disguised funding scheme\" to the scale of £830m.\n\nCity insist they are innocent and have appealed.\n\nHow much did Man City's rule breaking cost your team? Published 15 hours ago\n\n'Criticised for what?' - Maresca defends celebrations Published 10 hours ago\n\nKogan on next steps on Man City\n\nKogan, a former sports media rights executive, was appointed to the regulator role one year ago\n\nThe prime minister initially told the BBC of his concerns, before later denying his reaction had \"downplayed the seriousness of the findings\".\n\nHowever, some Premier League clubs were so \"astonished\" by Burnham's stance that sources told BBC Sport they were \"concerned\" about political interference in the appeal process.\n\nBurnham's previous role as mayor of Greater Manchester has led to questions about his relationship with City's Abu Dhabi ownership.\n\nConservative leader Kemi Badenoch demanded all details of meetings between the prime minister and senior figures at the club are released. The government released these details on Monday .\n\nSpeaking at the launch of the IFR's State of the Game report, Kogan said, \"As far as we, as the regulator, are concerned, we have a very clear course of action that is governed by statute and we are going to follow that course of action, and no comment by any politician or indeed any individual is going to affect what we do\".\n\nKogan's hiring as IFR chair was the subject of an inquiry by the Commissioner for Public Appointments over his historic links to the Labour Party, having contributed money to the leadership campaigns of former Prime Minister Sir Keir Starmer and culture secretary Lisa Nandy.\n\nShadow Culture Minister Louie French has written to the government, citing \"concerns about the IFR's ability to adjudicate this case fairly, free from political interference\".\n\nIn response, Kogan said: \"I can tell you absolutely categorically that any politician who's trying to meddle in this for political purposes is welcome to try and welcome to do it, but I am going to stand by the probity of the organisation that I lead. If anybody wishes to challenge those after we've acted, that's entirely up to them.\"\n\n'Very serious issues'\n\nThe independent panel will hold a sanctions hearing - which could take months to convene - to decide on City's punishment.\n\nThe club can appeal both the guilty verdicts and the sanction, leaving the league in a state of uncertainty.\n\nCity's punishment could range from a huge fine, being deducted points or being ejected from the Premier League.\n\nAsked how crucial it is that it was resolved as soon as possible, Kogan said: \"I think it's very important.\"\n\nKogan added that the case was \"raising very serious issues if Manchester City on appeal is found to be guilty of the allegations within those findings\".\n\n\"We are waiting like everybody else to see what the independent panel will do… and then we will bring in a view in terms of our own investigation and statutory powers if we need to do so.\n\n\"Our powers relate to individual owners, directors and senior executives. They refer to whether people are in a position to run a club in a way that is safe, coherent and done with probity, and we will be examining those things.\"\n\nWhen asked if the IFR could withhold a club license from City when it starts awarding them from next month, Kogan said: \"I'm not going to begin to comment on any actions we may take until we've had a chance to assess it.\"\n\nAnd on whether the case had raise questions about the state-connected ownership of clubs, Kogan replied: \"No, I don't think specifically it does. We have no powers to prevent state ownership of clubs. It's not within our remit. But I don't think you can apply a general observation about type of ownership to one particular example.\"\n\nAn independent commission held a 42-day hearing in 2024 that led to the verdict announced last month, with City also guilty of all charges except one relating to non-cooperation with the Premier League investigation.\n\nThe commission's report said that \"a number of important club witnesses gave false evidence in key respects and that some knowingly gave untrue and dishonest evidence\".\n\nFollow Manchester City on BBC Sounds\n\nPre-match, post-match and topical City content\n\n.\n\nSubscribe and listen for everything you love about City\n\nRelated topics\n\nFootball\n\nPremier League\n\nManchester City\n\nMore on this story\n\nLatest Manchester City news, analysis and fan views\n\nAsk about Man City - what do you want to know?",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\n'We have to go on the evidence' - Kogan\n\nPublished 13 October 2026\n\nThe head of English football's independent regulator says he will resign if he encounters any political interference over the future of Manchester City .\n\nAs chairman of the Independent Football Regulator (IFR), David Kogan has the power to assess the suitability of club owners and executives.\n\nIf an independent commission's findings that the club broke Premier League financial rules are upheld, the watchdog could even force a sale.\n\nLast month, the Prime Minister Andy Burnham was criticised for saying he would be \"really concerned\" if the scandal led to Manchester City 's Abu Dhabi owners selling the club.\n\n\"They've been such a huge partner in the building of modern Manchester and obviously the building of Manchester City into the global force that it is,\" he added.\n\nWhen asked about Burnham's comments, Kogan told BBC Sport: \"The Prime Minister is entirely entitled to make his own observations on anything.\n\n\"We are independent. That is in the name. I am the chairman of the Independent Football Regulator and independence absolutely runs through everything we're doing.\n\n\"And no politician has tried to influence and would try to influence anything we do on that.\"\n\nWhen asked what he would do if he did come under political pressure over the case, Kogan replied: \"I would resign.\"\n\nAn independent commission found City had broken rules over a nine-year period between 2009 and 2018. Owners Abu Dhabi United Group (ADUG) - a private investment company belonging to United Arab Emirates vice-president and deputy prime minister Sheikh Mansour - are said to have topped up the value of commercial deals as part of a \"disguised funding scheme\" to the scale of £830m.\n\nCity insist they are innocent and have appealed.\n\nHow much did Man City's rule breaking cost your team? Published 20 hours ago\n\n'Criticised for what?' - Maresca defends celebrations Published 15 hours ago\n\nKogan on next steps on Man City\n\nKogan, a former sports media rights executive, was appointed to the regulator role one year ago\n\nThe prime minister initially told the BBC of his concerns, before later denying his reaction had \"downplayed the seriousness of the findings\".\n\nHowever, some Premier League clubs were so \"astonished\" by Burnham's stance that sources told BBC Sport they were \"concerned\" about political interference in the appeal process.\n\nBurnham's previous role as mayor of Greater Manchester has led to questions about his relationship with City's Abu Dhabi ownership.\n\nConservative leader Kemi Badenoch demanded all details of meetings between the prime minister and senior figures at the club are released. The government released these details on Monday .\n\nSpeaking at the launch of the IFR's State of the Game report, Kogan said, \"As far as we, as the regulator, are concerned, we have a very clear course of action that is governed by statute and we are going to follow that course of action, and no comment by any politician or indeed any individual is going to affect what we do\".\n\nKogan's hiring as IFR chair was the subject of an inquiry by the Commissioner for Public Appointments over his historic links to the Labour Party, having contributed money to the leadership campaigns of former Prime Minister Sir Keir Starmer and culture secretary Lisa Nandy.\n\nShadow Culture Minister Louie French has written to the government, citing \"concerns about the IFR's ability to adjudicate this case fairly, free from political interference\".\n\nIn response, Kogan said: \"I can tell you absolutely categorically that any politician who's trying to meddle in this for political purposes is welcome to try and welcome to do it, but I am going to stand by the probity of the organisation that I lead. If anybody wishes to challenge those after we've acted, that's entirely up to them.\"\n\n'Very serious issues'\n\nThe independent panel will hold a sanctions hearing - which could take months to convene - to decide on City's punishment.\n\nThe club can appeal both the guilty verdicts and the sanction, leaving the league in a state of uncertainty.\n\nCity's punishment could range from a huge fine, being deducted points or being ejected from the Premier League.\n\nAsked how crucial it is that it was resolved as soon as possible, Kogan said: \"I think it's very important.\"\n\nKogan added that the case was \"raising very serious issues if Manchester City on appeal is found to be guilty of the allegations within those findings\".\n\n\"We are waiting like everybody else to see what the independent panel will do… and then we will bring in a view in terms of our own investigation and statutory powers if we need to do so.\n\n\"Our powers relate to individual owners, directors and senior executives. They refer to whether people are in a position to run a club in a way that is safe, coherent and done with probity, and we will be examining those things.\"\n\nWhen asked if the IFR could withhold a club license from City when it starts awarding them from next month, Kogan said: \"I'm not going to begin to comment on any actions we may take until we've had a chance to assess it.\"\n\nAnd on whether the case had raise questions about the state-connected ownership of clubs, Kogan replied: \"No, I don't think specifically it does. We have no powers to prevent state ownership of clubs. It's not within our remit. But I don't think you can apply a general observation about type of ownership to one particular example.\"\n\nAn independent commission held a 42-day hearing in 2024 that led to the verdict announced last month, with City also guilty of all charges except one relating to non-cooperation with the Premier League investigation.\n\nThe commission's report said that \"a number of important club witnesses gave false evidence in key respects and that some knowingly gave untrue and dishonest evidence\".\n\nFollow Manchester City on BBC Sounds\n\nPre-match, post-match and topical City content\n\n.\n\nSubscribe and listen for everything you love about City\n\nRelated topics\n\nFootball\n\nPremier League\n\nManchester City\n\nMore on this story\n\nLatest Manchester City news, analysis and fan views\n\nAsk about Man City - what do you want to know?",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "11819c7dd23e47e5",
+      "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+      "summary": "A Saudi Aramco building has been hit in Dhahran, following Saudi-led coalition strikes on Houthi 'vital assets' in Yemen",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-14T00:00:00Z",
+      "category": "Politics",
+      "region": "Middle East",
+      "labels": [
+        "Politics",
+        "Middle East"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": true
     },
     {
       "id": "7629f34a529c1c57",
@@ -401,6 +426,110 @@
       "imageHeight": 630
     },
     {
+      "id": "c93ce4765fe52c7b",
+      "title": "BA flight forced to turn back over cracked window",
+      "summary": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-10-13T11:48:07Z",
+      "category": "Economics",
+      "region": "UK",
+      "labels": [
+        "Economics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 317,
+      "readingMinutes": 2,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0d81/live/e303dfe0-c702-11f1-9783-ed95709f9dec.jpg",
+      "body": "File photo of a British Airways plane\n\nPublished 13 October 2026\n\nA British Airways flight en route to Portugal was forced to return to Gatwick Airport on Tuesday due to a minor technical issue, reported to be a cracked window.\n\nFlight BA2660 was heading to Faro in the Algarve but diverted over north-western France in order to return to London Gatwick.\n\nAirNav Radar, a flight data provider, posted on X that \"a passenger window is cracked. Flight deck going through checks before deciding were to divert\".\n\nA spokesperson for British Airways said the plane landed safely at Gatwick due to a \"minor technical issue\" and passengers were due to resume their journey.\n\n\"We have apologised to customers for the delay to their journey, and our teams are working hard to get their travel plans back on track,\" they said.\n\nAirnav Radar reported that the BA Airbus A321 squawked the 7700 emergency code, which is used when there are mechanical or technical problems on board aircraft.\n\nLast week, a BA flight bound for Chicago spent five hours circling over Ireland, before turning back and landing at London Heathrow, where it had taken off.\n\nThe flight issued an emergency alert and passengers reported oxygen masks dropped in the cabin, as well as turbulence. Tracking data showed it rapidly descended from 37,000 feet to 9,000 feet.\n\nAnd in August Serbian national Ljubisa Karović's head and right shoulder were sucked out of the window on a Ryanair flight, leaving him \"seriously injured and in shock\".\n\nRyanair subsequently said the window may have been damaged by a foreign object.\n\nAdditional reporting by Emily Coady-Stemp\n\nRelated topics\n\nGatwick Airport\n\nAir travel\n\nTravel\n\nTransport\n\nMore on this story\n\n'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal Published 14 July\n\nRyanair broken window may have been caused by 'foreign object' Published 21 July",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "id": "b7b1f80beead4fbf",
+      "title": "Watch Blue Jays prospects in Arizona Fall League action",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-10-14T04:34:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "666fe3b43e51ce54",
+      "title": "NHL Highlights: Mammoth 5, Maple Leafs 4",
+      "summary": "17919511906722985",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-mammoth-5-maple-leafs-4/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-14T04:17:18Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 1,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/6406824329112.jpg"
+    },
+    {
+      "id": "27fc335204d56057",
+      "title": "Maple Leafs’ comeback effort falls short in loss to Mammoth",
+      "summary": "CP177084714",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/article/maple-leafs-comeback-effort-falls-short-in-loss-to-mammoth/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-14T04:12:28Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 1,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/CP177084714.jpg"
+    },
+    {
       "id": "b3bec25803c8ebc0",
       "title": "PWR PLAYER OF THE YEAR RE-SIGNS TO SARACENS",
       "summary": "SARACENS ARE DELIGHTED TO ANNOUNCE THAT CANADIAN INTERNATIONAL OLIVIA APPS HAS RE-SIGNED WITH THE CLUB FOR THE 2026/27 SEASON. Apps' journey to Saracens started at pace. After starring for Canada at the Women's Rugby World Cup, Apps featured in all seven of Canada's matchday squads, including the World Cup final. A decorated performer across both […]",
@@ -450,83 +579,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dc5/live/626fc4d0-c74c-11f1-b4d5-87f9c6c95a29.jpg"
-    },
-    {
-      "id": "b7b1f80beead4fbf",
-      "title": "Watch Blue Jays prospects in Arizona Fall League action",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-10-13T23:16:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "d8315bee676baa33",
-      "title": "Should McKenna have a permanent spot on the Maple Leafs’ top power-play?",
-      "summary": "17919243106722635",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/video/should-mckenna-have-a-permanent-spot-on-the-maple-leafs-top-power-play/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-13T20:49:08Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 1,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/6406783289112.jpg"
-    },
-    {
-      "id": "44d7db0201353737",
-      "title": "Maple Leafs’ Paul details the origins of his ‘Big Twizzler’ nickname",
-      "summary": "17919192696722572",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/video/maple-leafs-paul-details-the-origins-of-his-big-twizzler-nickname/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-13T19:29:35Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 1,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/6406777115112.jpg"
     },
     {
       "id": "dbed8694ca5ccc5a",
@@ -579,32 +631,6 @@
       "isBreaking": false
     },
     {
-      "id": "4312f22cce8cd4b1",
-      "title": "Maple Leafs Notebook: Chris Tanev injury leaves questions",
-      "summary": "George Walker IV/AP Toronto Maple Leafs defenseman Chris Tanev",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/article/maple-leafs-notebook-chris-tanev-injury-leaves-questions/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-12T22:59:26Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 10,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/Toronto-Maple-Leafs-defenseman-Chris-Tanev.jpg"
-    },
-    {
       "id": "15cdfb4e98c24c5b",
       "title": "Saracens sack academy player Auvaa after latest incident",
       "summary": "Saracens sack Totoa Auvaa, the academy player who was involved in a nightclub incident with England cricketers Ben Stokes and Gus Atkinson, after another incident.",
@@ -629,6 +655,32 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10dc/live/a418ab10-70ce-11f1-b217-6f3746be3039.jpg"
+    },
+    {
+      "id": "18c2c85acff1bfb5",
+      "title": "Maple Leafs’ John Tavares re-joins team in Utah after birth of son",
+      "summary": "Nick Iwanyshyn/CP JT",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/article/maple-leafs-john-tavares-re-joins-team-in-utah-after-birth-of-son/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-12T19:06:12Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 4,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2025/10/JT.jpg"
     },
     {
       "id": "4ac2f2c428280091",
@@ -982,32 +1034,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66f1/live/37aa8ab0-b9c7-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "18c2c85acff1bfb5",
-      "title": "Maple Leafs’ John Tavares re-joins team in Utah after birth of son",
-      "summary": "Nick Iwanyshyn/CP JT",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/article/maple-leafs-john-tavares-re-joins-team-in-utah-after-birth-of-son/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-12T19:06:12Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 4,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2025/10/JT.jpg"
-    },
-    {
       "id": "8ef310d6eb8404a7",
       "title": "Maple Leafs’ Auston Matthews named NHL’s first star of week",
       "summary": "auston matthews",
@@ -1162,6 +1188,33 @@
       "imageAlt": "President Trump stops to speak to members of the media as he departs the White House on Oct. 13, 2026."
     },
     {
+      "id": "f1ab7b48a6ceebd4",
+      "title": "‘Super app’ aimed at UK students uses servers owned by Chinese firm on US blacklist",
+      "summary": "ZyMix platform has contract with Tencent, which US alleges has links to People’s Liberation Army A new messaging and payment “super app” marketed at British students uses servers owned by a Chinese company that has been put on a US military blacklist for its alleged affiliation to the People’s Liberation Army. ZyMix, which is being pushed on university campuses as the UK’s first super app designed “for gen Z”, combining chat, payments and community features, has a contract with a German-based subsidiary of Tencent Holdings, a Chinese conglomerate in Shenzhen. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/business/2026/oct/13/super-app-uk-students-servers-china-us-blacklist",
+      "source": "The Guardian China",
+      "publisher": "The Guardian",
+      "published": "2026-10-13T04:00:14Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 896,
+      "readingMinutes": 5,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/87571f2e8fc75dcaddd60f3c67b64dc7c33f0e10/426_0_5101_4081/master/5101.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0ba53e51619f7f9bb5bfdaf15543ba4",
+      "body": "ZyMix platform has contract with Tencent, which US alleges has links to People’s Liberation Army\n\nA new messaging and payment “super app” marketed at British students uses servers owned by a Chinese company that has been put on a US military blacklist for its alleged affiliation to the People’s Liberation Army.\n\nZyMix, which is being pushed on university campuses as the UK’s first super app designed “for gen Z”, combining chat, payments and community features, has a contract with a German-based subsidiary of Tencent Holdings, a Chinese conglomerate in Shenzhen.\n\nTencent Holdings was added in January 2026 to the US Department of Defense’s (DoD) list of Chinese military companies, which is formally known as the section 1260H list.\n\nThe citation on the DoD list says that the company, which is a gaming and social media conglomerate, is indirectly affiliated to the Chinese People’s Liberation Army.\n\nThe blacklist is part of a US attempt to counteract what it regards as Beijing’s efforts to increase its military power by using technology from Chinese firms, universities and research programmes.\n\nThe DoD is prohibited from entering into, renewing or extending contracts for goods, services or technology with any entity on the list although wider sanctions are not automatic.\n\nA Tencent spokesperson said: “Tencent’s inclusion on this list is clearly a mistake. We are not a military company or supplier. Unlike sanctions or export controls, this listing has no impact on our business. We will nonetheless work with the Department of Defense to address any misunderstanding.”\n\nChina’s footprint in higher education in the UK has become a controversial issue. MI5 recently warned British universities to cut ties with the China General Technology Research Institute.\n\nThe domestic intelligence service claimed it was secretly channelling funding from Beijing’s intelligence apparatus to UK-linked academics to improve the technical espionage capabilities of China’s ministry of state security.\n\nThe link between the Chinese-owned infrastructure and ZyMix was initially disclosed in the company’s privacy policy at the time of its launch last week.\n\nThe document, which is legally required, said that Tencent (Frankfurt) stored user-generated content and messages. After the Guardian approached the company, the privacy policy was rewritten and mention of Tencent was removed.\n\nThe policy now states that users’ personal data is stored and processed primarily in the United Kingdom and the EU, adding that “some of our service providers are located in other countries, including the United States”.\n\nIt goes on to say that “auxiliary infrastructure providers, hosted in the EU, receive only encrypted user messages and limited technical data, such as technical statistics, licence validation when the app starts”.\n\nA spokesperson said: “As a newly launched startup, we are updating our privacy notice as we develop our services, including clarifying that Tencent, Twilio and the other providers concerned are used solely for performance testing.”\n\nThe spokesperson added: “Our agreement is with Tencent Cloud Europe BV, which we use for auxiliary services, rather than as the provider that stores ZyMix user data. We take our obligations under UK data protection law seriously.”\n\nThe new privacy policy invites those who wish to know the identity of their suppliers to request the information from the company.\n\nIn response to a request from the Guardian, Tarique Ghaffur, a former assistant commissioner at the Metropolitan police, who described himself as a security consultant for ZyMix, responded.\n\nHe said: “We have reviewed your request as against our private privacy [sic] you mentioned. Unfortunately, at the present time for reasons of commercial confidentiality, contractual obligations and legal privileges, we are not able to provide you with the requested information.”\n\nFraser Sampson, a professor of security and national governance and formerly the UK’s biometrics and surveillance camera commissioner, said he was “sceptical when ‘commercial confidentiality’ arguments are used to duck basic policy questions and amending policy on the fly is never reassuring”.\n\nHe added: “When companies ask us for our personal data, they should expect us to ask them where it’s being kept, for what purpose(s) and who they’re going to share it with – and be prepared to answer fully.”\n\nSam Dunning, the director of the UK-China Transparency NGO, said: “There are serious questions about whether ZyMix have taken due care before launching this product.”\n\nA spokesperson for ZyMix said: “Whilst still in its beta stage, the ZyMix app has been developed to fully comply with all UK data, privacy and financial regulations.”\n\nZyMix is heavily targeting the university market and is offering £200 to £400 a month to people who agree to be brand ambassadors on campuses. Staff roles have also been advertised in the UK by ZyMix for Mandarin-speaking applicants.\n\nOne advert on LinkedIn for the job of operations manager (Mandarin speaking) required “excellent written and verbal communication skills in both English and Mandarin (required for daily communication with the China team)”.\n\nSeparately, a distinct company appeared to be recruiting on behalf of ZyMix on WeChat, the Chinese instant messaging service, saying: “The product, R&D, design and testing team is in Greater China, with branch-company bases covering: Taipei / Shenzhen / Guangzhou / Hangzhou / Chengdu / Zhengzhou.”\n\nGhaffur said that Flicknmix, the UK company that publishes the ZyMix app, “does not have any subsidiaries or branch offices in China. Our aim is to create opportunities within the UK”. A spokesperson for ZyMix described it as “British born”.\n\nTencent\n\nChina\n\nHigher education\n\nSocial media\n\nDigital media\n\nUK security and counter-terrorism\n\nPrivacy\n\nnews",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
       "id": "80455a20c4054bc8",
       "title": "Peel relishing Scarlets' Euro reunion with Jones",
       "summary": "Dwayne Peel is relishing pitting Scarlets against a Newcastle side coached by friend and former half-back partner Stephen Jones in the European Challenge Cup.",
@@ -1304,7 +1357,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b01/live/7a54b2f0-c723-11f1-b881-4391ac746e04.jpg",
-      "body": "Published 6 hours ago\n\nMI5 chief Sir Ken McCallum has said there was Russian interference in the the Brexit referendum, but warned against overstating its impact on the result.\n\nIt comes after Prime Minister Andy Burnham provoked a backlash from some Brexit campaigners by saying it was \"clear\" there had been interference by Moscow in the 2016 vote.\n\nSir Ken said it was \"a matter of public record\" that there was interference in the referendum by online trolls and bots.\n\nHowever, he suggested Russian trolls would be \"delighted\" to be front page news again, \"despite the comparative unimpressiveness\" of their efforts.\n\nHe added: \"There is a really important difference between interference attempted and outcome swayed.\n\n\"I am a little bit anxious that we don't play into our adversaries' hands by making these trolls look 10ft tall.\"\n\nConservative deputy leader Alex Burghart branded Sir Ken's comments \"an extraordinary slap down to the prime minister\".\n\nIn an interview released on Monday, Burnham told The Rest is Politics podcast , external that upon arriving in Downing Street, he had asked if there had been Russian interference in the 2016 vote, adding: \"I've had the clear answer that, yes, there was.\"\n\nHe did not provide details about the extent or nature of Russian activities during the interview, and when pressed on the subject in the House of Commons on Monday afternoon appeared to be less definitive.\n\nThe PM denied claims from Conservative leader Kemi Badenoch that he was implying the referendum result was illegitimate because of Russian interference.\n\nHe said it was a \"matter of record\" that Russia sought to interfere in the 2019 general election , adding: \"We think it is inconceivable that this was the first time\".\n\nA No 10 spokesperson also clarified that while the prime minister believed it was highly likely Russia tried to influence the referendum result, he did not believe those efforts were successful.\n\nThe Conservatives accused Burnham of making an \"embarrassing retreat\" after \"being caught out trying question the legitimacy of the referendum result\".\n\nIt is inconceivable to think Russia did not try to interfere in Brexit vote, says PM Published 1 day ago\n\nMI5 chief warns of threats to UK from Russia, Iran and AI Published 7 hours ago\n\nIs Burnham right to blame Russia for spreading online disinformation? Published 23 September\n\nAnswering questions after his annual speech at MI5's London headquarters earlier, Sir Ken said: \"It is openly on the record that Russia Today and Sputnik and other Russian media organisations came in pretty strongly around the referendum.\n\n\"And it is also a matter of open source record that there was a certain amount of interference attempted through trolls and bots and so forth.\"\n\nHe added that he agreed \"strongly\" with the PM that there was a hack and leak during the 2019 general election campaign.\n\nHowever, he raised concerns about the impact of the debate on Russian interference.\n\n\"It is kind of up to us how far we allow our various adversaries to divide us,\" Sir Ken said.\n\n\"And I'm a little bit worried that if we all stay in this debate for another few days, that Russian trolls who didn't appear to do all that much at various points over the years, they'll be delighted because they are front page news again despite the comparative unimpressiveness of what they do at all points along the journey.\"\n\nReform UK leader Nigel Farage has accused Burnham of lying, saying there was \"no Russian interference\" in the referendum.\n\nMeanwhile, former Prime Minister Boris Johnson said that in 2016, when he became foreign secretary, the security services had told him \"there was no evidence of any successful interference in the 2016 referendum, by Russia or any other power\".\n\nHe added: \"Either the security services have changed their view - which would be very odd - or Burnham is lying about what he has been told.\"\n\nIn 2020, a parliamentary report did not reach a firm conclusion on whether Russia had tried to intervene in UK elections and referendums, but criticised the government for failing to fully assess and counter the threat from Russian \"troll\" accounts on social media.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nBrexit\n\nRussia",
+      "body": "Published 13 October 2026\n\nMI5 chief Sir Ken McCallum has said there was Russian interference in the the Brexit referendum, but warned against overstating its impact on the result.\n\nIt comes after Prime Minister Andy Burnham provoked a backlash from some Brexit campaigners by saying it was \"clear\" there had been interference by Moscow in the 2016 vote.\n\nSir Ken said it was \"a matter of public record\" that there was interference in the referendum by online trolls and bots.\n\nHowever, he suggested Russian trolls would be \"delighted\" to be front page news again, \"despite the comparative unimpressiveness\" of their efforts.\n\nHe added: \"There is a really important difference between interference attempted and outcome swayed.\n\n\"I am a little bit anxious that we don't play into our adversaries' hands by making these trolls look 10ft tall.\"\n\nConservative deputy leader Alex Burghart branded Sir Ken's comments \"an extraordinary slap down to the prime minister\".\n\nIn an interview released on Monday, Burnham told The Rest is Politics podcast , external that upon arriving in Downing Street, he had asked if there had been Russian interference in the 2016 vote, adding: \"I've had the clear answer that, yes, there was.\"\n\nHe did not provide details about the extent or nature of Russian activities during the interview, and when pressed on the subject in the House of Commons on Monday afternoon appeared to be less definitive.\n\nThe PM denied claims from Conservative leader Kemi Badenoch that he was implying the referendum result was illegitimate because of Russian interference.\n\nHe said it was a \"matter of record\" that Russia sought to interfere in the 2019 general election , adding: \"We think it is inconceivable that this was the first time\".\n\nA No 10 spokesperson also clarified that while the prime minister believed it was highly likely Russia tried to influence the referendum result, he did not believe those efforts were successful.\n\nThe Conservatives accused Burnham of making an \"embarrassing retreat\" after \"being caught out trying question the legitimacy of the referendum result\".\n\nIt is inconceivable to think Russia did not try to interfere in Brexit vote, says PM Published 1 day ago\n\nMI5 chief warns of threats to UK from Russia, Iran and AI Published 12 hours ago\n\nIs Burnham right to blame Russia for spreading online disinformation? Published 23 September\n\nAnswering questions after his annual speech at MI5's London headquarters earlier, Sir Ken said: \"It is openly on the record that Russia Today and Sputnik and other Russian media organisations came in pretty strongly around the referendum.\n\n\"And it is also a matter of open source record that there was a certain amount of interference attempted through trolls and bots and so forth.\"\n\nHe added that he agreed \"strongly\" with the PM that there was a hack and leak during the 2019 general election campaign.\n\nHowever, he raised concerns about the impact of the debate on Russian interference.\n\n\"It is kind of up to us how far we allow our various adversaries to divide us,\" Sir Ken said.\n\n\"And I'm a little bit worried that if we all stay in this debate for another few days, that Russian trolls who didn't appear to do all that much at various points over the years, they'll be delighted because they are front page news again despite the comparative unimpressiveness of what they do at all points along the journey.\"\n\nReform UK leader Nigel Farage has accused Burnham of lying, saying there was \"no Russian interference\" in the referendum.\n\nMeanwhile, former Prime Minister Boris Johnson said that in 2016, when he became foreign secretary, the security services had told him \"there was no evidence of any successful interference in the 2016 referendum, by Russia or any other power\".\n\nHe added: \"Either the security services have changed their view - which would be very odd - or Burnham is lying about what he has been told.\"\n\nIn 2020, a parliamentary report did not reach a firm conclusion on whether Russia had tried to intervene in UK elections and referendums, but criticised the government for failing to fully assess and counter the threat from Russian \"troll\" accounts on social media.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nBrexit\n\nRussia",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1375,12 +1428,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1104,
+      "wordCount": 1101,
       "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e75b/live/c83fa290-c70a-11f1-9a39-31b474234113.jpg",
-      "body": "Men were seen leaving HMP Durham\n\nPublished 13 October 2026, 02:13 BST\n\nAbout 650 more offenders are leaving jails in England and Wales on Tuesday, in the second phase of the early release scheme - the government's plan to tackle the prison population crisis.\n\nIt includes offenders sentenced to up to two and a half years who are leaving jail after serving a third of their sentence behind bars, rather than half.\n\nThe second wave of releases comes as the government takes its plan to radically overhaul criminal courts back to Parliament - but also as probation officers prepare to vote in a ballot that could lead to a strike over pay and workload.\n\nSome 700 offenders left jail early on 1 October - all of whom were serving terms of less than 19 months.\n\nTuesday's second stage begins the process of releasing batches of offenders on increasingly longer sentences - culminating next June with those serving more than 12 years.\n\nAround 5,000 prisoners are scheduled to be released, down from 6,000 after ministers intervened to make rapists and the most serious child sex offenders exempt.\n\nPrisoners convicted of manslaughter are also excluded, meaning the killers of PC Andrew Harper, who died in the line of duty in 2019, will not be eligible. Those jailed for a range of offences, including members of child grooming gangs convicted of indecent assault are also ineligible.\n\nConservative leader Kemi Badenoch said \"the programme is clearly not working,\" stating she is \"worried about dangerous people being let out on the street when they haven't served their sentence, haven't been rehabilitated\".\n\nVictims' groups have also raised concerns about the scheme.\n\nAlice Russell-Harris from the charity Refuge - which supports survivors of domestic abuse - told the BBC that domestic abuse perpetrators are among those being released.\n\nThis \"will put survivors at serious risk of harm,\" she said, adding that even though there may be conditions such as electronic tagging and restriction zones, \"we know that license conditions are frequently breached.\"\n\nThe early release scheme is \"terrifying for survivors,\" said Veronica Oakeshott from the charity Women's Aid.\n\nReports of failures in the electronic tagging system have added to their concerns. The scheme is \"dangerous and should not go ahead,\" Oakeshott told the BBC.\n\nA released prisoner is greeted by a friend as he leaves HMP Wandsworth prison in south London as part of the early release scheme\n\nTypically, those being released should expect to be electronically tagged and subject to other monitoring conditions for the second third of their sentence.\n\nBut the probation service union, Napo, said the releases put enormous strain on its members, who monitor offenders in the community.\n\nProbation officers are \"absolutely overwhelmed with work,\" Napo's general secretary Ian Lawrence told the BBC, saying those being released require \"intensive supervision\" and \"the sheer weight of numbers causes pressure\".\n\n\"None of our people go to work to see people injured, hurt, or for reoffending to happen,\" he said, but the numbers coming out means the probation service need more resources.\n\nThere are also concerns over delays in fitting electronic tags, which are used by probation officers to track curfews and conditions of a court or prison order.\n\nA report by His Majesty's Inspectorate of Probation (HMIP) found that almost half of the tags used to track offenders are not fitted on time, with some criminals waiting up to five months.\n\nOfficial data which will show if there has been any improvement to electronic tagging will not be released for several months.\n\nOn Tuesday, the union's members will meet to discuss next week's vote, which could lead to strike action. Probation officers have been offered a 5% pay rise by the Ministry of Justice (MoJ), while it had demanded 12% as part of a plan to make up for loss of earnings caused by cuts from 2010.\n\nThe MoJ says the offer is fair and has been accepted by two other unions and is twinned with a £700m investment in probation to recruit 1,300 extra officers and the roll-out of AI tools to cut the workload of monitoring offenders.\n\nSeveral people were released under the first tranche of the scheme are already back behind bars. Eight men were arrested by Greater Manchester Police (GMP) days after leaving prison under the government's early release scheme.\n\nFive were arrested for breaches of criminal orders, including a domestic abuse prevention order, and others were held on suspicion of robbery, drug offences and domestic violence, GMP said.\n\nWhile the second phase of prison releases gets under way, the government is bringing its criminal court reform plan back before MPs, after announcing a week ago that it had abandoned the most controversial element of it.\n\nThe revised plan drops proposals for a new form of Crown Court where a judge alone, sitting without a jury of ordinary people, would reach a verdict against suspects facing up to three years in prison.\n\nHowever, jury trials will still be scrapped for the most complex and long fraud cases - and another 5,500 trials will be kept in the lower magistrates court by ending a defendant's right to ask for a jury trial.\n\nThe government says it will expand the use of so-called \"blitz\" or \"short trial\" courts after pilots have shown that grouping similar cases together can speed up their progression through the courts - cutting backlogs.\n\nOne of the pilots at the Old Bailey led to the London backlog of 500 cases concerning assaults on emergency workers being cut in half over the summer.\n\nA major review of criminal courts by former appeal judge Sir Brian Leveson recommended more virtual hearings for defendants to slash wasted time bringing them to and from cells. The government has now ordered pilots for defendants to appear direct from police cells.\n\nOn Monday, the government announced it had accepted more than 150 of his 180 recommendations to modernise the criminal courts.\n\nIt has rejected his advice to retain a restriction on volunteer magistrates that means they can only jail an offender for 12 months. Under the government's plan magistrates will have the power to jail for up to two years - the aim being to keep more cases out of Crown Court, to help clear backlogs.\n\nGet in touch\n\nHave you been affected by the issues in this story? Share your experience\n\nRelated topics\n\nPrisons\n\nMore on this story\n\nEarly release scheme prisoner jailed days after leaving Published 4 days ago\n\nHow the new prison release scheme will work - and number of inmates to be freed Published 1 October\n\nHundreds of criminals start leaving prison under new early release scheme Published 1 October",
+      "body": "Men were seen leaving HMP Durham\n\nPublished 13 October 2026\n\nAbout 650 more offenders are leaving jails in England and Wales on Tuesday, in the second phase of the early release scheme - the government's plan to tackle the prison population crisis.\n\nIt includes offenders sentenced to up to two and a half years who are leaving jail after serving a third of their sentence behind bars, rather than half.\n\nThe second wave of releases comes as the government takes its plan to radically overhaul criminal courts back to Parliament - but also as probation officers prepare to vote in a ballot that could lead to a strike over pay and workload.\n\nSome 700 offenders left jail early on 1 October - all of whom were serving terms of less than 19 months.\n\nTuesday's second stage begins the process of releasing batches of offenders on increasingly longer sentences - culminating next June with those serving more than 12 years.\n\nAround 5,000 prisoners are scheduled to be released, down from 6,000 after ministers intervened to make rapists and the most serious child sex offenders exempt.\n\nPrisoners convicted of manslaughter are also excluded, meaning the killers of PC Andrew Harper, who died in the line of duty in 2019, will not be eligible. Those jailed for a range of offences, including members of child grooming gangs convicted of indecent assault are also ineligible.\n\nConservative leader Kemi Badenoch said \"the programme is clearly not working,\" stating she is \"worried about dangerous people being let out on the street when they haven't served their sentence, haven't been rehabilitated\".\n\nVictims' groups have also raised concerns about the scheme.\n\nAlice Russell-Harris from the charity Refuge - which supports survivors of domestic abuse - told the BBC that domestic abuse perpetrators are among those being released.\n\nThis \"will put survivors at serious risk of harm,\" she said, adding that even though there may be conditions such as electronic tagging and restriction zones, \"we know that license conditions are frequently breached.\"\n\nThe early release scheme is \"terrifying for survivors,\" said Veronica Oakeshott from the charity Women's Aid.\n\nReports of failures in the electronic tagging system have added to their concerns. The scheme is \"dangerous and should not go ahead,\" Oakeshott told the BBC.\n\nA released prisoner is greeted by a friend as he leaves HMP Wandsworth prison in south London as part of the early release scheme\n\nTypically, those being released should expect to be electronically tagged and subject to other monitoring conditions for the second third of their sentence.\n\nBut the probation service union, Napo, said the releases put enormous strain on its members, who monitor offenders in the community.\n\nProbation officers are \"absolutely overwhelmed with work,\" Napo's general secretary Ian Lawrence told the BBC, saying those being released require \"intensive supervision\" and \"the sheer weight of numbers causes pressure\".\n\n\"None of our people go to work to see people injured, hurt, or for reoffending to happen,\" he said, but the numbers coming out means the probation service need more resources.\n\nThere are also concerns over delays in fitting electronic tags, which are used by probation officers to track curfews and conditions of a court or prison order.\n\nA report by His Majesty's Inspectorate of Probation (HMIP) found that almost half of the tags used to track offenders are not fitted on time, with some criminals waiting up to five months.\n\nOfficial data which will show if there has been any improvement to electronic tagging will not be released for several months.\n\nOn Tuesday, the union's members will meet to discuss next week's vote, which could lead to strike action. Probation officers have been offered a 5% pay rise by the Ministry of Justice (MoJ), while it had demanded 12% as part of a plan to make up for loss of earnings caused by cuts from 2010.\n\nThe MoJ says the offer is fair and has been accepted by two other unions and is twinned with a £700m investment in probation to recruit 1,300 extra officers and the roll-out of AI tools to cut the workload of monitoring offenders.\n\nSeveral people were released under the first tranche of the scheme are already back behind bars. Eight men were arrested by Greater Manchester Police (GMP) days after leaving prison under the government's early release scheme.\n\nFive were arrested for breaches of criminal orders, including a domestic abuse prevention order, and others were held on suspicion of robbery, drug offences and domestic violence, GMP said.\n\nWhile the second phase of prison releases gets under way, the government is bringing its criminal court reform plan back before MPs, after announcing a week ago that it had abandoned the most controversial element of it.\n\nThe revised plan drops proposals for a new form of Crown Court where a judge alone, sitting without a jury of ordinary people, would reach a verdict against suspects facing up to three years in prison.\n\nHowever, jury trials will still be scrapped for the most complex and long fraud cases - and another 5,500 trials will be kept in the lower magistrates court by ending a defendant's right to ask for a jury trial.\n\nThe government says it will expand the use of so-called \"blitz\" or \"short trial\" courts after pilots have shown that grouping similar cases together can speed up their progression through the courts - cutting backlogs.\n\nOne of the pilots at the Old Bailey led to the London backlog of 500 cases concerning assaults on emergency workers being cut in half over the summer.\n\nA major review of criminal courts by former appeal judge Sir Brian Leveson recommended more virtual hearings for defendants to slash wasted time bringing them to and from cells. The government has now ordered pilots for defendants to appear direct from police cells.\n\nOn Monday, the government announced it had accepted more than 150 of his 180 recommendations to modernise the criminal courts.\n\nIt has rejected his advice to retain a restriction on volunteer magistrates that means they can only jail an offender for 12 months. Under the government's plan magistrates will have the power to jail for up to two years - the aim being to keep more cases out of Crown Court, to help clear backlogs.\n\nGet in touch\n\nHave you been affected by the issues in this story? Share your experience\n\nRelated topics\n\nPrisons\n\nMore on this story\n\nEarly release scheme prisoner jailed days after leaving Published 4 days ago\n\nHow the new prison release scheme will work - and number of inmates to be freed Published 1 October\n\nHundreds of criminals start leaving prison under new early release scheme Published 1 October",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1407,7 +1460,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9faf/live/bad3a500-c711-11f1-bc2e-018d645d8d21.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on this story.\n\nSubsection Politics\n\nPublished 9 hours ago\n\nRelated topics\n\nEuropean Union Follow European Union close panel You are now following European Union Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nBrexit Follow Brexit close panel You are now following Brexit Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on this story.\n\nSubsection Politics\n\nPublished 14 hours ago\n\nRelated topics\n\nEuropean Union Follow European Union close panel You are now following European Union Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nBrexit Follow Brexit close panel You are now following Brexit Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1510,12 +1563,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 934,
+      "wordCount": 931,
       "readingMinutes": 5,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2a43/live/e47ef4b0-c6e2-11f1-bc2e-018d645d8d21.jpg",
-      "body": "The Plaid Cymru-led administration has agreed to fund an extra £60m for children with additional learning needs\n\nPublished 13 October 2026, 10:00 BST\n\nThe Welsh government has reached a deal with Labour on its mini-budget, which had failed to pass in the summer.\n\nMinisters said the Plaid Cymru-led administration had now agreed an extra £60m for the education of children with additional learning needs (ALN).\n\nLabour, which sits in opposition after losing May's Senedd election, had rejected a £40m a year deal across three years, in angry scenes at the Welsh Parliament in the last week of term in July.\n\nWelsh Labour leader Ken Skates had demanded £100m this year when the supplementary budget was last discussed.\n\nReform said the deal was good for Plaid and Labour but not Wales.\n\nDespite the agreement with Labour, headteachers union NAHT expressed \"deep disappointment\" at the level of funding.\n\nDrakeford says Labour made mistakes in failed mini-budget talks Published 28 September\n\nThe budget will be debated in the Senedd on 3 November.\n\nOn Tuesday, First Minister Rhun ap Iorwerth said: \"This agreement reflects what can be achieved when parties across the Senedd work together.\"\n\nSkates said Labour had \"managed to secure a significant cash injection for schools\".\n\n\"While we still believe the Welsh government should be setting aside more for ALN in schools, it is a welcome first step in dealing with the need to better fund schools,\" he said.\n\nPlaid Cymru's original mini-budget included £100m for the NHS to bring down waiting times, £55m for childcare and £40m for school repairs.\n\nIf the supplementary budget is not passed then the government would have to find other ways to fund its new plans.\n\nHelen Jenner, leader of Reform Wales, said: \"While we welcome extra support for additional learning needs provision, the Welsh government is still sending millions of pounds of taxpayers' money overseas while our public services suffer here at home.\"\n\nFormer Welsh Labour leader Mark Drakeford previously said his party had made mistakes in how it handled negotiations with Plaid over the summer, and suggested there was a case to be made to take the money that had been previously offered by Plaid.\n\nFollowing Tuesday's announcement, Llŷr Powell, Reform's chief whip, said: \"When Mark Drakeford speaks, Ken Skates starts dancing.\"\n\nDarren Millar, leader of the Welsh Conservatives in the Senedd, said the deal was \"merely a continuation of the same failed budget approach by the Labour-Plaid duopoly that has been letting down the people of Wales for decades\".\n\nIt is not known yet if Labour will vote for or abstain on the budget as part of the deal.\n\nIf Labour abstain Plaid would need the support of the Greens and Lib Dem MS Jane Dodds\n\nSkates did not say which way his party would go, telling BBC Wales on Tuesday: \"We're going to make a final decision on that but certainly we will not stop the budget from passing.\"\n\nWelsh Labour leader Ken Skates had demanded £100m a year for ALN before accepting the government's £60m offer\n\nALN is the equivalent education system in Wales to special educational needs and disabilities (SEND) in England.\n\nThe Welsh government received extra cash as a result of more SEND spending in England to help schools struggling with debt, and Labour had argued for some of that to be given to schools in Wales.\n\nRob Kelsall, assistant general secretary of NAHT, said school leaders across Wales would be asking \"what happened to the £322m that became available to Wales as a result of additional SEND funding in England?\"\n\nHe said: \"What has emerged is a package that falls substantially short of that figure and asks schools to be grateful for receiving only a fraction of what should have been available to learners with additional needs.\"\n\nWelsh Education Minister, Anna Brychan, said ministers remained in \"active discussions\" with NAHT Cymru.\n\nShe said ALN was a \"key priority\" for her, and she recognised the \"significant financial and operational pressures\" facing schools and colleges.\n\n\"It is my hope that this additional funding, to be used in-year, will alleviate some of the more immediate financial and operational pressures facing schools, colleges, local authorities and support services,\" she added.\n\nThere were angry scenes in the Senedd in July when the Plaid Cymru government brought its supplementary budget to a vote without a deal in place.\n\nPlaid failed to get any opposition support for the package.\n\nFinance Minister Elin Jones accused Labour of behaving as a \"destructive opposition\" at the time.\n\nTory Senedd leader Millar said the decision to vote on the budget anyway was \"bonkers\".\n\nThe first minister later said his government had learned \"lessons\" from the episode, and promised to improve the way his government engaged with others.\n\nIt was not clear if the £60m offered in the deal is annual, and Brychan said allocation for future years would be part of the preparations for the draft budget for 2027-28.\n\nTalks are ongoing with other parties for the Welsh government's full annual spending plans, which will be voted on by the Senedd early next year.\n\nOf the £60m, £56m will be split between schools and councils - 80% to schools and 20% to councils.\n\nAnother £1.5m will be spent on a long-term sustainability plan, and £2.5m for the further education sector.\n\nRelated topics\n\nWales\n\nMore top stories\n\nAmy Dowden praised for 'iconic' clapback at ex-Strictly professional dancer Published 1 day ago\n\nPlans for new national park may be scrapped this week, campaigners say Published 1 day ago\n\nTeen 'detached from reality' to cope with return of aggressive cancer Published 1 day ago",
+      "body": "The Plaid Cymru-led administration has agreed to fund an extra £60m for children with additional learning needs\n\nPublished 13 October 2026\n\nThe Welsh government has reached a deal with Labour on its mini-budget, which had failed to pass in the summer.\n\nMinisters said the Plaid Cymru-led administration had now agreed an extra £60m for the education of children with additional learning needs (ALN).\n\nLabour, which sits in opposition after losing May's Senedd election, had rejected a £40m a year deal across three years, in angry scenes at the Welsh Parliament in the last week of term in July.\n\nWelsh Labour leader Ken Skates had demanded £100m this year when the supplementary budget was last discussed.\n\nReform said the deal was good for Plaid and Labour but not Wales.\n\nDespite the agreement with Labour, headteachers union NAHT expressed \"deep disappointment\" at the level of funding.\n\nDrakeford says Labour made mistakes in failed mini-budget talks Published 28 September\n\nThe budget will be debated in the Senedd on 3 November.\n\nOn Tuesday, First Minister Rhun ap Iorwerth said: \"This agreement reflects what can be achieved when parties across the Senedd work together.\"\n\nSkates said Labour had \"managed to secure a significant cash injection for schools\".\n\n\"While we still believe the Welsh government should be setting aside more for ALN in schools, it is a welcome first step in dealing with the need to better fund schools,\" he said.\n\nPlaid Cymru's original mini-budget included £100m for the NHS to bring down waiting times, £55m for childcare and £40m for school repairs.\n\nIf the supplementary budget is not passed then the government would have to find other ways to fund its new plans.\n\nHelen Jenner, leader of Reform Wales, said: \"While we welcome extra support for additional learning needs provision, the Welsh government is still sending millions of pounds of taxpayers' money overseas while our public services suffer here at home.\"\n\nFormer Welsh Labour leader Mark Drakeford previously said his party had made mistakes in how it handled negotiations with Plaid over the summer, and suggested there was a case to be made to take the money that had been previously offered by Plaid.\n\nFollowing Tuesday's announcement, Llŷr Powell, Reform's chief whip, said: \"When Mark Drakeford speaks, Ken Skates starts dancing.\"\n\nDarren Millar, leader of the Welsh Conservatives in the Senedd, said the deal was \"merely a continuation of the same failed budget approach by the Labour-Plaid duopoly that has been letting down the people of Wales for decades\".\n\nIt is not known yet if Labour will vote for or abstain on the budget as part of the deal.\n\nIf Labour abstain Plaid would need the support of the Greens and Lib Dem MS Jane Dodds\n\nSkates did not say which way his party would go, telling BBC Wales on Tuesday: \"We're going to make a final decision on that but certainly we will not stop the budget from passing.\"\n\nWelsh Labour leader Ken Skates had demanded £100m a year for ALN before accepting the government's £60m offer\n\nALN is the equivalent education system in Wales to special educational needs and disabilities (SEND) in England.\n\nThe Welsh government received extra cash as a result of more SEND spending in England to help schools struggling with debt, and Labour had argued for some of that to be given to schools in Wales.\n\nRob Kelsall, assistant general secretary of NAHT, said school leaders across Wales would be asking \"what happened to the £322m that became available to Wales as a result of additional SEND funding in England?\"\n\nHe said: \"What has emerged is a package that falls substantially short of that figure and asks schools to be grateful for receiving only a fraction of what should have been available to learners with additional needs.\"\n\nWelsh Education Minister, Anna Brychan, said ministers remained in \"active discussions\" with NAHT Cymru.\n\nShe said ALN was a \"key priority\" for her, and she recognised the \"significant financial and operational pressures\" facing schools and colleges.\n\n\"It is my hope that this additional funding, to be used in-year, will alleviate some of the more immediate financial and operational pressures facing schools, colleges, local authorities and support services,\" she added.\n\nThere were angry scenes in the Senedd in July when the Plaid Cymru government brought its supplementary budget to a vote without a deal in place.\n\nPlaid failed to get any opposition support for the package.\n\nFinance Minister Elin Jones accused Labour of behaving as a \"destructive opposition\" at the time.\n\nTory Senedd leader Millar said the decision to vote on the budget anyway was \"bonkers\".\n\nThe first minister later said his government had learned \"lessons\" from the episode, and promised to improve the way his government engaged with others.\n\nIt was not clear if the £60m offered in the deal is annual, and Brychan said allocation for future years would be part of the preparations for the draft budget for 2027-28.\n\nTalks are ongoing with other parties for the Welsh government's full annual spending plans, which will be voted on by the Senedd early next year.\n\nOf the £60m, £56m will be split between schools and councils - 80% to schools and 20% to councils.\n\nAnother £1.5m will be spent on a long-term sustainability plan, and £2.5m for the further education sector.\n\nRelated topics\n\nWales\n\nMore top stories\n\nAmy Dowden praised for 'iconic' clapback at ex-Strictly professional dancer Published 1 day ago\n\nPlans for new national park may be scrapped this week, campaigners say Published 1 day ago\n\nTeen 'detached from reality' to cope with return of aggressive cancer Published 1 day ago",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1637,12 +1690,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 868,
+      "wordCount": 865,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5a5e/live/c20b7a80-c6d2-11f1-9a39-31b474234113.jpg",
-      "body": "Published 13 October 2026, 03:00 BST\n\nThe UK economy is forecast to grow by more than previously expected this year before higher energy prices and interest rates hit the economy in 2027, the International Monetary Fund (IMF) said.\n\nThe organisation's latest report, which is closely watched by the government, said the UK economy would expand by 1.3% in 2026, up from the 1% it predicted in July, before slowing in 2027.\n\nEconomies across the world have proved more resilient to the energy price shock caused by the US-Iran war, the IMF said, but it warned the economic fallout from the conflict remained \"highly uncertain\".\n\nChancellor John Healey said the government would look to \"provide some breathing space\" for households in the Budget.\n\nHealey is making the final preparations to Andy Burnham's new-look government's tax and spending plans, which will be announced on 28 October.\n\nGovernment borrowing costs have surged, placing pressure on the chancellor to ensure his plans are credible in the eyes of financial markets, which the UK relies on to borrow money.\n\nBut IMF chief economist Silvana Tenreyro told BBC News on Tuesday that the UK's process of managing its debts is now leading the major G7 economies.\n\n\"As you know, the UK has already started the consolidation process and it is the country that basically stands out, along with India\", she said.\n\nThe organisation said the UK is one of the only major economies on course to stabilise levels of national debt. The UK is also projected to have the lowest annual borrowing in the G7 in 2031.\n\nAsked if the UK was one of the countries the IMF was telling to reduce borrowing, Tenreyro said that the country had begun the process already and should \"stay the course\".\n\nThe head of the IMF has previously called on the world's advanced economies to cut borrowing and reduce debt levels.\n\nWhile the IMF's forecasts are closely watched, the figures are only a prediction, a best estimate, of what will happen in the future. Forecasts often turn out to be incorrect due to world events.\n\nAlso, the chancellor's spending decisions at the Budget will be based on predictions from the UK's official forecaster, the Office for Budget Responsibility, not the IMF.\n\nThe predictions in the IMF's latest World Economic Outlook suggest:\n\nthe UK is expected to have the second-fastest growing economy in the G7 this year along with Germany\n\nUK growth is set to slow next year to 1.2% as higher energy prices and long-term interest rates hit household spending and business investment\n\nUK inflation is expected to average 3.3% this year, and the IMF has increased its forecast for inflation next year to 2.8%.\n\nthe IMF said the global economy was \"proving resilient\" despite the ongoing war in the Middle East, helped by the investment surge in AI.\n\nThree things we've learnt about the UK economy from the IMF Published 11 hours ago\n\nWhat is the Budget and what could be in it? Published 9 hours ago\n\n'Slow bicycle race'\n\nHealey acknowledged that wars in the Middle East and Europe were \"hitting people in the UK and around the world\", but added that \"Britain's economy is showing strong international resilience\".\n\nWhen the economy is growing, businesses tend to invest more, more jobs are created and people, on average, tend to feel better off. The opposite can occur if the economy stagnates or shrinks.\n\nSir Howard Davies, former deputy governor of the Bank of England, told the BBC the IMF's growth forecast was \"better than it might have been\", but noted that for 2027 it remained \"more pessimistic\".\n\n\"We're still growing slowly. It's almost like saying we're winning a slow bicycle race here because other people are going backwards a bit more rapidly than we are,\" he added.\n\nSir Howard said the UK was \"a bit of a sideshow\" when it comes to the global economy and the IMF was more focused on how much the US is adding to its debt pile.\n\n\"That is what is putting pressure on interest rates all over the world and that is what is affecting us as well. Unless the US does something about its deficit, we can expect interest rates to be higher, which of course increases our debt interest costs,\" he said.\n\nHe added that the IMF was giving the UK credit in its forecast for tax rises which it might not end up actually putting through.\n\nEconomists have suggested Healey faces having to find £35bn to avoid cuts to public spending while meeting defence promises in his first Budget.\n\nOn Tuesday, the Resolution Foundation called on the chancellor to \"make repairs\" to the public finances, but said well-targeted support was needed for those \"struggling to heat their homes\".\n\nAndrew Griffith, Conservative shadow chancellor, said if Healey \"reaches for more tax rises\" in his Budget, \"he is choosing slower growth and working people will pay for it\".\n\nGet in touch\n\nHow have you been affected by the issues in this story? Share your experience\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nUK economy\n\nInflation\n\nInternational Monetary Fund (IMF)\n\nEconomic growth",
+      "body": "Published 13 October 2026\n\nThe UK economy is forecast to grow by more than previously expected this year before higher energy prices and interest rates hit the economy in 2027, the International Monetary Fund (IMF) said.\n\nThe organisation's latest report, which is closely watched by the government, said the UK economy would expand by 1.3% in 2026, up from the 1% it predicted in July, before slowing in 2027.\n\nEconomies across the world have proved more resilient to the energy price shock caused by the US-Iran war, the IMF said, but it warned the economic fallout from the conflict remained \"highly uncertain\".\n\nChancellor John Healey said the government would look to \"provide some breathing space\" for households in the Budget.\n\nHealey is making the final preparations to Andy Burnham's new-look government's tax and spending plans, which will be announced on 28 October.\n\nGovernment borrowing costs have surged, placing pressure on the chancellor to ensure his plans are credible in the eyes of financial markets, which the UK relies on to borrow money.\n\nBut IMF chief economist Silvana Tenreyro told BBC News on Tuesday that the UK's process of managing its debts is now leading the major G7 economies.\n\n\"As you know, the UK has already started the consolidation process and it is the country that basically stands out, along with India\", she said.\n\nThe organisation said the UK is one of the only major economies on course to stabilise levels of national debt. The UK is also projected to have the lowest annual borrowing in the G7 in 2031.\n\nAsked if the UK was one of the countries the IMF was telling to reduce borrowing, Tenreyro said that the country had begun the process already and should \"stay the course\".\n\nThe head of the IMF has previously called on the world's advanced economies to cut borrowing and reduce debt levels.\n\nWhile the IMF's forecasts are closely watched, the figures are only a prediction, a best estimate, of what will happen in the future. Forecasts often turn out to be incorrect due to world events.\n\nAlso, the chancellor's spending decisions at the Budget will be based on predictions from the UK's official forecaster, the Office for Budget Responsibility, not the IMF.\n\nThe predictions in the IMF's latest World Economic Outlook suggest:\n\nthe UK is expected to have the second-fastest growing economy in the G7 this year along with Germany\n\nUK growth is set to slow next year to 1.2% as higher energy prices and long-term interest rates hit household spending and business investment\n\nUK inflation is expected to average 3.3% this year, and the IMF has increased its forecast for inflation next year to 2.8%.\n\nthe IMF said the global economy was \"proving resilient\" despite the ongoing war in the Middle East, helped by the investment surge in AI.\n\nThree things we've learnt about the UK economy from the IMF Published 16 hours ago\n\nWhat is the Budget and what could be in it? Published 14 hours ago\n\n'Slow bicycle race'\n\nHealey acknowledged that wars in the Middle East and Europe were \"hitting people in the UK and around the world\", but added that \"Britain's economy is showing strong international resilience\".\n\nWhen the economy is growing, businesses tend to invest more, more jobs are created and people, on average, tend to feel better off. The opposite can occur if the economy stagnates or shrinks.\n\nSir Howard Davies, former deputy governor of the Bank of England, told the BBC the IMF's growth forecast was \"better than it might have been\", but noted that for 2027 it remained \"more pessimistic\".\n\n\"We're still growing slowly. It's almost like saying we're winning a slow bicycle race here because other people are going backwards a bit more rapidly than we are,\" he added.\n\nSir Howard said the UK was \"a bit of a sideshow\" when it comes to the global economy and the IMF was more focused on how much the US is adding to its debt pile.\n\n\"That is what is putting pressure on interest rates all over the world and that is what is affecting us as well. Unless the US does something about its deficit, we can expect interest rates to be higher, which of course increases our debt interest costs,\" he said.\n\nHe added that the IMF was giving the UK credit in its forecast for tax rises which it might not end up actually putting through.\n\nEconomists have suggested Healey faces having to find £35bn to avoid cuts to public spending while meeting defence promises in his first Budget.\n\nOn Tuesday, the Resolution Foundation called on the chancellor to \"make repairs\" to the public finances, but said well-targeted support was needed for those \"struggling to heat their homes\".\n\nAndrew Griffith, Conservative shadow chancellor, said if Healey \"reaches for more tax rises\" in his Budget, \"he is choosing slower growth and working people will pay for it\".\n\nGet in touch\n\nHow have you been affected by the issues in this story? Share your experience\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nUK economy\n\nInflation\n\nInternational Monetary Fund (IMF)\n\nEconomic growth",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1712,12 +1765,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1119,
+      "wordCount": 1116,
       "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/653a/live/e925f4d0-bd9d-11f1-8373-27235719cf2a.png",
-      "body": "Dr Allison Gardner, the Labour MP for Stoke-on-Trent South, is leading a group of MPs to improve recognition of chronic UTIs\n\nPublished 13 October 2026, 06:38 BST\n\nWarning: This story contains reference to suicide\n\nAn MP says she was left \"feeling like a drug user\" while trying desperately to find pain relief for chronic urinary tract infections (UTIs).\n\nLabour MP Dr Allison Gardner has been living with the \"searing pain\" of recurrent infections for about 10 years, after first experiencing symptoms with perimenopause.\n\nAccording to the Chronic Urinary Tract Infection Campaign (CUTIC), more than 1.6 million women in the UK suffer from chronic lower urinary tract symptoms, but there is no official medical definition of the condition.\n\nThat is something Gardner is trying to change, with the support of a cross party group of MPs in Parliament.\n\nGardner told the BBC how a lack of consensus on what constituted a chronic UTI left her feeling sidelined by doctors, who did not always understand the condition and were limited in the length of antibiotic courses they could prescribe.\n\n\"You end up hunting for a decent length of antibiotic courses that will give you some relief,\" she said.\n\nUTIs are caused by bacteria entering the urethra , external . As women have a shorter urethra than men, bacteria are more likely to reach the bladder or kidneys and cause an infection.\n\nChronic UTIs are infections where symptoms do not go away, and do not clear with a short course of antibiotics. They can also be difficult to diagnose, due to a lower level of bacteria shown in urine samples.\n\nGardner told the BBC she had considered selling her home to pay for bladder removal surgery after years of pain\n\n\"It's a searing pain every time you go to the loo\" said Gardner, 60. \"It's just like hot needles being inserted inside you and just burning, burning, burning.\"\n\nShe told the BBC she had felt \"gaslighted\" by medics and had been told to \"wipe yourself better\" after describing intense pain.\n\nShe was even told by one consultant to give up sex because it can cause a flare up.\n\n\"You've got to fight all the time just to get treated sensibly and [not told] you've got anxiety, depression or are attention seeking,\" Gardner said.\n\nThe pain and lack of answers about her condition eventually led her to a very dark place.\n\n\"It got to the point where [I thought] 'if this is how my life is going to be, I can't carry on',\" she said.\n\nShe was so desperate she even considered selling her house to pay for private surgery to have her bladder removed.\n\nIt was around that time three years ago that she discovered Dr Cat Anderson, a Staffordshire-based GP who works in private practice and for the NHS.\n\nShe was the first to identify that Gardner's symptoms were related to the menopause and prescribed her Hormone Replacement Therapy (HRT).\n\n\"I had two years free of UTI - I just had my life back,\" said Gardner.\n\nAsked whether going private went against her Labour principles that healthcare should be free, Gardner said: \"You're stuck with a choice aren't you?\n\n\"You either suffer or you go private... so I don't judge.\"\n\nShe added that she believed everyone should have access to the healthcare they needed.\n\nAnderson specialises in challenging UTI cases, and is leading a group of medical experts to develop a medical definition of chronic UTIs to differentiate it from other conditions.\n\nThe panel hope that an official definition will pave the way for better diagnosis and treatment.\n\nPersistent infections, Anderson said, could \"ruin a patient's quality of life\" - limiting their ability to work or do something as simple as pick their children up from school.\n\nShe has also seen people \"who are quite literally driven to suicide\" due to \"awful\" symptoms.\n\nAnderson specialises in recurrent UTIs and is working with other doctors to develop a medical definition for the condition\n\nThe expert medical panel that Anderson heads up with Sachin Malde, a London-based consultant urological surgeon, is planning to deliver its official definition of chronic UTI in 2027. This will then be presented to the National Institute of Health and Care Excellence (NICE).\n\nAs to why there is no current definition of chronic UTI, NICE said it had recommended further research into chronic UTIs to develop a \"clear evidence base\" for any recommendations.\n\nA spokesperson for NHS England also confirmed that currently there was no single national dataset that specifically captured all cases of chronic UTI as a distinct clinical diagnosis.\n\n\"This is not just a 'nice to do', this would be transformational - not just within the UK, but globally,\" said Gardner, of the work she is doing with other MPs in the All Party Parliamentary Group (APPG).\n\nIn 2023-24, the UK Health Security Agency (UKHSA) found that UTIs accounted for 1.2 million hospital bed days, costing hospitals and the NHS more than £604m.\n\nDr Ron Daniels, founder and chief medical officer of the UK Sepsis Trust, said as many as 20% of all sepsis cases - which can prove fatal - are thought to originate from the urinary tract.\n\nGardner and Anderson hope a formal definition of chronic UTIs will pave the way for better treatment\n\nBeyond the definition and improving diagnosis and treatment, the APPG wants to see all GPs trained on chronic UTIs and introduce a \"passport\" for patients so they do not have to repeatedly explain their medical history.\n\nIn April, then-health secretary Wes Streeting said the NHS had an \"appalling culture of medical misogyny\" , external where being \"ignored, gaslit, humiliated and disrespected, were common experiences for far too many women\".\n\nLiberal Democrat MP Luke Taylor, who co-chairs the APPG with Gardner, said the group was \"disappointed\" that Streeting's announcement of the women's health strategy \"didn't even mention UTIs, let alone chronic UTIs\".\n\nThe group, he said, has now set its sights on lobbying the government to invest in research and improve care.\n\nWhen we asked the Department of Health and Social Care what specific improvements patients with chronic UTIs might see, a spokesperson said they were committed to \"reducing the impact\" chronic UTIs have on people's lives and had invested in research \"to ensure that women are listened to at every stage, and given access to the high-quality care they need\".\n\nRelated topics\n\nHealth\n\nWomen's health\n\nMore on this story\n\nNew test could cut wait times for UTI diagnosis Published 6 April\n\nMy chronic UTI has shaped my whole life Published 23 September 2023\n\nPharmacies can issue UTI drugs without GP visit Published 2 October 2025\n\nRelated internet links\n\nDepartment of Health and Social Care\n\nNational Institute for Health and Care Excellence\n\nChronic Urinary Tract Infection Campaign",
+      "body": "Dr Allison Gardner, the Labour MP for Stoke-on-Trent South, is leading a group of MPs to improve recognition of chronic UTIs\n\nPublished 13 October 2026\n\nWarning: This story contains reference to suicide\n\nAn MP says she was left \"feeling like a drug user\" while trying desperately to find pain relief for chronic urinary tract infections (UTIs).\n\nLabour MP Dr Allison Gardner has been living with the \"searing pain\" of recurrent infections for about 10 years, after first experiencing symptoms with perimenopause.\n\nAccording to the Chronic Urinary Tract Infection Campaign (CUTIC), more than 1.6 million women in the UK suffer from chronic lower urinary tract symptoms, but there is no official medical definition of the condition.\n\nThat is something Gardner is trying to change, with the support of a cross party group of MPs in Parliament.\n\nGardner told the BBC how a lack of consensus on what constituted a chronic UTI left her feeling sidelined by doctors, who did not always understand the condition and were limited in the length of antibiotic courses they could prescribe.\n\n\"You end up hunting for a decent length of antibiotic courses that will give you some relief,\" she said.\n\nUTIs are caused by bacteria entering the urethra , external . As women have a shorter urethra than men, bacteria are more likely to reach the bladder or kidneys and cause an infection.\n\nChronic UTIs are infections where symptoms do not go away, and do not clear with a short course of antibiotics. They can also be difficult to diagnose, due to a lower level of bacteria shown in urine samples.\n\nGardner told the BBC she had considered selling her home to pay for bladder removal surgery after years of pain\n\n\"It's a searing pain every time you go to the loo\" said Gardner, 60. \"It's just like hot needles being inserted inside you and just burning, burning, burning.\"\n\nShe told the BBC she had felt \"gaslighted\" by medics and had been told to \"wipe yourself better\" after describing intense pain.\n\nShe was even told by one consultant to give up sex because it can cause a flare up.\n\n\"You've got to fight all the time just to get treated sensibly and [not told] you've got anxiety, depression or are attention seeking,\" Gardner said.\n\nThe pain and lack of answers about her condition eventually led her to a very dark place.\n\n\"It got to the point where [I thought] 'if this is how my life is going to be, I can't carry on',\" she said.\n\nShe was so desperate she even considered selling her house to pay for private surgery to have her bladder removed.\n\nIt was around that time three years ago that she discovered Dr Cat Anderson, a Staffordshire-based GP who works in private practice and for the NHS.\n\nShe was the first to identify that Gardner's symptoms were related to the menopause and prescribed her Hormone Replacement Therapy (HRT).\n\n\"I had two years free of UTI - I just had my life back,\" said Gardner.\n\nAsked whether going private went against her Labour principles that healthcare should be free, Gardner said: \"You're stuck with a choice aren't you?\n\n\"You either suffer or you go private... so I don't judge.\"\n\nShe added that she believed everyone should have access to the healthcare they needed.\n\nAnderson specialises in challenging UTI cases, and is leading a group of medical experts to develop a medical definition of chronic UTIs to differentiate it from other conditions.\n\nThe panel hope that an official definition will pave the way for better diagnosis and treatment.\n\nPersistent infections, Anderson said, could \"ruin a patient's quality of life\" - limiting their ability to work or do something as simple as pick their children up from school.\n\nShe has also seen people \"who are quite literally driven to suicide\" due to \"awful\" symptoms.\n\nAnderson specialises in recurrent UTIs and is working with other doctors to develop a medical definition for the condition\n\nThe expert medical panel that Anderson heads up with Sachin Malde, a London-based consultant urological surgeon, is planning to deliver its official definition of chronic UTI in 2027. This will then be presented to the National Institute of Health and Care Excellence (NICE).\n\nAs to why there is no current definition of chronic UTI, NICE said it had recommended further research into chronic UTIs to develop a \"clear evidence base\" for any recommendations.\n\nA spokesperson for NHS England also confirmed that currently there was no single national dataset that specifically captured all cases of chronic UTI as a distinct clinical diagnosis.\n\n\"This is not just a 'nice to do', this would be transformational - not just within the UK, but globally,\" said Gardner, of the work she is doing with other MPs in the All Party Parliamentary Group (APPG).\n\nIn 2023-24, the UK Health Security Agency (UKHSA) found that UTIs accounted for 1.2 million hospital bed days, costing hospitals and the NHS more than £604m.\n\nDr Ron Daniels, founder and chief medical officer of the UK Sepsis Trust, said as many as 20% of all sepsis cases - which can prove fatal - are thought to originate from the urinary tract.\n\nGardner and Anderson hope a formal definition of chronic UTIs will pave the way for better treatment\n\nBeyond the definition and improving diagnosis and treatment, the APPG wants to see all GPs trained on chronic UTIs and introduce a \"passport\" for patients so they do not have to repeatedly explain their medical history.\n\nIn April, then-health secretary Wes Streeting said the NHS had an \"appalling culture of medical misogyny\" , external where being \"ignored, gaslit, humiliated and disrespected, were common experiences for far too many women\".\n\nLiberal Democrat MP Luke Taylor, who co-chairs the APPG with Gardner, said the group was \"disappointed\" that Streeting's announcement of the women's health strategy \"didn't even mention UTIs, let alone chronic UTIs\".\n\nThe group, he said, has now set its sights on lobbying the government to invest in research and improve care.\n\nWhen we asked the Department of Health and Social Care what specific improvements patients with chronic UTIs might see, a spokesperson said they were committed to \"reducing the impact\" chronic UTIs have on people's lives and had invested in research \"to ensure that women are listened to at every stage, and given access to the high-quality care they need\".\n\nRelated topics\n\nHealth\n\nWomen's health\n\nMore on this story\n\nNew test could cut wait times for UTI diagnosis Published 6 April\n\nMy chronic UTI has shaped my whole life Published 23 September 2023\n\nPharmacies can issue UTI drugs without GP visit Published 2 October 2025\n\nRelated internet links\n\nDepartment of Health and Social Care\n\nNational Institute for Health and Care Excellence\n\nChronic Urinary Tract Infection Campaign",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1765,12 +1818,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1127,
+      "wordCount": 1124,
       "readingMinutes": 6,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5068/live/eea09e50-c690-11f1-a64c-550be9e3c66b.jpg",
-      "body": "Published 13 October 2026, 02:27 BST\n\nThe Brexit debate is back.\n\nFor years, it felt like the only thing Westminster talked about.\n\nI have had a ringside seat at it all, from the Conservative election victory in 2015, with the party's promise in its manifesto that year to offer \"a straight in-out referendum on our membership of the European Union by the end of 2017.\"\n\nThen there was the then Prime Minister David Cameron's negotiation with the European Union to try to secure what he saw as a better deal and then the referendum itself on Thursday, 23 June 2016.\n\nAnd that, you will remember, was merely the start, as years of wrangling began. Two general elections came and went in 2017 and 2019 and it took the two prime ministers after David Cameron, first Theresa May and then Boris Johnson, before the UK left the European Union at 23:00 on Friday, 31 January 2020.\n\nLittle wonder perhaps that by that point, almost irrespective of someone's views on the topic, there was an appetite to talk about something else. Anything else. Political parties picked up that vibe and while their long standing instincts on the EU were there to see if you scratched the surface, there was minimal desire to extemporise about them any time soon.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nBurnham: Post-Brexit status quo with Europe 'not good enough for Britain'\n\nWith the arrival of Andy Burnham as prime minister, that has changed, despite what he said just a few months before he arrived in Downing Street.\n\nHe has been happy to repeatedly lean into an argument claiming that it is time to \"face up to the reality that Brexit has done more harm than good\" and \"the status quo is not good enough for Britain.\" First he made this case at the Labour Party Conference last month and now he has made it again in the House of Commons.\n\nBurnham is attempting to make a two-pronged case.\n\nFirst, in the short term, he wants to \"deepen\" the UK's relationship with the EU at a summit in Brussels at the end of next month. He insists such a deepening would be within the promise made by Labour at the last general election that the UK would say no to the customs union, the single market and freedom of movement.\n\nWhich brings us onto the second element of his case, in the medium term. What might Labour promise in its next general election manifesto? The prime minister told me a fortnight ago the manifesto could promise an in-out referendum.\n\nIn the Commons, he sought to reassure you, whatever your view on Brexit.\n\n\"This country in the next decade needs to know where it's going. There are no assumptions here, and as I said, the British public will be the boss of whatever is decided,\" he said.\n\nHang on, say critics, it was decided by voters a decade ago.\n\n\"They weighed the arguments and made a decision. The least they are owed is politicians willing to defend it,\" argues Lord Frost , external , a former Brexit minister and chief Brexit negotiator in the Telegraph.\n\nThe focus of the next five weeks, ahead of a UK-EU Summit in Brussels on Friday 20 November, is what Downing Street sees as short term wins on youth mobility, food and drink, and energy.\n\nAndy Burnham hopes to make an argument that what he will portray as a sensible, pragmatic deepening of the relationship with Brussels can help cut illegal immigration and boost economic growth.\n\nHe sought to goad the Conservative leader Kemi Badenoch for seeking to oppose a plan he thinks can contribute to growth. She argued it risked regurgitating yesterday's arguments with little prospect of success.\n\nAnd, strikingly, his attempt at goading his opponents went further still. He told The Rest Is Politics podcast that upon arriving in Downing Street, he had asked if there was Russian interference in the Brexit referendum.\n\n\"I've had a clear answer that, yes, there was,\" he claimed, without saying who provided that clear answer or what the evidence for that suggested clarity was.\n\nIn the Commons, his language appeared a little softer. He told MPs it was \"inconceivable\" to think that Russia did not try to interfere. A double negative deployed this time, about alleged attempts at interference.\n\nHis political opponents were already pouncing. The Reform UK leader Nigel Farage was blunt – calling the prime minister \"a liar.\"\n\nThe former Prime Minister Boris Johnson added that he had asked the same question as Andy Burnham did when he became Foreign Secretary , external \"and they replied that there was no evidence of any successful interference in the 2016 referendum, by Russia or any other power\".\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: PM says there is 'clear' evidence of Russian interference in 2016 Brexit campaign\n\nAnd so a debate resumes about the difference between attempted interference, interference and successful interference.\n\nBut the key point is this: for the first time since the UK left the European Union, we now have a prime minister who is willing to unflinchingly debate Brexit: whether it is working, how it is working, how to improve it, and if it's proved to be a failure.\n\nIn so doing he hopes he can tap into public sentiment. Opinion polls suggest a perception among a majority that leaving the European Union has not turned out how many might have hoped.\n\nOn top of this, he hopes to lure pro Europeans broadly on the Left who may recently have supported the Liberal Democrats, the Green parties of both England and Wales and Scotland, the Scottish National Party and Plaid Cymru towards Labour. That is the political logic from the government's point of view, for now at least.\n\nAnd as for where all of this leads – well, good question. In the coming weeks, months and perhaps years, there may be a Back to the Future vibe to our political debate. A splash of familiarity, as a conversation about the relationship we have with our nearest neighbours resumes.\n\nGet in touch\n\nWhat would you like to see in a new deal with the EU? Share your comments and questions\n\nBurnham to push for new post-Brexit deals at EU summit Published 1 day ago\n\nIt is inconceivable to think Russia did not try to interfere in Brexit vote, says PM Published 1 day ago\n\nTen years on, Brexit's economic impact is becoming clearer Published 14 September\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nBrexit\n\nEuropean Union\n\nAndy Burnham",
+      "body": "Published 13 October 2026\n\nThe Brexit debate is back.\n\nFor years, it felt like the only thing Westminster talked about.\n\nI have had a ringside seat at it all, from the Conservative election victory in 2015, with the party's promise in its manifesto that year to offer \"a straight in-out referendum on our membership of the European Union by the end of 2017.\"\n\nThen there was the then Prime Minister David Cameron's negotiation with the European Union to try to secure what he saw as a better deal and then the referendum itself on Thursday, 23 June 2016.\n\nAnd that, you will remember, was merely the start, as years of wrangling began. Two general elections came and went in 2017 and 2019 and it took the two prime ministers after David Cameron, first Theresa May and then Boris Johnson, before the UK left the European Union at 23:00 on Friday, 31 January 2020.\n\nLittle wonder perhaps that by that point, almost irrespective of someone's views on the topic, there was an appetite to talk about something else. Anything else. Political parties picked up that vibe and while their long standing instincts on the EU were there to see if you scratched the surface, there was minimal desire to extemporise about them any time soon.\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nBurnham: Post-Brexit status quo with Europe 'not good enough for Britain'\n\nWith the arrival of Andy Burnham as prime minister, that has changed, despite what he said just a few months before he arrived in Downing Street.\n\nHe has been happy to repeatedly lean into an argument claiming that it is time to \"face up to the reality that Brexit has done more harm than good\" and \"the status quo is not good enough for Britain.\" First he made this case at the Labour Party Conference last month and now he has made it again in the House of Commons.\n\nBurnham is attempting to make a two-pronged case.\n\nFirst, in the short term, he wants to \"deepen\" the UK's relationship with the EU at a summit in Brussels at the end of next month. He insists such a deepening would be within the promise made by Labour at the last general election that the UK would say no to the customs union, the single market and freedom of movement.\n\nWhich brings us onto the second element of his case, in the medium term. What might Labour promise in its next general election manifesto? The prime minister told me a fortnight ago the manifesto could promise an in-out referendum.\n\nIn the Commons, he sought to reassure you, whatever your view on Brexit.\n\n\"This country in the next decade needs to know where it's going. There are no assumptions here, and as I said, the British public will be the boss of whatever is decided,\" he said.\n\nHang on, say critics, it was decided by voters a decade ago.\n\n\"They weighed the arguments and made a decision. The least they are owed is politicians willing to defend it,\" argues Lord Frost , external , a former Brexit minister and chief Brexit negotiator in the Telegraph.\n\nThe focus of the next five weeks, ahead of a UK-EU Summit in Brussels on Friday 20 November, is what Downing Street sees as short term wins on youth mobility, food and drink, and energy.\n\nAndy Burnham hopes to make an argument that what he will portray as a sensible, pragmatic deepening of the relationship with Brussels can help cut illegal immigration and boost economic growth.\n\nHe sought to goad the Conservative leader Kemi Badenoch for seeking to oppose a plan he thinks can contribute to growth. She argued it risked regurgitating yesterday's arguments with little prospect of success.\n\nAnd, strikingly, his attempt at goading his opponents went further still. He told The Rest Is Politics podcast that upon arriving in Downing Street, he had asked if there was Russian interference in the Brexit referendum.\n\n\"I've had a clear answer that, yes, there was,\" he claimed, without saying who provided that clear answer or what the evidence for that suggested clarity was.\n\nIn the Commons, his language appeared a little softer. He told MPs it was \"inconceivable\" to think that Russia did not try to interfere. A double negative deployed this time, about alleged attempts at interference.\n\nHis political opponents were already pouncing. The Reform UK leader Nigel Farage was blunt – calling the prime minister \"a liar.\"\n\nThe former Prime Minister Boris Johnson added that he had asked the same question as Andy Burnham did when he became Foreign Secretary , external \"and they replied that there was no evidence of any successful interference in the 2016 referendum, by Russia or any other power\".\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWatch: PM says there is 'clear' evidence of Russian interference in 2016 Brexit campaign\n\nAnd so a debate resumes about the difference between attempted interference, interference and successful interference.\n\nBut the key point is this: for the first time since the UK left the European Union, we now have a prime minister who is willing to unflinchingly debate Brexit: whether it is working, how it is working, how to improve it, and if it's proved to be a failure.\n\nIn so doing he hopes he can tap into public sentiment. Opinion polls suggest a perception among a majority that leaving the European Union has not turned out how many might have hoped.\n\nOn top of this, he hopes to lure pro Europeans broadly on the Left who may recently have supported the Liberal Democrats, the Green parties of both England and Wales and Scotland, the Scottish National Party and Plaid Cymru towards Labour. That is the political logic from the government's point of view, for now at least.\n\nAnd as for where all of this leads – well, good question. In the coming weeks, months and perhaps years, there may be a Back to the Future vibe to our political debate. A splash of familiarity, as a conversation about the relationship we have with our nearest neighbours resumes.\n\nGet in touch\n\nWhat would you like to see in a new deal with the EU? Share your comments and questions\n\nBurnham to push for new post-Brexit deals at EU summit Published 1 day ago\n\nIt is inconceivable to think Russia did not try to interfere in Brexit vote, says PM Published 1 day ago\n\nTen years on, Brexit's economic impact is becoming clearer Published 14 September\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nBrexit\n\nEuropean Union\n\nAndy Burnham",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1881,32 +1934,6 @@
       "body": "The bill was first introduced to Parliament last year following agreement on a joint framework with the Irish government\n\nPublished 12 October 2026\n\nThe Attorney General must provide consent for any serious prosecutions related to the Troubles in Northern Ireland, under changes to the government's planned legislation.\n\nIt is among a series of amendments the government has tabled for its bill, which seeks to deal with the unresolved legacy of the decades-long violent conflict.\n\nThe bill was first introduced to Parliament last year following agreement on a joint framework with the Irish government.\n\nNorthern Ireland secretary Sir Chris Bryant said the amendments give \"robust, permanent safeguards\" to ensure former soldiers and police officers are treated with \"fairness, dignity and respect\".\n\nThe Labour government has faced criticism over delays in passing the bill as well as questions over some of its contents.\n\nIt seeks to replace the previous Conservative government's contentious 2023 Legacy Act, which introduced a ban on inquests and civil actions related to Troubles-era incidents.\n\nThe act's most controversial element - offering immunity from prosecution to suspects who cooperated with an information recovery body - was disapplied after being found by the courts to be unlawful.\n\nLabour's bill involves a Legacy Commission to investigate Troubles-related killings, a separate information recovery body, and a dedicated legacy unit within An Garda Síochána (Irish police).\n\nThe government said its amendments \"significantly reduce\" the prospect of military veterans facing \"rinse and repeat\" investigations.\n\nWhile some MPs have previously argued that planned protections for veterans do not go far enough, Stormont's First Minister Michelle O'Neill has accused the government of giving former soldiers \"preferential treatment\".\n\nThe government said the amendments include:\n\nThe legislation will make clear the Commission and coroners \"must not regard the lawful conduct of members of the Armed Forces as equivalent to the actions of paramilitaries responsible for acts of terrorism\"\n\nThe Attorney General will be required to consent to all \"serious\" Troubles-related prosecutions\n\nMeasures to prevent \"cold-calling\" of veterans and extending provisions for remote attendance as part of the Commission's work\n\nBefore any witness can be approached, the Commission should consider if \"compelling new evidence exists, or the likelihood of a witness being able to provide new information\"\n\nThe Commission must consider the \"context and command orders\" in which military veterans were operating\n\nFormer paramilitaries barred from being appointed to the Victims and Survivors Advisory Group, and a requirement for at least one veteran or veterans' representative to be on the panel\n\nA statutory review of the measures for veterans to ensure they \"deliver as intended\"\n\nSecretary of State Sir Chris Bryant said he is \"confident that this legislation will be a significant step towards a more reconciled society\"\n\nSecretary of State Sir Chris Bryant said the bill was about completing the \"unfinished business\" of the 1998 Good Friday Agreement peace deal.\n\n\"I am confident that this legislation will be a significant step towards a more reconciled society,\" he said in a statement.\n\nBryant said the \"significant package of amendments\" would provide \"robust, permanent safeguards that ensure former Armed Forces personnel and police officers are treated with the fairness, dignity, and respect they deserve\".\n\nHe added: \"These amendments have been developed through extensive engagement with veterans' groups, whilst ensuring that this bill will also enable victims and bereaved families, including the families of soldiers, who have waited long years for answers, to seek information and, potentially, closure, on what happened to their loved ones.\"\n\nDefence Secretary Wes Streeting said \"the amendments will help ensure that decisions on historic cases properly take account of the operational realities faced by our Armed Forces\"\n\nDefence Secretary Wes Streeting said that \"for too long, veterans have faced uncertainty over historic investigations, despite serving honourably during the Troubles\".\n\n\"The amendments will help ensure that decisions on historic cases properly take account of the operational realities faced by our Armed Forces, who often make split-second decisions in exceptionally difficult circumstances,\" he added.\n\n'Preferential treatment'\n\nThe Sinn Féin MP John Finucane denounced the amendments as a \"veterans' charter\".\n\nHe said they \"risk preferential treatment, providing additional protections for former members of the British military while placing further obstacles in the path of effective investigations\".\n\n\"The requirement for the British Attorney General, who is a political appointee, to approve prosecutions raises serious questions about whether families will be able to get truth or justice,\" he added in a statement.\n\nThe bill is expected to be discussed in the House of Commons on Tuesday and voted on by MPs next week.\n\nIf passed it will move to the House of Lords for further consideration by peers.\n\nRelated topics\n\nNorthern Ireland\n\nThe Troubles\n\nChris Bryant\n\nWes Streeting\n\nMore on this story\n\nNew legislation on Troubles legacy deal introduced in Westminster Published 14 October 2025\n\nTroubles immunity clause 'breaches' human rights Published 28 February 2024\n\nGovernment wins legacy case at UK Supreme Court Published 7 May",
       "imageWidth": 1200,
       "imageHeight": 675
-    },
-    {
-      "id": "7d74de5b6f940e91",
-      "title": "Sunday Overreactions: Time for Maple Leafs to shift Tavares to wing",
-      "summary": "(Frank Gunn/CP) CP177011953",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/article/sunday-overreactions-time-for-maple-leafs-to-shift-tavares-to-wing/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-11T12:13:13Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 4,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/CP177011953.jpg"
     },
     {
       "id": "8b9b96ac5b406c9c",
@@ -2258,32 +2285,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ccb/live/a9516db0-c62d-11f1-af2e-773141c7e84a.png"
     },
     {
-      "id": "d2eeb105a275a2c1",
-      "title": "‘Tough’ loss of Tanev tempers Maple Leafs’ wild comeback vs. Avalanche",
-      "summary": "leafs avs",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/article/tough-loss-of-tanev-tempers-maple-leafs-wild-comeback-vs-avalanche/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-11T04:15:03Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 2,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/leafs-avs.jpg"
-    },
-    {
       "id": "e7707d5787ddd339",
       "title": "Is it OK for jobseekers or employers to use AI?",
       "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
@@ -2378,6 +2379,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a40/live/7b9bd230-b0d8-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "id": "f2e3b1302e7fc07c",
+      "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+      "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-10-13T22:48:12Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-803564026-1152x648.jpg"
     },
     {
       "id": "bb78177e456433b6",
@@ -2860,6 +2885,29 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-516604291-1024x648.jpg"
     },
     {
+      "id": "552058cd1d14a803",
+      "title": "US judge extends media outlets' White House access",
+      "summary": "A federal judge extended the order that blocks the Trump administration from banning three media outlets from the White House. The outlets have reasonable grounds to think they'll win the case, the judge said.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-10-14T03:46:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 34,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "ac27fcf40bec37e0",
       "title": "Apple’s first smart display is the 7-inch HomeView for $299",
       "summary": "It can recognize up to six users with its camera.",
@@ -3004,6 +3052,29 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9039/live/426755d0-c6fd-11f1-b4dd-e786ec6f11b1.jpg"
     },
     {
+      "id": "1b6af913a9e7114b",
+      "title": "China and North Korea to open New Yalu River Bridge, state media reports",
+      "summary": "The long-delayed bridge will formally open on Thursday, according to China's state-run Xinhua news agency.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-14T04:27:18Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "0c667d0fee419fae",
       "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
       "summary": "US economists developed models that help central bankers and finance ministers to stabilise their economies Business live – latest updates Two US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers to stabilise their countries, avoiding long recessions and runaway inflation. Robert Hall of Stanford University, California, and Michael Woodford of Columbia University, New York, were recognised for developing the “microeconomic foundations of macroeconomic stabilisation” , giving policymakers better tools to smooth out the peaks and troughs of their economies. Continue reading...",
@@ -3050,6 +3121,52 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca77/live/ea185dd0-c6e2-11f1-bf38-57dc5cd42af2.jpg"
+    },
+    {
+      "id": "14d88b18da5bf2f5",
+      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+      "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "source": "TechCrunch",
+      "publisher": "TechCrunch",
+      "published": "2026-10-14T01:30:42Z",
+      "category": "Tech",
+      "region": "US",
+      "labels": [
+        "Tech",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "a2a75443615aada5",
+      "title": "Jamaica accepts first flight of third-country deportations from US",
+      "summary": "Opposition leaders in Jamaica question why the deportation deal with the Trump White House has not been made public.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/14/jamaica-accepts-first-flight-of-third-country-deportations-from-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-14T01:44:09Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "ef47a96a0d612b55",
@@ -3555,29 +3672,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e55/live/02f29e50-c3ce-11f1-8fc5-335d62f6730b.png"
     },
     {
-      "id": "a1ba52a4bb316809",
-      "title": "Trump says Houthis trying to increase oil prices before US elections",
-      "summary": "US president suggests that Yemen-based group are 'purposefully trying to drive up oil prices' before November vote.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/10/13/trump-says-houthis-trying-to-increase-oil-prices-before-us-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-10-13T19:33:11Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "d419b65b8fb16cf0",
       "title": "PSG's Luis Enrique hopes Man City avoid sanctions",
       "summary": "PSG boss Luis Enrique says he was surprised to learn Manchester City had been found guilty of breaching Premier League financial rules and hopes the club avoid sanctions.",
@@ -3602,30 +3696,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c8/live/dfa1bec0-c726-11f1-b881-4391ac746e04.png"
     },
     {
-      "id": "bb93fcbf64e1aaf8",
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-10-13T19:23:28Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f6d/live/ecd9e6d0-c73a-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
       "id": "debe512fe56dbd8e",
       "title": "Majority of clubs on edge of 'financial disaster' - regulator",
       "summary": "Research by the Independent Football Regulator finds 94% of clubs are loss-making, and more than 60% of EFL and National League clubs are technically insolvent.",
@@ -3648,30 +3718,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72bf/live/92328640-c728-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "e245ce23c13f5d45",
-      "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
-      "summary": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-10-13T17:04:37Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 25,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4614/live/b81d5210-c726-11f1-9a39-31b474234113.jpg"
     },
     {
       "id": "66888c746968cc5f",
@@ -4564,30 +4610,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9846/live/95e68220-c5aa-11f1-bea7-1dc95e2ed033.jpg"
     },
     {
-      "id": "fd7497a61d9141eb",
-      "title": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-      "summary": "The Fitbit Edge offers more than the Air, but it's not a real smartwatch.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-10-12T13:00:52Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Google_Health_Lineup.png"
-    },
-    {
       "id": "cc92a539617ddb2d",
       "title": "An insurance policy with no guarantee - the complex issue of egg freezing in sport",
       "summary": "BBC Sport examines the potential benefits, risks and unanswered questions facing female athletes about egg freezing.",
@@ -4972,30 +4994,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5998739"
-    },
-    {
-      "id": "77cf1a89b6dd5f32",
-      "title": "Lampard keeping 'feet on ground' following big win over Newcastle",
-      "summary": "Coventry City head coach Frank Lampard gives his thoughts after his side pick up their first home win of the season beating Newcastle 4-1.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqvgrp5225z7o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-12T21:43:20Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59aa/live/d8bec640-c684-11f1-bc2e-018d645d8d21.jpg"
     }
   ],
   "sourceStatus": [
@@ -5032,7 +5030,7 @@
     {
       "source": "DW",
       "ok": true,
-      "items": 139
+      "items": 137
     },
     {
       "source": "UN News",
@@ -5082,7 +5080,7 @@
     {
       "source": "BBC Business",
       "ok": true,
-      "items": 47
+      "items": 48
     },
     {
       "source": "The Guardian Economics",
@@ -5127,7 +5125,7 @@
     {
       "source": "Sportsnet Maple Leafs",
       "ok": true,
-      "items": 10
+      "items": 7
     },
     {
       "source": "Sky Sports",
