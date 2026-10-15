@@ -1,28 +1,29 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-14T23:12:09.225097Z",
+  "generatedAt": "2026-10-15T04:34:34.780275Z",
   "topStoryIds": [
     "d86dda025af8384b",
-    "6d8adc84f6d01f58",
+    "25ee4dc9c3502726",
     "e83f225e51ed80cc",
     "aecde25b57b31583",
-    "10c948e1c9d85c99",
-    "588ec2167bda61e8",
-    "84459f60392edfb1"
+    "aefb85e67f9cfc12",
+    "6d8adc84f6d01f58",
+    "588ec2167bda61e8"
   ],
   "sectionStoryIds": {
     "Politics": [
       "d86dda025af8384b",
       "c982d1dd6e9406dc",
+      "aefb85e67f9cfc12",
       "10c948e1c9d85c99",
-      "aca2d7e8fa3ca334",
+      "996fda8e79b5548d",
       "07743481c5d1208b",
       "d456f87be731ab1a"
     ],
     "Tech": [
+      "25ee4dc9c3502726",
       "6d8adc84f6d01f58",
       "588ec2167bda61e8",
-      "84459f60392edfb1",
       "760aa1a0a2872045",
       "222d831e44cb7593"
     ],
@@ -34,13 +35,13 @@
     ],
     "Sports": [
       "b7b1f80beead4fbf",
+      "a42d8f7163324d88",
       "199dd3a1f73c242b",
       "2d447b59e9f8977d",
       "4215c78e6539dbfa",
       "715e1f99c87bdf3b",
       "b3bec25803c8ebc0",
       "0b0466cfc580594b",
-      "dbed8694ca5ccc5a",
       "48854271264345a2",
       "3f4ea33be50cef43",
       "289d5968cee8d484",
@@ -87,14 +88,14 @@
       "imageHeight": 630
     },
     {
-      "id": "6d8adc84f6d01f58",
-      "title": "DHS Inspector General Finds That TSA is Not Properly Safeguarding Passenger Facial Recognition Data",
-      "summary": "EFF legal intern Gabrielle Ladun was the principal author of this post. The Department of Homeland Security Office of Inspector General (DHS OIG) has published a summary of findings from its audit of the Transportation Security Administration’s (TSA) facial recognition technology. While the detailed findings are classified, the summary states that the OIG’s audit uncovered a “significant weakness” in the technology’s ability to protect the privacy of passenger data. This has massive privacy implications for the millions of passengers who travel and don’t opt out of the TSA’s biometric surveillance technology verification process. TSA uses facial comparison technology for identity verification of airline passengers. A camera takes a photo of passengers to verify that their provided identification matches their live photo. Although TSA states that it is “ committed to protecting traveler privacy ,” the audit highlights that this has not been the case. The OIG found that TSA’s Credential Authentication Technology 2’s (CAT-2) vendor “was able to access and extract sensitive passenger information, including driver’s license and passport images, during system troubleshooting and enhancements, without TSA’s knowledge.” The OIG further admonished the agency: TSA lacked clear policies, did not track when this data was extracted, could not verify that extracted information was properly deleted, and did not notify passengers when their biometric and biographic information may have been stored. As a result, although passenger information was generally protected during routine operations, weaknesses in vendor oversight created a risk that sensitive personal information could be retained or exposed. We hope the TSA will fix these issues. The OIG summary states: We issued one finding and three recommendations to strengthen controls, improve oversight, and ensure transparency and the proper handling of passenger data. TSA concurred with all three recommendations. Two recommendations are open and resolved, and one remains open and unresolved. Why EFF Opposes the Government’s Use of Facial Recognition Technology EFF has a long history of opposing governmental use of facial recognition technology. As the OIG’s audit underscores, this technology presents privacy risks associated with unsecured data, unauthorized access, and data breaches. The government’s use of this…",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.eff.org/deeplinks/2026/10/dhs-inspector-general-finds-tsa-not-properly-safeguarding-passenger-facial",
+      "id": "25ee4dc9c3502726",
+      "title": "We’re Asking the Wisconsin Supreme Court to End Warrantless ALPR Searches",
+      "summary": "Today, EFF joined the ACLU of Wisconsin in filing a petition to the Wisconsin Supreme Court, asking it to rule that the state’s constitution requires a warrant for retrospective searches of ALPR databases used by law enforcement in four cities: Milwaukee, Racine, Kenosha, and Green Bay. We represent a religious organization, the Wisconsin Council of Churches, as well as an individual pastor in Green Bay. As the petition explains: Right now, Automated License Plate Readers (“ALPRs”) are recording the movements of vast numbers of Wisconsin drivers as they seek medical care, attend 12-step recovery meetings, attend religious services, participate in protests, attend political meetings, and engage in many other private, sensitive activities. Law enforcement entities throughout Wisconsin collect, store, share, and aggregate this ALPR data. Then they search it, retrospectively tracking the movements of individuals and entire communities in ways that would have been prohibitively costly, if not outright impossible, before the advent of ALPR technology. We all deserve to be free of warrantless mass surveillance. We all deserve to live in a country where surveillance vendors cannot help police upend our system of individualized suspicion. Religious organizations and officials like our clients have a heightened interest in protecting their location privacy because of the range of expressive associations their work entails, including facilitating gatherings for religious worship, as well as offering pastoral care, confidential counseling, and community support. Likewise, the people who visit houses of worship have a strong right to privacy against police monitoring of when they pray, seek addiction counseling, or attend a domestic violence survivor meeting. This is our second lawsuit challenging warrantless ALPR searches, following SIREN v. San Jose. Earlier this month, a federal court in Oklahoma became the first to rule that ALPRs are a “type of indiscriminate mass surveillance” and suppress evidence from a warrantless ALPR search. We hope the Wisconsin Supreme Court will agree. Read the Wisconsin Supreme Court petition Read the press release Related Cases: Wisconsin Council of Churches v. Milwaukee, Racine, Kenosha & Green Bay",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.eff.org/deeplinks/2026/10/were-asking-wisconsin-supreme-court-end-warrantless-alpr-searches",
       "source": "Electronic Frontier Foundation",
       "publisher": "Electronic Frontier Foundation",
-      "published": "2026-10-14T20:27:13Z",
+      "published": "2026-10-14T23:21:37Z",
       "category": "Tech",
       "region": "US",
       "labels": [
@@ -104,15 +105,14 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1080,
-      "readingMinutes": 5,
+      "wordCount": 334,
+      "readingMinutes": 2,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://www.eff.org/files/banner_library/whyfacebanner.png",
-      "imageAlt": "The angular outline of three faces as a computer might see them, colored like a rainbow",
-      "body": "EFF legal intern Gabrielle Ladun was the principal author of this post.\n\nThe Department of Homeland Security Office of Inspector General (DHS OIG) has published a summary of findings from its audit of the Transportation Security Administration’s (TSA) facial recognition technology. While the detailed findings are classified, the summary states that the OIG’s audit uncovered a “significant weakness” in the technology’s ability to protect the privacy of passenger data. This has massive privacy implications for the millions of passengers who travel and don’t opt out of the TSA’s biometric surveillance technology verification process.\n\nTSA uses facial comparison technology for identity verification of airline passengers. A camera takes a photo of passengers to verify that their provided identification matches their live photo. Although TSA states that it is “ committed to protecting traveler privacy ,” the audit highlights that this has not been the case.\n\nThe OIG found that TSA’s Credential Authentication Technology 2’s (CAT-2) vendor “was able to access and extract sensitive passenger information, including driver’s license and passport images, during system troubleshooting and enhancements, without TSA’s knowledge.”\n\nThe OIG further admonished the agency:\n\nTSA lacked clear policies, did not track when this data was extracted, could not verify that extracted information was properly deleted, and did not notify passengers when their biometric and biographic information may have been stored. As a result, although passenger information was generally protected during routine operations, weaknesses in vendor oversight created a risk that sensitive personal information could be retained or exposed.\n\nWe hope the TSA will fix these issues. The OIG summary states:\n\nWe issued one finding and three recommendations to strengthen controls, improve oversight, and ensure transparency and the proper handling of passenger data. TSA concurred with all three recommendations. Two recommendations are open and resolved, and one remains open and unresolved.\n\nWhy EFF Opposes the Government’s Use of Facial Recognition Technology\n\nEFF has a long history of opposing governmental use of facial recognition technology. As the OIG’s audit underscores, this technology presents privacy risks associated with unsecured data, unauthorized access, and data breaches. The government’s use of this technology also creates a mass surveillance system and facilitates the creation of warrantless biometric records for unconsenting parties.\n\nThe biometric data captured by this technology is not without errors. There have been multiple instances of law enforcement agencies using facial recognition technology to misidentify and arrest innocent individuals.\n\nReminder: Opting Out of TSA Photos Is Possible\n\nGiven that facial recognition technology is prone to mistakes, combined with the OIG’s audit revealing significant privacy weaknesses, it is imperative that travelers remember that opting out is possible. TSA’s own website emphasizes that travelers who wish to decline to have their photo taken for facial comparison can do so without any delay, disruption, or recourse.\n\nConsidering the data protection weaknesses exposed by the OIG’s audit, EFF will continue to oppose this governmental system of mass surveillance and spread awareness to ensure that no one is forced to relinquish their biometric data without consent.\n\nFederal Court Rules Suspicionless Searches of Travelers’ Phones and Laptops Unconstitutional\n\nBOSTON—In a major victory for privacy rights at the border, a federal court in Boston ruled today that suspicionless searches of travelers’ electronic devices by federal agents at airports and other U.S. ports of entry are unconstitutional. The ruling came in a lawsuit, Alasaad v. McAleenan , filed by...\n\nShareholders Demand To Know How Northrop Grumman Will Protect Human Rights While Building Massive DHS Database\n\nOver the next few years, the Department of Homeland Security (DHS) plans to implement an enormous biometric collection program which will endanger the rights of citizens and foreigners alike. The agency intends to collect at least seven types of biometric identifiers, including face and voice data, DNA, scars, and tattoos,...\n\nWe Got U.S. Border Officials to Testify Under Oath. Here’s What We Found Out\n\nThis is a guest post by Hugh Handeyside , Senior Staff Attorney, ACLU National Security Project, Nathan Freed Wessler , Staff Attorney, ACLU Speech, Privacy, and Technology Project, and Esha Bhandari , Staff Attorney, ACLU Speech, Privacy, and Technology Project. It was originally posted on the ACLU Speak Freely ...\n\nNew Documents Reveal DHS Asserting Broad, Unconstitutional Authority to Search Travelers’ Phones and Laptops\n\nBOSTON — The Electronic Frontier Foundation (EFF) and the ACLU today asked a federal court to rule without trial that the Department of Homeland Security violates the First and Fourth Amendments by searching travelers’ smartphones and laptops at airports and other U.S. ports of entry without a warrant.The request ...\n\nEFF to State Department: Respect Freedom of Speech of Chinese Students\n\nEFF joined a letter to Secretary of State Mike Pompeo opposing a proposal to deploy stronger vetting procedures against Chinese students intending to study in the United States because the procedures would threaten the free speech interests of both Chinese students and their American associates. Reuters reported that the...\n\nBorder Spy Tech Shouldn’t Be a Requirement for a Path to Citizenship\n\nThe Border Security and Immigration Reform Act ( H.R. 6136 ), introduced before Congress last week, would offer immigrants a new path to citizenship in exchange for increased high tech government surveillance of citizens and immigrants alike. The bill calls for increased DNA and other biometric screening, updated automatic license plate...\n\nHART: Homeland Security’s Massive New Database Will Include Face Recognition, DNA, and Peoples’ “Non-Obvious Relationships”\n\nEFF and Other Groups Fight State Department Collection of Social Media Information … Again\n\nEFF and 54 civil liberties organizations joined comments this week written by the Brennan Center for Justice and the Electronic Privacy Information Center (EPIC) standing up against the U.S. government’s plans to collect social media information from foreigners entering the United States. This is the fifth time we’ve fought this...\n\nEFF to New York Appellate Court: No Warrantless Searches of Devices at the Border\n\nIn a month of court victories for travelers' digital privacy, EFF continues its legal fight for Fourth Amendment rights at the border. We filed an amicus brief yesterday, along with the ACLU and NYCLU, urging a New York State appellate court to rule that border agents need a probable cause...\n\nEFF and ACLU Can Proceed With Legal Challenge Against Warrantless Searches of Travelers' Smartphones, Laptops\n\nBoston, Massachusetts—The Electronic Frontier Foundation (EFF), the American Civil Liberties Union (ACLU), and the ACLU of Massachusetts won a court ruling today allowing their groundbreaking lawsuit challenging unconstitutional searches of electronic devices at the U.S. border to proceed—a victory for the digital rights of all international travelers.EFF and ACLU ...",
+      "imageUrl": "https://www.eff.org/files/banner_library/siren_v._san_jose.png",
+      "imageAlt": "sinister cop and cameras loom over street grid with cars identified by license plates",
       "imageWidth": 1200,
-      "imageHeight": 630
+      "imageHeight": 600
     },
     {
       "id": "e83f225e51ed80cc",
@@ -137,7 +137,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0d2/live/df74c9d0-c54e-11f1-b4f1-2359026a88ee.jpg",
-      "body": "China is the world's largest toymaker, producing the majority of toys on sale in the US\n\nPublished 12 minutes ago\n\nOn the underside of most children's toys on sale in the US you'll find the same three words – \"Made in China\".\n\nNearly eight in 10 toys (78.3%) imported into the country in 2024 came from China, according to US government figures. , external\n\nLast year, toys imported from China were worth $9.8bn (£7.4bn), trade figures show. , external\n\nWith Christmas on the horizon, the toy industry in the US and elsewhere is about to have its busiest time of the year by far.\n\nAs retailers prepare their stocks for the festive rush, be they online giants or \"mom-and-pop\" physical stores, the BBC World Service's Follow the Money series traces how a toy gets from a factory in China to the US. And where the money goes.\n\nThe factory\n\nGuangdong province, which neighbours Hong Kong in southern China, is the heart of the country's toy manufacturing industry.\n\nIn the city of Dongguan workers on the floor of the Mihox factory pop plastic toys out of steel moulds, and pile them into crates ready for painting.\n\nThe company says it employs more than 800 people and makes around 55 million toys a year for the American market, which represents half of its business.\n\nFollow the money: The journey of a $30 toy from China to America\n\nEvery toy starts with a design from a customer, such as an American toy company. The factory then makes a prototype, and builds moulds from which plastic parts and other components are formed.\n\nGoing from the first idea to finished toy takes one to two years, says Melanie Wang from the Mihox sales team. Much of that is the customer going back to the drawing board. \"They modified the design again, again, and again to improve it.\"\n\nOnce the design is signed off, things move more quickly. A mould takes about a month to make, and the production run lasts about three months.\n\nThe Mihox factory in Dongguan employs more than 800 people\n\nSo, how much of the US retail price does the factory get? \"About 20%,\" says Wang.\n\nOn a $30 toy, that's $6, which has to cover the price of the plastic and other materials, production costs including wages, and what profit the factory makes.\n\nChinese factories typically make a profit of between 3% and 10%, according to Jay Foreman, chief executive of US toy firm Basic Fun. So for a $30 toy that's between 60 and 18 cents of the $6 the factory charges to make it.\n\nSamson Ko is president of the Toys Manufacturers' Association of Hong Kong. Many of his members moved their factories across the border into mainland China in the 1980s, attracted by cheaper land and labour.\n\nHe says the way toys are made has barely changed since then. \"Automation now takes place mostly in the moulding and the packaging process. But for soft toys, or even some of the electronics nowadays, it's still very labour intensive.\"\n\nAnd Chinese labour isn't cheap anymore, he adds, after recent rises.\n\nMelanie Wang explains that Mihox gets 20% of a toy's retail price\n\nAverage pay in Vietnam is about half of that in China, said one report , external at the start of this year.\n\nYet fewer than 10% of Ko's members have moved any production outside China, and in those cases mostly only because customers asked them to do so.\n\nThe Chinese factories remain busy, he says, because a single toy can undergo more than one manufacturing process, from moulding the parts, to adding electronics, sewing materials, and final assembly. This often requires it travelling to different factories.\n\nKo adds that in Guangdong these separate facilities are located close to each other, and used to \"working in harmony\". He says this makes the whole manufacturing process run more smoothly than in other countries.\n\nThe ship\n\nFrom the factory, the toy goes by truck to a port, such as Shenzhen, the biggest in Guangdong.\n\nIvy Tse is co-founder of FreightAmigo, a Hong Kong logistics company that runs an online platform for both Hong Kong and mainland China exporters. These businesses can book a cargo container, sea passage to an overseas destination, arrange insurance cover, and secure finance.\n\nTse says it takes about 15 days for a cargo ship to get from Shenzhen to the US west coast, and 25 to 30 days to the east coast. This year's Christmas toys left China in August and September.\n\nFreight, from factory to the US, usually adds about 10% to the manufacturing cost of a toy, adds Tse. So if we stick to a toy that retails for $30 in the US, and therefore costs $6 to make in China, the cost of getting it to the states is 60 cents.\n\nThe US border\n\nOnce the toy reaches the US there is currently a tariff on Chinese toys that has to be paid to the US Customs and Border Protection (CBP).\n\nFollowing talks between President Trump and Chinese leader Xi Jinping last month, the two governments have recommended toys for lower tariffs. But no new rate or start date has been set, and the US must first hold a public consultation. For now the basic rate is 12.5%, and some toys pay more.\n\nThis is charged on the manufacturing price of the toy, not on how much it retails for. So for a $30 toy, that basic rate is 12.5% of $6, which is 75 cents.\n\nThis tariff is paid for by the American company that has imported the toys. One such firm is Learning Resources, a family business based near Chicago that sells educational toys. Half of these it imports from China.\n\n\"We pay 100% of the tariffs, let there be no doubt about that,\" says the company's chief executive Rick Woldenberg.\n\nThe US toy company\n\nJay Foreman says that most of the money spent on a toy in the US doesn't leave the country\n\nThe cost of making the $30 toy, getting it to the US, and paying the import tariff, comes to $7.35. So that leaves $22.65, or 75.5% of the total.\n\nThat money never leaves the US, explains Foreman from Basic Fun. His firm, which is based in Florida, makes Tonka trucks and Care Bears cuddly toys.\n\n\"It's kept by my company, the [US] transportation company, the retailer,\" he says.\n\nIf we allow $2.65 for the US delivery firm, the toy company and the retailer will typically share the remaining revenues 50-50. So that would give them $10 each.\n\nWhile profit margins are commercially sensitive and therefore not generally revealed, industry studies show that the toy firm and retailer would usually make a profit of up to 25% or $2.50.\n\nGetting a toy onto the shelves in the US requires both a lot of work and a long journey.\n\nRelated topics\n\nInternational Business\n\nWorld of Business\n\nChina\n\nChina economy\n\nTrump tariffs\n\nGlobal trade\n\nUS economy\n\nChina-US relations\n\nMore on this story\n\nHow oil-rich Alberta's economy might fare if it broke away from Canada Published 7 days ago\n\nThe wealthy Cuban Americans ready and waiting for Havana to fall Published 2 October\n\nHow the oil capital of the US welcomed a solar power boom Published 24 September",
+      "body": "China is the world's largest toymaker, producing the majority of toys on sale in the US\n\nPublished 5 hours ago\n\nOn the underside of most children's toys on sale in the US you'll find the same three words – \"Made in China\".\n\nNearly eight in 10 toys (78.3%) imported into the country in 2024 came from China, according to US government figures. , external\n\nLast year, toys imported from China were worth $9.8bn (£7.4bn), trade figures show. , external\n\nWith Christmas on the horizon, the toy industry in the US and elsewhere is about to have its busiest time of the year by far.\n\nAs retailers prepare their stocks for the festive rush, be they online giants or \"mom-and-pop\" physical stores, the BBC World Service's Follow the Money series traces how a toy gets from a factory in China to the US. And where the money goes.\n\nThe factory\n\nGuangdong province, which neighbours Hong Kong in southern China, is the heart of the country's toy manufacturing industry.\n\nIn the city of Dongguan workers on the floor of the Mihox factory pop plastic toys out of steel moulds, and pile them into crates ready for painting.\n\nThe company says it employs more than 800 people and makes around 55 million toys a year for the American market, which represents half of its business.\n\nFollow the money: The journey of a $30 toy from China to America\n\nEvery toy starts with a design from a customer, such as an American toy company. The factory then makes a prototype, and builds moulds from which plastic parts and other components are formed.\n\nGoing from the first idea to finished toy takes one to two years, says Melanie Wang from the Mihox sales team. Much of that is the customer going back to the drawing board. \"They modified the design again, again, and again to improve it.\"\n\nOnce the design is signed off, things move more quickly. A mould takes about a month to make, and the production run lasts about three months.\n\nThe Mihox factory in Dongguan employs more than 800 people\n\nSo, how much of the US retail price does the factory get? \"About 20%,\" says Wang.\n\nOn a $30 toy, that's $6, which has to cover the price of the plastic and other materials, production costs including wages, and what profit the factory makes.\n\nChinese factories typically make a profit of between 3% and 10%, according to Jay Foreman, chief executive of US toy firm Basic Fun. So for a $30 toy that's between 60 and 18 cents of the $6 the factory charges to make it.\n\nSamson Ko is president of the Toys Manufacturers' Association of Hong Kong. Many of his members moved their factories across the border into mainland China in the 1980s, attracted by cheaper land and labour.\n\nHe says the way toys are made has barely changed since then. \"Automation now takes place mostly in the moulding and the packaging process. But for soft toys, or even some of the electronics nowadays, it's still very labour intensive.\"\n\nAnd Chinese labour isn't cheap anymore, he adds, after recent rises.\n\nMelanie Wang explains that Mihox gets 20% of a toy's retail price\n\nAverage pay in Vietnam is about half of that in China, said one report , external at the start of this year.\n\nYet fewer than 10% of Ko's members have moved any production outside China, and in those cases mostly only because customers asked them to do so.\n\nThe Chinese factories remain busy, he says, because a single toy can undergo more than one manufacturing process, from moulding the parts, to adding electronics, sewing materials, and final assembly. This often requires it travelling to different factories.\n\nKo adds that in Guangdong these separate facilities are located close to each other, and used to \"working in harmony\". He says this makes the whole manufacturing process run more smoothly than in other countries.\n\nThe ship\n\nFrom the factory, the toy goes by truck to a port, such as Shenzhen, the biggest in Guangdong.\n\nIvy Tse is co-founder of FreightAmigo, a Hong Kong logistics company that runs an online platform for both Hong Kong and mainland China exporters. These businesses can book a cargo container, sea passage to an overseas destination, arrange insurance cover, and secure finance.\n\nTse says it takes about 15 days for a cargo ship to get from Shenzhen to the US west coast, and 25 to 30 days to the east coast. This year's Christmas toys left China in August and September.\n\nFreight, from factory to the US, usually adds about 10% to the manufacturing cost of a toy, adds Tse. So if we stick to a toy that retails for $30 in the US, and therefore costs $6 to make in China, the cost of getting it to the states is 60 cents.\n\nThe US border\n\nOnce the toy reaches the US there is currently a tariff on Chinese toys that has to be paid to the US Customs and Border Protection (CBP).\n\nFollowing talks between President Trump and Chinese leader Xi Jinping last month, the two governments have recommended toys for lower tariffs. But no new rate or start date has been set, and the US must first hold a public consultation. For now the basic rate is 12.5%, and some toys pay more.\n\nThis is charged on the manufacturing price of the toy, not on how much it retails for. So for a $30 toy, that basic rate is 12.5% of $6, which is 75 cents.\n\nThis tariff is paid for by the American company that has imported the toys. One such firm is Learning Resources, a family business based near Chicago that sells educational toys. Half of these it imports from China.\n\n\"We pay 100% of the tariffs, let there be no doubt about that,\" says the company's chief executive Rick Woldenberg.\n\nThe US toy company\n\nJay Foreman says that most of the money spent on a toy in the US doesn't leave the country\n\nThe cost of making the $30 toy, getting it to the US, and paying the import tariff, comes to $7.35. So that leaves $22.65, or 75.5% of the total.\n\nThat money never leaves the US, explains Foreman from Basic Fun. His firm, which is based in Florida, makes Tonka trucks and Care Bears cuddly toys.\n\n\"It's kept by my company, the [US] transportation company, the retailer,\" he says.\n\nIf we allow $2.65 for the US delivery firm, the toy company and the retailer will typically share the remaining revenues 50-50. So that would give them $10 each.\n\nWhile profit margins are commercially sensitive and therefore not generally revealed, industry studies show that the toy firm and retailer would usually make a profit of up to 25% or $2.50.\n\nGetting a toy onto the shelves in the US requires both a lot of work and a long journey.\n\nRelated topics\n\nInternational Business\n\nWorld of Business\n\nChina\n\nChina economy\n\nTrump tariffs\n\nGlobal trade\n\nUS economy\n\nChina-US relations\n\nMore on this story\n\nHow oil-rich Alberta's economy might fare if it broke away from Canada Published 7 days ago\n\nThe wealthy Cuban Americans ready and waiting for Havana to fall Published 2 October\n\nHow the oil capital of the US welcomed a solar power boom Published 24 September",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -169,14 +169,14 @@
       "imageHeight": 630
     },
     {
-      "id": "10c948e1c9d85c99",
-      "title": "Why Zelensky's meeting with Burnham matters",
-      "summary": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Ukraine.",
+      "id": "aefb85e67f9cfc12",
+      "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+      "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o",
+      "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o",
       "source": "BBC Politics",
       "publisher": "BBC",
-      "published": "2026-10-14T20:41:03Z",
+      "published": "2026-10-15T01:07:59Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
@@ -186,14 +186,42 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 273,
-      "readingMinutes": 2,
+      "wordCount": 1055,
+      "readingMinutes": 5,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/069c/live/567fb8d0-c817-11f1-a64c-550be9e3c66b.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nPrime Minister Andy Burnham welcomed President Volodymyr Zelensky to Downing Street on Wednesday, as the Ukrainian leader looks to shore up his European allies five years into Russia's war on Ukraine.\n\nBurnham told Zelensky that Britain \"would forever stand by you\" and that he was accelerating the delivery of air defences to Ukraine.\n\nBurnham previously told MPs that he would try to \"repair bridges\" between Ukraine and the United States and that Ukraine won't leave \"empty-handed\".\n\nThe two leaders met at No 10 Downing Street where Zelensky was welcomed with a military ceremonial guard - thought to be a first for a foreign leader.\n\nBBC World News correspondent Joe Inwood explains what we know about the meeting.\n\nRead more about the meeting in London.\n\nSubsection Politics\n\nPublished 2 hours ago\n\nRelated topics\n\nAndy Burnham Follow Andy Burnham close panel You are now following Andy Burnham Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nVolodymyr Zelensky Follow Volodymyr Zelensky close panel You are now following Volodymyr Zelensky Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUkraine Follow Ukraine close panel You are now following Ukraine Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nWar in Ukraine Follow War in Ukraine close panel You are now following War in Ukraine Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg",
+      "body": "Man City chairman Khaldoon Al Mubarak (left) chats to Andy Burnham in 2019 at the Etihad Stadium, when he was mayor of Greater Manchester\n\nPublished 14 October 2026\n\nAndy Burnham had two hospitality dinners with Manchester City football club's chairman while mayor of Greater Manchester, it has emerged.\n\nThe PM dined with Khaldoon Al Mubarak at matches in 2017 and 2018 - but this was not detailed in a statement on Monday by the Greater Manchester Combined Authority (GMCA) about his meetings with the club.\n\nBurnham has been under pressure to clarify his previous discussions with Man City since the club was found guilty of having \"systematically\" broken Premier League rules, which it will appeal.\n\nThe PM, who was mayor until June, sparked widespread controversy when he said last month he would be \"really concerned\" if the club's owners now sold up.\n\nSeparately, it has emerged that a representative from the club joined a trade mission to India this week alongside Burnham's successor as mayor of Greater Manchester Bev Craig.\n\nThe trade mission was organised by the business department, but as first reported in the Guardian, , external Manchester City's invitation came from the Great North, a coalition of Northern mayors and regional leaders.\n\nThe government said it played no role in approving the club's presence on the trip.\n\nMan City guilty of 'sham' contracts and misleading accounts Published 29 September\n\nOn Monday, the GMCA released a statement about Burnham's meetings with Man City in his role as mayor for the region for almost a decade.\n\nThe statement said he had a formal meeting with Al Mubarak in October 2021 at the UK Government's Global Investment Summit, arranged by the Department for International Trade; and that he met the club chairman \"informally in the stands\" at a testimonial match in 2019 for former player Vincent Kompany.\n\nIt also said that \"in his capacity as mayor, he was a guest of Manchester City at home matches on a small number of occasions\".\n\nBut the statement did not specify that this referred to , external two hospitality dinners he had with the Manchester City chairman at separate matches.\n\nA previous GMCA register of declarations for Burnham, seen by the BBC, detailed a \"dinner with [then-Manchester City Council leader] Richard Leese and Chair of Man City\" for an Everton match at the Etihad stadium in August 2017, valued at £300 for hospitality.\n\nBelow is another entry for \"dinner with the Chairman at the Man City/Man Utd derby at the Etihad\" in April 2018, valued at approximately £699.\n\nBurnham previously declared those dinners, alongside a £150 pair of tickets to see Ed Sheeran perform at the stadium in May 2018.\n\nBut the register of declarations has since been deleted from the GMCA website, as first reported by The Sun. The BBC understands it is the authority's policy to only publish entries from the current mayoral term.\n\nBBC News has asked GMCA for more details about this policy - given its website has entries dating back to 2022, despite the current mayoral term beginning in 2024.\n\nDowning Street has defended the two dinners with Man City's chairman, saying this was hospitality received at home games, which had been declared, rather than separate meetings with the club chairman.\n\nBut political pressure on Burnham to be clearer about any former discussions with Man City is continuing to mount.\n\nTory shadow sports minister Louie French said: \"Andy Burnham promised the country and House of Commons full transparency on his dealings with Manchester City.\n\n\"This was essential after his inappropriate intervention into football.\"\n\nAnd Reform UK's Robert Jenrick said \"this saga stinks\" as he accused Burnham of having apparently \"concealed his extensive links to Man City's owners\".\n\nConservative leader Kemi Badenoch has demanded for several days that No 10 release all details of meetings between the prime minister and senior figures at the club.\n\nBurnham told the Rest Is Politics podcast last week he was \"happy\" to do this and would \"quite clearly put out there everything that I have done working with them in my previous role as Mayor of Greater Manchester\".\n\n\"None of it is recent, actually, in terms of the meetings I had. I only had one significant meeting, actually, and that was in 2021.\"\n\nAsked at Prime Minister's Questions on Wednesday whether anyone at the club had raised the charges they were facing with him or his team, Burnham said: \"They did not raise those issues with me.\"\n\nWith the PM continuing to face pressure on the issue, he told MPs he was happy for \"everything to be set out in full\", referring to the GMCA's statement as \"a full statement of my key dealings with the owners of Manchester City Football Club\".\n\nWhen asked by reporters why the statement did not refer to the two dinners, and what the difference is between \"everything\" and \"key dealings\", the PM's press secretary referred back to the GMCA statement.\n\nThe list of meetings, which was published by the GMCA on Monday, did not include detail on what was discussed. The BBC has asked GMCA why the two dinners were not specifically mentioned.\n\nIn September Man City - which has dominated the top flight of English football for years - was found guilty by an independent commission of breaching Premier League financial regulations.\n\nThe commission found City had broken rules over a nine-year period between 2009 and 2018 by creating \"sham\" contracts with commercial partners to secretly funnel more than £830m into their football operations.\n\nSanctions are yet to be announced and City, which denies any wrongdoing, has lodged an appeal against the verdict.\n\nEarlier this month, Sir Richard Leese - who was head of Manchester City Council for 25 years until 2021 - defended a decade-old deal between the council and Man City owners Abu Dhabi United Group (ADUG).\n\nUnder the partnership between the authority and the company, which is linked to the United Arab Emirates royal family, land was leased to ADUG at \"below comparable rates\", according to a University of Sheffield report.\n\nMan City not 'above the rules', says No 10 after backlash to Burnham remarks Published 2 October\n\nClubs fear political interference in Man City appeal Published 6 days ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham\n\nMayor of Greater Manchester",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "6d8adc84f6d01f58",
+      "title": "DHS Inspector General Finds That TSA is Not Properly Safeguarding Passenger Facial Recognition Data",
+      "summary": "EFF legal intern Gabrielle Ladun was the principal author of this post. The Department of Homeland Security Office of Inspector General (DHS OIG) has published a summary of findings from its audit of the Transportation Security Administration’s (TSA) facial recognition technology. While the detailed findings are classified, the summary states that the OIG’s audit uncovered a “significant weakness” in the technology’s ability to protect the privacy of passenger data. This has massive privacy implications for the millions of passengers who travel and don’t opt out of the TSA’s biometric surveillance technology verification process. TSA uses facial comparison technology for identity verification of airline passengers. A camera takes a photo of passengers to verify that their provided identification matches their live photo. Although TSA states that it is “ committed to protecting traveler privacy ,” the audit highlights that this has not been the case. The OIG found that TSA’s Credential Authentication Technology 2’s (CAT-2) vendor “was able to access and extract sensitive passenger information, including driver’s license and passport images, during system troubleshooting and enhancements, without TSA’s knowledge.” The OIG further admonished the agency: TSA lacked clear policies, did not track when this data was extracted, could not verify that extracted information was properly deleted, and did not notify passengers when their biometric and biographic information may have been stored. As a result, although passenger information was generally protected during routine operations, weaknesses in vendor oversight created a risk that sensitive personal information could be retained or exposed. We hope the TSA will fix these issues. The OIG summary states: We issued one finding and three recommendations to strengthen controls, improve oversight, and ensure transparency and the proper handling of passenger data. TSA concurred with all three recommendations. Two recommendations are open and resolved, and one remains open and unresolved. Why EFF Opposes the Government’s Use of Facial Recognition Technology EFF has a long history of opposing governmental use of facial recognition technology. As the OIG’s audit underscores, this technology presents privacy risks associated with unsecured data, unauthorized access, and data breaches. The government’s use of this…",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.eff.org/deeplinks/2026/10/dhs-inspector-general-finds-tsa-not-properly-safeguarding-passenger-facial",
+      "source": "Electronic Frontier Foundation",
+      "publisher": "Electronic Frontier Foundation",
+      "published": "2026-10-14T20:27:13Z",
+      "category": "Tech",
+      "region": "US",
+      "labels": [
+        "Tech",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 1080,
+      "readingMinutes": 5,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://www.eff.org/files/banner_library/whyfacebanner.png",
+      "imageAlt": "The angular outline of three faces as a computer might see them, colored like a rainbow",
+      "body": "EFF legal intern Gabrielle Ladun was the principal author of this post.\n\nThe Department of Homeland Security Office of Inspector General (DHS OIG) has published a summary of findings from its audit of the Transportation Security Administration’s (TSA) facial recognition technology. While the detailed findings are classified, the summary states that the OIG’s audit uncovered a “significant weakness” in the technology’s ability to protect the privacy of passenger data. This has massive privacy implications for the millions of passengers who travel and don’t opt out of the TSA’s biometric surveillance technology verification process.\n\nTSA uses facial comparison technology for identity verification of airline passengers. A camera takes a photo of passengers to verify that their provided identification matches their live photo. Although TSA states that it is “ committed to protecting traveler privacy ,” the audit highlights that this has not been the case.\n\nThe OIG found that TSA’s Credential Authentication Technology 2’s (CAT-2) vendor “was able to access and extract sensitive passenger information, including driver’s license and passport images, during system troubleshooting and enhancements, without TSA’s knowledge.”\n\nThe OIG further admonished the agency:\n\nTSA lacked clear policies, did not track when this data was extracted, could not verify that extracted information was properly deleted, and did not notify passengers when their biometric and biographic information may have been stored. As a result, although passenger information was generally protected during routine operations, weaknesses in vendor oversight created a risk that sensitive personal information could be retained or exposed.\n\nWe hope the TSA will fix these issues. The OIG summary states:\n\nWe issued one finding and three recommendations to strengthen controls, improve oversight, and ensure transparency and the proper handling of passenger data. TSA concurred with all three recommendations. Two recommendations are open and resolved, and one remains open and unresolved.\n\nWhy EFF Opposes the Government’s Use of Facial Recognition Technology\n\nEFF has a long history of opposing governmental use of facial recognition technology. As the OIG’s audit underscores, this technology presents privacy risks associated with unsecured data, unauthorized access, and data breaches. The government’s use of this technology also creates a mass surveillance system and facilitates the creation of warrantless biometric records for unconsenting parties.\n\nThe biometric data captured by this technology is not without errors. There have been multiple instances of law enforcement agencies using facial recognition technology to misidentify and arrest innocent individuals.\n\nReminder: Opting Out of TSA Photos Is Possible\n\nGiven that facial recognition technology is prone to mistakes, combined with the OIG’s audit revealing significant privacy weaknesses, it is imperative that travelers remember that opting out is possible. TSA’s own website emphasizes that travelers who wish to decline to have their photo taken for facial comparison can do so without any delay, disruption, or recourse.\n\nConsidering the data protection weaknesses exposed by the OIG’s audit, EFF will continue to oppose this governmental system of mass surveillance and spread awareness to ensure that no one is forced to relinquish their biometric data without consent.\n\nFederal Court Rules Suspicionless Searches of Travelers’ Phones and Laptops Unconstitutional\n\nBOSTON—In a major victory for privacy rights at the border, a federal court in Boston ruled today that suspicionless searches of travelers’ electronic devices by federal agents at airports and other U.S. ports of entry are unconstitutional. The ruling came in a lawsuit, Alasaad v. McAleenan , filed by...\n\nShareholders Demand To Know How Northrop Grumman Will Protect Human Rights While Building Massive DHS Database\n\nOver the next few years, the Department of Homeland Security (DHS) plans to implement an enormous biometric collection program which will endanger the rights of citizens and foreigners alike. The agency intends to collect at least seven types of biometric identifiers, including face and voice data, DNA, scars, and tattoos,...\n\nWe Got U.S. Border Officials to Testify Under Oath. Here’s What We Found Out\n\nThis is a guest post by Hugh Handeyside , Senior Staff Attorney, ACLU National Security Project, Nathan Freed Wessler , Staff Attorney, ACLU Speech, Privacy, and Technology Project, and Esha Bhandari , Staff Attorney, ACLU Speech, Privacy, and Technology Project. It was originally posted on the ACLU Speak Freely ...\n\nNew Documents Reveal DHS Asserting Broad, Unconstitutional Authority to Search Travelers’ Phones and Laptops\n\nBOSTON — The Electronic Frontier Foundation (EFF) and the ACLU today asked a federal court to rule without trial that the Department of Homeland Security violates the First and Fourth Amendments by searching travelers’ smartphones and laptops at airports and other U.S. ports of entry without a warrant.The request ...\n\nEFF to State Department: Respect Freedom of Speech of Chinese Students\n\nEFF joined a letter to Secretary of State Mike Pompeo opposing a proposal to deploy stronger vetting procedures against Chinese students intending to study in the United States because the procedures would threaten the free speech interests of both Chinese students and their American associates. Reuters reported that the...\n\nBorder Spy Tech Shouldn’t Be a Requirement for a Path to Citizenship\n\nThe Border Security and Immigration Reform Act ( H.R. 6136 ), introduced before Congress last week, would offer immigrants a new path to citizenship in exchange for increased high tech government surveillance of citizens and immigrants alike. The bill calls for increased DNA and other biometric screening, updated automatic license plate...\n\nHART: Homeland Security’s Massive New Database Will Include Face Recognition, DNA, and Peoples’ “Non-Obvious Relationships”\n\nEFF and Other Groups Fight State Department Collection of Social Media Information … Again\n\nEFF and 54 civil liberties organizations joined comments this week written by the Brennan Center for Justice and the Electronic Privacy Information Center (EPIC) standing up against the U.S. government’s plans to collect social media information from foreigners entering the United States. This is the fifth time we’ve fought this...\n\nEFF to New York Appellate Court: No Warrantless Searches of Devices at the Border\n\nIn a month of court victories for travelers' digital privacy, EFF continues its legal fight for Fourth Amendment rights at the border. We filed an amicus brief yesterday, along with the ACLU and NYCLU, urging a New York State appellate court to rule that border agents need a probable cause...\n\nEFF and ACLU Can Proceed With Legal Challenge Against Warrantless Searches of Travelers' Smartphones, Laptops\n\nBoston, Massachusetts—The Electronic Frontier Foundation (EFF), the American Civil Liberties Union (ACLU), and the ACLU of Massachusetts won a court ruling today allowing their groundbreaking lawsuit challenging unconstitutional searches of electronic devices at the U.S. border to proceed—a victory for the digital rights of all international travelers.EFF and ACLU ...",
+      "imageWidth": 1200,
+      "imageHeight": 630
     },
     {
       "id": "588ec2167bda61e8",
@@ -223,33 +251,6 @@
       "imageHeight": 648
     },
     {
-      "id": "84459f60392edfb1",
-      "title": "🗣 A Victory for Freedom of Speech Online | EFFector 38.18",
-      "summary": "No one should have to think twice before criticizing the government online. But a mass surveillance program known as \"Catch and Revoke\" was created to make millions do just that. EFF and other defenders of free speech are fighting back. In our latest EFFector newsletter , we're talking about a key court win for our lawsuit challenging this unconstitutional surveillance program . JOIN OUR NEWSLETTER For over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This issue covers our Opt Out October guides for ditching Big Tech , a win in the fight against anti-VPN laws , and a court ruling allowing the lawsuit against \"Catch and Revoke\" to move forward. Prefer to listen in? EFFector is now available on all major podcast platforms. This time we're talking to EFF's Lisa Femia about how the government is using AI to suppress protected speech online—and the important lawsuit she and others are working on to stop it. You can find the episode and subscribe on your podcast platform of choice : %3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2F1f21c2ee-32ed-41ab-b0a8-eb86edda26ed%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E Privacy info. This embed will serve content from simplecast.com Want to protect your right to digital privacy? Sign up for EFF's EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight for privacy and free speech online when you support EFF today !",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.eff.org/deeplinks/2026/10/victory-freedom-speech-online-effector-3818",
-      "source": "Electronic Frontier Foundation",
-      "publisher": "Electronic Frontier Foundation",
-      "published": "2026-10-14T16:25:23Z",
-      "category": "Tech",
-      "region": "US",
-      "labels": [
-        "Tech",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 269,
-      "readingMinutes": 2,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://www.eff.org/files/banner_library/effector-green-web.png",
-      "imageAlt": "Subscribe via RSS badge",
-      "imageWidth": 1200,
-      "imageHeight": 600
-    },
-    {
       "id": "c982d1dd6e9406dc",
       "title": "Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns",
       "summary": "Ola Källenius says it will ‘weaken the industry on both sides’ ahead of act intended to counter non-EU competition Locking the UK out of the EU’s flagship industrial “Made in Europe” legislation would amount to a “deliberate choice” by EU leaders to “hurt” the car industry across the bloc, the head of Mercedes-Benz has said. Speaking in his capacity as president of the European Automobile Manufacturers’ Association (ACEA), Ola Källenius said such a move would “weaken the industry on both sides”. Continue reading...",
@@ -277,14 +278,14 @@
       "imageHeight": 630
     },
     {
-      "id": "aca2d7e8fa3ca334",
-      "title": "Reform faces criticism after councillors filmed making racist comments",
-      "summary": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended.",
+      "id": "10c948e1c9d85c99",
+      "title": "Why Zelensky's meeting with Burnham matters",
+      "summary": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Ukraine.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo",
+      "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o",
       "source": "BBC Politics",
       "publisher": "BBC",
-      "published": "2026-10-14T22:34:47Z",
+      "published": "2026-10-14T20:41:03Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
@@ -294,14 +295,37 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 535,
-      "readingMinutes": 3,
+      "wordCount": 273,
+      "readingMinutes": 2,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6efd/live/a7d8ab70-c811-11f1-925d-65836471714f.jpg",
-      "body": "Published 38 minutes ago\n\nWarning: This report contains racist and offensive language.\n\nReform UK has said \"there is no room for racism\" in its party after ITV News broadcast undercover filming, gathered over a year, of some of its councillors and candidates using racist, violent and sexist language.\n\nIn the film, Undercover: A Year in Reform, , external a Reform councillor and deputy mayor of Solihull is recorded calling Asian homeowners \"parasites\".\n\nLabour described the investigation as \"truly sickening\" adding: \"Nigel Farage can't shrug these latest revelations off as being a few bad apples.\"\n\nA Reform spokesman said: \"Where members, activists and councillors have clearly behaved inappropriately, investigations have commenced\" and that in some cases there had been suspensions.\n\nThe spokesman added that the party had improved its procedures but some individuals who did not share their values would occasionally make it through vetting.\n\nITV's filming involved eight figures in Reform – the BBC does not know how many it spoke to in total.\n\nReform says the people filmed by ITV are all under investigation, and have already either resigned or been suspended.\n\nITV News says it had reporters undercover with Reform UK candidates and councillors across England and Wales running up to the elections in May and four by-election campaigns this year and last.\n\nThese reporters joined a Reform councillor, Alan Feeney, in Solihull, in the West Midlands, where he was campaigning to retain his seat on the council, having defected from the Conservative Party in 2025.\n\nHe told undercover reporters the area has been \"infested\" with Asian families, and called them \"absolute parasites\".\n\nLater in the film, he is recorded saying: \"I'd be saying no more than one per cent of British population can be non-white.\"\n\nThe BBC has tried to contact Feeney for a response. ITV has reported that on Monday evening he had \"mutually agreed\" to resign from Reform UK, citing \"personal reasons,\" and would be continuing as an independent councillor.\n\nReform Party leader Nigel Farage has repeatedly said he wants to get rid of those he has called \"bad apples.\"\n\nTwo years ago he said he didn't want Reform to be \"a sectarian or racially based party in any way at all\".\n\n\"I'm going to be absolutely ruthless about it,\" he said.\n\nIn a statement released after ITV's film was broadcast, Reform said the party \"had improved and prioritised its vetting procedures, but from time to time, a handful of individuals who do not share our values will initially make it through vetting\".\n\nThe Conservatives said: \"Nigel Farage promised to make Reform ready for government. These sorry individuals are proof he has failed.\"\n\nLiberal Democrat leader Sir Ed Davey said: \"This is chilling. I feel for anyone watching this tonight who is frightened to see such racism and hatred festering in their community.\"\n\nA Green Party spokesman said: \"Vilifying migrants and Muslims is Reform's main focus, and these racist comments reflect party policy.\"\n\nBigots not welcome in Reform UK, says Nigel Farage Published 20 September 2024\n\nReform candidate defects to Tories over racism row Published 30 June 2024\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nReform UK\n\nNigel Farage",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/069c/live/567fb8d0-c817-11f1-a64c-550be9e3c66b.jpg",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nPrime Minister Andy Burnham welcomed President Volodymyr Zelensky to Downing Street on Wednesday, as the Ukrainian leader looks to shore up his European allies five years into Russia's war on Ukraine.\n\nBurnham told Zelensky that Britain \"would forever stand by you\" and that he was accelerating the delivery of air defences to Ukraine.\n\nBurnham previously told MPs that he would try to \"repair bridges\" between Ukraine and the United States and that Ukraine won't leave \"empty-handed\".\n\nThe two leaders met at No 10 Downing Street where Zelensky was welcomed with a military ceremonial guard - thought to be a first for a foreign leader.\n\nBBC World News correspondent Joe Inwood explains what we know about the meeting.\n\nRead more about the meeting in London.\n\nSubsection Politics\n\nPublished 7 hours ago\n\nRelated topics\n\nAndy Burnham Follow Andy Burnham close panel You are now following Andy Burnham Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nVolodymyr Zelensky Follow Volodymyr Zelensky close panel You are now following Volodymyr Zelensky Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nUkraine Follow Ukraine close panel You are now following Ukraine Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nWar in Ukraine Follow War in Ukraine close panel You are now following War in Ukraine Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "996fda8e79b5548d",
+      "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+      "summary": "Iran says it does not seek an endless war, but vows to fight until the US accepts its demands as ships sink in Hormuz.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-15T00:00:00Z",
+      "category": "Politics",
+      "region": "Middle East",
+      "labels": [
+        "Politics",
+        "Middle East"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": true
     },
     {
       "id": "07743481c5d1208b",
@@ -449,7 +473,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e691/live/4f2f6b20-adf0-11f1-ad53-0d91a06f3150.jpg",
-      "body": "Kathryn Vaughn works many odd jobs to supplement her teacher's salary\n\nPublished 7 hours ago\n\nKathryn Vaughn returned to work at a rural West Tennessee elementary school this autumn with a lot more stress on her plate than in previous years.\n\nThe 46-year-old, like many Americans, is juggling how to provide for her family with rising costs of, as she described it, \"everything\".\n\nShe spends her days working three different jobs to support her family of four, including as a primary school art teacher, as US inflation continues to rise .\n\nOver the past 12 months, prices rose by 3.7% - up from 3.4% in the 12 months to August, according to officials numbers for September that were released on Wednesday. The price rise was more than economists and Wall Street analysts had forecast.\n\nHigh energy prices have driven up the cost of living in America as diesel prices have hit record highs and the price of gasoline has risen too, and all of this has landed on the shoulders of everyday Americans.\n\nOnce school finishes, Vaughn heads to her second job as a facilitator at an after-school programme for at-risk youth. Her five-year-old son can join too, reducing the need and cost of after-school care for Vaughn's family.\n\n\"I have done some incredibly unhinged things to survive,\" she said. \"I hand-modeled for a local jewelry store, I sell everything that sits longer than ten minutes at my house on Facebook swap sites, I resell clothes on ThredUp and Poshmark.\"\n\nVaughn even writes obituaries for people who have died to make extra money.\n\nAnd it is still not enough to support her family.\n\nVaughn said she had to cancel a trip to see her parents because she couldn't afford gas\n\nPunal Bhavsar thought 2026 was going to be the year he saved enough money to purchase a home.\n\n\"I was thinking the interest rates would decrease and then I'd be able to purchase a house, but I don't think that's likely now,\" he said.\n\nThe 39-year-old said the rise in the cost of goods has made saving money difficult.\n\nAnd the biggest burden for Bhavsar has become the price of gasoline.\n\n\"I drive a car that takes premium gas, and unfortunately, in California and the area that I live in, it's almost $6 (£4.5),\" he said.\n\nCome November, when midterm elections happen and the economic tumult is bound to be on voters' minds, Bhavsar said he may become a single-issue voter: \"For me, it's just like gas prices have got to be under control.\"\n\nPunal Bhavsar says he can't afford a home with interest rates as high as they are\n\nHe described the current economic outlook as bleak, and the numbers back him up.\n\nThe Gallup Economic Confidence Index summarizes Americans' assessments of current economic conditions and economic outlook and puts them on a scale of -100 to +100. In September, the index was -40. In May, it reached -45, the lowest since 2022.\n\nA summer survey from the Guardian showed a staggering 95% of respondents think the US is in an affordability crisis.\n\nThis fall, across the US, people are finding ways to cope with that.\n\nWhen Caitlin Green first moved to Utah seven years ago, her mom moved her into her new home and left her with some wisdom: \"If you ever need a cheap, easy meal, always get ground beef.\"\n\nAs prices have increased, Green has struggled to follow that guidance. She remembers paying $2 a pound for ground beef; now she is paying $8, she said.\n\nCaitlin Green says she's had to get creative with recipes because of the high cost of beef\n\nInstead, Green and her husband sometimes choose alternatives, opting for ground turkey or ground chicken.\n\n\"[Ground beef] is almost ...not a luxury like steak... but it's just to the point where it's become a luxury; we have to think about it if we're going to purchase it,\" she said.\n\nGreen and her husband have gone from spending some $200 a month on groceries to $400 a month.\n\n\"I understand inflation is a thing, but I just feel like in my lifetime, I've never seen inflation hit so quickly and so drastically.\"\n\nFor Vaughn, the Tennessee school teacher, the difficult choices keep coming.\n\nShe was gobsmacked as her children returned to school, at the $130 bill she faced for her five-year-old son's school supplies.\n\nVaughn made the call to have her son purchase lunch at school each day, rather than take homemade lunches, as the cost of groceries continues to rise and she calculated it would be a cheaper choice.\n\nThe family has even decided to forgo a trip to Florida this autumn to see Vaughn's parents because the price of gasoline is too much.\n\n\"It's rough out here,\" she says. \"The cost of everything is insane. Gas to get to work, my insurance costs have gone up, feeding two children and a husband. It's a lot.\"\n\nRelated topics\n\nCost of Living\n\nUnited States\n\nMore on this story\n\nUS inflation rises more than expected - here's what is happening with prices Published 7 hours ago\n\nTrump wants to reduce the cost of fuel as the midterms loom - will it work? Published 5 days ago",
+      "body": "Kathryn Vaughn works many odd jobs to supplement her teacher's salary\n\nPublished 14 October 2026\n\nKathryn Vaughn returned to work at a rural West Tennessee elementary school this autumn with a lot more stress on her plate than in previous years.\n\nThe 46-year-old, like many Americans, is juggling how to provide for her family with rising costs of, as she described it, \"everything\".\n\nShe spends her days working three different jobs to support her family of four, including as a primary school art teacher, as US inflation continues to rise .\n\nOver the past 12 months, prices rose by 3.7% - up from 3.4% in the 12 months to August, according to officials numbers for September that were released on Wednesday. The price rise was more than economists and Wall Street analysts had forecast.\n\nHigh energy prices have driven up the cost of living in America as diesel prices have hit record highs and the price of gasoline has risen too, and all of this has landed on the shoulders of everyday Americans.\n\nOnce school finishes, Vaughn heads to her second job as a facilitator at an after-school programme for at-risk youth. Her five-year-old son can join too, reducing the need and cost of after-school care for Vaughn's family.\n\n\"I have done some incredibly unhinged things to survive,\" she said. \"I hand-modeled for a local jewelry store, I sell everything that sits longer than ten minutes at my house on Facebook swap sites, I resell clothes on ThredUp and Poshmark.\"\n\nVaughn even writes obituaries for people who have died to make extra money.\n\nAnd it is still not enough to support her family.\n\nVaughn said she had to cancel a trip to see her parents because she couldn't afford gas\n\nPunal Bhavsar thought 2026 was going to be the year he saved enough money to purchase a home.\n\n\"I was thinking the interest rates would decrease and then I'd be able to purchase a house, but I don't think that's likely now,\" he said.\n\nThe 39-year-old said the rise in the cost of goods has made saving money difficult.\n\nAnd the biggest burden for Bhavsar has become the price of gasoline.\n\n\"I drive a car that takes premium gas, and unfortunately, in California and the area that I live in, it's almost $6 (£4.5),\" he said.\n\nCome November, when midterm elections happen and the economic tumult is bound to be on voters' minds, Bhavsar said he may become a single-issue voter: \"For me, it's just like gas prices have got to be under control.\"\n\nPunal Bhavsar says he can't afford a home with interest rates as high as they are\n\nHe described the current economic outlook as bleak, and the numbers back him up.\n\nThe Gallup Economic Confidence Index summarizes Americans' assessments of current economic conditions and economic outlook and puts them on a scale of -100 to +100. In September, the index was -40. In May, it reached -45, the lowest since 2022.\n\nA summer survey from the Guardian showed a staggering 95% of respondents think the US is in an affordability crisis.\n\nThis fall, across the US, people are finding ways to cope with that.\n\nWhen Caitlin Green first moved to Utah seven years ago, her mom moved her into her new home and left her with some wisdom: \"If you ever need a cheap, easy meal, always get ground beef.\"\n\nAs prices have increased, Green has struggled to follow that guidance. She remembers paying $2 a pound for ground beef; now she is paying $8, she said.\n\nCaitlin Green says she's had to get creative with recipes because of the high cost of beef\n\nInstead, Green and her husband sometimes choose alternatives, opting for ground turkey or ground chicken.\n\n\"[Ground beef] is almost ...not a luxury like steak... but it's just to the point where it's become a luxury; we have to think about it if we're going to purchase it,\" she said.\n\nGreen and her husband have gone from spending some $200 a month on groceries to $400 a month.\n\n\"I understand inflation is a thing, but I just feel like in my lifetime, I've never seen inflation hit so quickly and so drastically.\"\n\nFor Vaughn, the Tennessee school teacher, the difficult choices keep coming.\n\nShe was gobsmacked as her children returned to school, at the $130 bill she faced for her five-year-old son's school supplies.\n\nVaughn made the call to have her son purchase lunch at school each day, rather than take homemade lunches, as the cost of groceries continues to rise and she calculated it would be a cheaper choice.\n\nThe family has even decided to forgo a trip to Florida this autumn to see Vaughn's parents because the price of gasoline is too much.\n\n\"It's rough out here,\" she says. \"The cost of everything is insane. Gas to get to work, my insurance costs have gone up, feeding two children and a husband. It's a lot.\"\n\nRelated topics\n\nCost of Living\n\nUnited States\n\nMore on this story\n\nUS inflation rises more than expected - here's what is happening with prices Published 13 hours ago\n\nTrump wants to reduce the cost of fuel as the midterms loom - will it work? Published 5 days ago",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -461,13 +485,37 @@
       "url": "https://www.mlb.com/bluejays/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
       "source": "Toronto Blue Jays",
       "publisher": "MLB",
-      "published": "2026-10-14T20:27:00Z",
+      "published": "2026-10-14T23:48:00Z",
       "category": "Sports",
       "region": "Canada",
       "labels": [
         "Sports",
         "Canada",
         "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "a42d8f7163324d88",
+      "title": "Here's one stat from each farm system that caught our eye in 2026",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/best-prospect-stat-from-each-mlb-farm-system-2026",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-10-14T23:00:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
         "Blue Jays"
       ],
       "sourceWeight": 5,
@@ -630,31 +678,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dc5/live/626fc4d0-c74c-11f1-b4d5-87f9c6c95a29.jpg"
-    },
-    {
-      "id": "dbed8694ca5ccc5a",
-      "title": "Reinvigorated and revamped Bloss headlines Blue Jays' Fall League contingent",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/blue-jays-arizona-fall-league-overview-2026",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-10-13T14:06:27Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "48854271264345a2",
@@ -1021,12 +1044,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 785,
+      "wordCount": 814,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a2be/live/2e4043e0-c7f3-11f1-9909-8f8db2b4c4ac.png",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWhy Zelensky's meeting with Burnham matters\n\nPublished 14 October 2026, 18:07 BST\n\n\"We are behind you and that will not change,\" Andy Burnham has told Volodymyr Zelensky, as he hosted the Ukrainian leader in Downing Street.\n\nZelensky was in London as part of efforts to reinforce backing from allies after Donald Trump called for him to go and lifted sanctions on Russian diesel.\n\nThe prime minister said Ukraine was willing to discuss an energy ceasefire proposed by the US president but said Russia's response had been \"further attacks on critical national infrastructure in Ukraine\".\n\nZelensky said: \"Our people, we survived and continue to do this because we have strong partners and I'm very proud that we have one of the strongest partners in our history and it's your people, Andy.\"\n\nThe Ukrainian president was greeted with a hug from Burnham, cheers from civil servants and a rare honour guard as he arrived in Downing Street.\n\nAhead of Zelensky's arrival, No 10 announced it would speed up delivery of lightweight multirole missiles to Ukraine, which have been used to bring down Russian drones.\n\nBurnham careful as he meets Zelensky but promises Ukraine won't leave 'empty handed' Published 3 hours ago\n\nStarlink restrictions in Ukraine war linked to political situation, Zelensky aide says Published 10 hours ago\n\nRussia's offensive ability is broken, Kyiv's former top general tells BBC Published 1 day ago\n\nUkrainian officials have said that overnight strikes by Russian missiles and drones had left at least 600,000 people without electricity.\n\nFor the second consecutive night, Ukraine said it had not received advanced warning from its allies of a wave of missile strikes coming from Russia.\n\nZelensky has suggested the US had threatened to restrict intelligence-sharing unless he agreed to sign up to an energy ceasefire. Trump has denied the US is holding back information.\n\nAn adviser to the president has also said Ukraine's ability to defend itself from incoming missiles has been hindered by disruptions to its connection with the Starlink internet network, owned by Elon Musk's SpaceX company.\n\nSerhiy Beskrestnov said the move \"cannot be a coincidence and is related to the current political situation\". The firm has not commented.\n\nSpeaking in Downing Street, Burnham said the recent days had been \"dark and difficult\" for Ukraine, with the country suffering \"heavy bombardment\".\n\nHe told the Ukrainian leader: \"You have seen the solidarity and the support you have got from everybody here in Britain.\n\n\"We are behind you and that will not change.\"\n\nEarlier in the day, Burnham had been invited to criticise the US decision to lift sanctions on Russia, when, at Prime Minister's Questions, Lib Dem leader Sir Ed Davey asked if the PM agreed there had been a \"shameful Trump betrayal\".\n\nBurnham acknowledged that Zelensky was \"carrying the heaviest of weights\" but avoided attacking Trump, instead telling MPs that his role was to \"repair bridges so that the support comes back\".\n\n\"Therefore I should, at this moment in time, be careful in terms of laying the ground to bring people back together.\"\n\nHe added that Zelensky would not come away from his trip \"empty-handed\".\n\nIn a statement following the meeting, a Downing Street spokeswoman said the leaders had discussed \"Russia's blatant indiscriminate attacks on civilians and energy infrastructure\".\n\nShe said the prime minister promised that the UK would continue to develop \"innovative military solutions for use on the battlefield in Ukraine, including retrofitting British capability onto equipment gifted from other partners\".\n\nThe King held an audience with President Zelensky at Buckingham Palace as part of his visit to the UK\n\nOn Friday, Trump shocked European allies when he announced that he had reached a deal with Russian President Vladimir Putin to release an initial 300,000 tonnes of diesel, with more to follow.\n\nConcerns about the cost of living are playing a key part in the US's November elections and the US president hopes his deal with Russia will reduce the cost of diesel.\n\nThe agreement runs counter to sanctions imposed on Russia by the US and its allies in a bid to choke off funds for Putin's war in Ukraine.\n\nThe deal came days after Trump accused Zelensky of wanting to \"make problems for the world\" and that it was time for Ukraine to \"get a new president\".\n\nThe criticism marks a renewal of Trump's previous hostility towards Zelensky which resulted in an infamous public row between the two men in the Oval Office.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham\n\nVolodymyr Zelensky\n\nWar in Ukraine",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nWhy Zelensky's meeting with Burnham matters\n\nPublished 14 October 2026\n\n\"We are behind you and that will not change,\" Andy Burnham has told Volodymyr Zelensky, as he hosted the Ukrainian leader in Downing Street.\n\nZelensky was in London as part of efforts to reinforce backing from allies after Donald Trump called for him to go and lifted sanctions on Russian diesel.\n\nThe prime minister said Ukraine was willing to discuss an energy ceasefire proposed by the US president but said Russia's response had been \"further attacks on critical national infrastructure in Ukraine\".\n\nZelensky said: \"Our people, we survived and continue to do this because we have strong partners and I'm very proud that we have one of the strongest partners in our history and it's your people, Andy.\"\n\nThe Ukrainian president was greeted with a hug from Burnham, cheers from civil servants and a rare honour guard as he arrived in Downing Street.\n\nAhead of Zelensky's arrival, No 10 announced it would speed up delivery of lightweight multirole missiles to Ukraine, which have been used to bring down Russian drones.\n\nBurnham careful as he meets Zelensky but promises Ukraine won't leave 'empty handed' Published 8 hours ago\n\nStarlink restrictions in Ukraine war linked to political situation, Zelensky aide says Published 15 hours ago\n\nRussia's offensive ability is broken, Kyiv's former top general tells BBC Published 1 day ago\n\nUkrainian officials have said that overnight strikes by Russian missiles and drones had left at least 600,000 people without electricity.\n\nFor the second consecutive night, Ukraine said it had not received advanced warning from its allies of a wave of missile strikes coming from Russia.\n\nZelensky has suggested the US had threatened to restrict intelligence-sharing unless he agreed to sign up to an energy ceasefire. Trump has denied the US is holding back information.\n\nAn adviser to the president has also said Ukraine's ability to defend itself from incoming missiles has been hindered by disruptions to its connection with the Starlink internet network, owned by Elon Musk's SpaceX company.\n\nSerhiy Beskrestnov said the move \"cannot be a coincidence and is related to the current political situation\".\n\nWriting on X, Musk said that Starshield, the military-grade sister service to Starlink, is controlled by the US government, and \"any limits on speed or usage are decided by the US military and ultimately [the US president]\".\n\nSpeaking in Downing Street, Burnham said the recent days had been \"dark and difficult\" for Ukraine, with the country suffering \"heavy bombardment\".\n\nHe told the Ukrainian leader: \"You have seen the solidarity and the support you have got from everybody here in Britain.\n\n\"We are behind you and that will not change.\"\n\nEarlier in the day, Burnham had been invited to criticise the US decision to lift sanctions on Russia, when, at Prime Minister's Questions, Lib Dem leader Sir Ed Davey asked if the PM agreed there had been a \"shameful Trump betrayal\".\n\nBurnham acknowledged that Zelensky was \"carrying the heaviest of weights\" but avoided attacking Trump, instead telling MPs that his role was to \"repair bridges so that the support comes back\".\n\n\"Therefore I should, at this moment in time, be careful in terms of laying the ground to bring people back together.\"\n\nHe added that Zelensky would not come away from his trip \"empty-handed\".\n\nIn a statement following the meeting, a Downing Street spokeswoman said the leaders had discussed \"Russia's blatant indiscriminate attacks on civilians and energy infrastructure\".\n\nShe said the prime minister promised that the UK would continue to develop \"innovative military solutions for use on the battlefield in Ukraine, including retrofitting British capability onto equipment gifted from other partners\".\n\nThe King held an audience with President Zelensky at Buckingham Palace as part of his visit to the UK\n\nOn Friday, Trump shocked European allies when he announced that he had reached a deal with Russian President Vladimir Putin to release an initial 300,000 tonnes of diesel, with more to follow.\n\nConcerns about the cost of living are playing a key part in the US's November elections and the US president hopes his deal with Russia will reduce the cost of diesel.\n\nThe agreement runs counter to sanctions imposed on Russia by the US and its allies in a bid to choke off funds for Putin's war in Ukraine.\n\nThe deal came days after Trump accused Zelensky of wanting to \"make problems for the world\" and that it was time for Ukraine to \"get a new president\".\n\nThe criticism marks a renewal of Trump's previous hostility towards Zelensky which resulted in an infamous public row between the two men in the Oval Office.\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham\n\nVolodymyr Zelensky\n\nWar in Ukraine",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1219,6 +1242,58 @@
       "imageHeight": 630
     },
     {
+      "id": "dbed8694ca5ccc5a",
+      "title": "Reinvigorated and revamped Bloss headlines Blue Jays' Fall League contingent",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/blue-jays-arizona-fall-league-overview-2026",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-10-13T14:06:27Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "aca2d7e8fa3ca334",
+      "title": "Reform faces criticism after councillors filmed making racist comments",
+      "summary": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-10-14T22:34:47Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 535,
+      "readingMinutes": 3,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6efd/live/a7d8ab70-c811-11f1-925d-65836471714f.jpg",
+      "body": "Published 5 hours ago\n\nWarning: This report contains racist and offensive language.\n\nReform UK has said \"there is no room for racism\" in its party after ITV News broadcast undercover filming, gathered over a year, of some of its councillors and candidates using racist, violent and sexist language.\n\nIn the film, Undercover: A Year in Reform, , external a Reform councillor and deputy mayor of Solihull is recorded calling Asian homeowners \"parasites\".\n\nLabour described the investigation as \"truly sickening\" adding: \"Nigel Farage can't shrug these latest revelations off as being a few bad apples.\"\n\nA Reform spokesman said: \"Where members, activists and councillors have clearly behaved inappropriately, investigations have commenced\" and that in some cases there had been suspensions.\n\nThe spokesman added that the party had improved its procedures but some individuals who did not share their values would occasionally make it through vetting.\n\nITV's filming involved eight figures in Reform – the BBC does not know how many it spoke to in total.\n\nReform says the people filmed by ITV are all under investigation, and have already either resigned or been suspended.\n\nITV News says it had reporters undercover with Reform UK candidates and councillors across England and Wales running up to the elections in May and four by-election campaigns this year and last.\n\nThese reporters joined a Reform councillor, Alan Feeney, in Solihull, in the West Midlands, where he was campaigning to retain his seat on the council, having defected from the Conservative Party in 2025.\n\nHe told undercover reporters the area has been \"infested\" with Asian families, and called them \"absolute parasites\".\n\nLater in the film, he is recorded saying: \"I'd be saying no more than one per cent of British population can be non-white.\"\n\nThe BBC has tried to contact Feeney for a response. ITV has reported that on Monday evening he had \"mutually agreed\" to resign from Reform UK, citing \"personal reasons,\" and would be continuing as an independent councillor.\n\nReform Party leader Nigel Farage has repeatedly said he wants to get rid of those he has called \"bad apples.\"\n\nTwo years ago he said he didn't want Reform to be \"a sectarian or racially based party in any way at all\".\n\n\"I'm going to be absolutely ruthless about it,\" he said.\n\nIn a statement released after ITV's film was broadcast, Reform said the party \"had improved and prioritised its vetting procedures, but from time to time, a handful of individuals who do not share our values will initially make it through vetting\".\n\nThe Conservatives said: \"Nigel Farage promised to make Reform ready for government. These sorry individuals are proof he has failed.\"\n\nLiberal Democrat leader Sir Ed Davey said: \"This is chilling. I feel for anyone watching this tonight who is frightened to see such racism and hatred festering in their community.\"\n\nA Green Party spokesman said: \"Vilifying migrants and Muslims is Reform's main focus, and these racist comments reflect party policy.\"\n\nBigots not welcome in Reform UK, says Nigel Farage Published 20 September 2024\n\nReform candidate defects to Tories over racism row Published 30 June 2024\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nReform UK\n\nNigel Farage",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
       "id": "8c9b7794eafdfd8d",
       "title": "UK resists EU pressure to hit China with tariffs",
       "summary": "Exclusive: Business secretary says he will not change trade rules due to EU pressure and denies UK will become a ‘back door’ for cheap imports The business secretary has hit back at European demands for British tariffs on Chinese imports, saying the government will not change its trade rules because of pressure from Brussels. Jonathan Reynolds warned that the government would not bow to calls from other countries for the UK to hit Chinese vehicles with import taxes, despite political pressure to align with the EU in exchange for deeper future economic ties. Continue reading...",
@@ -1268,7 +1343,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/935c/live/1c24f8c0-22eb-11f1-abe1-05da6de99c2b.png",
-      "body": "Published 1 hour ago\n\nHome Secretary Shabana Mahmood has threatened to ban all Eritreans from entering the UK if the east African country's government does not accept more returns of small boat migrants and foreign national offenders.\n\nFrom Thursday, Eritrean diplomats will face restrictions on their movement outside London. Fast-track visas will also be stopped for VIPs.\n\nMinisters have previously pressured other countries into accepting returns by threatening visa bans.\n\nEritreans were the most common nationality among small boats migrants in the 12 months to June - accounting for 18% of arrivals , external , according to figures from the House of Commons Library.\n\nThe Eritrean embassy in London has been contacted for comment.\n\n\"Eritrea has had every chance to accept the return of criminals and those with no right to be in the UK. Unlike other countries, it has refused,\" said Mahmood.\n\nShe said she would not hesitate \"to impose further measures on other countries refusing to co-operate\".\n\nThe UK government accused the Eritrean authorities of \"abruptly\" withdrawing co-operation earlier this year.\n\nThe restrictions mean diplomats are banned from travelling 60km outside London without permission.\n\nThe Home Office said this mirrored restrictions on British officials in Eritrea's capital Asmara.\n\nEarlier this year, the UK threatened bans against Angola, Namibia and the Democratic Republic of Congo (DRC).\n\nRestrictions were announced against the DRC last year, but the Home Office said these have been lifted after co-operation on returns improved.\n\nAngola and Namibia both agreed changes before restrictions were introduced.\n\nWhen announcing changes to the UK's asylum system in November, Mahmood said visa penalties would be applied to countries that failed to co-operate with returns policies.\n\nPenalties included an \"emergency brake\" on visas for countries with high asylum claims until they take back citizens in the UK illegally.\n\nAccording to Home Office data, more than 20,400 people have arrived in the UK by small boats so far since the beginning of this year, down 40% from the same period last year.\n\nThere were more than 40,600 returns and deportations from the UK from July 2025 to June this year - an 8% increase on the same period last year.\n\nOf those who had been returned, less than 6,000 has been convicted of a criminal offence.\n\nRelated topics\n\nMigration\n\nRefugees and asylum seekers\n\nMore on this story\n\nHundreds of migrants enter UK after 10-day lull Published 28 August\n\nUK restricts DR Congo visas over migrant return policy Published 27 December 2025\n\nThree African countries agree to UK migrant returns after visa penalty threat Published 6 February",
+      "body": "Published 6 hours ago\n\nHome Secretary Shabana Mahmood has threatened to ban all Eritreans from entering the UK if the east African country's government does not accept more returns of small boat migrants and foreign national offenders.\n\nFrom Thursday, Eritrean diplomats will face restrictions on their movement outside London. Fast-track visas will also be stopped for VIPs.\n\nMinisters have previously pressured other countries into accepting returns by threatening visa bans.\n\nEritreans were the most common nationality among small boats migrants in the 12 months to June - accounting for 18% of arrivals , external , according to figures from the House of Commons Library.\n\nThe Eritrean embassy in London has been contacted for comment.\n\n\"Eritrea has had every chance to accept the return of criminals and those with no right to be in the UK. Unlike other countries, it has refused,\" said Mahmood.\n\nShe said she would not hesitate \"to impose further measures on other countries refusing to co-operate\".\n\nThe UK government accused the Eritrean authorities of \"abruptly\" withdrawing co-operation earlier this year.\n\nThe restrictions mean diplomats are banned from travelling 60km outside London without permission.\n\nThe Home Office said this mirrored restrictions on British officials in Eritrea's capital Asmara.\n\nEarlier this year, the UK threatened bans against Angola, Namibia and the Democratic Republic of Congo (DRC).\n\nRestrictions were announced against the DRC last year, but the Home Office said these have been lifted after co-operation on returns improved.\n\nAngola and Namibia both agreed changes before restrictions were introduced.\n\nWhen announcing changes to the UK's asylum system in November, Mahmood said visa penalties would be applied to countries that failed to co-operate with returns policies.\n\nPenalties included an \"emergency brake\" on visas for countries with high asylum claims until they take back citizens in the UK illegally.\n\nAccording to Home Office data, more than 20,400 people have arrived in the UK by small boats so far since the beginning of this year, down 40% from the same period last year.\n\nThere were more than 40,600 returns and deportations from the UK from July 2025 to June this year - an 8% increase on the same period last year.\n\nOf those who had been returned, less than 6,000 has been convicted of a criminal offence.\n\nRelated topics\n\nMigration\n\nRefugees and asylum seekers\n\nMore on this story\n\nHundreds of migrants enter UK after 10-day lull Published 28 August\n\nUK restricts DR Congo visas over migrant return policy Published 27 December 2025\n\nThree African countries agree to UK migrant returns after visa penalty threat Published 6 February",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1343,12 +1418,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 633,
+      "wordCount": 630,
       "readingMinutes": 3,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbb8/live/e86febd0-c7d0-11f1-9e10-4dcbd31d4273.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nBurnham condemns Green Party's 'antisemitic' Zionism declaration\n\nPublished 14 October 2026, 14:39 BST\n\nAndy Burnham has said he will not support his party forming a partnership with the Green Party as long as it maintains a policy of defining Zionism as a form of racism.\n\nSpeaking in the House of Commons, the prime minister said the motion, backed by Green members at its party conference earlier this month, was \"wrong\" and \"antisemitic\" and Labour would have \"nothing to do with it\".\n\nThe motion said Zionism was an ideology supporting \"an ethnonationalist Jewish state in historic Palestine to the exclusion and/ or domination of the non-Jewish population\".\n\nIt was criticised by Jewish groups, as well as four Green MPs and two former leaders, one of whom said it was \"dangerous\" and \"divisive\".\n\nParty leader Zack Polanski has said the motion was \"imperfect\" and that he had wanted to see it amended.\n\nHowever, he has defended the substantial part of the motion arguing that \"the displacement and genocide of the Palestinian people is clearly underpinned by racist ideology\" was \"obvious\". Israel has repeatedly denied its actions in Gaza amount to genocide.\n\nThe motion, having been backed by members, has become party policy but will not necessarily be included in the party's manifesto at the next general election.\n\nThe subject was raised during Prime Minister's Questions, when Conservative MP Dame Harriett Baldwin urged Burnham to \"rule out co-operating\" with the Green Party.\n\nBurnham replied: \"Can I condemn the motion that was passed unequivocally.\n\n\"It is wrong, it is antisemitic, and this side of the House will have nothing to do with it.\n\n\"We will always take the right response when it comes to any partnerships we have with other parties.\n\n\"We cannot support a partnership with a party that holds the position that has recently been adopted.\"\n\nIn response to Burnham's comments, Polanski said: \"I'm the only Jewish leader of a political party. I'm a victim of antisemitism every day and I've made it clear Jewish people are welcome in my party.\n\n\"You're a prime minister who arms a genocide and locks pensioners up for opposing it.\"\n\nHe added that the \"blurring of challenging Israel and antisemitism\" was \"dangerous and irresponsible\".\n\nLabour is currently in coalition with the Green Party on local councils in Sheffield, Lewes and Warwick. In more than 10 other areas, Labour run the council with the Greens as part of a broader coalition.\n\nA Downing Street spokesman would not confirm if the prime minister's position extended to local areas or just applied to national government level.\n\nThe adoption of the motion has prompted some Green Party figures to call for changes to the party's rules.\n\nLast week, MP Ellie Chowns told the BBC: \"I think it is clear that if we have policy, such significant and damaging policy, made by a vote of just 0.4% of our members, that something isn't working in our structures and our policy-making process.\"\n\nMembers of the Green Party of England and Wales endorsed the policy motion by 1,022 votes to 813 - a small fraction of the 230,000 members in the party.\n\nKey backer of the motion Lubna Speitan has defended the motion arguing that it aimed to oppose \"racist systems of oppression\" adding: \"We stand united against all forms of racism and discrimination - no exemptions.\"\n\nI would not have voted for Zionism motion, Polanski says Published 5 days ago\n\nTensions exposed among Greens by 'Zionism is racism' conference vote Published 5 October\n\nUK announces sanctions on West Bank settlements prompting furious Israeli response Published 9 September\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nBurnham condemns Green Party's 'antisemitic' Zionism declaration\n\nPublished 14 October 2026\n\nAndy Burnham has said he will not support his party forming a partnership with the Green Party as long as it maintains a policy of defining Zionism as a form of racism.\n\nSpeaking in the House of Commons, the prime minister said the motion, backed by Green members at its party conference earlier this month, was \"wrong\" and \"antisemitic\" and Labour would have \"nothing to do with it\".\n\nThe motion said Zionism was an ideology supporting \"an ethnonationalist Jewish state in historic Palestine to the exclusion and/ or domination of the non-Jewish population\".\n\nIt was criticised by Jewish groups, as well as four Green MPs and two former leaders, one of whom said it was \"dangerous\" and \"divisive\".\n\nParty leader Zack Polanski has said the motion was \"imperfect\" and that he had wanted to see it amended.\n\nHowever, he has defended the substantial part of the motion arguing that \"the displacement and genocide of the Palestinian people is clearly underpinned by racist ideology\" was \"obvious\". Israel has repeatedly denied its actions in Gaza amount to genocide.\n\nThe motion, having been backed by members, has become party policy but will not necessarily be included in the party's manifesto at the next general election.\n\nThe subject was raised during Prime Minister's Questions, when Conservative MP Dame Harriett Baldwin urged Burnham to \"rule out co-operating\" with the Green Party.\n\nBurnham replied: \"Can I condemn the motion that was passed unequivocally.\n\n\"It is wrong, it is antisemitic, and this side of the House will have nothing to do with it.\n\n\"We will always take the right response when it comes to any partnerships we have with other parties.\n\n\"We cannot support a partnership with a party that holds the position that has recently been adopted.\"\n\nIn response to Burnham's comments, Polanski said: \"I'm the only Jewish leader of a political party. I'm a victim of antisemitism every day and I've made it clear Jewish people are welcome in my party.\n\n\"You're a prime minister who arms a genocide and locks pensioners up for opposing it.\"\n\nHe added that the \"blurring of challenging Israel and antisemitism\" was \"dangerous and irresponsible\".\n\nLabour is currently in coalition with the Green Party on local councils in Sheffield, Lewes and Warwick. In more than 10 other areas, Labour run the council with the Greens as part of a broader coalition.\n\nA Downing Street spokesman would not confirm if the prime minister's position extended to local areas or just applied to national government level.\n\nThe adoption of the motion has prompted some Green Party figures to call for changes to the party's rules.\n\nLast week, MP Ellie Chowns told the BBC: \"I think it is clear that if we have policy, such significant and damaging policy, made by a vote of just 0.4% of our members, that something isn't working in our structures and our policy-making process.\"\n\nMembers of the Green Party of England and Wales endorsed the policy motion by 1,022 votes to 813 - a small fraction of the 230,000 members in the party.\n\nKey backer of the motion Lubna Speitan has defended the motion arguing that it aimed to oppose \"racist systems of oppression\" adding: \"We stand united against all forms of racism and discrimination - no exemptions.\"\n\nI would not have voted for Zionism motion, Polanski says Published 5 days ago\n\nTensions exposed among Greens by 'Zionism is racism' conference vote Published 5 October\n\nUK announces sanctions on West Bank settlements prompting furious Israeli response Published 9 September\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1378,33 +1453,6 @@
       "body": "True story about a former maths teacher who became a puzzle champion in retirement is squeezed into predictable sports-movie formula\n\nI t’s not quite up there with Leonardo DiCaprio eating raw bison liver to get into character, but Michelle Yeoh reportedly spent two years learning the Rubik’s Cube to prepare for this Chinese drama in which she plays a real-life former maths teacher who became a champion in retirement. The true story is stretched and squeezed here, fictionalised to fit sports-movie formula; it ends up being so-so entertaining and funny in places, but disappointingly predictable. The biggest surprise is that cubing is so popular it has its own world championship.\n\nStill, Yeoh gives a superb, spiky performance as blunt, foul-tempered Zhao Yanhong; following a stroke, Zhao is living in a nursing home where she is the resident badass, assaulting her robot care companion and making illicit trips to the off-licence. She discovers her natural talent for the Rubik’s Cube when a washed-up ex-champion called Wu Youwei (Haoran Liu) comes to the nursing home to give a tutorial. What follows is a classic sports-film structure, with qualifying heats and Zhao training day and night, lifting weights and pounding the city streets. (Yes, running is de rigueur in a Rubik’s Cube movie; physical strength is Zhao’s weak spot says Wu, who agrees to be her coach.)\n\nYeoh is enjoyably irascible as Zhao, who goes viral after thrashing a kid in her first competition. Her online fans call her “Grandma Zhao” and the film gently chips away at stereotypes of the older generation; fans assume Zhao is a cuddly elder, while younger cubers underestimate her skill and stamina. Yeoh brings intelligence to the role, but it’s odd that after making Zhao so testy and short-tempered, the film is all soft edges with a squishy centre. Next, can we expect a biopic of the six-year-old Chinese girl who recently set a Rubik’s Cube world record , solving it in just over four seconds?\n\nFilm\n\nDrama films\n\nBiopics\n\nPuzzle games\n\nSport films\n\nComedy films\n\nChina\n\nreviews",
       "imageWidth": 1200,
       "imageHeight": 630
-    },
-    {
-      "id": "aefb85e67f9cfc12",
-      "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-      "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-10-14T12:47:43Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 982,
-      "readingMinutes": 5,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg",
-      "body": "Man City chairman Khaldoon Al Mubarak (left) chats to Andy Burnham in 2019 at the Etihad Stadium, when he was mayor of Greater Manchester\n\nPublished 14 October 2026, 11:06 BST\n\nAndy Burnham had two hospitality dinners with Manchester City football club's chairman while mayor of Greater Manchester, it has emerged.\n\nThe PM dined with Khaldoon Al Mubarak at matches in 2017 and 2018 - but this was not detailed in a statement on Monday by the Greater Manchester Combined Authority (GMCA) about his meetings with the club.\n\nBurnham has been under pressure to clarify his previous discussions with Man City since the club was found guilty of having \"systematically\" broken Premier League rules, which it will appeal.\n\nThe PM, who was mayor until June, sparked widespread controversy when he said last month he would be \"really concerned\" if the club's owners now sold up.\n\nOn Monday, the GMCA released a statement about Burnham's meetings with Man City in his role as mayor for the region for almost a decade.\n\nThe statement said he had a formal meeting with Al Mubarak in October 2021 at the UK Government's Global Investment Summit, arranged by the Department for International Trade; and that he met the club chairman \"informally in the stands\" at a testimonial match in 2019 for former player Vincent Kompany.\n\nIt also said that \"in his capacity as mayor, he was a guest of Manchester City at home matches on a small number of occasions\".\n\nBut the statement did not specify that this referred to , external two hospitality dinners he had with the Manchester City chairman at separate matches.\n\nA previous GMCA register of declarations for Burnham, seen by the BBC, detailed a \"dinner with [then-Manchester City Council leader] Richard Leese and Chair of Man City\" for an Everton match at the Etihad stadium in August 2017, valued at £300 for hospitality.\n\nBelow is another entry for \"dinner with the Chairman at the Man City/Man Utd derby at the Etihad\" in April 2018, valued at approximately £699.\n\nBurnham previously declared those dinners, alongside a £150 pair of tickets to see Ed Sheeran perform at the stadium in May 2018.\n\nBut the register of declarations has since been deleted from the GMCA website, as first reported by The Sun. The BBC understands it is the authority's policy to only publish entries from the current mayoral term.\n\nMan City guilty of 'sham' contracts and misleading accounts Published 29 September\n\nBBC News has asked GMCA for more details about this policy - given its website has entries dating back to 2022, despite the current mayoral term beginning in 2024.\n\nDowning Street has defended the two dinners with Man City's chairman, saying this was hospitality received at home games, which had been declared, rather than separate meetings with the club chairman.\n\nBut political pressure on Burnham to be clearer about any former discussions with Man City is continuing to mount.\n\nTory shadow sports minister Louie French said: \"Andy Burnham promised the country and House of Commons full transparency on his dealings with Manchester City.\n\n\"This was essential after his inappropriate intervention into football.\"\n\nAnd Reform UK's Robert Jenrick said \"this saga stinks\" as he accused Burnham of having apparently \"concealed his extensive links to Man City's owners\".\n\nConservative leader Kemi Badenoch has demanded for several days that No 10 release all details of meetings between the prime minister and senior figures at the club.\n\nBurnham told the Rest Is Politics podcast last week he was \"happy\" to do this and would \"quite clearly put out there everything that I have done working with them in my previous role as Mayor of Greater Manchester\".\n\n\"None of it is recent, actually, in terms of the meetings I had. I only had one significant meeting, actually, and that was in 2021.\"\n\nAsked at Prime Minister's Questions on Wednesday whether anyone at the club had raised the charges they were facing with him or his team, Burnham said: \"They did not raise those issues with me.\"\n\nWith the PM continuing to face pressure on the issue, he told MPs he was happy for \"everything to be set out in full\", referring to the GMCA's statement as \"a full statement of my key dealings with the owners of Manchester City Football Club\".\n\nWhen asked by reporters why the statement did not refer to the two dinners, and what the difference is between \"everything\" and \"key dealings\", the PM's press secretary referred back to the GMCA statement.\n\nThe list of meetings, which was published by the GMCA on Monday, did not include detail on what was discussed. The BBC has asked GMCA why the two dinners were not specifically mentioned.\n\nIn September Man City - which has dominated the top flight of English football for years - was found guilty by an independent commission of breaching Premier League financial regulations.\n\nThe commission found City had broken rules over a nine-year period between 2009 and 2018 by creating \"sham\" contracts with commercial partners to secretly funnel more than £830m into their football operations.\n\nSanctions are yet to be announced and City, which denies any wrongdoing, has lodged an appeal against the verdict.\n\nEarlier this month, Sir Richard Leese - who was head of Manchester City Council for 25 years until 2021 - defended a decade-old deal between the council and Man City owners Abu Dhabi United Group (ADUG).\n\nUnder the partnership between the authority and the company, which is linked to the United Arab Emirates royal family, land was leased to ADUG at \"below comparable rates\", according to a University of Sheffield report.\n\nMan City not 'above the rules', says No 10 after backlash to Burnham remarks Published 2 October\n\nClubs fear political interference in Man City appeal Published 6 days ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham\n\nMayor of Greater Manchester",
-      "imageWidth": 1200,
-      "imageHeight": 675
     },
     {
       "id": "7e35aed7df654dbd",
@@ -1651,12 +1699,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 771,
+      "wordCount": 768,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/268f/live/c260a180-c7a5-11f1-a624-a3d8608fc192.jpg",
-      "body": "Swindon leaders want the town included in the Thames Valley region\n\nPublished 14 October 2026, 06:31 BST\n\nIf you have ever been picked last for a sports team, or not invited to a party, you might know how the Borough of Swindon feels right now.\n\nThe government wants district and borough councils to be scrapped to make way for larger combined authorities, many of which will be run by mayors.\n\nThe issue for Swindon, however, is that some of the council leaders in Berkshire and Oxfordshire do not want Swindon to join them in a Thames Valley authority, arguing the geography does not work.\n\nSwindon Borough Council leader Gary Sumner said: \"It's like not being invited to the party with the popular kids.\"\n\nThe leader of Oxfordshire County Council Tim Bearder said: \"With no offence to my friends in Wiltshire, you are not in the Thames Valley.\"\n\nWhat is being proposed?\n\nThe government wants most areas of England to be under a mayoral authority, promising each area a greater say on how money should be spent as well as more power to unlock growth.\n\nIt means council areas being combined.\n\nUnder current plans Swindon would be included in the Thames Valley, which Sumner said would be good for the region.\n\n\"Swindon is a vast economic powerhouse in a potential Thames Valley devolution deal,\" he said.\n\n\"This is about coming together for growth we can pitch for infrastructure funds that can unlock investment in our town centre.\"\n\nMore from Wiltshire\n\nPlan for £303m bypass dropped by government Published 1 day ago\n\nWork to turn derelict site into museum set to begin Published 1 day ago\n\nPlan for 2,000 EV charging points gets green light Published 1 day ago\n\nConservative Sumner also said Swindon could help rural Oxfordshire councils reach a housing target under spatial development strategy , external by agreeing to allocate more land for housing in the town centre.\n\n\"Oxfordshire don't want their green fields covered in houses,\" he said.\n\n\"We've got brownfield sites that could deliver thousands and thousands of homes, at pace\".\n\nHowever, Bearder said: \"It is not something you can use as a bargaining chip to get into a Mayoral authority.\"\n\nPlans are stalling , with some council leaders arguing against Swindon being involved.\n\nSwindon's high street would benefit from investment, said the council leader\n\nWhy don't they want Swindon?\n\n\"Perhaps they don't like the cut of Swindon's jib,\" said Sumner. \"Perhaps they think they're too good for us.\n\n\"I'm really proud of our town and I'm upset when people think less of us and that's how it feels with two ends of the Thames Valley.\"\n\nWindsor and Maidenhead council leaders also objected to the most recent plans, partly on the basis that a Foundation Strategic Authority was being proposed, instead of one run by a Mayor .\n\nBut on Swindon, Liberal Democrat Bearder said: \"I don't think its a good fit. You would have to rearrange all the boundaries.\"\n\nIt is hoped under combined authorities, mayor and deputy mayors would also oversee things like the police and fire services - but currently Swindon's services operate in Wiltshire.\n\n\"It makes sense to have the set-up with Swindon staying in Wiltshire,\" Bearder said.\n\nMeanwhile, Wiltshire Council leaders are looking to form a Wessex Mayoral Authority with nearby Somerset, Dorset and Bournemouth, Christchurch and Poole.\n\nSome leaders across Oxfordshire and Berkshire are keen on Swindon being involved.\n\nLabour leader of Oxford City Council Susan Brown said it was \"vital\" Swindon was part of the Thames Valley.\n\n\"We're incredibly closely connected in terms of our economies,\" she said.\n\nWhat happens now?\n\nFor a plan to be submitted to government, it needs approval from all parties across affected councils.\n\n\"It has to be unanimous and I will only do that when it is right,\" said Bearder.\n\nCouncils are waiting to hear what the next steps will be but elsewhere in the country local government reorganisation has been paused .\n\nSumner said he would continue to make the case for Swindon, hoping other leaders will have a change of heart.\n\n\"We need the Prime Minister to say, \"If you want to see it happen, welcome Swindon,\" he said.\n\n\"This is the only thing that is going to get it across the line.\"\n\nThere are also discussions about whether or not Buckinghamshire and Milton Keynes would be part of the same group.\n\nGet in touch\n\nYour Voice\n\nFollow BBC Wiltshire on Facebook , external , X , external and Instagram , external . Send your story ideas to us on email or via WhatsApp on 0800 313 4630 .\n\nRelated topics\n\nSwindon\n\nLocal government\n\nLocal Government Association\n\nUK devolution\n\nSwindon Borough Council\n\nBerkshire",
+      "body": "Swindon leaders want the town included in the Thames Valley region\n\nPublished 14 October 2026\n\nIf you have ever been picked last for a sports team, or not invited to a party, you might know how the Borough of Swindon feels right now.\n\nThe government wants district and borough councils to be scrapped to make way for larger combined authorities, many of which will be run by mayors.\n\nThe issue for Swindon, however, is that some of the council leaders in Berkshire and Oxfordshire do not want Swindon to join them in a Thames Valley authority, arguing the geography does not work.\n\nSwindon Borough Council leader Gary Sumner said: \"It's like not being invited to the party with the popular kids.\"\n\nThe leader of Oxfordshire County Council Tim Bearder said: \"With no offence to my friends in Wiltshire, you are not in the Thames Valley.\"\n\nWhat is being proposed?\n\nThe government wants most areas of England to be under a mayoral authority, promising each area a greater say on how money should be spent as well as more power to unlock growth.\n\nIt means council areas being combined.\n\nUnder current plans Swindon would be included in the Thames Valley, which Sumner said would be good for the region.\n\n\"Swindon is a vast economic powerhouse in a potential Thames Valley devolution deal,\" he said.\n\n\"This is about coming together for growth we can pitch for infrastructure funds that can unlock investment in our town centre.\"\n\nMore from Wiltshire\n\nPlan for £303m bypass dropped by government Published 1 day ago\n\nWork to turn derelict site into museum set to begin Published 1 day ago\n\nPlan for 2,000 EV charging points gets green light Published 1 day ago\n\nConservative Sumner also said Swindon could help rural Oxfordshire councils reach a housing target under spatial development strategy , external by agreeing to allocate more land for housing in the town centre.\n\n\"Oxfordshire don't want their green fields covered in houses,\" he said.\n\n\"We've got brownfield sites that could deliver thousands and thousands of homes, at pace\".\n\nHowever, Bearder said: \"It is not something you can use as a bargaining chip to get into a Mayoral authority.\"\n\nPlans are stalling , with some council leaders arguing against Swindon being involved.\n\nSwindon's high street would benefit from investment, said the council leader\n\nWhy don't they want Swindon?\n\n\"Perhaps they don't like the cut of Swindon's jib,\" said Sumner. \"Perhaps they think they're too good for us.\n\n\"I'm really proud of our town and I'm upset when people think less of us and that's how it feels with two ends of the Thames Valley.\"\n\nWindsor and Maidenhead council leaders also objected to the most recent plans, partly on the basis that a Foundation Strategic Authority was being proposed, instead of one run by a Mayor .\n\nBut on Swindon, Liberal Democrat Bearder said: \"I don't think its a good fit. You would have to rearrange all the boundaries.\"\n\nIt is hoped under combined authorities, mayor and deputy mayors would also oversee things like the police and fire services - but currently Swindon's services operate in Wiltshire.\n\n\"It makes sense to have the set-up with Swindon staying in Wiltshire,\" Bearder said.\n\nMeanwhile, Wiltshire Council leaders are looking to form a Wessex Mayoral Authority with nearby Somerset, Dorset and Bournemouth, Christchurch and Poole.\n\nSome leaders across Oxfordshire and Berkshire are keen on Swindon being involved.\n\nLabour leader of Oxford City Council Susan Brown said it was \"vital\" Swindon was part of the Thames Valley.\n\n\"We're incredibly closely connected in terms of our economies,\" she said.\n\nWhat happens now?\n\nFor a plan to be submitted to government, it needs approval from all parties across affected councils.\n\n\"It has to be unanimous and I will only do that when it is right,\" said Bearder.\n\nCouncils are waiting to hear what the next steps will be but elsewhere in the country local government reorganisation has been paused .\n\nSumner said he would continue to make the case for Swindon, hoping other leaders will have a change of heart.\n\n\"We need the Prime Minister to say, \"If you want to see it happen, welcome Swindon,\" he said.\n\n\"This is the only thing that is going to get it across the line.\"\n\nThere are also discussions about whether or not Buckinghamshire and Milton Keynes would be part of the same group.\n\nGet in touch\n\nYour Voice\n\nFollow BBC Wiltshire on Facebook , external , X , external and Instagram , external . Send your story ideas to us on email or via WhatsApp on 0800 313 4630 .\n\nRelated topics\n\nSwindon\n\nLocal government\n\nLocal Government Association\n\nUK devolution\n\nSwindon Borough Council\n\nBerkshire",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1678,12 +1726,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 788,
+      "wordCount": 785,
       "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d25/live/2922f8c0-c768-11f1-b10a-17422b0170eb.jpg",
-      "body": "Published 14 October 2026, 06:11 BST\n\nThe Liberal Democrats don't tend to go for rhetorical fireworks or verbal kneecappings when grumbling about their leader.\n\nBut that doesn't mean there hasn't been grumbling going on. In the last week, two members of Sir Ed Davey's frontbench have resigned because they were unhappy with him, the party's direction and how policy is decided.\n\nIt meant the prospect of a lengthy and potentially testy meeting for Sir Ed with his MPs on Tuesday evening.\n\nThe Liberal Democrat leader arrived smiling, flanked by several loyal MPs, but made no comment as he entered the room.\n\nNearly four hours later, when the meeting broke up, his deputy Daisy Cooper said: \"There is overwhelming support for Ed in the parliamentary party and a real sense that we need to come together as a group.\"\n\nEarlier, behind closed doors, we understand Sir Ed told his MPs: \"We have made changes. I am happy to embrace more changes. I want us to work as a united front.\" Another tacit nod to things being less than united recently.\n\nIn recent months he has appointed a new chief of staff, Ruth Younger, and James Holt, a veteran of the party's years in coalition government, as political director.\n\nLast week's resignations were described to the BBC by one party figure as a rather Lib Dem insurrection – dissent expressed modestly.\n\nNeither Charlie Maynard, a former Treasury spokesman and Alison Bennett, a former care and carers spokeswoman, have been publicly explicit about the reasons for their departures and both sought to express their concerns to Sir Ed privately and discreetly.\n\nAnd, it is understood, there was no coordination between them in the timing of their resignations. They were departures that led to fury among some of their colleagues, irritated that it made the party look divided.\n\nThe resignations were the most clear indicators yet of an anxiety that has been bubbling away for over a year among some Liberal Democrat MPs. The essence of that anxiety is a fear they are not making enough of an impression and impact for the 72 MPs they have in parliament.\n\n\"The big frustration is the lack of cut through, being noticed. We are the biggest third party in the Commons in a century. But parliament doesn't shape things as much as it used to. It's about algorithms now,\" is how one figure put it.\n\nThey added: \"In the world of social media there is an incentive, even a financial incentive, to be divisive and extreme. That's a sandpit we refuse to play in.\"\n\nNonetheless, the party is planning to up its social media game, but do so in line with what it sees as its authentic temperament and values.\n\nThose around Sir Ed Davey privately acknowledge there is what they claim to be a \"small group\" of Lib Dem MPs who are not happy with his leadership. It is suggested that number isn't greater than \"half a dozen\" - a phrase used by several people we have spoken to.\n\nBut the anxiety about a perceived lack of impact involves far more MPs than that.\n\nSome previous private critics have been won over by the recent changes to Sir Ed's team and are pleased to see the government talk about issues they care about: the European Union, changing the voting system for Westminster elections and social care in England, for instance.\n\nThey also hope the scale of their local campaigning, rather than poor national opinion poll ratings, will be more significant come the next general election.\n\nAl Pinkerton, the party's Europe spokesman, told the BBC there had been a frank exchange of views during the meeting, but Sir Ed's willingness to make changes had been \"very well received.\"\n\n\"It is a slog in the middle of a parliament, it's hard being the third party and it's such an enormous leap going from 15 MPs to 72,\" another party figure present told us. \"But we're getting there putting in place the structures to better deal with that and keep MPs happy.\"\n\n\"Why would we get rid of our leader when no one else is pitching to be our leader? We need to let Ed get on with it,\" said another MP.\n\nBut they all know the underlying concern about impact – the challenge of being noticed – is real and not going away.\n\nChris Mason: Questions remain for Green Party leader Zack Polanski Published 5 days ago\n\nChris Mason: Why Andy Burnham's about-turn on Manchester City matters Published 1 October\n\nChris Mason: Burnham delivers deeply political speech with a personal core Published 29 September\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nEd Davey\n\nLiberal Democrats",
+      "body": "Published 14 October 2026\n\nThe Liberal Democrats don't tend to go for rhetorical fireworks or verbal kneecappings when grumbling about their leader.\n\nBut that doesn't mean there hasn't been grumbling going on. In the last week, two members of Sir Ed Davey's frontbench have resigned because they were unhappy with him, the party's direction and how policy is decided.\n\nIt meant the prospect of a lengthy and potentially testy meeting for Sir Ed with his MPs on Tuesday evening.\n\nThe Liberal Democrat leader arrived smiling, flanked by several loyal MPs, but made no comment as he entered the room.\n\nNearly four hours later, when the meeting broke up, his deputy Daisy Cooper said: \"There is overwhelming support for Ed in the parliamentary party and a real sense that we need to come together as a group.\"\n\nEarlier, behind closed doors, we understand Sir Ed told his MPs: \"We have made changes. I am happy to embrace more changes. I want us to work as a united front.\" Another tacit nod to things being less than united recently.\n\nIn recent months he has appointed a new chief of staff, Ruth Younger, and James Holt, a veteran of the party's years in coalition government, as political director.\n\nLast week's resignations were described to the BBC by one party figure as a rather Lib Dem insurrection – dissent expressed modestly.\n\nNeither Charlie Maynard, a former Treasury spokesman and Alison Bennett, a former care and carers spokeswoman, have been publicly explicit about the reasons for their departures and both sought to express their concerns to Sir Ed privately and discreetly.\n\nAnd, it is understood, there was no coordination between them in the timing of their resignations. They were departures that led to fury among some of their colleagues, irritated that it made the party look divided.\n\nThe resignations were the most clear indicators yet of an anxiety that has been bubbling away for over a year among some Liberal Democrat MPs. The essence of that anxiety is a fear they are not making enough of an impression and impact for the 72 MPs they have in parliament.\n\n\"The big frustration is the lack of cut through, being noticed. We are the biggest third party in the Commons in a century. But parliament doesn't shape things as much as it used to. It's about algorithms now,\" is how one figure put it.\n\nThey added: \"In the world of social media there is an incentive, even a financial incentive, to be divisive and extreme. That's a sandpit we refuse to play in.\"\n\nNonetheless, the party is planning to up its social media game, but do so in line with what it sees as its authentic temperament and values.\n\nThose around Sir Ed Davey privately acknowledge there is what they claim to be a \"small group\" of Lib Dem MPs who are not happy with his leadership. It is suggested that number isn't greater than \"half a dozen\" - a phrase used by several people we have spoken to.\n\nBut the anxiety about a perceived lack of impact involves far more MPs than that.\n\nSome previous private critics have been won over by the recent changes to Sir Ed's team and are pleased to see the government talk about issues they care about: the European Union, changing the voting system for Westminster elections and social care in England, for instance.\n\nThey also hope the scale of their local campaigning, rather than poor national opinion poll ratings, will be more significant come the next general election.\n\nAl Pinkerton, the party's Europe spokesman, told the BBC there had been a frank exchange of views during the meeting, but Sir Ed's willingness to make changes had been \"very well received.\"\n\n\"It is a slog in the middle of a parliament, it's hard being the third party and it's such an enormous leap going from 15 MPs to 72,\" another party figure present told us. \"But we're getting there putting in place the structures to better deal with that and keep MPs happy.\"\n\n\"Why would we get rid of our leader when no one else is pitching to be our leader? We need to let Ed get on with it,\" said another MP.\n\nBut they all know the underlying concern about impact – the challenge of being noticed – is real and not going away.\n\nChris Mason: Questions remain for Green Party leader Zack Polanski Published 5 days ago\n\nChris Mason: Why Andy Burnham's about-turn on Manchester City matters Published 1 October\n\nChris Mason: Burnham delivers deeply political speech with a personal core Published 29 September\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nEd Davey\n\nLiberal Democrats",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2048,6 +2096,31 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef77/live/b1b41d30-c723-11f1-b881-4391ac746e04.png"
     },
     {
+      "id": "84459f60392edfb1",
+      "title": "🗣 A Victory for Freedom of Speech Online | EFFector 38.18",
+      "summary": "No one should have to think twice before criticizing the government online. But a mass surveillance program known as \"Catch and Revoke\" was created to make millions do just that. EFF and other defenders of free speech are fighting back. In our latest EFFector newsletter , we're talking about a key court win for our lawsuit challenging this unconstitutional surveillance program . JOIN OUR NEWSLETTER For over 35 years, EFFector has been your guide to understanding the intersection of technology, civil liberties, and the law. This issue covers our Opt Out October guides for ditching Big Tech , a win in the fight against anti-VPN laws , and a court ruling allowing the lawsuit against \"Catch and Revoke\" to move forward. Prefer to listen in? EFFector is now available on all major podcast platforms. This time we're talking to EFF's Lisa Femia about how the government is using AI to suppress protected speech online—and the important lawsuit she and others are working on to stop it. You can find the episode and subscribe on your podcast platform of choice : %3Ciframe%20height%3D%22200px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2F1f21c2ee-32ed-41ab-b0a8-eb86edda26ed%3Fdark%3Dfalse%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E Privacy info. This embed will serve content from simplecast.com Want to protect your right to digital privacy? Sign up for EFF's EFFector newsletter for updates, ways to take action, and new merch drops. You can also fuel the fight for privacy and free speech online when you support EFF today !",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.eff.org/deeplinks/2026/10/victory-freedom-speech-online-effector-3818",
+      "source": "Electronic Frontier Foundation",
+      "publisher": "Electronic Frontier Foundation",
+      "published": "2026-10-14T16:25:23Z",
+      "category": "Tech",
+      "region": "US",
+      "labels": [
+        "Tech",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 269,
+      "readingMinutes": 2,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://www.eff.org/files/2021/11/01/subscriberss.png",
+      "imageAlt": "Subscribe via RSS badge"
+    },
+    {
       "id": "871fafff4fe5b207",
       "title": "Ex-England hooker Singleton joins Glasgow a year after cardiac event",
       "summary": "Former England hooker Jack Singleton joins Glasgow Warriors on a short-term deal a year after experiencing a cardiac event in training.",
@@ -2142,6 +2215,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b76/live/9ef0fb10-c155-11f1-ae7b-cfc528a6c828.jpg"
+    },
+    {
+      "id": "1059c00564300376",
+      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-10-15T04:19:17Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91e4/live/ef62d030-c82d-11f1-949e-ffe1bf7985f3.jpg"
     },
     {
       "id": "07d112557ab0d86b",
@@ -2313,19 +2410,19 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bbc/live/e7a03ab0-c65a-11f1-8600-efb62b613ab5.jpg"
     },
     {
-      "id": "c93ce4765fe52c7b",
-      "title": "BA flight forced to turn back over cracked window",
-      "summary": "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
+      "id": "2552201bcc15a23f",
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo",
+      "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro",
       "source": "BBC Business",
       "publisher": "BBC",
-      "published": "2026-10-13T11:48:07Z",
+      "published": "2026-10-14T23:02:57Z",
       "category": "Economics",
-      "region": "UK",
+      "region": "World",
       "labels": [
         "Economics",
-        "UK"
+        "World"
       ],
       "sourceWeight": 5,
       "focus": "",
@@ -2334,7 +2431,7 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d81/live/e303dfe0-c702-11f1-9783-ed95709f9dec.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/8b1f1580-c813-11f1-b60d-ef789a67d4e2.jpg"
     },
     {
       "id": "06f90e17c362c493",
@@ -3154,6 +3251,29 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3363/live/e2418780-a888-11f1-96fc-dd627484b0e6.jpg"
     },
     {
+      "id": "102061dbd08288e7",
+      "title": "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
+      "summary": "The US President's ally says conservatives “cannot give an inch” in Latin America as he accepts an award in Washington.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-15T03:50:14Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "caba42751513e02a",
       "title": "The Internet’s undersea backbone is slipping into the danger zone",
       "summary": "Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure.",
@@ -3176,6 +3296,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Undersea-cable-ship-1152x648.jpg"
+    },
+    {
+      "id": "61cd7ac17972c410",
+      "title": "Meet the Welsh back-row trio starring for Leicester",
+      "summary": "Aaron Wainwright, Olly Cracknell and Tommy Reffell have starred in Leicester Tigers' encouraging start to the season.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6e9l2k5gkm0o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-15T03:45:51Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c24/live/f7c52750-c7bf-11f1-9878-d389ad84cc55.png"
     },
     {
       "id": "592d386dd1a998e5",
@@ -3226,14 +3370,14 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/white-circle-red-team-1152x648.jpg"
     },
     {
-      "id": "9810c3697ecaefc1",
-      "title": "Perfect PSG - Can anybody stop the defending champions?",
-      "summary": "Former Manchester City defender Nedum Onouha, former Liverpool defender Stephen Warnock and journalist Rory Smith discuss how good Paris Saint-Germain were in their impressive 4-2 win at Manchester City in the Champions League.",
+      "id": "bb32ead4b5100fb5",
+      "title": "'Players won't like it' - Martinez apologises, but is the damage done?",
+      "summary": "Champions League Match of the Day pundits Nedum Onuoha, Stephen Warnock, and Rory Smith analyse Lisandro Martinez's comments following Manchester United's 2-0 loss to Atletico Madrid and the impact they'll have on the club.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck0j07zegp7xo",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw2409qg6pe0o",
       "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-10-14T23:07:16Z",
+      "published": "2026-10-14T23:13:53Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -3243,11 +3387,11 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 33,
+      "wordCount": 34,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/789c/live/7f9373e0-c81e-11f1-9a39-31b474234113.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4f2/live/844a3dd0-c821-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "id": "6665d8020bc34e21",
@@ -3274,6 +3418,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f910/live/93417b80-c6f7-11f1-b4dd-e786ec6f11b1.jpg"
     },
     {
+      "id": "9810c3697ecaefc1",
+      "title": "Perfect PSG - can anybody stop the defending champions?",
+      "summary": "Former Manchester City defender Nedum Onouha, former Liverpool defender Stephen Warnock and journalist Rory Smith discuss how good Paris St-Germain were in their impressive 4-2 win at Manchester City in the Champions League.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck0j07zegp7xo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-14T23:07:16Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 33,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/789c/live/7f9373e0-c81e-11f1-9a39-31b474234113.jpg"
+    },
+    {
       "id": "8b9b96ac5b406c9c",
       "title": "Votes of no confidence in Sinn Féin ministers fail",
       "summary": "The attempt to oust them failed as it required cross-community support from a majority of both unionists and nationalists in the assembly.",
@@ -3296,6 +3464,76 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/604a/live/1a8ecb00-c613-11f1-aae8-850c1751d51d.jpg"
+    },
+    {
+      "id": "3eab9256780299ca",
+      "title": "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed",
+      "summary": "President Donald Trump says Michigan Senate candidate Abdul El-Sayed is a member of the Muslim Brotherhood.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/14-10-clip-trump-attacks-el-sayed-mb-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-15T02:54:31Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "574d3a0776d6aea1",
+      "title": "White House defends new press secretary amid questions about her legal credentials",
+      "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-10-15T03:03:16Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7f/live/f7333c90-c838-11f1-b2e8-93da8301514e.jpg"
+    },
+    {
+      "id": "3f70b0c901b5fff5",
+      "title": "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
+      "summary": "Investigators have subpoenaed relatives and examined immigration records, the newspaper reports.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/15/trump-administration-seeks-to-strip-ilhan-omar-of-us-citizenship-wsj?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-15T03:03:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 11,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "645709e1cea9aacd",
@@ -3418,6 +3656,52 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5cd/live/32979870-c303-11f1-bc2e-018d645d8d21.jpg"
     },
     {
+      "id": "b97fc040be4539e7",
+      "title": "Trump suggests those who leak government information should ‘be shot’",
+      "summary": "The US president has long been unhappy with inside information about his administration being leaked to the media.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/15/trump-suggests-those-who-leak-government-information-should-be-shot?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-15T01:34:41Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "e98d8e2685e16740",
+      "title": "White House spokesperson Katie Zacharia’s law career faces scrutiny",
+      "summary": "Katie Zacharia has repeatedly claimed to be a lawyer, but critics question whether she was ever licensed.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/15/white-house-spokesperson-katie-zacharias-law-career-faces-scrutiny?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-15T01:35:40Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "ff8e091723c731df",
       "title": "Government expands police support to political figures who are not MPs",
       "summary": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life.",
@@ -3489,6 +3773,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/153f/live/420d7eb0-c7fd-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "id": "c369fe58b056404b",
+      "title": "The Papers: 'Zelenskyy blames Trump' and Brand a 'sex predator'",
+      "summary": "Volodymyr Zelensky's visit to London and the first day of Russell Brand's rape trial dominate Thursday's front pages.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyq67e64pdo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-10-15T00:41:45Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63d8/live/ebd400f0-c829-11f1-9a39-31b474234113.jpg"
     },
     {
       "id": "fc04a92c749b68fc",
@@ -3874,6 +4182,30 @@
       "imageUrl": "https://i.guim.co.uk/img/media/e66d4b83821641865a2b61c557a735880c9734e0/936_0_4064_3251/master/4064.jpg?width=700&quality=85&auto=format&fit=max&s=54cc0243baaf87c3509db8f8c1106bd3"
     },
     {
+      "id": "fccd9fc12b38650d",
+      "title": "'Shameless' - Mourinho critical of Vinicius Jr ban timing",
+      "summary": "Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-14T23:13:20Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d69/live/901c4f60-c7f7-11f1-970c-196b57378f40.jpg"
+    },
+    {
       "id": "7629f34a529c1c57",
       "title": "Privacy's Defenders Podcast: No Privacy Without Encryption",
       "summary": "When we communicate online today – from your personal emails and DMs to secure international commerce – we usually do so with encryption. Encryption converts readable data into unreadable gibberish to protect our privacy and security. This didn’t just happen organically. Three decades ago, the U.S government treated encryption like a weapon, and it took some unlikely heroes to set it free: a grad student, a junior lawyer, and a fledgling digital rights group who sued the federal government. The ruling in Bernstein v. Department of Justice held that code is speech and so is protected by the First Amendment – a precedent that underpins the internet as we know it today. This landmark case was led by Cindy Cohn, then a young pro bono lawyer working on behalf of EFF, who went on to become EFF’s legal director and then executive director. Welcome to the second episode of “Privacy’s Defenders,” a podcast about the people – lawyers, journalists, hackers, and others – who’ve fought to secure your digital liberties since before most people even knew what the internet was. %3Ciframe%20height%3D%2252px%22%20width%3D%22100%25%22%20frameborder%3D%22no%22%20scrolling%3D%22no%22%20seamless%3D%22%22%20src%3D%22https%3A%2F%2Fplayer.simplecast.com%2F91542147-6839-46fe-a813-73eb7a5c683c%3Fdark%3Dtrue%26amp%3Bcolor%3D000000%22%20allow%3D%22autoplay%22%3E%3C%2Fiframe%3E Privacy info. This embed will serve content from simplecast.com (You can also find this episode on the Internet Archive and on YouTube.) In this episode, Cindy – who left EFF in June – speaks with Dan Bernstein, who was a Cal Berkeley grad student when he developed a simple encryption algorithm called “Snuffle.” Because federal law classified encryption as a war munition, publishing Snuffle meant submitting it to the government for review, getting a license as an arms dealer, and being granted a license the government had no intention of granting. Bernstein felt this violated his free-speech rights and in 1995 he sued, represented by Cindy working with EFF. Cindy also talks with Tony Coppolino, the Justice Department lawyer she battled in court – who admits she intimidated him from their very first phone call, and who offers a surprising perspective on the case all these years later. The “Privacy’s Defenders” podcast (new episodes drop every other Tuesday!) is a follow-up to Cindy’s book, “ Privacy’s Defender:…",
@@ -4164,29 +4496,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0lwzcxx.jpg"
     },
     {
-      "id": "250da0874a65ff6f",
-      "title": "Families of Trinidadian men killed in US boat strike demand accountability",
-      "summary": "The Trump administration has killed at least 239 people in boat strikes denounced as extrajudicial killings.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-10-14T20:42:59Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 16,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "c311ea4e25b18f8f",
       "title": "‘Clear and present danger’: fuel prices could rise by 30c a litre across Australia under IMF scenario",
       "summary": "IMF’s World Economic Outlook shows how a worsening Middle East crisis could affect global growth and inflation Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast An International Monetary Fund scenario where global oil prices jump to US$130 a barrel over coming months could push Australian petrol prices up by another 30 cents a litre and pile pressure on the Reserve Bank to raise interest rates, economists say. In its latest World Economic Outlook, the IMF modelled the impact on global growth and inflation from a worsening Middle East crisis that extended into next year, highlighting the “clear and present danger” to a resilient global economy from turmoil in commodity and bond markets. Continue reading...",
@@ -4327,30 +4636,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ccb/live/a9516db0-c62d-11f1-af2e-773141c7e84a.png"
-    },
-    {
-      "id": "055f909a231b2fbf",
-      "title": "Vinicius Jr to miss Barcelona game because of ban",
-      "summary": "Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a four-game ban.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-14T18:14:53Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d69/live/901c4f60-c7f7-11f1-970c-196b57378f40.jpg"
     },
     {
       "id": "841d8581701bd61e",
@@ -4711,299 +4996,13 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c7/live/eb28dd30-c7c3-11f1-993a-152cbb068da1.jpg"
-    },
-    {
-      "id": "50c2f117607d7e06",
-      "title": "Burnham says it is 'clear' Russia interfered with Brexit vote",
-      "summary": "The prime minister says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-10-12T08:38:43Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b37c/live/b4b0e8c0-c57e-11f1-80f2-5bd1e5df7ada.jpg"
-    },
-    {
-      "id": "86ece451ae55c68f",
-      "title": "Trump's US Super Intelligence Force and AI czar Jay Clayton",
-      "summary": "Trump announced a new Super Intelligence task force with the White House AI czar Jay Clayton in charge of a group responsible for making sure the US leads international competition in artificial intelligence development.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/trump-s-us-super-intelligence-force-and-ai-czar-jay-clayton/a-79598001?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-10-14T10:58:00Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 34,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "cee29a40ffd7dbe4",
-      "title": "Cliftonville's League Cup win overturned by NIFL",
-      "summary": "Cliftonville's hopes of a domestic treble are over after they were stripped of their Women's League Cup title for fielding two ineligible players in the final.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqy7l562zv1lo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-14T12:28:13Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 26,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b575/live/2cde58d0-c7c5-11f1-993a-152cbb068da1.jpg"
-    },
-    {
-      "id": "7bdbac5039ae79d1",
-      "title": "China beat GB to women's team sprint gold",
-      "summary": "Great Britain's women have to settle for silver after being beaten by China in the women's team sprint final at the Track Cycling World Championships in Shanghai.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cycling/videos/c3dxwkl8k728o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-14T12:16:34Z",
-      "category": "Sports",
-      "region": "China",
-      "labels": [
-        "Sports",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 27,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89a8/live/ac6b8430-c7c8-11f1-9a39-31b474234113.jpg"
-    },
-    {
-      "id": "c9f53f393167175d",
-      "title": "Semenyo 'froze' after alleged racist abuse, court told",
-      "summary": "A Liverpool fan denies racially aggravated behaviour during a match against Bournemouth in 2025.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd3z1g8d8o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-14T14:16:04Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/e16f7470-c7d7-11f1-9671-5b70c6e774ea.jpg"
-    },
-    {
-      "id": "6e40976ea4eadb7c",
-      "title": "Trump announces plans for major oil, gas and mineral exploration in Greenland",
-      "summary": "The US president has claimed Greenland holds vast and easily accessible oil reserves without providing evidence or details. His announcement follows a deal expanding the US military presence on the Arctic island.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/trump-announces-plans-for-major-oil-gas-and-mineral-exploration-in-greenland/a-79656889?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-10-14T10:00:00Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 32,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "7c7464626dbc298e",
-      "title": "Topgolf saved over $11.3 million after leaving VMware",
-      "summary": "Topgolf and VMware \"ran deep\" before the migration.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-10-13T21:33:43Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 8,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg"
-    },
-    {
-      "id": "08e5db576e22d4d3",
-      "title": "BBC asks judge to force Trump to sit for deposition as part of his $10bn lawsuit",
-      "summary": "BBC asks US federal judge to compel Trump’s lawyers to schedule deposition after his team canceled initial session The BBC is asking a federal judge in Florida to force Donald Trump to sit for a deposition as part of the president’s $10bn defamation lawsuit against the British broadcaster. According to a Tuesday filing, the BBC and Trump’s legal team had agreed for him to be deposed on Friday. The BBC’s lawyers wrote to the judge that they had spent months trying to secure a location for the deposition from Trump’s team. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/media/2026/oct/13/bbc-trump-lawsuit-deposition",
-      "source": "The Guardian Business",
-      "publisher": "The Guardian",
-      "published": "2026-10-13T20:49:53Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 93,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/48df2fe29208c0c5035017777e1fa224757de109/560_0_4553_3642/master/4553.jpg?width=700&quality=85&auto=format&fit=max&s=35ed3b3233f8734ea60e2f12552fd799"
-    },
-    {
-      "id": "219a0707926b9971",
-      "title": "IMF warns global economy ‘could soon test the limits of resilience’",
-      "summary": "World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026 Threat of AI share crash puts world financial stability at risk, says IMF The global economy “could soon test the limits of resilience”, as emergency oil stocks run low and government budgets become overstretched, the International Monetary Fund has warned. In its twice-yearly World Economic Outlook, the IMF said global growth had withstood the Middle East conflict better than feared over the past six months. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-10-13T02:00:11Z",
-      "category": "Economics",
-      "region": "Middle East",
-      "labels": [
-        "Economics",
-        "Middle East"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 89,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/ebc2fbfb05a20eb6eda10742da9aad5434fc5293/400_0_4209_3368/master/4209.jpg?width=700&quality=85&auto=format&fit=max&s=51a5af8cc2c1f974b34c9ecedd4fe141"
-    },
-    {
-      "id": "822f352121b9c315",
-      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-      "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-10-13T17:36:43Z",
-      "category": "Politics",
-      "region": "Latin America",
-      "labels": [
-        "Politics",
-        "Latin America"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c36b/live/a481bb50-c72c-11f1-b881-4391ac746e04.jpg"
-    },
-    {
-      "id": "cd857bc3cb9b0d9d",
-      "title": "Rejecting closer EU ties would be dereliction of duty, PM to say",
-      "summary": "Addressing the Commons, Burnham is expected to say that a new deal with the EU could help tackle illegal immigration and boost economic growth.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-10-12T05:01:22Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618f/live/1e0d2180-c601-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "id": "c7e0401363c6f8d4",
-      "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
-      "summary": "Oliver Blume says ‘Made in Europe’ rules to counter rapid rise of lower-price Chinese brands ‘must reward real value creation’ The boss of Volkswagen has backed EU proposals to boost its domestic industry, arguing European carmakers need to be able to “compete under comparable conditions” with Chinese rivals. Oliver Blume said “Made in Europe” rules from the EU “must reward real value creation in Europe”, speaking in Paris before the motor show this week. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
-      "source": "The Guardian China",
-      "publisher": "The Guardian",
-      "published": "2026-10-11T16:53:01Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 76,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/d16c05f9a59edb2f7fa273d4807bd01cd301414a/570_0_2700_2160/master/2700.jpg?width=700&quality=85&auto=format&fit=max&s=ed85a07bd2e64c6768d32f8a03361877"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 34
+      "items": 35
     },
     {
       "source": "BBC Politics",
@@ -5033,7 +5032,7 @@
     {
       "source": "DW",
       "ok": true,
-      "items": 139
+      "items": 135
     },
     {
       "source": "UN News",
@@ -5083,7 +5082,7 @@
     {
       "source": "BBC Business",
       "ok": true,
-      "items": 52
+      "items": 40
     },
     {
       "source": "The Guardian Economics",
