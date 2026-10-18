@@ -1,25 +1,27 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-17T22:16:30.931345Z",
+  "generatedAt": "2026-10-18T04:28:24.328051Z",
   "topStoryIds": [
     "71fdf771ccae2ec8",
     "d731d71ce5dacf0b",
     "4e4a7106f7753b97",
     "0fadbb38119bddc3",
     "af7cf99aff84d5aa",
-    "4e2b72ac498dfdb6",
-    "033774b99e5cc834"
+    "033774b99e5cc834",
+    "602977c6e45ab1ea"
   ],
   "sectionStoryIds": {
     "Politics": [
       "71fdf771ccae2ec8",
       "033774b99e5cc834",
       "af7cf99aff84d5aa",
-      "685ef6ae6b0c7b33"
+      "685ef6ae6b0c7b33",
+      "1cbf115e3c402ac8",
+      "69e0e90331831eea",
+      "5bbdeac8120ad423"
     ],
     "Tech": [
       "d731d71ce5dacf0b",
-      "4e2b72ac498dfdb6",
       "072b5a21199b19b1",
       "f6a432a8f2d70f56",
       "fe2f70b4b5108668",
@@ -33,11 +35,11 @@
     ],
     "Sports": [
       "eed745441899fe26",
+      "87434ec8e1aa91a8",
       "0cab98da8733efeb",
+      "bfc517473af5e31b",
+      "951be3813129e630",
       "ca20bdb990a622a4",
-      "f9e8754fdcfa095c",
-      "55f8c5e5d22ba2d6",
-      "83741be14cc89e74",
       "3aa4e21699772e14",
       "b7b1f80beead4fbf",
       "155b0805f8c7051b",
@@ -136,7 +138,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/087d/live/01edc4a0-ca75-11f1-9a39-31b474234113.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nAn estimated 550,000 people took part in protests across France, demanding greater investment in education and action on the rising cost of living.\n\nThe demonstrations quickly descended into violence, with cars and buildings set alight and shops ransacked.\n\nAt least 1,200 people were arrested on Saturday as riot police deployed tear gas and water cannons to disperse crowds.\n\nThe unrest follows weeks of student-led protests, with demonstrators joining forces to express growing anger over economic conditions and French President Emmanuel Macron handling of the crisis.\n\nIn a social media post, Macron denounced the violence and said that vandals and looters will be \"prosecuted and punished\".\n\nBBC correspondent Adina Campbell reports from Paris.\n\nVideo editor: Zahra Fatima\n\nRead more about the day of protests across France.\n\nSubsection Europe\n\nPublished 26 minutes ago\n\nRelated topics\n\nFrance Follow France close panel You are now following France Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nCost of Living Follow Cost of Living close panel You are now following Cost of Living Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nEmmanuel Macron Follow Emmanuel Macron close panel You are now following Emmanuel Macron Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nParis Follow Paris close panel You are now following Paris Updates from your News topics will appear in My News and in a collection on the News homepage .",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nAn estimated 550,000 people took part in protests across France, demanding greater investment in education and action on the rising cost of living.\n\nThe demonstrations quickly descended into violence, with cars and buildings set alight and shops ransacked.\n\nAt least 1,200 people were arrested on Saturday as riot police deployed tear gas and water cannons to disperse crowds.\n\nThe unrest follows weeks of student-led protests, with demonstrators joining forces to express growing anger over economic conditions and French President Emmanuel Macron handling of the crisis.\n\nIn a social media post, Macron denounced the violence and said that vandals and looters will be \"prosecuted and punished\".\n\nBBC correspondent Adina Campbell reports from Paris.\n\nVideo editor: Zahra Fatima\n\nRead more about the day of protests across France.\n\nSubsection Europe\n\nPublished 6 hours ago\n\nRelated topics\n\nFrance Follow France close panel You are now following France Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nCost of Living Follow Cost of Living close panel You are now following Cost of Living Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nEmmanuel Macron Follow Emmanuel Macron close panel You are now following Emmanuel Macron Updates from your News topics will appear in My News and in a collection on the News homepage .\n\nParis Follow Paris close panel You are now following Paris Updates from your News topics will appear in My News and in a collection on the News homepage .",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -195,33 +197,6 @@
       "imageHeight": 675
     },
     {
-      "id": "4e2b72ac498dfdb6",
-      "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
-      "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-10-17T11:00:21Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 2625,
-      "readingMinutes": 12,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NWN-header-1152x648.jpg",
-      "body": "The single-player is just OK, but according to the players, that doesn’t matter.\n\nNeverwinter Nights was made by the studio that produced seminal RPGs Baldur’s Gate , Star Wars: Knights of the Old Republic , Mass Effect , and Dragon Age . It sold well and was critically acclaimed at launch. Yet, somehow, it has not been canonized in most gamers’ minds over the decades the same way the games that came before and after it were.\n\nNonetheless, more than two decades later, it still has a tight-knit and surprisingly active community that none of those other games can rival. I think that’s partly because it was a completely different beast.\n\nBioWare is known for making multi-character, story-driven role-playing games that focused primarily on single-player story campaigns, though some supported co-op play in those campaigns. With Neverwinter Nights , BioWare instead made a game that was as focused on a modding toolset for content creation as it was on giving players a pre-packaged story, and that emphasized multiplayer at least as much as solo play.\n\nToday you would expect this to be a calculated attempt to bring more long-term, always-on, multiplayer-as-a-service to an RPG franchise that has mostly appealed to solo players. You might imagine it would be about selling cosmetics, a subscription, or a battle pass, or maybe you would think it was about nabbing appealing engagement numbers.\n\nBut it’s clear from playing it today that Neverwinter Nights wasn’t primarily made for those reasons. Instead, it came from a passion for tabletop role-playing and a desire to get closer to that in video game form than ever before.\n\nYes, the BioWare team noted in some interviews that they saw this as a trial run for exploring the idea of making a massively multiplayer game (MMO)—something that, in the year 2000, was seen by many as the hot new business opportunity in gaming, and which was in many ways the precursor to the games-as-a-service we see today. They then indicated they realized that an MMO was harder to make than they had assumed and abandoned that ambition well before Neverwinter Nights shipped.\n\nNeverwinter Nights is not exactly an MMO. Instead, it’s designed for small communities of people to inhabit and create with, and it features a powerful toolset for virtual dungeon masters to use to subject regular players to challenges in an improvisational way on a live server.\n\n“We always envisioned it as a table with four legs—the single player, the multiplayer, the DMing tools and the toolset (the module making tools),” BioWare’s Ray Muzyka told IGN around the time the game was released. “They all appeal to different groups, and we’ve tried to make them all equivalently high quality.”\n\nOver the past month, I’ve been replaying Neverwinter Nights ‘ main story campaign, The Wailing Death, as a solo player, for the first time in 20 years. The nostalgia has been strong in this replay, but I have also found that BioWare didn’t quite nail “equivalently high quality” for all the pillars. Still, it doesn’t matter, because as we’ll see when we check in with the game’s community, the campaign is not the point.\n\nThe single-player experience is… fine\n\n“The single player experience has to be as good as anything we’ve ever done in [ Baldur’s Gate ], [ Baldur’s Gate 2 ], or Throne of Bhaal and hopefully better,” Muzyka told IGN. “Our goal here at BioWare is that each game we do has to be better than the previous one.”\n\nIf single-player is one of the legs, it might be fair to call Neverwinter Nights ‘ table a little wobbly. It still stands, but you know how irritating it can be.\n\nFor example, Neverwinter Nights leaves behind Baldur’s Gate or Icewind Dale ‘s party-based systems, and instead has the player controlling just one character directly. It makes sense for a multiplayer game, but doesn’t work as well for a single-player experience in this case—at least with the Dungeons & Dragons rules of the time.\n\nI chose to play a monk, a martial arts specialist, simply because I’ve always been drawn to that particular fantasy identity, and because I’d never played one in a D&D game. I regretted that decision after a while.\n\nFor many of the character levels covered in The Wailing Death, the monk basically just picks between two fighting modes: one that misses more but attacks more frequently, and one that’s just normal. That, along with some intense restrictions on which weapons or armor can be used while keeping all their benefits, and a couple of knockdown and stun attacks that often don’t work, make up the whole kit for many hours of playtime, particularly in the first act. (It does get better later on, though.)\n\nA kit like this makes sense in a pen-and-paper RPG with a live dungeon master (DM), because the player and DM can work together to invent creative expressions of their abilities, and it works in a party in a video game because it’s just one of multiple complementary characters with a wide range of skills and spells.\n\nBut for a game that is about 80 percent battling enemies without controlling any other characters, it gets monotonous quickly. There aren’t as many meaningful character builds, gearing, or tactical choices as you’re used to in some other RPGs until quite a ways into the campaign. Often, you just run in and watch the dice roll until either you die or the enemy dies, while sometimes drinking potions.\n\nThis problem is less severe with some other classes, but the tension is usually there to some degree.\n\nWhereas Baldur’s Gate 2 , for example, had a partial authored background for your character that then played into the narrative, Neverwinter Nights leaves you as an Elder Scrolls-like blank slate. I normally love that ! It’s good for role-playing with friends, because you can make up your own character completely. But it means the story can’t be character-driven, and the gameplay doesn’t provide enough flexibility or freedom in return.\n\nStill, I enjoyed my experience with the campaign when I replayed it recently, even if it couldn’t match Baldur’s Gate 2 , Knights of the Old Republic , Mass Effect , or other BioWare classics for me personally. While the story wasn’t anything special by BioWare’s standards, there was something genuinely cozy to me about the genericness of the narrative. It took me back to an earlier time in CRPGs, before things got quite so precious. “This is just like D&D !” was still enough to sell it on its own. Maybe it’s just nostalgia, though.\n\nSince most people played the game solo, and it was a relatively small portion of the player base that dove deep into the construction kit or DM tools, I think this is the main reason Neverwinter Nights has not achieved the same pantheon status as other BioWare titles that came before and after it.\n\nBut for those lucky few who were invested in those other table legs, it actually was quite special—and amazingly, it remains so today.\n\nThe persistent worlds of Neverwinter Nights\n\n“The main thing I would shout from the rooftops if I could, is that firing up Neverwinter Nights and launching its original campaign… does not do justice to what Neverwinter Nights has become since,” a longtime player named Daniel Morris told me. He goes by Irongron in the community, and he runs Arelith , which is both one of the OG persistent multiplayer servers and one of the most popular servers today. Morris is also working on a visual overhaul of the original campaign; he hopes to release it next year.\n\nArelith hit its peak player count “a little less than two years ago,” as Morris tells it—not way back when the game was new. “Our community is the heart of Arelith, it’s not just our audience, but where we find our DMs and developers,” he said.\n\nI spent many evenings in my younger days playing multi-user dungeons (MUDs), the text-based online role-playing games that preceded MMOs like EverQuest or World of Warcraft . While there were big MUDs, many were small communities of just one or two dozen people, and often, those same people were the ones actually making the game’s content. For example, I was a room builder for one MUD; I wrote the descriptions for places in the MUD’s world and decided which monsters, NPCs, or items inhabited those places.\n\nNeverwinter Nights ‘ multiplayer platform and community—both as it was back in the 2000s and as it is today—reminds me of those MUD days. There’s an ownership of that shared world that is entirely lost in the MMO days, perhaps more akin to a modern, small Minecraft server than an MMO with thousands of users.\n\nThat seems to be part of the appeal for a player I spoke with who goes by the name NelaK in the community, and who has, among other things, taken over maintenance and moderation of the Neverwinter Vault , the community’s de facto hub for two decades. The website hosts news, patches, assets, mods, a forum, a wiki, and an associated Discord server.\n\n“It’s not an MMO, and that’s a good thing in my opinion. The communities are smaller, which means your roleplay and your actions matter and can affect the world,” said NelaK. “The world itself can be tailored around what the players want. That’s a unique thing that you can’t get from an MMO or from smaller-scale multiplayer games. It sits in a sweet spot where you can have enough players that it feels like a proper community and a world you can engage with while you can still matter.”\n\nBaldur’s Gate and Icewind Dale did have multiplayer, where each player could control one or more characters directly. As noted, Neverwinter Nights limits each player to one character, but it adds a new role: a dungeon master, who can spawn enemies, occupy and act as NPCs, and more, to aid in group storytelling, similar to a pen-and-paper game.\n\n“While Arelith is essentially a mini MMO, many of the other servers pride themselves in running highly curated, beautifully crafted campaign worlds much closer to tabletop role-playing game emulator that Neverwinter Nights was first intended as,” Morris told me. He called Neverwinter Nights “a direct translation of the tabletop role-playing game experience into the digital sphere.”\n\nIt’s as much a construction kit as it is a game\n\nThe game’s modding kit and easy-to-use scripting tools let players build scenarios relatively quickly. It essentially let players build a little RPG world, run it, and inhabit it. It was a bustling scene back then, and there’s still a community doing this today. The combination of the relative simplicity of the graphics and the elegance of the tools make this toolset an unusually excellent balance between flexible, powerful, and easy to learn.\n\n“The tile-based areas are basic and limiting in some respects, but they do mean that building areas is quick and easy,” explained NelaK. “It’s much more approachable than a lot of other platforms.”\n\nFor NelaK and some other members of the game’s community today, the game’s tools aren’t just the remaining appeal—they’re the main appeal.\n\n“I’ve been playing Neverwinter Nights since launch day. I remember one of my friends dragging me along to the store because they really wanted the game and I went just to keep them company,” he remembered. “I ended up buying it, and I’ve been hooked ever since, but to this day, I’ve still never played through the original campaigns… and yet I’ve played Neverwinter Nights or spent time building or working on something Neverwinter Nights -related most days since.”\n\nI toyed around with the tools quite a bit back in the day. I remember re-creating a big chunk of the world of my favorite MMO at the time, Meridian 59 , with the intent to make a story-driven, single-player campaign for that game; Meridian 59 had very little narrative as it was.\n\nI also remember that Neverwinter Nights was for many years a common way for would-be narrative designers to make a portfolio piece for applying for jobs within the games industry. When I was in college, a close friend of mine (Brian “Psychochild” Green, who at the time co-ran Meridian 59 , and sadly has since passed) offered to show my Neverwinter Nights modules to some friends of his at BioWare if I wanted to interview for a job there to write for their next game, which, based on timing, probably would have been Mass Effect . I declined in order to focus on other priorities I had at the time, for better or worse.\n\nSimilarly, many (though certainly not all) people in the community have professional backgrounds closely related to, or at least adjacent to, game development.\n\n“ Neverwinter Nights provides a unique intersection of where I can apply my technical and professional skills along with my interest in video games and do it for something that doesn’t feel like work,” said NelaK. Morris specifically noted that several members of the Arileth team work or have worked in the games industry or software development.\n\nThis is the game’s legacy, not the story campaigns that shipped with the game. And that explains the game’s relative obscurity today: that’s a more niche appeal than a really good, story-driven, single-player RPG. But for the people who are into it, there’s nothing else that quite compares.\n\nReturning to Neverwinter Nights today\n\nI don’t imagine most people still regularly see references to Neverwinter Nights , but I sometimes do. For the past couple of years, I’ve enjoyed the dark fantasy trend on TikTok. These are short, vertical videos set to a particular kind of 1980s fantasy-type medieval synth music, depicting imagery from what feels like a long-lost, strangely nostalgic subgenre of fantasy media that is more implied in our memories’ liminal space between real fantasy movies and books of the ’80s and early ’90s than it is something that actually specifically existed.\n\nIt turns out Neverwinter Nights ‘ assets fit that milieu quite well, so I sometimes saw videos of people creating online Neverwinter Nights servers meant to capture that vibe. It’s niche as hell, but it’s there. The TikTok videos from one of the game’s servers were actually how I got inspired to try the game again.\n\n“Over the last year there’s been a bit of a resurgence, with new servers going live, and others going viral,” Morris told me. Some player-run servers “have had hundreds of thousands interacting with their TikTok videos.”\n\nHe added that his own community’s Discord server has 5,000 members, and that’s just one part of the game’s wider audience.\n\nIf you want to get back into the game or try it for the first time, you can buy the Enhanced Edition on GOG and other storefronts; a front-page poll on the Neverwinter Vault indicates that about 65 percent of the community primarily uses that version, as compared to previous releases or the sequel, Neverwinter Nights 2 .\n\nIf you want to try the single-player, the Enhanced Edition comes with a plethora of officially sanctioned campaigns of varying quality—not just The Wailing Death.\n\nBut let’s say you, like some members of the game’s current community, are more interested in multiplayer than single-player. A good place to start is the Neverwinter Vault. Additionally, Enhanced Edition developer Beamdog hosts a list of active community servers you can join.\n\nAs I write this, a few hundred people are playing across a couple dozen servers, which is impressive. I love to see old games like this keep the community going. It’s especially important for Neverwinter Nights , because more than any other BioWare game or even most other RPGs in general, this game is its community.\n\nArs Technica may earn compensation for sales from links on this post through affiliate programs .",
-      "imageWidth": 1152,
-      "imageHeight": 648
-    },
-    {
       "id": "033774b99e5cc834",
       "title": "China’s tourists flock to experience a pretend typhoon as ‘dark tourism’ flourishes",
       "summary": "The concept of ‘paying to suffer’ soars in popularity, with simulated disasters proving a modern twist on visiting sites of historic tragedies When Leon Lv was looking for somewhere to travel last year, she turned to the Chinese social media app RedNote for ideas. The algorithm took her to videos of people struggling to survive typhoon-strength winds and flash floods. “I never experienced a typhoon. I don’t know how it will feel and what will happen. I just have seen it on the news,” says the 28-year-old from Chongqing in south-west China. “So that’s why I want to go there to have a safe place to experience it and learn something.” Continue reading...",
@@ -245,6 +220,33 @@
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/8a3da321d2cd941e913a6e8045639816a9b87a96/916_0_4583_3667/master/4583.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ecc47dcd1458196c8430ecb03fef4e7",
       "body": "The concept of ‘paying to suffer’ soars in popularity, with simulated disasters proving a modern twist on visiting sites of historic tragedies\n\nW hen Leon Lv was looking for somewhere to travel last year, she turned to the Chinese social media app RedNote for ideas. The algorithm took her to videos of people struggling to survive typhoon-strength winds and flash floods.\n\n“I never experienced a typhoon. I don’t know how it will feel and what will happen. I just have seen it on the news,” says the 28-year-old from Chongqing in south-west China . “So that’s why I want to go there to have a safe place to experience it and learn something.”\n\nShe travelled more than 1,300km to Hangzhou in the east, and joined a group of 20 to take part in a disaster simulation that featured a typhoon-fuelled flooding scenario.\n\nStanding in a simulated flood, her mind momentarily went blank as hundreds of tonnes of water swept people off their feet, and carried them towards a safety barrier. As the surge hit, she forgot she was in a simulation. “One thing I learned is how to stay calm and protect myself during a flood. I learned how to use the right body position to stay safe,” she says. “No book and no school [can] teach me like that.”\n\nAcross Chinese social platforms phrases like “paying to suffer”, or “paying to buy fear” are trending online as part of a wave of interest in experiences known as “dark tourism”.\n\nLvxing Base, a company in Hangzhou offering simulated disaster experiences has gone viral. The founders spent 10 years making documentaries in some of the world’s most extreme environments.\n\nAt a 200,000 square metre facility, which opened in 2024, they simulate extreme weather conditions like typhoons and mudslides, giving participants the experience of what it would be like in a disaster.\n\n“I don’t deny that many people come because they want excitement,” says general manager Wang Kuanghan. They want to see what this place is like, what a real typhoon and torrential rain feel like, and whether they themselves can withstand it. Most of our individual customers are between 20 and 30 years old.”\n\nIt plans to open five more centres across China within the next three years. It also plans to create earthquake and fire simulations.\n\nThe offerings are not limited to private companies. At Beijing’s Haidian public safety museum, tourists experience simulated earthquakes, tsunamis and fires using a 4D theatre, equipped with moving platforms and sound effects. Last year the southern Chinese city of Guangzhou opened a five-storey centre to teach visitors how to respond to emergencies and disasters. Its earthquake simulator can recreate ground shaking equivalent to a 7.2 magnitude quake.\n\nExtreme weather has become increasingly common in China. In 2025, China recorded its highest number of hot days since records began, and was hit by 10 typhoons, well above the long-term annual average. China’s ministry of emergencies reported that 67 million people were affected by such disasters across the country.\n\nIn 2024, local governments were instructed to promote immersive disaster education, instructing safety centres, museums and training bases to use simulations to teach people how to respond in a real crisis.\n\n‘A new generation of travellers’\n\n“The new generation of Chinese travellers want to experience a place rather than simply see famous attractions,” says Robert Li, director of the School of Hotel and Tourism Management at the Chinese University of Hong Kong.\n\nBut some travellers have found a way to blend the two approaches; rather than indulging in the white-knuckle ride of a simulated typhoon, they are travelling to real sites of death and destruction.\n\nIn May 2008 a magnitude 8.0 earthquake devastated towns in China’s Sichuan province, killing more than 70,000 people. Alice*, a 30-year-old writer from Sichuan walked around Beichuan, one of the affected towns, the ruins of which the government had preserved. Metal beams hold collapsed buildings in place for the public to visit. She saw the site where schools collapsed, crushing students inside.\n\nIn Yingxue close to the epicentre, a broken clock surrounded by the remains of a middle school is frozen at 2.28, the moment the earthquake struck.\n\n“I felt scared because of the power of nature and how many children and students could not escape from it,” says Alice, who plans to start a Chinese language Substack account detailing her journeys into tragedy. “Everything was so broken. It became like a ghost town, because nobody lives in the old town any more.”\n\nAlice believes dark tourism helps a country reconcile with its past, even if the government decides what can be remembered.\n\nIn recent years, tour guide Samantha Wang has seen an increase in Chinese tourists attending the Nanjing Massacre Memorial Hall. In 1937 the Japanese Imperial army captured Nanjing, and Chinese official accounts say 300,000 civilians and soldiers were killed over weeks of massacres. Japan’s official position is that it acknowledges that large numbers of civilians were killed but says the number of victims is “difficult to determine”.\n\nEntry to the hall is free but tourists must book online The local government reserves 25,000 places a day. In August, tickets to attend the museum are frequently sold out in advance, she says.\n\n“There are more tragic sites in China, and I see more people interested to know about that. That’s a new trend” says Wang.\n\nInside the memorial hall hang photos of victims. “They [visitors] feel sad when they see those pictures, when they see those kids who were killed … After the visit, they feel relieved, and they feel encouraged that they should work harder to make China stronger,” she says.\n\n*Name has been changed\n\nAdditional reporting by Yu-chen Li in Taipei\n\nChina\n\nExtreme weather\n\nAsia Pacific\n\nfeatures",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "id": "602977c6e45ab1ea",
+      "title": "Extreme heatwaves in Europe not changing Britons’ holiday plans, say travel bosses",
+      "summary": "Hot summer getaways are still popular – but tourism industry fears impact of rising jet fuel costs and squeezed household incomes After a year marked by extreme heat and war sending fuel prices skywards, British travel executives hoped for solace in Madeira’s benign subtropical climate, separated by hundreds of miles of blue sea from the overtourism protests and six-hour EU-entry queues seen on the Portuguese mainland. As bosses admitted, holidays will be ever less affordable, AI is coming for their jobs, and the visitable world is shrinking – not least those parts where tourists remain welcome. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses",
+      "source": "The Guardian Economics",
+      "publisher": "The Guardian",
+      "published": "2026-10-16T16:16:25Z",
+      "category": "Economics",
+      "region": "UK",
+      "labels": [
+        "Economics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 1282,
+      "readingMinutes": 6,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/1104b6c309c61af3dc930c1bdddf85247ce8b5c9/96_0_4904_3925/master/4904.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e117c52cb6a4e27b8e4009003c9af620",
+      "body": "Hot summer getaways are still popular – but tourism industry fears impact of rising jet fuel costs and squeezed household incomes\n\nAfter a year marked by extreme heat and war sending fuel prices skywards, British travel executives hoped for solace in Madeira’s benign subtropical climate, separated by hundreds of miles of blue sea from the overtourism protests and six-hour EU-entry queues seen on the Portuguese mainland.\n\nAs bosses admitted, holidays will be ever less affordable, AI is coming for their jobs, and the visitable world is shrinking – not least those parts where tourists remain welcome.\n\nSome of the bigger anxieties in spring , such as widespread border chaos and planes running out of fuel, have not come to pass; others now appear chronic issues. New supplies of jet fuel, a major concern after the US first attacked Iran in February, have been established – but the cost is staying far higher for longer than most expected.\n\n“Fuel is a huge part of any holiday and people are going to have to reckon with the cost,” said Neil Swanson, Tui UK & Ireland managing director, among the attendees at the Abta convention.\n\nTui and airlines such as easyJet and Ryanair escaped the worst immediate impact by having secured much of their 2026 fuel supply at a fixed price. But the latter airlines are now slashing capacity for winter.\n\n“It’s not great for consumers, who are going to have to pay a lot more for their holidays. But airlines are going to be less and less hedged and prices are going to go up,” Swanson added.\n\nThe oil price impact goes beyond jet fuel, said Mark Tanzer, the chief executive of Abta: “The bigger worry is the squeeze on household incomes that’s going to come through their domestic costs. It will be a much tighter market.”\n\nPerhaps surprisingly, numbers have held up – but customers have been leaving it ever later to book, he said, whether in search of a deal or because of uncertainty from disruption, war or weather.\n\nDespite the intense heat, mass travel firms are clear that the template has not changed: most customers still want a hot holiday, in summer, on the beach.\n\nGarry Wilson, the chief executive of easyJet Holidays, said: “Will there be long-term effects on demand? Perhaps. But in the short-term, no, we don’t see it.”\n\nGrowing “shoulder season” travel outside the school holidays for those who can, including city breaks, are driven by price more than climate, several people suggest. And talk of “coolcations” or people turning towards northern climes cuts little ice here. “We’re not seeing any of that,” said Swanson. “Nothing’s changed, the destinations are the same.”\n\nWhen Tunisia was forecast a 10-day stretch of 45C temperatures this summer, Tui offered customers the chance to switch their holiday elsewhere. Swanson said: “We didn’t get the interest and take-up. People were expecting it to be hot and were happy to go there, and we’re not seeing any change in demand. Brits like a warm holiday – if it’s got a pool and air-conditioning, that works for them.”\n\nNeither does Wilson see many heading north. Citing easyJet destinations such as Tromsø in Norway or Malmö in Sweden, he said: “They’re all very nice to launch, but we send more customers to Majorca in a week than those in a year.”\n\nOutbound holidays prospered in the heatwave, he suggested. “People thought: ‘You know what, we maybe don’t need to go away.’ But it became apparent that the UK doesn’t have the infrastructure to cope … people actually were going abroad to escape the heat in the UK.”\n\nFor now, the big firms see little change in destinations, Swanson said, but added: “We’ll keep it under review. Who knows where the temperature’s going to go in the next few years?”\n\nMore people could get priced out. At last year’s convention, the Spanish tourist board started pushing its cooler northern destinations; but, said Tanzer, “I’m not sure the north has 100m beds” to accommodate the visitors who predominantly go to Spain’s south, east and islands.\n\nHe added: “Certain types of holiday could become more expensive just because there’s limited availability. If the snow is higher up the mountain, there’s going to be fewer skiing holidays and the price is going to go up – there’s little room at the top.”\n\nTui has not been immune. Its river cruises in Europe were marooned when the Danube’s water levels dipped last month to the point where some passengers spent most of their return Austro-Hungarian cruise on a boat-replacement bus.\n\nKaty Berzins, the head of river cruises at Tui, said: “Every year has highs and lows and it’s part of river cruising, rivers are changeable.” But 2026, she said, was “unprecedented”.\n\nThe division is expanding nonetheless. Two new ships are joining its fleet – initially destined for the Seine and the Douro – that are built with lower draught levels (the vessel’s vertical depth below the surface), meaning they are able to keep sailing in shallower rivers.\n\nOthers are seeing faster change. James Thornton, the chief executive of Intrepid Travel, said the firm no longer sold active travel group tours in southern Europe in the summer; few had wanted to trek or cycle in that level of heat.\n\nLast year, Thornton said, there were 185 different extreme weather-related incidents that affected Intrepid holidaymakers around the world. “When we first started, there would be a handful.”\n\nIntrepid has long wrestled with its own impact on climate: for years, before offsetting fell into disrepute, it paid millions to offset its emissions. That did not cover the biggest factor, the flights taken by its customers to reach Intrepid tours – not entirely dissimilar from how an airport might declare itself net zero. Instead now the firm has a decarbonisation fund for local projects: “Ultimately you can’t have sustainable travel, you can only limit the impact,” Thornton said.\n\nHaving grown from backpacking to a A$1bn annual business, its own footprint is becoming significant. This year the firm is launching Timor-Leste, or East Timor. Thornton said: “Some customers have done 30 to 40 trips, so they’re often looking for places that they haven’t been able to travel to.”\n\nAsked about overtourism, Thornton said: “We’re definitely worried about it.” Intrepid tries to advertise the less visited destinations, he added. “We call it the not-hot list – drawing out the places where the infrastructure is available and the locals are willing to welcome travellers.”\n\nRising tourist taxes around the world underline that many places feel they have more than enough visitors. For Wilson, it is “grossly unfair”; destinations such as Mallorca, he said, “built enormous economic positions on the back of mass tourism, and then pull up the bridge and put on an extra tax. All that does is go back to the days of travel being only for the rich.”\n\nHow many of the UK outbound travel industry remain in sufficient paid work to afford it may also be in question.\n\nShaun Morton, the chief executive of On the Beach, laid off 20% of the Manchester-based online agency’s staff this summer to “automate and streamline” processes. He told delegates: “You’ve got the technology, people, processes and you hold them all dear … We just started to ask not how do we get 10% more out of that, but how do we get 10 times that, you know?”\n\nHe added that “very bright people with a sharp head with technology” probably would keep their jobs longest, but acknowledged: “They’re worried, because they can see a little bit further ahead than everyone else.”\n\nThe Guardian’s travel to the convention in Madeira was provided by Abta\n\nTravel & leisure\n\nAirline emissions\n\nTui Travel\n\nAirline industry\n\neasyJet\n\nEuropean Union holidays\n\nUK cost of living crisis",
       "imageWidth": 1200,
       "imageHeight": 630
     },
@@ -274,6 +276,77 @@
       "body": "Published 15 October 2026\n\nThe prime minister has invited the Scottish government to work together to put \"power back in the hands\" of regions - but insisted they must \"move beyond\" the constitutional question of Scottish independence.\n\nAndy Burnham said he wanted to start work on a new deal for regional economic development in the next few months, including an offer of devolution from the Department for Work and Pensions (DWP).\n\nSpeaking at an event in Motherwell, Burnham called on first minister John Swinney to cede further powers from Holyrood to local areas before that happened.\n\nSNP minister Stephen Flynn said the party had asked for increased devolution since the Smith Commission report was published in 2014.\n\nThe prime minister said devolution \"was never supposed to stop at the doors of the Scottish Parliament\" when Holyrood opened in 1999.\n\nHe said it was meant to be the \"start of something deeper\" where \"communities had more of a say in their own future\".\n\nTo play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nBurnham invites Swinney to work together on 'deeper Scottish devolution'\n\nHowever, he described Scotland as the most devolved nation in the UK but \"one of the most centralised in Europe\".\n\n\"During my first week in office, I told the first minister that I wanted to work with him to spread opportunities to communities across Scotland's regions and cities,\" he said.\n\n\"Through No10 North, we are rewiring the state and I want to make sure regions in Scotland are fully part of this.\n\n\"This is me making an offer to the Scottish government. With us working together, there is no limit to what we can achieve for the Scottish people.\"\n\nBurnham to visit Scotland during SNP conference Published 4 days ago\n\nBurnham - Rosebank and Jackdaw oil and gas decisions coming 'shortly' Published 3 days ago\n\nThe Scottish government set out plans for a radical rethink of the country's regional authorities last month.\n\nA new two-tiered system would see the 32 local authorities replaced with six new regional authorities .\n\nThey would have power over major issues such as economic growth and education.\n\nBelow that, between 120 and 160 community authorities would govern more local issues, such as licensing and town centre improvements.\n\nIt would be the most significant change to Scotland's regional makeup since the current system was introduced by the UK government in 1996.\n\nBurnham acknowledged that the Scottish government was working on local government reform, but said this had to \"move faster\".\n\nIt is not clear exactly what powers might be exercised at regional level other than employment support.\n\nBurnham appears to expect the Scottish government to devolve some of its own powers to regional authorities.\n\nBut he made clear that he will not impose a model of regional devolution like the metropolitan mayors that already operate in England.\n\nInstead he wants to try and agree a way forward with further discussions when the prime minister sits down with all the devolved first ministers at the end of this month.\n\nJohn Swinney denied that too much power was centralised at Holyrood\n\nBurnham also called for an end to \"tribal politics\" between the Scottish and UK governments.\n\nHe said he and Swinney \"agreed on some things\" but \"didn't have to agree on everything\".\n\nSwinney is expected to promote his renewed push for independence in his keynote speech at the SNP conference on Saturday.\n\nHe previously welcomed Burnham telling MPs that a border poll would be considered in both Scotland and Northern Ireland if there was a clear consensus and public opinion had changed.\n\nBut Burnham later pushed back on that by telling Swinney at a meeting in Glasgow that a second Scottish independence referendum remains \"off limits\".\n\nAsked whether devolving power more locally in Scotland would make independence more or less likely, the prime minister said: \"I don't want to be the last PM of the UK.\n\n\"I just feel we all have to move beyond the constitutional questions.\n\n\"In my view, people in Scotland are suffering from the cost of living crisis, like they are in England and everywhere else, and I think our job is to focus on the practicalities, to focus on solutions for people right now.\"\n\nHe added: \"Too much time is wasted on those dramas, it consumes too much energy.\"\n\n'As many powers as possible'\n\nStephen Flynn - who was the SNP's leader at Westminster before becoming the Transport Secretary at Holyrood - said the Scottish government would welcome the opportunity to be handed more power over the country's economic prospects.\n\nHe said: \"Interestingly the first minister sent a letter to the prime minister on Monday where he outlined a number of points he would like to see engagement on.\n\n\"This was number seven on that list, so we will of course engage with the prime minister fully in respect of his announcement today.\"\n\nBefore Burnham's speech, First Minister John Swinney said he was interested in \"working constructively\" with Westminster, adding he was \"all for the Scottish Parliament having as many powers\" as possible.\n\nUK Conservative leader Kemi Badenoch said Burnham should be focusing on creating new opportunities in the energy sector.\n\nShe said: \"This regional devolution plan is more jobs for the boys. What Andy Burnham should be doing is granting new oil and gas licences in the north sea.\"\n\n\"Devolution is a process, not a solution.\"\n\nRelated topics\n\nScotland\n\nAndy Burnham\n\nLabour Party\n\nJohn Swinney\n\nSNP Conference\n\nSNP (Scottish National Party)\n\nKemi Badenoch\n\nConservative Party\n\nScottish independence\n\nScottish government\n\nUK government",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "1cbf115e3c402ac8",
+      "title": "'No Kings' rallies push early voting ahead of US midterm elections",
+      "summary": "Organizers of the \"No Kings\" protests, known for their anti-Trump sentiment, are urging Americans to vote early in the November 3 midterm elections, as Republicans face tough races to retain control of Congress.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-10-18T00:51:00Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 348,
+      "readingMinutes": 2,
+      "isShort": false,
+      "isBreaking": false,
+      "body": "Organizers of the \"No Kings\" protests, known for their anti-Trump sentiment, are urging Americans to vote early in the November 3 midterm elections, as Republicans face tough races to retain control of Congress.\n\nProtesters gathered across the United States for the latest \"No Kings\" demonstrations as Americans begin casting ballots ahead of the November 3 midterm elections.\n\nDubbed \"No Kings: Vote Early,\" Saturday's event aimed to fire up Americans to vote early in the midterm elections, which will determine which party controls Congress, rather than protest against President Donald Trump and his administration.\n\n\"It's a day of nonpartisan voter participation: we are bringing our community together to make a plan to vote early and ensuring every eligible voter understands their options for how to vote and has the opportunity to make their voice heard,\" organizers said in a statement.\n\nMost areas of the United States allow voters to cast their ballots ahead of time, sometimes weeks in advance.\n\nTrump opposes mail-in voting\n\nTrump repeatedly criticized mail-in voting and sought to restrict the practice ahead of the midterms. He regularly votes by mail-in ballot, arguing that his job makes him an exception to his criticism of the practice.\n\nThe US president blamed election fraud , without providing evidence, for his defeat in the 2020 presidential election against Democrat Joe Biden.\n\nVarious surveys have concluded that restricting mail-in ballots could benefit Republicans, as Democratic voters disproportionately use the system to cast their ballots.\n\nOpponents fear that the Trump administration may try to interfere with the midterm results, particularly if Republicans lose the majority.\n\nOpinion polls suggest Democrats are poised to regain control of the House ​of Representatives, while the Senate remains too close to call.\n\nWhen paychecks fall short: America's affordability squeeze\n\nTo view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video\n\nEdited by: Sean Sinico\n\nDon't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google , so you'll always see our verified news first."
+    },
+    {
+      "id": "69e0e90331831eea",
+      "title": "Canada: Major fire reported at military base in Alberta",
+      "summary": "Canadian Prime Minister Mark Carney has said a \"serious incident\" sparked a major fire at a military base in Alberta. He did not provide details on the cause of the fire.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-10-18T02:08:00Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 550,
+      "readingMinutes": 3,
+      "isShort": false,
+      "isBreaking": false,
+      "body": "Canadian Prime Minister Mark Carney has said a \"serious incident\" sparked a major fire at a military base in Alberta. He did not provide details on the cause of the fire.\n\nCanadian Prime Minister Mark Carney on Saturday said a \"serious incident\" sparked a major fire at a military base in Alberta.\n\n\"A serious incident creating a major fire has occurred at CFB Wainwright, in Alberta,\" Carney said in a post on X.\n\nHe added that the federal government was working closely with Alberta officials and local authorities. Defense Minister David McGuinty later confirmed that there have been \"fatalities and injuries\" as a result of the incident on the base. Located about 180 kilometers (112 miles) southeast of Edmonton, Alberta's capital, Canadian Forces Base Wainwright is one of the country's busiest military training bases. What else do we know about the major fire in Alberta? The Municipal District of Wainwright said the fire was spreading rapidly due to high winds. \"The fire south of Wainwright crossed the base fence earlier today and is being actively managed ... Emergency crews remain focused on protecting life safety, homes, and other structures,\" it said. Alberta Premier Danielle Smith called the fire \"significant and tragic\" and said many military personnel are affected. \"We are learning of a significant and tragic fire at CFB Wainwright today that is affecting many of our brave military personnel,\" Smith said in a post on social media. The incident occurred just days before people in Alberta, home to the world's fourth-largest proven oil reserves, will vote in the October 19 referendum on whether the province wants to begin the process of separating from the rest of Canada . Edited by: Sean Sinico Don't let the algorithm hide the news. If you rely on our team for trusted reporting, please take a moment to select us as your Preferred Source on Google , so you'll always see our verified news first. Advertisement Skip next section Similar stories Similar stories Carney implies US trying to 'break' Canada as Alberta vote looms Oil-rich Alberta will vote to decide if it wants to remain a Canadian province or move toward separation. Politics 10/16/2026 October 16, 2026 UK: Iran 'highly likely' to be behind RAF Fairford incident Britain's government summoned Iran's ambassador as PM Andy Burnham briefed parliament on the security scare. Politics 10/12/2026 October 12, 2026 Houthis launch fresh wave of missiles across Saudi Arabia A fire broke out at the Dhahran headquarters of Aramco — the world's largest oil company. Conflicts 10/14/2026 October 14, 2026 Show more Skip next section More on Catastrophe from North America More on Catastrophe from North America US: California wildfires destroy homes, force evacuations Multiple mansions have been engulfed in the fires raging in California while firefighters continue to douse the blaze. Catastrophe 10/17/2026 October 17, 2026 California wildfires force evacuations near Malibu Stronger winds threaten to spread fires in a region still recovering from last year's deadly blazes. Catastrophe 10/16/2026 October 16, 2026 US: Man killed in Six Flags roller coaster incident Local media showed passengers being evacuated from the Goliath coaster, which reaches speeds of up to 113 km/h (70 mph). Catastrophe 10/13/2026 October 13, 2026 Show more Skip next section Related topics Related topics Canada"
+    },
+    {
+      "id": "5bbdeac8120ad423",
+      "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
+      "summary": "Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-18T00:00:11Z",
+      "category": "Politics",
+      "region": "Middle East",
+      "labels": [
+        "Politics",
+        "Middle East"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": true
     },
     {
       "id": "072b5a21199b19b1",
@@ -374,33 +447,6 @@
       "imageUrl": "https://i.guim.co.uk/img/media/462c25d94e20d6ab8bd20b2b675fa9c6bcdb57db/986_594_1957_1566/master/1957.jpg?width=700&quality=85&auto=format&fit=max&s=5da585e34edcc0471a20c8a4243a86ef"
     },
     {
-      "id": "602977c6e45ab1ea",
-      "title": "Extreme heatwaves in Europe not changing Britons’ holiday plans, say travel bosses",
-      "summary": "Hot summer getaways are still popular – but tourism industry fears impact of rising jet fuel costs and squeezed household incomes After a year marked by extreme heat and war sending fuel prices skywards, British travel executives hoped for solace in Madeira’s benign subtropical climate, separated by hundreds of miles of blue sea from the overtourism protests and six-hour EU-entry queues seen on the Portuguese mainland. As bosses admitted, holidays will be ever less affordable, AI is coming for their jobs, and the visitable world is shrinking – not least those parts where tourists remain welcome. Continue reading...",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-10-16T16:16:25Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 1282,
-      "readingMinutes": 6,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/1104b6c309c61af3dc930c1bdddf85247ce8b5c9/96_0_4904_3925/master/4904.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e117c52cb6a4e27b8e4009003c9af620",
-      "body": "Hot summer getaways are still popular – but tourism industry fears impact of rising jet fuel costs and squeezed household incomes\n\nAfter a year marked by extreme heat and war sending fuel prices skywards, British travel executives hoped for solace in Madeira’s benign subtropical climate, separated by hundreds of miles of blue sea from the overtourism protests and six-hour EU-entry queues seen on the Portuguese mainland.\n\nAs bosses admitted, holidays will be ever less affordable, AI is coming for their jobs, and the visitable world is shrinking – not least those parts where tourists remain welcome.\n\nSome of the bigger anxieties in spring , such as widespread border chaos and planes running out of fuel, have not come to pass; others now appear chronic issues. New supplies of jet fuel, a major concern after the US first attacked Iran in February, have been established – but the cost is staying far higher for longer than most expected.\n\n“Fuel is a huge part of any holiday and people are going to have to reckon with the cost,” said Neil Swanson, Tui UK & Ireland managing director, among the attendees at the Abta convention.\n\nTui and airlines such as easyJet and Ryanair escaped the worst immediate impact by having secured much of their 2026 fuel supply at a fixed price. But the latter airlines are now slashing capacity for winter.\n\n“It’s not great for consumers, who are going to have to pay a lot more for their holidays. But airlines are going to be less and less hedged and prices are going to go up,” Swanson added.\n\nThe oil price impact goes beyond jet fuel, said Mark Tanzer, the chief executive of Abta: “The bigger worry is the squeeze on household incomes that’s going to come through their domestic costs. It will be a much tighter market.”\n\nPerhaps surprisingly, numbers have held up – but customers have been leaving it ever later to book, he said, whether in search of a deal or because of uncertainty from disruption, war or weather.\n\nDespite the intense heat, mass travel firms are clear that the template has not changed: most customers still want a hot holiday, in summer, on the beach.\n\nGarry Wilson, the chief executive of easyJet Holidays, said: “Will there be long-term effects on demand? Perhaps. But in the short-term, no, we don’t see it.”\n\nGrowing “shoulder season” travel outside the school holidays for those who can, including city breaks, are driven by price more than climate, several people suggest. And talk of “coolcations” or people turning towards northern climes cuts little ice here. “We’re not seeing any of that,” said Swanson. “Nothing’s changed, the destinations are the same.”\n\nWhen Tunisia was forecast a 10-day stretch of 45C temperatures this summer, Tui offered customers the chance to switch their holiday elsewhere. Swanson said: “We didn’t get the interest and take-up. People were expecting it to be hot and were happy to go there, and we’re not seeing any change in demand. Brits like a warm holiday – if it’s got a pool and air-conditioning, that works for them.”\n\nNeither does Wilson see many heading north. Citing easyJet destinations such as Tromsø in Norway or Malmö in Sweden, he said: “They’re all very nice to launch, but we send more customers to Majorca in a week than those in a year.”\n\nOutbound holidays prospered in the heatwave, he suggested. “People thought: ‘You know what, we maybe don’t need to go away.’ But it became apparent that the UK doesn’t have the infrastructure to cope … people actually were going abroad to escape the heat in the UK.”\n\nFor now, the big firms see little change in destinations, Swanson said, but added: “We’ll keep it under review. Who knows where the temperature’s going to go in the next few years?”\n\nMore people could get priced out. At last year’s convention, the Spanish tourist board started pushing its cooler northern destinations; but, said Tanzer, “I’m not sure the north has 100m beds” to accommodate the visitors who predominantly go to Spain’s south, east and islands.\n\nHe added: “Certain types of holiday could become more expensive just because there’s limited availability. If the snow is higher up the mountain, there’s going to be fewer skiing holidays and the price is going to go up – there’s little room at the top.”\n\nTui has not been immune. Its river cruises in Europe were marooned when the Danube’s water levels dipped last month to the point where some passengers spent most of their return Austro-Hungarian cruise on a boat-replacement bus.\n\nKaty Berzins, the head of river cruises at Tui, said: “Every year has highs and lows and it’s part of river cruising, rivers are changeable.” But 2026, she said, was “unprecedented”.\n\nThe division is expanding nonetheless. Two new ships are joining its fleet – initially destined for the Seine and the Douro – that are built with lower draught levels (the vessel’s vertical depth below the surface), meaning they are able to keep sailing in shallower rivers.\n\nOthers are seeing faster change. James Thornton, the chief executive of Intrepid Travel, said the firm no longer sold active travel group tours in southern Europe in the summer; few had wanted to trek or cycle in that level of heat.\n\nLast year, Thornton said, there were 185 different extreme weather-related incidents that affected Intrepid holidaymakers around the world. “When we first started, there would be a handful.”\n\nIntrepid has long wrestled with its own impact on climate: for years, before offsetting fell into disrepute, it paid millions to offset its emissions. That did not cover the biggest factor, the flights taken by its customers to reach Intrepid tours – not entirely dissimilar from how an airport might declare itself net zero. Instead now the firm has a decarbonisation fund for local projects: “Ultimately you can’t have sustainable travel, you can only limit the impact,” Thornton said.\n\nHaving grown from backpacking to a A$1bn annual business, its own footprint is becoming significant. This year the firm is launching Timor-Leste, or East Timor. Thornton said: “Some customers have done 30 to 40 trips, so they’re often looking for places that they haven’t been able to travel to.”\n\nAsked about overtourism, Thornton said: “We’re definitely worried about it.” Intrepid tries to advertise the less visited destinations, he added. “We call it the not-hot list – drawing out the places where the infrastructure is available and the locals are willing to welcome travellers.”\n\nRising tourist taxes around the world underline that many places feel they have more than enough visitors. For Wilson, it is “grossly unfair”; destinations such as Mallorca, he said, “built enormous economic positions on the back of mass tourism, and then pull up the bridge and put on an extra tax. All that does is go back to the days of travel being only for the rich.”\n\nHow many of the UK outbound travel industry remain in sufficient paid work to afford it may also be in question.\n\nShaun Morton, the chief executive of On the Beach, laid off 20% of the Manchester-based online agency’s staff this summer to “automate and streamline” processes. He told delegates: “You’ve got the technology, people, processes and you hold them all dear … We just started to ask not how do we get 10% more out of that, but how do we get 10 times that, you know?”\n\nHe added that “very bright people with a sharp head with technology” probably would keep their jobs longest, but acknowledged: “They’re worried, because they can see a little bit further ahead than everyone else.”\n\nThe Guardian’s travel to the convention in Madeira was provided by Abta\n\nTravel & leisure\n\nAirline emissions\n\nTui Travel\n\nAirline industry\n\neasyJet\n\nEuropean Union holidays\n\nUK cost of living crisis",
-      "imageWidth": 1200,
-      "imageHeight": 630
-    },
-    {
       "id": "261a70e1ef984e07",
       "title": "Low-cost clinic helps pet owners with vet bills",
       "summary": "RSPCA Medway West launches its clinic for the pets of people with low incomes.",
@@ -423,7 +469,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84fa/live/1e9e0a60-ca34-11f1-9ab2-b325ce61f9d2.jpg",
-      "body": "Christine Gardner described support from the clinic as \"amazing\"\n\nPublished 8 hours ago\n\nA reduced-cost veterinary clinic has treated 160 pets in its first 11 days, according to the RSPCA.\n\nThe animal charity's Medway West branch has launched to offer cut-price care for the pets of people on low incomes or receiving benefits.\n\n\"Your pet would come first. You'd have a bit of toast yourself and pay out for your pet,\" said Chatham cat owner Christine Gardner. \"Having somewhere like this is amazing.\"\n\nShe told the BBC it was \"just really good to have something nearby that I can get to\" with her six cats.\n\nAngela Adams said her pets were her \"babies\", adding: \"I would rather starve than they starve.\"\n\nShe said she had eight cats, two rabbits, four guinea pigs, two African land snails and a tortoise, and that she did not know what she would do without the animals, as she was unable to work for health reasons.\n\n\"It's very expensive. Seven of my cats were due for vaccine this month and you can imagine the cost of that,\" she told the BBC. \"That's a lot of money.\"\n\n\"I've had friends messaging me struggling, so this place is brilliant for people.\"\n\nThe RSPCA's Imara Ó Niocail says some people can longer afford to care for their much-loved pets\n\nRSPCA branch account manager Imara Ó Niocail said that \"a lot of people who were more than capable of affording to have these animals\" were no longer able to care for them due to the cost of living or a change in circumstances.\n\n\"We would like to keep the animals at home with the owners and treat them there,\" Ó Niocail told the BBC.\n\nThe low cost clinic meant that pet owners in Medway could \"seek the treatment that they need and then take the animals home\", without having to pay the full vet costs , she added.\n\nMedway West branch manager Kevin Morton said the charity's centres were \"full-to-bursting\" with animals and some people \"give their animals up because they can't afford to look after them\".\n\n\"Some people might think that if you can't afford to feed it, then don't have it, but if it's your only companion you have, they can keep people going,\" he said.\n\nThe branch has supplied 18,909 food items, 1,294 treats and 919kg of biscuits so far in 2026 through its pet food bank.\n\nFollow BBC Kent on Facebook , external , on X , external , and on Instagram , external and listen to BBC Radio Kent on Sounds . Send your story ideas to southeasttoday@bbc.co.uk , external or WhatsApp us on 08081 002250.\n\nRelated topics\n\nChatham\n\nRSPCA\n\nCost of Living\n\nMore on this story\n\nVet prescription fees capped under rule changes Published 22 September\n\nVets under corporate pressure to increase revenue, BBC told Published 12 January\n\nRelated Internet Links\n\nRSPCA",
+      "body": "Christine Gardner described support from the clinic as \"amazing\"\n\nPublished 17 October 2026\n\nA reduced-cost veterinary clinic has treated 160 pets in its first 11 days, according to the RSPCA.\n\nThe animal charity's Medway West branch has launched to offer cut-price care for the pets of people on low incomes or receiving benefits.\n\n\"Your pet would come first. You'd have a bit of toast yourself and pay out for your pet,\" said Chatham cat owner Christine Gardner. \"Having somewhere like this is amazing.\"\n\nShe told the BBC it was \"just really good to have something nearby that I can get to\" with her six cats.\n\nAngela Adams said her pets were her \"babies\", adding: \"I would rather starve than they starve.\"\n\nShe said she had eight cats, two rabbits, four guinea pigs, two African land snails and a tortoise, and that she did not know what she would do without the animals, as she was unable to work for health reasons.\n\n\"It's very expensive. Seven of my cats were due for vaccine this month and you can imagine the cost of that,\" she told the BBC. \"That's a lot of money.\"\n\n\"I've had friends messaging me struggling, so this place is brilliant for people.\"\n\nThe RSPCA's Imara Ó Niocail says some people can longer afford to care for their much-loved pets\n\nRSPCA branch account manager Imara Ó Niocail said that \"a lot of people who were more than capable of affording to have these animals\" were no longer able to care for them due to the cost of living or a change in circumstances.\n\n\"We would like to keep the animals at home with the owners and treat them there,\" Ó Niocail told the BBC.\n\nThe low cost clinic meant that pet owners in Medway could \"seek the treatment that they need and then take the animals home\", without having to pay the full vet costs , she added.\n\nMedway West branch manager Kevin Morton said the charity's centres were \"full-to-bursting\" with animals and some people \"give their animals up because they can't afford to look after them\".\n\n\"Some people might think that if you can't afford to feed it, then don't have it, but if it's your only companion you have, they can keep people going,\" he said.\n\nThe branch has supplied 18,909 food items, 1,294 treats and 919kg of biscuits so far in 2026 through its pet food bank.\n\nFollow BBC Kent on Facebook , external , on X , external , and on Instagram , external and listen to BBC Radio Kent on Sounds . Send your story ideas to southeasttoday@bbc.co.uk , external or WhatsApp us on 08081 002250.\n\nRelated topics\n\nChatham\n\nRSPCA\n\nCost of Living\n\nMore on this story\n\nVet prescription fees capped under rule changes Published 22 September\n\nVets under corporate pressure to increase revenue, BBC told Published 12 January\n\nRelated Internet Links\n\nRSPCA",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -453,6 +499,32 @@
       "isBreaking": false
     },
     {
+      "id": "87434ec8e1aa91a8",
+      "title": "Maple Leafs fall into last in Atlantic with loss to Islanders",
+      "summary": "maple leafs",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/article/maple-leafs-fall-into-last-in-atlantic-with-loss-to-islanders/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-18T04:07:30Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 2,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/maple-leafs-1.jpg"
+    },
+    {
       "id": "0cab98da8733efeb",
       "title": "MATCH REPORT | SARACENS WOMEN 46 - 19 EXETER CHIEFS (CUP R5)",
       "summary": "Saracens book home semi-final spot with statement win over Exeter Chiefs Saracens Women secured a home semi-final in the PWR Jaecoo Next Gen Cup with a commanding round five victory over Exeter Chiefs at StoneX Stadium, in a game that also saw Akina Gondwe make her long-awaited return from injury and Beth Wilcocks earn her […]",
@@ -476,6 +548,58 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
+    },
+    {
+      "id": "bfc517473af5e31b",
+      "title": "Maple Leafs would deal prime asset for difference-maker on blue line",
+      "summary": "(Arlyn McAdorey/CP) Chayka",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/article/maple-leafs-would-deal-prime-asset-for-difference-maker-on-blue-line/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-18T01:28:06Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 4,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/05/Chayka-1.jpg"
+    },
+    {
+      "id": "951be3813129e630",
+      "title": "Islanders’ Maccelli, Ritchie exit with lower-body injuries vs. Maple Leafs",
+      "summary": "maccelli",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/article/islanders-maccelli-ritchie-exit-with-lower-body-injuries-vs-maple-leafs/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-18T00:19:10Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 1,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/maccelli.jpg"
     },
     {
       "id": "ca20bdb990a622a4",
@@ -502,82 +626,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/409b/live/8deddbd0-ca56-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "id": "f9e8754fdcfa095c",
-      "title": "Maple Leafs’ Gavin McKenna talks benching, Tavares injury",
-      "summary": "Sammy Kogan/CP Toronto Maple Leafs’ Gavin McKenna",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/article/maple-leafs-gavin-mckenna-talks-benching-tavares-injury/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-17T16:55:55Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 8,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/Toronto-Maple-Leafs-Gavin-McKenna.jpg"
-    },
-    {
-      "id": "55f8c5e5d22ba2d6",
-      "title": "Leafs head coach Hiller addresses benching of McKenna vs. Sabres",
-      "summary": "17922568306725650",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/video/leafs-head-coach-hiller-addresses-benching-of-mckenna-vs-sabres/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-17T17:10:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 1,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/6407016295112.jpg"
-    },
-    {
-      "id": "83741be14cc89e74",
-      "title": "Leafs’ McKenna speaks on second-period benching against Sabres",
-      "summary": "17922546686725623",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/video/leafs-mckenna-speaks-on-second-period-benching-against-sabres/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-17T16:32:23Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 1,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/6407016768112.jpg"
     },
     {
       "id": "3aa4e21699772e14",
@@ -978,29 +1026,6 @@
       "body": "This article was originally published by The Guardian and is reproduced here as part of the Climate Desk collaboration.\n\nA rufous-collared sparrow. Charles J. Sharp via Wikipedia\n\nWhen bird populations decline, fledglings may struggle to learn the songs they need to attract mates. But new research suggests it is possible to teach birds lost songs.\n\nListening to birdsong is one of life’s great joys, but when researchers heard a particular tune emerging from a tree in a Buenos Aires park, they were especially jubilant. This arrangement was among those chirped by the local rufous-collared sparrows in the 1960s, but had since disappeared from the area.\n\nThat was until scientists created a computer-generated rendition, curious to find out if birds might consider it realistic enough to imitate. Less than three months later, a local avian resident began to copy parts of the song.\n\nThere is a growing recognition of birdsong’s importance to conservation, and of the need to better understand how birds learn to sing. If an individual sings well, and in a familiar “dialect,” they are better placed to find a mate, defend their territory, and ultimately survive.\n\nIf a species’ population declines, however, there are fewer opportunities for fledglings to become good singers. Birds can begin to tweet abnormally or mistakenly learn the songs of other species , jeopardizing their chances of breeding.\n\nMale birds are in a better position to attract a mate if they can sing well — which, broadly speaking, means their song is complex, sung consistently, and well performed. “If your song requires a lot of energy, you might have to be in quite a good condition to sing it,” says Rebecca Lewis, a conservation scientist at Chester Zoo.\n\n“When people talk about biodiversity, we’re always talking about genes, about genetic material,” says Gabriel B. Mindlin, professor of physics at the University of Buenos Aires, who coauthored the study on rufous-collared sparrows, and whose work is featured in a Guardian-produced documentary, Dream of Birds .\n\nBut animals’ learned behavior or culture, such as birdsong, is also an essential part of their population, says Mindlin.\n\nThe rufous-collared sparrow is not considered vulnerable globally, but researchers hope that synthetic recordings could help teach birdsong to other species whose populations are dwindling, allowing conservationists to tutor individuals where real-life recordings do not exist.\n\nAbout 4,000 of the world’s 10,000 bird species are songbirds (or oscine passerines), such as finches, sparrows, and blackbirds, which generally have complex songs that are at least partly learned from other individuals. Their songs are hugely diverse, though separate research on the wider passerine group of birds, which incorporates songbirds, has identified common “motifs” or building blocks: three types of trill, three types of whistle, chaotic notes, and harmonic notes.\n\nThe way that birds use these motifs reflects the environment in which the birds evolved. Flat whistles are more likely to be sung by birds in tropical rainforests where sound must travel through dense vegetation. Complex motifs, such as ultrafast trills, are more common in temperate regions where birds tend to communicate at closer range.\n\nThe song studied by Mindlin was recreated based on hand-drawn annotations of rufous-collared sparrow songs that were made in the 1960s. Each song consists of a trill, which is consistent among individuals in the same region, and a theme, which varies. Some of the themes recorded decades ago are still sung by the local birds, but others have died out.\n\nIt is not clear why the song studied by Mindlin had disappeared, though he notes the population of birds in the park had declined.\n\nBirds’ songs can change naturally over time — for example, birds might make errors when learning songs, which then can become imprinted in future renditions. Human encroachment and population declines can also cause dramatic changes.\n\nSongbirds learn from other members of their species — such as a father or neighbors — which results in local groups developing their own dialects. The window for learning varies from a few weeks to a lifetime. Some species also have an innate level of knowledge.\n\n“There’s such a diversity in songbirds in how they learn,” says Sarah Collins, associate professor of animal behavior at the University of Plymouth, who studied a group of cirl buntings that were translocated from Devon to Cornwall as part of a conservation project.\n\nInitially, the birds produced abnormal songs that were squeaky and slow, and far less diverse than those of the source populations in Devon. “They didn’t have the richness of sound,” says Collins. Eight years later, however, their songs had returned to normal.\n\nA few of the chicks were played recordings of cirl sounds, though not all. The study suggests that recovery of song is possible, though it is unclear if other species would bounce back in the same way. Cirl buntings are born with knowledge of the elements that make up the “notes” used in their songs, says Collins. “What they learn is how to put those elements together,” she says.\n\nSome songbird species have a similar genetic underpinning and so may also be able to recover their songs, but others do not. Either way, Collins recommends a tutor to help other birds that are being translocated.\n\nA separate study in Australia tracked regent honeyeaters that were bred in zoos to boost a critically endangered wild population that had fallen to about 250 individuals. Interacting with just two wild-born male “tutors” helped the zoo-bred birds to learn to sing the wild songs. Thereafter, zoo-bred males that had learned the traditional songs went on to tutor the next generation.\n\n“Sometimes birds don’t learn very well from CDs or just playbacks. They need some sort of interaction,” says Collins.\n\nBringing wild birds into captivity to teach hand-reared chicks could cause huge distress and bring disease, however, risking the health of individuals from an already endangered population. It is possible that A.I. could help provide live tutoring in the future.\n\nDialect is also important. Past translocation projects have shown that birds are slower to match if they do not sing in the same dialect. “Birds with mismatched songs don’t pair quite as quickly or do quite as well once they’re paired,” adds Lewis. Familiarizing birds with songs of their destination can help to mitigate this.\n\nA huge volume of birdsong is now being recorded and uploaded into databases, including by a growing number of hobbyists interested in birdwatching, says Mindlin. “One day we’ll be grateful to have all those records,” he says. “I don’t think we still have an idea that really we have to register dialects and communication systematically.”\n\nIn Buenos Aires, the song from the 1960s can still be heard. “It’s still being sung by just a few individuals, pretty close to where we inserted it,” he says, though only time will tell how long it persists.\n\n— Rebecca Ratcliffe , The Guardian\n\nALSO ON YALE E360\n\nFor America’s Rarest Wildlife, Survival May Hinge on a Single Word\n\nRelated Articles\n\nArctic Wildlife Research Suffers as Geopolitical Competition Grows By Ed Struzik\n\nFifty Billion Seedlings: Can Ethiopia Replant Its Ravaged Forests? By Samuel Abate and Freddie Clayton\n\nSargassum Superbloom: Seaweed Scourge or Ecological Boon? By Fred Pearce\n\nMore From E360\n\nBiodiversity Arctic Wildlife Research Suffers as Geopolitical Competition Grows\n\nOPINION The U.S. Public Is Losing Its Say on Environmental Policy\n\nSolutions Fifty Billion Seedlings: Can Ethiopia Replant Its Ravaged Forests?\n\nOPINION The Solar Boom in Developing Nations: Fast, Chaotic, and Unequal\n\nClimate Why Germany Is Building an Ark for U.S. Climate Data\n\nINTERVIEW From Indigenous Loss, a Potent Legal Argument on Climate\n\nBiodiversity Sargassum Superbloom: Seaweed Scourge or Ecological Boon?\n\nOceans A Surge of Marine Heat Waves Threatens to Scramble Ocean Life\n\nPolicy A Hard-Won Rule to Cut Chemical Plant Pollution Is Being Unraveled\n\nE360 FILM CONTEST WINNER Filipino Cacao Growers Learn to Live With a Hotter Climate\n\nE360 FILM CONTEST A Bicycle Journey Across Brazil to Find a Vanishing Savanna\n\nOPINION For America’s Rarest Wildlife, Survival May Hinge on a Single Word"
     },
     {
-      "id": "e84d5b01b86ff27d",
-      "title": "Nobel Prize in literature goes to Canada's Anne Carson",
-      "summary": "Carson won for her \"bold and inventive oeuvre.\" The decorated poet and essayist is known for her reverence for Latin and Greek classics.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-10-08T11:02:00Z",
-      "category": "Politics",
-      "region": "Canada",
-      "labels": [
-        "Politics",
-        "Canada"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 23,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "3941a87a2788c1cb",
       "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
       "summary": "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's policies as key points of friction.",
@@ -1023,6 +1048,32 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6004910"
+    },
+    {
+      "id": "f9e8754fdcfa095c",
+      "title": "Maple Leafs’ Gavin McKenna talks benching, Tavares injury",
+      "summary": "Sammy Kogan/CP Toronto Maple Leafs’ Gavin McKenna",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/article/maple-leafs-gavin-mckenna-talks-benching-tavares-injury/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-17T16:55:55Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 8,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/Toronto-Maple-Leafs-Gavin-McKenna.jpg"
     },
     {
       "id": "9be5154138ba63a6",
@@ -1423,58 +1474,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/beb5/live/6183d0d0-ca02-11f1-82b2-d98eb8b82384.jpg"
-    },
-    {
-      "id": "352dcdf29d8a1755",
-      "title": "Maple Leafs acquire forward Aatu Raty in trade with Canucks",
-      "summary": "Frank Franklin II/AP raty_aatu1280",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/article/maple-leafs-acquire-forward-aatu-raty-in-trade-with-canucks/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-15T22:16:19Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 5,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2025/06/raty_aatu1280.jpg"
-    },
-    {
-      "id": "a360c7a97e18c2cf",
-      "title": "Maple Leafs place Miles Wood on injured reserve",
-      "summary": "miles wood",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/article/maple-leafs-place-miles-wood-on-injured-reserve/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-15T22:56:18Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 2,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/Untitled-design-1-34.jpg"
     },
     {
       "id": "ca79bd70545ca03b",
@@ -1887,7 +1886,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d91e/live/8ba1b3b0-c96b-11f1-a6e6-417671ef62cb.jpg",
-      "body": "Published 16 October 2026\n\nLoans made to property companies - including three controlled by Manchester City's Abu Dhabi owner - while Andy Burnham was Greater Manchester mayor are being investigated by councillors.\n\nAbout 50 developers have been lent more than £1bn between them from a fund managed by the Greater Manchester Combined Authority (GMCA) since 2015.\n\nJohn Leech, the chairman of the GMCA's Overview and Scrutiny Committee, told the BBC concerns had been raised about the transparency of the process to approve the loans.\n\n\"We just want to be clear that there is a transparent rather than an opaque process,\" said Leech, who is the Liberal Democrat opposition leader on Manchester City Council.\n\nHe said the approval process had been criticised as \"very opaque in the past and that it's not necessarily been clearly understood why X was successful and Y wasn't\".\n\nA GMCA spokesperson said it was supporting the committee with its enquiries.\n\nDowning Street did not comment.\n\nThe money came from the Greater Manchester Housing Investment Loan Fund (GMHILF).\n\nThe fund was set up in 2015 with an initial £300m of government investment to help developers build new homes across Greater Manchester.\n\nThree property companies ultimately controlled by Manchester City owner Sheikh Mansour bin Zayed al Nahyan were granted loans worth about £55m in total.\n\nThe decisions to approve these loans were taken in 2017, in two meetings which were both chaired by Andy Burnham when he was mayor of Greater Manchester.\n\nThe decisions to grant loans from the fund were taken publicly by all members of the GMCA, not the mayor alone.\n\nOne of Manchester's leading property developers, Renaker, has received the majority of the £1bn lent out from the fund.\n\nRenaker has been involved in a long-running legal battle over £140m worth of loans made to the developer through the GMCA's fund.\n\nA rival developer, Aubrey Weis, claims the the loans were unfair subsidies.\n\nIn June, the Court of Appeal found there had been \"no error of law\" in the GMCA's decision to provide the loans but Weis is appealing the decision.\n\n'Out of kilter'\n\nThe Overview & Scrutiny Committee, which reviews the activities of the mayor and the GMCA, agreed to launch an inquiry into the loans earlier this year and Leech is now taking that work forward, after being elected chairman recently.\n\nLeech, a former Lib Dem MP in Manchester, said he felt the fund was intended to be for property companies struggling to access financing.\n\nIn 2015, when the loan scheme was launched, Bill Enevoldson, the GMCA's chief investment officer, said , external : \"It is not designed to finance unviable projects but can unlock currently unfundable ones.\"\n\nAn evaluation of the fund , external from 2025 said it was designed to provide loans for \"projects which might otherwise struggle to secure financing\".\n\nLeech said it was \"not unreasonable\" to ask why seemingly successful businesses needed to borrow public money through this loan scheme.\n\n\"In the case of Abu Dhabi, you would imagine that they wouldn't have any problem accessing funds from elsewhere as well,\" Leech said.\n\n\"And so the process clearly does seem to be out of kilter with what the original stated aims were back in 2015.\"\n\nLeech said the committee had asked GMCA officers to produce a report about the use of these funds.\n\nHe said the committee will ask officers questions about the fund at a private meeting, before potentially making recommendations to the Greater Manchester mayor.\n\nThe committee does not have the power to sanction the mayor but it can investigate, require answers, expose problems and challenge decisions.\n\nThe committee could call forward witnesses, such as current Greater Manchester Mayor Bev Craig, to give evidence as part of the inquiry.\n\nConservative shadow sports minister Louie French said Burnham had \"serious questions to answer\" about the loans.\n\nFrench said \"taxpayers deserve transparency over how this money was awarded\".\n\nManchester's relatively strong economic record has been driven in part by a property boom\n\nIn a statement, the GMCA said the funding for the loans had been lent \"at commercial rates\" and had delivered \"11,000 new homes and regenerating brownfield land across the city region\".\n\nThe GMCA said \"not a single viable scheme was ever turned down\".\n\nA GMCA spokesperson added: \"The fund is open to all developers, with lending criteria based on parameters set by the government and developed with external financial experts to reflect due diligence standards in the private sector.\n\n\"Every penny loaned from the fund is being fully repaid, delivering billions of pounds worth of development at no cost to the taxpayer.\"\n\nIn 2014, Manchester City Council and Abu Dhabi United Group, which owns Manchester City FC, formed a joint venture called Manchester Life.\n\nAbu Dhabi United Group and Manchester Life were involved in three property developments that were partially financed through the GMCA's loan fund.\n\nA Manchester Life spokesperson said: \"It is standard for property development to be funded through a combination of investor equity and borrowing.\n\n\"All three sites had previously been derelict. The loans were provided on commercial terms and have been repaid in full, including interest.\"\n\nThe BBC asked Renaker for comment but it did not respond before publication.\n\nJulia Hatmaker, the editor of the Place North West property news website, said viability was \"always a struggle\" in the development world.\n\nShe said the GMCA's loan scheme had been successful in building more homes in the city and generating a return on that investment.\n\nBut she said it's a \"good time for the combined authority to re-evaluate what kind of project it wants to support with similar loan programmes and whether it wants to put stricter rules in place as to what developments can benefit from them\".\n\nRelated topics\n\nAndy Burnham\n\nMore on this story\n\nEx-Manchester leader defends deals with Man City owners Published 5 October\n\nWhat Manchester's 'super-profit' deal with City owners has paid out so far Published 4 days ago\n\nBurnham had two hospitality dinners with Man City chairman, deleted records show Published 2 days ago",
+      "body": "Published 16 October 2026\n\nLoans made to property companies - including three controlled by Manchester City's Abu Dhabi owner - while Andy Burnham was Greater Manchester mayor are being investigated by councillors.\n\nAbout 50 developers have been lent more than £1bn between them from a fund managed by the Greater Manchester Combined Authority (GMCA) since 2015.\n\nJohn Leech, the chairman of the GMCA's Overview and Scrutiny Committee, told the BBC concerns had been raised about the transparency of the process to approve the loans.\n\n\"We just want to be clear that there is a transparent rather than an opaque process,\" said Leech, who is the Liberal Democrat opposition leader on Manchester City Council.\n\nHe said the approval process had been criticised as \"very opaque in the past and that it's not necessarily been clearly understood why X was successful and Y wasn't\".\n\nA GMCA spokesperson said it was supporting the committee with its enquiries.\n\nDowning Street did not comment.\n\nThe money came from the Greater Manchester Housing Investment Loan Fund (GMHILF).\n\nThe fund was set up in 2015 with an initial £300m of government investment to help developers build new homes across Greater Manchester.\n\nThree property companies ultimately controlled by Manchester City owner Sheikh Mansour bin Zayed al Nahyan were granted loans worth about £55m in total.\n\nThe decisions to approve these loans were taken in 2017, in two meetings which were both chaired by Andy Burnham when he was mayor of Greater Manchester.\n\nThe decisions to grant loans from the fund were taken publicly by all members of the GMCA, not the mayor alone.\n\nOne of Manchester's leading property developers, Renaker, has received the majority of the £1bn lent out from the fund.\n\nRenaker has been involved in a long-running legal battle over £140m worth of loans made to the developer through the GMCA's fund.\n\nA rival developer, Aubrey Weis, claims the the loans were unfair subsidies.\n\nIn June, the Court of Appeal found there had been \"no error of law\" in the GMCA's decision to provide the loans but Weis is appealing the decision.\n\n'Out of kilter'\n\nThe Overview & Scrutiny Committee, which reviews the activities of the mayor and the GMCA, agreed to launch an inquiry into the loans earlier this year and Leech is now taking that work forward, after being elected chairman recently.\n\nLeech, a former Lib Dem MP in Manchester, said he felt the fund was intended to be for property companies struggling to access financing.\n\nIn 2015, when the loan scheme was launched, Bill Enevoldson, the GMCA's chief investment officer, said , external : \"It is not designed to finance unviable projects but can unlock currently unfundable ones.\"\n\nAn evaluation of the fund , external from 2025 said it was designed to provide loans for \"projects which might otherwise struggle to secure financing\".\n\nLeech said it was \"not unreasonable\" to ask why seemingly successful businesses needed to borrow public money through this loan scheme.\n\n\"In the case of Abu Dhabi, you would imagine that they wouldn't have any problem accessing funds from elsewhere as well,\" Leech said.\n\n\"And so the process clearly does seem to be out of kilter with what the original stated aims were back in 2015.\"\n\nLeech said the committee had asked GMCA officers to produce a report about the use of these funds.\n\nHe said the committee will ask officers questions about the fund at a private meeting, before potentially making recommendations to the Greater Manchester mayor.\n\nThe committee does not have the power to sanction the mayor but it can investigate, require answers, expose problems and challenge decisions.\n\nThe committee could call forward witnesses, such as current Greater Manchester Mayor Bev Craig, to give evidence as part of the inquiry.\n\nConservative shadow sports minister Louie French said Burnham had \"serious questions to answer\" about the loans.\n\nFrench said \"taxpayers deserve transparency over how this money was awarded\".\n\nManchester's relatively strong economic record has been driven in part by a property boom\n\nIn a statement, the GMCA said the funding for the loans had been lent \"at commercial rates\" and had delivered \"11,000 new homes and regenerating brownfield land across the city region\".\n\nThe GMCA said \"not a single viable scheme was ever turned down\".\n\nA GMCA spokesperson added: \"The fund is open to all developers, with lending criteria based on parameters set by the government and developed with external financial experts to reflect due diligence standards in the private sector.\n\n\"Every penny loaned from the fund is being fully repaid, delivering billions of pounds worth of development at no cost to the taxpayer.\"\n\nIn 2014, Manchester City Council and Abu Dhabi United Group, which owns Manchester City FC, formed a joint venture called Manchester Life.\n\nAbu Dhabi United Group and Manchester Life were involved in three property developments that were partially financed through the GMCA's loan fund.\n\nA Manchester Life spokesperson said: \"It is standard for property development to be funded through a combination of investor equity and borrowing.\n\n\"All three sites had previously been derelict. The loans were provided on commercial terms and have been repaid in full, including interest.\"\n\nThe BBC asked Renaker for comment but it did not respond before publication.\n\nJulia Hatmaker, the editor of the Place North West property news website, said viability was \"always a struggle\" in the development world.\n\nShe said the GMCA's loan scheme had been successful in building more homes in the city and generating a return on that investment.\n\nBut she said it's a \"good time for the combined authority to re-evaluate what kind of project it wants to support with similar loan programmes and whether it wants to put stricter rules in place as to what developments can benefit from them\".\n\nRelated topics\n\nAndy Burnham\n\nMore on this story\n\nEx-Manchester leader defends deals with Man City owners Published 5 October\n\nWhat Manchester's 'super-profit' deal with City owners has paid out so far Published 4 days ago\n\nBurnham had two hospitality dinners with Man City chairman, deleted records show Published 3 days ago",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1965,7 +1964,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e541/live/4d304b50-c8c1-11f1-bdfb-e3788aeae9ec.jpg",
-      "body": "The former Welsh Labour government axed the plans in 2019\n\nPublished 15 October 2026\n\nLabour's Welsh leader has called for the Plaid Cymru administration to start work on an M4 relief road - seven years after his party had axed it.\n\nKen Skates told BBC Wales that there was \"no other option on the table\" to solve congestion in Newport, and has backed a version of the original plan with changes.\n\nThe move will be seen by some as an attempt to distance Welsh Labour from part of the legacy of former First Minister Mark Drakeford.\n\nLabour will table a vote in the Senedd on Wednesday calling for an \"appropriate relief road\" to be built.\n\nA report said the road could now cost £3bn to build. Plaid Cymru accused Labour of hypocrisy.\n\nSkates' announcement comes weeks after the Welsh government set out some options for tackling congestion , including proposals to close junctions in Newport.\n\nIt also means that all opposition groups - Reform, Labour and the Tories - are in favour of a relief road.\n\nDrakeford axed previous proposals for an M4 Relief Road in 2019 - on the grounds of cost and the impact on the environment.\n\nThe Welsh government could close junction 27 at High Cross, and eastbound slip roads at junctions 25 and 26\n\nThe Welsh government has also commissioned an 18-month project to assess possible \"roads-based\" solutions - although it has ruled out the black route.\n\nA report published earlier in October set out a number of alternatives to a new motorway, and said the relief road could cost around £3bn.\n\nIt also warned that the route was no longer safeguarded through the planning system.\n\n\"Over time, new development or other land use changes may occur within parts of the former corridor, making it progressively more difficult or expensive to deliver the same highway alignment in the future,\" it said.\n\nBut Ken Skates said the report \"shows that no single or combined solution will adequately alleviate congestion on the M4 around Newport.\n\n\"That means that there is no other option on the table other than a relief road if we wish to solve the problem of congestion on that route.\"\n\nHe said he believed that an amended version of the original black route - the proposed motorway south of Newport that had been examined and backed by a public inquiry in 2019 - should be the road that got built.\n\nSkates had served as transport minister under four Labour first ministers\n\nThe Welsh Labour leader said the proposed blue route alternative - using existing roads in part - was not appropriate.\n\n\"In reality, the black route remains the only appropriate route,\" Skates said.\n\n\"Further work would have to be undertaken to make sure that all environmental concerns today are met and adequately responded to, but something has to be done about congestion.\"\n\n'We're a world away from 2019'\n\nAsked what he would say to accusations of a U-turn, Skates added: \"Well, it's a world away from where we were in 2019.\n\n\"Back then, we had come out of the EU, Brexit was causing enormous concern, we were planning for a no deal.\n\n\"We were... almost a decade into austerity. There was simply not the sort of money that was required to build the black route available to the Welsh government.\n\n\"It was right not to go ahead with it at the time because of the financial cost. I do believe firmly that had we gone ahead with it, it would have been paused or cancelled during Covid.\"\n\nSkates said he wanted to know from the Welsh government what the status was now of the protected route for the relief road - which was ditched after the scheme was axed.\n\nIn a debate on 29 September, Deputy Transport Minister Mark Hooper said the black route was not achievable.\n\n\"The protected route status went when it was cancelled,\" he said.\n\n\"So, we're talking about decades of work to even get that off the ground.\"\n\nSkates spoke ahead of the Co-operative Movement conference on Saturday, where he will say that people in the region \"should be trusted, empowered and respected in deciding what affects them\".\n\n\"Their need for congestion to be dealt with can only realistically be met through getting to work on a relief road.\n\n\"The debate over an appropriate solution and the balancing of environmental, human and economic concerns should be led by the people of the region, who know best what is needed in and for their communities.\"\n\nLocal Plaid Cymru MS, Peredur Owen Griffiths, who represents Casnewydd Islwyn, said Labour's \"hypocrisy is astounding\".\n\n\"It's as if they've forgotten they were in government for 27 years and scrapped plans to address the issue of congestion in and around Newport - only to now U-turn in opposition,\" he said.\n\n\"Plaid Cymru is clear that doing nothing isn't an option... the action we're considering could reduce traffic by 10% in just four years,\" he said.\n\nRelated topics\n\nWales\n\nM4 motorway\n\nWelsh Labour\n\nMore top stories\n\nMy contraceptive coil saved my life after it revealed I had cancer Published 2 days ago\n\nWales has an education crisis. Can it be fixed? Published 2 days ago\n\nKing Charles praises Welsh 'sense of belonging' as he opens Senedd Published 2 days ago",
+      "body": "The former Welsh Labour government axed the plans in 2019\n\nPublished 15 October 2026\n\nLabour's Welsh leader has called for the Plaid Cymru administration to start work on an M4 relief road - seven years after his party had axed it.\n\nKen Skates told BBC Wales that there was \"no other option on the table\" to solve congestion in Newport, and has backed a version of the original plan with changes.\n\nThe move will be seen by some as an attempt to distance Welsh Labour from part of the legacy of former First Minister Mark Drakeford.\n\nLabour will table a vote in the Senedd on Wednesday calling for an \"appropriate relief road\" to be built.\n\nA report said the road could now cost £3bn to build. Plaid Cymru accused Labour of hypocrisy.\n\nSkates' announcement comes weeks after the Welsh government set out some options for tackling congestion , including proposals to close junctions in Newport.\n\nIt also means that all opposition groups - Reform, Labour and the Tories - are in favour of a relief road.\n\nDrakeford axed previous proposals for an M4 Relief Road in 2019 - on the grounds of cost and the impact on the environment.\n\nThe Welsh government could close junction 27 at High Cross, and eastbound slip roads at junctions 25 and 26\n\nThe Welsh government has also commissioned an 18-month project to assess possible \"roads-based\" solutions - although it has ruled out the black route.\n\nA report published earlier in October set out a number of alternatives to a new motorway, and said the relief road could cost around £3bn.\n\nIt also warned that the route was no longer safeguarded through the planning system.\n\n\"Over time, new development or other land use changes may occur within parts of the former corridor, making it progressively more difficult or expensive to deliver the same highway alignment in the future,\" it said.\n\nBut Ken Skates said the report \"shows that no single or combined solution will adequately alleviate congestion on the M4 around Newport.\n\n\"That means that there is no other option on the table other than a relief road if we wish to solve the problem of congestion on that route.\"\n\nHe said he believed that an amended version of the original black route - the proposed motorway south of Newport that had been examined and backed by a public inquiry in 2019 - should be the road that got built.\n\nSkates had served as transport minister under four Labour first ministers\n\nThe Welsh Labour leader said the proposed blue route alternative - using existing roads in part - was not appropriate.\n\n\"In reality, the black route remains the only appropriate route,\" Skates said.\n\n\"Further work would have to be undertaken to make sure that all environmental concerns today are met and adequately responded to, but something has to be done about congestion.\"\n\n'We're a world away from 2019'\n\nAsked what he would say to accusations of a U-turn, Skates added: \"Well, it's a world away from where we were in 2019.\n\n\"Back then, we had come out of the EU, Brexit was causing enormous concern, we were planning for a no deal.\n\n\"We were... almost a decade into austerity. There was simply not the sort of money that was required to build the black route available to the Welsh government.\n\n\"It was right not to go ahead with it at the time because of the financial cost. I do believe firmly that had we gone ahead with it, it would have been paused or cancelled during Covid.\"\n\nSkates said he wanted to know from the Welsh government what the status was now of the protected route for the relief road - which was ditched after the scheme was axed.\n\nIn a debate on 29 September, Deputy Transport Minister Mark Hooper said the black route was not achievable.\n\n\"The protected route status went when it was cancelled,\" he said.\n\n\"So, we're talking about decades of work to even get that off the ground.\"\n\nSkates spoke ahead of the Co-operative Movement conference on Saturday, where he will say that people in the region \"should be trusted, empowered and respected in deciding what affects them\".\n\n\"Their need for congestion to be dealt with can only realistically be met through getting to work on a relief road.\n\n\"The debate over an appropriate solution and the balancing of environmental, human and economic concerns should be led by the people of the region, who know best what is needed in and for their communities.\"\n\nLocal Plaid Cymru MS, Peredur Owen Griffiths, who represents Casnewydd Islwyn, said Labour's \"hypocrisy is astounding\".\n\n\"It's as if they've forgotten they were in government for 27 years and scrapped plans to address the issue of congestion in and around Newport - only to now U-turn in opposition,\" he said.\n\n\"Plaid Cymru is clear that doing nothing isn't an option... the action we're considering could reduce traffic by 10% in just four years,\" he said.\n\nRelated topics\n\nWales\n\nM4 motorway\n\nWelsh Labour\n\nMore top stories\n\nMy contraceptive coil saved my life after it revealed I had cancer Published 2 days ago\n\nWales has an education crisis. Can it be fixed? Published 3 days ago\n\nKing Charles praises Welsh 'sense of belonging' as he opens Senedd Published 2 days ago",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2257,7 +2256,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3715/live/6a53aaf0-c890-11f1-b0a4-81e564f1cfaa.jpg",
-      "body": "Andy Burnham has faced calls for transparency since his comments about Man City's owners shocked many in the world of football\n\nPublished 15 October 2026\n\nAndy Burnham has said he has asked for a \"manual trawl\" of records relating to his previous contact with Manchester City football club.\n\nThe prime minister said on Thursday he had asked the Greater Manchester Combined Authority (GMCA) to search \"everything\" to ensure \"full transparency\".\n\nHe continues to face questions over any relations he had with Man City while mayor of Greater Manchester for almost a decade until June. The club has been found guilty of \"systematically\" breaking Premier League rules.\n\nDeclarations of Burnham's contact with the club were released on Monday, but confusion grew later when it emerged records of two dinners Burnham had with Man City's chairman had been deleted.\n\nSpeaking to broadcasters on Thursday, Burnham said of the GMCA: \"I've asked them to do a more manual trawl of everything, as I want everything possible to be out there.\"\n\nHe insisted that the occasions he dined with Man City chairman Khaldoon Al Mubarak at matches at the Etihad in 2017 and 2018 were \"included\" in a statement issued by the local authority on Monday.\n\nIt comes after he was accused by his political opponents of seeking to cover up the meetings.\n\nThe GMCA statement , external mentioned a meeting Burnham had \"informally\" with Al Mubarak in the stands at a 2019 match, and a formal meeting the pair held at the UK Government's Global Investment Summit in October 2021, but did not specify the two dinners.\n\nIt went on: \"In his capacity as Mayor, he was a guest of Manchester City FC at home matches on a small number of occasions [...].\"\n\nAs mayor, Burnham previously declared the dinners from Man City, valued at a combined total of £1,000 for hospitality.\n\nMan City chairman Khaldoon Al Mubarak (left) chats to Andy Burnham in 2019 at the Etihad Stadium, when he was mayor of Greater Manchester\n\nBut records of them have since been deleted from the GMCA website.\n\nThe BBC understands it is the authority's policy to only publish entries from the current mayoral term - but the authority has not clarified why the register dates back to 2022, despite the current mayoral term beginning in 2024.\n\nIt also remains unclear what, if anything of significance, was discussed at the two dinners.\n\nA GMCA spokesperson said the authority was now carrying out a further manual trawl of Burnham's engagements with Manchester City during his time as mayor \"and will provide the information to the prime minister to publish when completed\".\n\nBurnham has faced pressure since comments in a BBC interview in September , saying he would be \"really concerned\" if Man City's owners now sold the club, following an independent commission finding the club guilty of multiple Premier League financial rule breaches.\n\nTory leader Kemi Badenoch told him at Prime Minister's Questions this week that the issue was not \"going away\".\n\nThe commission found City had broken rules over a nine-year period to 2018 by creating \"sham\" contracts with commercial partners to secretly funnel more than £830m into football operations.\n\nThe findings have outraged many and left the top flight of English football in limbo with its top team facing potential sanctions. Man City continues to deny any wrongdoing and has lodged an appeal.\n\nMore on this story\n\nBurnham had two hospitality dinners with Man City chairman, deleted records show Published 2 days ago\n\nEx-Manchester leader defends deals with Man City owners Published 5 October\n\nClubs fear political interference in Man City appeal Published 8 October\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham\n\nMayor of Greater Manchester",
+      "body": "Andy Burnham has faced calls for transparency since his comments about Man City's owners shocked many in the world of football\n\nPublished 15 October 2026\n\nAndy Burnham has said he has asked for a \"manual trawl\" of records relating to his previous contact with Manchester City football club.\n\nThe prime minister said on Thursday he had asked the Greater Manchester Combined Authority (GMCA) to search \"everything\" to ensure \"full transparency\".\n\nHe continues to face questions over any relations he had with Man City while mayor of Greater Manchester for almost a decade until June. The club has been found guilty of \"systematically\" breaking Premier League rules.\n\nDeclarations of Burnham's contact with the club were released on Monday, but confusion grew later when it emerged records of two dinners Burnham had with Man City's chairman had been deleted.\n\nSpeaking to broadcasters on Thursday, Burnham said of the GMCA: \"I've asked them to do a more manual trawl of everything, as I want everything possible to be out there.\"\n\nHe insisted that the occasions he dined with Man City chairman Khaldoon Al Mubarak at matches at the Etihad in 2017 and 2018 were \"included\" in a statement issued by the local authority on Monday.\n\nIt comes after he was accused by his political opponents of seeking to cover up the meetings.\n\nThe GMCA statement , external mentioned a meeting Burnham had \"informally\" with Al Mubarak in the stands at a 2019 match, and a formal meeting the pair held at the UK Government's Global Investment Summit in October 2021, but did not specify the two dinners.\n\nIt went on: \"In his capacity as Mayor, he was a guest of Manchester City FC at home matches on a small number of occasions [...].\"\n\nAs mayor, Burnham previously declared the dinners from Man City, valued at a combined total of £1,000 for hospitality.\n\nMan City chairman Khaldoon Al Mubarak (left) chats to Andy Burnham in 2019 at the Etihad Stadium, when he was mayor of Greater Manchester\n\nBut records of them have since been deleted from the GMCA website.\n\nThe BBC understands it is the authority's policy to only publish entries from the current mayoral term - but the authority has not clarified why the register dates back to 2022, despite the current mayoral term beginning in 2024.\n\nIt also remains unclear what, if anything of significance, was discussed at the two dinners.\n\nA GMCA spokesperson said the authority was now carrying out a further manual trawl of Burnham's engagements with Manchester City during his time as mayor \"and will provide the information to the prime minister to publish when completed\".\n\nBurnham has faced pressure since comments in a BBC interview in September , saying he would be \"really concerned\" if Man City's owners now sold the club, following an independent commission finding the club guilty of multiple Premier League financial rule breaches.\n\nTory leader Kemi Badenoch told him at Prime Minister's Questions this week that the issue was not \"going away\".\n\nThe commission found City had broken rules over a nine-year period to 2018 by creating \"sham\" contracts with commercial partners to secretly funnel more than £830m into football operations.\n\nThe findings have outraged many and left the top flight of English football in limbo with its top team facing potential sanctions. Man City continues to deny any wrongdoing and has lodged an appeal.\n\nMore on this story\n\nBurnham had two hospitality dinners with Man City chairman, deleted records show Published 3 days ago\n\nEx-Manchester leader defends deals with Man City owners Published 5 October\n\nClubs fear political interference in Man City appeal Published 8 October\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nAndy Burnham\n\nMayor of Greater Manchester",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2629,10 +2628,61 @@
       "imageHeight": 675
     },
     {
+      "id": "2c8818df770af587",
+      "title": "Deadly fire breaks out at Canada military base",
+      "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-10-18T04:00:50Z",
+      "category": "Politics",
+      "region": "Canada",
+      "labels": [
+        "Politics",
+        "Canada"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 323,
+      "readingMinutes": 2,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16b9/live/88b2a660-caa5-11f1-9f95-1db69c12ee59.jpg",
+      "body": "Defence Minister David McGuinty says there are casualties but did not go into details\n\nPublished 18 October 2026, 04:23 BST\n\nA large fire near a Canadian military base in Alberta has killed and injured some people, the defence minister said, without confirming the number of casualties.\n\nThe Canadian Armed Forces were working with local authorities to manage the fire and were looking into what caused it, David McGuinty said, describing the situation as \"very, very active and delicate\".\n\nCanada's Prime Minister Mark Carney said on X that a \"serious incident creating a major fire\" had occurred, adding his \"thoughts are with all the brave women and men affected\".\n\nCanadian Forces Base Wainwright, where the fire broke out, is one of the country's busiest military training bases.\n\nThe Canadian Broadcasting Corporation describes it as \"the principal base for live fire training exercises\". About 690 military personnel and 300 civilian workers are on site on a regular day, according to the CBC.\n\nSaturday's blaze \"spread rapidly due to high winds\" and had torn through the fences of the base, the Municipal District of Wainwright said.\n\nMcGuinty told reporters he \"cannot recall an incident like this in recent memory\".\n\nAlberta's premier Danielle Smith says the \"significant and tragic fire\" is \"affecting many of [the province's] brave military personnel\". Provincial authorities are in touch with the central government in managing and investigating the situation, she added.\n\nIt is unclear when the fire broke out, but the district first posted about the incident at about 17:30 local time (23:30 GMT).\n\nLocal authorities have urged residents to avoid the area and give all emergency vehicles right of way.\n\nNeighbouring provinces have offered their support.\n\nSaskatchewan premier Scott Moe says he has deployed resources to Alberta and is \"ready to provide more if required\", while British Columbia premier David Eby says his government has \"reached out to Alberta to offer all possible assistance\".\n\nRelated topics\n\nCanada\n\nAlberta",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "id": "4e2b72ac498dfdb6",
+      "title": "Why BioWare's Neverwinter Nights still has thousands of active players",
+      "summary": "The single-player is just OK, but according to the players, that doesn't matter.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-10-17T11:00:21Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 13,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/NWN-header-1152x648.jpg"
+    },
+    {
       "id": "14028668011adc98",
       "title": "UK threatens to ban Eritreans over migrant return policy",
       "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\".",
-      "contentStatus": "Freely readable article text extracted from publisher page",
+      "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o",
       "source": "BBC Politics",
       "publisher": "BBC",
@@ -2646,20 +2696,136 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1246,
-      "readingMinutes": 6,
-      "isShort": false,
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/935c/live/1c24f8c0-22eb-11f1-abe1-05da6de99c2b.png",
-      "body": "Published 14 October 2026\n\nHome Secretary Shabana Mahmood has threatened to ban all Eritreans from entering the UK if the east African country's government does not accept more returns of small boat migrants and foreign national offenders.\n\nFrom Thursday, Eritrean diplomats will face restrictions on their movement outside London. Fast-track visas will also be stopped for VIPs.\n\nMinisters have previously pressured other countries into accepting returns by threatening visa bans.\n\nEritrea branded the move a \"perfunctory political gimmick\", saying the UK had not issued a single visa to an Eritrean official since 2023, which the Home Office denies.\n\nThe country's embassy in London also accused the UK of refusing to engage in \"meaningful and appropriate dialogue\".\n\nIt said the UK had failed to disclose the return of criminals still serving prison terms and that the UK had claimed returns were voluntary \"when clearly, they were not\".\n\nHowever, a Home office spokesperson said the Eritrean government's commentary \"misrepresents the UK's position\".\n\nThe UK had granted an exemption from immigration control for an Eritrean official in August 2026, according to the Home Office. Sources also said the UK hoped to restore co-operation between the two countries.\n\nHuman Rights Watch has accused Eritrea's government of widespread repression - including forced labour, conscription and restrictions on freedom of expression.\n\nEritreans were the most common nationality among small boats migrants in the 12 months to June - accounting for 18% of arrivals , external , according to figures from the House of Commons Library.\n\nMahmood said: \"Eritrea has had every chance to accept the return of criminals and those with no right to be in the UK. Unlike other countries, it has refused.\"\n\nShe said she would not hesitate \"to impose further measures on other countries refusing to co-operate\".\n\nThe UK government accused the Eritrean authorities of \"abruptly\" withdrawing co-operation earlier this year.\n\nThe restrictions mean diplomats are banned from travelling 60km outside London without permission.\n\nThe Home Office said this mirrored restrictions on British officials in Eritrea's capital Asmara.\n\nIn the 12 months to June only seven people from Eritrea were returned there from the UK, according to Home Office figures. A further 244 Eritreans were returned to other countries.\n\nOver the same period, more than 5,800 Eritreans arrived in the UK via small boats. A further 1,300 were given visas, mostly to join people already settled in the UK.\n\nDr Madeleine Sumption, director of the Migration Observatory at the University of Oxford, said targeting Eritrea would have little impact.\n\n\"Eritrea is one of the major countries of origin for asylum seekers coming to the UK - we had roughly 7,000 asylum applications in the last year of data, roughly 8% of the total,\" she told BBC Radio 4's Today programme.\n\n\"Most Eritreans who come and claim asylum are not removable at all - the government would never be in negotiations to remove them because 84% are successful at initial decision; more will be successful on appeal.\"\n\nShe added that about 1,400 people were initially refused asylum, but that this number would reduce after appeals.\n\nMany young Eritreans try to leave the country - which is a one-party state - to avoid military conscription, which can last for decades.\n\nEritrea has never held an election since independence from Ethiopia in 1993 and there is no independent media. Critics of President Isaias Afwerki have been arrested and jailed for many years, often without trial.\n\nOnly four religions are permitted in the country – Orthodox Christianity, Sunni Islam, the Roman Catholic Church, and the Evangelical-Lutheran church of Eritrea – and followers of other religions have been locked up for years on end.\n\nLast November, the Home Office said it was prepared to suspend visas from countries that \"fail to co-operate with the return of their citizens\".\n\nEarlier this year, the UK threatened visa restrictions against Angola, Namibia and the Democratic Republic of Congo (DRC).\n\nRestrictions were announced against the DRC last year, but the Home Office said these have been lifted after co-operation on returns improved.\n\nAngola and Namibia both agreed changes before restrictions were introduced.\n\nBut Sumption pointed out that the government may avoid targeting certain countries to avoid damaging trade relationships.\n\n\"If you're looking at overall numbers of people who are refused asylum and not returned to their country of origin, it would be places like Pakistan, also Bangladesh that are right at the top of the list,\" she said.\n\n\"But the collateral damage of a ban on visas for those countries when you have so many international students coming, for example, [and] a lot of people coming on work visas would be much greater than a country like Eritrea.\"\n\nAccording to Home Office data, more than 20,400 people have arrived in the UK by small boats so far since the beginning of this year, down 40% from the same period last year.\n\nThere were more than 40,600 returns and deportations from the UK from July 2025 to June this year - an 8% increase on the same period last year.\n\nOf those who had been returned, fewer than 6,000 have been convicted of a criminal offence.\n\nThe government requires people who are in the UK, but no longer have permission to live or work in the country, to leave.\n\nThis is called a return and can happen voluntarily or involuntarily.\n\nPeople can lose the right to be in the UK for different reasons, such as a visa expiring, an asylum claim being refused, or by receiving a criminal conviction that results in deportation.\n\nThere were 40,605 returns from July 2025 to June 2026. This was up by 8% on the same period the previous year.\n\nThat number of returns is equivalent to about 6% of total emigration from the UK from January 2025 to December 2025.\n\nOf all returns from July 2025 to June 2026:\n\n5,962 had been convicted of a criminal offence 12,568 had lodged an asylum claim at some point 3,310 had arrived in the UK by small boat\n\nPeople from India made up 27% of all returns from July 2025 to June 2026.\n\nUp until September the UK was trialing a scheme with France to return people who arrived in the country on a small boat.\n\nFor every person the UK sent back to France, the UK accepted a number of asylum seekers.\n\nThis was called the \"one in, one out\" deal. As of 30 June 2026, 1,087 people were returned through this arrangement.\n\nReturns can happen in different ways. \"Enforced returns\", which includes deportations, means the government arranges transport to return people to a different country. In some cases, people are escorted by officers.\n\nAll other returns are \"voluntary\". This means a person has agreed to leave and may receive government help with travel and other costs to help facilitate the return.\n\nSome people classed as leaving the country voluntarily do so completely independently and without any government knowledge or involvement .\n\nIndependent returns made up 34% of the total from July 2025 to June 2026.\n\nTrack UK's latest migration numbers - net migration, visas, asylum and small boats Published 6 October\n\nHundreds of migrants enter UK after 10-day lull Published 28 August\n\nUK restricts DR Congo visas over migrant return policy Published 27 December 2025\n\nThree African countries agree to UK migrant returns after visa penalty threat Published 6 February\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nMigration\n\nRefugees and asylum seekers",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/935c/live/1c24f8c0-22eb-11f1-abe1-05da6de99c2b.png"
+    },
+    {
+      "id": "3c19dc77ff91e6f5",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-10-18T01:10:25Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"
+    },
+    {
+      "id": "b4d8bde9ea88f7c6",
+      "title": "Rangers 'pop balloon' as Neil gift wastes chance to go top",
+      "summary": "Rangers were full of positive energy as they made the trip to Dundee on the back of seven straight wins. However, a Dan Neil error felt \"like a balloon popping\", says Derek McInnes.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm1j3nl91gg2o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-17T22:29:15Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 33,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/045f/live/abcd2d40-ca79-11f1-8a8a-d934d437227c.jpg"
+    },
+    {
+      "id": "5a7648d553c90440",
+      "title": "How 'dangerous' Man City maintained 100 per cent record",
+      "summary": "Match of the Day's Joe Hart and Danny Murphy analyse how Manchester City made it seven wins from seven in the Premier League with a 3-2 victory against Ipswich.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx7vpl5qd008o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-17T23:00:53Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 29,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438e/live/d1402670-ca76-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "id": "be19a68cd0d3a74c",
+      "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+      "summary": "US Secretary of State Rubio separately urges Israel to ‘crack down’ on settler violence after attack on photographer.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-17T23:40:59Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "0d4f030d93c3f01d",
+      "title": "Why Liverpool are still 'too easy' to play against",
+      "summary": "Match of the Day's Danny Murphy analyses how Liverpool are still to \"easy\" to play against despite their 2-1 victory over Brentford.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c65ynpkjydemo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-17T23:00:48Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb38/live/8bd4bcd0-ca77-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "id": "3b1f5c2a7ac2f650",
       "title": "Call for more food funding due to high living cost",
       "summary": "Deputy Louise Doublet does not think the cost of living was considered in the ending of a trial.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
+      "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/news/articles/cqde8zk6d916o",
       "source": "BBC Business",
       "publisher": "BBC",
@@ -2673,14 +2839,11 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 462,
-      "readingMinutes": 3,
-      "isShort": false,
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c5a/live/ea9edaa0-c94d-11f1-8879-9d9deeb686e1.jpg",
-      "body": "Deputy Louise Doublet said she thought the cost of living was not taken into consideration in the decision\n\nPublished 17 October 2026, 07:18 BST\n\nA Jersey politician said she thought cost-of-living pressures were not considered by the government when it chose to end a trial of free fruit in primary schools.\n\nSince 2024 children in four primary schools have been able to get apples, bananas and other fruit as part of the pilot scheme.\n\nDeputy Louise Doublet said: \"To have that taken away at a time when the cost of living is still increasing I think has been quite hard for some families\".\n\nThe education minister ended the trial because not enough children were eating the fruit and it was leading to a lot of wastage. The Government of Jersey has been approached for a comment.\n\nMore news stories for Jersey\n\nListen to the latest news for Jersey\n\nThe government announced in September fresh fruit would be included in a school food programme that provides hot school meals for government primary schools.\n\nMinister for Education and Lifelong Learning Catherine Curtis previously said the free fruit scheme was leading to \"a lot of wastage\" and parents \"actually asked\" for fruit to be incorporated into the school food programme instead.\n\nThe topic was debated 29 September , external in the States Assembly.\n\nDoublet said the minister had responded to her questions in the assembly \"centred around the evidence and she informed the assembly that it hadn't resulted in much of an increase in children actually consuming fruit and vegetables and I do accept that\".\n\nBut she added she did not think benefits in terms of cost of living were measured by the scheme.\n\n\"Personally I would like to see more investment in healthy food especially if it's locally grown food to help families with the cost of living,\" she said.\n\nWhen asked about the contract with UK company Apetito Limited to provide hot school meals for government primary schools across Jersey she said it was the \"best available option\".\n\nShe added she understood people's concerns around the freshness of the food but her \"understanding is that the meals are actually frozen rather than artificially preserved\".\n\n\"I would like to see these funded meals extended further because it hits the cost of living for parents and... provides healthy meals for children,\" she said.\n\nFollow BBC Jersey on X , external , Facebook , external and Instagram , external . Send your story ideas to channel.islands@bbc.co.uk , external .\n\nRelated topics\n\nCost of Living\n\nSchool meals\n\nMore on this story\n\nFree fruit scheme for pupils axed due to wastage Published 5 October\n\nConcerns raised over island's food security Published 28 September\n\nHot school meals to be supplied by UK company Published 18 September\n\nRelated internet links\n\nGovernment of Jersey",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c5a/live/ea9edaa0-c94d-11f1-8879-9d9deeb686e1.jpg"
     },
     {
       "id": "c6805d4a34cb7232",
@@ -2709,26 +2872,26 @@
     {
       "id": "85d096892c4c1c47",
       "title": "Dubois destroys Wardley in two rounds to retain title",
-      "summary": "WBO world champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley.",
+      "summary": "WBO champion Daniel Dubois underlines his status as Britain's leading heavyweight with a devastating second-round stoppage of Fabio Wardley.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo",
-      "source": "BBC Sport",
+      "source": "BBC News",
       "publisher": "BBC",
-      "published": "2026-10-17T22:16:23Z",
-      "category": "Sports",
+      "published": "2026-10-17T22:27:49Z",
+      "category": "Politics",
       "region": "UK",
       "labels": [
-        "Sports",
+        "Politics",
         "UK"
       ],
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 20,
+      "wordCount": 19,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b3f/live/ab9ff830-ca78-11f1-aebd-051362f1d912.jpg"
     },
     {
       "id": "8f921b57d7f0588d",
@@ -2970,30 +3133,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d835/live/85224450-c88f-11f1-b0a4-81e564f1cfaa.png"
     },
     {
-      "id": "67c1f0cd61902d0d",
-      "title": "Watch Sportscene highlights",
-      "summary": "Extended highlights and reaction to the day's Scottish Premiership matches.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-17T22:40:25Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 10,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0ph92mg.jpg"
-    },
-    {
       "id": "8f9d98b737272e90",
       "title": "Gyokeres pushing for Arsenal exit - Sunday's gossip",
       "summary": "Viktor Gyokeres wants to leave Arsenal, Xabi Alonso eyes Barcelona duo and Liverpool target Dortmund's Felix Nmecha.",
@@ -3088,30 +3227,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bed/live/37cd37a0-c89e-11f1-b0a4-81e564f1cfaa.jpg"
-    },
-    {
-      "id": "3c19dc77ff91e6f5",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-10-17T19:19:19Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg"
     },
     {
       "id": "56cc01ad09b431b4",
@@ -3306,29 +3421,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6208/live/b5920780-ca40-11f1-81dd-07b2258f847d.jpg"
     },
     {
-      "id": "2e038e0b834e1875",
-      "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
-      "summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-10-17T17:24:07Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "ef011572e3ef5818",
       "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
       "summary": "US support at risk as Trump-Zelenskyy relations nosedive.",
@@ -3347,29 +3439,6 @@
       "focus": "",
       "sourceType": "news",
       "wordCount": 8,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "ec03fb4869e22655",
-      "title": "Why are Latin American countries building closer ties with Israel?",
-      "summary": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-10-17T16:54:44Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -3423,29 +3492,6 @@
       "imageUrl": "https://i.guim.co.uk/img/media/e9f4317e59cceaeb1acc7c9802b4ef9938a2aa1a/440_0_4395_3516/master/4395.jpg?width=700&quality=85&auto=format&fit=max&s=32f2599bdb8b4d785aeaacd63df30ee0"
     },
     {
-      "id": "ae9fb34f3bafa12e",
-      "title": "Ilhan Omar’s lawyers demand the return of property seized in house raid",
-      "summary": "Omar’s legal team says the search violated safeguards designed to protect constitutional rights of members of Congress.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-10-17T15:20:27Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "d77720abcf375eb0",
       "title": "McDermott seeks fix as England fight to save their World Cup",
       "summary": "Brian McDermott says he can fix the errors that led to England's Rugby League World Cup defeat by Tonga - but is it already too late?",
@@ -3493,6 +3539,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ee4/live/1b0a8360-ca34-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "id": "35cfb7d99f11cc3b",
+      "title": "Fatigued Zverev 'overachieved' by reaching Shanghai semis",
+      "summary": "Alexander Zverev says he \"overachieved\" at the Shanghai Masters in reaching the semi-finals amid fatigue caused by his busy schedule.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cm2ke179dvwdo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-17T14:03:15Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b5e/live/33415f10-ca2c-11f1-9ab2-b325ce61f9d2.jpg"
     },
     {
       "id": "430dbe4374c2f3f6",
@@ -3614,30 +3684,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c4c/live/cfdeeac0-c7ef-11f1-9a39-31b474234113.png"
-    },
-    {
-      "id": "bf3d3e95315daed0",
-      "title": "Neto stars but who was subdued? - player ratings for Everton v Chelsea",
-      "summary": "Pedro Neto's two second half goals for Chelsea secured an important away win at Everton on Saturday.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c674pzzlz8zlo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-17T13:39:16Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f664/live/3d4a5cb0-ca3f-11f1-81dd-07b2258f847d.jpg"
     },
     {
       "id": "02a30c2ff0e61554",
@@ -4576,6 +4622,29 @@
       "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgwl7y.jpg"
     },
     {
+      "id": "155f5c809773ddef",
+      "title": "At least 19 dead in stampede at Kolkata Hindu festival",
+      "summary": "A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-18T04:21:46Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "55755f03b0b388ea",
       "title": "Does Scott's Disney+ exit unmask wider issue in coverage of women's game?",
       "summary": "Alex Scott's sudden departure from her Disney+ presenter role reveals a pressing challenge for broadcasters of women's football.",
@@ -4720,6 +4789,29 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de6e/live/a5c6d650-c7ac-11f1-86ef-693282d0a891.jpg"
     },
     {
+      "id": "10ef68c7c8dd1edc",
+      "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
+      "summary": "Joblessness, failing services and rising costs deepen hardship across the country.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-18T04:14:42Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 11,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "2b1ee7f3c0552ea6",
       "title": "Waymo’s robotaxis are headed to Canada",
       "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
@@ -4766,6 +4858,29 @@
       "isBreaking": false
     },
     {
+      "id": "ad262b9dc403d2bb",
+      "title": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+      "summary": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-18T03:44:25Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 10,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "c45ca6a801c73205",
       "title": "UK economy unexpectedly grows in August despite fall in consumer spending",
       "summary": "Latest data showing surprise 0.1% growth is boost to John Healey a fortnight before his first budget Business news – live updates The UK economy unexpectedly continued to grow in August despite a fall in consumer spending before John Healey’s first budget as chancellor. Figures from the Office for National Statistics showed gross domestic product (GDP) rose by 0.1% that month, compared with 0.4% growth in July. That confounded a forecast by City economists of a 0.1% contraction. Continue reading...",
@@ -4788,6 +4903,53 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/0ec06bbd14696444370d10765c3d43400fadc7d8/460_0_6479_5182/master/6479.jpg?width=700&quality=85&auto=format&fit=max&s=b9b601d8476c3285cf0acade5717d5de"
+    },
+    {
+      "id": "8f3b212c81e57750",
+      "title": "Three takeaways from Elon Musk's latest political donations",
+      "summary": "New filings show the world's richest person spent this summer again trying to help Republicans win office, with most of his focus on one candidate.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-10-18T00:41:06Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 25,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb9c/live/ffd0d920-c9a5-11f1-ad54-aba20166b422.jpg"
+    },
+    {
+      "id": "88c2829772c58fd8",
+      "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+      "summary": "The vessels, each carrying about two million barrels of crude oil, used an unauthorised route, the IRGC says.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-18T01:54:18Z",
+      "category": "Politics",
+      "region": "Middle East",
+      "labels": [
+        "Politics",
+        "Middle East"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "a6045de84f216b4d",
@@ -4814,6 +4976,29 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg"
     },
     {
+      "id": "0b219e432b1088f1",
+      "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
+      "summary": "Kabila’s move raises new questions about the war in eastern Congo and prospects for peace.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-18T02:21:48Z",
+      "category": "Politics",
+      "region": "World",
+      "labels": [
+        "Politics",
+        "World"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 15,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "61757d44016c1da2",
       "title": "Plex now helps sell movie theater tickets",
       "summary": "Discovery data from Plex users will help studios, advertisers.",
@@ -4836,205 +5021,13 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2218632851-1152x648.jpg"
-    },
-    {
-      "id": "9aabee55dc32498d",
-      "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
-      "summary": "Medical experts explicitly recommend against blanket screenings.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-10-15T21:09:57Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 7,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg"
-    },
-    {
-      "id": "84b4cb7697d8edf9",
-      "title": "Above the 911? Porsche previews a new mid-engined supercar.",
-      "summary": "Porsche’s turnaround plan for 2035 involves less volume but more expensive cars.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-10-15T20:30:02Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 12,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/CC27X05IX0004_sRGB_072dpi-1440x1080.jpg",
-      "imageAlt": "A white Porsche concept car"
-    },
-    {
-      "id": "e7573750a6bf16ac",
-      "title": "Morris wins omnium gold for Great Britain",
-      "summary": "Great Britain's Anna Morris wins gold in the women's omnium at the Track Cycling World Championships in Shanghai.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cycling/videos/c6pvgjmv1y07o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-16T12:58:44Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4485/live/2cc65eb0-c95f-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "2e9fdbca33cf110a",
-      "title": "EU promotes sovereign, trusted AI as it struggles to catch US and China",
-      "summary": "At an international AI summit in Dublin, EU leaders promoted trusted and independent artificial intelligence. Critics question whether the bloc can close the gap with the US and China while maintaining strict regulation.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/eu-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-10-16T09:07:00Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 33,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "a95b5f6946f840ea",
-      "title": "Gen Z wrestle with shame from ordering delivery food: ‘This economy is not for the weak’",
-      "summary": "As Americans use apps like DoorDash and Uber Eats more habitually, they confront the guilt of paying extra fees for convenience Tell us: what is your personal ‘recession indicator’? When it comes to food, Caroline Bauldree does not like to “deprive” herself of anything. She does not like to cook either, so that means a lot of food deliveries. “If I want sushi, I’m getting sushi,” said the 24-year-old nanny, who lives in Raleigh, North Carolina. “I’m definitely lazy in that regard.” Bauldree got into the habit of near-daily DoorDashing back in college. “I could order whatever food from whatever restaurant and it showed up at my door – that’s the dream,” she said. “But then I just feel like crap about myself because I’m like, ‘wow, I’m a lazy piece of shit.’ Nine times out of 10, I feel bad about myself.” Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy",
-      "source": "The Guardian Business",
-      "publisher": "The Guardian",
-      "published": "2026-10-15T11:00:10Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 144,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/82aa8c2f71b2a4c8d64cc5c5317d29f3d3fbd403/766_0_6440_5152/master/6440.jpg?width=700&quality=85&auto=format&fit=max&s=dd46b0e472526412493191d2a4d91859"
-    },
-    {
-      "id": "0cacbfe189ce4132",
-      "title": "'It feels like you're days away from death' - the Olympian living with ME",
-      "summary": "She's an Olympian, a world record holder and a Commonwealth Games medal winner. She's also bedbound for more than 22 hours a day. Sprinter Beth Dobbin shares her health struggles with BBC Sport months after retiring from the sport for good.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/olympics/videos/cmgqw3j7eqqwo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-16T07:32:26Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 41,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d9f/live/1aacbc00-c8c0-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "5b3cb6aaca550535",
-      "title": "GB's Stewart wins gold in thrilling points race",
-      "summary": "Great Britain's Mark Stewart wins gold after a thrilling end to the men's points race at the 2026 Track Cycling World Championships.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/cycling/videos/c6j9kv0p343do",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-16T10:33:49Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 22,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdac/live/f6f784b0-c94c-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "id": "e89932f673c1757c",
-      "title": "'I'd spend $1,000 on a wedding present'",
-      "summary": "New Yorkers share how much they spend on a wedding gift - and how they decide.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-10-15T18:30:09Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f79f/live/033666a0-c656-11f1-bc2e-018d645d8d21.jpg"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 36
+      "items": 39
     },
     {
       "source": "BBC Politics",
@@ -5064,7 +5057,7 @@
     {
       "source": "DW",
       "ok": true,
-      "items": 137
+      "items": 136
     },
     {
       "source": "UN News",
@@ -5094,7 +5087,7 @@
     {
       "source": "The Guardian Technology",
       "ok": true,
-      "items": 35
+      "items": 36
     },
     {
       "source": "TechCrunch",
@@ -5139,7 +5132,7 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 76
+      "items": 75
     },
     {
       "source": "BBC Rugby Union",
@@ -5159,7 +5152,7 @@
     {
       "source": "Sportsnet Maple Leafs",
       "ok": true,
-      "items": 11
+      "items": 9
     },
     {
       "source": "Sky Sports",
