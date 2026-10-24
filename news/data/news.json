@@ -1,22 +1,21 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-24T12:39:50.055604Z",
+  "generatedAt": "2026-10-24T18:46:26.797814Z",
   "topStoryIds": [
     "31f77a82778670ec",
     "d189e941302499f2",
     "fa5ae74ac529b377",
-    "f953093321cbd5be",
-    "53aadadad9485259",
+    "66cc83469aceb92b",
+    "b80fff5d0797e226",
     "debbfb67da117c00",
     "8c4f8e4e87073453"
   ],
   "sectionStoryIds": {
     "Politics": [
       "31f77a82778670ec",
-      "f953093321cbd5be",
-      "53aadadad9485259",
-      "8c5e99093a875e38",
-      "068c2e93ae05c710"
+      "66cc83469aceb92b",
+      "b80fff5d0797e226",
+      "53aadadad9485259"
     ],
     "Tech": [
       "d189e941302499f2",
@@ -34,12 +33,12 @@
       "256f6fdeda0cd453",
       "37d76a620c0002db",
       "535898262db47e16",
-      "572a2ebe085c310c",
       "b49707505026528a",
+      "5336f934ab55873c",
       "12dbc87ec5f2d94b",
+      "5e5dc7c78b24c9d3",
       "b7b1f80beead4fbf",
       "7694984ee4661b1f",
-      "4377960a95e5a11c",
       "c9f232c97ebdeb10",
       "67d123c1707b5915",
       "cb8619d4a948c794"
@@ -140,14 +139,14 @@
       "imageHeight": 675
     },
     {
-      "id": "f953093321cbd5be",
-      "title": "Kim Jong-un crosses over newly opened bridge into China",
-      "summary": "Visit by train over New Yalu River Bridge marks North Korean leader’s first known trip abroad in more than a year Kim Jong-un has travelled to China over a newly opened bridge marking the North Korean leader’s first known trip abroad in more than a year. A South Korean government source told the Yonhap news agency that Kim had arrived in the Chinese border city of Dandong, in Liaoning province, after taking a train from Pyongyang to Sinuiju and crossing the New Yalu River Bridge. Continue reading...",
+      "id": "66cc83469aceb92b",
+      "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+      "summary": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelled Typhoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, and uprooting trees and severing power as it weakened and ⁠headed north toward ⁠the ​Chinese coast. Earlier classified as a super typhoon and one of the strongest storms in the ⁠Pacific this year, Champi was still packing gusts of about 126km per hour (78 miles per hour) near its ⁠centre, according to Taiwan’s Central Weather Administration (CWA). Continue reading...",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+      "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
       "source": "The Guardian China",
       "publisher": "The Guardian",
-      "published": "2026-10-24T09:34:40Z",
+      "published": "2026-10-24T02:22:32Z",
       "category": "Politics",
       "region": "China",
       "labels": [
@@ -157,24 +156,24 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 388,
+      "wordCount": 230,
       "readingMinutes": 2,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/70aba9653c376fb7740a63f99ee1a6474668c259/44_0_3934_3148/master/3934.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c7a36d698a6c05afab021f7ac3c67c7a",
-      "body": "Visit by train over New Yalu River Bridge marks North Korean leader’s first known trip abroad in more than a year\n\nKim Jong-un has travelled to China over a newly opened bridge marking the North Korean leader’s first known trip abroad in more than a year.\n\nA South Korean government source told the Yonhap news agency that Kim had arrived in the Chinese border city of Dandong, in Liaoning province, after taking a train from Pyongyang to Sinuiju and crossing the New Yalu River Bridge.\n\nYonhap also reported that the Chinese premier, Li Qiang, had travelled to the city. Kim’s trip was not announced in advance and had not been confirmed by Pyongyang or Beijing by Saturday evening.\n\nChina will mark the anniversary on Sunday of its entry into the 1950-53 Korean war on the North’s side.\n\nJapan’s Kyodo news agency said on Saturday that traffic controls had been imposed around the bridge and near a museum devoted to China’s role in the war, and that hotel bookings nearby had been restricted.\n\nDiplomatic sources told the agency the measures were linked to a visit by a senior North Korean official.\n\nThe 3km bridge opened in mid-October , 12 years after China finished building it, after being held up by delays on the North Korean side. In early September, North Korea and Russia opened the first road bridge across their own short border leaving Pyongyang newly linked by road to its main backers.\n\nThe trip is Kim’s sixth visit to China and his first since September 2025, when he attended a military parade in Beijing alongside the Chinese president, Xi Jinping, and Vladimir Putin. Xi visited Pyongyang in June , his first trip there in seven years.\n\nRelations with South Korea, meanwhile, have deteriorated. Kim’s sister, Kim Yo Jong, has issued about 10 statements criticising Seoul since late September, a frequency South Korea’s unification ministry has called unusual, and has also announced plans to resume loudspeaker broadcasts at the border within days.\n\nXi will host the Apec summit in Shenzhen on 18-19 November, which has fuelled speculation about a meeting between Kim and Donald Trump.\n\nReuters reported on Friday , however, that US and South Korean officials see little chance of Kim meeting the US president this year.\n\nNorth Korea\n\nChina\n\nKim Jong-un\n\nXi Jinping\n\nAsia Pacific\n\nSouth Korea\n\nRail transport\n\nnews",
+      "imageUrl": "https://i.guim.co.uk/img/media/ef90d32836e051ec70630f8c26f1745009515247/589_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56571f3caabc8eedbc61b17f65b265f7",
+      "body": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelled\n\nTyphoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, and uprooting trees and severing power as it weakened and ⁠headed north toward ⁠the ​Chinese coast.\n\nEarlier classified as a super typhoon and one of the strongest storms in the ⁠Pacific this year, Champi was still packing gusts of about 126km per hour (78 miles per hour) near its ⁠centre, according to Taiwan’s Central Weather Administration (CWA).\n\nThe storm was about ​150km (93 miles) east ‌of Taiwan, the CWA ‌said, having glanced off the island’s northeast coast in the early ‌hours of Saturday.\n\nChampi’s forecast track shows it turning north toward the Chinese coast before eventually moving into southern Japan .\n\nTaiwan’s fire department said one man had been killed, swept by waves from the ‌island of Liuqiu. Another 527 people were injured during heavy wind and torrential rain.\n\nTaipower said more than 167,000 homes had lost electricity, but most had now been reconnected.\n\nLarge parts of northern and central Taiwan, including Taipei, declared a second ​day of ‌office and ​school closures ​on Saturday, and some flights were still being cancelled.\n\nTaiwan is generally well prepared for typhoons, which keeps casualties low. Although more common in summer, the storms can strike also in autumn.\n\nTaiwan\n\nAsia Pacific\n\nChina\n\nJapan\n\nnews",
       "imageWidth": 1200,
       "imageHeight": 630
     },
     {
-      "id": "53aadadad9485259",
-      "title": "Between quick wins and big dreams lies Burnham's biggest test",
-      "summary": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+      "id": "b80fff5d0797e226",
+      "title": "'My daughter's bed was propped up on books,' says mum amid child poverty fears",
+      "summary": "Sarah Ruscoe, a single mum out of work due to health issues, worried her daughter’s bed would collapse at night.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o",
+      "url": "https://www.bbc.co.uk/news/articles/c933xpz1kdxyo",
       "source": "BBC Politics",
       "publisher": "BBC",
-      "published": "2026-10-24T11:03:57Z",
+      "published": "2026-10-24T13:43:05Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
@@ -184,12 +183,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 1878,
-      "readingMinutes": 9,
+      "wordCount": 1077,
+      "readingMinutes": 5,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f09/live/d22fe040-ceed-11f1-b441-2b33b063138f.jpg",
-      "body": "Between quick wins and big dreams lies Burnham's biggest test\n\nPublished 1 hour ago\n\nGiving the north of England a crack at hosting the globe's biggest sports event might seem about as Brand Burnham as it gets.\n\nSeven million pounds of taxpayers' cash is a teeny drop in the context of the overall Budget, to pay for the government to take a closer look at possible plans. But the idea is sure to get tongues wagging - and headline writers scribbling.\n\nA \"Northern Games\" in 2040 or beyond just might create a massive sense of national feel-good, jobs and development, as the Olympics in east London did more than a decade ago.\n\nBut it's a promise of a possibility at least a decade away. And what could be more in tune with the Manchester-loving prime minister and his proud Yorkshireman chancellor than a sporting plan fixed firmly on the top geographical chunk of the country?\n\nPlan for Northern Olympics to get £7m in Healey's Budget Published 1 hour ago\n\nIt's Brand Burnham alright, popular with most of the Labour backbenches, just add the Twiglets and the pint in the stands.\n\nThe prime minister and his team are proud of a distinct feature of their government so far, focusing on small things that might make a big difference: fines for blaring out music on your phone on the bus, cracking down on \"rip-off\" parking charges, investing a small amount of cash in a big ambition for a sporting event in future.\n\nIt's what some ministers call \"the politics of trying\" – putting time and effort into ideas that you don't pretend are revolutionary, but give direction, and a sense of sympathy to the public.\n\nIt's an echo, deliberate or not, of another Labour Prime Minister, Harold Wilson, who sent memos to his cabinet in 1974 demanding \"little things that mean a lot\".\n\nHe ended up with a list of plans including nationalising small breweries to stop them being gulped up by big firms (paging Andy Burnham), freezing phone installation charges for pensioners, and plans for empty office blocks.\n\nBut the next few days could bring an end to that \"politics of trying\" phase, with one senior official describing the coming Budget as \"the first proper moment for the government, which will then be in the pipeline for the 10-year plan, then a very difficult spending review\".\n\nWhat is the Budget and what could be in it?\n\nAn influential Labour MP told me: \"The Budget has to be the beginning of the future story.\"\n\nA fancy way of saying, beyond the short-term announcements and clear long-term aspirations, what is this government actually going to do?\n\n\"Steady as she goes,\" is what one well-connected senior MP predicts, and how expectations of the Budget are being managed across Westminster. They tell me: \"Not doing a lot might be more reassuring to people than promising the earth with whose money?\"\n\nThe boss of one well-known high street business told me they are even hoping there won't be any big bazookas. \"Just do no harm,\" they implored the Chancellor John Healey.\n\n\"The hole is too big that they are trying to fill, so my view is don't try and do anything big to help because you don't have the money, but don't do anything to harm us either.\"\n\nAfter all, the chancellor is bound by Labour's manifesto promises not to fiddle with the main taxes – income tax, VAT, National Insurance for workers. And you don't need me to remind you that public spending, borrowing and tax are all at historic highs.\n\nChuck in prices jacking up again because of war in the Middle East and there isn't much money to spray around. In fact, some big cuts to public spending are already pencilled in for the later years of this parliament.\n\nThe chancellor and prime minister face a difficult balancing act, trying to offer more support to households and meet commitments on defence spending\n\nBut the widespread suggestion that you'll be able to blink and miss the Budget has got some hackles up in the Treasury. A budget, by its very nature, can never be a small event - it sets billions upon billions of taxes and spending decisions.\n\nAnd there are likely to be extra taxes on banks, vows to sweep away some business regulation, particularly for small business, more powers passing to local leaders under the guise of devolution and more action on energy bills which are heading back up again.\n\nJohn Healey has made it clear publicly and to staff, that he wants to encourage people with the guts and drive to start a business. One source said: \"If you are taking on John's mantra about talking up Britain then you can't say, 'Nothing to see here'.\"\n\nWhatever else the chancellor brings to Parliament in his red box, do not expect him to arrive with all the solutions to the country's very well-documented problems, whether that's getting the economy growing more convincingly, sorting out gaps in defence cash, welfare, social care, or new ways to pay off the country's groaning debts more quickly.\n\nOne former minister suggests even if Healey and Burnham had stumbled upon all the answers in a few months, it's just not possible to fix everything at the same time because of the constraints on the economy.\n\nThey wondered: \"Is he going to invest in growth? Is he going to put everything he has into the challenges people will face this winter? Is he going to throw it at defence? There is just not enough to tackle all these problems simultaneously - ministers are going to be exposed to the cold light of day.\"\n\nBurnham and Healey have to find a way of maintaining the balance in an unusually happy Labour Party.\n\nMPs talk of ministers and Burnham himself being more visible and approachable in Parliament, knocking around with colleagues in the evening, fewer \"golden slips\" doled out when ministers were excused from voting alongside colleagues so they could get on with their important jobs.\n\nOne minister told me they'd had to tell their private office not to arrange for them to be \"slipped\" , from going to the Commons in the evening to see backbenchers.\n\nIt's paying off in the mood among MPs. One told me: \"You're not feeling like the only way you can ever have a chat with a minister is by arranging an appointment for three months down the line – the soft touches really matter.\"\n\nChancellor John Healey will set out Labour's tax and spending plans when he delivers his first Budget on 28 October\n\nA party that feels the boss has their back is more likely to be receptive to hard decisions, that's simple psychology, and guess what? Politicians are humans too.\n\nBut the equilibrium is fragile. One source involved in the Budget prep told me the government \"is like a seesaw\".\n\n\"It's John and James on the right (Healey and Purnell, Burnham's chief of staff), Lou (Haigh) on the left, and Andy balancing it in the middle,\" adding that \"Andy is not as on the left as many of his supporters want to believe\".\n\nThat balance could be more strained in the coming weeks as choices over immigration and welfare reform loom after the Budget. And how the numbers stack up on Wednesday matters intensely too.\n\nThe Labour left will be looking keenly to see if people who are really struggling financially receive meaningful support.\n\nThose on the right will be scouring the statement for measures that display a tight control on spending and help businesses grow. Even small moves could upset the seesaw.\n\nOne former minister doubts there will be anything major enough to upset the delicate balance, not because of an abundance of caution but they suggest, \"John has been struggling a bit - he hasn't gone into this with a philosophical direction\".\n\nThere is also a risk that by deferring big decisions until the Spending Review next year - which sets out longer-term spending than an annual budget - it looks like the government is just putting off the hard stuff.\n\nAnother acknowledges the danger of looking like it's a budget on the never-never, delaying decisions on \"welfare, defence and social care – Andy goes in with political stock quite high – he needs to spend it on difficult stuff and there isn't much sign of it yet\".\n\nIn an interview with The Times, Andy Haldane, a former chief economist at the Bank of England and an ally of Burnham, said he feared the government would deliver a \"mañana budget\" that deferred difficult decisions on public spending and \"doesn't speak to the urgency of now\".\n\nWith friends like these…\n\nThe former mayor of Greater Manchester became the UK's fourth prime minister in five years and the seventh since 2016\n\nIt's a good bet that the opposition parties will pile in on this angle, accusing Healey and Burnham of ignoring the long-term pressures next week. One prominent opposition politician said: \"This Budget can only be postponing, you have to assume that's cynical because you are going to have an early election, or you are storing up a car crash for next year (the Spending Review).\"\n\nDowning Street sources counter that argument with Burnham's decision to unpick the expensive triple lock to pay, at least in part, for future social care. Or his bolder approach to potentially ask to re-enter the EU, or certainly pursue much closer ties.\n\nAnd remember that list of small things that could make a big difference? They have made political decisions that the polls suggest voters have noticed.\n\nEven some of Burnham's backers admit quietly that he is aware his first job in office was clear: to show action, to cheer up his party, and that seems to have had a positive effect in the polls.\n\nHis long-term view of the UK he wants is well known – with devolution, a national care service, and greater public involvement in the economy.\n\nBut the middle bit?\n\nOne official says: \"Unless the prime minister has said something quite specific about something everyone is scrambling around trying to work out what he wants to do.\"\n\nAnother well-connected source says: \"The challenge has always been with this project, how do people feel in the medium term – it's huge.\"\n\n​​Burnham and his chancellor's start in office has been broadly successful if you look at the polling, or read the mood inside the Labour party.\n\nTheir dreams of future glories, long-term plans and policies, and gold medals on UK soil could point ahead to many years time.\n\nBut neither deal with the issues that need to be confronted in the middle.\n\nThe chancellor was working late in his Downing Street flat last night, finishing off his plans after having fish pie for tea, conscious his first Budget starts the between times - and they're almost here.\n\nLead image: Future Publishing via Getty\n\nBBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here\n\nGet in touch\n\nAre you personally affected by the issues raised in this story?\n\nRelated topics\n\nAndy Burnham",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f4a/live/cd10e2e0-ce1f-11f1-906e-e3128518d85d.jpg",
+      "body": "Sarah Ruscoe's daughter Sabrina is among Wales' one-third of children living in relative poverty\n\nPublished 24 October 2026, 14:39 BST\n\n\"I was sleeping on the sofa, she had a bed that was propped up on books. One of the legs had fallen off completely.\"\n\nSarah Ruscoe, a single mum out of work because of a health condition, said she had worried her daughter's bed would collapse in the night after finding herself in a \"dire\" financial situation.\n\nA food bank user, Ruscoe said \"every year seems to be getting worse\" as she struggled to make her benefits cover essentials.\n\nA charity eventually paid for a new bed for daughter Sabrina, 11.\n\nBut MPs heard this week that the general picture of one in three children living in relative poverty in Wales had not changed in 20 years, with a think tank saying the problem was becoming entrenched.\n\n'There's so much I want to give my daughter - poverty means I can't' Published 27 April\n\n£10-a-week child poverty payment plans faces obstacles, says expert Published 9 July\n\nOn Wednesday MPs at the UK Parliament's Welsh Affairs Committee opened an inquiry on ending child poverty in Wales.\n\nThe country has the highest child poverty rate of any UK nation, with 32% of children living in relative poverty after housing costs, according to the latest official statistics.\n\nA child is considered to be in relative poverty if the income of the household they live in is below 60% of the UK median.\n\nEvidence was given by charities including Action for Children, who paid for Sabrina's new bed and provides financial support to thousands of low income families in Wales each year.\n\nRuscoe, from Barry, told BBC Wales that three years ago she struggled to afford to replace her daughter's \"ropey\" bed which had been \"second or third hand\".\n\n\"It was getting a bit distressing,\" she said, and both mother and daughter had worried it might collapse in the night when Sabrina moved.\n\n\"I was having difficulty finding somewhere where I could afford one, and also not having the greatest credit rating in the world meant that you had to pay like two or three times what you would have done if you'd just gone into a shop and bought it outright.\"\n\nThe new bed meant Sabrina had \"somewhere safe\" to sleep, her mother says\n\nThe cabin bunk and a mattress purchased by Action for Children made a \"massive difference\", she said.\n\n\"It meant she had somewhere safe. It's a little nest now. We decorated it,\" Ruscoe said.\n\n\"Nobody else has slept in it. It's something that's new for her.\n\n\"Up until that point it was worry and trying to work out, maybe if I didn't pay this bill maybe I could save some money here, what could I go without, trying to work out which company had the smallest APR on an item that I could afford.\n\n\"There's not that much out there, especially when they hear you're on benefits.\"\n\nOne year the charity also helped the family with a gift card for local supermarkets before Christmas.\n\nRuscoe, who used to work in a job centre, said her chronic pain condition fibromyalgia had left her feeling fatigued and in pain and, when it had flared up, unable to move.\n\n\"I don't work due to my disabilities so it's a case of benefits, and that's how we survive, and this year seems to be worse than last year. Every year seems to be getting worse.\n\n\"Last year I managed to put money away over the course of the year for Christmas and this year I haven't been able to at all. Everything has gone up.\n\n\"There's only so much penny pinching you can do on everything and then realise that every penny you've pinched is still not covering all your bills and your outgoings.\"\n\nThe mother and daughter are just one of hundreds of families who have received financial help from Action for Children\n\nRuscoe warned that anyone could find themselves in a crisis situation because of ill-health or an unexpected life event.\n\nLaurie Ryall, Wales director at Action for Children, gave evidence to MPs on the first day of their inquiry in Westminster, and said the absence of a single point of access for support had often left families experiencing child poverty feeling overwhelmed.\n\n\"They don't always know what they're entitled to or where to go, it's confusing, it's a minefield,\" Ryall said.\n\nMabli Jones from the Bevan Foundation think tank told MPs that although child poverty had remained at the same level for two decades \"what's been happening under the surface is that poverty has got deeper\".\n\n\"Almost half - 47% - of people in Wales who live in poverty live in what's classed as very deep poverty - that's an income that is at or below 40% of the median,\" she said.\n\n\"Families who are experiencing that kind of poverty are likely to be going without many of the basics.\"\n\nA UK government spokesperson said: \"We're determined to turn the tide on poverty, and our landmark child poverty strategy will lift 550,000 children out of poverty in the final year of this parliament - the largest reduction in child poverty since records began.\"\n\nThey said abolishing the two-child limit would benefit an estimated 69,000 children in Wales, and a temporary cut to electricity bills and raising the National Living Wage had contributed to a fall in food bank usage.\n\nA Welsh government spokesperson said it had \"inherited a damning legacy of stubbornly high levels of child poverty\".\n\nIt said it was helping families through the first phase of its offer of 12.5 hours of free childcare to all two-year-olds and extending free school meals.\n\nThey also said the government was seeking assurance from the UK government that a proposed pilot scheme for £10 a week to each child to support low-income families would not affect families' benefit payments.\n\n\"We continue to call on the UK government to use all the levers at its disposal, including those on welfare, to make a lasting difference to families in Wales,\" they said.\n\nRelated topics\n\nUK government\n\nWelsh government\n\nWales\n\nChild poverty\n\nMore top stories\n\nFitness became an addiction that left me anxious and sleep deprived Published 12 hours ago\n\nRussell T Davies says he gets daily hate messages for supporting trans rights Published 12 hours ago\n\nBabydoll singer gives Wales its first UK number one in 15 years Published 1 day ago",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -248,14 +247,14 @@
       "imageHeight": 600
     },
     {
-      "id": "8c5e99093a875e38",
-      "title": "Wales plans to ban steel pylons as government launches consultation",
-      "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
+      "id": "53aadadad9485259",
+      "title": "Between quick wins and big dreams lies Burnham's biggest test",
+      "summary": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o",
       "source": "BBC Politics",
       "publisher": "BBC",
-      "published": "2026-10-24T10:04:29Z",
+      "published": "2026-10-24T11:03:57Z",
       "category": "Politics",
       "region": "UK",
       "labels": [
@@ -265,37 +264,14 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 982,
-      "readingMinutes": 5,
+      "wordCount": 1878,
+      "readingMinutes": 9,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a57f/live/b7611c70-cec5-11f1-b9e0-e5f0da03dc7f.jpg",
-      "body": "Building pylons in Wales could be a thing of the past, with the country's ministers instead wanting to bury energy cables underground\n\nPublished 23 October 2026\n\nThe Welsh government has announced plans to ban the use of traditional steel pylons to support electricity lines over which it has control.\n\nPlaid Cymru ministers favour burying cables underground instead.\n\nPlans for a network of pylons in the Towy Valley have faced a fierce local backlash with local Plaid politicians speaking out against the proposals.\n\nThe company behind the plans, Green Gen Cymru, said it welcomed the consultation and that it supported using \"the right infrastructure in the right place\".\n\nProhibiting the use of large steel lattice pylons for new lines up to 132 kilovolts was a Plaid Cymru manifesto pledge before May's Senedd election.\n\nLaunching a consultation on its policy on Friday, the Welsh government said undergrounding electricity circuits could \"reduce the visual impact of electricity infrastructure, helping to protect landscapes and local amenity\".\n\nIt also said that burying cables could make them less vulnerable to severe weather and could reduce the potential impact on birds and other wildlife.\n\nHowever, the consultation document also acknowledges that undergrounding was \"generally considered more expensive to install and maintain and could create construction impacts during installation\".\n\nThe government's policy would allow for wooden poles or \"equivalent, less intrusive infrastructure\" to be used to support overhead cables where undergrounding isn't feasible.\n\nFarmers 'vindicated' after judge's ruling on pylon firm accessing land Published 6 July\n\nEnergy firm unveils new slimline pylons designed 'with Welsh landscape in mind' after backlash Published 17 September\n\nGreen Gen has plans to build three major power line routes connecting onshore wind farms planned by its sister company Bute Energy with the wider grid network.\n\nIt has previously said it would invest nearly £1bn by 2030, with proposals affecting parts of Carmarthenshire, Ceredigion, Powys and Shropshire.\n\nBut it has faced considerable opposition in certain communities, with groups representing hundreds of landowners taking the company to court in 2025 .\n\nIn a bid to address concerns, Green Gen recently unveiled a \"slim and compact\" 22 metre (72ft) pylon, designed \"with the Welsh landscape in mind\".\n\nThe company has consistently said that undergrounding its cables would cost on average 4.5 times more , external than running them overhead.\n\nThat would mean an extra cost of £500m for the Towy Usk project between Carmarthenshire and Powys, according to Green Gen.\n\nGreen Gen Cymru has proposed three pylon routes from mid Wales across to Shropshire, south-west Wales to Ceredigion, and one from the same point to Powys\n\nWelsh Energy Minister Adam Price said: \"We know the necessary changes in the way energy is generated and used in Wales will require new grid infrastructure, however, we also know that new infrastructure can impact on the communities and the environment that hosts it.\n\n\"We want to see infrastructure that is sensitively designed to minimise impacts on the environment and the communities that host them, while offering the maximum benefits for Wales.\"\n\nAndrew Hardcastle, executive director at Green Gen Cymru, said: \"We welcome the Welsh government's consultation and its recognition of the importance of delivering the electricity infrastructure Wales needs in a way that is sensitive to our landscapes, environment and communities.\n\n\"Like all grid companies across the UK, we believe there is no one-size-fits-all solution to developing new electricity networks.\n\n\"Our approach is to use the right infrastructure in the right place, drawing on a range of technologies including underground cables, wooden poles and our recently announced lower-profile monopoles.\"\n\nThe company said it was \"pleased that the consultation recognises the potential role of less visually intrusive overhead infrastructure, including monopoles, and invites evidence on their use\".\n\nReform's Senedd spokesperson for rural affairs, Laura Anne Jones, said: \"As part of our energy policy, we will continue to push for new power lines to be placed underground wherever possible, protecting our landscapes and rural communities.\n\n\"Reform will always stand up for our countryside and fight against its industrialisation.\"\n\nWelsh Labour's environment, rural affairs, energy and transport spokesperson, Vikki Howells said: \"Burying cables can cost five times as much as overhead lines, making electric more expensive and decarbonisation more difficult.\"\n\nShe said the sensible position was choosing the right engineering solution for the right landscape and \"undergrounding should absolutely remain available where landscape, environmental or other circumstances justify it\".\n\nThe Welsh Conservatives welcomed the policy consultation.\n\nThe party's environment spokesperson, Andrew RT Davies said: \"We recognise that Wales needs a modern electricity network to support economic growth, but communities should not have to accept eyesores across our beautiful natural landscapes, which must be conserved.\"\n\nThe consultation , external will run until 15 January 2027.\n\nDyfan Walters called it a \"positive day\" for campaigners\n\nEirian Edwards, a campaigner in the Llandovery Pylon Group, said: \"We welcome that they are seriously looking at undergrounding as the preferred option - to protect landscapes and people's livelihoods.\n\n\"If infrastructure has to be planned, then we're not against that process at all. We realise that we need to strengthen our local grid, but certain projects that are planned do not fulfil that at all.\"\n\nDyfan Walters, a farmer in Llandovery who is also a member of Llandovery Pylon Group, called it \"a positive day for us\".\n\n\"We're fully supportive and understand that the infrastructure is required.\n\n\"Putting that underground means that there's less impact on agriculture, less impact on tourism.\n\n\"In a world where there's an ever-changing climate, having that resilience - having infrastructure placed underground - is a sensible way forward.\"\n\nRelated topics\n\nWales\n\nEnvironment\n\nEnergy service companies\n\nWelsh government\n\nMore top stories\n\nMan, 61, charged with murder after 'stabbed' woman dies following crash Published 1 day ago\n\nAngry scenes and protests at Senedd as Reform call for ban on Muslim face coverings Published 2 days ago\n\nMystery of man found dead in wetsuit deepens as inquest questions ethnicity Published 1 day ago",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8f09/live/d22fe040-ceed-11f1-b441-2b33b063138f.jpg",
+      "body": "Between quick wins and big dreams lies Burnham's biggest test\n\nPublished 7 hours ago\n\nGiving the north of England a crack at hosting the globe's biggest sports event might seem about as Brand Burnham as it gets.\n\nSeven million pounds of taxpayers' cash is a teeny drop in the context of the overall Budget, to pay for the government to take a closer look at possible plans. But the idea is sure to get tongues wagging - and headline writers scribbling.\n\nA \"Northern Games\" in 2040 or beyond just might create a massive sense of national feel-good, jobs and development, as the Olympics in east London did more than a decade ago.\n\nBut it's a promise of a possibility at least a decade away. And what could be more in tune with the Manchester-loving prime minister and his proud Yorkshireman chancellor than a sporting plan fixed firmly on the top geographical chunk of the country?\n\nPlan for Northern Olympics to get £7m in Healey's Budget Published 3 hours ago\n\nIt's Brand Burnham alright, popular with most of the Labour backbenches, just add the Twiglets and the pint in the stands.\n\nThe prime minister and his team are proud of a distinct feature of their government so far, focusing on small things that might make a big difference: fines for blaring out music on your phone on the bus, cracking down on \"rip-off\" parking charges, investing a small amount of cash in a big ambition for a sporting event in future.\n\nIt's what some ministers call \"the politics of trying\" – putting time and effort into ideas that you don't pretend are revolutionary, but give direction, and a sense of sympathy to the public.\n\nIt's an echo, deliberate or not, of another Labour Prime Minister, Harold Wilson, who sent memos to his cabinet in 1974 demanding \"little things that mean a lot\".\n\nHe ended up with a list of plans including nationalising small breweries to stop them being gulped up by big firms (paging Andy Burnham), freezing phone installation charges for pensioners, and plans for empty office blocks.\n\nBut the next few days could bring an end to that \"politics of trying\" phase, with one senior official describing the coming Budget as \"the first proper moment for the government, which will then be in the pipeline for the 10-year plan, then a very difficult spending review\".\n\nWhat is the Budget and what could be in it?\n\nAn influential Labour MP told me: \"The Budget has to be the beginning of the future story.\"\n\nA fancy way of saying, beyond the short-term announcements and clear long-term aspirations, what is this government actually going to do?\n\n\"Steady as she goes,\" is what one well-connected senior MP predicts, and how expectations of the Budget are being managed across Westminster. They tell me: \"Not doing a lot might be more reassuring to people than promising the earth with whose money?\"\n\nThe boss of one well-known high street business told me they are even hoping there won't be any big bazookas. \"Just do no harm,\" they implored the Chancellor John Healey.\n\n\"The hole is too big that they are trying to fill, so my view is don't try and do anything big to help because you don't have the money, but don't do anything to harm us either.\"\n\nAfter all, the chancellor is bound by Labour's manifesto promises not to fiddle with the main taxes – income tax, VAT, National Insurance for workers. And you don't need me to remind you that public spending, borrowing and tax are all at historic highs.\n\nChuck in prices jacking up again because of war in the Middle East and there isn't much money to spray around. In fact, some big cuts to public spending are already pencilled in for the later years of this parliament.\n\nThe chancellor and prime minister face a difficult balancing act, trying to offer more support to households and meet commitments on defence spending\n\nBut the widespread suggestion that you'll be able to blink and miss the Budget has got some hackles up in the Treasury. A budget, by its very nature, can never be a small event - it sets billions upon billions of taxes and spending decisions.\n\nAnd there are likely to be extra taxes on banks, vows to sweep away some business regulation, particularly for small business, more powers passing to local leaders under the guise of devolution and more action on energy bills which are heading back up again.\n\nJohn Healey has made it clear publicly and to staff, that he wants to encourage people with the guts and drive to start a business. One source said: \"If you are taking on John's mantra about talking up Britain then you can't say, 'Nothing to see here'.\"\n\nWhatever else the chancellor brings to Parliament in his red box, do not expect him to arrive with all the solutions to the country's very well-documented problems, whether that's getting the economy growing more convincingly, sorting out gaps in defence cash, welfare, social care, or new ways to pay off the country's groaning debts more quickly.\n\nOne former minister suggests even if Healey and Burnham had stumbled upon all the answers in a few months, it's just not possible to fix everything at the same time because of the constraints on the economy.\n\nThey wondered: \"Is he going to invest in growth? Is he going to put everything he has into the challenges people will face this winter? Is he going to throw it at defence? There is just not enough to tackle all these problems simultaneously - ministers are going to be exposed to the cold light of day.\"\n\nBurnham and Healey have to find a way of maintaining the balance in an unusually happy Labour Party.\n\nMPs talk of ministers and Burnham himself being more visible and approachable in Parliament, knocking around with colleagues in the evening, fewer \"golden slips\" doled out when ministers were excused from voting alongside colleagues so they could get on with their important jobs.\n\nOne minister told me they'd had to tell their private office not to arrange for them to be \"slipped\" , from going to the Commons in the evening to see backbenchers.\n\nIt's paying off in the mood among MPs. One told me: \"You're not feeling like the only way you can ever have a chat with a minister is by arranging an appointment for three months down the line – the soft touches really matter.\"\n\nChancellor John Healey will set out Labour's tax and spending plans when he delivers his first Budget on 28 October\n\nA party that feels the boss has their back is more likely to be receptive to hard decisions, that's simple psychology, and guess what? Politicians are humans too.\n\nBut the equilibrium is fragile. One source involved in the Budget prep told me the government \"is like a seesaw\".\n\n\"It's John and James on the right (Healey and Purnell, Burnham's chief of staff), Lou (Haigh) on the left, and Andy balancing it in the middle,\" adding that \"Andy is not as on the left as many of his supporters want to believe\".\n\nThat balance could be more strained in the coming weeks as choices over immigration and welfare reform loom after the Budget. And how the numbers stack up on Wednesday matters intensely too.\n\nThe Labour left will be looking keenly to see if people who are really struggling financially receive meaningful support.\n\nThose on the right will be scouring the statement for measures that display a tight control on spending and help businesses grow. Even small moves could upset the seesaw.\n\nOne former minister doubts there will be anything major enough to upset the delicate balance, not because of an abundance of caution but they suggest, \"John has been struggling a bit - he hasn't gone into this with a philosophical direction\".\n\nThere is also a risk that by deferring big decisions until the Spending Review next year - which sets out longer-term spending than an annual budget - it looks like the government is just putting off the hard stuff.\n\nAnother acknowledges the danger of looking like it's a budget on the never-never, delaying decisions on \"welfare, defence and social care – Andy goes in with political stock quite high – he needs to spend it on difficult stuff and there isn't much sign of it yet\".\n\nIn an interview with The Times, Andy Haldane, a former chief economist at the Bank of England and an ally of Burnham, said he feared the government would deliver a \"mañana budget\" that deferred difficult decisions on public spending and \"doesn't speak to the urgency of now\".\n\nWith friends like these…\n\nThe former mayor of Greater Manchester became the UK's fourth prime minister in five years and the seventh since 2016\n\nIt's a good bet that the opposition parties will pile in on this angle, accusing Healey and Burnham of ignoring the long-term pressures next week. One prominent opposition politician said: \"This Budget can only be postponing, you have to assume that's cynical because you are going to have an early election, or you are storing up a car crash for next year (the Spending Review).\"\n\nDowning Street sources counter that argument with Burnham's decision to unpick the expensive triple lock to pay, at least in part, for future social care. Or his bolder approach to potentially ask to re-enter the EU, or certainly pursue much closer ties.\n\nAnd remember that list of small things that could make a big difference? They have made political decisions that the polls suggest voters have noticed.\n\nEven some of Burnham's backers admit quietly that he is aware his first job in office was clear: to show action, to cheer up his party, and that seems to have had a positive effect in the polls.\n\nHis long-term view of the UK he wants is well known – with devolution, a national care service, and greater public involvement in the economy.\n\nBut the middle bit?\n\nOne official says: \"Unless the prime minister has said something quite specific about something everyone is scrambling around trying to work out what he wants to do.\"\n\nAnother well-connected source says: \"The challenge has always been with this project, how do people feel in the medium term – it's huge.\"\n\n​​Burnham and his chancellor's start in office has been broadly successful if you look at the polling, or read the mood inside the Labour party.\n\nTheir dreams of future glories, long-term plans and policies, and gold medals on UK soil could point ahead to many years time.\n\nBut neither deal with the issues that need to be confronted in the middle.\n\nThe chancellor was working late in his Downing Street flat last night, finishing off his plans after having fish pie for tea, conscious his first Budget starts the between times - and they're almost here.\n\nLead image: Future Publishing via Getty\n\nBBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here\n\nGet in touch\n\nAre you personally affected by the issues raised in this story?\n\nRelated topics\n\nAndy Burnham",
       "imageWidth": 1200,
       "imageHeight": 675
-    },
-    {
-      "id": "068c2e93ae05c710",
-      "title": "Aston Villa vs Manchester City LIVE: Premier League",
-      "summary": "Follow updates with build-up and team news from our live text commentary stream as Erling Haaland headlines.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/24/aston-villa-vs-manchester-city-live-premier-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-10-24T08:03:52Z",
-      "category": "Politics",
-      "region": "World",
-      "labels": [
-        "Politics",
-        "World"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": true
     },
     {
       "id": "86952517d7bc2960",
@@ -476,32 +452,6 @@
       "isBreaking": false
     },
     {
-      "id": "572a2ebe085c310c",
-      "title": "Is fourth line what separates this year’s Maple Leafs from last season?",
-      "summary": "17927889086730667",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/video/is-4th-line-what-separates-this-years-maple-leafs-from-last-season/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-23T20:56:10Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 1,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/6407310866112.jpg"
-    },
-    {
       "id": "b49707505026528a",
       "title": "Oilers’ Mattias Ekholm out vs. Maple Leafs with concussion",
       "summary": "Jeff Chiu/AP Edmonton Oilers defenseman Mattias Ekholm",
@@ -528,6 +478,32 @@
       "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/09/Edmonton-Oilers-defenseman-Mattias-Ekholm.jpg"
     },
     {
+      "id": "5336f934ab55873c",
+      "title": "Maple Leafs prepare for stiff test against Connor McDavid, Oilers",
+      "summary": "matthews mcdavid",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.sportsnet.ca/nhl/article/maple-leafs-prepare-for-stiff-test-against-connor-mcdavid-oilers/",
+      "source": "Sportsnet Maple Leafs",
+      "publisher": "Sportsnet Maple Leafs",
+      "published": "2026-10-23T19:49:50Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Hockey",
+        "Maple Leafs"
+      ],
+      "sourceWeight": 5,
+      "focus": "Maple Leafs",
+      "sourceType": "news",
+      "wordCount": 2,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/02/matthews-mcdavid.jpg"
+    },
+    {
       "id": "12dbc87ec5f2d94b",
       "title": "Smith partnership & Saracens spice - Furbank on life at Quins",
       "summary": "George Furbank traded champions Northampton for struggling Harlequins - and the early signs of synergy with Marcus Smith are promising.",
@@ -552,6 +528,31 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/24146de0-cee4-11f1-bdca-23c64447299f.jpg"
+    },
+    {
+      "id": "5e5dc7c78b24c9d3",
+      "title": "Glasgow recover 17-point deficit to beat Benetton",
+      "summary": "Glasgow recover from 17 points down to win a thriller at Benetton and continue their unbeaten start to the United Rugby Championship season.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm3vq1g7zrwno",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-10-24T16:31:41Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England",
+        "Rugby"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 23,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/358f/live/8287f090-cfc5-11f1-9ecd-8be45051afbd.jpg"
     },
     {
       "id": "b7b1f80beead4fbf",
@@ -602,30 +603,6 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
-    },
-    {
-      "id": "4377960a95e5a11c",
-      "title": "Wales grind out frustrating WXV win against Japan",
-      "summary": "Wales earn a three-try victory against Japan in tricky Tokyo conditions to secure a second win of their WXV campaign.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg6j9je3w4o",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-10-24T11:34:38Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd2a/live/1560ba90-cf9a-11f1-99e0-bfcc419a6039.jpg"
     },
     {
       "id": "c9f232c97ebdeb10",
@@ -950,14 +927,14 @@
       "body": "The Achilles heel of consumer democracies.\n\nNathan Gardels is the editor-in-chief of Noema Magazine. He is also the co-founder of and a senior adviser to the Berggruen Institute.\n\nThe Achilles heel of consumer democracies is that there is precious little constituency for the future in the present. All the feedback signals — in politics, culture and the market — are geared to short-term gratification. In each case, the incentives of the system deliver what the most influential demographic wants, and when they want it, which is now.\n\nFrom fast fashion to electoral contests to quarterly earnings reports, the system is responsive to the pursuit of happiness defined by the near horizon.\n\nThe consequence of this, which Harvard sociologist Daniel Bell argued more than half a century ago in his book, “The Cultural Contradictions of Capitalism,” is that the present ends up eating the future to the detriment of the long-term sustainability of society. The recent Noema essay by Simon Curtis and Ian Klaus titled “Americans Are Losing The Long Game” is excellent on this point.\n\nWhile state-guided dirigiste policies that champion and support strategic industries deemed critical for the future are roundly frowned upon in market economies, the opposite rigidity of the short-term consumerist mentality is less appreciated as a critical failure of good governance. Yet, unless societies prepare for, subsidize and invest in the kind of future they want, they will never get there.\n\n“The present ends up eating the future to the detriment of the long-term sustainability of society.”\n\nChina’s Market-State Modality\n\nOf all the major powers, post-Mao China stands out in taking control of its future without sacrificing the present. Over recent decades, it has both lifted hundreds of millions into general prosperity while, at the same time, swiftly conquering the key industries of a sustainable future, from green technology to artificial intelligence.\n\nOne has to admit that the Middle Kingdom’s mix of a long-term planning framework checked by robust market signals and bolstered by strategically deployed subsidies has worked. Indeed, it has worked too well: Its overproduction is spilling out and flooding world markets, threatening to displace domestic jobs and industry elsewhere.\n\nChina has not arrived at this point overnight. It has been a long time coming. In 1987, the ideology chief of the Communist Party politburo at the time, Hu Qili, told me in Beijing: “The market is not a feature unique to capitalism. Capitalism does not have the patent right over the market economy. What we are trying to create is a new and unprecedented modality where planning is combined with the commodity economy, where the state regulates the market, and the market guides the enterprises.”\n\nThe overall economy is steered by a one-party political system designed to reach consensus over long-term goals that have the decisive thrust to be carried out over many years without a break in continuity. Once set, the policy path is followed with relative discipline by a leadership and administration that, while not based on popular appeal to an electorate, is systemically accountable for realizing its set objectives.\n\nWhen a key strategic goal is ordained by the Party, the state fosters a “whole dragon” approach in which start-up subsidies, sourcing, supply chains and production capacity are vertically aligned, making it one of the most powerful production ensembles in economic history.\n\nFlaws Linked To Strength\n\nThe chief flaw of China’s system, of course, is closely linked to its strength. To keep the consensus from fraying, it overcompensates on the side of repressive order and control of freedom. It is the opposite of the open societies of the West, where the flaw lies within the strength of diverse participation and electoral competition: a growing inability to forge a consensus on long-term goals out of the cacophony of voices, the welter of contending interests and the immediate wash of fickle public opinion.\n\nWhen all-out competitive partisanship destroys consensus among the body politic, the democratic transfer of power can mean a complete rupture of policies endorsed by most voters only four years earlier. Sticking to the course for the time it takes to reach fruition is not a reliable feature of this system.\n\nThe extreme edge of this stark difference can be seen in the contrasting behavior of the current leadership in the U.S. and China. America’s leader relishes dominating the memes of the moment, battling his way through every 24-hour news cycle by firing off social media barrages at sundry foes. China’s near-dictatorial leader has used his amassed clout to chart out a roadmap for the next half century.\n\nChina’s Long March To Owning Green Technologies\n\nMeeting in Mexico in 2012, the G-20 decided for the first time to put climate change on the agenda. In those days, the Berggruen Institute’s 21 st Century Council, a group of former heads of state and government, tech leaders and Nobel laureates, would meet with the chair of the G-20 each year to advise on its agenda. Read Noema in print.\n\nThat year’s chair, then Mexican president Felipe Calderón, invited the council for lunch in the garden of Los Pinos, the presidential palace, to discuss the upcoming meeting. When the topic turned to climate, Wu Jianmin, a top Chinese diplomat and executive director of the China Institute for Innovation and Development Strategy, related that a top priority of the then incoming Party leadership of Xi Jinping would be “ecological civilization.”\n\nAll those 14 years ago, he confidently laid out a trajectory of China’s decisive shift to electric vehicles and plans for massive R&D investment in battery storage for wind and solar as well as EVs. Everyone listened respectfully, but doubtfully, because China was then not even in the auto race.\n\nIn 2012, China already dominated solar panels, but the Chevy Volt was the world’s most produced EV. No nation commanded battery production, which then was only nascently entering global competition.\n\nWu’s confidence in China’s capacity to deliver was well-founded. Today, nearly 70% of all new car sales in China are EVs, and half of all sales globally are Chinese-made electric vehicles. China produces around 80% of the world’s batteries and holds 70% of global battery patents. Its hosts half of the entire world’s large-scale battery storage capacity, primarily to store solar and wind power for the grid when the sun isn’t shining or the wind blowing.\n\nAs part of its whole-dragon approach, China also built out the widely distributed infrastructure of rapid charging stations across the country necessary to boost EV use. It launched a strategic push to link battery storage to the grid, requiring developers to build or commission large-scale storage capacity as a condition for approval of new wind or solar installations.\n\nChina’s export of its technology has enabled the advance of large-scale batteries for integration into power grids in many countries. Some 70% of EV batteries worldwide are from China.\n\nCalifornia has the most installed large battery storage facilities outside of China. Its capacity has grown from a mere 700 megawatts in 2019 to 21,000 MW in 2026. By 2045, the state aims to reach 52,000 MW capacity to support a 100% clean energy grid. For the entire month of May 2026, 51% of California’s total energy demand came from solar power. Blackouts during the intense heatwaves of recent years have been avoided because the grid was linked to off-hour battery storage from renewable energy.\n\nThough often assembled in California, 90% of the cells and core components of the large-scale batteries the state has installed come from China.\n\nQuotas And Dumping\n\nFrom the standpoint of the race against time on climate, the widest possible dispersion of China’s green technology is a net plus for the planet. Yet, as in other realms of trade competition, its cheaper product and overproduction portends a vulnerable dependence on a political system which the West considers a strategic adversary.\n\nTo the extent domestic industries exist, China’s prowess threatens to run them out of business. Since green technology is critical to our future, the most sensible approach would not be to prohibit Chinese imports, but set a reasonable quota beyond which tariffs would kick in. That would both limit the damage while allowing competition from abroad to spark the scale-up of domestic industry.\n\nFree-market ideologues aside, subsidies are not the end of the world when a livable biosphere is at stake. After all, up until the Trump administration, the U.S. did manage for a time to escape the pull of consumer immediacy. For years, it subsidized the purchase of EVs with tax rebates. And California has shown how regulation creates, not destroys, markets. Elon Musk’s Tesla empire would never have emerged if it were not for the state’s fuel efficiency and clean energy standards, which created the market for his technology.\n\n“Given the urgency of addressing climate calamity, is it so impolitic to suggest that consumer democracies can learn something from China?”\n\nIs It Impolitic To Learn From China?\n\nGiven the urgency of addressing climate calamity, is it so impolitic to suggest that consumer democracies can learn something from China? This is not, of course, to imply in any way that the West turn toward autocracy or authoritarianism. It is only to warn that unless democracies can look beyond the short-term horizon and find ways to reach a governing consensus that sticks, they will be left in the dust of the oncoming future.\n\nTo turn an old Chinese saying toward ourselves: “The stones from hills yonder can polish jade at home.”"
     },
     {
-      "id": "3dd987702a708bad",
-      "title": "Trump eases Canada tariffs ahead of US midterms",
-      "summary": "The move comes as Trump's Republican Party scrambles to maintain control of the US Congress, with a Republican candidate in a key Senate race saying she had lobbied to lift the tariffs on Canadian products.",
+      "id": "2f253b6e633aafa4",
+      "title": "Rybakina readies for title defence at Ningbo Open in final with Fernandez",
+      "summary": "The world number one will face Leylah Fernandez in the final after the unseeded Canadian beat Czech Marie Bouzkova.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-10-23T20:49:00Z",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-24T13:52:08Z",
       "category": "Politics",
       "region": "Canada",
       "labels": [
@@ -967,63 +944,58 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 35,
+      "wordCount": 19,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
     },
     {
-      "id": "5336f934ab55873c",
-      "title": "Maple Leafs prepare for stiff test against Connor McDavid, Oilers",
-      "summary": "matthews mcdavid",
+      "id": "ff878e84feab7a4a",
+      "title": "Why winning ugly is just as important for Wales",
+      "summary": "It was far from a classic, but Wales' victory in Tokyo is another chapter in their transformation under Sean Lynn.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.sportsnet.ca/nhl/article/maple-leafs-prepare-for-stiff-test-against-connor-mcdavid-oilers/",
-      "source": "Sportsnet Maple Leafs",
-      "publisher": "Sportsnet Maple Leafs",
-      "published": "2026-10-23T19:49:50Z",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq62y3yr374yo",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-10-24T17:25:50Z",
       "category": "Sports",
-      "region": "Canada",
+      "region": "England",
       "labels": [
         "Sports",
-        "Canada",
-        "Hockey",
-        "Maple Leafs"
-      ],
-      "sourceWeight": 5,
-      "focus": "Maple Leafs",
-      "sourceType": "news",
-      "wordCount": 2,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/02/matthews-mcdavid.jpg"
-    },
-    {
-      "id": "66cc83469aceb92b",
-      "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
-      "summary": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelled Typhoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, and uprooting trees and severing power as it weakened and ⁠headed north toward ⁠the ​Chinese coast. Earlier classified as a super typhoon and one of the strongest storms in the ⁠Pacific this year, Champi was still packing gusts of about 126km per hour (78 miles per hour) near its ⁠centre, according to Taiwan’s Central Weather Administration (CWA). Continue reading...",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
-      "source": "The Guardian China",
-      "publisher": "The Guardian",
-      "published": "2026-10-24T02:22:32Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
+        "England"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 230,
-      "readingMinutes": 2,
-      "isShort": false,
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/ef90d32836e051ec70630f8c26f1745009515247/589_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=56571f3caabc8eedbc61b17f65b265f7",
-      "body": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelled\n\nTyphoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, and uprooting trees and severing power as it weakened and ⁠headed north toward ⁠the ​Chinese coast.\n\nEarlier classified as a super typhoon and one of the strongest storms in the ⁠Pacific this year, Champi was still packing gusts of about 126km per hour (78 miles per hour) near its ⁠centre, according to Taiwan’s Central Weather Administration (CWA).\n\nThe storm was about ​150km (93 miles) east ‌of Taiwan, the CWA ‌said, having glanced off the island’s northeast coast in the early ‌hours of Saturday.\n\nChampi’s forecast track shows it turning north toward the Chinese coast before eventually moving into southern Japan .\n\nTaiwan’s fire department said one man had been killed, swept by waves from the ‌island of Liuqiu. Another 527 people were injured during heavy wind and torrential rain.\n\nTaipower said more than 167,000 homes had lost electricity, but most had now been reconnected.\n\nLarge parts of northern and central Taiwan, including Taipei, declared a second ​day of ‌office and ​school closures ​on Saturday, and some flights were still being cancelled.\n\nTaiwan is generally well prepared for typhoons, which keeps casualties low. Although more common in summer, the storms can strike also in autumn.\n\nTaiwan\n\nAsia Pacific\n\nChina\n\nJapan\n\nnews",
-      "imageWidth": 1200,
-      "imageHeight": 630
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ea/live/271d00a0-cfad-11f1-aadb-297fd0a130b9.jpg"
+    },
+    {
+      "id": "eb3361172ff533b6",
+      "title": "Bristol overcome Exeter to go third in Prem",
+      "summary": "Bristol move up to third place in the Prem after beating Exeter 20-7 at Ashton Gate.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmz7x14rx8wro",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-10-24T18:22:58Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ae0/live/fecf5e70-cfd6-11f1-b951-f904363c9c32.jpg"
     },
     {
       "id": "2c730fe762ca4bd0",
@@ -1051,6 +1023,80 @@
       "body": "Kim Jong-un has opened the borders to both his key allies in Xi Jinping and Vladimir Putin, but for different reasons\n\nFor more than a decade, local Chinese residents pilloried it as nothing more than an empty bridge that led to a North Korean vegetable patch on the other side.\n\nFast forward 12 years and dozens of trucks are now traversing the bridge linking China to North Korea, boosting trade for the reclusive regime. But it has also triggered concern that it could intensify a struggle for influence over the North between Beijing and the region’s other major power, Russia.\n\nThe New Yalu River Bridge connects the north-eastern Chinese city of Dandong with Sinuiju in North Korea and has four lanes and stretches 3km (1.9 miles) across the Yalu river. It is expected to ease congestion on the ageing Friendship Bridge nearby.\n\nIt opened on 15 October, about a month after another major crossing – this time between North Korea and Russia. The first road bridge across their short shared border , named the Yakov Novichenko Bridge, reportedly made Chinese officials uneasy, coming on top of signs from the North Korean leader Kim Jong-un that he is prioritising ties with Moscow.\n\n“China’s interest in buttressing its influence in North Korea is certainly reinforced by the diversifying North Korea-Russia relationship — ties that China tolerates but watches closely as they add complexity to its relationship with its provocative neighbour,” says Carla Freeman, director of the Johns Hopkins School of Advanced International Studies’ Foreign Policy Institute.\n\nSince late 2024, the North Korean leader has sent ammunition and as many as 16,000 troops to support Vladimir Putin ’s war in Ukraine, and has held two summits with the Russian president in the past three years. In 2024, the leaders signed a mutual defence pact that includes a clause requiring the countries to come to each other’s aid if attacked.\n\nIn return for arms and combat soldiers, Pyongyang is getting hard currency, real-time battlefield experience for its troops, weapons technology and the opportunity to extend political and economic cooperation beyond its traditional ally China .\n\nNorth Korea stands to benefit from increased trade but for China, the bridge could be of more geopolitical value than economic given how little trade China does with its neighbour compared with its other partners.\n\nHowever, the insular regime in Pyongyang is thought to be reluctant to increase its economic dependence on China, by far its biggest trading partner and aid donor, and may still resent Beijing’s previous support for UN sanctions targeting the North’s nuclear weapons programme .\n\nIn the past two years, however, Russian and Chinese support for UN sanctions has collapsed. “The main restriction on trade with North Korea is not the infrastructure but international sanctions,” says Justin Hastings, a professor of international relations and comparative politics at Sydney University. “However, because China’s enforcement of UN sanctions has become desultory and Russia has actively repudiated their enforcement, North Korea is in a position to benefit from increased trade and weapons help (at least from Russia).”\n\nThe North’s “open” border with China contrasts dramatically with the one it shares with South Korea. In 2024, the North said it would sever all rail and road links with its neighbour, months after Kim said he would abandon the goal of peaceful reunification and declared South Korea his country’s “ principal enemy ”.\n\nBut Fyodor Tertitskiy, a North Korea expert at Korea University in Seoul, believes neither China nor Russia can influence North Korea in any meaningful way, citing Kim’s refusal to surrender his nuclear weapons or moderate his iron grip on power – two changes that would be welcomed in Moscow and Beijing.\n\n“Both countries understand that Kim Jong-un would rather accept a complete breakdown in relationships than submit,” he says. “So I doubt we are seeing a straightforward struggle for influence. Kim is trying to play the two against each other, but China and Russia are not rivals like the Soviet Union and China were in the 1970s.”\n\nKim is more likely to turn to China improve his country’s struggling economy, while Beijing is eager to revive its role as the North’s biggest influence, according to Leif-Eric Easley, a professor at Ewha University in Seoul.\n\n“After expanding military cooperation with Russia … Kim Jong-un is leveraging his windfall from Moscow for additional gains from Beijing. China may seek to recover lost influence by increasing trade and people-to-people exchanges, but the Kim regime prizes autonomy and wants to limit foreign ideological and cultural influences.”\n\nThe South Korean government said last year that at least 17 active road and rail links connect North Korea and China along their 1,400 km-long border.\n\nTertitskiy is “not particularly optimistic” that the increased contact the bridges will bring means improvements to the lives of ordinary North Koreans or lead to a more western-style economy. “I think it will make reform even less likely. Why pursue reforms and take risks when you can just get what you need from abroad?”\n\nAnalysts say the expected rise in trade across the Yalu bridge is likely to be modest at first. But it could become a bellwether for the state of Sino-North Korean ties, says Easley.\n\n“China remains economically indispensable to North Korea in ways that Russia cannot replace,” he says, adding, “In that sense, the bridge may offer an inadvertent window into bilateral relations if flows are visibly interrupted in the future.”\n\nNorth Korea\n\nChina\n\nRussia\n\nAsia Pacific\n\nKim Jong-un\n\nfeatures",
       "imageWidth": 1200,
       "imageHeight": 630
+    },
+    {
+      "id": "39165cc301225176",
+      "title": "Scarlets denied by Stormers in 14-try thriller",
+      "summary": "Scarlets hit by late double by Stormers in remarkable 14-try United Rugby Championship encounter.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c317kp8pn7jzo",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-10-24T16:18:18Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England",
+        "Rugby"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 14,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49f0/live/1460acb0-cfbb-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "6011fc62c0df43be",
+      "title": "Resurgent Tigers overpower Saints in derby downpour",
+      "summary": "Four second-half tries from Leicester defeat Northampton in a feisty wet weather contest.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwj0ly57n62ro",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-10-24T16:07:44Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 13,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4db9/live/0a586c30-cfc5-11f1-9ecd-8be45051afbd.jpg"
+    },
+    {
+      "id": "0d4ae67972cc7d30",
+      "title": "Ulster still without URC win after defeat by Bulls",
+      "summary": "Ulster's winless start to the United Rugby Championship stretches to four games as they are beaten 34-26 by the Bulls in Pretoria.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crz9848xv2xko",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-10-24T14:04:19Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England",
+        "Rugby"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 22,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c74/live/693adb00-cfae-11f1-aadb-297fd0a130b9.jpg"
     },
     {
       "id": "5a50e51b2cdf3a24",
@@ -1179,6 +1225,30 @@
       "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/Stecher.jpg"
     },
     {
+      "id": "eab6ce9f6260c277",
+      "title": "Highlights: Japan 0-17 Wales",
+      "summary": "Watch the best of the action as Wales beat Japan in Tokyo.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c3n04k4vnn51o",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-10-24T13:38:58Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 12,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf54/live/8cf80680-cfae-11f1-aadb-297fd0a130b9.png"
+    },
+    {
       "id": "0dc111c486fc4e72",
       "title": "This decade has been missing its big-impact midterm",
       "summary": "Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly.",
@@ -1204,6 +1274,33 @@
       "imageAlt": "New speaker of the U.S. House of Representatives Nancy Pelosi, D-Calif., holds the gavel during the opening session of the 116th Congress at the Capitol in Washington, D.C., on Jan. 3, 2019.",
       "imageWidth": 1024,
       "imageHeight": 682
+    },
+    {
+      "id": "8c5e99093a875e38",
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-10-24T10:04:29Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 982,
+      "readingMinutes": 5,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a57f/live/b7611c70-cec5-11f1-b9e0-e5f0da03dc7f.jpg",
+      "body": "Building pylons in Wales could be a thing of the past, with the country's ministers instead wanting to bury energy cables underground\n\nPublished 23 October 2026\n\nThe Welsh government has announced plans to ban the use of traditional steel pylons to support electricity lines over which it has control.\n\nPlaid Cymru ministers favour burying cables underground instead.\n\nPlans for a network of pylons in the Towy Valley have faced a fierce local backlash with local Plaid politicians speaking out against the proposals.\n\nThe company behind the plans, Green Gen Cymru, said it welcomed the consultation and that it supported using \"the right infrastructure in the right place\".\n\nProhibiting the use of large steel lattice pylons for new lines up to 132 kilovolts was a Plaid Cymru manifesto pledge before May's Senedd election.\n\nLaunching a consultation on its policy on Friday, the Welsh government said undergrounding electricity circuits could \"reduce the visual impact of electricity infrastructure, helping to protect landscapes and local amenity\".\n\nIt also said that burying cables could make them less vulnerable to severe weather and could reduce the potential impact on birds and other wildlife.\n\nHowever, the consultation document also acknowledges that undergrounding was \"generally considered more expensive to install and maintain and could create construction impacts during installation\".\n\nThe government's policy would allow for wooden poles or \"equivalent, less intrusive infrastructure\" to be used to support overhead cables where undergrounding isn't feasible.\n\nFarmers 'vindicated' after judge's ruling on pylon firm accessing land Published 6 July\n\nEnergy firm unveils new slimline pylons designed 'with Welsh landscape in mind' after backlash Published 17 September\n\nGreen Gen has plans to build three major power line routes connecting onshore wind farms planned by its sister company Bute Energy with the wider grid network.\n\nIt has previously said it would invest nearly £1bn by 2030, with proposals affecting parts of Carmarthenshire, Ceredigion, Powys and Shropshire.\n\nBut it has faced considerable opposition in certain communities, with groups representing hundreds of landowners taking the company to court in 2025 .\n\nIn a bid to address concerns, Green Gen recently unveiled a \"slim and compact\" 22 metre (72ft) pylon, designed \"with the Welsh landscape in mind\".\n\nThe company has consistently said that undergrounding its cables would cost on average 4.5 times more , external than running them overhead.\n\nThat would mean an extra cost of £500m for the Towy Usk project between Carmarthenshire and Powys, according to Green Gen.\n\nGreen Gen Cymru has proposed three pylon routes from mid Wales across to Shropshire, south-west Wales to Ceredigion, and one from the same point to Powys\n\nWelsh Energy Minister Adam Price said: \"We know the necessary changes in the way energy is generated and used in Wales will require new grid infrastructure, however, we also know that new infrastructure can impact on the communities and the environment that hosts it.\n\n\"We want to see infrastructure that is sensitively designed to minimise impacts on the environment and the communities that host them, while offering the maximum benefits for Wales.\"\n\nAndrew Hardcastle, executive director at Green Gen Cymru, said: \"We welcome the Welsh government's consultation and its recognition of the importance of delivering the electricity infrastructure Wales needs in a way that is sensitive to our landscapes, environment and communities.\n\n\"Like all grid companies across the UK, we believe there is no one-size-fits-all solution to developing new electricity networks.\n\n\"Our approach is to use the right infrastructure in the right place, drawing on a range of technologies including underground cables, wooden poles and our recently announced lower-profile monopoles.\"\n\nThe company said it was \"pleased that the consultation recognises the potential role of less visually intrusive overhead infrastructure, including monopoles, and invites evidence on their use\".\n\nReform's Senedd spokesperson for rural affairs, Laura Anne Jones, said: \"As part of our energy policy, we will continue to push for new power lines to be placed underground wherever possible, protecting our landscapes and rural communities.\n\n\"Reform will always stand up for our countryside and fight against its industrialisation.\"\n\nWelsh Labour's environment, rural affairs, energy and transport spokesperson, Vikki Howells said: \"Burying cables can cost five times as much as overhead lines, making electric more expensive and decarbonisation more difficult.\"\n\nShe said the sensible position was choosing the right engineering solution for the right landscape and \"undergrounding should absolutely remain available where landscape, environmental or other circumstances justify it\".\n\nThe Welsh Conservatives welcomed the policy consultation.\n\nThe party's environment spokesperson, Andrew RT Davies said: \"We recognise that Wales needs a modern electricity network to support economic growth, but communities should not have to accept eyesores across our beautiful natural landscapes, which must be conserved.\"\n\nThe consultation , external will run until 15 January 2027.\n\nDyfan Walters called it a \"positive day\" for campaigners\n\nEirian Edwards, a campaigner in the Llandovery Pylon Group, said: \"We welcome that they are seriously looking at undergrounding as the preferred option - to protect landscapes and people's livelihoods.\n\n\"If infrastructure has to be planned, then we're not against that process at all. We realise that we need to strengthen our local grid, but certain projects that are planned do not fulfil that at all.\"\n\nDyfan Walters, a farmer in Llandovery who is also a member of Llandovery Pylon Group, called it \"a positive day for us\".\n\n\"We're fully supportive and understand that the infrastructure is required.\n\n\"Putting that underground means that there's less impact on agriculture, less impact on tourism.\n\n\"In a world where there's an ever-changing climate, having that resilience - having infrastructure placed underground - is a sensible way forward.\"\n\nRelated topics\n\nWales\n\nEnvironment\n\nEnergy service companies\n\nWelsh government\n\nMore top stories\n\nMan, 61, charged with murder after 'stabbed' woman dies following crash Published 2 days ago\n\nAngry scenes and protests at Senedd as Reform call for ban on Muslim face coverings Published 2 days ago\n\nMystery of man found dead in wetsuit deepens as inquest questions ethnicity Published 2 days ago",
+      "imageWidth": 1200,
+      "imageHeight": 675
     },
     {
       "id": "86371ce439200a4e",
@@ -1271,12 +1368,12 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 314,
+      "wordCount": 317,
       "readingMinutes": 2,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1ff/live/3a2fbbf0-cf31-11f1-9f96-7f17b236547a.jpg",
-      "body": "Jack Ross (pictured) held the post of Chief Operations Officer at Turning Point UK, an offshoot of the US organisation\n\nPublished 9 hours ago\n\nA former Tory activist who appeared to offer to \"broker\" the hiring of contract killers in an undercover film report previously worked for Conservative headquarters.\n\nJack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told.\n\nIt comes after Conservative leader Kemi Badenoch referred to them as \"shocking allegations\", adding that she did not \"believe that person is a member anymore\".\n\nA Conservative spokesman said Ross's party membership had \"been suspended with immediate effect pending an investigation\". It has reported that Ross said his words were not meant to be taken seriously.\n\nRoss was paid to provide social media advice to the party for a brief period, the BBC has been told. He was never an employee or Conservative Campaign Headquarters pass holder.\n\nHowever, he met Badenoch on several occasions as part of his role as chief executive of Turning Point UK, an offshoot of a right-wing American organisation.\n\nRoss has also met several other right-wing politicians including the former Prime Minister Boris Johnson and Nigel Farage, the Reform UK leader.\n\nIn undercover filming broadcast this week by Al Jazeera, Ross appears to offer to \"broker\" the services of contract killers.\n\nThe Al Jazeera report said its undercover journalist approached Ross in 2022 with a fictitious situation of a family business at risk of being taken over by a criminal gang.\n\nRoss is alleged to have asked the undercover reporter what was needed from him, and listed violent options that could be bought including stabbing, shooting and killing.\n\nAl Jazeera said Ross denied the finding \"completely\" and claimed everything he said to the reporter was not meant seriously.\n\nTurning Point UK has been approached for comment.\n\nRelated topics\n\nConservative Party",
+      "body": "Jack Ross (pictured) held the post of Chief Operations Officer at Turning Point UK, an offshoot of the US organisation\n\nPublished 24 October 2026, 03:52 BST\n\nA former Tory activist who appeared to offer to \"broker\" the hiring of contract killers in an undercover film report previously worked for Conservative headquarters.\n\nJack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told.\n\nIt comes after Conservative leader Kemi Badenoch referred to them as \"shocking allegations\", adding that she did not \"believe that person is a member anymore\".\n\nA Conservative spokesman said Ross's party membership had \"been suspended with immediate effect pending an investigation\". It has reported that Ross said his words were not meant to be taken seriously.\n\nRoss was paid to provide social media advice to the party for a brief period, the BBC has been told. He was never an employee or Conservative Campaign Headquarters pass holder.\n\nHowever, he met Badenoch on several occasions as part of his role as chief executive of Turning Point UK, an offshoot of a right-wing American organisation.\n\nRoss has also met several other right-wing politicians including the former Prime Minister Boris Johnson and Nigel Farage, the Reform UK leader.\n\nIn undercover filming broadcast this week by Al Jazeera, Ross appears to offer to \"broker\" the services of contract killers.\n\nThe Al Jazeera report said its undercover journalist approached Ross in 2022 with a fictitious situation of a family business at risk of being taken over by a criminal gang.\n\nRoss is alleged to have asked the undercover reporter what was needed from him, and listed violent options that could be bought including stabbing, shooting and killing.\n\nAl Jazeera said Ross denied the finding \"completely\" and claimed everything he said to the reporter was not meant seriously.\n\nTurning Point UK has been approached for comment.\n\nRelated topics\n\nConservative Party",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1766,7 +1863,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfdd/live/e8088930-cefc-11f1-accf-3309656ad0bb.jpg",
-      "body": "Donald Trump said Andy Burnham's decision on Jackdaw would \"make the UK a very rich country\"\n\nPublished 23 October 2026\n\nUS President Donald Trump has praised Prime Minister Andy Burnham for the UK government's decision to approve production from the North Sea's Jackdaw gas field.\n\nHe said he had spoken with Burnham, telling reporters on Friday that the decision would \"make the UK a very rich country\".\n\nTrump said: \"The other prime minister, the previous man, Starmer. He's a very nice man, but he never got it done, and this one is getting it.\"\n\nThe decision had been subject to intense debate around its environment and economic impact and came after years of legal challenges.\n\nThe Jackdaw platform is located east of Aberdeen\n\nBurnham announced the decision to approve the drilling of the Jackdaw gas field earlier this week.\n\nJackdaw is situated 150 miles (241km) east of Aberdeen and is operated by Adura, a joint venture between Shell and Norwegian state energy firm Equinor.\n\nMinisters said the first gas could be produced by the end of this month, helping heat millions of homes, and also announced the creation of a new energy wealth fund.\n\nEnvironmental campaigners say the decision would hamper efforts to tackle climate change and make \"no meaningful difference\" to UK energy security.\n\nBased on official forecasts for the amount of gas the UK will need over the next decade, that suggests Jackdaw has the potential to meet around 1.6% of total projected national gas demand between 2026 and 2036.\n\nOperators say it could be connected to the Great British gas network within weeks and could produce gas for the next 11 years.\n\nTrump responded to the decision on Friday, but appeared to confuse oil and gas.\n\nHe said: \"They're opening up the North Sea oil. I've been after them to do that for two years.\"\n\nTrump added: \"Andy is getting it done, and I guess it's against the liberal principle, but he knows what's right. It's going to make UK a very wealthy country.\"\n\nIn a discussion on Friday, Burnham and Trump spoke about the decision to approve Jackdaw.\n\nThe two leaders \"agreed on the significant benefits this will bring to the UK, boosting the economy and supporting jobs for British workers\", a statement from Number 10 read.\n\nIt added that Trump and Burnham \"welcomed the continued collaboration between UK and US companies, especially on nuclear power\".\n\nEarlier this week, on Wednesday, Trump said the decision was \"great news for the wealth and prosperity\" of the UK.\n\nWriting on his Truth Social platform, Trump urged the UK to go \"full blast\" and called the North Sea \"one of the greatest and most prosperous areas of oil in the world\".\n\nA decision is yet to be taken on whether production can begin at Rosebank, the UK's largest known untapped oil field, which is located off the coast of Shetland in the North Atlantic.\n\nConservative leader Kemi Badenoch accused the prime minister of \"dithering\" on Jackdaw and said a ban on new oil and gas licences should be repealed.\n\nHowever, Burnham said her party had \"messed up\" the original decision by not giving any regard to climate obligations - things he said \"have to be considered in the round\".\n\nEnergy Secretary Miatta Fahnbulleh said gas from Jackdaw would be in homes and businesses this month, but that it would not lower energy bills this winter.\n\nShe said the decision was \"compatible\" with legally binding climate commitments, adding: \"We remain resolute in ending new licences for oil and gas and achieving net zero by 2050.\"\n\nEnvironmental groups have criticised the Jackdaw approval. Areeba Hamid, the co-executive director of Greenpeace, said it was \"the wrong decision\" in terms of lowering energy bills, providing energy security, and addressing climate change.\n\nMeanwhile, Oxfam said the government had \"drilled straight through the UK's climate commitments\".\n\nDuring their Friday talks, Trump and Burnham spoke about the Falkland Islands and the Sea Lion oilfield project, a joint venture between British and Israeli companies.\n\nIn September, the Argentinian government threatened to impose economic sanctions on firms exploiting oil close to the Falkland Islands, and earlier this month, it began legal action to stop the exploration of oil and gas fields.\n\nBurnham raised the \"economic consequences of Argentina's coercive measures for the UK and US and reiterated the importance of respecting the Islanders' right to develop their natural resources\", Downing Street said.\n\nThe two leaders also discussed Ukraine, with the prime minister underlining the importance for Ukraine \"to have full access to Starlink so they can continue to defend themselves against Russia's full-scale invasion\", according to Number 10.\n\nStarlink technology is a satellite system owned by Elon Musk's SpaceX company which Ukraine has relied upon during the war.\n\nIn recent days, Ukraine has been recording issues with the network , according to sources within the defence ministry. This has affected the country's ability to use attack drones and co-ordinate defensive operations.\n\nThe Downing Street statement added: \"The Prime Minister recognised the work of President Trump to bring Putin to the negotiation table and the leaders agreed to work together, alongside international partners to bring an end to the bloodshed.\"\n\nRelated topics\n\nDonald Trump\n\nAndy Burnham\n\nMore on this story\n\nChris Mason: Jackdaw approved but tricky energy trade-offs remain Published 3 days ago\n\nBurnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences Published 2 days ago\n\nHow much gas could Jackdaw provide? And will it cut your energy bills? Published 3 days ago",
+      "body": "Donald Trump said Andy Burnham's decision on Jackdaw would \"make the UK a very rich country\"\n\nPublished 23 October 2026\n\nUS President Donald Trump has praised Prime Minister Andy Burnham for the UK government's decision to approve production from the North Sea's Jackdaw gas field.\n\nHe said he had spoken with Burnham, telling reporters on Friday that the decision would \"make the UK a very rich country\".\n\nTrump said: \"The other prime minister, the previous man, Starmer. He's a very nice man, but he never got it done, and this one is getting it.\"\n\nThe decision had been subject to intense debate around its environment and economic impact and came after years of legal challenges.\n\nThe Jackdaw platform is located east of Aberdeen\n\nBurnham announced the decision to approve the drilling of the Jackdaw gas field earlier this week.\n\nJackdaw is situated 150 miles (241km) east of Aberdeen and is operated by Adura, a joint venture between Shell and Norwegian state energy firm Equinor.\n\nMinisters said the first gas could be produced by the end of this month, helping heat millions of homes, and also announced the creation of a new energy wealth fund.\n\nEnvironmental campaigners say the decision would hamper efforts to tackle climate change and make \"no meaningful difference\" to UK energy security.\n\nBased on official forecasts for the amount of gas the UK will need over the next decade, that suggests Jackdaw has the potential to meet around 1.6% of total projected national gas demand between 2026 and 2036.\n\nOperators say it could be connected to the Great British gas network within weeks and could produce gas for the next 11 years.\n\nTrump responded to the decision on Friday, but appeared to confuse oil and gas.\n\nHe said: \"They're opening up the North Sea oil. I've been after them to do that for two years.\"\n\nTrump added: \"Andy is getting it done, and I guess it's against the liberal principle, but he knows what's right. It's going to make UK a very wealthy country.\"\n\nIn a discussion on Friday, Burnham and Trump spoke about the decision to approve Jackdaw.\n\nThe two leaders \"agreed on the significant benefits this will bring to the UK, boosting the economy and supporting jobs for British workers\", a statement from Number 10 read.\n\nIt added that Trump and Burnham \"welcomed the continued collaboration between UK and US companies, especially on nuclear power\".\n\nEarlier this week, on Wednesday, Trump said the decision was \"great news for the wealth and prosperity\" of the UK.\n\nWriting on his Truth Social platform, Trump urged the UK to go \"full blast\" and called the North Sea \"one of the greatest and most prosperous areas of oil in the world\".\n\nA decision is yet to be taken on whether production can begin at Rosebank, the UK's largest known untapped oil field, which is located off the coast of Shetland in the North Atlantic.\n\nConservative leader Kemi Badenoch accused the prime minister of \"dithering\" on Jackdaw and said a ban on new oil and gas licences should be repealed.\n\nHowever, Burnham said her party had \"messed up\" the original decision by not giving any regard to climate obligations - things he said \"have to be considered in the round\".\n\nEnergy Secretary Miatta Fahnbulleh said gas from Jackdaw would be in homes and businesses this month, but that it would not lower energy bills this winter.\n\nShe said the decision was \"compatible\" with legally binding climate commitments, adding: \"We remain resolute in ending new licences for oil and gas and achieving net zero by 2050.\"\n\nEnvironmental groups have criticised the Jackdaw approval. Areeba Hamid, the co-executive director of Greenpeace, said it was \"the wrong decision\" in terms of lowering energy bills, providing energy security, and addressing climate change.\n\nMeanwhile, Oxfam said the government had \"drilled straight through the UK's climate commitments\".\n\nDuring their Friday talks, Trump and Burnham spoke about the Falkland Islands and the Sea Lion oilfield project, a joint venture between British and Israeli companies.\n\nIn September, the Argentinian government threatened to impose economic sanctions on firms exploiting oil close to the Falkland Islands, and earlier this month, it began legal action to stop the exploration of oil and gas fields.\n\nBurnham raised the \"economic consequences of Argentina's coercive measures for the UK and US and reiterated the importance of respecting the Islanders' right to develop their natural resources\", Downing Street said.\n\nThe two leaders also discussed Ukraine, with the prime minister underlining the importance for Ukraine \"to have full access to Starlink so they can continue to defend themselves against Russia's full-scale invasion\", according to Number 10.\n\nStarlink technology is a satellite system owned by Elon Musk's SpaceX company which Ukraine has relied upon during the war.\n\nIn recent days, Ukraine has been recording issues with the network , according to sources within the defence ministry. This has affected the country's ability to use attack drones and co-ordinate defensive operations.\n\nThe Downing Street statement added: \"The Prime Minister recognised the work of President Trump to bring Putin to the negotiation table and the leaders agreed to work together, alongside international partners to bring an end to the bloodshed.\"\n\nRelated topics\n\nDonald Trump\n\nAndy Burnham\n\nMore on this story\n\nChris Mason: Jackdaw approved but tricky energy trade-offs remain Published 3 days ago\n\nBurnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences Published 3 days ago\n\nHow much gas could Jackdaw provide? And will it cut your energy bills? Published 3 days ago",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1924,7 +2021,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/523b/live/6c4b32b0-cec6-11f1-a701-fddedf244c16.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more about the UK Government's \"Be Ready\" campaign.\n\nSubsection Politics\n\nPublished 23 hours ago\n\nRelated topics\n\nWes Streeting Follow Wes Streeting\n\nUK government Follow UK government\n\nTom Tugendhat Follow Tom Tugendhat\n\nConservative Party Follow Conservative Party",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nRead more about the UK Government's \"Be Ready\" campaign.\n\nSubsection Politics\n\nPublished 1 day ago\n\nRelated topics\n\nWes Streeting Follow Wes Streeting\n\nUK government Follow UK government\n\nTom Tugendhat Follow Tom Tugendhat\n\nConservative Party Follow Conservative Party",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2005,30 +2102,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2ca/live/e1fd67c0-ced6-11f1-8507-45cb00a1c41c.jpg"
     },
     {
-      "id": "cd0e550d6d138f9e",
-      "title": "Currys to play together for first time in 16 months",
-      "summary": "Tom and Ben Curry start for Sale for first time in 16 months while Christian Wade looks to break the try record, in team news from the Prem.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck5yn319ryngo",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-10-23T12:47:21Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 28,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/850f/live/67620900-ce11-11f1-9f55-cdc56e9c248c.jpg"
-    },
-    {
       "id": "7b11ea5f358c335d",
       "title": "PM defends Gogglebox appearance after Badenoch criticism",
       "summary": "Burnham says he \"makes no apology\" for the move as Kemi Badenoch says she is \"amazed\" he has time.",
@@ -2051,7 +2124,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/00c3/live/4fe5eca0-ce2b-11f1-9f18-490cec60aa0f.png",
-      "body": "Burnham will appear on the show with his friend Steve Rotheram, the Labour mayor of the Liverpool City Region\n\nPublished 23 October 2026\n\nPrime Minister Andy Burnham has defended his decision to appear on a celebrity episode of Channel 4 hit show Gogglebox after opposition leader Kemi Badenoch said she was \"amazed\" he had time to do it.\n\nBadenoch told BBC Breakfast that \"even as a junior minister or as a secretary of state, I never had time to go on Gogglebox\" and it \"takes hours to do\".\n\nThe Conservative leader was responding after Burnham was revealed in the line-up of a celebrity episode of the show in aid of Stand Up To Cancer - which will air later.\n\n\"I'm proud to support Stand Up To Cancer. I make no apology for trying to lead with a bit of lightness and at times a bit of humour, that's the way I go at things,\" Burnham said.\n\nThe former Greater Manchester mayor will appear on the programme alongside friend Steve Rotheram, the Labour mayor of the Liverpool City Region.\n\nSpeaking to BBC Radio 5 Live , Burnham continued: \"It is always a moment in the annual calendar where we support Stand Up To Cancer through Gogglebox,\" Burnham said of the recurring charity special.\n\n\"Steve and I are proud to do it.\n\n\"I'm trying to give the country a lift - trying to give the county some hope.\n\n\"That's always my approach and it's what I'm trying to do.\n\n\"It may not appeal to everybody when it comes to Gogglebox.\n\n\"It's Stand Up To Cancer night and I've always been somebody who puts my shoulder behind the fight against cancer.\"\n\nKemi Bademnoch questioned how the prime minister could have time to appear on the programme\n\nHowever, Badenoch said appearing on the programme was \"not my thing\".\n\n\"What I'm amazed at is that Andy Burnham has got time to go on Gogglebox,\" she said.\n\n\"When you get a new job in politics it's so difficult.\n\n\"There's so much to do and it's like drinking from a fire hose.\n\n\"Even as a junior minister or as a secretary of state I never had time to go on Gogglebox - I just don't know how he's got the time.\n\n\"Gogglebox takes hours to do.\"\n\nDescribing Burnham as \"on social media all day\", she said she could do the same but \"I wouldn't actually be able to do my job as leader of the opposition\".\n\n\"My job is to hold him to account and I've seen a lot of prime ministers up close and I've never seen a prime minister have the time to do this much Goggleboxing, social media and Lad Bible,\" she added.\n\nThe special Gogglebox edition airs on Channel 4 at 21:05 BST.\n\nGet in touch\n\nTell us which stories we should cover in Greater Manchester\n\nListen to the best of BBC Radio Manchester on Sounds and follow BBC Manchester on Facebook , external , X , external , and Instagram , external . You can also send story ideas via Whatsapp to 0808 100 2230.\n\nRelated topics\n\nConservative Party\n\nLabour Party\n\nGogglebox\n\nKemi Badenoch\n\nAndy Burnham\n\nSteve Rotheram\n\nMore on this story\n\nPrime Minister swaps dispatch box for Gogglebox Published 1 day ago",
+      "body": "Burnham will appear on the show with his friend Steve Rotheram, the Labour mayor of the Liverpool City Region\n\nPublished 23 October 2026\n\nPrime Minister Andy Burnham has defended his decision to appear on a celebrity episode of Channel 4 hit show Gogglebox after opposition leader Kemi Badenoch said she was \"amazed\" he had time to do it.\n\nBadenoch told BBC Breakfast that \"even as a junior minister or as a secretary of state, I never had time to go on Gogglebox\" and it \"takes hours to do\".\n\nThe Conservative leader was responding after Burnham was revealed in the line-up of a celebrity episode of the show in aid of Stand Up To Cancer - which will air later.\n\n\"I'm proud to support Stand Up To Cancer. I make no apology for trying to lead with a bit of lightness and at times a bit of humour, that's the way I go at things,\" Burnham said.\n\nThe former Greater Manchester mayor will appear on the programme alongside friend Steve Rotheram, the Labour mayor of the Liverpool City Region.\n\nSpeaking to BBC Radio 5 Live , Burnham continued: \"It is always a moment in the annual calendar where we support Stand Up To Cancer through Gogglebox,\" Burnham said of the recurring charity special.\n\n\"Steve and I are proud to do it.\n\n\"I'm trying to give the country a lift - trying to give the county some hope.\n\n\"That's always my approach and it's what I'm trying to do.\n\n\"It may not appeal to everybody when it comes to Gogglebox.\n\n\"It's Stand Up To Cancer night and I've always been somebody who puts my shoulder behind the fight against cancer.\"\n\nKemi Bademnoch questioned how the prime minister could have time to appear on the programme\n\nHowever, Badenoch said appearing on the programme was \"not my thing\".\n\n\"What I'm amazed at is that Andy Burnham has got time to go on Gogglebox,\" she said.\n\n\"When you get a new job in politics it's so difficult.\n\n\"There's so much to do and it's like drinking from a fire hose.\n\n\"Even as a junior minister or as a secretary of state I never had time to go on Gogglebox - I just don't know how he's got the time.\n\n\"Gogglebox takes hours to do.\"\n\nDescribing Burnham as \"on social media all day\", she said she could do the same but \"I wouldn't actually be able to do my job as leader of the opposition\".\n\n\"My job is to hold him to account and I've seen a lot of prime ministers up close and I've never seen a prime minister have the time to do this much Goggleboxing, social media and Lad Bible,\" she added.\n\nThe special Gogglebox edition airs on Channel 4 at 21:05 BST.\n\nGet in touch\n\nTell us which stories we should cover in Greater Manchester\n\nListen to the best of BBC Radio Manchester on Sounds and follow BBC Manchester on Facebook , external , X , external , and Instagram , external . You can also send story ideas via Whatsapp to 0808 100 2230.\n\nRelated topics\n\nConservative Party\n\nLabour Party\n\nGogglebox\n\nKemi Badenoch\n\nAndy Burnham\n\nSteve Rotheram\n\nMore on this story\n\nPrime Minister swaps dispatch box for Gogglebox Published 2 days ago",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2105,7 +2178,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1403/live/8b5afd90-ced8-11f1-93e1-3b657b665bcf.jpg",
-      "body": "Published 22 October 2026\n\nAndy Burnham said military aircraft will be used to tackle wildfires as he tries to ensure the UK is \"on the front foot\" following a summer of devastating blazes.\n\nCivilian fire services in all four nations will be able to request the support of the Royal Air Force's Chinook helicopters and A400M planes to fight wildfires on tough terrain such as remote moorland and steep hillsides.\n\nAs he hosted the UK's first summit on wildfires, the prime minister outlined initial steps to \"improve our response\" after the country \"lived through a summer that we've never seen before\".\n\nBurnham said this also includes better equipment for firefighters and improved land management to stop fires from spreading.\n\nAfter a record-breaking summer, the government's \"wildfire resilience summit\" in Liverpool on Friday discussed how to prevent, respond to and recover from such blazes.\n\nThere have been 1,350 wildfires in England and Wales this year, an all-time high and up by more than 300 on last year and more than 1,000 on 2024, according to figures from the National Fire Chiefs Council .\n\nRecords for the number of reported wildfires were also broken in 2022 and 2025 - but the UK's Climate Change Committee has warned the risk will rise in the coming decades.\n\nDefence Secretary Wes Streeting said this was the first time the RAF's Chinooks and the four-engine A400Ms were being equipped to tackle wildfires. Some areas struggled with no air assistance in the summer.\n\nRAF Chinook crews have already helped respond , external to wildfires in Cyprus.\n\nChinooks have practised picking up and dropping water from firefighting buckets in Portland harbour, UK\n\nIn addition to military aircraft, the government said it would also spend £45m on wildfire-specific personal protective equipment for firefighters on the ground.\n\nIt is lighter than current firefighting equipment which is designed for fires in buildings and not meant to be worn for a long time, the government added.\n\nMinisters are also pledging a £25m scheme from April 2027 to April 2029 to restore dried-out peatlands in England so they are natural firebreaks, and financial support for farmers to fireproof their land such as by digging ponds.\n\n\"The government will also look at tougher local restrictions or product bans to stop people starting fires when the risk is high,\" a briefing ahead of the summit said, following a temporary ban on disposable BBQs .\n\nBurnham met fire chiefs, local leaders and experts from tech companies at the summit, also attended by Communities Secretary Angela Rayner.\n\nHe said: \"I think too often in the past we've been playing catch up, and today is trying about trying to get on the front foot and recognise that the summer we've just had is likely to be a more regular situation going forward.\n\n\"So make ourselves that bit stronger when it comes to the summer of 2027, and then indeed summers beyond.\"\n\nBurnham earlier told reporters that fire and rescue services were \"stretched\" this summer and firefighters had worked in \"extremely difficult conditions\" before committing to providing better equipment.\n\nOn aerial support, the PM said: \"We may see on holiday other countries where there are planes putting water from above on the fires. We believe we need that capability.\n\n\"The Ministry of Defence will be equipping aircraft with that capability, so we'll be better prepared for summers to come.\"\n\nBurnham also recalled visiting Stourbridge in August and how \"we saw homes lost in a heartbeat\".\n\nFirefighters tackled wildfires across the UK over the summer, including here in Ebbw Vale, Wales\n\nEarlier this month, MPs on the Environment, Food and Rural Affairs Committee said there were weaknesses in the UK's wildfire preparedness , including access to aerial firefighting resources, securing water supplies during major incidents and coordinating resources at a national level.\n\nMPs said the current system for obtaining aerial firefighting support was \"no longer fit for purpose\".\n\nA further announcement at the summit included a \"Wildfires AI Unit\" to combine universities, tech firms and officials on the Cobra emergency committee, along with Met Office wildfire forecasts and closer work with devolved governments.\n\nIn August, the government convened a Cobra meeting before sending an emergency alert to millions of phones across England and Wales - which sparked a backlash from some .\n\nSummer 2026 was the UK's hottest on record, according to the Met Office. In a study on how this summer was impacted by human-induced climate change, it said the heat experienced was made 130 times more likely .\n\nMajor incidents were declared for wildfires this year in areas such as Dunwich Heath and RSPB Minsmere in Suffolk, the Cairngorms , Hampshire and Holme Fen in Cambridgeshire.\n\nMore on this story\n\nFirefighters and public 'knowingly put at risk' during summer wildfires Published 1 day ago\n\nWildfires are UK's 'new reality', MPs warn Published 3 days ago\n\nLives 'will be lost' unless UK does more to combat wildfires, committee chairwoman says Published 29 September\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nWildfires\n\nAndy Burnham",
+      "body": "Published 22 October 2026\n\nAndy Burnham said military aircraft will be used to tackle wildfires as he tries to ensure the UK is \"on the front foot\" following a summer of devastating blazes.\n\nCivilian fire services in all four nations will be able to request the support of the Royal Air Force's Chinook helicopters and A400M planes to fight wildfires on tough terrain such as remote moorland and steep hillsides.\n\nAs he hosted the UK's first summit on wildfires, the prime minister outlined initial steps to \"improve our response\" after the country \"lived through a summer that we've never seen before\".\n\nBurnham said this also includes better equipment for firefighters and improved land management to stop fires from spreading.\n\nAfter a record-breaking summer, the government's \"wildfire resilience summit\" in Liverpool on Friday discussed how to prevent, respond to and recover from such blazes.\n\nThere have been 1,350 wildfires in England and Wales this year, an all-time high and up by more than 300 on last year and more than 1,000 on 2024, according to figures from the National Fire Chiefs Council .\n\nRecords for the number of reported wildfires were also broken in 2022 and 2025 - but the UK's Climate Change Committee has warned the risk will rise in the coming decades.\n\nDefence Secretary Wes Streeting said this was the first time the RAF's Chinooks and the four-engine A400Ms were being equipped to tackle wildfires. Some areas struggled with no air assistance in the summer.\n\nRAF Chinook crews have already helped respond , external to wildfires in Cyprus.\n\nChinooks have practised picking up and dropping water from firefighting buckets in Portland harbour, UK\n\nIn addition to military aircraft, the government said it would also spend £45m on wildfire-specific personal protective equipment for firefighters on the ground.\n\nIt is lighter than current firefighting equipment which is designed for fires in buildings and not meant to be worn for a long time, the government added.\n\nMinisters are also pledging a £25m scheme from April 2027 to April 2029 to restore dried-out peatlands in England so they are natural firebreaks, and financial support for farmers to fireproof their land such as by digging ponds.\n\n\"The government will also look at tougher local restrictions or product bans to stop people starting fires when the risk is high,\" a briefing ahead of the summit said, following a temporary ban on disposable BBQs .\n\nBurnham met fire chiefs, local leaders and experts from tech companies at the summit, also attended by Communities Secretary Angela Rayner.\n\nHe said: \"I think too often in the past we've been playing catch up, and today is trying about trying to get on the front foot and recognise that the summer we've just had is likely to be a more regular situation going forward.\n\n\"So make ourselves that bit stronger when it comes to the summer of 2027, and then indeed summers beyond.\"\n\nBurnham earlier told reporters that fire and rescue services were \"stretched\" this summer and firefighters had worked in \"extremely difficult conditions\" before committing to providing better equipment.\n\nOn aerial support, the PM said: \"We may see on holiday other countries where there are planes putting water from above on the fires. We believe we need that capability.\n\n\"The Ministry of Defence will be equipping aircraft with that capability, so we'll be better prepared for summers to come.\"\n\nBurnham also recalled visiting Stourbridge in August and how \"we saw homes lost in a heartbeat\".\n\nFirefighters tackled wildfires across the UK over the summer, including here in Ebbw Vale, Wales\n\nEarlier this month, MPs on the Environment, Food and Rural Affairs Committee said there were weaknesses in the UK's wildfire preparedness , including access to aerial firefighting resources, securing water supplies during major incidents and coordinating resources at a national level.\n\nMPs said the current system for obtaining aerial firefighting support was \"no longer fit for purpose\".\n\nA further announcement at the summit included a \"Wildfires AI Unit\" to combine universities, tech firms and officials on the Cobra emergency committee, along with Met Office wildfire forecasts and closer work with devolved governments.\n\nIn August, the government convened a Cobra meeting before sending an emergency alert to millions of phones across England and Wales - which sparked a backlash from some .\n\nSummer 2026 was the UK's hottest on record, according to the Met Office. In a study on how this summer was impacted by human-induced climate change, it said the heat experienced was made 130 times more likely .\n\nMajor incidents were declared for wildfires this year in areas such as Dunwich Heath and RSPB Minsmere in Suffolk, the Cairngorms , Hampshire and Holme Fen in Cambridgeshire.\n\nMore on this story\n\nFirefighters and public 'knowingly put at risk' during summer wildfires Published 2 days ago\n\nWildfires are UK's 'new reality', MPs warn Published 3 days ago\n\nLives 'will be lost' unless UK does more to combat wildfires, committee chairwoman says Published 29 September\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nWildfires\n\nAndy Burnham",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2132,7 +2205,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5632/live/6ac13550-cedc-11f1-8507-45cb00a1c41c.png",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\n'Be prepared': PM Andy Burnham suggests stocking up on basic food items\n\nPublished 23 October 2026\n\nThe prime minister has advised people to stock up on tinned food and bottled water in order to be prepared for emergencies.\n\nWith storms battering the UK, and in the wake of online disruption caused by a major security flaw, Andy Burnham said \"unexpected events seem to be becoming more and more common\".\n\nThe government has drawn up recommendations for households to have three days' worth of bottled water and tinned food to deal with a crisis such as a war, an online attack or a natural disaster.\n\nBurnham added: \"It's not about panicking... It's about just taking sensible measures to have enough in the house to tide you over should there be a difficult situation.\"\n\nAt Labour's conference last month, Housing Secretary Angela Rayner joked that her emergency box , external would include a bottle of wine.\n\nShe said she'd include: \"Mascara, concealer, I don't know, a bottle of Sauvignon Blanc, a tin of baked beans because you've gotta have some baked beans, and I like a good tin of custard as well so I think that'll keep me going for a while.\"\n\nAsked whether he agreed with her, Burnham told BBC Radio 5 Live's Matt Chorley: \"Well, I'm not sure a bottle of wine is your best first port of call if you're in a slightly crisis situation, but it probably helps when you've done the hard work.\n\n\"But I'll stick to the basics I think - I do like my beans, so I have plenty of those in the cupboard, and soup.\n\n\"I think those are the kind of things that I would recommend people to have, as well as Twiglets, I'm not sure I can get by for too long without those.\"\n\nLast month, the National Audit Office (NAO) warned Britain's food supply chain is at risk given the growing threat of cyber-attacks and the climate crisis and said the Department for Food, the Environment and Rural Affairs (Defra) had not done enough in recent years to improve supply chain resilience.\n\nThe chief executive of the Cold Chain Federation, which represents firms transporting temperature-controlled foods, also told the BBC the UK is being targeted by Russian cyber-hackers who \"know that there are pinch points in the food supply system\".\n\nSpeaking at a wildfire resilience summit in Liverpool, Burnham denied the government had failed to properly prepare, saying: \"No, we're having the conversation with people about being better prepared because we're living in a world where unexpected events seem to be becoming more and more common.\n\n\"Obviously, weather events, and we're in a situation today where the UK is facing storms and obviously, we feel for the people without power in Cornwall right now.\n\n\"It is just having those supplies in the house to get you through those moments. So we are having that conversation about resilience.\"\n\nWhy should I stockpile and what will I need? Published 23 hours ago\n\nMilitary aircraft to help get UK 'on front foot' to fight wildfires, Burnham says Published 1 day ago\n\nPrepare for supply chain disruption from cyber or climate emergencies, Streeting warns Published 1 day ago\n\nA checklist drawn up by the government recommends having nine litres of water per person – enough for three days – along with non-perishable food such as tinned meat and vegetables or dried fruit.\n\nThe government suggests having an FM radio, either battery or wind-up. During a national crisis, the BBC would prioritise broadcasting news, as well as health and safety information. In the event of a severe power cut, FM radio will be the best way to receive these updates.\n\nThe list also suggests hand sanitiser, wet wipes and toiletries, food for any pets, supplies for any babies, a torch, blankets, a charged power bank for devices, cash in case payment systems collapse, a first aid kit and copies of important documents.\n\nEarlier, Treasury minister James Murray told BBC Breakfast he has not yet followed the government's guidance on stockpiling supplies to prepare for a crisis.\n\nHe said he had a stockpile of coffee, but pointed out that neighbouring countries including Ireland, France and the Netherlands had given the same guidance \"for quite a long time\".\n\nHe added: \"I'm not going to pretend I've followed all that advice myself yet.\"\n\nSpeaking on the same programme, Conservative leader Kemi Badenoch said she was \"stocked up for the week at any time\".\n\nShe said the previous Conservative government had issued similar advice on preparing for emergencies, but added: \"What I'm more concerned about is that it doesn't look like [the government] are explaining what the risks we are under are, and what they are doing about the big things.\n\n\"Families can stock up but what's going on with defence, the cyber attacks, the hybrid warfare? The money to look after the country has not been forthcoming.\"\n\n'My children think I've lost my mind': The Scot prepping for when the lights go out Published 3 days ago\n\nInside the world of preppers getting ready for society's collapse Published 20 March\n\nSign up for our Politics Essential newsletter to read top political analysis, gain insight from across the UK and stay up to speed with the big moments. It'll be delivered straight to your inbox every weekday.\n\nRelated topics\n\nAndy Burnham\n\nAngela Rayner",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\n'Be prepared': PM Andy Burnham suggests stocking up on basic food items\n\nPublished 23 October 2026\n\nThe prime minister has advised people to stock up on tinned food and bottled water in order to be prepared for emergencies.\n\nWith storms battering the UK, and in the wake of online disruption caused by a major security flaw, Andy Burnham said \"unexpected events seem to be becoming more and more common\".\n\nThe government has drawn up recommendations for households to have three days' worth of bottled water and tinned food to deal with a crisis such as a war, an online attack or a natural disaster.\n\nBurnham added: \"It's not about panicking... It's about just taking sensible measures to have enough in the house to tide you over should there be a difficult situation.\"\n\nAt Labour's conference last month, Housing Secretary Angela Rayner joked that her emergency box , external would include a bottle of wine.\n\nShe said she'd include: \"Mascara, concealer, I don't know, a bottle of Sauvignon Blanc, a tin of baked beans because you've gotta have some baked beans, and I like a good tin of custard as well so I think that'll keep me going for a while.\"\n\nAsked whether he agreed with her, Burnham told BBC Radio 5 Live's Matt Chorley: \"Well, I'm not sure a bottle of wine is your best first port of call if you're in a slightly crisis situation, but it probably helps when you've done the hard work.\n\n\"But I'll stick to the basics I think - I do like my beans, so I have plenty of those in the cupboard, and soup.\n\n\"I think those are the kind of things that I would recommend people to have, as well as Twiglets, I'm not sure I can get by for too long without those.\"\n\nLast month, the National Audit Office (NAO) warned Britain's food supply chain is at risk given the growing threat of cyber-attacks and the climate crisis and said the Department for Food, the Environment and Rural Affairs (Defra) had not done enough in recent years to improve supply chain resilience.\n\nThe chief executive of the Cold Chain Federation, which represents firms transporting temperature-controlled foods, also told the BBC the UK is being targeted by Russian cyber-hackers who \"know that there are pinch points in the food supply system\".\n\nSpeaking at a wildfire resilience summit in Liverpool, Burnham denied the government had failed to properly prepare, saying: \"No, we're having the conversation with people about being better prepared because we're living in a world where unexpected events seem to be becoming more and more common.\n\n\"Obviously, weather events, and we're in a situation today where the UK is facing storms and obviously, we feel for the people without power in Cornwall right now.\n\n\"It is just having those supplies in the house to get you through those moments. So we are having that conversation about resilience.\"\n\nWhy should I stockpile and what will I need? Published 1 day ago\n\nMilitary aircraft to help get UK 'on front foot' to fight wildfires, Burnham says Published 1 day ago\n\nPrepare for supply chain disruption from cyber or climate emergencies, Streeting warns Published 1 day ago\n\nA checklist drawn up by the government recommends having nine litres of water per person – enough for three days – along with non-perishable food such as tinned meat and vegetables or dried fruit.\n\nThe government suggests having an FM radio, either battery or wind-up. During a national crisis, the BBC would prioritise broadcasting news, as well as health and safety information. In the event of a severe power cut, FM radio will be the best way to receive these updates.\n\nThe list also suggests hand sanitiser, wet wipes and toiletries, food for any pets, supplies for any babies, a torch, blankets, a charged power bank for devices, cash in case payment systems collapse, a first aid kit and copies of important documents.\n\nEarlier, Treasury minister James Murray told BBC Breakfast he has not yet followed the government's guidance on stockpiling supplies to prepare for a crisis.\n\nHe said he had a stockpile of coffee, but pointed out that neighbouring countries including Ireland, France and the Netherlands had given the same guidance \"for quite a long time\".\n\nHe added: \"I'm not going to pretend I've followed all that advice myself yet.\"\n\nSpeaking on the same programme, Conservative leader Kemi Badenoch said she was \"stocked up for the week at any time\".\n\nShe said the previous Conservative government had issued similar advice on preparing for emergencies, but added: \"What I'm more concerned about is that it doesn't look like [the government] are explaining what the risks we are under are, and what they are doing about the big things.\n\n\"Families can stock up but what's going on with defence, the cyber attacks, the hybrid warfare? The money to look after the country has not been forthcoming.\"\n\n'My children think I've lost my mind': The Scot prepping for when the lights go out Published 3 days ago\n\nInside the world of preppers getting ready for society's collapse Published 20 March\n\nSign up for our Politics Essential newsletter to read top political analysis, gain insight from across the UK and stay up to speed with the big moments. It'll be delivered straight to your inbox every weekday.\n\nRelated topics\n\nAndy Burnham\n\nAngela Rayner",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2159,7 +2232,7 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bde4/live/764fdf00-cee3-11f1-a701-fddedf244c16.png",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on this story.\n\nSubsection Wales\n\nPublished 23 hours ago\n\nRelated topics\n\nWales Follow Wales\n\nReform UK Follow Reform UK\n\nIslamic veils Follow Islamic veils",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nMore on this story.\n\nSubsection Wales\n\nPublished 1 day ago\n\nRelated topics\n\nWales Follow Wales\n\nReform UK Follow Reform UK\n\nIslamic veils Follow Islamic veils",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -2346,6 +2419,30 @@
       "body": "John Healey becomes the latest chancellor to pledge to cut red tape for businesses ahead of his first Budget\n\nPublished 23 October 2026\n\nThe chancellor has announced plans to slash \"form-filling and pointless paperwork\" to save UK businesses up to £800m.\n\nMinisters have said the proposed changes in regulations, announced ahead of John Healey's first Budget on Wednesday, will reduce unnecessary bureaucracy for businesses.\n\nThe move is part of a broader effort in the Budget to offer households and businesses more support amid rising costs.\n\nIn response to the announcement, the Conservatives said Labour had only made problems worse for businesses.\n\n\"Labour have finally admitted that endless red tape is hammering businesses and killing jobs across the country,\" shadow chancellor Andrew Griffith said.\n\nHealey acknowledged British firms are \"fed up with form-filling and pointless paperwork\" eating into time and money that would be more valuable invested into their businesses.\n\nHe becomes the latest chancellor to pledge to slash red tape, which he said will allow businesses more \"breathing space\" to invest and create good jobs.\n\nThe changes should make compliance guidance easier, and simplify the reporting rules firms have to follow, the Treasury said.\n\nMinisters have claimed this will save almost £800m in administrative and tariff costs.\n\nPrime Minister Andy Burnham and Healey are expected to meet some business leaders on Friday at No 10 North.\n\nBurnham said that it's unfair \"pointless bureaucracy gets in the way\" of hard-working people building their businesses.\n\n\"If you run a business, you want to spend your time serving your customers, creating jobs and growing your firm, not filling in unnecessary forms,\" Burnham said.\n\nThe government has set itself a target of cutting regulation by 25% by the end of the current Parliament.\n\nThe Confederation of British Industry (CBI) Chief Executive Rain Newton Smith has welcomed the plans, but said the test would be in delivering reform.\n\nMeanwhile, the shadow chancellor argued that the employment act had only made \"the situation worse and has created a youth jobs emergency\".\n\n\"John Healey must get a grip in his Budget next week. He must back our Conservative plans to cut welfare and cut taxes so we can get Britain working again,\" he said.\n\nGet in touch\n\nDo you have any views, comments or questions about this story?\n\nChancellor rejects calls to raise Capital Gains Tax in Budget Published 4 days ago\n\nWhat is the Budget and what could be in it? Published 1 day ago\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.\n\nRelated topics\n\nJohn Healey\n\nLabour Party",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "b46f625b8203fc7f",
+      "title": "Six-try Ireland beat South Africa in Cape Town",
+      "summary": "Ireland score six tries to beat South Africa in the first of two WXV Global Series meetings in Cape Town.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6ly353442neo",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-10-24T15:06:38Z",
+      "category": "Sports",
+      "region": "Africa",
+      "labels": [
+        "Sports",
+        "Africa"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fd8/live/18f07890-cfbc-11f1-9012-0172b9f73a72.jpg"
     },
     {
       "id": "ed627ba6b5ff3e4e",
@@ -2642,31 +2739,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1373/live/02a488a0-ce32-11f1-9f18-490cec60aa0f.jpg"
     },
     {
-      "id": "83e1ef0fc6e19286",
-      "title": "Sheehan switches to number eight for Munster derby",
-      "summary": "Leinster captain Dan Sheehan will start at number eight for the first time in Saturday's United Rugby Championship interprovincial derby against Munster at Aviva Stadium.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqkglkpm2m1no",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-10-22T13:39:01Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England",
-        "Rugby"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 25,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b80b/live/cc2af710-ce1c-11f1-906e-e3128518d85d.jpg"
-    },
-    {
       "id": "2249d7d37a6dd8c4",
       "title": "UK plans emergency powers to protect undersea cables",
       "summary": "Ministers are set to gain powers over telecoms companies during national security emergencies.",
@@ -2715,30 +2787,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca04/live/ab7c7f40-ce29-11f1-9f18-490cec60aa0f.jpg"
     },
     {
-      "id": "b4d67fb1c6c0a5e4",
-      "title": "Searle rejected France move to push on at Tigers",
-      "summary": "Billy Searle says he signed a new three-year deal with Leicester Tigers to \"lead the team forward\" and \"push his game on\" rather than potentially return to France.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ck0j0d6389d4o",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-10-22T13:10:47Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 28,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9de2/live/32b5aa70-ce09-11f1-9f55-cdc56e9c248c.jpg"
-    },
-    {
       "id": "17c489c60db06b22",
       "title": "Police should not be scared to wade in to stop wrongdoing, says Badenoch",
       "summary": "The Tory leader calls for more support for police officers and the public when they step in to help.",
@@ -2761,6 +2809,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b7/live/c4bf1e10-cdff-11f1-8991-296181d7e3de.png"
+    },
+    {
+      "id": "d57772de7a7110fb",
+      "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
+      "summary": "Following Arsenal's 2-1 win at rivals Tottenham Hotspur, former England footballers Ellen White, Fara Williams and Alex Scott discuss whether the away side were fortunate to be given a penalty, which proved to be the winning moment for Arsenal.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw62ylp68m4po",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-24T15:03:37Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 39,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766a/live/e5724020-cfbb-11f1-a701-fddedf244c16.jpg"
     },
     {
       "id": "d95024822fd2deff",
@@ -2859,34 +2931,57 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ea/live/ff2243b0-ce05-11f1-8991-296181d7e3de.jpg"
     },
     {
-      "id": "3f1ad14222284e73",
-      "title": "French teenage rugby player dies after on-field injury",
-      "summary": "A 17-year-old amateur rugby player dies after suffering an on-field injury during a match for Union du Bassin Marmandais.",
+      "id": "2fa0940cece873dc",
+      "title": "Jarman makes British gymnastics history with World floor silver",
+      "summary": "Great Britain's Jake Jarman said he was \"super happy\" after claiming silver in the men's floor final at the World Gymnastics Championships. Jarman becomes the most decorated British athlete on the floor apparatus.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crly0lpgd659o",
-      "source": "BBC Rugby Union",
+      "url": "https://www.bbc.co.uk/sport/gymnastics/videos/c6zxjpv95ey8o",
+      "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-10-22T12:30:35Z",
+      "published": "2026-10-24T15:14:14Z",
       "category": "Sports",
-      "region": "England",
+      "region": "UK",
       "labels": [
         "Sports",
-        "England",
-        "Rugby"
+        "UK"
       ],
-      "sourceWeight": 5,
+      "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 19,
+      "wordCount": 33,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5291/live/ce0579e0-ce10-11f1-9f55-cdc56e9c248c.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b566/live/91836f20-cfbb-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "af170afb3d390261",
+      "title": "Arsenal fight back to beat Tottenham and ease pressure on Slegers",
+      "summary": "Alessia Russo scores a controversial penalty as Arsenal come from behind to beat local rivals Tottenham Hotspur 2-1 to secure just their second win of the season in the Women's Super League, and ease the pressure on manager Renee Slegers.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmy0r7epegd4o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-24T14:20:04Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 40,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/343d/live/e8eaacc0-cfb5-11f1-a701-fddedf244c16.jpg"
     },
     {
       "id": "b994fc49eca4b6bb",
       "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
-      "summary": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+      "summary": "With storms hitting parts of the UK and the clocks going back, here are some practical ways to cope with falling temperatures.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o",
       "source": "BBC Business",
@@ -2901,11 +2996,275 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 24,
+      "wordCount": 22,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef86/live/f04a5c10-cdf6-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "id": "4ed5c7988f291f7d",
+      "title": "Spurs boss Ho wants 'more support and training' for WSL referees",
+      "summary": "Tottenham manager Martin Ho was frustrated by a penalty decision in their defeat by Arsenal and says Women's Super League referees \"need more support\".",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmd7q47dd0e7o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-24T16:27:59Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39f0/live/89c0f560-cfc4-11f1-9ecd-8be45051afbd.jpg"
+    },
+    {
+      "id": "b7f5a0846890448d",
+      "title": "Jarman wins historic men's floor silver at worlds",
+      "summary": "Britain's Jake Jarman wins a historic fourth World Artistic Gymnastics Championships medal, with floor silver in Rotterdam.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cmly0dy8p370o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-24T17:20:44Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a8/live/e07b2f80-cfd1-11f1-9a6a-6f619fc60f24.jpg"
+    },
+    {
+      "id": "bd9f1e59e17da396",
+      "title": "England crush France 82-0 to stay in World Cup contention",
+      "summary": "England thrash France 82-0 in Perth to keep their World Cup hopes alive but they still need to beat Papua New Guinea on Friday and require Tonga to defeat Samoa next Sunday to reach the semi-finals.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/videos/c6vg0r05ypyeo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-24T14:19:54Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 36,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5f/live/1bbaeb90-cfae-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "653238e3d799c2cb",
+      "title": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
+      "summary": "Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double against Manchester City.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-24T16:58:27Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa12/live/c9b08670-cfb7-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "ac9ceefdaeab87eb",
+      "title": "England thrashed 78-0 in World Cup defeat by Australia",
+      "summary": "Australia score 15 tries as they thrash England 78-0 at the 2026 Women's Rugby League World Cup in Perth.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cwg7xvlnx7g4o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-24T17:15:51Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK",
+        "Rugby"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c1e/live/472e92d0-cfb9-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "ab5e81165d64cba7",
+      "title": "Trump says he may move White House press corps to new location",
+      "summary": "Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-24T17:01:34Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "2e3c9636bdea8e27",
+      "title": "Monfils defends Svitolina after 'venomous' criticism",
+      "summary": "Gael Monfils describes criticism of Elina Svitolina since she announced the pair were ending their marriage as \"venomous\" and \"upsetting\".",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ckz7xn4xep1go",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-24T15:47:19Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf5/live/33578440-cfc0-11f1-9ecd-8be45051afbd.jpg"
+    },
+    {
+      "id": "813e6a9b0dde95dc",
+      "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+      "summary": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-10-24T15:13:40Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 26,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7559/live/33cbd240-cfb2-11f1-9012-0172b9f73a72.jpg"
+    },
+    {
+      "id": "40a6e0c6e6647b68",
+      "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "summary": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-24T18:00:20Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 11,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "2899111e33d44f28",
+      "title": "Arsenal relieve pressure with Spurs win - can they kick on now?",
+      "summary": "Arsenal end their five-match winless run in the Women's Super League with victory at Tottenham - but can they kick on now?",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm93zw44d33do",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-24T15:40:01Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 21,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd69/live/e4151260-cfc1-11f1-9ecd-8be45051afbd.jpg"
+    },
+    {
+      "id": "b4e92ad8db600bf3",
+      "title": "'We had to change after Vegas' - but England suffer another humbling",
+      "summary": "A new-look England side's hopes of getting closer to Australia were dashed as the ruthless defending champions dismantled them at the Women's Rugby League World Cup.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cv5yn9nw17d0o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-24T14:02:38Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK",
+        "Rugby"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 26,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d561/live/6ba26850-cfb2-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "id": "105e3d4f0e9505ff",
@@ -2954,6 +3313,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/220b/live/b25137b0-8460-11f1-8cf4-43aed99842b4.jpg"
+    },
+    {
+      "id": "bc535401c8e1d2ed",
+      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+      "summary": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-10-24T15:45:46Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a8f/live/392d7fd0-cf81-11f1-aa4c-d1ae926e8a30.jpg"
     },
     {
       "id": "57850b43c98fe5e7",
@@ -3026,6 +3409,31 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6013402"
+    },
+    {
+      "id": "93a011012960d36f",
+      "title": "68-point swing and a Tonga win - how England avoid World Cup exit",
+      "summary": "England need a few things to go their way next weekend to stay in the Men's Rugby League World Cup - but they have at least given themselves a chance.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6wyvpz0epywo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-24T13:12:45Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK",
+        "Rugby"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 29,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8050/live/03654f30-cfb4-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "77dbbbe95cad2c96",
@@ -3124,6 +3532,52 @@
       "imageUrl": "https://i.guim.co.uk/img/media/fdb777dfffef92203021c9e3b97cc439e4ca9c1a/56_0_6273_5018/master/6273.jpg?width=700&quality=85&auto=format&fit=max&s=9ba12d0db35d6da48a0ab3aecbaa6a81"
     },
     {
+      "id": "a7c0aed46fdd92bf",
+      "title": "Is Iran planning attacks on Americans; why is the US on alert?",
+      "summary": "US intelligence memo warns that Iranian plots against US citizens in the Middle East 'have reached advanced stages'.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-24T12:51:21Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "04550d2fd3e99301",
+      "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+      "summary": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-10-24T13:06:03Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "858d0774c3f9566c",
       "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
       "summary": "Space Force considering options: public-private, federal installation, state land.",
@@ -3146,6 +3600,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/gallery-gallery_ng-2-ascent-2-1152x648.jpg"
+    },
+    {
+      "id": "4c82ca9521db4ddc",
+      "title": "Jackson stars with two goals - player ratings for Aston Villa v Man City",
+      "summary": "How Aston Villa and Man City players rated following their Premier League match.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-10-24T13:25:59Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 13,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cad/live/842ed380-cfa9-11f1-aadb-297fd0a130b9.jpg"
     },
     {
       "id": "ed193c34479745fc",
@@ -3172,31 +3650,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png"
     },
     {
-      "id": "41e0b3e292553b07",
-      "title": "Poor England suffer another Australia humiliation",
-      "summary": "England are well beaten by defending champions Australia in their second Women's Rugby League World Cup Group A match in Perth.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c5y43x20y0wjo",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-10-24T11:09:57Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK",
-        "Rugby"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9382/live/7e82d420-cfa6-11f1-a701-fddedf244c16.jpg"
-    },
-    {
       "id": "e4499f98d2aeb91d",
       "title": "New British number one Boulter loses Japan semi-final",
       "summary": "New British number one Katie Boulter loses 6-1 6-4 to Czech doubles specialist Katerina Siniakova in the Japan Open semi-finals.",
@@ -3221,37 +3674,14 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b9d/live/ce3d4f70-cf94-11f1-878e-95f884e98e77.jpg"
     },
     {
-      "id": "1bdf8ecd61578fe6",
-      "title": "Democracy by ZIP Code: Two Americas, one election",
-      "summary": "How can Americans living just miles apart experience completely different versions of the American dream?",
+      "id": "eac14c359fc6fd0b",
+      "title": "Kompany recovery will take 'weeks' as tests continue",
+      "summary": "Vincent Kompany remains stable in hospital as doctors run tests following his collapse on Friday, says Bayern Munich director Max Eberl.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/democracy-by-zip-code-two-americas-one-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-10-24T11:44:16Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "ff50de5ed8d2fed6",
-      "title": "Ferguson's first game as Glentoran boss postponed",
-      "summary": "Duncan Ferguson's first game as Glentoran manager against Ballymena United is off because of a waterlogged pitch.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/articles/cmy4x7zvv28ko",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm2l4vq9k84yo",
       "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-10-24T11:14:04Z",
+      "published": "2026-10-24T10:03:59Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -3261,11 +3691,11 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 17,
+      "wordCount": 21,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f31/live/663e1af0-cf9c-11f1-99e0-bfcc419a6039.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb52/live/7a368340-cf8c-11f1-bef0-7f8eb636c50b.jpg"
     },
     {
       "id": "3abcd5b3978e1563",
@@ -3290,30 +3720,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/58b66aaef4e26d60886b5c0c15befc257deb5d69/363_156_721_577/master/721.jpg?width=700&quality=85&auto=format&fit=max&s=03fc9600f1cc930244fb0b5177adc9cd"
-    },
-    {
-      "id": "bc535401c8e1d2ed",
-      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-      "summary": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-10-24T11:00:48Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a8f/live/392d7fd0-cf81-11f1-aa4c-d1ae926e8a30.jpg"
     },
     {
       "id": "ad76152196d54f5a",
@@ -3362,31 +3768,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg"
-    },
-    {
-      "id": "1828df5262dbac41",
-      "title": "England thrash France to keep alive World Cup hopes",
-      "summary": "England beat France 82-0 to maintain their hopes of reaching the Men's Rugby League World Cup semi-finals.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cr93zwx9pzv9o",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-10-24T10:01:42Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK",
-        "Rugby"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f89/live/b8d9d380-cfa6-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "030b0511d26c86ba",
@@ -3532,30 +3913,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-1152x648-1740609184.jpg"
     },
     {
-      "id": "edef26d015911b6c",
-      "title": "Fastest pitch in World Series history as Brewers win opener",
-      "summary": "The Milwaukee Brewers beat the Tampa Bay Rays 3-2 in the opening game of the best-of-seven World Series as both sides aim for their first title.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/baseball/articles/cwe8lnp78jgko",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-24T07:27:31Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 26,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/130b/live/e3305eb0-cf74-11f1-aaa0-39a3560003e9.jpg"
-    },
-    {
       "id": "2aecfc09de38cb12",
       "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
       "summary": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
@@ -3578,77 +3935,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ce/live/5103dfb0-ceef-11f1-b2ae-23f8d2a0e0c0.jpg"
-    },
-    {
-      "id": "746acbef95859843",
-      "title": "Latte Lath's journey from street games and Carrick to new start in Germany",
-      "summary": "Emmanuel Latte Lath's journey took him from Ivory Coast to Italy as a child, now he is making another new start in Germany.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqrkyl1gp4leo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-24T07:51:35Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 23,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdcb/live/3a960b90-cef4-11f1-accf-3309656ad0bb.jpg"
-    },
-    {
-      "id": "1365fe124249efe6",
-      "title": "Volkanovski nears featherweight immortality as record beckons",
-      "summary": "Alexander Volkanovski will stake his claim to be the greatest featherweight of all time if he beats Movsar Evloev at UFC 333 in Abu Dhabi on Saturday.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cq5ynjgkn68vo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-24T06:52:41Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 27,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c41/live/1e332db0-cee1-11f1-bdca-23c64447299f.jpg"
-    },
-    {
-      "id": "5bf987306da64130",
-      "title": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
-      "summary": "Washington has raised pressure on Havana after the capture of former Venezuelan President Nicolas Maduro.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-10-24T08:28:24Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "1100199c26122dfc",
@@ -3697,76 +3983,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/723e/live/4b75a380-ced6-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "8f3755ad6f2a1e29",
-      "title": "Dan Sullivan vs Dan Sullivan: Why is Trump’s DOJ suing in Alaska?",
-      "summary": "US government seeks to delay Alaska Senate result over concerns about two candidates with the same name.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-10-24T08:11:17Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "65c80fef1a3ef991",
-      "title": "Ilhan Omar votes as Trump renews attacks amid federal probe",
-      "summary": "US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-10-24T09:16:19Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 13,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "0ae1ac30d34ea833",
-      "title": "Malacia has 'no regrets' over Man Utd - despite having to train with kids",
-      "summary": "Tyrell Malacia opens up on his time at Manchester United after moving to FC Cincinnati to restart his career in Major League Soccer.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjx23d4p2v3go",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-24T06:19:26Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 23,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9836/live/f24d1480-cd33-11f1-9a39-31b474234113.jpg"
     },
     {
       "id": "21aeb598602a7eb7",
@@ -3934,30 +4150,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73df/live/68fa1570-ced2-11f1-8507-45cb00a1c41c.png"
-    },
-    {
-      "id": "2240241a9674ea86",
-      "title": "Who am I? Plus today's other quizzes",
-      "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cknv01g9n27do",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-24T05:41:29Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
     },
     {
       "id": "6147d1184c223390",
@@ -4128,28 +4320,27 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9f1/live/0343bee0-cf2f-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "ea64e93d09ec4d21",
-      "title": "Villa could reconsider Garnacho deal - Saturday's gossip",
-      "summary": "Aston Villa have doubts on making Alejandro Garnacho deal a permanent move, Brighton to stand firm on Diego Gomez amid interest, Manchester United managerial candidates concern over players, plus more.",
+      "id": "3dd987702a708bad",
+      "title": "Trump eases Canada tariffs ahead of US midterms",
+      "summary": "The move comes as Trump's Republican Party scrambles to maintain control of the US Congress, with a Republican candidate in a key Senate race saying she had lobbied to lift the tariffs on Canadian products.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwn73kzzr8veo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-23T21:32:04Z",
-      "category": "Sports",
-      "region": "UK",
+      "url": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-10-23T20:49:00Z",
+      "category": "Politics",
+      "region": "Canada",
       "labels": [
-        "Sports",
-        "UK"
+        "Politics",
+        "Canada"
       ],
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 30,
+      "wordCount": 35,
       "readingMinutes": 1,
       "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d9/live/a1de3530-cf25-11f1-a701-fddedf244c16.png"
+      "isBreaking": false
     },
     {
       "id": "d21abfa57f190c5e",
@@ -4198,54 +4389,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6791/live/a05284c0-cf28-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "26844b584380e3cd",
-      "title": "Leclerc fastest from Antonelli in US GP practice",
-      "summary": "Ferrari's Charles Leclerc leads Mercedes' Kimi Antonelli in Friday practice at the United States Grand Prix.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm5ynle2n082o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-23T23:40:33Z",
-      "category": "Sports",
-      "region": "US",
-      "labels": [
-        "Sports",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 16,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a42/live/e60f9400-cf2b-11f1-89f6-f5ef8a187796.jpg"
-    },
-    {
-      "id": "fe0fbc67bd9f3ccf",
-      "title": "'Best team in the Championship' - Boro lay down marker",
-      "summary": "Middlesbrough thrash Bolton 5-1 to go top of the Championship and confirm their place among the promotion favourites.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c65ynq95xdw5o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-23T23:14:00Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aeb/live/76e767a0-cf31-11f1-9f96-7f17b236547a.jpg"
     },
     {
       "id": "024bfe5e45e2a8a8",
@@ -4467,30 +4610,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9092/live/976fc470-cbf0-11f1-bd6b-397ab98949f6.jpg"
     },
     {
-      "id": "1c03f3aaa9f85c42",
-      "title": "Poulter & Hatton leave LIV as exodus continues",
-      "summary": "Englishmen Ian Poulter and Tyrrell Hatton are the latest star names to confirm they are quitting LIV Golf - leaving the breakaway tour's future looking increasingly uncertain.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/golf/articles/cjp3g4nyv44lo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-23T14:41:19Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 26,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba47/live/f53f6b00-cf0b-11f1-b95c-310d5f3c558a.png"
-    },
-    {
       "id": "e54646b96c9f2ecf",
       "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
       "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
@@ -4561,30 +4680,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b82/live/9ccec700-ce3d-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "id": "652ebf83c909622b",
-      "title": "Carrick refuses to rule out dropping Fernandes in emotional address",
-      "summary": "Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-23T13:55:37Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 26,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a2/live/6c9e6ab0-cee5-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "ecb94e2f1abb6aa0",
@@ -4659,30 +4754,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/switch2hack-1152x648-1792704912.png"
     },
     {
-      "id": "1ed742a6ef851e7d",
-      "title": "Arsenal fear Saka could be out for two months",
-      "summary": "Arsenal forward Bukayo Saka could be sidelined for up to eight weeks with the quadriceps injury he suffered against Bayern Munich.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-23T14:09:36Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64fd/live/22c475a0-cee1-11f1-bdca-23c64447299f.jpg"
-    },
-    {
       "id": "c228beec40249666",
       "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
       "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
@@ -4707,30 +4778,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg"
     },
     {
-      "id": "1a8db9aecc788c83",
-      "title": "From safari to Springboks - King ready for history",
-      "summary": "In the middle of safaris, birthday celebrations and games of the Traitors, Ireland captain Erin King knows they are in South Africa to do a job.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cv5ynlj2ljppo",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-10-22T19:07:45Z",
-      "category": "Sports",
-      "region": "Africa",
-      "labels": [
-        "Sports",
-        "Africa"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 26,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da2f/live/034efba0-ce41-11f1-9a39-31b474234113.jpg"
-    },
-    {
       "id": "d322f56585bd4f4b",
       "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
       "summary": "Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.",
@@ -4753,30 +4800,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74c4/live/9aad62c0-cd2e-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "id": "9040af0cae9cfbf7",
-      "title": "Raskin 'very happy' at Rangers but unsure about January",
-      "summary": "Belgium midfielder Nicolas Raskin is \"really happy\" at Rangers but is unsure what might happen in January.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n8dezr0345o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-10-23T14:11:42Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e392/live/de4c6120-ceeb-11f1-bdca-23c64447299f.jpg"
     },
     {
       "id": "6fe160e2dc50674f",
@@ -4993,31 +5016,6 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://www.eff.org/files/banner_library/og-ssd-logo.png"
-    },
-    {
-      "id": "7ec675fee500357a",
-      "title": "Interoperability vs. Security: Why not both?",
-      "summary": "An open internet where people can freely build, share, and remix each other's work is a powerful engine of grassroots innovation we’ve all benefited from. In recent decades, however, corporations have taken control of an increasing share of this work, giving them a greater ability to stifle challengers and limit our choices. When regulators address this by mandating that tech giants play fair by requiring interoperability, the gatekeepers respond with a tired refrain: Playing fair puts users’ security at risk. Unfortunately for these trillion-dollar companies, this gotcha isn’t the end of the conversation. Regulators can ensure that meaningful choice and security thrive. Lawmakers have been catching up, recognizing that the best way to rein in big tech is to require these oligopolies to open up their platforms to independent developers. As we explained six years ago , mandating interoperability helps prevent the misuse of people’s data and enables more privacy-respecting alternatives. Tech giants, in contrast, have been arguing that our data is safer when they have exclusive control. Tech Giants Claim Interoperability Means Insecurity The European Union’s Digital Markets Act (DMA) put interoperability into law under Article 6(7): “gatekeeper shall allow providers of services and providers of hardware, free of charge, effective interoperability with” a designated Core Platform Service they operate. The language describes an unambiguous requirement to remediate vendor lockouts and anti-competitive behavior of the major service operators—it is not optional. Apple claimed that enforcing this obligation in mobile app stores would put their customers at risk and do irreparable harm to trust in their brand. It’s an argument reminiscent of Apple’s fight against the right to repair , and in both instances the company is fighting to maintain its restrictive ecosystem to stop people from finding better deals elsewhere. Apple has long cultivated a more corporate-controlled experience with the iPhone, but this argument is now also being used for the relatively-more-open Android devices from Google. In the same year Apple argued against the DMA, Epic Games sued Google for its restrictive terms of service and extractive policies for revenue generated in apps. Google predictably alleged that opening up its platform to other app stores it couldn’t vet would allow harmful…",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.eff.org/deeplinks/2026/10/interoperability-vs-security-why-not-both",
-      "source": "Electronic Frontier Foundation",
-      "publisher": "Electronic Frontier Foundation",
-      "published": "2026-10-21T22:39:34Z",
-      "category": "Tech",
-      "region": "US",
-      "labels": [
-        "Tech",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 362,
-      "readingMinutes": 2,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://www.eff.org/files/banner_library/decentralization-banner.png",
-      "imageAlt": "Personified mushrooms communicating from underground homes"
     }
   ],
   "sourceStatus": [
@@ -5058,8 +5056,8 @@
     },
     {
       "source": "UN News",
-      "ok": false,
-      "error": "not well-formed (invalid token): line 1, column 0"
+      "ok": true,
+      "items": 30
     },
     {
       "source": "The Guardian China",
@@ -5129,12 +5127,12 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 65
+      "items": 61
     },
     {
       "source": "BBC Rugby Union",
       "ok": true,
-      "items": 53
+      "items": 52
     },
     {
       "source": "Saracens",
@@ -5149,7 +5147,7 @@
     {
       "source": "Sportsnet Maple Leafs",
       "ok": true,
-      "items": 7
+      "items": 6
     },
     {
       "source": "Sky Sports",
