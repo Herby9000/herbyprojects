@@ -156,6 +156,48 @@ class AgentReadinessTests(unittest.TestCase):
         self.assertIn("Cosmo's Animal Cup", portfolio)
         self.assertIn("Cosmo's Animal Cup", readme)
 
+    def test_cosmos_animal_cup_has_install_metadata_and_product_icons(self):
+        page = self.parse_html("cosmos-animal-cup/index.html")
+        links = {(link.get("rel"), link.get("sizes")): link.get("href") for link in page.links}
+        meta = {item.get("name"): item.get("content") for item in page.meta if item.get("name")}
+
+        self.assertEqual(links[("apple-touch-icon", "180x180")], "assets/apple-touch-icon.png")
+        self.assertEqual(links[("icon", "192x192")], "assets/icon-192.png")
+        self.assertEqual(links[("manifest", None)], "manifest.webmanifest")
+        self.assertEqual(meta["theme-color"], "#17244a")
+        self.assertEqual(meta["apple-mobile-web-app-capable"], "yes")
+        self.assertEqual(meta["apple-mobile-web-app-status-bar-style"], "black-translucent")
+        self.assertEqual(meta["apple-mobile-web-app-title"], "Animal Cup")
+
+        manifest = json.loads((ROOT / "cosmos-animal-cup/manifest.webmanifest").read_text(encoding="utf-8"))
+        self.assertEqual(manifest["name"], "Cosmo's Animal Cup")
+        self.assertEqual(manifest["short_name"], "Animal Cup")
+        self.assertEqual(manifest["start_url"], "./")
+        self.assertEqual(manifest["scope"], "./")
+        self.assertEqual(manifest["display"], "standalone")
+        self.assertEqual(manifest["theme_color"], "#17244a")
+        self.assertEqual(manifest["background_color"], "#dcefff")
+        self.assertEqual(
+            {(icon["src"], icon["sizes"], icon["type"]) for icon in manifest["icons"]},
+            {
+                ("assets/icon-192.png", "192x192", "image/png"),
+                ("assets/icon-512.png", "512x512", "image/png"),
+            },
+        )
+
+        for relative_path, dimensions in (
+            ("cosmos-animal-cup/assets/apple-touch-icon.png", (180, 180)),
+            ("cosmos-animal-cup/assets/icon-192.png", (192, 192)),
+            ("cosmos-animal-cup/assets/icon-512.png", (512, 512)),
+        ):
+            with self.subTest(path=relative_path):
+                payload = (ROOT / relative_path).read_bytes()
+                self.assertEqual(payload[:8], b"\x89PNG\r\n\x1a\n")
+                self.assertEqual(payload[12:16], b"IHDR")
+                self.assertEqual(struct.unpack(">II", payload[16:24]), dimensions)
+                self.assertGreater(len(payload), 1_000)
+                self.assertIn(b"IDAT", payload)
+
     def test_llms_guidance_explains_when_and_how_to_use_the_site(self):
         guidance = (ROOT / "llms.txt").read_text(encoding="utf-8")
         for phrase in (
