@@ -135,7 +135,7 @@ class AgentReadinessTests(unittest.TestCase):
                 "https://herbyprojects.com/projects/three-smiles",
                 "https://herby9000.github.io/herbyprojects/projects/canadian-tech-challenge/",
                 "https://herby9000.github.io/herbyprojects/projects/ark-mobile/",
-                "https://herbyprojects.com/cosmos-animal-cup/",
+                "https://herby9000.github.io/herbyprojects/cosmos-animal-cup/",
             },
         )
         last_modified = {
@@ -152,7 +152,7 @@ class AgentReadinessTests(unittest.TestCase):
 
         self.assertIn("<title>Cosmo's Animal Cup</title>", game)
         self.assertIn("Cosmo's Animal Cup", homepage)
-        self.assertIn("/cosmos-animal-cup/", homepage)
+        self.assertIn("https://herby9000.github.io/herbyprojects/cosmos-animal-cup/", homepage)
         self.assertIn("Cosmo's Animal Cup", portfolio)
         self.assertIn("Cosmo's Animal Cup", readme)
 
