@@ -1,0 +1,693 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Cosmo's Animal Cup</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;800&family=Lilita+One&display=swap">
+<style>
+/* Layout: one-screen matchday. Navy scoreboard band → penalty-kick pitch scene → memory board filling the rest. Single sunny look by design. */
+:root{
+  --navy:#17244a; --navy-2:#253a72; --led:#0b1430;
+  --grass:#3dae48; --grass-2:#34993f; --grass-deep:#257a30;
+  --sun:#ffcc2e; --sun-deep:#d99a00;
+  --pop:#ff5b47; --bluebird:#7cc8ff;
+  --sky:#dcefff; --chalk:#ffffff; --ink:#17244a;
+  --shade:rgba(23,36,74,.22); --veil:rgba(23,36,74,.74);
+  --font-display:"Lilita One","Arial Rounded MT Bold","Trebuchet MS",system-ui,sans-serif;
+  --font-body:"Baloo 2","Arial Rounded MT Bold","Trebuchet MS",system-ui,sans-serif;
+  --font-emoji:"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji","Twemoji Mozilla",sans-serif;
+  --ph:clamp(118px,21vh,190px);
+  color-scheme:light;
+}
+*,*::before,*::after{box-sizing:border-box}
+html{height:100%;background:var(--sky);padding-block:env(safe-area-inset-top,0px) env(safe-area-inset-bottom,0px)}
+body{height:100%;margin:0;display:flex;flex-direction:column;background:var(--sky);color:var(--ink);
+  font-family:var(--font-body);overflow:hidden;-webkit-tap-highlight-color:transparent;
+  user-select:none;-webkit-user-select:none;-webkit-touch-callout:none;touch-action:manipulation}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--navy)}
+button{font:inherit;color:inherit}
+[hidden]{display:none!important}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* ---------- Scoreboard ---------- */
+.scoreboard{flex:none;background:var(--navy);color:var(--chalk);display:grid;grid-template-columns:1fr auto;align-items:center;row-gap:6px;
+  padding-block:8px 10px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.score{display:flex;align-items:center;gap:8px;min-width:0}
+.team{font-family:var(--font-display);font-size:24px;letter-spacing:.05em;line-height:1}
+.digit{font-family:var(--font-display);font-variant-numeric:tabular-nums;background:var(--led);color:var(--sun);
+  min-width:38px;height:38px;padding:0 6px;border-radius:9px;display:grid;place-items:center;font-size:26px;line-height:1;
+  box-shadow:inset 0 0 0 2px var(--navy-2)}
+.digit.them{color:var(--bluebird)}
+.colon{font-family:var(--font-display);font-size:22px;opacity:.6}
+.foe{font-family:var(--font-emoji);font-size:26px;line-height:1}
+.tools{display:flex;gap:8px}
+.icon-btn{width:44px;height:44px;border-radius:12px;background:var(--navy-2);border:0;display:grid;place-items:center;cursor:pointer;color:var(--chalk)}
+.icon-btn:focus-visible{outline:3px solid var(--sun);outline-offset:2px}
+.icon-btn svg{width:24px;height:24px}
+.stars{grid-column:1/-1;display:flex;justify-content:center;gap:6px;flex-wrap:wrap;min-height:26px}
+.slot{width:26px;height:26px;display:block}
+.slot path{fill:transparent;stroke:rgba(255,255,255,.38);stroke-width:1.6;stroke-linejoin:round;transition:fill .2s}
+.slot.on path{fill:var(--sun);stroke:var(--sun-deep)}
+.slot.on{animation:pop .5s cubic-bezier(.3,1.6,.5,1)}
+@keyframes pop{0%{transform:scale(.3)}100%{transform:scale(1)}}
+
+/* ---------- Pitch scene ---------- */
+.pitch{flex:none;position:relative;height:var(--ph);overflow:hidden;
+  background:linear-gradient(180deg,var(--grass) 0 24%,var(--grass) 24% 36%,var(--grass-2) 36% 50%,var(--grass) 50% 66%,var(--grass-2) 66% 84%,var(--grass) 84% 100%)}
+.stand{position:absolute;inset:0 0 auto;height:24%;background:var(--navy-2);overflow:hidden}
+.crowd{position:absolute;inset:-4px 0 14px 0;
+  background:
+    radial-gradient(circle at 5px 6px,var(--sun) 0 3.4px,transparent 3.9px) 0 0/19px 11px,
+    radial-gradient(circle at 13px 6px,var(--chalk) 0 3.4px,transparent 3.9px) 0 0/19px 11px,
+    radial-gradient(circle at 6px 5px,var(--pop) 0 3.4px,transparent 3.9px) 9px 5px/23px 11px,
+    radial-gradient(circle at 15px 5px,var(--bluebird) 0 3.4px,transparent 3.9px) 3px 5px/29px 11px}
+.crowd.roar{animation:roar .16s ease-in-out 8 alternate}
+@keyframes roar{to{transform:translateY(-4px)}}
+.hoarding{position:absolute;left:0;right:0;bottom:0;height:14px;background:var(--pop);overflow:hidden}
+.ticker{display:flex;width:max-content;animation:ticker 28s linear infinite}
+.ticker span{font-family:var(--font-display);font-size:10px;line-height:14px;letter-spacing:.14em;color:var(--chalk);white-space:nowrap;padding-right:1.6em}
+@keyframes ticker{to{transform:translateX(-50%)}}
+.box{position:absolute;left:50%;top:68%;height:16%;width:min(76%,400px);transform:translateX(-50%);border:3px solid rgba(255,255,255,.75);border-top:0}
+.goalline{position:absolute;left:0;right:0;top:calc(68% - 1px);height:3px;background:rgba(255,255,255,.85)}
+.spot{position:absolute;left:50%;bottom:16%;width:8px;height:5px;margin-left:-4px;border-radius:50%;background:var(--chalk)}
+.goal{position:absolute;left:50%;top:20%;height:48%;width:min(50%,250px);transform:translateX(-50%)}
+.net{position:absolute;inset:0;border:5px solid var(--chalk);border-bottom:0;border-radius:5px 5px 0 0;transform-origin:50% 100%;
+  background:
+    repeating-linear-gradient(45deg,rgba(255,255,255,.5) 0 1.5px,transparent 1.5px 9px),
+    repeating-linear-gradient(-45deg,rgba(255,255,255,.5) 0 1.5px,transparent 1.5px 9px),
+    rgba(23,36,74,.28);
+  box-shadow:0 3px 0 rgba(23,36,74,.25)}
+.sprite{position:absolute;font-family:var(--font-emoji);line-height:1;text-align:center;width:1.2em;margin-left:-.6em}
+.keeper{left:50%;bottom:31%;font-size:calc(var(--ph)*.25);transform-origin:50% 100%}
+.keeper-body{display:inline-block;animation:sway 1.7s ease-in-out infinite alternate}
+.keeper.diving .keeper-body{animation-play-state:paused}
+@keyframes sway{from{transform:translateX(-30%)}to{transform:translateX(30%)}}
+.kicker{left:calc(50% - var(--ph)*.42);bottom:3%;font-size:calc(var(--ph)*.3);visibility:hidden;transform-origin:50% 100%}
+.kicker-body{display:inline-block}
+.kicker-body.run{animation:hop .18s ease-in-out infinite}
+.kicker-body.party{animation:hop .34s ease-in-out 5}
+@keyframes hop{0%,100%{transform:translateY(0)}50%{transform:translateY(-22%)}}
+.ball{left:50%;bottom:8%;font-size:calc(var(--ph)*.19)}
+.hint{position:absolute;left:max(12px,env(safe-area-inset-left,0px));bottom:8px;max-width:104px;padding:4px 10px;border-radius:12px;
+  background:rgba(23,36,74,.78);color:var(--chalk);font-weight:800;font-size:12px;line-height:1.15}
+.goal-text{position:absolute;inset:0 0 auto;height:72%;display:flex;align-items:center;justify-content:center;gap:.02em;pointer-events:none;
+  font-family:var(--font-display);font-size:calc(var(--ph)*.42);color:var(--sun);letter-spacing:.03em;
+  -webkit-text-stroke:calc(var(--ph)*.022) var(--navy);paint-order:stroke fill;text-shadow:0 .06em 0 var(--navy);
+  opacity:0;transition:opacity .3s}
+.goal-text span{display:inline-block}
+.goal-text.show{opacity:1}
+.goal-text.show span{animation:letter .55s cubic-bezier(.3,1.5,.5,1) backwards;animation-delay:calc(var(--i)*70ms)}
+@keyframes letter{0%{transform:translateY(70%) scale(.2) rotate(-12deg)}100%{transform:none}}
+
+/* ---------- Board ---------- */
+.board{flex:1;min-height:0;display:grid;place-items:center;overflow:auto;
+  padding-block:14px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.grid{display:grid;gap:var(--gap,10px);--tile:96px}
+.card{position:relative;width:var(--tile);height:var(--tile);border:0;padding:0;background:none;cursor:pointer;
+  perspective:700px;border-radius:20%;animation:deal .5s cubic-bezier(.3,1.5,.5,1) backwards;animation-delay:calc(var(--i)*35ms)}
+@keyframes deal{from{transform:scale(.5) rotate(-8deg)}}
+.card:focus-visible{outline:4px solid var(--pop);outline-offset:4px}
+.inner{position:absolute;inset:0;transform-style:preserve-3d;-webkit-transform-style:preserve-3d;transition:transform .45s cubic-bezier(.3,1.35,.5,1)}
+.card.up .inner{transform:rotateY(180deg)}
+.face{position:absolute;inset:0;border-radius:20%;backface-visibility:hidden;-webkit-backface-visibility:hidden;box-shadow:0 5px 0 var(--shade)}
+.back{background:
+    radial-gradient(circle at 50% 50%,var(--chalk) 0 4%,transparent 4.5%),
+    radial-gradient(circle at 50% 50%,transparent 0 16%,var(--chalk) 16.5% 20%,transparent 20.5%),
+    linear-gradient(var(--chalk),var(--chalk)) center/3px 100% no-repeat,
+    repeating-linear-gradient(90deg,var(--grass) 0 12.5%,var(--grass-2) 12.5% 25%);
+  box-shadow:inset 0 0 0 4px var(--chalk),0 5px 0 var(--grass-deep)}
+@media (hover:hover){.card:not(.up):hover .back{filter:brightness(1.08)}}
+.front{transform:rotateY(180deg);background:var(--tint);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2%;
+  box-shadow:inset 0 0 0 4px var(--chalk),0 5px 0 var(--shade)}
+.emoji{font-family:var(--font-emoji);font-size:calc(var(--tile)*.5);line-height:1}
+.name{font-weight:800;font-size:calc(var(--tile)*.14);line-height:1;color:var(--ink)}
+.grid.tiny .name{display:none}
+.num{font-family:var(--font-display);font-size:calc(var(--tile)*.44);line-height:.95;color:var(--navy)}
+.frame{display:grid;grid-template-columns:repeat(5,1fr);gap:calc(var(--tile)*.022);width:64%;padding:calc(var(--tile)*.03);border-radius:calc(var(--tile)*.05);background:rgba(23,36,74,.13)}
+.frame i{display:block;aspect-ratio:1;border-radius:50%;background:rgba(255,255,255,.75)}
+.frame i.on{background:var(--pop)}
+.grid.tiny .num{font-size:calc(var(--tile)*.42)}
+.jersey{display:block;width:1em;height:1.2em;overflow:visible}
+.grid.tiny .emoji{font-size:calc(var(--tile)*.6)}
+.card.got .front{box-shadow:inset 0 0 0 5px var(--sun),0 5px 0 var(--sun-deep)}
+.badge{position:absolute;top:-9%;right:-9%;width:38%;height:38%;z-index:2;transform:scale(0);transition:transform .4s cubic-bezier(.3,1.7,.5,1);pointer-events:none}
+.badge path{fill:var(--sun);stroke:var(--navy);stroke-width:1.6;stroke-linejoin:round}
+.card.got .badge{transform:scale(1) rotate(-12deg);transition-delay:.15s}
+
+/* ---------- Flying star, confetti, overlay ---------- */
+.flystar{position:fixed;width:44px;height:44px;z-index:25;pointer-events:none}
+.flystar path{fill:var(--sun);stroke:var(--navy);stroke-width:1.4;stroke-linejoin:round}
+#confetti{position:fixed;inset:0;width:100%;height:100%;z-index:30;pointer-events:none}
+.overlay{position:fixed;inset:0;z-index:20;display:grid;place-items:center;background:var(--veil);
+  padding:max(16px,env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) max(16px,env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px))}
+.panel{width:min(100%,380px);max-height:100%;overflow:auto;background:var(--chalk);border-radius:28px;padding:22px 20px 20px;text-align:center;
+  box-shadow:0 10px 0 var(--grass-deep);display:flex;flex-direction:column;align-items:center;gap:12px;animation:rise .45s cubic-bezier(.3,1.4,.5,1)}
+@keyframes rise{from{transform:translateY(30px) scale(.9)}}
+.trophy{font-family:var(--font-emoji);font-size:76px;line-height:1;animation:bob 1.2s ease-in-out infinite alternate}
+@keyframes bob{to{transform:translateY(-8px) rotate(4deg)}}
+.panel h2{margin:0;font-family:var(--font-display);font-weight:400;font-size:30px;line-height:1.05;color:var(--navy);text-wrap:balance}
+.panel p{margin:0;font-weight:600;font-size:16px;color:var(--navy-2)}
+.panel .stars{gap:4px}
+.panel .slot{width:30px;height:30px}
+.label{font-weight:800;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--navy-2);margin-top:4px}
+.picker{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;width:100%}
+.pick{border:0;border-radius:16px;background:var(--sky);padding:10px 4px 8px;cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:2px;box-shadow:inset 0 0 0 2px transparent}
+.pick b{font-family:var(--font-display);font-weight:400;font-size:22px;line-height:1.1;color:var(--navy)}
+.pick span{font-weight:800;font-size:12px;color:var(--navy-2)}
+.pick[aria-pressed="true"]{background:var(--sun);box-shadow:inset 0 0 0 2px var(--sun-deep)}
+.pick:focus-visible,.play:focus-visible,.textbtn:focus-visible{outline:3px solid var(--pop);outline-offset:3px}
+.play{width:100%;height:64px;border:0;border-radius:20px;background:var(--pop);color:var(--chalk);font-family:var(--font-display);font-size:28px;letter-spacing:.04em;cursor:pointer;box-shadow:0 6px 0 #c23c2c;margin-top:4px}
+.play:active{transform:translateY(4px);box-shadow:0 2px 0 #c23c2c}
+.textbtn{border:0;background:none;font-weight:800;font-size:15px;color:var(--navy-2);padding:6px 10px;cursor:pointer;text-decoration:underline;text-underline-offset:3px}
+
+/* ---------- Level bar ---------- */
+body::after{content:"";position:fixed;inset:auto 0 0;height:env(safe-area-inset-bottom,0px);z-index:10;background:var(--navy)}
+.levels{flex:none;background:var(--navy);padding-block:8px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.levels-inner{display:flex;align-items:center;justify-content:center;gap:12px;max-width:520px;margin:0 auto}
+.levels-label{font-weight:800;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.62)}
+.seg{flex:1;max-width:400px;display:grid;grid-template-columns:repeat(3,1fr);gap:4px;padding:4px;border-radius:14px;background:var(--led)}
+.lvl{height:42px;border:0;border-radius:10px;background:transparent;color:var(--chalk);cursor:pointer;
+  display:flex;align-items:center;justify-content:center;gap:7px;font-weight:800;font-size:15px;line-height:1}
+.lvl:focus-visible{outline:3px solid var(--sun);outline-offset:2px}
+.lvl[aria-pressed="true"]{background:var(--sun);color:var(--navy)}
+.pips{display:inline-flex;gap:3px}
+.pips i{display:block;width:6px;height:6px;border-radius:50%;background:currentColor}
+.deckseg{flex:none;grid-template-columns:repeat(2,46px);max-width:none}
+.deckseg .lvl{padding:0}
+.deck-icon{font-family:var(--font-emoji);font-size:22px;line-height:1}
+.deck-num{font-family:var(--font-display);font-weight:400;font-size:17px;letter-spacing:.02em}
+.picker.two{grid-template-columns:repeat(2,1fr)}
+.pick .pick-icon{font-family:var(--font-emoji);font-size:26px;line-height:1.1}
+.pick .pick-num{font-family:var(--font-display);font-size:24px;line-height:1.1;color:var(--navy)}
+@media (max-width:420px){
+  .levels-label{display:none}
+  .levels-inner{gap:8px}
+  #seg .lvl{flex-direction:column;gap:4px;font-size:14px}
+}
+@media (max-width:350px){#seg .lvl{font-size:12px}}
+
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;transition-delay:0s!important}
+}
+</style>
+</head>
+<body>
+<header class="scoreboard">
+  <div class="score" aria-label="Score">
+    <span class="team">COSMO</span>
+    <span class="digit" id="digit">0</span>
+    <span class="colon">:</span>
+    <span class="digit them">0</span>
+    <span class="foe" aria-hidden="true">🐻</span>
+  </div>
+  <div class="tools">
+    <button class="icon-btn" id="muteBtn" type="button" aria-label="Sound on" aria-pressed="false"></button>
+    <button class="icon-btn" id="menuBtn" type="button" aria-label="New game">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12a8 8 0 1 1-2.4-5.7"/><path d="M20 4v5h-5"/></svg>
+    </button>
+  </div>
+  <div class="stars" id="stars" aria-label="Stars"></div>
+</header>
+
+<section class="pitch" id="pitch" aria-hidden="true">
+  <div class="stand">
+    <div class="crowd" id="crowd"></div>
+    <div class="hoarding"><div class="ticker"><span>COSMO'S ANIMAL CUP • GO COSMO GO • COSMO'S ANIMAL CUP • GO COSMO GO •</span><span>COSMO'S ANIMAL CUP • GO COSMO GO • COSMO'S ANIMAL CUP • GO COSMO GO •</span></div></div>
+  </div>
+  <div class="box"></div>
+  <div class="goalline"></div>
+  <div class="spot"></div>
+  <div class="goal" id="goal"><div class="net" id="net"></div></div>
+  <div class="sprite keeper" id="keeper"><span class="keeper-body">🐻</span></div>
+  <div class="sprite kicker" id="kicker"><span class="kicker-body" id="kickerBody">🦁</span></div>
+  <div class="sprite ball" id="ball">⚽</div>
+  <div class="hint" id="hint">Find a pair to shoot!</div>
+  <div class="goal-text" id="goalText"><span style="--i:0">G</span><span style="--i:1">O</span><span style="--i:2">A</span><span style="--i:3">L</span><span style="--i:4">!</span></div>
+</section>
+
+<main class="board" id="board">
+  <div class="grid" id="grid" role="group" aria-label="Memory cards"></div>
+</main>
+
+<nav class="levels" aria-label="Level">
+  <div class="levels-inner">
+    <div class="seg deckseg" id="deckSeg" role="group" aria-label="Cards"></div>
+    <span class="levels-label">Level</span>
+    <div class="seg" id="seg" role="group" aria-label="Level"></div>
+  </div>
+</nav>
+
+<div class="overlay" id="overlay" hidden><div class="panel" id="panel" role="dialog" aria-modal="true"></div></div>
+<canvas id="confetti"></canvas>
+<div class="sr" id="live" aria-live="polite"></div>
+
+<script>
+(() => {
+  const ANIMALS = [
+    ["🦁","Lion"],["🐘","Elephant"],["🐵","Monkey"],["🐸","Frog"],["🐼","Panda"],["🦒","Giraffe"],
+    ["🐯","Tiger"],["🐶","Puppy"],["🐱","Kitty"],["🐷","Pig"],["🐮","Cow"],["🦊","Fox"],
+    ["🐰","Bunny"],["🐨","Koala"],["🐙","Octopus"],["🦓","Zebra"],["🐢","Turtle"],["🦆","Duck"],
+    ["🐬","Dolphin"],["🦖","Dinosaur"],["🐧","Penguin"],["🦉","Owl"],["🐴","Horse"],["🐝","Bee"]
+  ];
+  const TINTS = ["#ffe38f","#ffc6b8","#cdf2bd","#c2e5ff","#e6d0ff","#ffd3ea","#c9f3ec","#ffe2c4"];
+  const WORDS = ["One","Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten"];
+  const numberFace = (n) => `<span class="num">${n}</span><span class="frame" aria-hidden="true">${Array.from({ length: 10 }, (_, i) => `<i${i < n ? ' class="on"' : ""}></i>`).join("")}</span>`;
+  const jersey = (n) => `<svg class="jersey" viewBox="0 0 40 48" aria-hidden="true">
+      <path d="M13 4 7 6.5 1.5 13l6 5.5 3-3V36h19V15.5l3 3 6-5.5L33 6.5 27 4c-1.6 3-4 4.4-7 4.4S14.6 7 13 4z" fill="var(--pop)" stroke="var(--navy)" stroke-width="1.6" stroke-linejoin="round"/>
+      <rect x="10.5" y="35" width="19" height="6" rx="1.5" fill="var(--navy)"/>
+      <path d="M15 41v5M25 41v5" stroke="var(--navy)" stroke-width="3" stroke-linecap="round"/>
+      <text x="20" y="29" text-anchor="middle" font-size="${n > 9 ? 13 : 16}" fill="var(--chalk)" style="font-family:var(--font-display)">${n}</text>
+    </svg>`;
+  const DECKS = {
+    animals: ANIMALS.map(([e, n], i) => ({ name: n, call: n, face: `<span class="emoji">${e}</span><span class="name">${n}</span>`, kicker: e, tint: TINTS[i % TINTS.length] })),
+    numbers: WORDS.map((w, i) => ({ name: String(i + 1), call: "Number " + w, face: numberFace(i + 1), kicker: jersey(i + 1), tint: TINTS[i % TINTS.length] }))
+  };
+  const DECK_INFO = { animals: { word: "Animals", icon: '<span class="deck-icon">🦁</span>', big: '<span class="pick-icon">🦁</span>' },
+                      numbers: { word: "Numbers", icon: '<span class="deck-num">123</span>', big: '<span class="pick-num">123</span>' } };
+  const SIZES = [{p:4,word:"Easy",pips:1},{p:6,word:"Medium",pips:2},{p:10,word:"Hard",pips:3}];
+  const STAR_PATH = "M12 2.6l2.85 5.95 6.55.88-4.78 4.55 1.2 6.5L12 17.33l-5.82 3.15 1.2-6.5L2.6 9.43l6.55-.88z";
+  const starSvg = (cls) => `<svg class="${cls}" viewBox="0 0 24 24" aria-hidden="true"><path d="${STAR_PATH}"/></svg>`;
+
+  const $ = (id) => document.getElementById(id);
+  const grid = $("grid"), board = $("board"), starsEl = $("stars"), digit = $("digit");
+  const ball = $("ball"), keeper = $("keeper"), kicker = $("kicker"), kickerBody = $("kickerBody");
+  const goalEl = $("goal"), net = $("net"), crowd = $("crowd"), goalText = $("goalText"), hint = $("hint");
+  const overlay = $("overlay"), panel = $("panel"), live = $("live"), muteBtn = $("muteBtn");
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const T = (ms) => reduce ? Math.min(ms, 40) : ms;
+  const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+
+  let pairs = 6, cards = [], first = null, lock = false, goals = 0, muted = false, picked = 6, deckType = "animals", pickedDeck = "animals";
+  try { const d = localStorage.getItem("cosmo-deck"); if (DECKS[d]) deckType = d; } catch (e) {}
+  const items = () => DECKS[deckType];
+  try { const p = +localStorage.getItem("cosmo-pairs"); if (SIZES.some(s => s.p === p)) pairs = p; } catch (e) {}
+  try { muted = localStorage.getItem("cosmo-muted") === "1"; } catch (e) {}
+
+  /* ---------- Sound ---------- */
+  let ac = null, noiseBuf = null;
+  function audio() {
+    if (muted) return null;
+    if (!ac) { try { ac = new (window.AudioContext || window.webkitAudioContext)(); } catch (e) { return null; } }
+    if (ac.state === "suspended") ac.resume();
+    return ac;
+  }
+  function tone({ f = 440, f2, type = "sine", dur = .15, vol = .2, delay = 0 }) {
+    const c = audio(); if (!c) return;
+    const t = c.currentTime + delay, o = c.createOscillator(), g = c.createGain();
+    o.type = type; o.frequency.setValueAtTime(f, t);
+    if (f2) o.frequency.exponentialRampToValueAtTime(f2, t + dur);
+    g.gain.setValueAtTime(.0001, t); g.gain.exponentialRampToValueAtTime(vol, t + .012);
+    g.gain.exponentialRampToValueAtTime(.0001, t + dur);
+    o.connect(g).connect(c.destination); o.start(t); o.stop(t + dur + .05);
+  }
+  function noise({ dur = 1, vol = .3, freq = 1000, q = .7, attack = .05, delay = 0 }) {
+    const c = audio(); if (!c) return;
+    if (!noiseBuf) {
+      noiseBuf = c.createBuffer(1, c.sampleRate * 3, c.sampleRate);
+      const d = noiseBuf.getChannelData(0); for (let i = 0; i < d.length; i++) d[i] = Math.random() * 2 - 1;
+    }
+    const t = c.currentTime + delay, s = c.createBufferSource(), bp = c.createBiquadFilter(), g = c.createGain();
+    s.buffer = noiseBuf; bp.type = "bandpass"; bp.frequency.value = freq; bp.Q.value = q;
+    g.gain.setValueAtTime(.0001, t); g.gain.exponentialRampToValueAtTime(vol, t + attack);
+    g.gain.exponentialRampToValueAtTime(.0001, t + dur);
+    s.connect(bp).connect(g).connect(c.destination); s.start(t); s.stop(t + dur + .05);
+  }
+  const sfx = {
+    flip: () => tone({ f: 520, f2: 900, dur: .09, vol: .14, type: "triangle" }),
+    nope: () => { tone({ f: 340, f2: 270, dur: .16, vol: .12, type: "triangle" }); tone({ f: 270, f2: 210, dur: .2, vol: .12, type: "triangle", delay: .15 }); },
+    match: () => [523, 659, 784].forEach((f, i) => tone({ f, dur: .2, vol: .14, type: "triangle", delay: i * .08 })),
+    kick: () => { tone({ f: 170, f2: 45, dur: .2, vol: .55 }); noise({ dur: .07, vol: .25, freq: 2600, attack: .003 }); },
+    cheer: () => {
+      noise({ dur: 2.4, vol: .3, freq: 850, q: .45, attack: .3 });
+      noise({ dur: 1.8, vol: .12, freq: 2200, q: .8, attack: .2, delay: .1 });
+      [523, 659, 784, 1047].forEach((f, i) => tone({ f, dur: .26, vol: .13, type: "triangle", delay: .05 + i * .09 }));
+    },
+    ding: () => { tone({ f: 1318, dur: .35, vol: .12 }); tone({ f: 1760, dur: .45, vol: .08, delay: .07 }); },
+    whistle: () => {
+      const c = audio(); if (!c) return;
+      const t0 = c.currentTime, o = c.createOscillator(), lfo = c.createOscillator(), depth = c.createGain(), g = c.createGain();
+      o.frequency.value = 2900; lfo.frequency.value = 32; depth.gain.value = 140;
+      lfo.connect(depth).connect(o.frequency); o.connect(g).connect(c.destination);
+      g.gain.setValueAtTime(.0001, t0);
+      [[0, .2], [.3, .2], [.6, .75]].forEach(([s, d]) => {
+        g.gain.setValueAtTime(.0001, t0 + s); g.gain.exponentialRampToValueAtTime(.12, t0 + s + .02);
+        g.gain.setValueAtTime(.12, t0 + s + d - .03); g.gain.exponentialRampToValueAtTime(.0001, t0 + s + d);
+      });
+      o.start(t0); lfo.start(t0); o.stop(t0 + 1.5); lfo.stop(t0 + 1.5);
+    }
+  };
+  function say(text) {
+    if (muted) return;
+    try {
+      const s = window.speechSynthesis; if (!s) return;
+      s.cancel(); const u = new SpeechSynthesisUtterance(text); u.rate = .95; u.pitch = 1.25; s.speak(u);
+    } catch (e) {}
+  }
+  function renderMute() {
+    muteBtn.setAttribute("aria-pressed", String(muted));
+    muteBtn.setAttribute("aria-label", muted ? "Sound off" : "Sound on");
+    muteBtn.innerHTML = muted
+      ? '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9h4l5-4v14l-5-4H4z" fill="currentColor"/><path d="M16.5 9.5l5 5M21.5 9.5l-5 5"/></svg>'
+      : '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9h4l5-4v14l-5-4H4z" fill="currentColor"/><path d="M16 8.5a5 5 0 0 1 0 7M18.6 6a8.6 8.6 0 0 1 0 12"/></svg>';
+  }
+  muteBtn.addEventListener("click", () => {
+    muted = !muted;
+    try { localStorage.setItem("cosmo-muted", muted ? "1" : "0"); } catch (e) {}
+    if (muted) { try { window.speechSynthesis && window.speechSynthesis.cancel(); } catch (e) {} } else sfx.flip();
+    renderMute();
+  });
+  document.addEventListener("pointerdown", () => audio(), { once: true });
+
+  /* ---------- Confetti ---------- */
+  const cv = $("confetti"), cx = cv.getContext("2d");
+  const css = (n) => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  const COLORS = ["--sun", "--pop", "--chalk", "--bluebird", "--grass"].map(css);
+  let parts = [], raf = 0;
+  function sizeCanvas() {
+    const d = Math.min(window.devicePixelRatio || 1, 2);
+    cv.width = innerWidth * d; cv.height = innerHeight * d; cx.setTransform(d, 0, 0, d, 0, 0);
+  }
+  function burst(x, y, n = 60, power = 1) {
+    if (reduce) return;
+    for (let i = 0; i < n; i++) parts.push({
+      x, y, vx: (Math.random() - .5) * 10 * power, vy: -(Math.random() * 9 + 3) * power,
+      w: 6 + Math.random() * 6, h: 4 + Math.random() * 4, r: Math.random() * 6, vr: (Math.random() - .5) * .35,
+      c: COLORS[i % COLORS.length], life: 0
+    });
+    if (!raf) raf = requestAnimationFrame(tick);
+  }
+  function tick() {
+    cx.clearRect(0, 0, innerWidth, innerHeight);
+    parts = parts.filter(p => p.y < innerHeight + 30 && p.life < 260);
+    for (const p of parts) {
+      p.vy += .3; p.vx *= .985; p.x += p.vx; p.y += p.vy; p.r += p.vr; p.life++;
+      cx.save(); cx.translate(p.x, p.y); cx.rotate(p.r); cx.fillStyle = p.c;
+      cx.fillRect(-p.w / 2, -p.h / 2, p.w, p.h * Math.abs(Math.cos(p.life * .12))); cx.restore();
+    }
+    raf = parts.length ? requestAnimationFrame(tick) : 0;
+  }
+
+  /* ---------- Board ---------- */
+  function shuffle(a) { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+
+  function renderStars(container, n, on, cls = "slot") {
+    container.innerHTML = "";
+    for (let i = 0; i < n; i++) {
+      container.insertAdjacentHTML("beforeend", starSvg(cls + (i < on ? " on" : "")));
+      if (i < on && container !== starsEl) container.lastElementChild.style.animationDelay = (i * 90) + "ms";
+    }
+  }
+
+  function newGame(p, saved, deckKey) {
+    if (deckKey && DECKS[deckKey]) deckType = deckKey;
+    gameId++; goalQueue = Promise.resolve(); pending = 0;
+    resetPitch();
+    pairs = p; first = null; lock = false;
+    let deck;
+    if (saved && saved.deck && saved.deck.length === p * 2) {
+      deck = saved.deck.map(([a, got]) => ({ a, got: !!got, up: !!got }));
+      goals = deck.filter(c => c.got).length / 2;
+    } else {
+      const picks = shuffle(items().map((_, i) => i)).slice(0, p);
+      deck = shuffle([...picks, ...picks]).map(a => ({ a, got: false, up: false }));
+      goals = 0;
+    }
+    cards = deck;
+    digit.textContent = goals;
+    renderStars(starsEl, pairs, goals);
+    grid.innerHTML = "";
+    cards.forEach((c, i) => {
+      const it = items()[c.a];
+      const b = document.createElement("button");
+      b.type = "button"; b.className = "card" + (c.up ? " up" : "") + (c.got ? " got" : "");
+      b.style.setProperty("--i", i);
+      b.innerHTML = `<span class="inner"><span class="face back"></span><span class="face front" style="--tint:${it.tint}">${it.face}</span></span>${starSvg("badge")}`;
+      b.addEventListener("click", () => tap(c));
+      c.el = b; label(c); grid.appendChild(b);
+    });
+    hint.hidden = goals > 0;
+    kicker.style.visibility = "hidden";
+    renderLevels();
+    layout();
+  }
+  const seg = $("seg"), deckSeg = $("deckSeg");
+  function renderLevels() {
+    seg.innerHTML = SIZES.map(s => `<button type="button" class="lvl" data-p="${s.p}" aria-pressed="${s.p === pairs}" aria-label="${s.word}, ${s.p * 2} cards">${s.word}<span class="pips" aria-hidden="true">${"<i></i>".repeat(s.pips)}</span></button>`).join("");
+    seg.querySelectorAll(".lvl").forEach(b => b.addEventListener("click", () => chooseLevel(+b.dataset.p)));
+    deckSeg.innerHTML = Object.keys(DECKS).map(k => `<button type="button" class="lvl" data-d="${k}" aria-pressed="${k === deckType}" aria-label="${DECK_INFO[k].word}">${DECK_INFO[k].icon}</button>`).join("");
+    deckSeg.querySelectorAll(".lvl").forEach(b => b.addEventListener("click", () => chooseDeck(b.dataset.d)));
+  }
+  function chooseDeck(d) {
+    if (d === deckType || !overlay.hidden) return;
+    const midGame = cards.some(c => c.got) && cards.some(c => !c.got);
+    if (midGame) { showOverlay("menu", { deck: d }); return; }
+    try { localStorage.setItem("cosmo-deck", d); } catch (e) {}
+    sfx.match(); newGame(pairs, null, d);
+  }
+  function chooseLevel(p) {
+    if (p === pairs || !overlay.hidden) return;
+    const midGame = cards.some(c => c.got) && cards.some(c => !c.got);
+    if (midGame) { showOverlay("menu", { p }); return; }
+    try { localStorage.setItem("cosmo-pairs", String(p)); } catch (e) {}
+    sfx.match(); newGame(p);
+  }
+
+  function label(c) { c.el.setAttribute("aria-label", c.up ? items()[c.a].name + (c.got ? ", matched" : "") : "Hidden card"); }
+
+  function layout() {
+    const cs = getComputedStyle(board);
+    const W = board.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+    const H = board.clientHeight - parseFloat(cs.paddingTop) - parseFloat(cs.paddingBottom);
+    const n = cards.length || 12;
+    const gap = Math.max(8, Math.min(16, Math.round(Math.min(W, H) / 38)));
+    let best = { s: 0, c: n };
+    for (let c = 2; c <= n; c++) {
+      if (n % c) continue;
+      const r = n / c, s = Math.min((W - (c - 1) * gap) / c, (H - (r - 1) * gap - 6) / r);
+      if (s > best.s) best = { s, c };
+    }
+    const s = Math.max(56, Math.floor(Math.min(best.s, 170)));
+    grid.style.setProperty("--tile", s + "px");
+    grid.style.setProperty("--gap", gap + "px");
+    grid.style.gridTemplateColumns = `repeat(${best.c}, ${s}px)`;
+    grid.classList.toggle("tiny", s < 80);
+  }
+
+  function tap(c) {
+    if (lock || c.up || c.got || !overlay.hidden) return;
+    c.up = true; c.el.classList.add("up"); label(c); sfx.flip();
+    if (!first) { first = c; return; }
+    const a = first, b = c; first = null; lock = true;
+    if (a.a === b.a) {
+      setTimeout(() => {
+        a.got = b.got = true;
+        [a, b].forEach(x => { x.el.classList.add("got"); label(x); play(x.el, [{ transform: "scale(1)" }, { transform: "scale(1.12)" }, { transform: "scale(1)" }], { duration: T(420), easing: "ease-out" }); });
+        sfx.match();
+        lock = false;
+        celebrate(items()[a.a]);
+      }, T(420));
+    } else {
+      setTimeout(() => {
+        sfx.nope();
+        [a, b].forEach(x => play(x.el, [{ transform: "rotate(0)" }, { transform: "rotate(-6deg)" }, { transform: "rotate(6deg)" }, { transform: "rotate(-3deg)" }, { transform: "rotate(0)" }], { duration: T(380) }));
+      }, T(750));
+      setTimeout(() => {
+        [a, b].forEach(x => { x.up = false; x.el.classList.remove("up"); label(x); });
+        lock = false;
+      }, T(1250));
+    }
+  }
+
+  /* Run an animation without ever waiting on its "finished" signal: the timer decides when it's over. */
+  function play(el, kf, opts) {
+    let anim = null;
+    try { anim = el.animate(kf, opts); } catch (e) {}
+    return { anim, done: sleep((opts.duration || 0) + (opts.delay || 0) + 30) };
+  }
+  const stop = (p) => { try { p && p.anim && p.anim.cancel(); } catch (e) {} };
+
+  /* Goals play one after another while Cosmo keeps flipping cards. */
+  let gameId = 0, goalQueue = Promise.resolve(), pending = 0;
+  function celebrate(item) {
+    const tok = { gid: gameId, dead: false };
+    pending++;
+    goalQueue = goalQueue.then(() => {
+      if (tok.gid !== gameId) return;
+      return Promise.race([
+        score(item, tok).catch(() => {}),
+        sleep(7000).then(() => { tok.dead = true; resetPitch(); })
+      ]);
+    }).then(() => {
+      if (tok.gid !== gameId) return;
+      pending--;
+      if (pending === 0 && cards.length && cards.every(x => x.got)) win();
+    });
+  }
+
+  let flyP = null, diveP = null;
+  function resetPitch() {
+    stop(flyP); stop(diveP); flyP = diveP = null;
+    try { ball.getAnimations && ball.getAnimations().forEach(a => a.cancel()); } catch (e) {}
+    keeper.classList.remove("diving");
+    goalText.classList.remove("show");
+    document.querySelectorAll(".flystar").forEach(el => el.remove());
+    const n = Math.min(goals, starsEl.children.length);
+    for (let i = 0; i < n; i++) starsEl.children[i].classList.add("on");
+  }
+
+  /* ---------- The goal ---------- */
+  async function score(item, tok) {
+    const dead = () => tok.dead || tok.gid !== gameId;
+    const name = item.name;
+    hint.hidden = true;
+    kickerBody.innerHTML = item.kicker;
+    kickerBody.classList.remove("party");
+    kicker.style.visibility = "visible";
+    kickerBody.classList.add("run");
+    await play(kicker, [{ transform: "translateX(-70vw)" }, { transform: "translateX(0)" }],
+      { duration: T(650), easing: "cubic-bezier(.25,.8,.35,1)" }).done;
+    kickerBody.classList.remove("run");
+    if (dead()) return;
+
+    sfx.kick();
+    play(kicker, [{ transform: "rotate(0)" }, { transform: "rotate(20deg) translateX(12%)" }, { transform: "rotate(0)" }], { duration: T(280) });
+    const G = goalEl.getBoundingClientRect(), B = ball.getBoundingClientRect();
+    const side = Math.random() < .5 ? -1 : 1, high = Math.random() < .55;
+    const dx = G.left + G.width / 2 + side * G.width * .3 - (B.left + B.width / 2);
+    const dy = G.top + G.height * (high ? .36 : .7) - (B.top + B.height / 2);
+    flyP = play(ball, [
+      { transform: "translate(0,0) scale(1) rotate(0deg)" },
+      { transform: `translate(${dx * .4}px,${dy * .62}px) scale(.82) rotate(380deg)`, offset: .5 },
+      { transform: `translate(${dx}px,${dy}px) scale(.6) rotate(760deg)` }
+    ], { duration: T(560), easing: "cubic-bezier(.3,.55,.35,1)", fill: "forwards" });
+    keeper.classList.add("diving");
+    const diveTo = `translate(${-side * G.width * .3}px,-6%) rotate(${-side * 78}deg)`;
+    diveP = play(keeper, [{ transform: "translate(0,0) rotate(0deg)" }, { transform: diveTo }],
+      { duration: T(360), delay: T(140), easing: "cubic-bezier(.3,.7,.4,1)", fill: "forwards" });
+    await flyP.done;
+    if (dead()) return;
+
+    goals++;
+    digit.textContent = goals;
+    play(digit, [{ transform: "scale(1)" }, { transform: "scale(1.5)" }, { transform: "scale(1)" }], { duration: T(450), easing: "cubic-bezier(.3,1.6,.5,1)" });
+    play(net, [{ transform: "scale(1,1)" }, { transform: "scale(1.06,1.12)" }, { transform: "scale(.98,.96)" }, { transform: "scale(1,1)" }], { duration: T(520) });
+    crowd.classList.remove("roar"); void crowd.offsetWidth; crowd.classList.add("roar");
+    goalText.classList.remove("show"); void goalText.offsetWidth; goalText.classList.add("show");
+    kickerBody.classList.add("party");
+    try { sfx.cheer(); } catch (e) {}
+    setTimeout(() => say(`${item.call}! Goal!`), 60);
+    try { burst(G.left + G.width / 2, G.top + G.height / 2, 70); } catch (e) {}
+    live.textContent = `Goal! ${item.call} scores. ${goals} ${goals === 1 ? "star" : "stars"}.`;
+
+    await sleep(T(320));
+    if (dead()) return;
+    await flyStar(G, starsEl.children[goals - 1]);
+    await sleep(reduce ? 400 : 600);
+    if (dead()) return;
+
+    goalText.classList.remove("show");
+    await play(ball, [{ opacity: 1 }, { opacity: 0 }], { duration: T(180), fill: "forwards" }).done;
+    if (dead()) return;
+    stop(flyP); stop(diveP); flyP = diveP = null;
+    try { ball.getAnimations && ball.getAnimations().forEach(a => a.cancel()); } catch (e) {}
+    play(ball, [{ opacity: 0, transform: "scale(.3)" }, { opacity: 1, transform: "scale(1)" }], { duration: T(320), easing: "cubic-bezier(.3,1.6,.5,1)" });
+    await play(keeper, [{ transform: diveTo }, { transform: "translate(0,0) rotate(0deg)" }], { duration: T(380), easing: "ease-in-out" }).done;
+    keeper.classList.remove("diving");
+  }
+
+  async function flyStar(from, slot) {
+    if (!slot) return;
+    const s = slot.getBoundingClientRect(), size = 44;
+    const x0 = from.left + from.width / 2 - size / 2, y0 = from.top + from.height / 2 - size / 2;
+    const el = document.createElement("div");
+    el.className = "flystar"; el.innerHTML = starSvg(""); el.style.left = x0 + "px"; el.style.top = y0 + "px";
+    document.body.appendChild(el);
+    const dx = s.left + s.width / 2 - (x0 + size / 2), dy = s.top + s.height / 2 - (y0 + size / 2);
+    await play(el, [
+      { transform: "translate(0,0) scale(.2) rotate(0deg)" },
+      { transform: "translate(0,-24px) scale(1.5) rotate(120deg)", offset: .3 },
+      { transform: `translate(${dx}px,${dy}px) scale(${s.width / size}) rotate(360deg)` }
+    ], { duration: T(820), easing: "cubic-bezier(.5,0,.3,1)", fill: "forwards" }).done;
+    el.remove(); slot.classList.add("on");
+    try { sfx.ding(); } catch (e) {}
+  }
+
+  /* ---------- Win + menu ---------- */
+  async function win() {
+    await sleep(T(250));
+    sfx.whistle();
+    setTimeout(() => say("Full time! Cosmo wins the cup!"), reduce ? 0 : 1200);
+    [.2, .5, .8].forEach((f, i) => setTimeout(() => burst(innerWidth * f, innerHeight * .45, 90, 1.25), i * 220));
+    showOverlay("win");
+  }
+
+  function showOverlay(mode, pre) {
+    pre = pre || {};
+    picked = pre.p || pairs;
+    pickedDeck = pre.deck || deckType;
+    const deckHtml = `<div class="picker two" id="deckPick" role="group" aria-label="Cards">${Object.keys(DECKS).map(k =>
+      `<button type="button" class="pick" data-d="${k}" aria-pressed="${k === pickedDeck}">${DECK_INFO[k].big}<span>${DECK_INFO[k].word}</span></button>`).join("")}</div>`;
+    const levelHtml = `<div class="picker" id="levelPick" role="group" aria-label="Level">${SIZES.map(s =>
+      `<button type="button" class="pick" data-p="${s.p}" aria-pressed="${s.p === picked}"><b>${s.word}</b><span>${s.p * 2} cards</span></button>`).join("")}</div>`;
+    if (mode === "win") {
+      panel.setAttribute("aria-label", "You won");
+      panel.innerHTML = `<div class="trophy" aria-hidden="true">🏆</div>
+        <h2>Cosmo wins the cup!</h2>
+        <p>${goals} goals and ${goals} stars!</p>
+        <div class="stars" id="panelStars"></div>
+        <div class="label">Next match</div>${deckHtml}${levelHtml}
+        <button type="button" class="play" id="playBtn">Play again</button>`;
+      renderStars($("panelStars"), goals, goals);
+    } else {
+      panel.setAttribute("aria-label", "New game");
+      let title = "New match";
+      if (pre.p) title = "Start a " + SIZES.find(s => s.p === pre.p).word + " match?";
+      if (pre.deck) title = "Play with " + DECK_INFO[pre.deck].word.toLowerCase() + "?";
+      const asking = !!(pre.p || pre.deck);
+      panel.innerHTML = `<h2>${title}</h2>
+        ${asking ? "<p>This match will start again from 0.</p>" : ""}
+        <div class="label">Cards</div>${deckHtml}
+        <div class="label">Level</div>${levelHtml}
+        <button type="button" class="play" id="playBtn">Kick off!</button>
+        <button type="button" class="textbtn" id="backBtn">Back to the game</button>`;
+      $("backBtn").addEventListener("click", hideOverlay);
+    }
+    panel.querySelectorAll("#levelPick .pick").forEach(b => b.addEventListener("click", () => {
+      picked = +b.dataset.p; sfx.flip();
+      panel.querySelectorAll("#levelPick .pick").forEach(x => x.setAttribute("aria-pressed", String(+x.dataset.p === picked)));
+    }));
+    panel.querySelectorAll("#deckPick .pick").forEach(b => b.addEventListener("click", () => {
+      pickedDeck = b.dataset.d; sfx.flip();
+      panel.querySelectorAll("#deckPick .pick").forEach(x => x.setAttribute("aria-pressed", String(x.dataset.d === pickedDeck)));
+    }));
+    $("playBtn").addEventListener("click", () => {
+      try { localStorage.setItem("cosmo-pairs", String(picked)); localStorage.setItem("cosmo-deck", pickedDeck); } catch (e) {}
+      sfx.match(); hideOverlay(); newGame(picked, null, pickedDeck);
+    });
+    overlay.hidden = false;
+    setTimeout(() => { const b = $("playBtn"); b && b.focus({ preventScroll: true }); }, 50);
+  }
+  function hideOverlay() { overlay.hidden = true; }
+  $("menuBtn").addEventListener("click", () => showOverlay("menu"));
+  document.addEventListener("keydown", e => { if (e.key === "Escape" && !overlay.hidden && cards.some(c => !c.got)) hideOverlay(); });
+
+  addEventListener("resize", () => { layout(); sizeCanvas(); });
+
+  /* ---------- Boot ---------- */
+  const hot = window.claude && window.claude.hot;
+  if (hot && hot.snapshot) hot.snapshot(() => ({ pairs, deckType, deck: cards.map(c => [c.a, c.got ? 1 : 0]) }));
+  const start = (data) => {
+    renderMute(); sizeCanvas();
+    const d = data || {};
+    const dt = DECKS[d.deckType] ? d.deckType : "animals";
+    const resumable = d.deck && SIZES.some(s => s.p === d.pairs) && d.deck.some(x => !x[1]) && d.deck.every(x => x[0] < DECKS[dt].length);
+    newGame(resumable ? d.pairs : pairs, resumable ? d : null, resumable ? dt : deckType);
+  };
+  if (hot && hot.ready) hot.ready(start); else start((hot && hot.data) || {});
+})();
+</script>
+</body>
+</html>

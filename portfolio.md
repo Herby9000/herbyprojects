@@ -6,6 +6,7 @@ Herby Projects collects practical personal software: family tools, concise news 
 
 ## Projects
 
+- [Cosmo's Animal Cup](https://herbyprojects.com/cosmos-animal-cup/) — a cheerful football memory game with animal and number decks, penalty kicks, stars, sound, and confetti. [Source](https://github.com/Herby9000/herbyprojects/tree/main/cosmos-animal-cup).
 - [North Star Tech Challenge](https://herby9000.github.io/herbyprojects/projects/canadian-tech-challenge/) — 211 sourced evergreen questions across seven categories, plus a separate rotating weekly Canadian-tech news edition. [Source](https://github.com/Herby9000/herbyprojects/tree/main/projects/canadian-tech-challenge).
 - [The Daily Seven](https://three-smiles.herbyprojects.com/news/) — a calm daily briefing across politics, technology, economics, and sport. An ungated public summary is available; the personal full reader remains private. [Source](https://github.com/Herby9000/herbyprojects/tree/main/news).
 - [Three Smiles](https://herbyprojects.com/projects/three-smiles) — a private daily gratitude and check-in app for Daisy and Charlie. The public project page explains the product without exposing private entries. [Source](https://github.com/Herby9000/three-smiles).

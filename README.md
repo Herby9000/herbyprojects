@@ -19,6 +19,7 @@ The apps may be personal, but the code is public. Private user data, credentials
 
 ## Projects
 
+- [Cosmo's Animal Cup](https://herby9000.github.io/herbyprojects/cosmos-animal-cup/)
 - [North Star Tech Challenge](https://herby9000.github.io/herbyprojects/projects/canadian-tech-challenge/)
 - [The Daily Seven](https://herby9000.github.io/herbyprojects/news/)
 - [Three Smiles](https://github.com/Herby9000/three-smiles)

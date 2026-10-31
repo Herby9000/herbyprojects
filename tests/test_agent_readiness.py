@@ -62,6 +62,7 @@ class AgentReadinessTests(unittest.TestCase):
         "sitemap.xml",
         "assets/herby-projects-og.svg",
         "assets/herby-projects-og.png",
+        "cosmos-animal-cup/index.html",
     }
 
     def parse_html(self, relative_path):
@@ -134,13 +135,26 @@ class AgentReadinessTests(unittest.TestCase):
                 "https://herbyprojects.com/projects/three-smiles",
                 "https://herby9000.github.io/herbyprojects/projects/canadian-tech-challenge/",
                 "https://herby9000.github.io/herbyprojects/projects/ark-mobile/",
+                "https://herbyprojects.com/cosmos-animal-cup/",
             },
         )
         last_modified = {
             node.text
             for node in root.findall("{http://www.sitemaps.org/schemas/sitemap/0.9}url/{http://www.sitemaps.org/schemas/sitemap/0.9}lastmod")
         }
-        self.assertEqual(last_modified, {"2026-08-30", "2026-09-01", "2026-09-12"})
+        self.assertEqual(last_modified, {"2026-08-30", "2026-09-01", "2026-09-12", "2026-10-31"})
+
+    def test_cosmos_animal_cup_is_published_and_listed(self):
+        game = (ROOT / "cosmos-animal-cup/index.html").read_text(encoding="utf-8")
+        homepage = (ROOT / "index.html").read_text(encoding="utf-8")
+        portfolio = (ROOT / "portfolio.md").read_text(encoding="utf-8")
+        readme = (ROOT / "README.md").read_text(encoding="utf-8")
+
+        self.assertIn("<title>Cosmo's Animal Cup</title>", game)
+        self.assertIn("Cosmo's Animal Cup", homepage)
+        self.assertIn("/cosmos-animal-cup/", homepage)
+        self.assertIn("Cosmo's Animal Cup", portfolio)
+        self.assertIn("Cosmo's Animal Cup", readme)
 
     def test_llms_guidance_explains_when_and_how_to_use_the_site(self):
         guidance = (ROOT / "llms.txt").read_text(encoding="utf-8")
