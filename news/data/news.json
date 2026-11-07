@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-07T20:13:08.790209Z",
+  "generatedAt": "2026-11-07T23:37:57.951446Z",
   "topStoryIds": [
     "2242c242fda3e9b8",
     "bc933cad6785e671",
+    "adbf491f1111e620",
     "e708390d23d46870",
     "d1e839b1f604924c",
     "3527b67b9be29c14",
-    "408cd7880bb1b652",
     "72ee9b0b52c18e25"
   ],
   "sectionStoryIds": {
@@ -15,8 +15,7 @@
       "2242c242fda3e9b8",
       "61239428d0ab4c72",
       "d1e839b1f604924c",
-      "408cd7880bb1b652",
-      "914a247c8d84b954"
+      "408cd7880bb1b652"
     ],
     "Tech": [
       "bc933cad6785e671",
@@ -29,29 +28,20 @@
     "Economics": [
       "e708390d23d46870",
       "63b81e64942f49e0",
-      "c3384774f933221a",
-      "636f1da8dfe9a8f3",
-      "b4ab70fcfb065236",
-      "121304500ffa6bc5",
-      "cc3f7fc89a1d9e8e",
-      "90c19cc9761d6a1b",
-      "2ae0c42024b4b6c2",
-      "b15b7c4902b9c9c4",
-      "7871e16938729b82",
-      "ad542cbaad5a0c8e"
+      "adbf491f1111e620"
     ],
     "Sports": [
       "63230e1650611e8b",
       "b700099f2a3ba1a4",
+      "7aab426b44e9805f",
       "e9678710b8278a33",
       "72a92a6caeec44da",
-      "7aab426b44e9805f",
       "d85b1b6180ab4b6a",
       "026effc090c2eb5a",
       "6493073195baf3a5",
       "5289a3fb773b13ea",
-      "1a0e9594e90cb5af",
-      "296d6a8b5d34f2b8",
+      "0a4fcb9e2ca138cb",
+      "ba8ad41b7b22e67d",
       "303425effdb6964a"
     ],
     "Editorial": [
@@ -120,6 +110,33 @@
       "body": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.\n\nAn Estonian newspaper recently revealed that a British soldier disobeyed a direct order to remove the SIM card from his cellphone before being deployed to a part of Estonia, approximately 90 miles west of the Russian border.\n\nAs a result of his refusal to engage in this element of operational security (opsec), the soldier, Daniel Barton-Kennedy, had his phone hacked, and nude photos of himself were stolen and used as blackmail against him.\n\nEventually, Barton-Kennedy was court-martialed for disobeying a lawful command, pled guilty, was reduced in rank, and ordered to serve 10 months in detention.\n\nAccording to a 21-page British appeals court document shared with Ars Technica by Eesti Ekspress, the Estonian newspaper that first reported on this saga, the story begins in January 2026.\n\nAt the time, Barton-Kennedy was a corporal, with over seven years of service, serving in the 1st Battalion of the Duke of Lancaster Regiment of the British Army.\n\nHis unit was deployed to participate in “Exercise Eastern Warrior” in Tapa, Estonia, roughly halfway between Tallinn, the capital city, and the Estonia-Russia border.\n\nWhile in the United Kingdom, on January 7, Barton-Kennedy, along with other members of his unit, were briefed on their orders and given specific instructions to “remove SIM cards and switch off location settings and to use a trusted virtual private network on all personal electronic devices.”\n\nOnce the unit arrived in Estonia, days later, they were given further briefings and reminders of this policy. Despite this, Barton-Kennedy ignored the instruction.\n\nOn January 19, Barton-Kennedy informed his platoon commander that he had received a message “from an unknown party who had acquired nude photographs of him from the photo section of his mobile phone and had identified him on social media.”\n\nBarton-Kennedy initially acquiesced to paying the attacker 100 British pounds ($133) but balked when he was asked to pay 250 British pounds ($333), and only then informed his platoon commander what had happened.\n\nEventually, Barton-Kennedy was court-martialed and pled guilty at a hearing on July 30.\n\nDuring that process, according to the court filing, Barton-Kennedy understood the orders that were given to him at the time, but asked the court to “consider the personal circumstances” that he faced at the time. Without his phone, he told the court, he could not reach his daughter on her birthday, nor his pregnant partner.\n\nIn a written statement, Barton-Kennedy said he was stunned when he received the first blackmail message.\n\n“Despite still being in a state of shock and uncertainty, I recognised that I had a duty to report the compromise without any further delay,” he wrote.\n\nAdditionally, he said that he “deeply regrets” the incident and added that serving in the British Army “has been one of the greatest privileges of my life.”\n\nBarton-Kennedy appealed the sentence, which was denied in August 2026.\n\nIn response to an inquiry for comment, Lt. Col. EP Mackie, a British Army spokesperson, told Ars in a statement that the security measures imposed are meant to protect the safety of military personnel.\n\n“Any breaches of Army security measures that might compromise personal safeguarding or operational security will be dealt with swiftly, and offending personnel can expect uncompromising disciplinary action,” he wrote.",
       "imageWidth": 1024,
       "imageHeight": 648
+    },
+    {
+      "id": "adbf491f1111e620",
+      "title": "Can New Zealand's new government win over disillusioned voters?",
+      "summary": "The mood is low, and Kiwi's faith in politics even lower - with voters deserting the main parties at the polls.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-11-07T21:36:16Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 1697,
+      "readingMinutes": 8,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nNew Zealand election 'too close to call' - so who's won?\n\nPublished 2 hours ago\n\nNew Zealand voted in a new government as fog choked the capital, Wellington, on Saturday - and the mood was as palpable as the grey weather.\n\n\"It's pretty flat,\" 21-year-old Imogen Vlutger says. \"There's this kind of apathy and a bit of dread.\"\n\n\"Tired. I think we're all tired,\" Symone, 28, admits.\n\n\"I didn't even vote,\" one man in his 40s sheepishly confessed. He couldn't bring himself to tick any of the boxes, he explained, declining to chat further.\n\n\"Wellington's a bit of a bubble,\" another voter says, expressing a caveat I heard often, before describing feeling disillusioned.\n\nBut polling shows this is a pervasive sentiment across the country: the national mood is low and faith in politics is even lower.\n\nMore than half the country no longer sees it as a land of opportunity, a recent study found, while a similar portion fears that the future looks even worse.\n\nMany Kiwis feel the economy is in ruins, there are no jobs, the cost of living has become sky high, the sense of community that used to be a source of national pride is breaking down and there's no sense of genuine progress on policy solutions.\n\nA record number of them are abandoning ship in search of brighter futures elsewhere.\n\nSaturday's election also saw a record number of voters desert the two major parties, giving neither a clear mandate.\n\nBut it brought new highs for parties across the spectrum: the left-leaning Greens, the right-wing libertarian Act Party and the centrist Opportunity Party – the latter of which had never won a seat in parliament before but could now hold the balance of power with seven.\n\nThe Opportunity Party says it is willing to work with either of the major parties\n\n\"You have voted to change New Zealand politics for good,\" the party's ecstatic leader Quilae Wong told Kiwis on election night. \"I personally came into this because I was frustrated at the slow pace of change.\"\n\nIt will likely be weeks before we know exactly who will make up the governing coalition and what deals have been made to form it.\n\nBut this is only the first of many challenges facing whoever is the next prime minister of a country at a crossroads.\n\nA perfect storm\n\nNew Zealand hasn't always felt like this.\n\nFor a long time, the country was viewed as a land of milk and honey – literally – for those who worked hard, with its people ranking amongst the most positive in the world.\n\nA satisfying career, access to quality healthcare, and a close network of family and friends – which research suggests are the three most important building blocks of a happy life – were all there for the taking, University of Auckland Prof Robert MacCulloch says.\n\n\"The lifestyle was good,\" the world-leader in the study of happiness economics tells the BBC. \"You weren't the highest paid, but you could get by nicely.\"\n\nNot anymore.\n\nMany young people like Michael Dawson (left) feel like they can't get ahead\n\nMany who spoke to the BBC said the country's decline accelerated into a dive during the Covid pandemic.\n\nUnemployment is now at an 11-year high and rising. For Kiwis aged under 24, things haven't been this bad in three decades: jobs are so scarce that one in three either cannot get enough work or have none at all.\n\nMichael Dawson says he did everything he thought he was supposed to: finished school, studied a trade and obtained a qualification, and has applied for dozens of jobs.\n\nBut it's been a year now and the job market is so dire he hasn't had a single interview.\n\n\"It has sucked. A lot... I'm somewhat cynical with the way I think [about the future] now,\" the 20-year-old says.\n\nZainab Ali, chief executive of support service Youth Inspire, has never seen demand so high, with waitlists for its employment aid workshops stretching into the hundreds.\n\nThe young people who do make it through their doors on the outskirts of Wellington are disheartened.\n\n\"The things we used to hear from everyone's grumpy uncle around the Christmas table sometimes, our young people are now starting to give us that same feedback: like, 'What's the point?'\"\n\nSam says he's flirted with a move to Australia\n\nMeanwhile, household electricity bills have jumped drastically, partly driven by global supply shocks. New Zealand remains one of the least affordable places on Earth to rent or buy a home. High inflation means every dollar is having to stretch further.\n\nThe island nation produces enough food to feed its population eight times over, but about a quarter of adults are skipping meals because the price of groceries – set by a supermarket duopoly – is among the highest in the developed world.\n\nAnd the headlines are full of healthcare crises: long waiting lists, chronic understaffing, crumbling health infrastructure and climbing costs for patients. Few stories have captured the state of the system like the death of a man who collapsed in an emergency department toilet after a nine-hour wait in July.\n\n\"There's a segment of the population that are facing real material hardship... and then there's another segment of New Zealanders that are quite anxious that they could be next,\" political scientist Luke Oldfield, from Victoria University of Wellington, says.\n\nIncreasingly polarised public debate – around topics like Māori rights and the Treaty of Waitangi, healthcare for LGBT+ people and immigration – have added to the mental load for many in those communities.\n\n\"There's been a few groups feeling like they're being used as a political football,\" Dr Lara Greaves, who studies Indigenous politics, says.\n\nThis perfect storm is driving about 180 people to leave the country every day – a record-breaking exodus that is dividing families, shrinking communities and draining talent pools.\n\nSiblings Sam and Emily tell the BBC that they love New Zealand but find it hard to keep finding reasons to stay. Their friends are leaving en masse and even their parents have considered moving to Australia.\n\n\"It's not just that you're being rewarded for going to Australia, it's that you're kind of actively being punished for staying here,\" Sam says.\n\nStu thinks New Zealand is on its way back up\n\nThere are still large parts of the country that feel differently, though.\n\nAt the nation's largest livestock saleyard in the town of Fielding, where farmers from all over the island have gathered, Stu Morton says the last year was the best he's had in his 30-year career.\n\nThe agriculture industry - which makes up about 3% of New Zealand's GDP - was struggling under the previous Labour government's emissions reductions scheme, he adds, but has turned a corner under the National Party.\n\nHe believes the rest of the economy will follow suit.\n\n\"We've been through those times where you're questioning 'Where's the future?'\n\n\"What helps is having a stable government... [and] it comes down to a positive attitude - appreciating that what you've got is actually okay.\"\n\nHow did we get here?\n\nMany of these issues affecting New Zealand are global trends - and it's undeniable that Kiwis' standard of living is better than many others.\n\nBut these issues are having a corrosive impact on its national identity.\n\n\"It leads to a crisis of confidence about what New Zealand is and where it's going,\" Helen Clark, who was prime minister from 1999 to 2008, tells the BBC.\n\nHer foundation surveys New Zealanders every year about social cohesion, and its most recent report found Kiwis - in particular young poeple - feel far more isolated than they did a generation ago, attitudes towards multiculturalism are souring and the population is becoming less hopeful.\n\nFaith in institutions and leaders has taken an alarming turn: only two out of five New Zealanders trust the government to do the right thing, while less than half of the country trusts the courts.\n\n\"There's a feeling that, really, there's no-one who cares,\" Clark says.\n\nNational Party leader Christopher Luxon is seeking a second term\n\nThe transformation former Labour prime minister Jacinda Ardern promised on issues like healthcare and housing when she was elected in 2017 never eventuated. Many other achievements - for example world leading smoking reforms, emissions reduction policies or Maori language initiatives - have been wound back by her successors.\n\nHer legacy is dominated by polarising Covid decisions, as is Chris Hipkins', who was health minister before his eight months in the top job after Ardern's resignation .\n\nThe National Party came to power in 2023 promising to \"get our country back on track\" and rebuild the economy.\n\n\"You'd have to say they've had very limited success,\" political commentator Grant Duncan says. \"And the Luxon government can only blame the previous government for so long.\"\n\nNational delivered the education overhaul it pledged, but the biggest moment of their tenure was the massive hikoi – protest march – led by Māori over their coalition partner's unpopular bill to redefine the Treaty of Waitangi. And then came the two leadership challenges Christopher Luxon fought off in the past six months.\n\nFormer PM Chris Hipkins has been leader of New Zealand's centre-left Labour Party since January 2023\n\nThere's a sense Labour had too much ambition, much of it costly and unfulfilled, while National doesn't have enough, having spent much of its time and effort wrangling their own flank.\n\nBoth governments say their plans for the country were stymied by crises out of their control – such as Covid, the Iran war and US trade antagonism.\n\nBut Duncan says that's not cutting it with voters. He's never seen the country quite like this before: \"Neither of the parties has been able to field a really strong, inspiring leader. Both of them have a track record of disappointing results.\"\n\nNo matter who ends up taking the top job, Sam says he's not convinced much will change.\n\n\"It does just feel stale... a lot of the population probably feels like we could do a bit better,\" he says. With a wry smile, he adds: \"I don't think it helps that they're two white guys named Chris.\"\n\nRelated topics\n\nAsia\n\nNew Zealand\n\nCost of Living",
+      "imageWidth": 1200,
+      "imageHeight": 675
     },
     {
       "id": "e708390d23d46870",
@@ -203,33 +220,6 @@
       "imageHeight": 1440
     },
     {
-      "id": "408cd7880bb1b652",
-      "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-      "summary": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-11-06T17:19:38Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 809,
-      "readingMinutes": 4,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/67af/live/52b739e0-da04-11f1-84c1-dbcae60402d7.jpg",
-      "body": "Published 6 November 2026\n\nThe naming of smoky bacon-flavoured crisps has become the latest political headache to emerge from the government's bid for closer ties with the EU.\n\nThe government is negotiating a deal on food standards in a bid to cut costs for British companies trading with Europe.\n\nLabour ministers have been keen to talk up the potential economic benefits of the agreement, which could be announced at a summit later this month.\n\nBut the deal's requirement for Britain to adopt EU food rules in a wide range of areas has threatened to reignite sovereignty debates from the Brexit era.\n\nLabour ministers have been keen to sidestep talking about the impact of alignment in particular sectors, instead stressing the overall economic boost it expects the food deal to bring.\n\nOn Thursday, Environment Secretary Angela Eagle told a radio presenter he should \"get a life\" when he asked about the potential impact of the new rules on snacks, such as smoky bacon crisps.\n\nBut it highlights the political dangers for the government of realigning with regulations that British politicians have not been able to shape, with the Conservatives and Reform UK keen to pounce on cases showing Britain to be a \"rule taker\" from Brussels.\n\nIt is not the first regulatory skirmish over smoky bacon crisps - following previous headlines over how the well-loved British flavour could be affected by an EU decision in 2024 to phase out a number of artificial smoke flavourings.\n\nNow, the flavour name itself has been called into question by a separate EU attempt to restrict how descriptions of meat are used to market food.\n\nUnder rules adopted this summer, the EU plans to restrict the use of 31 terms, including bacon, drumstick and steak, to products that contain meat, claiming consumers could be confused by plant-based alternatives using the same names.\n\nThe European snack industry is seeking clarity on how the rules, which will also cover terms such as pork, chicken and beef, would apply to meat-flavoured crisps, including those flavoured without the use of any meat extracts.\n\nThe UK government has said it expects the new regulations to be in scope of its proposed food standards deal.\n\nThis means they would also apply to companies marketing their products in Britain, which is among the biggest consumers of crisps in Europe, according to analysts Euromonitor. , external\n\nUncertainty over rules\n\nIt has raised the prospect that crisps with names such as smoky bacon and roast chicken could have to be relabelled to be sold in British shops, although much remains unclear about how the rules will apply in practice.\n\nThe new EU rules, which will not come into force until after August 2029, will allow the European Commission to create exemptions for meaty names with an established long-term use to describe other types of food product.\n\nThe Brussels-based body is yet to set out how it plans to use this power, or what it means for snacks.\n\nA group of conservative German MEPs are also seeking a specific carve-out for meat names in snacks and sauces in separate legislation , external currently making its way through the European Parliament.\n\nThe Food and Drink Federation, which represents British crispmakers including Walkers and KP Snacks, has been supportive of the government's bid to reach a food deal due to its potential to reduce trade barriers with Europe.\n\nBut it has highlighted the new rules as an example of where it wants the government to work with industry to ensure UK interests are reflected in EU decision making.\n\n\"Meat protections are an example of a new EU rule that UK businesses will need to comply with, but which the UK was not involved in developing,\" added the body's chief scientific officer Kate Halliwell.\n\n'Unintended consequences'\n\nThe Potato Processors' Association, which also represents a number of major snackmakers, said it was monitoring the situation closely and wanted to see clarification of how the rules could affect its members.\n\nVanessa Richardson, its deputy director general, said her association supported moves to reduce \"unnecessary barriers\" in the trade of food products.\n\nBut she added it was important that the government's deal is implemented in a way that \"avoids unintended consequences for established product descriptions which consumers clearly understand as referring to a flavour\".\n\nThe Department for Environment, Food & Rural Affairs (Defra) says it stands ready to help British snack businesses prepare for the impact of the new EU rules.\n\nIt is not yet clear what a British version of the rules would look like, or whether they would need to apply from 2029 alongside the new European regulations.\n\nRelated topics\n\nBrexit\n\nCrisps\n\nMore on this story\n\nUK and EU agree draft deal to scrap Brexit red tape over food exports Published 3 days ago\n\nNo more veggie burgers? EU parliament votes to ban meat names for plant-based foods Published 8 October 2025",
-      "imageWidth": 1200,
-      "imageHeight": 675
-    },
-    {
       "id": "72ee9b0b52c18e25",
       "title": "Google Forcing AI on Students Is BS",
       "summary": "Google is rightfully facing blowback for forcing K-12 schools to enable AI if they wanted to keep using Google search. The company quickly backtracked and decoupled and turned off the services by default, but made it clear search will continue to be just another AI chatbot. This mandate forces an ultimatum on educators: accept generative AI or de-google your school. Students, teachers, and parents across the U.S. are now years into an argument about how schools should respond to the growth of AI-enabled tools. Google decided to skip this debate and take this choice from schools. In August it activated AI chatbot Gemini for 150 million K-12 students on Google Classroom, leaving educators scrambling to respond . A few months later, Google introduced a new way to turn it off — but now administrators would also be turning off Google search . Google walked this back somewhat, clarifying that Gemini, Gemini notebook, and Search will have their own controls and will be off by default. But because of Google’s broader approach to force AI on all search users, this change is still an example of a tech monopolist pushing unwanted changes into the classroom. Tying AI to Search It’s no secret that the biggest companies in AI are operating at a huge loss , in the hope they can follow Uber’s enshittification playbook . Offer a cheap convenience at a major loss until old systems atrophy, then flip the script to reduce wages and raise consumer costs—whether that’s paying with cash or with data. This puts Google in the odd position of an incumbent, with around 90% of search traffic . It needs to not only make good on its own AI investment, but protect its dominance from new AI tools. It’s not just enough to offer its own AI mode, it needs to turn search into AI mode, while engaging in clumsy self-preferencing that is eating its own ad revenue . The problem with this approach is the public is split on AI, to put it mildly. Some users will welcome these changes, but the rest are stuck in an all-or-nothing bargain. Anyone concerned about the accuracy of AI overviews or their impact on click-through rates for online communities and small publishers can just deal with it . The bet is any inconvenience in switching to an alternative is enough to keep you trapped. Google can and should offer a way to disable AI overviews. Smaller services like DuckDuckGo* and Brave search have…",
@@ -284,27 +274,31 @@
       "imageHeight": 630
     },
     {
-      "id": "914a247c8d84b954",
-      "title": "Valencia vs Real Madrid LIVE: La Liga",
-      "summary": "Follow updates from the La Liga clash, including the build-up, analysis and live text commentary of the match.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-11-07T17:00:12Z",
+      "id": "408cd7880bb1b652",
+      "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+      "summary": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo",
+      "source": "BBC Politics",
+      "publisher": "BBC",
+      "published": "2026-11-06T17:19:38Z",
       "category": "Politics",
-      "region": "World",
+      "region": "UK",
       "labels": [
         "Politics",
-        "World"
+        "UK"
       ],
-      "sourceWeight": 4,
+      "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": true
+      "wordCount": 809,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/67af/live/52b739e0-da04-11f1-84c1-dbcae60402d7.jpg",
+      "body": "Published 6 November 2026\n\nThe naming of smoky bacon-flavoured crisps has become the latest political headache to emerge from the government's bid for closer ties with the EU.\n\nThe government is negotiating a deal on food standards in a bid to cut costs for British companies trading with Europe.\n\nLabour ministers have been keen to talk up the potential economic benefits of the agreement, which could be announced at a summit later this month.\n\nBut the deal's requirement for Britain to adopt EU food rules in a wide range of areas has threatened to reignite sovereignty debates from the Brexit era.\n\nLabour ministers have been keen to sidestep talking about the impact of alignment in particular sectors, instead stressing the overall economic boost it expects the food deal to bring.\n\nOn Thursday, Environment Secretary Angela Eagle told a radio presenter he should \"get a life\" when he asked about the potential impact of the new rules on snacks, such as smoky bacon crisps.\n\nBut it highlights the political dangers for the government of realigning with regulations that British politicians have not been able to shape, with the Conservatives and Reform UK keen to pounce on cases showing Britain to be a \"rule taker\" from Brussels.\n\nIt is not the first regulatory skirmish over smoky bacon crisps - following previous headlines over how the well-loved British flavour could be affected by an EU decision in 2024 to phase out a number of artificial smoke flavourings.\n\nNow, the flavour name itself has been called into question by a separate EU attempt to restrict how descriptions of meat are used to market food.\n\nUnder rules adopted this summer, the EU plans to restrict the use of 31 terms, including bacon, drumstick and steak, to products that contain meat, claiming consumers could be confused by plant-based alternatives using the same names.\n\nThe European snack industry is seeking clarity on how the rules, which will also cover terms such as pork, chicken and beef, would apply to meat-flavoured crisps, including those flavoured without the use of any meat extracts.\n\nThe UK government has said it expects the new regulations to be in scope of its proposed food standards deal.\n\nThis means they would also apply to companies marketing their products in Britain, which is among the biggest consumers of crisps in Europe, according to analysts Euromonitor. , external\n\nUncertainty over rules\n\nIt has raised the prospect that crisps with names such as smoky bacon and roast chicken could have to be relabelled to be sold in British shops, although much remains unclear about how the rules will apply in practice.\n\nThe new EU rules, which will not come into force until after August 2029, will allow the European Commission to create exemptions for meaty names with an established long-term use to describe other types of food product.\n\nThe Brussels-based body is yet to set out how it plans to use this power, or what it means for snacks.\n\nA group of conservative German MEPs are also seeking a specific carve-out for meat names in snacks and sauces in separate legislation , external currently making its way through the European Parliament.\n\nThe Food and Drink Federation, which represents British crispmakers including Walkers and KP Snacks, has been supportive of the government's bid to reach a food deal due to its potential to reduce trade barriers with Europe.\n\nBut it has highlighted the new rules as an example of where it wants the government to work with industry to ensure UK interests are reflected in EU decision making.\n\n\"Meat protections are an example of a new EU rule that UK businesses will need to comply with, but which the UK was not involved in developing,\" added the body's chief scientific officer Kate Halliwell.\n\n'Unintended consequences'\n\nThe Potato Processors' Association, which also represents a number of major snackmakers, said it was monitoring the situation closely and wanted to see clarification of how the rules could affect its members.\n\nVanessa Richardson, its deputy director general, said her association supported moves to reduce \"unnecessary barriers\" in the trade of food products.\n\nBut she added it was important that the government's deal is implemented in a way that \"avoids unintended consequences for established product descriptions which consumers clearly understand as referring to a flavour\".\n\nThe Department for Environment, Food & Rural Affairs (Defra) says it stands ready to help British snack businesses prepare for the impact of the new EU rules.\n\nIt is not yet clear what a British version of the rules would look like, or whether they would need to apply from 2029 alongside the new European regulations.\n\nRelated topics\n\nBrexit\n\nCrisps\n\nMore on this story\n\nUK and EU agree draft deal to scrap Brexit red tape over food exports Published 4 days ago\n\nNo more veggie burgers? EU parliament votes to ban meat names for plant-based foods Published 8 October 2025",
+      "imageWidth": 1200,
+      "imageHeight": 675
     },
     {
       "id": "e4cf48010d1554e8",
@@ -407,258 +401,6 @@
       "imageHeight": 630
     },
     {
-      "id": "c3384774f933221a",
-      "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-      "summary": "Base rate increases from 3.75% and Bank governor signals another rise in near future to combat rising inflation Analysis: Interest rate rise in midst of cost of living crisis will leave many incredulous The Bank of England has raised interest rates for the first time in three years and warned of another increase to combat inflationary pressure unleashed by the Iran war. Eight members of the Bank’s monetary policy committee (MPC) voted for the rise, which takes the base rate from 3.75% to 4%. The ninth member, Catherine Mann, preferred a more dramatic half-point increase. Continue reading...",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-11-05T18:00:28Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 872,
-      "readingMinutes": 4,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/d6ebd9b4d868a9da787c0f6b207548c78ad7ab28/586_197_4797_3840/master/4797.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e996317f2120a46e3e544eb8ce59fc2c",
-      "body": "Base rate increases from 3.75% and Bank governor signals another rise in near future to combat rising inflation\n\nAnalysis: Interest rate rise in midst of cost of living crisis will leave many incredulous\n\nThe Bank of England has raised interest rates for the first time in three years and warned of another increase to combat inflationary pressure unleashed by the Iran war.\n\nEight members of the Bank’s monetary policy committee (MPC) voted for the rise, which takes the base rate from 3.75% to 4%. The ninth member, Catherine Mann, preferred a more dramatic half-point increase.\n\nThe Middle East conflict has pushed oil prices persistently above $100 a barrel in recent months, as hopes have evaporated of a deal that could reopen the strait of Hormuz .\n\nAs a result, the Bank now expects UK inflation to rise to 4.9% in the middle of next year – up from 3.2% in its last economic forecast in July. Inflation hit 3.5% in September , as measured on the consumer prices index.\n\nThe decision, which will hit mortgage borrowers, comes a week after John Healey used his first budget to promise “breathing space” for hard-pressed consumers. Echoing the Office for Budget Responsibility’s gloomy forecasts for living standards , the MPC expects real post-tax income to fall this year and next.\n\nThe Bank’s governor, Andrew Bailey , raised the prospect of another rate rise in the near future – with a resolution to the Iran conflict the key factor that will influence the decision.\n\n“Without news which softens the risks to inflationary pressures, I can see the argument for a further increase in rates and thereafter taking a more conditional approach,” he said, according to the MPC minutes.\n\nHowever, he played down the likelihood of a prolonged series of increases, as markets have been predicting. “Today’s increase shouldn’t be seen as the first in an inevitable long sequence in hikes. But unless the conflict in the Middle East is resolved, neither does it seem likely to be the last increase,” he said.\n\nThe Bank’s next interest rate decision will be announced on 17 December, and some analysts suggested the MPC could press ahead with a pre-Christmas hike.\n\nAndrew Goodwin, the chief economist at consultancy Oxford Economics , said: “The degree of inflationary pressure already in the system means another hike in December or February is likely.”\n\nExplaining its decision to raise borrowing costs, the MPC highlighted the pass-through from elevated oil prices to business and consumer costs across the economy. It expects the Ofgem energy cap to rise from the equivalent of £1,723 a year for an average household in Great Britain to £2,150 in January and to increase again in April. Food price inflation could hit 4.75% by mid-2027, it warned.\n\nBusinesses have so far reported in the Bank’s surveys that they have been able to absorb soaring oil and gas prices – by hedging their energy costs, for example – but the MPC believes they will soon have to start passing them on to consumers in higher prices.\n\nIt is also concerned about workers seeking to offset the impact of the higher cost of living by asking for bumper pay rises.\n\nafter newsletter promotion\n\nOil prices have fallen sharply, to below $100 a barrel, after the Democrats’ victories in the US Congress, which some investors have interpreted as potentially constraining Donald Trump’s capacity to prolong the conflict in Iran. Trump’s vice-president, JD Vance, has blamed the war, and its impact on inflation, for the rout at the polls.\n\nSpeaking at the Bank’s press conference, Bailey welcomed the sharp fall in energy prices in the last 48 hours but said it would need to be sustained to change his view about the need for future rate rises. “This is positive news, but there is already a significant amount of inflationary pressure in the pipeline,” he said, adding: “What is the best thing that can happen? It is to resolve the conflict in the Middle East.”\n\nWhile the decision to increase rates was supported by all MPC members, the minutes of the meeting reveal stark divisions over how much further they may need to go to bring inflation under control. The dovish Alan Taylor suggested this should be a “risk-management ‘one-for-now’ insurance hike”, while Mann argued that an immediate half-point rise was necessary to restore the Bank’s inflation-fighting credibility.\n\nHealey’s budget included measures aimed at cushioning the impact of higher energy prices – including extending the fuel duty freeze and the VAT cut on electricity bills. The MPC said the package would shave a quarter percentage point off inflation in mid-2027.\n\nResponding to the interest rate increase, Healey said: “The Iran conflict is reaching deep into the pockets of families and businesses here at home.\n\n“In my budget I acted to give some breathing space to families and businesses. Twenty million households will get a £100 energy payment, I extended the tax cut on electricity bills and froze fuel duty. I also set out the course ahead to get costs down for good.”\n\nBut the shadow chancellor, Andrew Griffith, called the rate rise “another headwind for hardworking families to deal with”.\n\nInterest rates\n\nBank of England\n\nEconomics\n\nMonetary policy committee\n\nUS-Israel war on Iran\n\nInflation\n\nEnergy industry\n\nnews",
-      "imageWidth": 1200,
-      "imageHeight": 630
-    },
-    {
-      "id": "636f1da8dfe9a8f3",
-      "title": "Rural voters were feeling left behind before the midterms, poll shows",
-      "summary": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base Q&A: Ask your questions about Democrats’ win in the midterms Polling conducted by the Harris Poll for the Guardian before the election shows just how angry voters were and points to one key reason Republicans lost so badly: plummeting support from rural voters, once a key constituency of Donald Trump’s base. Over the summer, 95% of Americans indicated they believed there was an affordability crisis , particularly because of steep gas and grocery prices. By October, 61% of voters believed the country was experiencing a recession, even though technically it wasn’t. Continue reading...",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-11-05T11:00:22Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 776,
-      "readingMinutes": 4,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/5feaf034b448cd4570f9ab8900aa709e74ef9e07/452_0_4997_3999/master/4997.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4796ac72dde182df758cf6ffc7ab9afb",
-      "body": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base\n\nQ&A: Ask your questions about Democrats’ win in the midterms\n\nPolling conducted by the Harris Poll for the Guardian before the election shows just how angry voters were and points to one key reason Republicans lost so badly: plummeting support from rural voters, once a key constituency of Donald Trump’s base.\n\nOver the summer, 95% of Americans indicated they believed there was an affordability crisis , particularly because of steep gas and grocery prices. By October, 61% of voters believed the country was experiencing a recession, even though technically it wasn’t.\n\nIt’s hard to ignore the impact inflation has had on this election. Key voters had expressed for months deep discontent with what had become the status quo. Loggers in Maine said that tariffs against Canada were hurting their already-battered industry. Drivers in Texas facing three-hour commutes to work were spending $400 a month on gas. Farmers across the midwest said diesel prices were exacerbating a growing season beleaguered by drought.\n\nRecent data showed the flip wasn’t just seen among Democrats and independents, who have held pessimistic views on the economy since Trump returned to office, but among some Republicans, too.\n\nIn February, right before the war in Iran began, 49% of Republicans said the economy was getting better. By October, that number would drop to just 28%.\n\nThe pain seemed especially acute for rural voters, long considered a core base for Trump.\n\nThe president had gained many of his supporters by angling himself as a successful businessman who would be an outsider in Washington. But soaring gas and diesel prices have been a major pain point in parts of the country where driving long distances is an everyday part of life.\n\nRural voters were much more likely to say that gas prices were hurting their finances and that they were in economic “survival mode”, or that one surprise bill could sink them, compared with their urban and suburban counterparts. They were also slightly more likely to say that Republicans had a bigger problem with corruption, or elected officials using their position for personal financial gain, than Democrats.\n\nIn the month before the midterms, the number of rural Americans who said the economy was getting worse climbed 17% since Trump took office, compared with a 5% increase for those in the suburbs and a 3% jump among urban voters.\n\nYet on the eve of the midterm elections, Trump was trying to speak a different reality into existence, one where gas prices were going down, wages were rising and the US’s trade with other countries had never been stronger.\n\n“I’ve traveled all across the country, spoken at all of these rallies I’ve done over the last two and a half weeks, and America is ready to go. They’re ready to vote,” Trump said in front of the Lincoln Memorial’s Reflecting Pool on Monday. “I hope they’re ready to do the right thing.”\n\nBut the reality that Americans have been facing is vastly different, and Americans responded accordingly. Republicans in key races from Maine to Texas lost their toss-up races on Tuesday, and Democrats will have control of Congress for the next two years.\n\nDemocrats have promised they will be busy trying to address the issues that were at the forefront of the election: the Trump administration’s brutal immigration crackdown, corruption in the White House, rising healthcare costs and the economy, specifically higher prices.\n\nRepublicans are just starting to take stock of the role prices had on the election outcome. JD Vance on Wednesday said the loss was the “cost to pay” for the Iran war. “Any honest conversation about where we go from here must start there,” Vance said.\n\nAs much as the midterms were a “blue-nami” for Democrats, pre-midterm polls showed voters were still unsure about the party’s ability to deal with affordability. When asked which party had the solution to the affordability crisis a month before the election, 34% said that neither party had a solution. Democrats (27%) slightly edged out Republicans (24%), but many voters seemed unsure whether any party could deal with these pocketbook issues.\n\nSimilar polling conducted before the 2024 presidential election showed that key independent voters were feeling just as pessimistic about the economy. Inflation had reached a generational high in 2022, and many Americans felt that Biden and Democrats weren’t doing enough.\n\nPrice increases under Trump, particularly after the Iran war, have only gotten worse. But many voters are dealing with years of economic burnout and will expect results in the coming years.\n\nUS economy\n\nTrump administration\n\nDemocrats\n\nRepublicans\n\nUS politics\n\nEconomics\n\nanalysis",
-      "imageWidth": 1200,
-      "imageHeight": 630
-    },
-    {
-      "id": "b4ab70fcfb065236",
-      "title": "US tech stocks post modest recovery on Wall Street after worst day in 19 months – as it happened",
-      "summary": "European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts Could the AI bubble burst after Democrats’ midterms sweep? - The Latest Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year. The Nasdaq Composite index, for example, is still up 4.6% since the start of January – even though it’s more than 10% below its peak. “The tech sell-off has intensified, with the pain of the brutal sell-off on Wall Street carried straight through to Asia and knocking sentiment in Europe. Big worries are colliding – the build-out of data centres looks set to slow, which risks shredding the spending spree underpinning the boom, right at the time that investors have become super nervous about returns on this massive investment. Continue reading...",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-11-06T17:28:11Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 1572,
-      "readingMinutes": 8,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/0e4c788de335f06b675ebb989bef6fdeb25ba7e8/566_34_4958_3966/master/4958.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d09da962b0b91548b0935a5b6dd11891",
-      "body": "US tech stocks open higher after Thursday's rout\n\nDing ding goes the Wall Street opening bell, and trading is underway after the US stock market’s most bruising day in 19 months yesterday.\n\nAnd it’s a mixed picture!\n\nTech stocks are rising, lifting the Nasdaq up by 1.2% in early trading. AI-linked stocks such as AMD (+8.1%), SanDisk (+8.3%) and Nvidia (+6.5%) are among the top risers.\n\nBut the much-storied Dow Jones Industrial Average (DJIA) is moving the other way, down 1% at the open. It’s being dragged down by old-economy stocks such as Nike (-3.5%), Walmart (-3.2%) and McDonalds (-3.1%).\n\nReminder: Yesterday the Nasdaq index slumped by 5.5%, while the DJIA dropped by 3.44%. So this is only a small recovery for the Nasdaq , and further pain for the Dow .\n\nNasdaq posts fourth weekly fall in a row\n\nAnd finally…. the Nasdaq’s mini-recovery from its post-midterms plunge is complete.\n\nThe main US tech index has closed for the night up 1.09%, with a gain of 264 points to end at 24,579 points.\n\nBut the broader picture is that the Nasdaq Composite has now fallen for four weeks running, as some of the air has come out of the AI bubble…\n\nWe’ll find out on Monday whether the recovery continues, or the sell-off resumes…. Goodnight. GW\n\nTech stocks still higher in afternoon trading\n\nA late update: With two hours to go before Wall Street closes, the tech rebound continues.\n\nThe Nasdaq Composite index, which sank into ‘correction territory’ yesterday, is up 1.3% now.\n\nAerospace manufacturer and launch service provider Rocket Lab are the top riser, up 12.5%, followed by Airbnb (+11.7%), AppLovin (+10%), Advanced Micro Devices (+9.3%) and Intel (+8.9%).\n\nBut…. Fawad Razaqzada, market analyst at Stonex Trading and FOREX.com, says AI concerns linger, explaining:\n\ndouble quotation mark Technology stocks staged a sharp recovery on Friday after yesterday’s brutal sell-off wiped trillions of dollars off global equity valuations. All major AI-related stocks – Nvidia, AMD, Broadcom and Core Weave – bounced back. But whether recovery holds is another matter. After Thursday’s brutal sell-off wiped trillions of dollars off global equity valuations. Today’s bounce has carried the Nasdaq 100 straight back into former support, and the worries behind the rout, from AI regulation to the sheer scale of tech spending, have not gone away. With the index still carving out lower highs and lower lows, we maintain a cautious Nasdaq 100 forecast, and the near-term risk remains tilted to the downside.\n\nHere’s a late take on this week’s sell-off, from Lee Robinson, CIO of Altana Downside Protector Fund and founder of Altana Wealth:\n\ndouble quotation mark “This sell off has been a long-time coming, and it is not just caused by the midterms or an unwinding of positions in the tech giants. What we are seeing today is the result of stretched valuations and last month’s re-pricing in credit markets, specifically the rising Credit Default Swaps of the Magnificent Seven and CoreWeave. Credit is the engine of capital markets which equities will always eventually follow. We launched the Altana Downside Protector to trade a major downturn that we could see playing out over the next 18 months. The key questions now are who gets hurt by this selloff and what happens next. We see a lot of risk being held by life insurers who are some of the largest owners of AI-linked private credit funds and could be facing a series of de-ratings across their balance sheets.”\n\n[Credit default swaps are an insurance contract that pays out if a company defaults on its debt, as covered in The Big Short ].\n\nClosing post\n\nWith European stock markets closed after a nervy day, and Wall Street calmer than yesterday, it’s time to wrap up…\n\nEuropean stock markets fell sharply today as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry.\n\nA sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets overnight. The investor sentiment then reached London, where the market was, at one stage, poised for its worst day since March.\n\nThe FTSE 100 index, which tracks blue-chip shares listed in London, was down as much as 254 points, or 2.35%, at 10,528 points during a wave of selling in morning trading. But by the close of the day it had recovered to a 1% fall, helped by a bounce in US stocks when Wall Street reopened.\n\nAcross Europe, there were similar losses: Germany’s Dax index has fallen by 2%, France’s Cac 40 has lost 0.8%, and Spain’s Ibex ended the day down 0.6%. Italy’s FTSE Mib fell 0.9%.\n\nIn Asia-Pacific markets, Japan’s Nikkei 225 index sunk 6% and South Korea’s Kospi index tumbled more than 6.5%.\n\n“It’s actually a bit of a disaster,” said Christopher Forbes, the head of Asia and Middle East at CMC Markets.\n\ndouble quotation mark “[Clients] were long index, long stocks, and they all got carried out. All night, all day – we had client margin calls, client complaints … because it’s a very emotional thing, right? People are wedded to their positions and views on a stock or outcome, and you’re telling them: ‘Look, you’ve just lost money.’”\n\nOver in New York right now, the Nasdaq is up 1.5% (having fallen by 5.5% yesterday), and the S&P 500 is up 0.7%.\n\nHere’s the full story:\n\nHere’s the rest of today’s top business news:\n\nExplainer: US tech stock rout: is the AI bubble bursting?\n\nGlobal financial markets have been thrown into a tailspin as investors bet on an AI slowdown after the US midterm elections.\n\nThis is not the first time stock markets have wobbled in recent months due to concerns over a tech bubble. But could this volatility be the start of a huge market meltdown?\n\nRead more here:\n\nEurope’s other major stock markets also recovered some, but not all, of their earlier losses.\n\nGermany’s Dax index has fallen by 2%, France’s Cac 40 has lost 0.8%, and Spain’s Ibex ended the day down 0.6%. Italy’s FTSE Mib fell 0.9%.\n\nFTSE 100 closes down 1%\n\nPhew! After a volatile day’s trading, the London stock market is closed.\n\nAnd after an early slump, triggered by Thursday’s Wall Street rout, UK stocks have recovered some of their losses.\n\nThe FTSE 100 share index has closed for the night down 108.7 points, or 1%, at 10,673 points.\n\nThat will make a dent in millions of ISAs and pensions, but it’s not as bad as this morning’s worst point when the Footsie was down 2.35% and heading for its worst day since March.\n\nThe US dollar has strengthened further today, and is now up 0.65% against a basket of other currencies.\n\nThe London stock market has recovered some, but by not means all, of its earlier losses.\n\nThe FTSE 100 index is now down 145 points, or 1.35%, at 10,637 – having earlier been down as much as 2.35%.\n\nToday’s better-than-expected US jobs report may be helping Wall Street to recover.\n\n“This was a relatively strong jobs report across the board,” said Collin Martin , head of fixed income research and strategy at the Schwab Center for Financial Research.\n\ndouble quotation mark “It may help calm some of the fears that spread to the markets yesterday on AI concerns, supporting the case that the economy remains strong.”\n\nElon Musk is clawing back some of the $113bn he’s lost in the previous two days ( see earlier post ).\n\nTesla’s shares are up 4.9%, while SpaceX have gained 6%, after both stocks fell by over 10% over Wednesday and Thursday.\n\nHargreaves Lansdown: our clients are buying the dip\n\nTrading platform Hargreaves Lansdown reports that its clients have been “buying the dip” – the practice where investors pile in when a stock falls to tempting levels.\n\nAnna Macdonald, investment strategy director at Hargreaves Lansdown, suggests this week’s tech selloff (which is already unwinding) is a buying opportunity:\n\nMacdonald says:\n\ndouble quotation mark “Trading interest in overseas AI and technology companies has been growing all week. We’ve seen some larger investors taking risk off the table, but the average trade has been a buy with Nvidia, SpaceX, Micron, AMD and Alphabet making up the top five. Nvidia and SpaceX are the headline names, while Micron and AMD give investors exposure to the hardware side of the story. Alphabet is interesting too, as its shares were marked down after disappointing numbers and clients have used that as an opportunity to buy. Overall, many of our clients are taking a long-term view and see this as a moment to get back into some of these names at a cheaper entry point. Yesterday’s sell-off looks like an overreaction. We’ve seen these wobbles before and we’ll see them again, but investors need to focus on the fundamentals. Demand for AI isn’t going away, and we expect the newly elected US officials to take a pragmatic approach to the buildout. For patient investors, this is an opportunity to invest in high-quality companies at valuations we haven’t seen in a long time.”\n\n[We don’t do investment advice here at the Guardian, beyond Caveat emptor, dear readers.]\n\nAfter a slow start, the S&P 500 index of US stocks is rising, up 1% today.",
-      "imageWidth": 1200,
-      "imageHeight": 630
-    },
-    {
-      "id": "121304500ffa6bc5",
-      "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
-      "summary": "Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth Bank of England raises interest rates to 4% Business live – latest updates An interest rate rise by the Bank of England to 4% is a big call when households are suffering from a second cost of living crisis in four years. Many people will be incredulous when they hear of the decision to increase the cost of borrowing by 0.25 percentage points, looking around their neighbourhood for signs of a booming economy. Continue reading...",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-11-05T13:10:44Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 828,
-      "readingMinutes": 4,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/60308561c80255ccbb0d5174dd7aadb14404b385/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66712ae13697dcf5d88de0157bd9044d",
-      "body": "Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth\n\nBank of England raises interest rates to 4%\n\nBusiness live – latest updates\n\nAn interest rate rise by the Bank of England to 4% is a big call when households are suffering from a second cost of living crisis in four years.\n\nMany people will be incredulous when they hear of the decision to increase the cost of borrowing by 0.25 percentage points, looking around their neighbourhood for signs of a booming economy.\n\nThe official figures show the economy has proved resilient in response to the jump in oil and gas prices after the outbreak of war in Iran, but UK high streets are struggling and the underlying drivers of inflation are absent.\n\nMost households are spending to stand still, whether it is on food, energy, holidays or leisure pursuits. Businesses are in much the same position. Like households, they have absorbed significant tax rises.\n\nWhat the Bank’s policymakers believe is that despite all this, the energy price shock, being larger than first estimated, will surge through all parts of the economy, forcing up prices, encouraging a wave of wage demands that will, in turn, give inflation a second burst of life next year and the following year.\n\nThis analysis stands in contrast to the Office for Budget Responsibility (OBR), which acts as the Treasury’s independent forecaster. The OBR was clear in evidence to parliament on Wednesday that there was little impetus for strong wages growth.\n\nThe OBR said that, rather than economic growth next year of 1.6% and a rise in inflation to 4.9%, as the Bank expects, it believes the economy will expand by just 1% in 2027 and that the consumer prices index (CPI) will peak at just 3.75%. Inflation hit 3.5% in September, official figures showed .\n\nThe OBR’s chief economist, David Miles, said one of the main reasons for this assessment was the state of UK businesses, which he judged to be quite weak.\n\nHe said they had absorbed a large slice of the rise in energy and fuel costs, and their profit margins had plummeted on average as a result. Where once margins averaged 13% to 14%, the latest figures show they have fallen to 10% to 11%.\n\nHe said there would be little appetite to pay high wage settlements and the imperative would be to rebuild margins.\n\nThe wider economic situation is also very different from the previous crisis in 2022, when the country was coming out of the pandemic and dealing with the onset of the Ukraine war.\n\nBack then, households were awash with lockdown savings that they wanted to spend, and firms were struggling to hire enough staff, leading to intense competition for workers and a spike in wages.\n\nToday, savings are low and households bear the scars of four years of high inflation.\n\nWhat sectors of the economy are making hay in 2026? Retailers and hospitality businesses are suffering, transport companies are battered by high costs and the charity sector is facing widespread financial difficulties. Vacancies are low, suggesting that firms have no need to employ more people.\n\nBusinesses in better-performing sectors such as banking and oil and gas also show little appetite for big wage increases. Banks are using artificial intelligence to shed staff .\n\nThe deputy director of the British Chambers of Commerce, David Bharier, said he was dismayed by the decision.\n\n“So far, there is little sign of the wage-price spiral the Bank is looking to guard against. Unemployment is higher than in 2022, the labour market is looser and our research shows AI adoption accelerating rapidly – with some of the deepest users more likely to expect headcount reductions,” he said.\n\n“After a budget which gave businesses little incentive to invest, and with borrowing costs already high, it is economic growth that will pay the premium.”\n\nThe Bank’s own survey of businesses and a separate report from its regional agents indicate “that wage and price expectations have moved little since September”.\n\nIt means Threadneedle Street policymakers judge that responses to their own business review will prove inaccurate and wages will jump.\n\nThe Bank judged that households’ and firms’ “attentiveness” to rising inflation was high and “there was a risk wage settlements would be higher than businesses expect”.\n\nWhen the government says it is constrained by the bond markets from spending more to help consumers, there is a scenario looming in which ministers and the central bank, to meet their individual mandates, effectively crush the prospects for economic growth.\n\nJohn Healey will say, as he did at the dispatch box last week, that he needs to restrict borrowing and adhere to his fiscal rules. Meanwhile, the bank will be busy making sure it cracks down on inflationary pressures it believes are on the way, even if policymakers cannot see them quite yet.\n\nInterest rates\n\nEconomics\n\nBank of England\n\nOffice for Budget Responsibility\n\nnews",
-      "imageWidth": 1200,
-      "imageHeight": 630
-    },
-    {
-      "id": "cc3f7fc89a1d9e8e",
-      "title": "US job growth exceeds expectations in October despite economic uncertainty",
-      "summary": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid ongoing war in the Middle East and inflation, according to new data released on Friday. Economists had said the labor market has been stuck in a “low-hire, low-fire” state, in which job growth is sluggish but layoffs also remain low, but October’s data surpassed economist expectations. The unemployment rate went down slightly to 4.1%, the Bureau of Labor Statistics (BLS) reported. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-11-06T13:42:26Z",
-      "category": "Economics",
-      "region": "Middle East",
-      "labels": [
-        "Economics",
-        "Middle East"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 102,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/6ce70de0573447bd4b3b70f4ceb6e8fd81f1379f/647_0_6469_5178/master/6469.jpg?width=700&quality=85&auto=format&fit=max&s=a0b0f9a34d26df6a06b4f523d5e3cc27"
-    },
-    {
-      "id": "90c19cc9761d6a1b",
-      "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
-      "summary": "Government bond yields fall while initial fears ease over impact of election results on world’s biggest economy US midterm elections – live updates After US midterms, what will lame-duck Trump mean for global economy? US stocks have surged as investors digest the Democrats’ victories in the midterm elections , lifted by hopes that Donald Trump ’s turbulent policymaking would be restrained and shaking off initial fears about the impact on growth in the world’s largest economy. The Dow Jones rose close to 3%, its best day in over a year, while the tech-heavy Nasdaq and the benchmark S&P 500 gained about 1.5% each when markets closed on Wednesday afternoon, turning around overnight falls in US stock futures after the news that the Democratic party won control of the Senate and the House of Representatives. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-11-04T16:38:28Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 136,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/6b1f011569afbc3d0e2cd5fc5417582f27adbe6a/714_28_3264_2612/master/3264.jpg?width=700&quality=85&auto=format&fit=max&s=435bcb63bf7d988d18629f0a7776ac86"
-    },
-    {
-      "id": "2ae0c42024b4b6c2",
-      "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
-      "summary": "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-11-06T17:04:41Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 65,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/b17a059303674bee4fb3dec0de66bf842d9d60d6/0_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=4985e2b2437d63688bb38cc1afd1fe78"
-    },
-    {
-      "id": "b15b7c4902b9c9c4",
-      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-      "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-11-07T01:41:36Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 18,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6b/live/b1102500-d9fb-11f1-b441-2b33b063138f.png"
-    },
-    {
-      "id": "7871e16938729b82",
-      "title": "Three ways the interest rate rise could affect you",
-      "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-11-05T13:08:30Z",
-      "category": "Economics",
-      "region": "UK",
-      "labels": [
-        "Economics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/296a/live/09ae45c0-d916-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "ad542cbaad5a0c8e",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
-      "source": "BBC Business",
-      "publisher": "BBC",
-      "published": "2026-11-06T21:06:25Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
       "id": "63230e1650611e8b",
       "title": "MATCH REPORT | Saracens Women 21 - 22 Trailfinders Women (CUP FINAL)",
       "summary": "Saracens Women’s bid for a third straight Jaecoo Next Gen Cup title fell agonisingly short at StoneX Stadium, as Trailfinders Women claimed a 22-21 win in a final that went down to the wire. Both sides came out fighting, and neither gave the other an inch in the opening exchanges. This was a contest that […]",
@@ -704,6 +446,31 @@
       "focus": "Saracens",
       "sourceType": "news",
       "wordCount": 55,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "7aab426b44e9805f",
+      "title": "Watch Blue Jays prospect Parker in tonight's AFL Home Run Derby",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/2026-arizona-fall-league-home-run-derby",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-11-07T23:05:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -757,31 +524,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9eca/live/9a7e1840-daca-11f1-bda8-29fb69dbc026.jpg"
-    },
-    {
-      "id": "7aab426b44e9805f",
-      "title": "Watch Blue Jays prospect Parker in tonight's AFL Home Run Derby",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/2026-arizona-fall-league-home-run-derby",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-11-07T19:14:00Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Baseball",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "d85b1b6180ab4b6a",
@@ -885,38 +627,14 @@
       "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/10/CP177184677.jpg"
     },
     {
-      "id": "1a0e9594e90cb5af",
-      "title": "Tuipulotu takes 'full responsibility' for Scotland collapse",
-      "summary": "Captain Sione Tuipulotu takes responsibility for Scotland's second-half Nations Championship collapse against New Zealand, saying they were \"nowhere near accurate enough\".",
+      "id": "0a4fcb9e2ca138cb",
+      "title": "Wales let themselves down despite win - Lake",
+      "summary": "Captain Dewi Lake knows there is plenty to improve following a lacklustre 28-21 Nations Championship victory over Japan.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/crgj9323we9go",
       "source": "BBC Rugby Union",
       "publisher": "BBC",
-      "published": "2026-11-07T18:38:00Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 21,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e587/live/382e7350-dada-11f1-91ee-75ca1bd2f860.jpg"
-    },
-    {
-      "id": "296d6a8b5d34f2b8",
-      "title": "Highlights: Wales 28-21 Japan",
-      "summary": "Watch the highlights as Wales beat Japan 28-21 in their opening game of the Nations Championship in Cardiff.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/videos/ckd6d1496g3wo",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-11-07T19:02:48Z",
+      "published": "2026-11-07T21:03:07Z",
       "category": "Sports",
       "region": "England",
       "labels": [
@@ -930,7 +648,31 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3047/live/94e46660-dadd-11f1-93e1-3b657b665bcf.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75a5/live/106f6210-daef-11f1-874f-676ba8accebe.jpg"
+    },
+    {
+      "id": "ba8ad41b7b22e67d",
+      "title": "Scotland's familiar frailties brutally exposed in All Blacks schooling",
+      "summary": "Hopes of a first-ever win over New Zealand were trampled along with Scotland's mission statement, writes Tom English.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c60rlkzwwk27o",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-11-07T20:57:12Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74d4/live/944d4e20-daeb-11f1-aac9-0789014bcc48.jpg"
     },
     {
       "id": "303425effdb6964a",
@@ -1185,14 +927,14 @@
       "body": "Former President of Serbia Aleksandar Vucic and U.S. President Donald Trump (Anna Moneymaker-Pool/Getty Images)\n\nOriginally published in Hankyoreh .\n\nThe victory of incumbent Lula in the Brazilian presidential election was a surprise. The longtime leftist politician ran second in the first round behind far-right challenger Flavio Bolsonaro—the son of disgraced former leader Jair Bolsonaro—and no one in the history of Brazilian democracy had come from behind to win in the second round. But by mounting a huge get-out-the-vote effort, Lula defied all predictions.\n\nLula also defied the current trend in Latin American elections. In the last 18 months, right-wing candidates had won in seven countries, including Chile, Colombia, and Peru. The trend worldwide has been similar, with the far right winning in local elections in Germany, the extremist party of Marine Le Pen leading the polls in France, and the far right participating in governments in Italy, Finland, and the Czech Republic. Far right leaders remain in place in Russia, India, the Philippines, and, for now, Israel.\n\nIs Lula the outlier? Or does he perhaps represent a political course correction?\n\nFor those eager to see a political wave in the making, Lula is not the only example of the electoral repudiation of the far right. On the same day as the Brazilian elections, students managed to oust the longtime autocrat Aleksandar Vucic in the equally surprising Serbian elections. Earlier this year, Viktor Orban also lost at the hands of a unified opposition. The massive “blue wave” rejection of Donald Trump in the midterm elections in the United States has continued the trend.\n\nThere is a natural feeling among voters in democratic societies to “throw the bums out.” In Latin America, a “pink” wave of progressive politicians like Ecuador’s Rafael Correa and Colombia’s Gustavo Petro has given way to a “brown” wave of ultra-conservative politicians. Voters, especially in today’s quicksilver environment of social media, respond positively to candidates who promise sweeping change. And thus, the political pendulum swings from left to right and back again.\n\nBut the far right is not just another conventional option on the political menu. It offers something radically different because it threatens to undermine the very democratic norms by which it has achieved power. In countries like Russia, Hungary, Turkey, and India, right-wing authoritarians have used democratic means—elections, constitutional changes, legal challenges—to weaken democracy. Other leaders have attempted to do away with democracy much more rapidly, as Jair Bolsonaro tried to do when he plotted to overturn the Brazilian elections that Lula won four years ago. Inspired by these rule-breakers, even traditional conservative politicians, like Yoon Suk Yeol in Korea, have attempted to suspend democracy.\n\nAnd then there’s the case of Donald Trump. The U.S. president was reelected despite his efforts to overturn the 2020 elections that he lost. During his second term, he has attempted to unilaterally change the constitution. He has ignored court orders, bypassed Congress, and waged war against the mainstream media. He has repeatedly called into question the legitimacy of elections.\n\nBut Trump now has the lowest approval rating— 31 percent —of his presidency. In the midterm elections, voters rejected Trump’s party. The Democratic Party has easily retaken control of the House of Representatives, and it now has a comfortable margin of control in the Senate as well.\n\nUnlike in Brazil, American voters are prioritizing their pocketbooks. A narrow majority of Brazilians supported Lula despite the country’s problems with debt and inflation. American voters, on the other hand, are abandoning Trump because of the economy—rising gas prices, the impact of sanctions, the consequences of the Iran War. As they demonstrated by electing Trump to a second term, many American voters don’t seem concerned about his anti-democratic rhetoric or actions.\n\nThis, more than the specific victories of the far right, is the more distressing takeaway. After all, democracy is not exactly enjoying its finest hour at the moment. Global freedom, according to the latest Freedom House report, declined for the twentieth consecutive year last year, with the United States, Bulgaria, Italy, El Salvador, and Madagascar registering significant deterioration in political and civil liberties.\n\nVoters are turning toward anti-democratic candidates in part because they are disenchanted with democracy itself. Democratic mechanisms just don’t seem up to the task of addressing the threats currently facing the globe. Democracies have proved incapable of slowing climate change or responsibly controlling technologies like AI. Democracies have utterly failed at ensuring broad prosperity in a globalizing economy. If democrats were more successful at dealing with these problems, the far right’s promises of top-down solutions and returning to mythic pasts would not be so appealing.\n\nThis deeper problem with democracy suggests that even if the far right loses elections—in Brazil last month, the United States this week, France next year—it will not gracefully surrender the stage. Figures like Yoon Suk Yeol and Jair Bolsonaro can be jailed for their transgressions—and perhaps Trump too will follow in their footsteps. But voters will keep turning to more authoritarian alternatives if democratic institutions don’t deliver and democratic values don’t appeal.\n\nThe far right does not offer any better answers to the world’s problems. Its general response to global threats has been to turn its back. The far right supports high tariff walls, more fossil fuel extraction, and stricter controls on immigration. It repudiates all forms of globalization, lumping together neoliberal trade policies with Green energy programs and sensible approaches to immigration. The far right despises democracy not just because it puts controls on autocratic leaders but because of its association with globalization.\n\nThis, then, is the essential task of both the left and the center—to devise a new, robust internationalism that provides concrete gains to the average person while also safeguarding the planet for the next generations.\n\nUntil this happens, far-right candidates will continue to win. They might lose this or that election. But they will continue to win support with their anti-global agenda, while remaining focused on their ultimate goal of destroying democracy. They don’t want to be subject to the pendulum swings of democratic politics. They want to rip out the pendulum so that they can remain in power indefinitely.\n\nShare this:\n\nPrint (Opens in new window) Print\n\nTweet\n\nShare on Bluesky (Opens in new window) Bluesky\n\nEmail a link to a friend (Opens in new window) Email"
     },
     {
-      "id": "1a0e20f9ed82091b",
-      "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
-      "summary": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German pushback, he said he favors the all-new term \"associate membership.\"",
+      "id": "8d8e7267083ff9dd",
+      "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+      "summary": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-10-30T20:55:00Z",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-11-07T20:44:34Z",
       "category": "Politics",
       "region": "Canada",
       "labels": [
@@ -1202,7 +944,7 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 33,
+      "wordCount": 11,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -1309,14 +1051,14 @@
       "isBreaking": false
     },
     {
-      "id": "d248880c31355089",
-      "title": "Ousted Paraguayan president appears before prosecutors",
-      "summary": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+      "id": "38251d8b0390bd61",
+      "title": "President of The Heritage Foundation looks ahead to the future of the GOP",
+      "summary": "Kevin Roberts, the president of the conservative think tank The Heritage Foundation, talks about the organization's priorities and hopes for the future of the Republican Party and its policies.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6029779/president-of-the-heritage-foundation-looks-ahead-to-the-future-of-the-gop",
       "source": "NPR Politics",
       "publisher": "NPR",
-      "published": "2026-11-07T17:14:36Z",
+      "published": "2026-11-07T22:12:03Z",
       "category": "Politics",
       "region": "US",
       "labels": [
@@ -1326,14 +1068,83 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 27,
+      "wordCount": 29,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6653x4435+0+0/resize/6653x4435!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F78%2F40561ab4423abbd70bf3463d02c0%2Fgettyimages-2295537388.jpg",
-      "imageAlt": "Paraguay",
-      "imageWidth": 6653,
-      "imageHeight": 4435
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6029779"
+    },
+    {
+      "id": "6b316de0df418e0c",
+      "title": "Texas's 'Blue Tsunami' has former Texas congressman Beto O'Rourke 'over the moon'",
+      "summary": "NPR's Rob Schmitz speaks with former Texas congressman Beto O'Rourke about how past efforts by him and other Democrats helped the party win big in Texas in the midterms.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6030966/texass-blue-tsunami-has-former-texas-congressman-beto-orourke-over-the-moon",
+      "source": "NPR Politics",
+      "publisher": "NPR",
+      "published": "2026-11-07T22:12:08Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 29,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6030966"
+    },
+    {
+      "id": "1a0e9594e90cb5af",
+      "title": "Tuipulotu takes 'full responsibility' for Scotland collapse",
+      "summary": "Captain Sione Tuipulotu takes responsibility for Scotland's second-half Nations Championship collapse against New Zealand, saying they were \"nowhere near accurate enough\".",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx28xpn57r9o",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-11-07T18:38:00Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 21,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e587/live/382e7350-dada-11f1-91ee-75ca1bd2f860.jpg"
+    },
+    {
+      "id": "296d6a8b5d34f2b8",
+      "title": "Highlights: Wales 28-21 Japan",
+      "summary": "Watch the highlights as Wales beat Japan 28-21 in their opening game of the Nations Championship in Cardiff.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/videos/ckd6d1496g3wo",
+      "source": "BBC Rugby Union",
+      "publisher": "BBC",
+      "published": "2026-11-07T19:02:48Z",
+      "category": "Sports",
+      "region": "England",
+      "labels": [
+        "Sports",
+        "England"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3047/live/94e46660-dadd-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "id": "033d9c7fc807b4dc",
@@ -1581,54 +1392,6 @@
       "body": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’\n\nTikTok has been charged by the European Commission with failing to protect users’ mental health by exposing them to a relentless stream of content that risks worsening eating disorders and anxiety in a case that strikes at its business model.\n\nIssuing a preliminary ruling on Friday, the EU regulator said TikTok’s algorithm “can be harmful” and was leading young and vulnerable users “down rabbit holes they cannot easily escape from”.\n\nThe Chinese-owned short-video platform, which has 189 million users in the EU, was found to have failed to prevent users from being served up repetitive content on themes such as body image or isolation, which can lead to anxiety, sadness, worsen existing eating disorders or mental health problems.\n\nOfficials said their investigation focused on legal content, where a single video might not be problematic, but the cumulative effect of watching scores of them on one theme could damage users’ mental health.\n\nTikTok’s safeguards to mitigate the risks of “rabbit-hole effects” – where users are served narrow and repetitive content to keep them engaged – were found to be ineffective. For example, officials said, if a user checked a “not interested” button on a video about eating patterns, the algorithm would still offer them similar content on diet and body image. Similarly, refreshing a feed only provided a brief respite from a stream of content on one topic, it found.\n\n“Every time a user scrolls or likes a video on TikTok, the algorithm serves more of the same leading users down rabbit holes they cannot easily escape from,” said the European Commission’s lead official on tech policy, Henna Virkkunen. “TikTok needs to step up its efforts to protect users’ wellbeing, including those of minors.”\n\nIn response, a TikTok spokesperson said: “The commission has made a series of statements that are fundamentally inaccurate and distort our platform’s architecture and our commitment to user safety.\n\n“We have a strong record of protecting our community while giving users direct and intuitive control over their content experience.”\n\nThe company argues that its policies prohibit content that promotes disordered eating and risky weight-management behaviours. It also says that more than 79 million users in the EU used its “not interested” or keyword filters to screen out unwanted content in the first six months of 2026.\n\nThe Molly Rose Foundation, which was set up in memory of 14-year-old Molly Russell, who took her own life in 2017 after being exposed to a torrent of harmful online content , welcomed what it called the landmark findings “to seek to hold TikTok to account for the way their algorithm drives young people down rabbit holes of despair”.\n\nA survey for the charity earlier this year found that nearly half of girls and a third of all UK teenagers saw suicide, self-harm and eating-disorder content on social media in a week.\n\nThe foundation called on the UK regulator, Ofcom, to open an investigation into TikTok’s “extremely damaging” algorithm.\n\nThe EU investigation strikes at TikTok’s business model, which is built on keeping users scrolling as long as possible.\n\nEU officials want TikTok to change the design of its ForYou feed, to give users greater control over the content they see.\n\n“We are addressing a business model,” a commission official told reporters, saying that a business model focused mainly on engagement “can potentially create a risk” especially for minors and vulnerable adults.\n\nThe findings are part of a broader investigation launched in February 2024 under the Digital Services Act, which obliges large internet companies to take action to prevent a wide range of harms, from disinformation to damage to mental health.\n\nThe commission has already found the company violated EU rules over its “addictive design” for features such as infinite scroll. The company said at the time “the commission’s preliminary findings present a categorically false and entirely meritless depiction of our platform” and that it would challenge the findings.\n\nA complaint about lack of transparency over who paid for TikTok’s advertising was resolved when the company made binding commitments to change its policies last December.\n\nTikTok, which now has a chance to examine the investigation file and mount a defence, could agree to change its recommender system to avoid a fine.\n\nIf EU officials uphold the finding, the company could be fined up to 6% of its global worldwide turnover.\n\nTikTok\n\nEuropean Union\n\nEurope\n\nInternet safety\n\nSocial media\n\nChildren's tech\n\nApps\n\nnews",
       "imageWidth": 1200,
       "imageHeight": 630
-    },
-    {
-      "id": "ccde50055409fb90",
-      "title": "What to know about Gina Hinojosa, Texas' first Latina governor-elect",
-      "summary": "Gina Hinojosa, state representative from the Rio Grande Valley whose legislative priority has been boosting the public education system, will become the first Latina governor of Texas.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6030822/what-to-know-about-gina-hinojosa-texas-first-latina-governor-elect",
-      "source": "NPR Politics",
-      "publisher": "NPR",
-      "published": "2026-11-06T22:26:00Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 27,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6030822"
-    },
-    {
-      "id": "b75a93553491dc38",
-      "title": "American democracy was a big winner in the midterms",
-      "summary": "Results are still outstanding House and Senate races but political scientists say one of the big winners in the mid-terms is American democracy itself.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6029750/american-democracy-was-a-big-winner-in-the-midterms",
-      "source": "NPR Politics",
-      "publisher": "NPR",
-      "published": "2026-11-06T22:33:11Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6029750"
     },
     {
       "id": "c1f5e2addd609b43",
@@ -1935,6 +1698,33 @@
       "isBreaking": false
     },
     {
+      "id": "c3384774f933221a",
+      "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
+      "summary": "Base rate increases from 3.75% and Bank governor signals another rise in near future to combat rising inflation Analysis: Interest rate rise in midst of cost of living crisis will leave many incredulous The Bank of England has raised interest rates for the first time in three years and warned of another increase to combat inflationary pressure unleashed by the Iran war. Eight members of the Bank’s monetary policy committee (MPC) voted for the rise, which takes the base rate from 3.75% to 4%. The ninth member, Catherine Mann, preferred a more dramatic half-point increase. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+      "source": "The Guardian Economics",
+      "publisher": "The Guardian",
+      "published": "2026-11-05T18:00:28Z",
+      "category": "Economics",
+      "region": "UK",
+      "labels": [
+        "Economics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 872,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/d6ebd9b4d868a9da787c0f6b207548c78ad7ab28/586_197_4797_3840/master/4797.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e996317f2120a46e3e544eb8ce59fc2c",
+      "body": "Base rate increases from 3.75% and Bank governor signals another rise in near future to combat rising inflation\n\nAnalysis: Interest rate rise in midst of cost of living crisis will leave many incredulous\n\nThe Bank of England has raised interest rates for the first time in three years and warned of another increase to combat inflationary pressure unleashed by the Iran war.\n\nEight members of the Bank’s monetary policy committee (MPC) voted for the rise, which takes the base rate from 3.75% to 4%. The ninth member, Catherine Mann, preferred a more dramatic half-point increase.\n\nThe Middle East conflict has pushed oil prices persistently above $100 a barrel in recent months, as hopes have evaporated of a deal that could reopen the strait of Hormuz .\n\nAs a result, the Bank now expects UK inflation to rise to 4.9% in the middle of next year – up from 3.2% in its last economic forecast in July. Inflation hit 3.5% in September , as measured on the consumer prices index.\n\nThe decision, which will hit mortgage borrowers, comes a week after John Healey used his first budget to promise “breathing space” for hard-pressed consumers. Echoing the Office for Budget Responsibility’s gloomy forecasts for living standards , the MPC expects real post-tax income to fall this year and next.\n\nThe Bank’s governor, Andrew Bailey , raised the prospect of another rate rise in the near future – with a resolution to the Iran conflict the key factor that will influence the decision.\n\n“Without news which softens the risks to inflationary pressures, I can see the argument for a further increase in rates and thereafter taking a more conditional approach,” he said, according to the MPC minutes.\n\nHowever, he played down the likelihood of a prolonged series of increases, as markets have been predicting. “Today’s increase shouldn’t be seen as the first in an inevitable long sequence in hikes. But unless the conflict in the Middle East is resolved, neither does it seem likely to be the last increase,” he said.\n\nThe Bank’s next interest rate decision will be announced on 17 December, and some analysts suggested the MPC could press ahead with a pre-Christmas hike.\n\nAndrew Goodwin, the chief economist at consultancy Oxford Economics , said: “The degree of inflationary pressure already in the system means another hike in December or February is likely.”\n\nExplaining its decision to raise borrowing costs, the MPC highlighted the pass-through from elevated oil prices to business and consumer costs across the economy. It expects the Ofgem energy cap to rise from the equivalent of £1,723 a year for an average household in Great Britain to £2,150 in January and to increase again in April. Food price inflation could hit 4.75% by mid-2027, it warned.\n\nBusinesses have so far reported in the Bank’s surveys that they have been able to absorb soaring oil and gas prices – by hedging their energy costs, for example – but the MPC believes they will soon have to start passing them on to consumers in higher prices.\n\nIt is also concerned about workers seeking to offset the impact of the higher cost of living by asking for bumper pay rises.\n\nafter newsletter promotion\n\nOil prices have fallen sharply, to below $100 a barrel, after the Democrats’ victories in the US Congress, which some investors have interpreted as potentially constraining Donald Trump’s capacity to prolong the conflict in Iran. Trump’s vice-president, JD Vance, has blamed the war, and its impact on inflation, for the rout at the polls.\n\nSpeaking at the Bank’s press conference, Bailey welcomed the sharp fall in energy prices in the last 48 hours but said it would need to be sustained to change his view about the need for future rate rises. “This is positive news, but there is already a significant amount of inflationary pressure in the pipeline,” he said, adding: “What is the best thing that can happen? It is to resolve the conflict in the Middle East.”\n\nWhile the decision to increase rates was supported by all MPC members, the minutes of the meeting reveal stark divisions over how much further they may need to go to bring inflation under control. The dovish Alan Taylor suggested this should be a “risk-management ‘one-for-now’ insurance hike”, while Mann argued that an immediate half-point rise was necessary to restore the Bank’s inflation-fighting credibility.\n\nHealey’s budget included measures aimed at cushioning the impact of higher energy prices – including extending the fuel duty freeze and the VAT cut on electricity bills. The MPC said the package would shave a quarter percentage point off inflation in mid-2027.\n\nResponding to the interest rate increase, Healey said: “The Iran conflict is reaching deep into the pockets of families and businesses here at home.\n\n“In my budget I acted to give some breathing space to families and businesses. Twenty million households will get a £100 energy payment, I extended the tax cut on electricity bills and froze fuel duty. I also set out the course ahead to get costs down for good.”\n\nBut the shadow chancellor, Andrew Griffith, called the rate rise “another headwind for hardworking families to deal with”.\n\nInterest rates\n\nBank of England\n\nEconomics\n\nMonetary policy committee\n\nUS-Israel war on Iran\n\nInflation\n\nEnergy industry\n\nnews",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
       "id": "799467969dbe77b4",
       "title": "ROAD TO THE FINAL: SARACENS WOMEN'S JOURNEY TO DEFEND THE CROWN",
       "summary": "Saracens Women are one game away from defending their Jaecoo Next Gen Cup title. This Saturday, the Original Club of North London head into the final as reigning champions, with a campaign full of firepower, grit and big moments behind them. Round 1: A bonus-point start The campaign kicked off against Leicester Tigers, and Saracens […]",
@@ -2062,6 +1852,87 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e844/live/ec1dd7a0-d8f2-11f1-9c68-d767468fa269.jpg"
     },
     {
+      "id": "910d483d5f4d209e",
+      "title": "Ipswich Town's new club shop 'here to stay'",
+      "summary": "Fans and players are delighted at the new \"activation space\" in the town centre.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-11-07T21:40:32Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 146,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a7ba/live/5fa987d0-daf3-11f1-827e-c7e7ee102257.jpg",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nIpswich Town has opened a new shop in the centre of Ipswich as a commitment to the fans and the town, the club says.\n\nThe Planet Blue store opened in the Buttermarket shopping centre on Friday with captain Dara O'Shea cutting the ribbon.\n\nIt complements the shop at the stadium on Portman Road.\n\n\"The football club's the heart of the town and this is right in the middle now, so it's really nice to see,\" he said.\n\nThe opening coincided with the general release of the club's black and gold third kit.\n\nBlack smoke visible across Ipswich after fire near stadium\n\nFollow Suffolk news on BBC Sounds , Facebook , external , Instagram , external and X , external .\n\nSubsection Suffolk\n\nPublished 1 hour ago\n\nRelated topics\n\nIpswich Follow Ipswich\n\nRetailing Follow Retailing",
+      "imageWidth": 1200,
+      "imageHeight": 675
+    },
+    {
+      "id": "636f1da8dfe9a8f3",
+      "title": "Rural voters were feeling left behind before the midterms, poll shows",
+      "summary": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base Q&A: Ask your questions about Democrats’ win in the midterms Polling conducted by the Harris Poll for the Guardian before the election shows just how angry voters were and points to one key reason Republicans lost so badly: plummeting support from rural voters, once a key constituency of Donald Trump’s base. Over the summer, 95% of Americans indicated they believed there was an affordability crisis , particularly because of steep gas and grocery prices. By October, 61% of voters believed the country was experiencing a recession, even though technically it wasn’t. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
+      "source": "The Guardian Economics",
+      "publisher": "The Guardian",
+      "published": "2026-11-05T11:00:22Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 776,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/5feaf034b448cd4570f9ab8900aa709e74ef9e07/452_0_4997_3999/master/4997.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4796ac72dde182df758cf6ffc7ab9afb",
+      "body": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base\n\nQ&A: Ask your questions about Democrats’ win in the midterms\n\nPolling conducted by the Harris Poll for the Guardian before the election shows just how angry voters were and points to one key reason Republicans lost so badly: plummeting support from rural voters, once a key constituency of Donald Trump’s base.\n\nOver the summer, 95% of Americans indicated they believed there was an affordability crisis , particularly because of steep gas and grocery prices. By October, 61% of voters believed the country was experiencing a recession, even though technically it wasn’t.\n\nIt’s hard to ignore the impact inflation has had on this election. Key voters had expressed for months deep discontent with what had become the status quo. Loggers in Maine said that tariffs against Canada were hurting their already-battered industry. Drivers in Texas facing three-hour commutes to work were spending $400 a month on gas. Farmers across the midwest said diesel prices were exacerbating a growing season beleaguered by drought.\n\nRecent data showed the flip wasn’t just seen among Democrats and independents, who have held pessimistic views on the economy since Trump returned to office, but among some Republicans, too.\n\nIn February, right before the war in Iran began, 49% of Republicans said the economy was getting better. By October, that number would drop to just 28%.\n\nThe pain seemed especially acute for rural voters, long considered a core base for Trump.\n\nThe president had gained many of his supporters by angling himself as a successful businessman who would be an outsider in Washington. But soaring gas and diesel prices have been a major pain point in parts of the country where driving long distances is an everyday part of life.\n\nRural voters were much more likely to say that gas prices were hurting their finances and that they were in economic “survival mode”, or that one surprise bill could sink them, compared with their urban and suburban counterparts. They were also slightly more likely to say that Republicans had a bigger problem with corruption, or elected officials using their position for personal financial gain, than Democrats.\n\nIn the month before the midterms, the number of rural Americans who said the economy was getting worse climbed 17% since Trump took office, compared with a 5% increase for those in the suburbs and a 3% jump among urban voters.\n\nYet on the eve of the midterm elections, Trump was trying to speak a different reality into existence, one where gas prices were going down, wages were rising and the US’s trade with other countries had never been stronger.\n\n“I’ve traveled all across the country, spoken at all of these rallies I’ve done over the last two and a half weeks, and America is ready to go. They’re ready to vote,” Trump said in front of the Lincoln Memorial’s Reflecting Pool on Monday. “I hope they’re ready to do the right thing.”\n\nBut the reality that Americans have been facing is vastly different, and Americans responded accordingly. Republicans in key races from Maine to Texas lost their toss-up races on Tuesday, and Democrats will have control of Congress for the next two years.\n\nDemocrats have promised they will be busy trying to address the issues that were at the forefront of the election: the Trump administration’s brutal immigration crackdown, corruption in the White House, rising healthcare costs and the economy, specifically higher prices.\n\nRepublicans are just starting to take stock of the role prices had on the election outcome. JD Vance on Wednesday said the loss was the “cost to pay” for the Iran war. “Any honest conversation about where we go from here must start there,” Vance said.\n\nAs much as the midterms were a “blue-nami” for Democrats, pre-midterm polls showed voters were still unsure about the party’s ability to deal with affordability. When asked which party had the solution to the affordability crisis a month before the election, 34% said that neither party had a solution. Democrats (27%) slightly edged out Republicans (24%), but many voters seemed unsure whether any party could deal with these pocketbook issues.\n\nSimilar polling conducted before the 2024 presidential election showed that key independent voters were feeling just as pessimistic about the economy. Inflation had reached a generational high in 2022, and many Americans felt that Biden and Democrats weren’t doing enough.\n\nPrice increases under Trump, particularly after the Iran war, have only gotten worse. But many voters are dealing with years of economic burnout and will expect results in the coming years.\n\nUS economy\n\nTrump administration\n\nDemocrats\n\nRepublicans\n\nUS politics\n\nEconomics\n\nanalysis",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "id": "b4ab70fcfb065236",
+      "title": "US tech stocks post modest recovery on Wall Street after worst day in 19 months – as it happened",
+      "summary": "European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts Could the AI bubble burst after Democrats’ midterms sweep? - The Latest Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year. The Nasdaq Composite index, for example, is still up 4.6% since the start of January – even though it’s more than 10% below its peak. “The tech sell-off has intensified, with the pain of the brutal sell-off on Wall Street carried straight through to Asia and knocking sentiment in Europe. Big worries are colliding – the build-out of data centres looks set to slow, which risks shredding the spending spree underpinning the boom, right at the time that investors have become super nervous about returns on this massive investment. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+      "source": "The Guardian Economics",
+      "publisher": "The Guardian",
+      "published": "2026-11-06T17:28:11Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 1572,
+      "readingMinutes": 8,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/0e4c788de335f06b675ebb989bef6fdeb25ba7e8/566_34_4958_3966/master/4958.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=d09da962b0b91548b0935a5b6dd11891",
+      "body": "US tech stocks open higher after Thursday's rout\n\nDing ding goes the Wall Street opening bell, and trading is underway after the US stock market’s most bruising day in 19 months yesterday.\n\nAnd it’s a mixed picture!\n\nTech stocks are rising, lifting the Nasdaq up by 1.2% in early trading. AI-linked stocks such as AMD (+8.1%), SanDisk (+8.3%) and Nvidia (+6.5%) are among the top risers.\n\nBut the much-storied Dow Jones Industrial Average (DJIA) is moving the other way, down 1% at the open. It’s being dragged down by old-economy stocks such as Nike (-3.5%), Walmart (-3.2%) and McDonalds (-3.1%).\n\nReminder: Yesterday the Nasdaq index slumped by 5.5%, while the DJIA dropped by 3.44%. So this is only a small recovery for the Nasdaq , and further pain for the Dow .\n\nNasdaq posts fourth weekly fall in a row\n\nAnd finally…. the Nasdaq’s mini-recovery from its post-midterms plunge is complete.\n\nThe main US tech index has closed for the night up 1.09%, with a gain of 264 points to end at 24,579 points.\n\nBut the broader picture is that the Nasdaq Composite has now fallen for four weeks running, as some of the air has come out of the AI bubble…\n\nWe’ll find out on Monday whether the recovery continues, or the sell-off resumes…. Goodnight. GW\n\nTech stocks still higher in afternoon trading\n\nA late update: With two hours to go before Wall Street closes, the tech rebound continues.\n\nThe Nasdaq Composite index, which sank into ‘correction territory’ yesterday, is up 1.3% now.\n\nAerospace manufacturer and launch service provider Rocket Lab are the top riser, up 12.5%, followed by Airbnb (+11.7%), AppLovin (+10%), Advanced Micro Devices (+9.3%) and Intel (+8.9%).\n\nBut…. Fawad Razaqzada, market analyst at Stonex Trading and FOREX.com, says AI concerns linger, explaining:\n\ndouble quotation mark Technology stocks staged a sharp recovery on Friday after yesterday’s brutal sell-off wiped trillions of dollars off global equity valuations. All major AI-related stocks – Nvidia, AMD, Broadcom and Core Weave – bounced back. But whether recovery holds is another matter. After Thursday’s brutal sell-off wiped trillions of dollars off global equity valuations. Today’s bounce has carried the Nasdaq 100 straight back into former support, and the worries behind the rout, from AI regulation to the sheer scale of tech spending, have not gone away. With the index still carving out lower highs and lower lows, we maintain a cautious Nasdaq 100 forecast, and the near-term risk remains tilted to the downside.\n\nHere’s a late take on this week’s sell-off, from Lee Robinson, CIO of Altana Downside Protector Fund and founder of Altana Wealth:\n\ndouble quotation mark “This sell off has been a long-time coming, and it is not just caused by the midterms or an unwinding of positions in the tech giants. What we are seeing today is the result of stretched valuations and last month’s re-pricing in credit markets, specifically the rising Credit Default Swaps of the Magnificent Seven and CoreWeave. Credit is the engine of capital markets which equities will always eventually follow. We launched the Altana Downside Protector to trade a major downturn that we could see playing out over the next 18 months. The key questions now are who gets hurt by this selloff and what happens next. We see a lot of risk being held by life insurers who are some of the largest owners of AI-linked private credit funds and could be facing a series of de-ratings across their balance sheets.”\n\n[Credit default swaps are an insurance contract that pays out if a company defaults on its debt, as covered in The Big Short ].\n\nClosing post\n\nWith European stock markets closed after a nervy day, and Wall Street calmer than yesterday, it’s time to wrap up…\n\nEuropean stock markets fell sharply today as a rout in US tech stocks spread across the Atlantic, after the Democrats’ midterms victory sparked fears of a slowdown in the AI industry.\n\nA sell-off on Wall Street on Thursday was followed by sharp falls in Asian stocks markets overnight. The investor sentiment then reached London, where the market was, at one stage, poised for its worst day since March.\n\nThe FTSE 100 index, which tracks blue-chip shares listed in London, was down as much as 254 points, or 2.35%, at 10,528 points during a wave of selling in morning trading. But by the close of the day it had recovered to a 1% fall, helped by a bounce in US stocks when Wall Street reopened.\n\nAcross Europe, there were similar losses: Germany’s Dax index has fallen by 2%, France’s Cac 40 has lost 0.8%, and Spain’s Ibex ended the day down 0.6%. Italy’s FTSE Mib fell 0.9%.\n\nIn Asia-Pacific markets, Japan’s Nikkei 225 index sunk 6% and South Korea’s Kospi index tumbled more than 6.5%.\n\n“It’s actually a bit of a disaster,” said Christopher Forbes, the head of Asia and Middle East at CMC Markets.\n\ndouble quotation mark “[Clients] were long index, long stocks, and they all got carried out. All night, all day – we had client margin calls, client complaints … because it’s a very emotional thing, right? People are wedded to their positions and views on a stock or outcome, and you’re telling them: ‘Look, you’ve just lost money.’”\n\nOver in New York right now, the Nasdaq is up 1.5% (having fallen by 5.5% yesterday), and the S&P 500 is up 0.7%.\n\nHere’s the full story:\n\nHere’s the rest of today’s top business news:\n\nExplainer: US tech stock rout: is the AI bubble bursting?\n\nGlobal financial markets have been thrown into a tailspin as investors bet on an AI slowdown after the US midterm elections.\n\nThis is not the first time stock markets have wobbled in recent months due to concerns over a tech bubble. But could this volatility be the start of a huge market meltdown?\n\nRead more here:\n\nEurope’s other major stock markets also recovered some, but not all, of their earlier losses.\n\nGermany’s Dax index has fallen by 2%, France’s Cac 40 has lost 0.8%, and Spain’s Ibex ended the day down 0.6%. Italy’s FTSE Mib fell 0.9%.\n\nFTSE 100 closes down 1%\n\nPhew! After a volatile day’s trading, the London stock market is closed.\n\nAnd after an early slump, triggered by Thursday’s Wall Street rout, UK stocks have recovered some of their losses.\n\nThe FTSE 100 share index has closed for the night down 108.7 points, or 1%, at 10,673 points.\n\nThat will make a dent in millions of ISAs and pensions, but it’s not as bad as this morning’s worst point when the Footsie was down 2.35% and heading for its worst day since March.\n\nThe US dollar has strengthened further today, and is now up 0.65% against a basket of other currencies.\n\nThe London stock market has recovered some, but by not means all, of its earlier losses.\n\nThe FTSE 100 index is now down 145 points, or 1.35%, at 10,637 – having earlier been down as much as 2.35%.\n\nToday’s better-than-expected US jobs report may be helping Wall Street to recover.\n\n“This was a relatively strong jobs report across the board,” said Collin Martin , head of fixed income research and strategy at the Schwab Center for Financial Research.\n\ndouble quotation mark “It may help calm some of the fears that spread to the markets yesterday on AI concerns, supporting the case that the economy remains strong.”\n\nElon Musk is clawing back some of the $113bn he’s lost in the previous two days ( see earlier post ).\n\nTesla’s shares are up 4.9%, while SpaceX have gained 6%, after both stocks fell by over 10% over Wednesday and Thursday.\n\nHargreaves Lansdown: our clients are buying the dip\n\nTrading platform Hargreaves Lansdown reports that its clients have been “buying the dip” – the practice where investors pile in when a stock falls to tempting levels.\n\nAnna Macdonald, investment strategy director at Hargreaves Lansdown, suggests this week’s tech selloff (which is already unwinding) is a buying opportunity:\n\nMacdonald says:\n\ndouble quotation mark “Trading interest in overseas AI and technology companies has been growing all week. We’ve seen some larger investors taking risk off the table, but the average trade has been a buy with Nvidia, SpaceX, Micron, AMD and Alphabet making up the top five. Nvidia and SpaceX are the headline names, while Micron and AMD give investors exposure to the hardware side of the story. Alphabet is interesting too, as its shares were marked down after disappointing numbers and clients have used that as an opportunity to buy. Overall, many of our clients are taking a long-term view and see this as a moment to get back into some of these names at a cheaper entry point. Yesterday’s sell-off looks like an overreaction. We’ve seen these wobbles before and we’ll see them again, but investors need to focus on the fundamentals. Demand for AI isn’t going away, and we expect the newly elected US officials to take a pragmatic approach to the buildout. For patient investors, this is an opportunity to invest in high-quality companies at valuations we haven’t seen in a long time.”\n\n[We don’t do investment advice here at the Guardian, beyond Caveat emptor, dear readers.]\n\nAfter a slow start, the S&P 500 index of US stocks is rising, up 1% today.",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
       "id": "a3771b2bf8ae1023",
       "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
       "summary": "Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security law Exclusive: Joshua Wong laments city’s fate from inside maximum security prison The Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second conviction under a national security law critics say has been used to silence political opposition in the city. Wong, who rose to prominence as the teenage face of Hong Kong’s 2014 pro-democracy demonstrations, submitted his guilty plea in September. He had been accused of working with the exiled Hong Kong activist Nathan Law to urge foreign powers to impose sanctions, blockades or other hostile measures against China. Continue reading...",
@@ -2137,6 +2008,33 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2026/04/Toronto-Maple-Leafs-William-Nylander.jpg"
+    },
+    {
+      "id": "121304500ffa6bc5",
+      "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
+      "summary": "Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth Bank of England raises interest rates to 4% Business live – latest updates An interest rate rise by the Bank of England to 4% is a big call when households are suffering from a second cost of living crisis in four years. Many people will be incredulous when they hear of the decision to increase the cost of borrowing by 0.25 percentage points, looking around their neighbourhood for signs of a booming economy. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
+      "source": "The Guardian Economics",
+      "publisher": "The Guardian",
+      "published": "2026-11-05T13:10:44Z",
+      "category": "Economics",
+      "region": "UK",
+      "labels": [
+        "Economics",
+        "UK"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 828,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/60308561c80255ccbb0d5174dd7aadb14404b385/683_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66712ae13697dcf5d88de0157bd9044d",
+      "body": "Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth\n\nBank of England raises interest rates to 4%\n\nBusiness live – latest updates\n\nAn interest rate rise by the Bank of England to 4% is a big call when households are suffering from a second cost of living crisis in four years.\n\nMany people will be incredulous when they hear of the decision to increase the cost of borrowing by 0.25 percentage points, looking around their neighbourhood for signs of a booming economy.\n\nThe official figures show the economy has proved resilient in response to the jump in oil and gas prices after the outbreak of war in Iran, but UK high streets are struggling and the underlying drivers of inflation are absent.\n\nMost households are spending to stand still, whether it is on food, energy, holidays or leisure pursuits. Businesses are in much the same position. Like households, they have absorbed significant tax rises.\n\nWhat the Bank’s policymakers believe is that despite all this, the energy price shock, being larger than first estimated, will surge through all parts of the economy, forcing up prices, encouraging a wave of wage demands that will, in turn, give inflation a second burst of life next year and the following year.\n\nThis analysis stands in contrast to the Office for Budget Responsibility (OBR), which acts as the Treasury’s independent forecaster. The OBR was clear in evidence to parliament on Wednesday that there was little impetus for strong wages growth.\n\nThe OBR said that, rather than economic growth next year of 1.6% and a rise in inflation to 4.9%, as the Bank expects, it believes the economy will expand by just 1% in 2027 and that the consumer prices index (CPI) will peak at just 3.75%. Inflation hit 3.5% in September, official figures showed .\n\nThe OBR’s chief economist, David Miles, said one of the main reasons for this assessment was the state of UK businesses, which he judged to be quite weak.\n\nHe said they had absorbed a large slice of the rise in energy and fuel costs, and their profit margins had plummeted on average as a result. Where once margins averaged 13% to 14%, the latest figures show they have fallen to 10% to 11%.\n\nHe said there would be little appetite to pay high wage settlements and the imperative would be to rebuild margins.\n\nThe wider economic situation is also very different from the previous crisis in 2022, when the country was coming out of the pandemic and dealing with the onset of the Ukraine war.\n\nBack then, households were awash with lockdown savings that they wanted to spend, and firms were struggling to hire enough staff, leading to intense competition for workers and a spike in wages.\n\nToday, savings are low and households bear the scars of four years of high inflation.\n\nWhat sectors of the economy are making hay in 2026? Retailers and hospitality businesses are suffering, transport companies are battered by high costs and the charity sector is facing widespread financial difficulties. Vacancies are low, suggesting that firms have no need to employ more people.\n\nBusinesses in better-performing sectors such as banking and oil and gas also show little appetite for big wage increases. Banks are using artificial intelligence to shed staff .\n\nThe deputy director of the British Chambers of Commerce, David Bharier, said he was dismayed by the decision.\n\n“So far, there is little sign of the wage-price spiral the Bank is looking to guard against. Unemployment is higher than in 2022, the labour market is looser and our research shows AI adoption accelerating rapidly – with some of the deepest users more likely to expect headcount reductions,” he said.\n\n“After a budget which gave businesses little incentive to invest, and with borrowing costs already high, it is economic growth that will pay the premium.”\n\nThe Bank’s own survey of businesses and a separate report from its regional agents indicate “that wage and price expectations have moved little since September”.\n\nIt means Threadneedle Street policymakers judge that responses to their own business review will prove inaccurate and wages will jump.\n\nThe Bank judged that households’ and firms’ “attentiveness” to rising inflation was high and “there was a risk wage settlements would be higher than businesses expect”.\n\nWhen the government says it is constrained by the bond markets from spending more to help consumers, there is a scenario looming in which ministers and the central bank, to meet their individual mandates, effectively crush the prospects for economic growth.\n\nJohn Healey will say, as he did at the dispatch box last week, that he needs to restrict borrowing and adhere to his fiscal rules. Meanwhile, the bank will be busy making sure it cracks down on inflationary pressures it believes are on the way, even if policymakers cannot see them quite yet.\n\nInterest rates\n\nEconomics\n\nBank of England\n\nOffice for Budget Responsibility\n\nnews",
+      "imageWidth": 1200,
+      "imageHeight": 630
     },
     {
       "id": "ce7f61eb7a56e55b",
@@ -2373,6 +2271,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9283/live/10208510-d94a-11f1-b2ee-87d22b17ac74.jpg"
     },
     {
+      "id": "cc3f7fc89a1d9e8e",
+      "title": "US job growth exceeds expectations in October despite economic uncertainty",
+      "summary": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December The US added 165,000 jobs to the economy in October, a sign of resilience in the labor market amid ongoing war in the Middle East and inflation, according to new data released on Friday. Economists had said the labor market has been stuck in a “low-hire, low-fire” state, in which job growth is sluggish but layoffs also remain low, but October’s data surpassed economist expectations. The unemployment rate went down slightly to 4.1%, the Bureau of Labor Statistics (BLS) reported. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
+      "source": "The Guardian Economics",
+      "publisher": "The Guardian",
+      "published": "2026-11-06T13:42:26Z",
+      "category": "Economics",
+      "region": "Middle East",
+      "labels": [
+        "Economics",
+        "Middle East"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 102,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/6ce70de0573447bd4b3b70f4ceb6e8fd81f1379f/647_0_6469_5178/master/6469.jpg?width=700&quality=85&auto=format&fit=max&s=a0b0f9a34d26df6a06b4f523d5e3cc27"
+    },
+    {
       "id": "e5405b2f19c27af3",
       "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
       "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
@@ -2395,6 +2317,221 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2811/live/420fe4c0-d8c9-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "5dfb48e9ed7e1370",
+      "title": "Liverpool considering Verbruggen move - Sunday's gossip",
+      "summary": "Liverpool consider move for Brighton keeper Bart Verbruggen, Bayern Munich remain in talks with Rio Ngumoha's camp, Tottenham midfielder Conor Gallagher monitored by rival Premier League clubs, plus more.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c54g1nepgr28o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-11-07T22:05:40Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 29,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1f/live/461973d0-daf2-11f1-b441-2b33b063138f.png"
+    },
+    {
+      "id": "32ebfdd6ce3389bd",
+      "title": "McNeill's superb halfway goal sparks Crewe upset over Wimbledon",
+      "summary": "Charlie McNeill's strike from the halfway line helps League Two frontrunners Crewe progress to the second round of the FA Cup, with a 2-1 win over League One AFC Wimbledon.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn15k5pz0o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-11-07T23:05:36Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 30,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f76b/live/d5470b20-dafd-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "63b80bf6f80e23a0",
+      "title": "Poland: Gunman kills 6 in Krakow main square",
+      "summary": "A gunman who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. Officials said the shooter was fascinated with \"radical\" and \"far right' ideologies.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-11-07T21:34:00Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 33,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "90c19cc9761d6a1b",
+      "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
+      "summary": "Government bond yields fall while initial fears ease over impact of election results on world’s biggest economy US midterm elections – live updates After US midterms, what will lame-duck Trump mean for global economy? US stocks have surged as investors digest the Democrats’ victories in the midterm elections , lifted by hopes that Donald Trump ’s turbulent policymaking would be restrained and shaking off initial fears about the impact on growth in the world’s largest economy. The Dow Jones rose close to 3%, its best day in over a year, while the tech-heavy Nasdaq and the benchmark S&P 500 gained about 1.5% each when markets closed on Wednesday afternoon, turning around overnight falls in US stock futures after the news that the Democratic party won control of the Senate and the House of Representatives. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+      "source": "The Guardian Economics",
+      "publisher": "The Guardian",
+      "published": "2026-11-04T16:38:28Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 136,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/6b1f011569afbc3d0e2cd5fc5417582f27adbe6a/714_28_3264_2612/master/3264.jpg?width=700&quality=85&auto=format&fit=max&s=435bcb63bf7d988d18629f0a7776ac86"
+    },
+    {
+      "id": "01ba311f665cc9ed",
+      "title": "Non-league Barrow beat League Two Gillingham with injury-time winner",
+      "summary": "Innes Cameron's 92nd minute goal sends National League side Barrow into the second round of the FA Cup, as they snatch a 1-0 victory at Gillingham.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm5yn1xqv686o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-11-07T23:15:30Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 26,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31db/live/3a5d9310-db00-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "071f07ec03323a80",
+      "title": "Highlights: Exeter shock League One leaders Huddersfield",
+      "summary": "League Two Exeter City pull off an upset 2-1 win away to League One leaders Huddersfield Town to progress into the second round of the FA Cup.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq8rz7lyl5g8o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-11-07T23:08:32Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 27,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25c4/live/f37426e0-dafe-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "e36cdec6d383029e",
+      "title": "'Bruno's as good as ever' - Carrick backs Man Utd captain",
+      "summary": "Manchester United head coach Michael Carrick says captain Bruno Fernandes' commitment to the club is \"undoubted\" and the midfielder is \"as good as ever\".",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-11-07T22:44:20Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c211/live/bb3320f0-dad7-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "208e68eb8b87fd72",
+      "title": "Glasner glee and Delap double - win could be lift-off for Forest",
+      "summary": "Oliver Glasner's celebrations and two goals for Liam Delap bode well for a Nottingham Forest team looking to kick on after their first home Premier League win of the season.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-11-07T21:42:59Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 30,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b02e/live/2eec51e0-daf8-11f1-b9a2-091c4f802785.jpg"
+    },
+    {
+      "id": "b5b67deace80f6ea",
+      "title": "McGeehan hat-trick powers Barnsley to 7-2 win over Aldershot",
+      "summary": "Cameron McGeehan scores a hat-trick as League One side Barnsley romp to an emphatic 7-2 win over Aldershot Town of the National League, to progress to the second round of the FA Cup.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm5yn139zgw0o",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-11-07T21:22:55Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 33,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27f6/live/f1418a10-daeb-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "id": "48af891973c832b3",
@@ -2420,6 +2557,54 @@
       "isBreaking": false,
       "imageUrl": "https://www.eff.org/files/banner_library/ageverification-banner2-3a.png",
       "imageAlt": "two kids on a huge laptop, spied on by an eye in magnifying glass"
+    },
+    {
+      "id": "bb926d860ae9918e",
+      "title": "Randall's last-gasp winner sends Chesterfield past Yeovil in seven-goal thriller",
+      "summary": "Chesterfield fend off a Yeovil Town second-half fightback before scoring a late winner to secure a 4-3 victory in the first round of the FA Cup.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cky937j8vxxeo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-11-07T22:35:13Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 26,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2157/live/cb33cbf0-daf8-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "00cd3013155b75c9",
+      "title": "Pearce double fires York City past Northampton Town",
+      "summary": "Ollie Pearce scores after just 10 seconds as York stroll to an FA Cup first-round win at home to Northampton.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqj34km75eydo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-11-07T23:18:46Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d501/live/e7dfb730-daff-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "id": "5899d7bd4352ae85",
@@ -2470,6 +2655,53 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4608/live/21082060-d939-11f1-93e1-3b657b665bcf.jpg"
     },
     {
+      "id": "cc2b2c65be6539db",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch",
+      "publisher": "TechCrunch",
+      "published": "2026-11-07T21:17:08Z",
+      "category": "Tech",
+      "region": "China",
+      "labels": [
+        "Tech",
+        "China"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 24,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "0bcd23cf097c9f44",
+      "title": "Match of the Day",
+      "summary": "Featuring five games, including matches involving pacesetters Arsenal and Man City.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/iplayer/live/bbcone",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-11-08T00:00:56Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 11,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/images/ic/240x135/p0plmswc.jpg"
+    },
+    {
       "id": "2fcd3bfd730703cc",
       "title": "Leeds beat Spurs to end five-game winless run",
       "summary": "Noah Okafor scores the only goal of the game to give Leeds United their first win since the 14th of September, as Tottenham are beaten 1-0 at Elland Road in the Premier League.",
@@ -2494,28 +2726,76 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c54a/live/5ed07bd0-dac5-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "86fa1d0e3d13812d",
-      "title": "Jones looks to create Japan history in Cardiff",
-      "summary": "Head coach Eddie Jones says he wants his side to create history on Saturday by becoming the first Japan side to beat Wales in Cardiff.",
+      "id": "4ec39f78473a8a2c",
+      "title": "Rotherham end 10-game losing run with FA Cup win over Bromley",
+      "summary": "Goals from Sonny Aljofree and Tom Bradshaw earn Rotherham a 2-0 victory over Bromley in the FA Cup first round.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwvg0y2ekkplo",
-      "source": "BBC Rugby Union",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm93zr7lnqvko",
+      "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-11-05T15:23:30Z",
+      "published": "2026-11-07T22:19:46Z",
       "category": "Sports",
-      "region": "England",
+      "region": "UK",
       "labels": [
         "Sports",
-        "England"
+        "UK"
       ],
-      "sourceWeight": 5,
+      "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 25,
+      "wordCount": 20,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31d0/live/c1e136b0-d91c-11f1-ad94-e17fee4cd332.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c81/live/8c7b1590-daf7-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "50098a4b58c6e259",
+      "title": "What did we learn from Blues' big win over Coleraine?",
+      "summary": "BBC Sport NI takes a look at some of the talking points from Linfield's comprehensive 3-0 win over Coleraine.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq99zeym4zzdo",
+      "source": "BBC Sport",
+      "publisher": "BBC",
+      "published": "2026-11-07T22:19:13Z",
+      "category": "Sports",
+      "region": "UK",
+      "labels": [
+        "Sports",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eab/live/a5411510-daf3-11f1-827e-c7e7ee102257.jpg"
+    },
+    {
+      "id": "567cd07abf0c5b6a",
+      "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+      "summary": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-11-07T21:50:58Z",
+      "category": "Politics",
+      "region": "UK",
+      "labels": [
+        "Politics",
+        "UK"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 21,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa5e/live/9a627e50-dae8-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "id": "7210bf3c21da63b3",
@@ -2564,6 +2844,54 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5f2/live/c2b20ec0-dade-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "2ae0c42024b4b6c2",
+      "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
+      "summary": "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
+      "source": "The Guardian Economics",
+      "publisher": "The Guardian",
+      "published": "2026-11-06T17:04:41Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 65,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/b17a059303674bee4fb3dec0de66bf842d9d60d6/0_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=4985e2b2437d63688bb38cc1afd1fe78"
+    },
+    {
+      "id": "9c742fe42e6eaa65",
+      "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+      "summary": "The BBC has asked the White House and UFC whether the president's job offer is genuine.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-11-07T22:29:37Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "973195418a7a1a33",
@@ -2687,14 +3015,14 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000f/live/2a5829f0-dadb-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "5ef636366ea12e6a",
-      "title": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
-      "summary": "Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?",
+      "id": "695668a03413c1e8",
+      "title": "World number one Rybakina withdraws from WTA Finals",
+      "summary": "World number one Elena Rybakina withdraws from the season-ending WTA Finals because of a viral illness.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cm4g1n9ednn1o",
       "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-11-07T19:34:32Z",
+      "published": "2026-11-07T21:10:55Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -2704,11 +3032,11 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 27,
+      "wordCount": 16,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57c7/live/371e4cc0-dae3-11f1-b441-2b33b063138f.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10e0/live/f0e412b0-dae9-11f1-aac9-0789014bcc48.jpg"
     },
     {
       "id": "c4456765b64318a6",
@@ -2807,14 +3135,14 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cc/live/0069cdb0-dad1-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "id": "23a2f8cff3a780e0",
-      "title": "Bates double earns Dover upset win over Wealdstone",
-      "summary": "Jack Bates' first-half brace gives National League South side Dover Athletic a 2-0 win over the National League's Wealdstone in the first round of the FA Cup.",
+      "id": "2001c1ddfbca3d31",
+      "title": "Notts County beat Altrincham in incredible fog-filled spectacle",
+      "summary": "Notts County find a way to get past National League Altrincham in incredible conditions.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwvg027v5e5yo",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq77p24myz4ro",
       "source": "BBC Sport",
       "publisher": "BBC",
-      "published": "2026-11-07T18:49:14Z",
+      "published": "2026-11-07T21:25:19Z",
       "category": "Sports",
       "region": "UK",
       "labels": [
@@ -2824,11 +3152,11 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 27,
+      "wordCount": 14,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f360/live/c8658c60-dada-11f1-a701-fddedf244c16.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6717/live/4e067140-daef-11f1-a701-fddedf244c16.jpg"
     },
     {
       "id": "7485ef30a5a3d3ec",
@@ -2877,6 +3205,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8262/live/394015f0-dad0-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "b15b7c4902b9c9c4",
+      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+      "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-11-07T01:41:36Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6b/live/b1102500-d9fb-11f1-b441-2b33b063138f.png"
     },
     {
       "id": "2d2584219708532f",
@@ -2997,30 +3349,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d30/live/e8938990-dacd-11f1-bda8-29fb69dbc026.jpg"
-    },
-    {
-      "id": "9c742fe42e6eaa65",
-      "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-      "summary": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-11-07T19:52:23Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f42/live/47f84090-dadf-11f1-88f9-d3c2139f8619.jpg"
     },
     {
       "id": "24120d5dd4fba63e",
@@ -3166,28 +3494,28 @@
       "isBreaking": false
     },
     {
-      "id": "51fa55437a1c34c6",
-      "title": "Highlights: Burton ease past eighth-tier AFC Rushden & Diamonds",
-      "summary": "League One Burton avoid an FA Cup upset as they beat eighth-tier AFC Rushden & Diamonds to progress to the second round.",
+      "id": "7871e16938729b82",
+      "title": "Three ways the interest rate rise could affect you",
+      "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62kel01dkdno",
-      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o",
+      "source": "BBC Business",
       "publisher": "BBC",
-      "published": "2026-11-07T18:02:39Z",
-      "category": "Sports",
+      "published": "2026-11-05T13:08:30Z",
+      "category": "Economics",
       "region": "UK",
       "labels": [
-        "Sports",
+        "Economics",
         "UK"
       ],
-      "sourceWeight": 4,
+      "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 21,
+      "wordCount": 19,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c11/live/1ec15800-dad6-11f1-a701-fddedf244c16.jpg"
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/296a/live/09ae45c0-d916-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "id": "cbf9c03c9d7d3bbf",
@@ -3335,30 +3663,6 @@
       "imageUrl": "https://www.eff.org/files/banner_library/issue-icon-2026-freespeech.png"
     },
     {
-      "id": "17dec9e13dfaa6da",
-      "title": "Highlights: Shrewsbury edge past Eastleigh to reach round two",
-      "summary": "League Two side Shrewsbury Town defeat Eastleigh of the National League 2-1 in the first round of the FA Cup.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6kg7vdk9dy2o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-11-07T17:30:36Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebcd/live/014d4550-dad0-11f1-b441-2b33b063138f.jpg"
-    },
-    {
       "id": "99a76393a34ae175",
       "title": "After victory in the midterms, what next for US Democrats?",
       "summary": "Donald Trump's Republican party has lost its majority in both chambers of the US Congress. But the president still has a lot of power — and the Democrats have yet to agree on how best to use theirs.",
@@ -3380,30 +3684,6 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
-    },
-    {
-      "id": "e6f2c5c8b7d99075",
-      "title": "New Zealand beat Tonga to reach World Cup final",
-      "summary": "Kalyn Ponga returns to inspire New Zealand to a 34-10 victory in a pulsating encounter with Tonga as they reach their first World Cup final since 2013.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq80z8l8zgzno",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-11-07T15:47:06Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 27,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1340/live/7ac23fd0-dac1-11f1-a701-fddedf244c16.jpg"
     },
     {
       "id": "0f36f09738fab229",
@@ -3428,31 +3708,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b477/live/b17159f0-dace-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "6682094b0f4eee35",
-      "title": "Kiwis reap rewards of gamble on 'freak of nature' Ponga",
-      "summary": "Kalyn Ponga's return to Rugby League World Cup action, just 23 days after breaking his arm, was a risk. But New Zealand head coach Stacey Jones felt it was a risk worth taking - and was proved right.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cj20vqpk2z33o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-11-07T13:43:08Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK",
-        "Rugby"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 37,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1c0/live/4f335c80-dac3-11f1-8c3b-f3c0d6bd7c4f.jpg"
     },
     {
       "id": "f7ec4a58017ed544",
@@ -3501,6 +3756,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/9983a2b0-d909-11f1-b72c-d16cdc75f35f.jpg"
+    },
+    {
+      "id": "ad542cbaad5a0c8e",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-11-06T21:06:25Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 21,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "id": "925b2a8fa0fd27cb",
@@ -3743,29 +4022,6 @@
       "imageUrl": "https://i.guim.co.uk/img/media/acf3f29a58aa579a23424c30c97621a3b43d89c8/261_0_7240_5792/master/7240.jpg?width=700&quality=85&auto=format&fit=max&s=62563214a344568987c0dcd8e9e674cb"
     },
     {
-      "id": "9f1bea03107cee3c",
-      "title": "Trump’s new chief of staff Stephen Miller says he ‘saved America’",
-      "summary": "Stephen Miller, US President Donald Trump’s incoming chief of staff praises him.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-11-07T15:29:11Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 12,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "62ff16b36f09d8e5",
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
       "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
@@ -3788,29 +4044,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg"
-    },
-    {
-      "id": "cee81f50df3b44f2",
-      "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
-      "summary": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-11-07T13:50:15Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "6859dac79785d321",
@@ -4246,30 +4479,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d3/live/5b68fae0-d925-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "id": "d485005f6222b084",
-      "title": "Buatsi v Hutchinson 2 - world light-heavyweight title fight predictions",
-      "summary": "Figures from the boxing world give their predictions for Saturday's light-heavyweight world title fight between Joshua Buatsi and Willy Hutchinson.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/boxing/articles/c674pek0yd2jo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-11-07T08:00:59Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 20,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6adf/live/41a848a0-d9e2-11f1-93e1-3b657b665bcf.png"
-    },
-    {
       "id": "c125331ed09a6290",
       "title": "Could potential AI clones of GTA VI force a quicker official port?",
       "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
@@ -4340,29 +4549,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/a4818a1c509f2c44df4d47008a1a483443c9dcad/1251_0_6447_5157/master/6447.jpg?width=700&quality=85&auto=format&fit=max&s=4ed431235a450104cbe8ead354668603"
-    },
-    {
-      "id": "c0e1f602b3dcd685",
-      "title": "US asks China to uphold Busan trade deal commitments",
-      "summary": "The US urged Beijing to meet commitments from a 2025 accord — particularly on agricultural purchases and rare earths supply. China, meanwhile, expressed concern over the US' \"economic, trade restrictive\" measures.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-11-07T04:44:00Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 30,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "69c3fccc65f3bf6b",
@@ -4534,30 +4720,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303012424-1152x648.jpg"
     },
     {
-      "id": "889e73f08634c920",
-      "title": "Who am I? Plus today's other quizzes",
-      "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-11-07T06:53:35Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-    },
-    {
       "id": "303571824409c162",
       "title": "'Hopefully things get done': Americans react to historic political shift",
       "summary": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives.",
@@ -4678,30 +4840,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c320/live/25775960-3fc2-11f1-b61b-1d0ccf7b6022.jpg"
     },
     {
-      "id": "ddf1531d2e29931e",
-      "title": "Bristol Rovers shock Cambridge United to reach round two",
-      "summary": "League Two side Bristol Rovers end a run of six matches without a win, as they shock League One side Cambridge United, beating them 2-0 at the Memorial Stadium, to reach the second round of the FA Cup.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cxdd88g97lm7o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-11-06T23:26:39Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 38,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7858/live/c81678b0-da2f-11f1-a701-fddedf244c16.jpg"
-    },
-    {
       "id": "6c017b1b03c44137",
       "title": "GB sprint star Hunt visits England training camp",
       "summary": "Great Britain sprint star Amy Hunt visited England's training base before Sunday's Nations Championship match against Australia.",
@@ -4749,30 +4887,6 @@
       "isBreaking": false
     },
     {
-      "id": "958538f36b74ded2",
-      "title": "Leicester hold nerve to knock out sixth-tier Oxford City",
-      "summary": "League One side, and 2021 champions, Leicester City avoid an upset as they beat sixth-tier Oxford City 4-2 at the MGroup Stadium, to reach the second round of the FA Cup.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8qlnn4dvp3yo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-11-06T23:37:23Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 31,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38fa/live/ceecfd10-da2c-11f1-a701-fddedf244c16.jpg"
-    },
-    {
       "id": "fa8ee8bf7e3ecbe9",
       "title": "Today’s UK interest rate rise unlikely to be the last unless Iran war ends; Wall Street slides on AI fears as ‘panic sets in’ – as it happened",
       "summary": "UK hit by first interest rate rise in three years, as Bank predicts inflation will approach 5% by middle of 2027 Could the AI bubble burst after Democrats’ midterms sweep? - The Latest Interest rate rise in midst of cost of living crisis will leave many incredulous UK government bond prices are also rallying today. This has pushed down the yield, or rate of return, on UK 10-year gilts by 4 basis points (0.04 of a percentage point) to the lowest since August 28, below 5.1%. Continue reading...",
@@ -4795,30 +4909,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/8dc0f6e40002ad4a4fadac568c61f9cceacdf4ee/110_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=2538fc7c623102de5eb86713357633d0"
-    },
-    {
-      "id": "a09db2e2b31ab4ea",
-      "title": "'Big decisions' affected the game - Lampard",
-      "summary": "Coventry City head coach Frank Lampard is frustrated after three \"big decisions\" went against his side in their 3-1 defeat by Everton at the Hill Dickinson Stadium.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm74ppwz9yewo",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-11-06T22:40:58Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 27,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d19/live/d3d66860-da32-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "dce1d5e7e48403f6",
@@ -4892,109 +4982,13 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/6c9b99624b2d4f830d94948c591fde5d07839cf9/148_0_6358_5086/master/6358.jpg?width=700&quality=85&auto=format&fit=max&s=eda3c37bb7a206699007077ac919dfd4"
-    },
-    {
-      "id": "40ab14884f6a72da",
-      "title": "Power deal between Labour and Greens in Sheffield",
-      "summary": "Fran Belbin tells a council meeting to expect the current Labour - Green administration to continue.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly0en8e8eeo",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-11-04T17:01:13Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 15,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4506/live/76d3fa60-d86b-11f1-85ab-b3cc3b5498c6.jpg"
-    },
-    {
-      "id": "920ebdea6c74fe40",
-      "title": "Morgan aims to show new attacking threat for Wales",
-      "summary": "Wales flanker Jac Morgan believes he has added to his attacking game by moving to Gloucester in the Prem.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm9dzwg7ze59o",
-      "source": "BBC Rugby Union",
-      "publisher": "BBC",
-      "published": "2026-11-04T16:20:53Z",
-      "category": "Sports",
-      "region": "England",
-      "labels": [
-        "Sports",
-        "England"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d085/live/88597b00-d868-11f1-85ab-b3cc3b5498c6.jpg"
-    },
-    {
-      "id": "33256badbb97868e",
-      "title": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
-      "summary": "Cost of servicing external debt is preventing developing countries from investing for future Debt owed by developing countries rose to a record $9.4tn (£7tn) last year, with the poorest paying the highest interest rates since the late 1980s, World Bank data shows. The UK government is preparing to champion a “new drive on debt” as part of its presidency of the G20 next year – a move the prime minister, Andy Burnham, has linked to confronting the legacy of slavery. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-11-05T14:30:25Z",
-      "category": "Economics",
-      "region": "World",
-      "labels": [
-        "Economics",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 82,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/85f4db268f9e270df6f680d2524c254755da2af2/202_0_3755_3004/master/3755.jpg?width=700&quality=85&auto=format&fit=max&s=12c555bead37856025d05def0df5a026"
-    },
-    {
-      "id": "7db7c5f382a7641a",
-      "title": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
-      "summary": "This weekend's Sao Paulo Grand Prix is in many ways the first page of the first chapter of the next championship battle.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-11-06T20:52:24Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 22,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511a/live/712d8810-da0f-11f1-bbd1-cf41b7fd4e9b.jpg"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 23
+      "items": 29
     },
     {
       "source": "BBC Politics",
@@ -5099,7 +5093,7 @@
     {
       "source": "BBC Sport",
       "ok": true,
-      "items": 61
+      "items": 66
     },
     {
       "source": "BBC Rugby Union",
