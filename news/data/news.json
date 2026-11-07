@@ -1,23 +1,25 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-07T00:06:00.521144Z",
+  "generatedAt": "2026-11-07T05:55:19.284481Z",
   "topStoryIds": [
-    "61239428d0ab4c72",
-    "46fdfeb4b49d35dc",
+    "2242c242fda3e9b8",
+    "3527b67b9be29c14",
     "63b81e64942f49e0",
     "408cd7880bb1b652",
     "4acac95447e71347",
-    "72ee9b0b52c18e25",
-    "e4cf48010d1554e8"
+    "46fdfeb4b49d35dc",
+    "72ee9b0b52c18e25"
   ],
   "sectionStoryIds": {
     "Politics": [
+      "2242c242fda3e9b8",
       "61239428d0ab4c72",
-      "f34156f84d0b4ccd",
       "408cd7880bb1b652",
-      "4acac95447e71347"
+      "4acac95447e71347",
+      "bd8e4e742aa7b74c"
     ],
     "Tech": [
+      "3527b67b9be29c14",
       "46fdfeb4b49d35dc",
       "72ee9b0b52c18e25",
       "e4cf48010d1554e8",
@@ -33,13 +35,14 @@
       "cc3f7fc89a1d9e8e",
       "90c19cc9761d6a1b",
       "2ae0c42024b4b6c2",
+      "f7039da7dd84113f",
       "7871e16938729b82",
       "ad542cbaad5a0c8e",
-      "a7224d1f6e3240af",
-      "58d06739a10bc110"
+      "a7224d1f6e3240af"
     ],
     "Sports": [
       "b7b1f80beead4fbf",
+      "d85b1b6180ab4b6a",
       "6493073195baf3a5",
       "644d2a97a7cd1613",
       "606ce3f3893ccccf",
@@ -48,7 +51,6 @@
       "303425effdb6964a",
       "7321929478181bab",
       "c1f5e2addd609b43",
-      "2aaeadf097f27e83",
       "52ef02a717217231",
       "799467969dbe77b4"
     ],
@@ -66,41 +68,41 @@
   },
   "stories": [
     {
-      "id": "61239428d0ab4c72",
-      "title": "In jailing Joshua Wong, China is telling the world they'd crush every hope for democracy on its soil | Nathan Law",
-      "summary": "My friend was due to be released next January. Under draconian security laws, his sentence has been extended by 10 years Two years ago, I wrote in this newspaper about the lengthy imprisonment of my friend Joshua Wong, who I spent years campaigning alongside for the advancement of Hong Kong’s democracy. He was given an unjust sentence meant to keep him behind bars until January 2027. He was supposed to be released in a few months, when I hoped he would finally be able to reunite with his friends and family and embark on a new chapter. But this hope was misplaced. The end of the tunnel isn’t next year; it’s late 2036. By then, he will be 40. On Thursday, Joshua was sentenced to another 10 years under Hong Kong’s national security law for colluding with foreign forces. He is the only political prisoner who’s been convicted twice under the national security law. The judge described Joshua and me as “two ringleaders or masterminds” urging foreign powers to impose sanctions and other hostile actions against the Chinese and Hong Kong governments. The judgment cited previous international advocacy work, media interviews, social media posts and the political activities of Demosistō, the youth-led democratic party we founded. Nathan Law is a pro-democracy activist and former legislator from Hong Kong. He is a political refugee in the UK Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
+      "id": "2242c242fda3e9b8",
+      "title": "Ukraine war briefing: Beijing confirms historic Xi-Trump-Putin meeting under discussion",
+      "summary": "Russia could use tri leader summit to nudge China and US closer to its position on Ukraine, experts say. What we know on day 1,718 Beijing has confirmed that it is discussing a historic meeting between Chinese leader Xi Jinping, the US president, Donald Trump, and Russia’s Vladimir Putin . Mao Ning, a spokesperson for the Chinese foreign ministry, said at a press briefing this week in Beijing that China “is in communication with relevant parties regarding a meeting between the three heads of state”, which could take place on the sidelines of the Apec summit in the southern Chinese city of Shenzhen this month. Russia would probably use the summit to nudge China and the US closer to Moscow’s positions on Ukraine , said Sun Yun, director of the China program at the Stimson Center. However, Trump has been warned by his advisers to steer clear of Ukraine as a topic of the discussions, said Danny Russel, a former senior state department official who served in Barack Obama’s administration and who is now a distinguished fellow at the Asia Society Policy Institute. Ukraine again came under attack from Russia on Saturday, after President Volodymyr Zelenskyy repeated his calls for allies to supply Kyiv quickly with missiles for the US-made Patriot system to defend Ukrainian cities . Zelenskyy on Friday had warned that the Ukrainian military was bracing for new ⁠strikes ​by Russian forces against important infrastructure. “We ⁠have intelligence at this time that Russia is preparing new strikes on energy, on ⁠bridges across the Dnipro, on civilian infrastructure,” Zelenskyy said ​in his nightly ‌video address. “The ‌air force and the armed forces of Ukraine ‌as a whole are preparing for defence. It will not be easy.” Kyiv, along with other Ukrainian cities, has been subjected to near-constant attacks for several weeks. A missile attack by Russian forces ⁠early on Saturday damaged a residential ⁠building in the Ukrainian capital , according to Mayor ​Vitali ‌Klitschko. The city’s military administration, also writing on Telegram, said two people were injured and a building housing a kindergarten was ‌damaged. Officials continued to warn residents of the potential for more strikes hours ​after the attack. President Zelenskyy says he wants specific guarantees from western allies on how postwar security support would function when the war with Russia finally ends .…",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/06/hong-kong-prisoners-china-signal-democracy-joshua-wong",
+      "url": "https://www.theguardian.com/world/2026/nov/07/ukraine-war-briefing-beijing-confirms-historic-xi-trump-putin-meeting-under-discussion",
       "source": "The Guardian China",
       "publisher": "The Guardian",
-      "published": "2026-11-06T14:53:05Z",
+      "published": "2026-11-07T03:12:08Z",
       "category": "Politics",
-      "region": "China",
+      "region": "US",
       "labels": [
         "Politics",
-        "China"
+        "US"
       ],
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 894,
-      "readingMinutes": 5,
+      "wordCount": 562,
+      "readingMinutes": 3,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/ac7d101f59d11c72b50edb388c770b059b99c420/423_0_2915_2334/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=a44d713333fbc9cc057185ee783330cc",
-      "body": "My friend was due to be released next January. Under draconian security laws, his sentence has been extended by 10 years\n\nT wo years ago, I wrote in this newspaper about the lengthy imprisonment of my friend Joshua Wong, who I spent years campaigning alongside for the advancement of Hong Kong’s democracy. He was given an unjust sentence meant to keep him behind bars until January 2027. He was supposed to be released in a few months, when I hoped he would finally be able to reunite with his friends and family and embark on a new chapter.\n\nBut this hope was misplaced. The end of the tunnel isn’t next year; it’s late 2036. By then, he will be 40. On Thursday, Joshua was sentenced to another 10 years under Hong Kong’s national security law for colluding with foreign forces. He is the only political prisoner who’s been convicted twice under the national security law. The judge described Joshua and me as “two ringleaders or masterminds” urging foreign powers to impose sanctions and other hostile actions against the Chinese and Hong Kong governments. The judgment cited previous international advocacy work, media interviews, social media posts and the political activities of Demosistō, the youth-led democratic party we founded.\n\nMuch of the cited evidence predates the implementation of the national security law, even though the court insisted it was not being applied retrospectively. Before 2020, meeting with foreign parliamentarians, engaging with and speaking to international institutions, and advocating for measures against human rights abuses were ordinary campaign strategies. These were peaceful means through which we tried to hold those in power accountable. The campaigns raised the profile of Hong Kong’s protests and garnered substantial support; they were so effective that Beijing had to impose the national security law to curb them and impose extensive legal punishments.\n\nThere is a stark lack of evidence about Joshua’s actions. Prosecutors said that he conspired with campaigners including myself to ask foreign bodies to impose sanctions on China – relying on his sharing of Facebook posts written by me. But these posts did not directly call for sanctions – they made other appeals, including for digital forensic companies to terminate their cooperation with the Hong Kong police. There’s no evidence that Wong himself advocated for imposing any form of sanctions, or that he had any direct link to advocacy work outside Hong Kong. The court also accepted that no organisation or funding supported his activities after the law came into force.\n\nStill, as flimsy as the evidence is, it’s enough to secure him a decade in jail. The crux of the trial is not legal; it’s political. It is clear that Beijing exercises sweeping control over Hong Kong’s legal and political systems. This can be seen in the tightening of the electoral system by introducing an Iranian-style vetting mechanism , in the jailing of peaceful political dissidents and the emphasis placed on the necessity of “patriots ruling Hong Kong” .\n\nWhen Chinese leaders categorise Jimmy Lai, Benny Tai and Joshua Wong as the “masterminds” behind the 2019 pro-democracy protests, the legal system must deliver sentences that reflect the trio’s “importance” . That’s why Lai and Tai have been sentenced to 20 years and 10 years respectively, and rank among the most persecuted pro-democracy figures in the region. There are now close to 2,000 political prisoners in Hong Kong.\n\nIt’s devastating that Joshua has been behind bars for such a large portion of his adult life. I couldn’t even imagine skipping 16 years before I reached my 40s – during which time many people meet their partner, get married, raise a family and settle into a career. Joshua has been deprived of living fully because of his advocacy for important democratic values. The sentence signals to the world that China is determined to quash any hopes for freedom and democracy on its soil.\n\nAs geopolitical competition intensifies and populism rises, human rights are increasingly treated as an inconvenience to diplomatic and economic interests. Governments speak of stability and pragmatic engagement, while political prisoners slowly disappear from international public attention. The Chinese regime has little reason to change its approach if the repression of Hong Kong carries no meaningful consequences, either to trade or its global standing.\n\nGiven that Hong Kong was a British colony until as recently as 1997, the UK, in particular, should not regard the territory as merely another foreign policy issue. The Sino-British joint declaration was intended to safeguard the city’s rights and freedoms. The British government should therefore make the release of Joshua, Jimmy Lai and other political prisoners a priority when dealing with Beijing, rather than responding to each new sentence with another ineffective statement of concern.\n\nFor months, I had imagined the day Joshua would finally be free. Now that hope has been pushed away for another decade. We must not forget him, and must take urgent action to demand his immediate release.\n\nafter newsletter promotion\n\nNathan Law is a pro-democracy activist and former legislator from Hong Kong. He is a political refugee in the UK\n\nDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here .\n\nHong Kong\n\nOpinion\n\nCivil liberties - international\n\nHuman rights\n\nFreedom of speech\n\nCensorship\n\nActivism\n\nChina\n\ncomment",
+      "imageUrl": "https://i.guim.co.uk/img/media/eefa44b6d1a8c7845f9c0bd685c18731ad826bb9/301_0_5833_4667/master/5833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=654677210a1cb90b4e12b6249eead659",
+      "body": "Russia could use tri leader summit to nudge China and US closer to its position on Ukraine, experts say. What we know on day 1,718\n\nBeijing has confirmed that it is discussing a historic meeting between Chinese leader Xi Jinping, the US president, Donald Trump, and Russia’s Vladimir Putin . Mao Ning, a spokesperson for the Chinese foreign ministry, said at a press briefing this week in Beijing that China “is in communication with relevant parties regarding a meeting between the three heads of state”, which could take place on the sidelines of the Apec summit in the southern Chinese city of Shenzhen this month.\n\nRussia would probably use the summit to nudge China and the US closer to Moscow’s positions on Ukraine , said Sun Yun, director of the China program at the Stimson Center. However, Trump has been warned by his advisers to steer clear of Ukraine as a topic of the discussions, said Danny Russel, a former senior state department official who served in Barack Obama’s administration and who is now a distinguished fellow at the Asia Society Policy Institute.\n\nUkraine again came under attack from Russia on Saturday, after President Volodymyr Zelenskyy repeated his calls for allies to supply Kyiv quickly with missiles for the US-made Patriot system to defend Ukrainian cities . Zelenskyy on Friday had warned that the Ukrainian military was bracing for new ⁠strikes ​by Russian forces against important infrastructure. “We ⁠have intelligence at this time that Russia is preparing new strikes on energy, on ⁠bridges across the Dnipro, on civilian infrastructure,” Zelenskyy said ​in his nightly ‌video address. “The ‌air force and the armed forces of Ukraine ‌as a whole are preparing for defence. It will not be easy.”\n\nKyiv, along with other Ukrainian cities, has been subjected to near-constant attacks for several weeks. A missile attack by Russian forces ⁠early on Saturday damaged a residential ⁠building in the Ukrainian capital , according to Mayor ​Vitali ‌Klitschko. The city’s military administration, also writing on Telegram, said two people were injured and a building housing a kindergarten was ‌damaged. Officials continued to warn residents of the potential for more strikes hours ​after the attack.\n\nPresident Zelenskyy says he wants specific guarantees from western allies on how postwar security support would function when the war with Russia finally ends . Zelenskyy’s comments in an interview aired late Thursday followed two days of discussions among allies in Brussels that focused on postwar security and reconstruction. They also came before planned three-way talks next week in Abu Dhabi between Ukraine, Russia and the United States, the first trilateral peace discussions since February. “What matters is that it’s clear on paper,” Zelenskyy said in an interview with Ukraine’s private 1+1 television broadcast late Thursday. “The question isn’t dozens of points, but simply an understanding of the outcome: If Russia starts [attacking] again, what will happen? Who will do what, with what means, and when?”\n\nThe Brussels meetings brought together officials from the US, UK, France, Germany and the European Union, along with representatives from the World Bank and the US investment group BlackRock , Ukrainian lead negotiator Rustem Umerov wrote in an online post. “We separately discussed the threats from Russia to Ukraine and all of Europe, as well as joint steps to counter them,” Umerov wrote.\n\nRussia\n\nRussia-Ukraine war at a glance\n\nUkraine\n\nEurope\n\nChina\n\nTrump administration\n\nVladimir Putin\n\nXi Jinping\n\nexplainers",
       "imageWidth": 1200,
       "imageHeight": 630
     },
     {
-      "id": "46fdfeb4b49d35dc",
-      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-      "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+      "id": "3527b67b9be29c14",
+      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+      "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
       "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
       "source": "Ars Technica",
       "publisher": "Ars Technica",
-      "published": "2026-11-06T14:13:32Z",
+      "published": "2026-11-06T22:41:37Z",
       "category": "Tech",
       "region": "US",
       "labels": [
@@ -110,14 +112,14 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 505,
-      "readingMinutes": 3,
+      "wordCount": 700,
+      "readingMinutes": 4,
       "isShort": false,
       "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
-      "body": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.\n\nTop Republican lawmakers have asked Jensen Huang to appear before Congress to answer questions after it was reported that US intelligence officials believe Nvidia’s chief executive has been targeted by a Chinese spying operation.\n\nThe chairs of the House committees on China, foreign affairs, and intelligence wrote to Huang this week asking him to appear before a joint closed-door briefing for their committees on November 18.\n\n“Recent reports raise significant national security concerns regarding the People’s Republic of China’s access to sensitive US technology and information,” representatives John Moolenaar, Brian Mast, and Rick Crawford wrote.\n\n“The issue of PRC infiltration and access to cutting-edge US technology is core to the investigative work of our three committees this Congress. It is vital that Congress determines the extent to which US national security has been placed at risk,” the lawmakers added.\n\nThe New York Times last week wrote that US intelligence officials believed Huang had been the target of a Chinese spy operation. The concerns center on a Chinese woman named Alice Huang, an executive at Megaspeed, a Singapore-based cloud company that has bought billions of dollars of Nvidia’s chips.\n\nNvidia has rejected the claims and on Thursday would not say if Huang would appear before Congress. “Meetings with customers are part of a CEO’s job. Jensen talks with thousands of customer executives every year,” the company said.\n\n“Our regional cloud customers receive ordinary business information—not sensitive Nvidia trade secrets—and zero information relevant to national security,” it added.\n\nThe lawmakers said they wanted Huang to discuss the security protocols Nvidia had in place to protect against “foreign adversary espionage.” The company said its chief executive had an “outstanding security team” that travels with him.\n\nThe New York Times said Huang had not received a “defensive briefing,” which the intelligence community usually, but not always, provides potential espionage targets to warn them about the activity.\n\nNvidia said it was confident that the US government would have let the company know if it thought a person was a threat to US industry and that it often receives updates from Washington about people of concern.\n\nThe US has previously scrutinized Megaspeed, founded in 2023 as a spin-off from a Chinese gaming company, for potential chip smuggling, although no charges followed.\n\nNvidia launched its own unannounced on-site inspections at Megaspeed in Singapore when it became aware of the US concerns, but the internal probe found no evidence of its chips being diverted into China, said people familiar with the matter.\n\nThe company’s supply chain has come under increasing scrutiny as US export controls have prompted increased smuggling of its chips. Earlier this year Wally Liaw, a co-founder of Supermicro, one of Nvidia’s key supply chain partners, was arrested in the US and charged with smuggling Nvidia chips into China. He denies any wrongdoing and has pleaded not guilty.\n\n© 2026 The Financial Times Ltd . All rights reserved . Not to be redistributed, copied, or modified in any way.",
-      "imageWidth": 1024,
-      "imageHeight": 648
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-2560x1440.jpg",
+      "body": "Iran threatened to attack subsea cables if US escalates military strikes again.\n\nSeveral tanker ships linked to Iran have been loitering over subsea Internet cables in the Gulf of Oman near the Strait of Hormuz—a possible indication that the Iranian government is preparing to attack such undersea infrastructure in response to any renewed US and Israeli strikes.\n\nThe movements of three sanctioned tankers and an Iranian fishing boat have been tracked near major undersea cables by the maritime intelligence firm Windward in October, according to the Financial Times . Six active cables currently cross through the contested Strait of Hormuz, linking the Middle East to Europe, Africa and Asia, with two more cables having segments under construction in the region.\n\nFour countries, including Iraq, Kuwait, Bahrain and Qatar, depend entirely upon such subsea telecommunications connections running through the Strait of Hormuz chokepoint to link with the outside world. But other countries also depend heavily on the region’s undersea cable network—one third of India’s westbound Internet traffic goes through the Persian Gulf and Strait of Hormuz.\n\nOne cable under construction, the 2Africa cable , is owned by a tech consortium that includes the US company Meta. That was one of the major cable corridors visited by the drifting Iran-linked ships.\n\nWindward used both ship-tracking data and satellite images to track the vessels as they slowed down and looped around near multiple cables, with some ships then “going dark” by switching off their automatic identification system (AIS) transponders that normally broadcast their location and other information.\n\nSuch movement and behavioral patterns suggest the Iran-linked ships may be “mapping the cable routes, or placing charges or mines on them while dark,” Windward told the Financial Times.\n\nWindward highlighted the examples of two sanctioned tankers linked to Iran that spent days drifting “directly over regional cable corridors… both with no commercial reason to stop” in a blog post on October 26. Both ships carried no commercial cargo.\n\nThreats of cable fees and attacks\n\nSince the US and Israel first launched a major war with Iran in February 2026, Iran’s response beyond targeting US military bases, ships and aircraft has included attacking commercial shipping in the Strait of Hormuz and hitting oil refineries and other energy infrastructure along with airports in various Gulf countries.\n\nIran has also made a point of threatening or attacking US Big Tech infrastructure in the Middle East, including launching multiple drone strikes on Amazon data centers . In May 2026, a spokesperson for Iran’s Islamic Revolutionary Guard Corps claimed Iran would “impose fees on Internet cables” belonging to US tech companies and other owners.\n\nBut more recently, multiple Iranian officials and commanders of Iran’s Islamic Revolutionary Guard Corps (IRGC) have warned that they could directly attack the undersea cables running through the Strait of Hormuz. This came after President Donald Trump repeatedly threatened to renew major US military strikes on Iran and warned he could “annihilate” the country during a speech at the United Nations in New York on September 22.\n\n“Seven major cables run through the Strait of Hormuz, supporting global Internet operations and commercial data transmission,” one IRGC spokesperson said on October 20. “We remind the enemy of this.”\n\nThe latest phase of the war has involved more limited US military strikes against Iranian targets, even as Trump has alternated between threats and touting the possibility of a diplomatic breakthrough. Meanwhile, Iran has increased drone strikes and other attacks on commercial ships to exert its own pressure on the United States, with October marking the highest number of ship attacks since the war began.\n\nMuch damage has already been done. The limited fleet of cable-laying ships used for installation and repair has not been able to venture safely into the region since the war began, which forced the Meta-backed 2Africa cable to pause its planned expansion . The war has also compelled US tech companies and Gulf countries to accelerate efforts to develop alternative cable routes bypassing the Strait of Hormuz.\n\nThe Middle East is not the only part of the world where threats to the Internet’s undersea backbone have intensified. Subsea infrastructure is increasingly at risk from sabotage and gray-zone warfare from the Baltic Sea to the Pacific Ocean.",
+      "imageWidth": 2560,
+      "imageHeight": 1440
     },
     {
       "id": "63b81e64942f49e0",
@@ -169,7 +171,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/67af/live/52b739e0-da04-11f1-84c1-dbcae60402d7.jpg",
-      "body": "Published 6 hours ago\n\nThe naming of smoky bacon-flavoured crisps has become the latest political headache to emerge from the government's bid for closer ties with the EU.\n\nThe government is negotiating a deal on food standards in a bid to cut costs for British companies trading with Europe.\n\nLabour ministers have been keen to talk up the potential economic benefits of the agreement, which could be announced at a summit later this month.\n\nBut the deal's requirement for Britain to adopt EU food rules in a wide range of areas has threatened to reignite sovereignty debates from the Brexit era.\n\nLabour ministers have been keen to sidestep talking about the impact of alignment in particular sectors, instead stressing the overall economic boost it expects the food deal to bring.\n\nOn Thursday, Environment Secretary Angela Eagle told a radio presenter he should \"get a life\" when he asked about the potential impact of the new rules on snacks, such as smoky bacon crisps.\n\nBut it highlights the political dangers for the government of realigning with regulations that British politicians have not been able to shape, with the Conservatives and Reform UK keen to pounce on cases showing Britain to be a \"rule taker\" from Brussels.\n\nIt is not the first regulatory skirmish over smoky bacon crisps - following previous headlines over how the well-loved British flavour could be affected by an EU decision in 2024 to phase out a number of artificial smoke flavourings.\n\nNow, the flavour name itself has been called into question by a separate EU attempt to restrict how descriptions of meat are used to market food.\n\nUnder rules adopted this summer, the EU plans to restrict the use of 31 terms, including bacon, drumstick and steak, to products that contain meat, claiming consumers could be confused by plant-based alternatives using the same names.\n\nThe European snack industry is seeking clarity on how the rules, which will also cover terms such as pork, chicken and beef, would apply to meat-flavoured crisps, including those flavoured without the use of any meat extracts.\n\nThe UK government has said it expects the new regulations to be in scope of its proposed food standards deal.\n\nThis means they would also apply to companies marketing their products in Britain, which is among the biggest consumers of crisps in Europe, according to analysts Euromonitor. , external\n\nUncertainty over rules\n\nIt has raised the prospect that crisps with names such as smoky bacon and roast chicken could have to be relabelled to be sold in British shops, although much remains unclear about how the rules will apply in practice.\n\nThe new EU rules, which will not come into force until after August 2029, will allow the European Commission to create exemptions for meaty names with an established long-term use to describe other types of food product.\n\nThe Brussels-based body is yet to set out how it plans to use this power, or what it means for snacks.\n\nA group of conservative German MEPs are also seeking a specific carve-out for meat names in snacks and sauces in separate legislation , external currently making its way through the European Parliament.\n\nThe Food and Drink Federation, which represents British crispmakers including Walkers and KP Snacks, has been supportive of the government's bid to reach a food deal due to its potential to reduce trade barriers with Europe.\n\nBut it has highlighted the new rules as an example of where it wants the government to work with industry to ensure UK interests are reflected in EU decision making.\n\n\"Meat protections are an example of a new EU rule that UK businesses will need to comply with, but which the UK was not involved in developing,\" added the body's chief scientific officer Kate Halliwell.\n\n'Unintended consequences'\n\nThe Potato Processors' Association, which also represents a number of major snackmakers, said it was monitoring the situation closely and wanted to see clarification of how the rules could affect its members.\n\nVanessa Richardson, its deputy director general, said her association supported moves to reduce \"unnecessary barriers\" in the trade of food products.\n\nBut she added it was important that the government's deal is implemented in a way that \"avoids unintended consequences for established product descriptions which consumers clearly understand as referring to a flavour\".\n\nThe Department for Environment, Food & Rural Affairs (Defra) says it stands ready to help British snack businesses prepare for the impact of the new EU rules.\n\nIt is not yet clear what a British version of the rules would look like, or whether they would need to apply from 2029 alongside the new European regulations.\n\nRelated topics\n\nBrexit\n\nCrisps\n\nMore on this story\n\nUK and EU agree draft deal to scrap Brexit red tape over food exports Published 3 days ago\n\nNo more veggie burgers? EU parliament votes to ban meat names for plant-based foods Published 8 October 2025",
+      "body": "Published 6 November 2026\n\nThe naming of smoky bacon-flavoured crisps has become the latest political headache to emerge from the government's bid for closer ties with the EU.\n\nThe government is negotiating a deal on food standards in a bid to cut costs for British companies trading with Europe.\n\nLabour ministers have been keen to talk up the potential economic benefits of the agreement, which could be announced at a summit later this month.\n\nBut the deal's requirement for Britain to adopt EU food rules in a wide range of areas has threatened to reignite sovereignty debates from the Brexit era.\n\nLabour ministers have been keen to sidestep talking about the impact of alignment in particular sectors, instead stressing the overall economic boost it expects the food deal to bring.\n\nOn Thursday, Environment Secretary Angela Eagle told a radio presenter he should \"get a life\" when he asked about the potential impact of the new rules on snacks, such as smoky bacon crisps.\n\nBut it highlights the political dangers for the government of realigning with regulations that British politicians have not been able to shape, with the Conservatives and Reform UK keen to pounce on cases showing Britain to be a \"rule taker\" from Brussels.\n\nIt is not the first regulatory skirmish over smoky bacon crisps - following previous headlines over how the well-loved British flavour could be affected by an EU decision in 2024 to phase out a number of artificial smoke flavourings.\n\nNow, the flavour name itself has been called into question by a separate EU attempt to restrict how descriptions of meat are used to market food.\n\nUnder rules adopted this summer, the EU plans to restrict the use of 31 terms, including bacon, drumstick and steak, to products that contain meat, claiming consumers could be confused by plant-based alternatives using the same names.\n\nThe European snack industry is seeking clarity on how the rules, which will also cover terms such as pork, chicken and beef, would apply to meat-flavoured crisps, including those flavoured without the use of any meat extracts.\n\nThe UK government has said it expects the new regulations to be in scope of its proposed food standards deal.\n\nThis means they would also apply to companies marketing their products in Britain, which is among the biggest consumers of crisps in Europe, according to analysts Euromonitor. , external\n\nUncertainty over rules\n\nIt has raised the prospect that crisps with names such as smoky bacon and roast chicken could have to be relabelled to be sold in British shops, although much remains unclear about how the rules will apply in practice.\n\nThe new EU rules, which will not come into force until after August 2029, will allow the European Commission to create exemptions for meaty names with an established long-term use to describe other types of food product.\n\nThe Brussels-based body is yet to set out how it plans to use this power, or what it means for snacks.\n\nA group of conservative German MEPs are also seeking a specific carve-out for meat names in snacks and sauces in separate legislation , external currently making its way through the European Parliament.\n\nThe Food and Drink Federation, which represents British crispmakers including Walkers and KP Snacks, has been supportive of the government's bid to reach a food deal due to its potential to reduce trade barriers with Europe.\n\nBut it has highlighted the new rules as an example of where it wants the government to work with industry to ensure UK interests are reflected in EU decision making.\n\n\"Meat protections are an example of a new EU rule that UK businesses will need to comply with, but which the UK was not involved in developing,\" added the body's chief scientific officer Kate Halliwell.\n\n'Unintended consequences'\n\nThe Potato Processors' Association, which also represents a number of major snackmakers, said it was monitoring the situation closely and wanted to see clarification of how the rules could affect its members.\n\nVanessa Richardson, its deputy director general, said her association supported moves to reduce \"unnecessary barriers\" in the trade of food products.\n\nBut she added it was important that the government's deal is implemented in a way that \"avoids unintended consequences for established product descriptions which consumers clearly understand as referring to a flavour\".\n\nThe Department for Environment, Food & Rural Affairs (Defra) says it stands ready to help British snack businesses prepare for the impact of the new EU rules.\n\nIt is not yet clear what a British version of the rules would look like, or whether they would need to apply from 2029 alongside the new European regulations.\n\nRelated topics\n\nBrexit\n\nCrisps\n\nMore on this story\n\nUK and EU agree draft deal to scrap Brexit red tape over food exports Published 3 days ago\n\nNo more veggie burgers? EU parliament votes to ban meat names for plant-based foods Published 8 October 2025",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -196,9 +198,36 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f9a4/live/60422790-d9f1-11f1-bb10-cdca6001fbcf.jpg",
-      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nIn 2014 Burnham posted a supportive message on social media when Brand was facing media criticism about his housing arrangements\n\nPublished 6 November 2026\n\nPrime Minister Andy Burnham has said Russell Brand has rightly been held to account for his \"horrific\" crimes and sought to explain Labour's previous association with the comedian.\n\nSome within the Labour Party attempted to court Brand's support more than a decade ago, before police began investigating him - and in 2014 Burnham posted a supportive message on social media when the comedian was facing media criticism about his housing arrangements.\n\nAsked about the 2014 tweet on Friday, Burnham said: \"It's not always the case that people know everything about people in public life.\"\n\nBrand was found guilty of one count of rape and three counts of sexual assault on Thursday.\n\nIn 2014, Brand was writing regular opinion pieces for newspapers and appearing on political discussion programmes, including the BBC's Question Time.\n\nHis anti-establishment and left-wing views had also gained him a following on social media.\n\nThe same year, Burnham, then the shadow health secretary, posted on Twitter in support of Brand following allegations about the comedian's housing arrangements.\n\nIt is not clear what Burnham had been referring to in his 2014 tweet, but the previous day, The Sun claimed Brand had paid rent at a property owned by a landlord in a tax haven, while at the same time campaigning against tax avoidance.\n\nBrand threatened to sue the newspaper and said he would give the money to victims of the Hillsborough disaster, a group Burnham has long campaigned for.\n\nAt the time, Burnham said it was \"depressing to see media mission to discredit someone who stops playing their game\" and urged Brand to \"keep going\".\n\nAsked about that social media post on Friday, Burnham told the BBC \"all I can say is I had no idea of the full extent of what he was doing or what he went on to do\".\n\nThe PM added: \"His [Brand's] crimes are horrific, he's rightly been held to account, justice for the victims and that is the right course that's been taken here.\n\n\"It's not always the case that people know everything about people in public life, but what is important is that where there is wrongdoing it is exposed.\"\n\nThe prime minister added: \"Credit to the victims, huge credit, the courage that it's taken, but also the journalists who've exposed this.\"\n\nEd Miliband, then the Labour leader, was interviewed by Brand in the run-up to the 2015 general election.\n\nBrand, who had previously dismissed the idea of voting, backed Labour following the interview, saying Miliband had convinced him that \"this bloke will listen to us\".\n\nMiliband, who is now foreign secretary, has previously said he regrets being interviewed by Brand .\n\nOn Friday, a spokesman for Miliband told the BBC: \"These are horrific crimes that Russell Brand has been found guilty of and Ed's profound sympathy is with the victims.\n\n\"As he said in 2023, 'of course, knowing what I know now - and I was not aware of these allegations at the time about Russell Brand - I wouldn't have done that interview and I regret doing it'.\"\n\nBrand was found not guilty of two other counts of rape, and one count of attempted indecent assault.\n\nDuring a four-week trial, Brand faced allegations from six women spanning the decade between 1999 and 2009.\n\nThe 51-year-old was refused bail and will spend the weekend in custody before he is due to return to court on Monday for sentencing.\n\nRelated topics\n\nRussell Brand\n\nAndy Burnham\n\nMore on this story\n\nMet chief says he wouldn't be surprised if more allegations made about Brand after rape conviction Published 7 hours ago\n\nKatherine Ryan says she feels 'grief and relief' after Russell Brand conviction Published 10 hours ago\n\nHow 2000s lad culture helped Russell Brand to hide in plain sight Published 11 hours ago",
+      "body": "To play this video you need to enable JavaScript in your browser.\n\nThis video can not be played\n\nIn 2014 Burnham posted a supportive message on social media when Brand was facing media criticism about his housing arrangements\n\nPublished 6 November 2026\n\nPrime Minister Andy Burnham has said Russell Brand has rightly been held to account for his \"horrific\" crimes and sought to explain Labour's previous association with the comedian.\n\nSome within the Labour Party attempted to court Brand's support more than a decade ago, before police began investigating him - and in 2014 Burnham posted a supportive message on social media when the comedian was facing media criticism about his housing arrangements.\n\nAsked about the 2014 tweet on Friday, Burnham said: \"It's not always the case that people know everything about people in public life.\"\n\nBrand was found guilty of one count of rape and three counts of sexual assault on Thursday.\n\nIn 2014, Brand was writing regular opinion pieces for newspapers and appearing on political discussion programmes, including the BBC's Question Time.\n\nHis anti-establishment and left-wing views had also gained him a following on social media.\n\nThe same year, Burnham, then the shadow health secretary, posted on Twitter in support of Brand following allegations about the comedian's housing arrangements.\n\nIt is not clear what Burnham had been referring to in his 2014 tweet, but the previous day, The Sun claimed Brand had paid rent at a property owned by a landlord in a tax haven, while at the same time campaigning against tax avoidance.\n\nBrand threatened to sue the newspaper and said he would give the money to victims of the Hillsborough disaster, a group Burnham has long campaigned for.\n\nAt the time, Burnham said it was \"depressing to see media mission to discredit someone who stops playing their game\" and urged Brand to \"keep going\".\n\nAsked about that social media post on Friday, Burnham told the BBC \"all I can say is I had no idea of the full extent of what he was doing or what he went on to do\".\n\nThe PM added: \"His [Brand's] crimes are horrific, he's rightly been held to account, justice for the victims and that is the right course that's been taken here.\n\n\"It's not always the case that people know everything about people in public life, but what is important is that where there is wrongdoing it is exposed.\"\n\nThe prime minister added: \"Credit to the victims, huge credit, the courage that it's taken, but also the journalists who've exposed this.\"\n\nEd Miliband, then the Labour leader, was interviewed by Brand in the run-up to the 2015 general election.\n\nBrand, who had previously dismissed the idea of voting, backed Labour following the interview, saying Miliband had convinced him that \"this bloke will listen to us\".\n\nMiliband, who is now foreign secretary, has previously said he regrets being interviewed by Brand .\n\nOn Friday, a spokesman for Miliband told the BBC: \"These are horrific crimes that Russell Brand has been found guilty of and Ed's profound sympathy is with the victims.\n\n\"As he said in 2023, 'of course, knowing what I know now - and I was not aware of these allegations at the time about Russell Brand - I wouldn't have done that interview and I regret doing it'.\"\n\nBrand was found not guilty of two other counts of rape, and one count of attempted indecent assault.\n\nDuring a four-week trial, Brand faced allegations from six women spanning the decade between 1999 and 2009.\n\nThe 51-year-old was refused bail and will spend the weekend in custody before he is due to return to court on Monday for sentencing.\n\nRelated topics\n\nRussell Brand\n\nAndy Burnham\n\nMore on this story\n\nMet chief says he wouldn't be surprised if more allegations made about Brand after rape conviction Published 13 hours ago\n\nKatherine Ryan says she feels 'grief and relief' after Russell Brand conviction Published 16 hours ago\n\nHow 2000s lad culture helped Russell Brand to hide in plain sight Published 17 hours ago",
       "imageWidth": 1200,
       "imageHeight": 675
+    },
+    {
+      "id": "46fdfeb4b49d35dc",
+      "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "summary": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-11-06T14:13:32Z",
+      "category": "Tech",
+      "region": "US",
+      "labels": [
+        "Tech",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 505,
+      "readingMinutes": 3,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+      "body": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.\n\nTop Republican lawmakers have asked Jensen Huang to appear before Congress to answer questions after it was reported that US intelligence officials believe Nvidia’s chief executive has been targeted by a Chinese spying operation.\n\nThe chairs of the House committees on China, foreign affairs, and intelligence wrote to Huang this week asking him to appear before a joint closed-door briefing for their committees on November 18.\n\n“Recent reports raise significant national security concerns regarding the People’s Republic of China’s access to sensitive US technology and information,” representatives John Moolenaar, Brian Mast, and Rick Crawford wrote.\n\n“The issue of PRC infiltration and access to cutting-edge US technology is core to the investigative work of our three committees this Congress. It is vital that Congress determines the extent to which US national security has been placed at risk,” the lawmakers added.\n\nThe New York Times last week wrote that US intelligence officials believed Huang had been the target of a Chinese spy operation. The concerns center on a Chinese woman named Alice Huang, an executive at Megaspeed, a Singapore-based cloud company that has bought billions of dollars of Nvidia’s chips.\n\nNvidia has rejected the claims and on Thursday would not say if Huang would appear before Congress. “Meetings with customers are part of a CEO’s job. Jensen talks with thousands of customer executives every year,” the company said.\n\n“Our regional cloud customers receive ordinary business information—not sensitive Nvidia trade secrets—and zero information relevant to national security,” it added.\n\nThe lawmakers said they wanted Huang to discuss the security protocols Nvidia had in place to protect against “foreign adversary espionage.” The company said its chief executive had an “outstanding security team” that travels with him.\n\nThe New York Times said Huang had not received a “defensive briefing,” which the intelligence community usually, but not always, provides potential espionage targets to warn them about the activity.\n\nNvidia said it was confident that the US government would have let the company know if it thought a person was a threat to US industry and that it often receives updates from Washington about people of concern.\n\nThe US has previously scrutinized Megaspeed, founded in 2023 as a spin-off from a Chinese gaming company, for potential chip smuggling, although no charges followed.\n\nNvidia launched its own unannounced on-site inspections at Megaspeed in Singapore when it became aware of the US concerns, but the internal probe found no evidence of its chips being diverted into China, said people familiar with the matter.\n\nThe company’s supply chain has come under increasing scrutiny as US export controls have prompted increased smuggling of its chips. Earlier this year Wally Liaw, a co-founder of Supermicro, one of Nvidia’s key supply chain partners, was arrested in the US and charged with smuggling Nvidia chips into China. He denies any wrongdoing and has pleaded not guilty.\n\n© 2026 The Financial Times Ltd . All rights reserved . Not to be redistributed, copied, or modified in any way.",
+      "imageWidth": 1024,
+      "imageHeight": 648
     },
     {
       "id": "72ee9b0b52c18e25",
@@ -228,10 +257,60 @@
       "imageHeight": 600
     },
     {
+      "id": "61239428d0ab4c72",
+      "title": "In jailing Joshua Wong, China is telling the world they'd crush every hope for democracy on its soil | Nathan Law",
+      "summary": "My friend was due to be released next January. Under draconian security laws, his sentence has been extended by 10 years Two years ago, I wrote in this newspaper about the lengthy imprisonment of my friend Joshua Wong, who I spent years campaigning alongside for the advancement of Hong Kong’s democracy. He was given an unjust sentence meant to keep him behind bars until January 2027. He was supposed to be released in a few months, when I hoped he would finally be able to reunite with his friends and family and embark on a new chapter. But this hope was misplaced. The end of the tunnel isn’t next year; it’s late 2036. By then, he will be 40. On Thursday, Joshua was sentenced to another 10 years under Hong Kong’s national security law for colluding with foreign forces. He is the only political prisoner who’s been convicted twice under the national security law. The judge described Joshua and me as “two ringleaders or masterminds” urging foreign powers to impose sanctions and other hostile actions against the Chinese and Hong Kong governments. The judgment cited previous international advocacy work, media interviews, social media posts and the political activities of Demosistō, the youth-led democratic party we founded. Nathan Law is a pro-democracy activist and former legislator from Hong Kong. He is a political refugee in the UK Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/06/hong-kong-prisoners-china-signal-democracy-joshua-wong",
+      "source": "The Guardian China",
+      "publisher": "The Guardian",
+      "published": "2026-11-06T14:53:05Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 894,
+      "readingMinutes": 5,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/ac7d101f59d11c72b50edb388c770b059b99c420/423_0_2915_2334/master/2915.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=a44d713333fbc9cc057185ee783330cc",
+      "body": "My friend was due to be released next January. Under draconian security laws, his sentence has been extended by 10 years\n\nT wo years ago, I wrote in this newspaper about the lengthy imprisonment of my friend Joshua Wong, who I spent years campaigning alongside for the advancement of Hong Kong’s democracy. He was given an unjust sentence meant to keep him behind bars until January 2027. He was supposed to be released in a few months, when I hoped he would finally be able to reunite with his friends and family and embark on a new chapter.\n\nBut this hope was misplaced. The end of the tunnel isn’t next year; it’s late 2036. By then, he will be 40. On Thursday, Joshua was sentenced to another 10 years under Hong Kong’s national security law for colluding with foreign forces. He is the only political prisoner who’s been convicted twice under the national security law. The judge described Joshua and me as “two ringleaders or masterminds” urging foreign powers to impose sanctions and other hostile actions against the Chinese and Hong Kong governments. The judgment cited previous international advocacy work, media interviews, social media posts and the political activities of Demosistō, the youth-led democratic party we founded.\n\nMuch of the cited evidence predates the implementation of the national security law, even though the court insisted it was not being applied retrospectively. Before 2020, meeting with foreign parliamentarians, engaging with and speaking to international institutions, and advocating for measures against human rights abuses were ordinary campaign strategies. These were peaceful means through which we tried to hold those in power accountable. The campaigns raised the profile of Hong Kong’s protests and garnered substantial support; they were so effective that Beijing had to impose the national security law to curb them and impose extensive legal punishments.\n\nThere is a stark lack of evidence about Joshua’s actions. Prosecutors said that he conspired with campaigners including myself to ask foreign bodies to impose sanctions on China – relying on his sharing of Facebook posts written by me. But these posts did not directly call for sanctions – they made other appeals, including for digital forensic companies to terminate their cooperation with the Hong Kong police. There’s no evidence that Wong himself advocated for imposing any form of sanctions, or that he had any direct link to advocacy work outside Hong Kong. The court also accepted that no organisation or funding supported his activities after the law came into force.\n\nStill, as flimsy as the evidence is, it’s enough to secure him a decade in jail. The crux of the trial is not legal; it’s political. It is clear that Beijing exercises sweeping control over Hong Kong’s legal and political systems. This can be seen in the tightening of the electoral system by introducing an Iranian-style vetting mechanism , in the jailing of peaceful political dissidents and the emphasis placed on the necessity of “patriots ruling Hong Kong” .\n\nWhen Chinese leaders categorise Jimmy Lai, Benny Tai and Joshua Wong as the “masterminds” behind the 2019 pro-democracy protests, the legal system must deliver sentences that reflect the trio’s “importance” . That’s why Lai and Tai have been sentenced to 20 years and 10 years respectively, and rank among the most persecuted pro-democracy figures in the region. There are now close to 2,000 political prisoners in Hong Kong.\n\nIt’s devastating that Joshua has been behind bars for such a large portion of his adult life. I couldn’t even imagine skipping 16 years before I reached my 40s – during which time many people meet their partner, get married, raise a family and settle into a career. Joshua has been deprived of living fully because of his advocacy for important democratic values. The sentence signals to the world that China is determined to quash any hopes for freedom and democracy on its soil.\n\nAs geopolitical competition intensifies and populism rises, human rights are increasingly treated as an inconvenience to diplomatic and economic interests. Governments speak of stability and pragmatic engagement, while political prisoners slowly disappear from international public attention. The Chinese regime has little reason to change its approach if the repression of Hong Kong carries no meaningful consequences, either to trade or its global standing.\n\nGiven that Hong Kong was a British colony until as recently as 1997, the UK, in particular, should not regard the territory as merely another foreign policy issue. The Sino-British joint declaration was intended to safeguard the city’s rights and freedoms. The British government should therefore make the release of Joshua, Jimmy Lai and other political prisoners a priority when dealing with Beijing, rather than responding to each new sentence with another ineffective statement of concern.\n\nFor months, I had imagined the day Joshua would finally be free. Now that hope has been pushed away for another decade. We must not forget him, and must take urgent action to demand his immediate release.\n\nafter newsletter promotion\n\nNathan Law is a pro-democracy activist and former legislator from Hong Kong. He is a political refugee in the UK\n\nDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here .\n\nHong Kong\n\nOpinion\n\nCivil liberties - international\n\nHuman rights\n\nFreedom of speech\n\nCensorship\n\nActivism\n\nChina\n\ncomment",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "id": "bd8e4e742aa7b74c",
+      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+      "summary": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-11-07T00:00:00Z",
+      "category": "Politics",
+      "region": "Middle East",
+      "labels": [
+        "Politics",
+        "Middle East"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 23,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": true
+    },
+    {
       "id": "e4cf48010d1554e8",
       "title": "Presenting 'Desire Lines: Encoding Queer Digital Futures'",
       "summary": "What does the digital future look like? Who gets to imagine it, shape it, and make it real? Building a freer, more inclusive digital age requires not only challenging systems of surveillance and control, but also making space for creativity, community, and radical imagination. That's why earlier this year with the queer arts collective , we put out a call for submissions inviting people to explore the intersections of technology, identity, and digital liberation—whether that involved pointing the lens towards an underrepresented issue in digital justice efforts; sharing personal accounts of joy, pleasure, or sorrow under surveillance; or painting wide imaginations for our communities using technology for good instead of carcerality and doom. And we’re excited to share that the project is now live! Desire Lines: Encoding Queer Digital Futures explores a digital world that dreams wilder and exists louder. Seven artists share their visions of digital liberation, spanning from early internet-coded yearning to escapist steamy chat rooms and seed-laced battle suits for revolution. These essays and stories remind us that digital rights aren't just about the existence of technology and its deployment as existing in a vacuum, but instead about how tech tools are a way for people to express themselves freely, find communities, explore identities, and build spaces to exist and seek joy without fear. Too often, conversations about technology focus on innovation, efficiency, and the next big thing while overlooking the people and communities most affected by the systems being built. This project was an effort to break containment and make space for something different: a chance to imagine digital futures rooted in queer creativity, resistance, and possibility. Together with the queer arts collective, we were excited to launch the magazine and celebrate the artists and ideas that brought it to life through our session at Mozilla Festival last week, ‘ Privacy x Queer Desire ,’ where we started out by co-curating a community privacy plan grounded in digital fairness before launching the magazine. If the stories in Encoding Queer Digital Futures teach us one thing, it’s that we don't have to accept the digital future handed to us by oppressive governments and tech companies. We already have pre-Big Tech internet experiences encoded in our fondest memories that can inform…",
-      "contentStatus": "Freely readable article text extracted from publisher page",
+      "contentStatus": "Source-provided feed summary",
       "url": "https://www.eff.org/deeplinks/2026/11/presenting-desire-lines-encoding-queer-digital-futures",
       "source": "Electronic Frontier Foundation",
       "publisher": "Electronic Frontier Foundation",
@@ -245,42 +324,12 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 852,
-      "readingMinutes": 4,
+      "wordCount": 371,
+      "readingMinutes": 2,
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://www.eff.org/files/banner_library/neon-unicorn-final-banner.jpg",
-      "imageAlt": "image depicts a neon unicorn jumping out a laptop on a purple background",
-      "body": "What does the digital future look like? Who gets to imagine it, shape it, and make it real?\n\nBuilding a freer, more inclusive digital age requires not only challenging systems of surveillance and control, but also making space for creativity, community, and radical imagination.\n\nThat's why earlier this year with the queer arts collective , we put out a call for submissions inviting people to explore the intersections of technology, identity, and digital liberation—whether that involved pointing the lens towards an underrepresented issue in digital justice efforts; sharing personal accounts of joy, pleasure, or sorrow under surveillance; or painting wide imaginations for our communities using technology for good instead of carcerality and doom.\n\nAnd we’re excited to share that the project is now live! Desire Lines: Encoding Queer Digital Futures explores a digital world that dreams wilder and exists louder. Seven artists share their visions of digital liberation, spanning from early internet-coded yearning to escapist steamy chat rooms and seed-laced battle suits for revolution.\n\nThese essays and stories remind us that digital rights aren't just about the existence of technology and its deployment as existing in a vacuum, but instead about how tech tools are a way for people to express themselves freely, find communities, explore identities, and build spaces to exist and seek joy without fear. Too often, conversations about technology focus on innovation, efficiency, and the next big thing while overlooking the people and communities most affected by the systems being built. This project was an effort to break containment and make space for something different: a chance to imagine digital futures rooted in queer creativity, resistance, and possibility.\n\nTogether with the queer arts collective, we were excited to launch the magazine and celebrate the artists and ideas that brought it to life through our session at Mozilla Festival last week, ‘ Privacy x Queer Desire ,’ where we started out by co-curating a community privacy plan grounded in digital fairness before launching the magazine.\n\nIf the stories in Encoding Queer Digital Futures teach us one thing, it’s that we don't have to accept the digital future handed to us by oppressive governments and tech companies. We already have pre-Big Tech internet experiences encoded in our fondest memories that can inform our dreams for something better, and together we can build a new reality.\n\nRead Desire Lines: Encoding Queer Digital Futures here .\n\nEFF Submission to OHCHR Consultation on Child Rights and Safety in the Digital Environment\n\n“ The safety of young people in the digital environment cannot be assessed without also considering the safety of young people in offline environments. For millions of young people around the world, the digital environment is their safe place, their haven from an unsafe physical environment, community, or family situation. The ...\n\nWhen the Watchdogs Are Silenced: India's Crackdown on Those Documenting Online Censorship\n\nOn November 3, our colleagues at the Software Freedom Law Center, India (SFLC.in) received notifications from X that the Delhi Police had issued takedown requests targeting 42 URLs. Among the accounts and posts targeted were those belonging to SFLC.in , the Internet Freedom Foundation (IFF), and X account...\n\nPostal Service Surveilled Protest Activities Online With Little Rules, Oversight\n\nThe U.S. Postal Service used social media surveillance to monitor and report on protests across the political spectrum, government records show.The records , disclosed to EFF and other requesters suing the postal service under the Freedom of Information Act, show that the agency’s internet Covert Operations Program, or iCOP, routinely...\n\nIndependent Digital Media Is Not a Privilege Governments Can Revoke: The Fight to Save Egypt’s Mada Masr\n\nOn November 11, Lina Attalah, founder and editor-in-chief of the independent Egyptian news outlet Mada Masr , will face trial for the second time in just two weeks. This time, she faces charges of spreading false news, an accusation that has become one of the Egyptian government's most frequently used...\n\nWhy VPNs Are Worth Defending\n\nTech Tips for Parents this Digital Parenting Week\n\nSocial Media When Elections Are Close: Doing the Impossible Better\n\nEFF to Brazil’s ANPD: Data Privacy and Free Expression Must Underpin Platform Regulations\n\nThe Brazilian National Data Protection Agency (ANPD) plays a pivotal role in the regulation of digital platforms according to new legislation approved in Brazil. Throughout this year, EFF has presented comments, filed submissions, and met with the agency to emphasize crucial guardrails that the enforcement of new regulations should ensure....\n\nEFF Launches Guide to Help Parents and Youth Protect Privacy Online\n\nSAN FRANCISCO – The Electronic Frontier Foundation (EFF) has published “ Online Privacy for Parents and Youth ,” a new guide to help families protect themselves online. \"Parents don’t need to be technology experts to help their children navigate the digital world safely” said EFF Public Interest Technology...\n\nOur Lawsuit Against the Trump Administration’s Social Media Surveillance Moves Forward. Here’s What the Court Said.\n\nNo one should have to choose between speaking freely and protecting their immigration status. Yet that’s precisely the choice the Trump administration’s mass surveillance of online speech forces on noncitizens living in the U.S. Last fall, we sued on behalf of three major labor unions to stop this surveillance...",
-      "imageWidth": 1200,
-      "imageHeight": 600
-    },
-    {
-      "id": "f34156f84d0b4ccd",
-      "title": "EU charges TikTok with failing to protect users’ mental health",
-      "summary": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’ TikTok has been charged by the European Commission with failing to protect users’ mental health by exposing them to a relentless stream of content that risks worsening eating disorders and anxiety in a case that strikes at its business model. Issuing a preliminary ruling on Friday, the EU regulator said TikTok’s algorithm “can be harmful” and was leading young and vulnerable users “down rabbit holes they cannot easily escape from”. Continue reading...",
-      "contentStatus": "Freely readable article text extracted from publisher page",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
-      "source": "The Guardian China",
-      "publisher": "The Guardian",
-      "published": "2026-11-06T15:17:08Z",
-      "category": "Politics",
-      "region": "China",
-      "labels": [
-        "Politics",
-        "China"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 748,
-      "readingMinutes": 4,
-      "isShort": false,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/73530bb71968af6a5b5d2dca4fd682c0f680fd80/0_253_3524_2819/master/3524.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c6c96238f9e527b884bae4759e176ec",
-      "body": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’\n\nTikTok has been charged by the European Commission with failing to protect users’ mental health by exposing them to a relentless stream of content that risks worsening eating disorders and anxiety in a case that strikes at its business model.\n\nIssuing a preliminary ruling on Friday, the EU regulator said TikTok’s algorithm “can be harmful” and was leading young and vulnerable users “down rabbit holes they cannot easily escape from”.\n\nThe Chinese-owned short-video platform, which has 189 million users in the EU, was found to have failed to prevent users from being served up repetitive content on themes such as body image or isolation, which can lead to anxiety, sadness, worsen existing eating disorders or mental health problems.\n\nOfficials said their investigation focused on legal content, where a single video might not be problematic, but the cumulative effect of watching scores of them on one theme could damage users’ mental health.\n\nTikTok’s safeguards to mitigate the risks of “rabbit-hole effects” – where users are served narrow and repetitive content to keep them engaged – were found to be ineffective. For example, officials said, if a user checked a “not interested” button on a video about eating patterns, the algorithm would still offer them similar content on diet and body image. Similarly, refreshing a feed only provided a brief respite from a stream of content on one topic, it found.\n\n“Every time a user scrolls or likes a video on TikTok, the algorithm serves more of the same leading users down rabbit holes they cannot easily escape from,” said the European Commission’s lead official on tech policy, Henna Virkkunen. “TikTok needs to step up its efforts to protect users’ wellbeing, including those of minors.”\n\nIn response, a TikTok spokesperson said: “The commission has made a series of statements that are fundamentally inaccurate and distort our platform’s architecture and our commitment to user safety.\n\n“We have a strong record of protecting our community while giving users direct and intuitive control over their content experience.”\n\nThe company argues that its policies prohibit content that promotes disordered eating and risky weight-management behaviours. It also says that more than 79 million users in the EU used its “not interested” or keyword filters to screen out unwanted content in the first six months of 2026.\n\nThe Molly Rose Foundation, which was set up in memory of 14-year-old Molly Russell, who took her own life in 2017 after being exposed to a torrent of harmful online content , welcomed what it called the landmark findings “to seek to hold TikTok to account for the way their algorithm drives young people down rabbit holes of despair”.\n\nA survey for the charity earlier this year found that nearly half of girls and a third of all UK teenagers saw suicide, self-harm and eating-disorder content on social media in a week.\n\nThe foundation called on the UK regulator, Ofcom, to open an investigation into TikTok’s “extremely damaging” algorithm.\n\nThe EU investigation strikes at TikTok’s business model, which is built on keeping users scrolling as long as possible.\n\nEU officials want TikTok to change the design of its ForYou feed, to give users greater control over the content they see.\n\n“We are addressing a business model,” a commission official told reporters, saying that a business model focused mainly on engagement “can potentially create a risk” especially for minors and vulnerable adults.\n\nThe findings are part of a broader investigation launched in February 2024 under the Digital Services Act, which obliges large internet companies to take action to prevent a wide range of harms, from disinformation to damage to mental health.\n\nThe commission has already found the company violated EU rules over its “addictive design” for features such as infinite scroll. The company said at the time “the commission’s preliminary findings present a categorically false and entirely meritless depiction of our platform” and that it would challenge the findings.\n\nA complaint about lack of transparency over who paid for TikTok’s advertising was resolved when the company made binding commitments to change its policies last December.\n\nTikTok, which now has a chance to examine the investigation file and mount a defence, could agree to change its recommender system to avoid a fine.\n\nIf EU officials uphold the finding, the company could be fined up to 6% of its global worldwide turnover.\n\nTikTok\n\nEuropean Union\n\nEurope\n\nInternet safety\n\nSocial media\n\nChildren's tech\n\nApps\n\nnews",
-      "imageWidth": 1200,
-      "imageHeight": 630
+      "imageAlt": "image depicts a neon unicorn jumping out a laptop on a purple background"
     },
     {
       "id": "5600eaf300fa0144",
@@ -511,6 +560,30 @@
       "imageUrl": "https://i.guim.co.uk/img/media/b17a059303674bee4fb3dec0de66bf842d9d60d6/0_0_1350_1080/master/1350.jpg?width=700&quality=85&auto=format&fit=max&s=4985e2b2437d63688bb38cc1afd1fe78"
     },
     {
+      "id": "f7039da7dd84113f",
+      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+      "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o",
+      "source": "BBC Business",
+      "publisher": "BBC",
+      "published": "2026-11-07T01:41:36Z",
+      "category": "Economics",
+      "region": "World",
+      "labels": [
+        "Economics",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 18,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6b/live/b1102500-d9fb-11f1-b441-2b33b063138f.png"
+    },
+    {
       "id": "7871e16938729b82",
       "title": "Three ways the interest rate rise could affect you",
       "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
@@ -583,30 +656,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "58d06739a10bc110",
-      "title": "After the US midterms, what will a lame duck Trump mean for the global economy?",
-      "summary": "Republicans’ crushing setback will play out in stock markets, inflation, interest rates and economic growth Donald Trump’s loss of control of the House of Representatives and the Senate has put the world economy on notice for an unpredictable final two years of his presidential term. After Democrats swept aside his Republican party in the midterm elections, analysts said the prospect of a highly erratic lame-duck president would have significant implications for financial markets, growth, inflation, government borrowing costs and living standards. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets",
-      "source": "The Guardian Economics",
-      "publisher": "The Guardian",
-      "published": "2026-11-04T15:56:30Z",
-      "category": "Economics",
-      "region": "US",
-      "labels": [
-        "Economics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 83,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/2a93f1501ef9ad49bab6fef5ee59dc4a5af2e1b6/785_0_5678_4542/master/5678.jpg?width=700&quality=85&auto=format&fit=max&s=27605fb4acada390537fa3138730f2b0"
-    },
-    {
       "id": "b7b1f80beead4fbf",
       "title": "Watch Blue Jays prospects in Arizona Fall League action",
       "summary": "This feed supplied a headline but no article summary.",
@@ -614,13 +663,37 @@
       "url": "https://www.mlb.com/bluejays/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
       "source": "Toronto Blue Jays",
       "publisher": "MLB",
-      "published": "2026-11-06T23:32:00Z",
+      "published": "2026-11-07T04:37:00Z",
       "category": "Sports",
       "region": "Canada",
       "labels": [
         "Sports",
         "Canada",
         "Baseball",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
+      "id": "d85b1b6180ab4b6a",
+      "title": "Here are the rosters for Sunday's AFL Fall Stars Game",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/2026-arizona-fall-league-fall-stars-game-rosters",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-11-07T02:09:00Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
         "Blue Jays"
       ],
       "sourceWeight": 5,
@@ -832,30 +905,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/874c/live/62ccd3d0-da22-11f1-bba7-b50f1faa7672.jpg"
-    },
-    {
-      "id": "2aaeadf097f27e83",
-      "title": "Here's why Seiya should make Toronto his next home",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/seiya-suzuki-blue-jays-perfect-match-free-agency",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-11-05T11:41:13Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "52ef02a717217231",
@@ -1133,14 +1182,14 @@
       "body": "Former President of Serbia Aleksandar Vucic and U.S. President Donald Trump (Anna Moneymaker-Pool/Getty Images)\n\nOriginally published in Hankyoreh .\n\nThe victory of incumbent Lula in the Brazilian presidential election was a surprise. The longtime leftist politician ran second in the first round behind far-right challenger Flavio Bolsonaro—the son of disgraced former leader Jair Bolsonaro—and no one in the history of Brazilian democracy had come from behind to win in the second round. But by mounting a huge get-out-the-vote effort, Lula defied all predictions.\n\nLula also defied the current trend in Latin American elections. In the last 18 months, right-wing candidates had won in seven countries, including Chile, Colombia, and Peru. The trend worldwide has been similar, with the far right winning in local elections in Germany, the extremist party of Marine Le Pen leading the polls in France, and the far right participating in governments in Italy, Finland, and the Czech Republic. Far right leaders remain in place in Russia, India, the Philippines, and, for now, Israel.\n\nIs Lula the outlier? Or does he perhaps represent a political course correction?\n\nFor those eager to see a political wave in the making, Lula is not the only example of the electoral repudiation of the far right. On the same day as the Brazilian elections, students managed to oust the longtime autocrat Aleksandar Vucic in the equally surprising Serbian elections. Earlier this year, Viktor Orban also lost at the hands of a unified opposition. The massive “blue wave” rejection of Donald Trump in the midterm elections in the United States has continued the trend.\n\nThere is a natural feeling among voters in democratic societies to “throw the bums out.” In Latin America, a “pink” wave of progressive politicians like Ecuador’s Rafael Correa and Colombia’s Gustavo Petro has given way to a “brown” wave of ultra-conservative politicians. Voters, especially in today’s quicksilver environment of social media, respond positively to candidates who promise sweeping change. And thus, the political pendulum swings from left to right and back again.\n\nBut the far right is not just another conventional option on the political menu. It offers something radically different because it threatens to undermine the very democratic norms by which it has achieved power. In countries like Russia, Hungary, Turkey, and India, right-wing authoritarians have used democratic means—elections, constitutional changes, legal challenges—to weaken democracy. Other leaders have attempted to do away with democracy much more rapidly, as Jair Bolsonaro tried to do when he plotted to overturn the Brazilian elections that Lula won four years ago. Inspired by these rule-breakers, even traditional conservative politicians, like Yoon Suk Yeol in Korea, have attempted to suspend democracy.\n\nAnd then there’s the case of Donald Trump. The U.S. president was reelected despite his efforts to overturn the 2020 elections that he lost. During his second term, he has attempted to unilaterally change the constitution. He has ignored court orders, bypassed Congress, and waged war against the mainstream media. He has repeatedly called into question the legitimacy of elections.\n\nBut Trump now has the lowest approval rating— 31 percent —of his presidency. In the midterm elections, voters rejected Trump’s party. The Democratic Party has easily retaken control of the House of Representatives, and it now has a comfortable margin of control in the Senate as well.\n\nUnlike in Brazil, American voters are prioritizing their pocketbooks. A narrow majority of Brazilians supported Lula despite the country’s problems with debt and inflation. American voters, on the other hand, are abandoning Trump because of the economy—rising gas prices, the impact of sanctions, the consequences of the Iran War. As they demonstrated by electing Trump to a second term, many American voters don’t seem concerned about his anti-democratic rhetoric or actions.\n\nThis, more than the specific victories of the far right, is the more distressing takeaway. After all, democracy is not exactly enjoying its finest hour at the moment. Global freedom, according to the latest Freedom House report, declined for the twentieth consecutive year last year, with the United States, Bulgaria, Italy, El Salvador, and Madagascar registering significant deterioration in political and civil liberties.\n\nVoters are turning toward anti-democratic candidates in part because they are disenchanted with democracy itself. Democratic mechanisms just don’t seem up to the task of addressing the threats currently facing the globe. Democracies have proved incapable of slowing climate change or responsibly controlling technologies like AI. Democracies have utterly failed at ensuring broad prosperity in a globalizing economy. If democrats were more successful at dealing with these problems, the far right’s promises of top-down solutions and returning to mythic pasts would not be so appealing.\n\nThis deeper problem with democracy suggests that even if the far right loses elections—in Brazil last month, the United States this week, France next year—it will not gracefully surrender the stage. Figures like Yoon Suk Yeol and Jair Bolsonaro can be jailed for their transgressions—and perhaps Trump too will follow in their footsteps. But voters will keep turning to more authoritarian alternatives if democratic institutions don’t deliver and democratic values don’t appeal.\n\nThe far right does not offer any better answers to the world’s problems. Its general response to global threats has been to turn its back. The far right supports high tariff walls, more fossil fuel extraction, and stricter controls on immigration. It repudiates all forms of globalization, lumping together neoliberal trade policies with Green energy programs and sensible approaches to immigration. The far right despises democracy not just because it puts controls on autocratic leaders but because of its association with globalization.\n\nThis, then, is the essential task of both the left and the center—to devise a new, robust internationalism that provides concrete gains to the average person while also safeguarding the planet for the next generations.\n\nUntil this happens, far-right candidates will continue to win. They might lose this or that election. But they will continue to win support with their anti-global agenda, while remaining focused on their ultimate goal of destroying democracy. They don’t want to be subject to the pendulum swings of democratic politics. They want to rip out the pendulum so that they can remain in power indefinitely.\n\nShare this:\n\nPrint (Opens in new window) Print\n\nTweet\n\nShare on Bluesky (Opens in new window) Bluesky\n\nEmail a link to a friend (Opens in new window) Email"
     },
     {
-      "id": "1a0e20f9ed82091b",
-      "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
-      "summary": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German pushback, he said he favors the all-new term \"associate membership.\"",
+      "id": "7ea331e468902c78",
+      "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+      "summary": "US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss.",
       "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-10-30T20:55:00Z",
+      "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-11-07T04:50:46Z",
       "category": "Politics",
       "region": "Canada",
       "labels": [
@@ -1150,34 +1199,10 @@
       "sourceWeight": 4,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 33,
+      "wordCount": 17,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
-    },
-    {
-      "id": "fa542ed9a2e61f24",
-      "title": "Stephen Miller replaces Susie Wiles as White House chief of staff",
-      "summary": "White House chief of staff Susie Wiles is being replaced by Stephen Miller, President Trump said Friday. The change comes after Republicans were swept out of power in the midterm elections.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6032810/stephen-miller-replaces-susie-wiles-as-white-house-chief-of-staff",
-      "source": "NPR Politics",
-      "publisher": "NPR",
-      "published": "2026-11-06T22:21:35Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 31,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6032810"
     },
     {
       "id": "b912ec8381f2af36",
@@ -1204,6 +1229,57 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
+    },
+    {
+      "id": "f34156f84d0b4ccd",
+      "title": "EU charges TikTok with failing to protect users’ mental health",
+      "summary": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’ TikTok has been charged by the European Commission with failing to protect users’ mental health by exposing them to a relentless stream of content that risks worsening eating disorders and anxiety in a case that strikes at its business model. Issuing a preliminary ruling on Friday, the EU regulator said TikTok’s algorithm “can be harmful” and was leading young and vulnerable users “down rabbit holes they cannot easily escape from”. Continue reading...",
+      "contentStatus": "Freely readable article text extracted from publisher page",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+      "source": "The Guardian China",
+      "publisher": "The Guardian",
+      "published": "2026-11-06T15:17:08Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 748,
+      "readingMinutes": 4,
+      "isShort": false,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/73530bb71968af6a5b5d2dca4fd682c0f680fd80/0_253_3524_2819/master/3524.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c6c96238f9e527b884bae4759e176ec",
+      "body": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’\n\nTikTok has been charged by the European Commission with failing to protect users’ mental health by exposing them to a relentless stream of content that risks worsening eating disorders and anxiety in a case that strikes at its business model.\n\nIssuing a preliminary ruling on Friday, the EU regulator said TikTok’s algorithm “can be harmful” and was leading young and vulnerable users “down rabbit holes they cannot easily escape from”.\n\nThe Chinese-owned short-video platform, which has 189 million users in the EU, was found to have failed to prevent users from being served up repetitive content on themes such as body image or isolation, which can lead to anxiety, sadness, worsen existing eating disorders or mental health problems.\n\nOfficials said their investigation focused on legal content, where a single video might not be problematic, but the cumulative effect of watching scores of them on one theme could damage users’ mental health.\n\nTikTok’s safeguards to mitigate the risks of “rabbit-hole effects” – where users are served narrow and repetitive content to keep them engaged – were found to be ineffective. For example, officials said, if a user checked a “not interested” button on a video about eating patterns, the algorithm would still offer them similar content on diet and body image. Similarly, refreshing a feed only provided a brief respite from a stream of content on one topic, it found.\n\n“Every time a user scrolls or likes a video on TikTok, the algorithm serves more of the same leading users down rabbit holes they cannot easily escape from,” said the European Commission’s lead official on tech policy, Henna Virkkunen. “TikTok needs to step up its efforts to protect users’ wellbeing, including those of minors.”\n\nIn response, a TikTok spokesperson said: “The commission has made a series of statements that are fundamentally inaccurate and distort our platform’s architecture and our commitment to user safety.\n\n“We have a strong record of protecting our community while giving users direct and intuitive control over their content experience.”\n\nThe company argues that its policies prohibit content that promotes disordered eating and risky weight-management behaviours. It also says that more than 79 million users in the EU used its “not interested” or keyword filters to screen out unwanted content in the first six months of 2026.\n\nThe Molly Rose Foundation, which was set up in memory of 14-year-old Molly Russell, who took her own life in 2017 after being exposed to a torrent of harmful online content , welcomed what it called the landmark findings “to seek to hold TikTok to account for the way their algorithm drives young people down rabbit holes of despair”.\n\nA survey for the charity earlier this year found that nearly half of girls and a third of all UK teenagers saw suicide, self-harm and eating-disorder content on social media in a week.\n\nThe foundation called on the UK regulator, Ofcom, to open an investigation into TikTok’s “extremely damaging” algorithm.\n\nThe EU investigation strikes at TikTok’s business model, which is built on keeping users scrolling as long as possible.\n\nEU officials want TikTok to change the design of its ForYou feed, to give users greater control over the content they see.\n\n“We are addressing a business model,” a commission official told reporters, saying that a business model focused mainly on engagement “can potentially create a risk” especially for minors and vulnerable adults.\n\nThe findings are part of a broader investigation launched in February 2024 under the Digital Services Act, which obliges large internet companies to take action to prevent a wide range of harms, from disinformation to damage to mental health.\n\nThe commission has already found the company violated EU rules over its “addictive design” for features such as infinite scroll. The company said at the time “the commission’s preliminary findings present a categorically false and entirely meritless depiction of our platform” and that it would challenge the findings.\n\nA complaint about lack of transparency over who paid for TikTok’s advertising was resolved when the company made binding commitments to change its policies last December.\n\nTikTok, which now has a chance to examine the investigation file and mount a defence, could agree to change its recommender system to avoid a fine.\n\nIf EU officials uphold the finding, the company could be fined up to 6% of its global worldwide turnover.\n\nTikTok\n\nEuropean Union\n\nEurope\n\nInternet safety\n\nSocial media\n\nChildren's tech\n\nApps\n\nnews",
+      "imageWidth": 1200,
+      "imageHeight": 630
+    },
+    {
+      "id": "fa542ed9a2e61f24",
+      "title": "Stephen Miller replaces Susie Wiles as White House chief of staff",
+      "summary": "White House chief of staff Susie Wiles is being replaced by Stephen Miller, President Trump said Friday. The change comes after Republicans were swept out of power in the midterm elections.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032810/stephen-miller-replaces-susie-wiles-as-white-house-chief-of-staff",
+      "source": "NPR Politics",
+      "publisher": "NPR",
+      "published": "2026-11-06T22:21:35Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 31,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6032810"
     },
     {
       "id": "ccde50055409fb90",
@@ -1330,6 +1406,30 @@
       "imageAlt": "Two Madison County election commissioners inspect an affidavit ballot envelope on Thursday in Canton, Miss. The state",
       "imageWidth": 4981,
       "imageHeight": 3321
+    },
+    {
+      "id": "2aaeadf097f27e83",
+      "title": "Here's why Seiya should make Toronto his next home",
+      "summary": "This feed supplied a headline but no article summary.",
+      "contentStatus": "Headline only — no summary supplied",
+      "url": "https://www.mlb.com/bluejays/news/seiya-suzuki-blue-jays-perfect-match-free-agency",
+      "source": "Toronto Blue Jays",
+      "publisher": "MLB",
+      "published": "2026-11-05T11:41:13Z",
+      "category": "Sports",
+      "region": "Canada",
+      "labels": [
+        "Sports",
+        "Canada",
+        "Blue Jays"
+      ],
+      "sourceWeight": 5,
+      "focus": "Blue Jays",
+      "sourceType": "news",
+      "wordCount": 0,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "f84983d5e4ee2a90",
@@ -1858,7 +1958,7 @@
       "isShort": false,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e34/live/def087c0-d95c-11f1-a800-d9dce9e5aa21.jpg",
-      "body": "Essex county councillor Carl Johnson wrote on Facebook that \"no foreigner should ever be allowed to stand for political office in this country\"\n\nPublished 6 November 2026\n\nA Reform UK councillor has been labelled a \"racist\" and accused of posting \"xenophobic conspiracy theories\" by a Labour councillor, after questioning whether migrants and their children should be allowed to stand for elected office.\n\nEssex county councillor Carl Johnson posted a picture of Home Secretary Shabana Mahmood next to London Mayor Sadiq Khan, and wrote \"we have been deliberately infiltrated\".\n\nLabour county councillor Lee Scordis called on Reform to \"expel him immediately\".\n\nJohnson and his party have both since defended his right to free speech.\n\n\"Open debate and free speech should not be shut down simply because others disagree with a particular viewpoint,\" said Johnson, speaking to the Local Democracy Reporting Service (LDRS).\n\nJohnson shared the image of the two prominent Labour politicians on Wednesday.\n\nIn his accompanying message, he wrote: \"We have allowed people who arrived as asylum seekers to settle and then have second generations, gain positions of political power, and then push to change our laws to better reflect their own religion and culture.\n\n\"That is unacceptable. No foreigner should ever be allowed to stand for political office in this country.\"\n\nThe Facebook post has since been removed from the page of councillor Carl Johnson and the BBC contacted him for a response.\n\n'Personal views'\n\nBoth the home secretary and London mayor were born in the UK and are the second generation of migrant families.\n\nScordis said the Reform councillor had suggested that politicians like Winston Churchill and Rishi Sunak, who had at least one parent born abroad, \"could not be elected in any role, let alone prime minister\".\n\nA Reform spokesperson said: \"[The party] is committed to net-negative migration and will prioritise the needs of the British people.\n\n\"Councillor Johnson is entitled to his own personal views.\"\n\nThe Reform councillor's post included a picture of Home Secretary Shabana Mahmood, next to London Mayor Sadiq Khan (these are not the images he shared)\n\nThe Braintree Conservatives said they \"strongly oppose these remarks, and the obsession of some Reform politicians openly challenging the identity of Britons born in this country\".\n\nMeanwhile, Essex County Council said it was \"aware of the social media post by councillor Carl Johnson\" but would not comment on whether a complaint had been received.\n\nJohnson told the LDRS: \"My concern is that individuals who hold positions of political influence in the UK should always act in the interests of this country and its people.\n\n\"There have been well-publicised cases where questions have been raised about political figures advocating positions that appear to place the interests of other countries, cultures or ideologies above those of the United Kingdom.\"\n\nSix moves Reform has made since taking power in Essex Published 6 June\n\nThe home secretary's parents immigrated from Kashmir, and Khan's from Pakistan.\n\nEarlier this year, Mahmood told the BBC that friends and family had recently experienced racist slurs \"when they had gone 20 years without hearing those words said to them\".\n\n\"I think we're living in a more divisive, more polarised world. I think social media has a lot to do with sending hateful, divisive stuff through the algorithms,\" she said, speaking in January.\n\nJohnson did not refer to them directly in his post, but the image he shared of them included the caption: \"One changing our capital city, the other bringing in Islam in the thousands.\"\n\nThe Facebook post, before it was removed, had received 14,000 interactions and more than 3,000 comments.\n\nHe is the county councillor for Three Fields and Great Notley, which includes MDP Wethersfield, where hundreds of asylum seekers are accommodated.\n\nThe Reform leader of Essex County Council Peter Harris has also been approached for comment.\n\nDo you have a story suggestion for Essex? Contact us below.\n\nGet in touch\n\nYour Voice\n\nFollow Essex news on BBC Sounds , Facebook , external , Instagram , external and X , external .\n\nRelated topics\n\nReform UK\n\nEssex County Council\n\nEssex\n\nShabana Mahmood\n\nSadiq Khan\n\nRefugees and asylum seekers\n\nMore on this story\n\nCouncil leader defends 'world class' SEND officers Published 2 days ago\n\nSenior councillor quits after clash over SEND plans Published 27 October\n\nTwo Reform councillors suspended in a week Published 25 September\n\nRelated internet links\n\nEssex County Council",
+      "body": "Essex county councillor Carl Johnson wrote on Facebook that \"no foreigner should ever be allowed to stand for political office in this country\"\n\nPublished 6 November 2026\n\nA Reform UK councillor has been labelled a \"racist\" and accused of posting \"xenophobic conspiracy theories\" by a Labour councillor, after questioning whether migrants and their children should be allowed to stand for elected office.\n\nEssex county councillor Carl Johnson posted a picture of Home Secretary Shabana Mahmood next to London Mayor Sadiq Khan, and wrote \"we have been deliberately infiltrated\".\n\nLabour county councillor Lee Scordis called on Reform to \"expel him immediately\".\n\nJohnson and his party have both since defended his right to free speech.\n\n\"Open debate and free speech should not be shut down simply because others disagree with a particular viewpoint,\" said Johnson, speaking to the Local Democracy Reporting Service (LDRS).\n\nJohnson shared the image of the two prominent Labour politicians on Wednesday.\n\nIn his accompanying message, he wrote: \"We have allowed people who arrived as asylum seekers to settle and then have second generations, gain positions of political power, and then push to change our laws to better reflect their own religion and culture.\n\n\"That is unacceptable. No foreigner should ever be allowed to stand for political office in this country.\"\n\nThe Facebook post has since been removed from the page of councillor Carl Johnson and the BBC contacted him for a response.\n\n'Personal views'\n\nBoth the home secretary and London mayor were born in the UK and are the second generation of migrant families.\n\nScordis said the Reform councillor had suggested that politicians like Winston Churchill and Rishi Sunak, who had at least one parent born abroad, \"could not be elected in any role, let alone prime minister\".\n\nA Reform spokesperson said: \"[The party] is committed to net-negative migration and will prioritise the needs of the British people.\n\n\"Councillor Johnson is entitled to his own personal views.\"\n\nThe Reform councillor's post included a picture of Home Secretary Shabana Mahmood, next to London Mayor Sadiq Khan (these are not the images he shared)\n\nThe Braintree Conservatives said they \"strongly oppose these remarks, and the obsession of some Reform politicians openly challenging the identity of Britons born in this country\".\n\nMeanwhile, Essex County Council said it was \"aware of the social media post by councillor Carl Johnson\" but would not comment on whether a complaint had been received.\n\nJohnson told the LDRS: \"My concern is that individuals who hold positions of political influence in the UK should always act in the interests of this country and its people.\n\n\"There have been well-publicised cases where questions have been raised about political figures advocating positions that appear to place the interests of other countries, cultures or ideologies above those of the United Kingdom.\"\n\nSix moves Reform has made since taking power in Essex Published 6 June\n\nThe home secretary's parents immigrated from Kashmir, and Khan's from Pakistan.\n\nEarlier this year, Mahmood told the BBC that friends and family had recently experienced racist slurs \"when they had gone 20 years without hearing those words said to them\".\n\n\"I think we're living in a more divisive, more polarised world. I think social media has a lot to do with sending hateful, divisive stuff through the algorithms,\" she said, speaking in January.\n\nJohnson did not refer to them directly in his post, but the image he shared of them included the caption: \"One changing our capital city, the other bringing in Islam in the thousands.\"\n\nThe Facebook post, before it was removed, had received 14,000 interactions and more than 3,000 comments.\n\nHe is the county councillor for Three Fields and Great Notley, which includes MDP Wethersfield, where hundreds of asylum seekers are accommodated.\n\nThe Reform leader of Essex County Council Peter Harris has also been approached for comment.\n\nDo you have a story suggestion for Essex? Contact us below.\n\nGet in touch\n\nYour Voice\n\nFollow Essex news on BBC Sounds , Facebook , external , Instagram , external and X , external .\n\nRelated topics\n\nReform UK\n\nEssex County Council\n\nEssex\n\nShabana Mahmood\n\nSadiq Khan\n\nRefugees and asylum seekers\n\nMore on this story\n\nCouncil leader defends 'world class' SEND officers Published 3 days ago\n\nSenior councillor quits after clash over SEND plans Published 27 October\n\nTwo Reform councillors suspended in a week Published 25 September\n\nRelated internet links\n\nEssex County Council",
       "imageWidth": 1200,
       "imageHeight": 675
     },
@@ -1887,30 +1987,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://www.sportsnet.ca/wp-content/uploads/2025/02/tavares_john1280.jpg"
-    },
-    {
-      "id": "d85b1b6180ab4b6a",
-      "title": "Here are the rosters for Sunday's AFL Fall Stars Game",
-      "summary": "This feed supplied a headline but no article summary.",
-      "contentStatus": "Headline only — no summary supplied",
-      "url": "https://www.mlb.com/bluejays/news/2026-arizona-fall-league-fall-stars-game-rosters",
-      "source": "Toronto Blue Jays",
-      "publisher": "MLB",
-      "published": "2026-11-04T16:01:59Z",
-      "category": "Sports",
-      "region": "Canada",
-      "labels": [
-        "Sports",
-        "Canada",
-        "Blue Jays"
-      ],
-      "sourceWeight": 5,
-      "focus": "Blue Jays",
-      "sourceType": "news",
-      "wordCount": 0,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "93856a950cc6d395",
@@ -2024,7 +2100,7 @@
       "id": "53624e94bac2f0b0",
       "title": "More Mandelson papers set to be published before Christmas",
       "summary": "Documents were published in March and June - but others were withheld because they were part of a police investigation.",
-      "contentStatus": "Freely readable article text extracted from publisher page",
+      "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/news/articles/c60meenj1ke8o",
       "source": "BBC Politics",
       "publisher": "BBC",
@@ -2038,14 +2114,11 @@
       "sourceWeight": 5,
       "focus": "",
       "sourceType": "news",
-      "wordCount": 422,
-      "readingMinutes": 2,
-      "isShort": false,
+      "wordCount": 19,
+      "readingMinutes": 1,
+      "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9283/live/10208510-d94a-11f1-b2ee-87d22b17ac74.jpg",
-      "body": "Published 5 November 2026\n\nThe government is preparing to publish more documents about the appointment of Lord Mandelson as US ambassador.\n\nBatches of papers were published in March and June - but others were withheld because they were part of a Metropolitan Police investigation.\n\nThe Cabinet Office has now said a number of extra documents will be published, likely before Christmas. Some will still be withheld at the request of the Met.\n\nCat Little, permanent secretary at the Cabinet Office, said that some of the documents could \"now be published without prejudicing their investigation\".\n\nThe Met Police had launched an investigation over allegations that, while he was serving as a government minister, Lord Mandelson had passed on market-sensitive government information to the late convicted sex offender Jeffrey Epstein.\n\nWriting to the chair of Parliament's Intelligence and Security Committee, Little said: \"The Cabinet Office is now beginning the process to prepare these documents so that they may be laid before the House in response to the humble address motion as soon as possible.\"\n\nShe said the documents would be reviewed and in some instances may need to be redacted \"for the purposes of avoiding prejudice to national security or international relations\".\n\nThe process is expected to be completed before Parliament rises for the Christmas recess on 17 December.\n\nLord Mandelson was arrested on 23 February on suspicion of misconduct in public office.\n\nHe has repeatedly let it be known that he believes he has not acted criminally, did not act for personal gain and is cooperating with the police.\n\n\"Our investigation into alleged misconduct in public office is ongoing,\" the Met Police said in a statement.\n\nThe lifelong Labour politician became the British ambassador to the US in February 2025, but was sacked in September after Downing Street said new information about the extent of his relationship with Epstein had emerged.\n\nAfter his sacking, the government - then led by Sir Keir Starmer - was heavily criticised for giving Lord Mandelson the job and in February MPs voted to force the government to publish papers relating to his appointment.\n\nMike Wood, shadow Cabinet Office minister, said: \"We still haven't got to the bottom of the Mandelson scandal.\n\n\"Labour did their utmost to hold this information back and it was only released because of the Conservatives humble address.\"\n\nFive questions left unanswered by the Mandelson files Published 2 June\n\nMandelson files: What you need to know Published 1 June\n\nSign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.",
-      "imageWidth": 1200,
-      "imageHeight": 675
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9283/live/10208510-d94a-11f1-b2ee-87d22b17ac74.jpg"
     },
     {
       "id": "e5405b2f19c27af3",
@@ -2484,6 +2557,30 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1f7/live/c45a1800-d8f2-11f1-9c68-d767468fa269.png"
     },
     {
+      "id": "f7ec4a58017ed544",
+      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+      "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-11-06T23:09:45Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 13,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg"
+    },
+    {
       "id": "13d7ff08d4d2fdc9",
       "title": "Riley signs new Harlequins contract",
       "summary": "Harlequins hooker Sam Riley signs a new contract with the Prem club.",
@@ -2556,6 +2653,54 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1a1/live/68632510-d874-11f1-a364-a1fce50dd192.jpg"
     },
     {
+      "id": "55f1e1e8bca758b5",
+      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+      "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+      "source": "Ars Technica",
+      "publisher": "Ars Technica",
+      "published": "2026-11-06T22:08:47Z",
+      "category": "Tech",
+      "region": "World",
+      "labels": [
+        "Tech",
+        "World"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 14,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif"
+    },
+    {
+      "id": "58d06739a10bc110",
+      "title": "After the US midterms, what will a lame duck Trump mean for the global economy?",
+      "summary": "Republicans’ crushing setback will play out in stock markets, inflation, interest rates and economic growth Donald Trump’s loss of control of the House of Representatives and the Senate has put the world economy on notice for an unpredictable final two years of his presidential term. After Democrats swept aside his Republican party in the midterm elections, analysts said the prospect of a highly erratic lame-duck president would have significant implications for financial markets, growth, inflation, government borrowing costs and living standards. Continue reading...",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets",
+      "source": "The Guardian Economics",
+      "publisher": "The Guardian",
+      "published": "2026-11-04T15:56:30Z",
+      "category": "Economics",
+      "region": "US",
+      "labels": [
+        "Economics",
+        "US"
+      ],
+      "sourceWeight": 5,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 83,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://i.guim.co.uk/img/media/2a93f1501ef9ad49bab6fef5ee59dc4a5af2e1b6/785_0_5678_4542/master/5678.jpg?width=700&quality=85&auto=format&fit=max&s=27605fb4acada390537fa3138730f2b0"
+    },
+    {
       "id": "4182d64c714e3e80",
       "title": "UK interest rates increase expected after services sector activity accelerates",
       "summary": "Purchasing manager’s index at eight-month high, bolstered by spending on AI as firms regain momentum lost to Iran war The Bank of England is expected to raise interest rates on Thursday after a closely watched survey showed growth across the UK’s services sector leapt last month to an eight-month high, bolstered by spending on artificial intelligence. S&P Global’s survey of the services sector in October showed businesses regained much of the momentum they lost after the start of the Iran war, but also felt the impact of a renewed spurt of input price inflation, which accelerated to a five-month high. Continue reading...",
@@ -2601,7 +2746,7 @@
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/chainalysis-1152x648.png"
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg"
     },
     {
       "id": "6859dac79785d321",
@@ -2966,6 +3111,29 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b2/live/7c457390-d9f4-11f1-bb10-cdca6001fbcf.jpg"
     },
     {
+      "id": "40e58957453aea01",
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+      "source": "TechCrunch",
+      "publisher": "TechCrunch",
+      "published": "2026-11-07T04:16:43Z",
+      "category": "Tech",
+      "region": "US",
+      "labels": [
+        "Tech",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 44,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "f4931d812ca8262d",
       "title": "Workers' rights 'second place' to economic growth",
       "summary": "Jersey's Economic Development Minister has told the BBC that workers' rights may have to take 'second place' to economic growth.",
@@ -3060,6 +3228,29 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/a4818a1c509f2c44df4d47008a1a483443c9dcad/1251_0_6447_5157/master/6447.jpg?width=700&quality=85&auto=format&fit=max&s=4ed431235a450104cbe8ead354668603"
+    },
+    {
+      "id": "c0e1f602b3dcd685",
+      "title": "US asks China to uphold Busan trade deal commitments",
+      "summary": "The US urged Beijing to meet commitments from a 2025 accord — particularly on agricultural purchases and rare earths supply. China, meanwhile, expressed concern over the US' \"economic, trade restrictive\" measures.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf",
+      "source": "DW",
+      "publisher": "DW",
+      "published": "2026-11-07T04:44:00Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 30,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
     },
     {
       "id": "69c3fccc65f3bf6b",
@@ -3304,6 +3495,29 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f93b/live/eda3b1f0-d8be-11f1-81c3-ed825029a92b.jpg"
     },
     {
+      "id": "c0334a201f0224fb",
+      "title": "Trump confirms new US strikes on Iran’s Qeshm Island",
+      "summary": "The US president also claims 'a lot of progress' in Washington's negotiations with Tehran.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-11-07T03:53:01Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 14,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "796723f3eff643eb",
       "title": "How does it affect me if share prices fall?",
       "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
@@ -3374,29 +3588,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3353/live/7b56d9b0-d887-11f1-ad49-25abedf165e8.jpg"
-    },
-    {
-      "id": "5d936f9e512d2bd5",
-      "title": "Pope Leo arrives in Uruguay at start of South America tour",
-      "summary": "Pope Leo has arrived in Uruguay at the start of a 12-day trip through three South American nations. His trip, which is intense with a packed itinerary, comes just weeks after his lung cancer surgery.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf",
-      "source": "DW",
-      "publisher": "DW",
-      "published": "2026-11-06T22:54:00Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 35,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "f632438a2fe87234",
@@ -3494,6 +3685,29 @@
       "imageUrl": "https://i.guim.co.uk/img/media/8dc0f6e40002ad4a4fadac568c61f9cceacdf4ee/110_0_5040_4032/master/5040.jpg?width=700&quality=85&auto=format&fit=max&s=2538fc7c623102de5eb86713357633d0"
     },
     {
+      "id": "e06d67ce6c11570b",
+      "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+      "summary": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-11-07T00:55:51Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 20,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "1aaac1170cfa7334",
       "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
       "summary": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
@@ -3566,6 +3780,29 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d19/live/d3d66860-da32-11f1-b441-2b33b063138f.jpg"
     },
     {
+      "id": "295ae899f1a29250",
+      "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+      "summary": "Marjorie Taylor Greene says Trump's White House personnel shuffle will sink the party’s next presidential campaign.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "publisher": "Al Jazeera",
+      "published": "2026-11-07T00:21:49Z",
+      "category": "Politics",
+      "region": "US",
+      "labels": [
+        "Politics",
+        "US"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 16,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false
+    },
+    {
       "id": "dce1d5e7e48403f6",
       "title": "Sweeney demands discipline from card-happy England",
       "summary": "England are the second-best side in the world when they can keep 15 players on the pitch, says Rugby Football Union chief executive Bill Sweeney.",
@@ -3613,29 +3850,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"
-    },
-    {
-      "id": "f4a2845d028cdd26",
-      "title": "US urges China to honour Busan trade deal commitments",
-      "summary": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-11-06T23:00:37Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 17,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
     },
     {
       "id": "9d6c28b03c60b13d",
@@ -3874,52 +4088,6 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d8/live/6bbe7fc0-da0e-11f1-bbd1-cf41b7fd4e9b.jpg"
     },
     {
-      "id": "2449592cb1595e32",
-      "title": "Could Trump’s veto stop the Democratic majority?",
-      "summary": "Democrats have won the House and Senate. AJLabs looks at the numbers and what their majority means for Trump.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-11-06T19:18:33Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "a0e9c890b0f211f6",
-      "title": "Why is Britain refusing to pay slavery reparations?",
-      "summary": "Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-11-06T19:34:33Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 14,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
       "id": "04e08eb0feab3bb7",
       "title": "Four Saracens named in World Rugby Women’s 15s Dream Team of the Year",
       "summary": "Four Saracens Women have been selected for the World Rugby Women’s 15s Dream Team of the Year 2026: Sophie de Goede The previous World Rugby Women’s 15s Player of the Year added another selection to her collection after captaining Canada through the WXV Global Series. Her break down the left in Exeter set up Olivia […]",
@@ -3940,29 +4108,6 @@
       "focus": "Saracens",
       "sourceType": "news",
       "wordCount": 55,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false
-    },
-    {
-      "id": "3a613c5a13a2e926",
-      "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
-      "summary": "Moscow is suffering losses on the battlefield as US traders reportedly refuse to honour Trump's diesel deal with Putin.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold?traffic_source=rss",
-      "source": "Al Jazeera",
-      "publisher": "Al Jazeera",
-      "published": "2026-11-06T18:23:11Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 19,
       "readingMinutes": 1,
       "isShort": true,
       "isBreaking": false
@@ -4087,6 +4232,30 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6023/live/c7b8cb20-d9e9-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "07251733399f3ce6",
+      "title": "Meet Fu Shuang and Ping Ping: New giant pandas in Atlanta",
+      "summary": "The newest residents of Zoo Atlanta are on loan from China as part of a six-year agreement.",
+      "contentStatus": "Source-provided feed summary",
+      "url": "https://www.bbc.co.uk/news/videos/cwm244x9dzy2o",
+      "source": "BBC News",
+      "publisher": "BBC",
+      "published": "2026-11-06T18:27:21Z",
+      "category": "Politics",
+      "region": "China",
+      "labels": [
+        "Politics",
+        "China"
+      ],
+      "sourceWeight": 4,
+      "focus": "",
+      "sourceType": "news",
+      "wordCount": 17,
+      "readingMinutes": 1,
+      "isShort": true,
+      "isBreaking": false,
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4818/live/64c913a0-da0f-11f1-b441-2b33b063138f.jpg"
     },
     {
       "id": "67cc263524138b72",
@@ -4332,30 +4501,6 @@
       "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg"
     },
     {
-      "id": "fb01cb6a4072b04c",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo",
-      "source": "BBC News",
-      "publisher": "BBC",
-      "published": "2026-11-06T16:12:22Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 16,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png"
-    },
-    {
       "id": "bb3e83e8d58f15c1",
       "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
       "summary": "\"This is going to be a game-changer.\"",
@@ -4525,30 +4670,6 @@
       "imageUrl": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6030995"
     },
     {
-      "id": "293fb38f35afb3ed",
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-11-05T21:40:36Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 13,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg"
-    },
-    {
       "id": "144eceed287c9ff4",
       "title": "Women's rights matter more than any league, say Afghan cricketers",
       "summary": "Afghanistan Refugee Women's cricket team players express disappointment foreign players have signed up for the country's franchise league.",
@@ -4573,42 +4694,18 @@
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/388c/live/b1dc5b40-d922-11f1-ad94-e17fee4cd332.jpg"
     },
     {
-      "id": "06f924977f1a7b7a",
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-11-05T21:39:40Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 11,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg"
-    },
-    {
       "id": "01f9b65f9414364c",
       "title": "'A beautiful story' as Bellingham brothers called up",
       "summary": "It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.",
       "contentStatus": "Source-provided feed summary",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo",
-      "source": "BBC News",
+      "source": "BBC Sport",
       "publisher": "BBC",
       "published": "2026-11-06T14:16:34Z",
-      "category": "Politics",
+      "category": "Sports",
       "region": "UK",
       "labels": [
-        "Politics",
+        "Sports",
         "UK"
       ],
       "sourceWeight": 4,
@@ -4643,30 +4740,6 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96fb/live/da2276c0-d9d1-11f1-9e5a-c30c5e3d8c85.jpg"
-    },
-    {
-      "id": "5aa34a6aeae11ee0",
-      "title": "Sony revives the original Walkman headphones, adds USB-C",
-      "summary": "Orange ear cushions included.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
-      "source": "Ars Technica",
-      "publisher": "Ars Technica",
-      "published": "2026-11-05T21:56:36Z",
-      "category": "Tech",
-      "region": "World",
-      "labels": [
-        "Tech",
-        "World"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 4,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/assets_MS2027641_000001_feature-2-3-D-1152x648.jpg"
     },
     {
       "id": "f91eca205b36ff2a",
@@ -4907,85 +4980,13 @@
       "isShort": true,
       "isBreaking": false,
       "imageUrl": "https://i.guim.co.uk/img/media/58dd92d6c0ca3ceae07489520d9833605e415eb7/33_0_1748_1399/master/1748.jpg?width=700&quality=85&auto=format&fit=max&s=e2075b7f49c10e81610c4e2c5895fef6"
-    },
-    {
-      "id": "fbc9e0decd980d21",
-      "title": "Why managers can learn a lot from leaders like Napoleon - Pulis",
-      "summary": "BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck98z2r17e6po",
-      "source": "BBC Sport",
-      "publisher": "BBC",
-      "published": "2026-11-06T06:53:56Z",
-      "category": "Sports",
-      "region": "UK",
-      "labels": [
-        "Sports",
-        "UK"
-      ],
-      "sourceWeight": 4,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 24,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
-    },
-    {
-      "id": "3b2bdcbbbbd25917",
-      "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
-      "summary": "Speaking to BBC's Newscast, the foreign secretary says Britain cannot sweep its past \"under the carpet\".",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo",
-      "source": "BBC Politics",
-      "publisher": "BBC",
-      "published": "2026-11-04T02:14:45Z",
-      "category": "Politics",
-      "region": "UK",
-      "labels": [
-        "Politics",
-        "UK"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 16,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77a6/live/48039560-d825-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "fd415a494eba9a1a",
-      "title": "Trump’s troubles with Iran could open the door to China",
-      "summary": "Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the region China has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the Middle East. The diplomatic salvo comes before a highly anticipated meeting between Donald Trump and Xi Jinping when the US president is expected to attend the Apec conference in Shenzhen, China, on 18 and 19 November. Continue reading...",
-      "contentStatus": "Source-provided feed summary",
-      "url": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
-      "source": "The Guardian China",
-      "publisher": "The Guardian",
-      "published": "2026-11-03T13:13:50Z",
-      "category": "Politics",
-      "region": "US",
-      "labels": [
-        "Politics",
-        "US"
-      ],
-      "sourceWeight": 5,
-      "focus": "",
-      "sourceType": "news",
-      "wordCount": 76,
-      "readingMinutes": 1,
-      "isShort": true,
-      "isBreaking": false,
-      "imageUrl": "https://i.guim.co.uk/img/media/f57112d30a36effbcc3c23525ef1736ef2822ea9/34_0_1981_1584/master/1981.jpg?width=700&quality=85&auto=format&fit=max&s=115a06cc10d1c20893de5617c309a03a"
     }
   ],
   "sourceStatus": [
     {
       "source": "BBC News",
       "ok": true,
-      "items": 37
+      "items": 34
     },
     {
       "source": "BBC Politics",
@@ -5019,8 +5020,8 @@
     },
     {
       "source": "UN News",
-      "ok": true,
-      "items": 30
+      "ok": false,
+      "error": "not well-formed (invalid token): line 1, column 0"
     },
     {
       "source": "The Guardian China",
