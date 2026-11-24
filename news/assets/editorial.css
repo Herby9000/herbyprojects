@@ -8,3 +8,31 @@
 .reader-copy p{white-space:pre-line}
 @media(max-width:480px){.editorial-story{padding:18px 16px}.editorial-story h3{overflow-wrap:anywhere}.story-meta{overflow-wrap:anywhere}}
 @media(prefers-reduced-motion:reduce){.editorial-story,.editorial-topic{transition:none!important}}
+
+/* The publication's own quiet literary identity: warm stock, fine rules and an
+   original typographic lock-up rather than a facsimile of another magazine. */
+.masthead{border-bottom:0}
+.mast-inner{border-top:1px solid var(--ink);border-bottom:1px solid var(--ink)}
+.nameplate{padding:34px 16px 28px}
+.daily-seven-wordmark{display:flex;align-items:baseline;justify-content:center;gap:.16em;font-family:"Iowan Old Style","Baskerville Old Face",Baskerville,Georgia,serif;font-variant-ligatures:common-ligatures}
+.daily-seven-wordmark .wordmark-the{align-self:center;margin-right:.08em;color:var(--red);font-size:.2em;font-style:italic;font-weight:600;letter-spacing:.04em;transform:rotate(-7deg)}
+.topics{justify-content:center;border-bottom:3px double var(--ink)}
+.topic.active{background:var(--red);color:var(--paper)}
+.section-heading.ruled{border-top-width:1px}
+.top-rail{gap:18px}
+.story-card{border-top:3px solid var(--ink);box-shadow:0 12px 34px rgba(54,39,24,.07)}
+.story-card:nth-child(3n+2){border-top-color:var(--red)}
+.story-card h3{font-family:"Iowan Old Style","Baskerville Old Face",Baskerville,Georgia,serif}
+.bbc-story{display:grid;grid-template-columns:clamp(112px,15vw,180px) minmax(0,1fr);align-items:stretch;gap:18px;padding:18px 18px 18px 0}
+.bbc-story-copy{display:grid;grid-template-columns:minmax(0,1fr) auto;align-content:center;align-items:start;gap:8px 16px;min-width:0}
+.bbc-story-image{grid-row:1;margin:0;overflow:hidden;aspect-ratio:16/9;background:#ddd2c0}
+.bbc-story-image-media,.bbc-story-image img{display:block;width:100%;height:100%;object-fit:cover}
+.bbc-headline{font-family:"Iowan Old Style","Baskerville Old Face",Baskerville,Georgia,serif;font-size:20px;line-height:1.18}
+.bbc-description,.bbc-source-link{grid-column:1/-1}
+.bbc-story-fallback{grid-template-columns:clamp(112px,15vw,180px) minmax(0,1fr)}
+.bbc-story:not(.has-image){grid-template-columns:1fr}
+.bbc-story-fallback .bbc-story-copy{grid-column:2}
+.bbc-story-fallback:not(.has-image) .bbc-story-copy{grid-column:1}
+.reader-image-media{display:block;width:100%;height:100%;object-fit:cover}
+@media(max-width:750px){.topics{justify-content:flex-start}.daily-seven-wordmark{font-size:55px}.bbc-story-list{grid-template-columns:1fr}.bbc-story{grid-template-columns:108px minmax(0,1fr);padding-right:0}.bbc-story:nth-of-type(odd){padding-left:0;border-left:0}.bbc-headline{font-size:18px}.bbc-story-fallback{grid-template-columns:108px minmax(0,1fr)}}
+@media(max-width:390px){.daily-seven-wordmark{font-size:48px}.bbc-story{grid-template-columns:92px minmax(0,1fr);gap:12px}.bbc-attribution{display:none}}

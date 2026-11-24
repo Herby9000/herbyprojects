@@ -34,6 +34,9 @@ MAX_CANDIDATES_PER_STORY = 8
 MAX_EDITORIAL_PROBES = 45
 BBC_TOP_FEED_URL = "https://feeds.bbci.co.uk/news/rss.xml"
 MAX_BBC_DESCRIPTION_CHARS = 500
+BBC_CARD_IMAGE_WIDTH = 1024
+MIN_BBC_IMAGE_WIDTH = 800
+MIN_BBC_IMAGE_HEIGHT = 440
 
 @dataclass(frozen=True)
 class Source:
@@ -180,7 +183,52 @@ def safe_bbc_url(value: str) -> str:
     return cleaned if parsed.scheme == "https" and is_bbc else ""
 
 
-def parse_bbc_top_stories(payload: bytes) -> list[dict]:
+def safe_bbc_image_url(value: str) -> str:
+    """Return only credential-free HTTPS URLs from BBC's image CDN."""
+    cleaned = safe_image_url(value)
+    if not cleaned:
+        return ""
+    parsed = urlparse(cleaned)
+    hostname = (parsed.hostname or "").lower().rstrip(".")
+    return cleaned if hostname == "ichef.bbci.co.uk" else ""
+
+
+def _bbc_card_image_url(value: str) -> str:
+    """Request the 1024px variant of a feed-provided BBC ACE thumbnail."""
+    cleaned = safe_bbc_image_url(value)
+    if not cleaned:
+        return ""
+    parsed = urlparse(cleaned)
+    upgraded_path = re.sub(r"^/ace/standard/\d+/", f"/ace/standard/{BBC_CARD_IMAGE_WIDTH}/", parsed.path)
+    if upgraded_path == parsed.path:
+        return cleaned
+    return parsed._replace(path=upgraded_path).geturl()
+
+
+def _bbc_feed_image(item: ET.Element, image_fetch) -> dict:
+    candidates = extract_image_candidates(item)
+    candidates = [candidate for candidate in candidates if safe_bbc_image_url(candidate.get("url", ""))]
+    if not candidates or image_fetch is None:
+        return {}
+    candidate = candidates[0]
+    url = _bbc_card_image_url(candidate["url"])
+    try:
+        payload, content_type, status = _call_image_fetch(image_fetch, url)
+        if status not in (200, 206) or not content_type.lower().startswith("image/"):
+            return {}
+        width, height = image_dimensions(payload)
+    except Exception:
+        return {}
+    if width < MIN_BBC_IMAGE_WIDTH or height < MIN_BBC_IMAGE_HEIGHT:
+        return {}
+    result = {"imageUrl": url, "imageWidth": width, "imageHeight": height}
+    alt = sanitize(candidate.get("alt", ""))[:300].strip()
+    if alt:
+        result["imageAlt"] = alt
+    return result
+
+
+def parse_bbc_top_stories(payload: bytes, image_fetch=None) -> list[dict]:
     """Normalize every valid unique BBC Top Stories item in publisher order."""
     root = ET.fromstring(payload)
     items = [node for node in root.iter() if node.tag.rsplit("}", 1)[-1].lower() in ("item", "entry")]
@@ -202,6 +250,7 @@ def parse_bbc_top_stories(payload: bytes) -> list[dict]:
         description = sanitize(child_text(item, ("description", "summary")))[:MAX_BBC_DESCRIPTION_CHARS].strip()
         if description:
             story["description"] = description
+        story.update(_bbc_feed_image(item, image_fetch))
         stories.append(story)
     return stories
 
@@ -214,20 +263,28 @@ def _valid_previous_bbc_items(previous: dict) -> list[dict]:
         title = sanitize(str(item.get("title", "")))
         url = safe_bbc_url(str(item.get("url", "")))
         if title and url and not any(old["url"] == url for old in items):
-            normalized = {"title": title, "url": url}
+            normalized: dict = {"title": title, "url": url}
             description = sanitize(str(item.get("description", "")))[:MAX_BBC_DESCRIPTION_CHARS].strip()
             if description:
                 normalized["description"] = description
+            image_url = safe_bbc_image_url(str(item.get("imageUrl", "")))
+            width = _positive_int(item.get("imageWidth"))
+            height = _positive_int(item.get("imageHeight"))
+            if image_url and width >= MIN_BBC_IMAGE_WIDTH and height >= MIN_BBC_IMAGE_HEIGHT:
+                normalized.update(imageUrl=image_url, imageWidth=width, imageHeight=height)
+                image_alt = sanitize(str(item.get("imageAlt", "")))[:300].strip()
+                if image_alt:
+                    normalized["imageAlt"] = image_alt
             items.append(normalized)
     return items
 
 
-def refresh_bbc_top_stories(now: datetime, previous: dict, fetcher) -> tuple[list[dict], dict]:
+def refresh_bbc_top_stories(now: datetime, previous: dict, fetcher, image_fetch=None) -> tuple[list[dict], dict]:
     """Refresh BBC headlines independently, retaining only a validated last good list."""
     checked_at = now.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
     base_status = {"source": "BBC News", "feedUrl": BBC_TOP_FEED_URL, "checkedAt": checked_at}
     try:
-        items = parse_bbc_top_stories(fetcher())
+        items = parse_bbc_top_stories(fetcher(), image_fetch=image_fetch)
         if not items:
             raise ValueError("feed contained no valid BBC stories")
         return items, dict(base_status, available=True, fresh=True, fetchedAt=checked_at)
@@ -964,12 +1021,22 @@ def bbc_status_text(status: dict) -> str:
 def render_bbc_snapshot(items: list[dict], status: dict) -> str:
     stories = []
     for item in items:
+        image = ""
+        image_url = safe_bbc_image_url(item.get("imageUrl", ""))
+        if (image_url and _positive_int(item.get("imageWidth")) >= MIN_BBC_IMAGE_WIDTH
+                and _positive_int(item.get("imageHeight")) >= MIN_BBC_IMAGE_HEIGHT):
+            image = (
+                f'<figure class="bbc-story-image"><img src="{html.escape(image_url, quote=True)}" '
+                f'alt="{html.escape(sanitize(item.get("imageAlt", "")), quote=True)}" '
+                f'width="{item["imageWidth"]}" height="{item["imageHeight"]}" loading="lazy" '
+                f'decoding="async" referrerpolicy="no-referrer"></figure>')
         description = (f'<p class="bbc-description">{html.escape(item["description"])}</p>'
                        if item.get("description") else "")
         stories.append(
-            f'<article class="bbc-story bbc-story-fallback"><h3 class="bbc-headline">{html.escape(item["title"])}</h3>'
+            f'<article class="bbc-story bbc-story-fallback{" has-image" if image else ""}">{image}<div class="bbc-story-copy">'
+            f'<h3 class="bbc-headline">{html.escape(item["title"])}</h3>'
             f'<span class="bbc-attribution">BBC</span>{description}'
-            f'<a class="bbc-source-link" href="{html.escape(item["url"], quote=True)}" rel="noopener noreferrer">Optional: read at BBC</a></article>'
+            f'<a class="bbc-source-link" href="{html.escape(item["url"], quote=True)}" rel="noopener noreferrer">Optional: read at BBC</a></div></article>'
         )
     if not stories:
         stories.append('<p class="empty-state">BBC Top Stories are temporarily unavailable.</p>')
@@ -1011,7 +1078,8 @@ def build(allow_fallback: bool = False) -> dict:
         return result
 
     bbc_source = next(source for source in SOURCES if source.url == BBC_TOP_FEED_URL)
-    bbc_items, bbc_status = refresh_bbc_top_stories(now, previous, lambda: fetch_cached(bbc_source))
+    bbc_items, bbc_status = refresh_bbc_top_stories(
+        now, previous, lambda: fetch_cached(bbc_source), image_fetch=fetch_image)
     all_stories, statuses = [], []
     for source in SOURCES:
         try:

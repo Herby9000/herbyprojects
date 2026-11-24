@@ -27,8 +27,8 @@ IMAGE_RSS = b'''<?xml version="1.0"?><rss xmlns:media="http://search.yahoo.com/m
 <item><title>Description</title><link>https://example.com/4</link><description><![CDATA[<p>Words</p><img src="https://images.example.com/description.jpg" alt="A supplied caption">]]></description></item>
 </channel></rss>'''
 
-BBC_TOP_RSS = b'''<?xml version="1.0"?><rss><channel>
-<item><title>First &amp; &lt;em&gt;leading&lt;/em&gt; story</title><link>https://www.bbc.co.uk/news/articles/first?utm_source=rss</link><description><![CDATA[<p>First &amp; <strong>safe</strong> summary.</p><script>bad()</script>]]></description></item>
+BBC_TOP_RSS = b'''<?xml version="1.0"?><rss xmlns:media="http://search.yahoo.com/mrss/"><channel>
+<item><title>First &amp; &lt;em&gt;leading&lt;/em&gt; story</title><link>https://www.bbc.co.uk/news/articles/first?utm_source=rss</link><description><![CDATA[<p>First &amp; <strong>safe</strong> summary.</p><script>bad()</script>]]></description><media:thumbnail url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/example.jpg" width="240" height="135" alt="Reporter &amp; guest" /></item>
 <item><title>Second story</title><link>https://www.bbc.com/news/articles/second</link></item>
 <item><title>Duplicate URL</title><link>https://www.bbc.co.uk/news/articles/first</link></item>
 <item><title>Impostor host</title><link>https://bbc.co.uk.evil.example/news/third</link></item>
@@ -132,6 +132,20 @@ class PipelineTests(unittest.TestCase):
         self.assertIn('cursor:pointer', declarations('.list-story'))
         self.assertIn('outline:', declarations('.story-card:focus-visible'))
         self.assertIn('outline:', declarations('.list-story:focus-visible'))
+
+    def test_editorial_home_identity_and_photo_layout_cover_desktop_and_mobile(self):
+        news_root = Path(__file__).parents[1]
+        html = (news_root / 'index.html').read_text(encoding='utf-8')
+        css = (news_root / 'assets' / 'editorial.css').read_text(encoding='utf-8')
+        self.assertIn('class="daily-seven-wordmark" aria-label="The Daily Seven"', html)
+        self.assertIn('assets/news.css?v=11', html)
+        self.assertIn('assets/editorial.css?v=2', html)
+        self.assertIn('assets/news.js?v=12', html)
+        self.assertIn('.bbc-story{display:grid;grid-template-columns:', css)
+        self.assertIn('.bbc-story-image-media,.bbc-story-image img{display:block;width:100%;height:100%;object-fit:cover}', css)
+        mobile = css[css.index('@media(max-width:750px)'):]
+        self.assertIn('.bbc-story-list{grid-template-columns:1fr}', mobile)
+        self.assertIn('.bbc-story{grid-template-columns:108px minmax(0,1fr)', mobile)
 
     def test_checked_in_edition_has_every_named_sports_filter(self):
         data = json.loads((Path(__file__).parents[1] / 'data' / 'news.json').read_text(encoding='utf-8'))
@@ -237,6 +251,36 @@ class PipelineTests(unittest.TestCase):
                        'https://user:secret@www.bbc.com/news/a', 'https://www.bbc.com:8443/news/a'):
             self.assertEqual(pipeline.safe_bbc_url(unsafe), '', unsafe)
 
+    def test_bbc_top_stories_upgrade_and_probe_feed_media_for_actual_card_dimensions(self):
+        jpeg = (b'\xff\xd8\xff\xc0\x00\x11\x08' + struct.pack('>HH', 576, 1024) +
+                b'\x03\x01\x11\x00\x02\x11\x00\x03\x11\x00\xff\xd9')
+        requested = []
+
+        def image_fetch(url):
+            requested.append(url)
+            return jpeg, 'image/jpeg', 200
+
+        parsed = pipeline.parse_bbc_top_stories(BBC_TOP_RSS, image_fetch=image_fetch)
+        self.assertEqual(requested, [
+            'https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/example.jpg',
+        ])
+        self.assertEqual(parsed[0]['imageUrl'], requested[0])
+        self.assertEqual((parsed[0]['imageWidth'], parsed[0]['imageHeight']), (1024, 576))
+        self.assertEqual(parsed[0]['imageAlt'], 'Reporter & guest')
+        self.assertNotIn('imageUrl', parsed[1])
+
+    def test_bbc_media_rejects_non_bbc_hosts_and_low_resolution(self):
+        self.assertEqual(pipeline.safe_bbc_image_url('https://ichef.bbci.co.uk/ace/photo.jpg'),
+                         'https://ichef.bbci.co.uk/ace/photo.jpg')
+        for unsafe in ('https://ichef.bbci.co.uk.evil.example/photo.jpg',
+                       'http://ichef.bbci.co.uk/photo.jpg', 'https://www.bbc.co.uk/photo.jpg'):
+            self.assertEqual(pipeline.safe_bbc_image_url(unsafe), '')
+        low = (b'\xff\xd8\xff\xc0\x00\x11\x08' + struct.pack('>HH', 135, 240) +
+               b'\x03\x01\x11\x00\x02\x11\x00\x03\x11\x00\xff\xd9')
+        parsed = pipeline.parse_bbc_top_stories(BBC_TOP_RSS,
+                                                 image_fetch=lambda _url: (low, 'image/jpeg', 200))
+        self.assertNotIn('imageUrl', parsed[0])
+
     def test_bbc_top_stories_keep_every_item_in_order_and_bound_descriptions(self):
         items = ''.join(
             f'<item><title>Story {index}</title><link>https://www.bbc.co.uk/news/{index}</link>'
@@ -256,6 +300,20 @@ class PipelineTests(unittest.TestCase):
             {'title': 'Encoded & title', 'url': 'https://www.bbc.co.uk/news/one', 'description': 'Safe & decoded'},
             {'title': 'Headline only', 'url': 'https://www.bbc.co.uk/news/two'},
         ])
+
+    def test_bbc_previous_items_retain_only_validated_image_metadata(self):
+        previous = {'bbcTopStories': [
+            {'title': 'With image', 'url': 'https://www.bbc.co.uk/news/one',
+             'imageUrl': 'https://ichef.bbci.co.uk/ace/standard/1024/photo.jpg',
+             'imageWidth': 1024, 'imageHeight': 576, 'imageAlt': '<b>Plain</b> alt'},
+            {'title': 'Low image', 'url': 'https://www.bbc.co.uk/news/two',
+             'imageUrl': 'https://ichef.bbci.co.uk/ace/standard/240/photo.jpg',
+             'imageWidth': 240, 'imageHeight': 135},
+        ]}
+        items = pipeline._valid_previous_bbc_items(previous)
+        self.assertEqual(items[0]['imageAlt'], 'Plain alt')
+        self.assertEqual(items[0]['imageWidth'], 1024)
+        self.assertNotIn('imageUrl', items[1])
 
     def test_bbc_static_fallback_keeps_source_navigation_a_separate_explicit_action(self):
         fragment = pipeline.render_bbc_snapshot([
@@ -563,9 +621,14 @@ class PipelineTests(unittest.TestCase):
         self.assertTrue(all(pipeline.meets_image_floor(story.get('imageWidth'), story.get('imageHeight')) for story in top))
         self.assertGreater(len(data['bbcTopStories']), 0)
         self.assertTrue(data['bbcTopStoriesStatus']['available'])
-        self.assertTrue(all(set(item) in ({'title', 'url'}, {'title', 'url', 'description'}) and
+        allowed = {'title', 'url', 'description', 'imageUrl', 'imageWidth', 'imageHeight', 'imageAlt'}
+        self.assertTrue(all(set(item) <= allowed and {'title', 'url'} <= set(item) and
                             pipeline.safe_bbc_url(item['url']) == item['url'] and
-                            len(item.get('description', '')) <= pipeline.MAX_BBC_DESCRIPTION_CHARS
+                            len(item.get('description', '')) <= pipeline.MAX_BBC_DESCRIPTION_CHARS and
+                            (not item.get('imageUrl') or
+                             (pipeline.safe_bbc_image_url(item['imageUrl']) == item['imageUrl'] and
+                              item['imageWidth'] >= pipeline.MIN_BBC_IMAGE_WIDTH and
+                              item['imageHeight'] >= pipeline.MIN_BBC_IMAGE_HEIGHT))
                             for item in data['bbcTopStories']))
 
     def test_bbc_top_stories_is_last_content_section_before_footer(self):

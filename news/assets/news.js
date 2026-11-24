@@ -60,6 +60,30 @@
       return url.protocol === 'https:' && bbcHost && !url.username && !url.password && (!url.port || url.port === '443') ? url.href : '';
     } catch (_) { return ''; }
   }
+  function safeBBCImageUrl(value) {
+    try {
+      const url = new URL(value);
+      return url.protocol === 'https:' && url.hostname.toLowerCase().replace(/\.$/, '') === 'ichef.bbci.co.uk' &&
+        !url.username && !url.password && (!url.port || url.port === '443') ? url.href : '';
+    } catch (_) { return ''; }
+  }
+  function verifiedBBCImage(item) {
+    const url = safeBBCImageUrl(item && item.imageUrl);
+    const width = Number(item && item.imageWidth); const height = Number(item && item.imageHeight);
+    return url && Number.isInteger(width) && Number.isInteger(height) && width >= 800 && height >= 440
+      ? { url, width, height, alt: typeof item.imageAlt === 'string' ? item.imageAlt.trim().slice(0, 300) : '' } : null;
+  }
+  function makeBBCImage(item, className = 'bbc-story-image') {
+    const verified = verifiedBBCImage(item);
+    if (!verified) return null;
+    const figure = el('figure', className);
+    const image = el('img', `${className}-media`);
+    image.src = verified.url; image.alt = verified.alt; image.width = verified.width; image.height = verified.height;
+    image.loading = 'lazy'; image.decoding = 'async'; image.referrerPolicy = 'no-referrer';
+    image.addEventListener('error', () => { figure.hidden = true; });
+    figure.append(image);
+    return figure;
+  }
   function verifiedImageSize(story) {
     const width = Number(story.imageWidth); const height = Number(story.imageHeight);
     return Number.isInteger(width) && Number.isInteger(height) && width >= 960 && height >= 540 ? [width, height] : null;
@@ -71,7 +95,11 @@
     $('#reader-kicker').textContent = 'BBC Top Stories';
     $('#reader-title').textContent = title;
     $('#reader-byline').textContent = 'BBC';
-    $('#reader-copy').replaceChildren(...(description ? [el('p', '', description)] : []));
+    const copy = [];
+    const image = makeBBCImage(item, 'reader-image');
+    if (image) copy.push(image);
+    if (description) copy.push(el('p', '', description));
+    $('#reader-copy').replaceChildren(...copy);
     $('#reader-labels').replaceChildren(el('span', '', 'BBC'));
     $('#reader-disclosure').textContent = description
       ? 'This is a short, BBC-provided RSS description. The Daily Seven does not scrape or republish the full article.'
@@ -234,7 +262,11 @@
       const control = el('button', 'bbc-story');
       control.type = 'button';
       control.setAttribute('aria-label', `Read ${title} in app`);
-      control.append(el('span', 'bbc-headline', title), el('span', 'bbc-attribution', 'BBC'));
+      const image = makeBBCImage(item);
+      if (image) control.classList.add('has-image');
+      const copy = el('span', 'bbc-story-copy');
+      copy.append(el('span', 'bbc-headline', title), el('span', 'bbc-attribution', 'BBC'));
+      control.append(...(image ? [image] : []), copy);
       control.addEventListener('click', () => openBBCTopStory({ ...item, title, url }));
       controls.push(control);
     });

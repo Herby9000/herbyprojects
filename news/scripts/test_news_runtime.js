@@ -97,7 +97,8 @@ const editorialStory = {
 const fixtureEdition = { schemaVersion: 2, generatedAt: '2026-08-15T12:00:00Z', topStoryIds: topStories.map(story => story.id),
   sectionStoryIds: { Editorial: [editorialStory.id] }, stories: [...topStories, ...sectionStories, ...sportsStories, editorialStory],
   bbcTopStories: [
-    { title: 'BBC first story', url: 'https://www.bbc.co.uk/news/articles/first', description: 'BBC supplied short description.' },
+    { title: 'BBC first story', url: 'https://www.bbc.co.uk/news/articles/first', description: 'BBC supplied short description.',
+      imageUrl: 'https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/first.jpg', imageWidth: 1024, imageHeight: 576, imageAlt: 'A plain BBC caption' },
     { title: 'BBC second story', url: 'https://www.bbc.com/news/articles/second' },
     { title: 'Unsafe BBC lookalike', url: 'https://bbc.co.uk.evil.example/news/third' },
   ],
@@ -186,13 +187,22 @@ async function run() {
   assert.equal(bbcSection.hidden, false, 'Today shows BBC Top Stories');
   const bbcItems = elements.get('#bbc-top-stories-list').children.filter(child => child.className === 'bbc-story');
   assert.equal(bbcItems.length, productionMode ? edition.bbcTopStories.length : 2, 'BBC list renders every valid item without a top-N cap');
-  assert.equal(bbcItems.every((item, index) => item.tagName === 'BUTTON' && item.children[1].textContent === 'BBC' &&
-    item.children[0].textContent === edition.bbcTopStories[index].title), true, 'BBC headlines stay in feed order and are attributed buttons');
+  assert.equal(bbcItems.every((item, index) => {
+    const copy = item.children[item.children.length - 1];
+    return item.tagName === 'BUTTON' && copy.children[1].textContent === 'BBC' &&
+      copy.children[0].textContent === edition.bbcTopStories[index].title;
+  }), true, 'BBC headlines stay in feed order and are attributed buttons');
   assert.equal(bbcItems.every(item => !item.href), true, 'BBC headline controls have no navigation target');
   bbcItems[0].click();
   assert.equal(elements.get('#reader-title').textContent, edition.bbcTopStories[0].title, 'BBC headline opens the in-app reader');
-  assert.deepEqual(elements.get('#reader-copy').children.map(child => child.textContent),
+  assert.deepEqual(elements.get('#reader-copy').children.filter(child => child.tagName === 'P').map(child => child.textContent),
     edition.bbcTopStories[0].description ? [edition.bbcTopStories[0].description] : [], 'BBC reader shows its optional RSS description as text');
+  if (!productionMode) {
+    const bbcImage = bbcItems[0].children[0].children[0];
+    assert.equal(bbcImage.src, edition.bbcTopStories[0].imageUrl, 'BBC card uses validated feed media');
+    assert.equal(bbcImage.alt, edition.bbcTopStories[0].imageAlt, 'BBC card retains plain feed alt text');
+    assert.equal(elements.get('#reader-copy').children[0].className, 'reader-image', 'BBC reader is photo-led when media exists');
+  }
   assert.equal(elements.get('#reader-byline').textContent, 'BBC', 'BBC reader carries attribution');
   assert.equal(elements.get('#reader-source').href, edition.bbcTopStories[0].url, 'BBC source is a separate optional action');
   reader.dispatch('close');
