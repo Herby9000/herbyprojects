@@ -41,12 +41,14 @@ const topicButtons = filters.map((filter, index) => {
 });
 const leadSection = element('section');
 const latestSection = element('section');
+const bbcSection = element('section');
 const reader = element('dialog');
 reader.showModal = () => reader.setAttribute('open', '');
 reader.close = () => { reader.setAttribute('open', ''); reader.dispatch('close'); };
 const elements = new Map([
   ['#top-rail', element('div')], ['#story-sections', element('div')], ['#reader', reader],
   ['.lead-section', leadSection], ['.latest-section', latestSection],
+  ['#bbc-top-stories', bbcSection], ['#bbc-top-stories-list', element('div')], ['#bbc-top-stories-status', element('p')],
 ]);
 for (const selector of ['#reader-kicker', '#reader-title', '#reader-byline', '#reader-copy', '#reader-labels',
   '#reader-disclosure', '#reader-source', '#refresh-time', '#dateline', '#latest-heading', '.no-script']) elements.set(selector, element());
@@ -93,7 +95,13 @@ const editorialStory = {
   readingMinutes: 7, wordCount: 1400,
 };
 const fixtureEdition = { schemaVersion: 2, generatedAt: '2026-08-15T12:00:00Z', topStoryIds: topStories.map(story => story.id),
-  sectionStoryIds: { Editorial: [editorialStory.id] }, stories: [...topStories, ...sectionStories, ...sportsStories, editorialStory] };
+  sectionStoryIds: { Editorial: [editorialStory.id] }, stories: [...topStories, ...sectionStories, ...sportsStories, editorialStory],
+  bbcTopStories: [
+    { title: 'BBC first story', url: 'https://www.bbc.co.uk/news/articles/first' },
+    { title: 'BBC second story', url: 'https://www.bbc.com/news/articles/second' },
+    { title: 'Unsafe BBC lookalike', url: 'https://bbc.co.uk.evil.example/news/third' },
+  ],
+  bbcTopStoriesStatus: { available: true, fresh: true, fetchedAt: '2026-08-15T12:00:00Z', checkedAt: '2026-08-15T12:00:00Z' } };
 const productionMode = Boolean(process.env.NEWS_DATA_PATH);
 const edition = productionMode ? JSON.parse(fs.readFileSync(process.env.NEWS_DATA_PATH, 'utf8')) : fixtureEdition;
 let fetchCalled = false;
@@ -175,6 +183,10 @@ async function run() {
   assert.equal(elements.get('#reader-title').textContent, 'closed', 'horizontal swiping does not open a card');
   assert.equal(leadSection.hidden, false, 'Today shows Top 7');
   assert.equal(latestSection.hidden, true, 'Today hides latest container');
+  assert.equal(bbcSection.hidden, false, 'Today shows BBC Top Stories');
+  const bbcLinks = elements.get('#bbc-top-stories-list').children.filter(child => child.tagName === 'A');
+  assert.equal(bbcLinks.length, productionMode ? edition.bbcTopStories.length : 2, 'BBC list renders every valid item without a top-N cap');
+  assert.equal(bbcLinks.every(link => link.tagName === 'A' && link.children[1].textContent === 'BBC'), true, 'BBC headlines are linked and attributed');
   assert.deepEqual(renderedCategories(), [], 'Today does not render section lists');
 
   if (productionMode) {
@@ -208,6 +220,7 @@ async function run() {
   for (const category of ['Politics', 'Tech', 'Economics']) {
     topicButtons.find(button => button.dataset.filter === category).click();
     assert.equal(leadSection.hidden, true, `${category} hides Top 7`);
+    assert.equal(bbcSection.hidden, true, `${category} hides BBC Top Stories`);
     assert.equal(latestSection.hidden, false, `${category} shows latest`);
     assert.deepEqual(renderedCategories(), [category], `${category} renders only itself`);
   }
@@ -274,6 +287,7 @@ async function run() {
   assert.equal(elements.get('#reader-copy').children.some(child => child.tagName === 'FIGURE'), false, 'odd-port image has no figure');
   topicButtons[0].click();
   assert.equal(leadSection.hidden, false); assert.equal(latestSection.hidden, true);
+  assert.equal(bbcSection.hidden, false, 'Today restores BBC Top Stories');
   assert.deepEqual(renderedCategories(), [], 'Today restores only the seven');
   console.log('Daily Seven Sports filters and regression runtime tests passed');
 }

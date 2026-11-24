@@ -27,6 +27,15 @@ IMAGE_RSS = b'''<?xml version="1.0"?><rss xmlns:media="http://search.yahoo.com/m
 <item><title>Description</title><link>https://example.com/4</link><description><![CDATA[<p>Words</p><img src="https://images.example.com/description.jpg" alt="A supplied caption">]]></description></item>
 </channel></rss>'''
 
+BBC_TOP_RSS = b'''<?xml version="1.0"?><rss><channel>
+<item><title>First &amp; &lt;em&gt;leading&lt;/em&gt; story</title><link>https://www.bbc.co.uk/news/articles/first?utm_source=rss</link></item>
+<item><title>Second story</title><link>https://www.bbc.com/news/articles/second</link></item>
+<item><title>Duplicate URL</title><link>https://www.bbc.co.uk/news/articles/first</link></item>
+<item><title>Impostor host</title><link>https://bbc.co.uk.evil.example/news/third</link></item>
+<item><title>Insecure</title><link>http://www.bbc.co.uk/news/fourth</link></item>
+<item><title></title><link>https://www.bbc.co.uk/news/fifth</link></item>
+</channel></rss>'''
+
 class ImageCollector(HTMLParser):
     def __init__(self):
         super().__init__()
@@ -217,6 +226,38 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(pipeline.safe_url('https://user:secret@example.com/story'), '')
         self.assertEqual(pipeline.safe_url('https://example.com:8443/story'), '')
         self.assertEqual(pipeline.safe_url('https://example.com/story'), 'https://example.com/story')
+
+    def test_bbc_top_stories_preserve_feed_order_and_only_allow_https_bbc_links(self):
+        self.assertEqual(pipeline.parse_bbc_top_stories(BBC_TOP_RSS), [
+            {'title': 'First & leading story', 'url': 'https://www.bbc.co.uk/news/articles/first'},
+            {'title': 'Second story', 'url': 'https://www.bbc.com/news/articles/second'},
+        ])
+        for unsafe in ('http://www.bbc.co.uk/news/a', 'https://bbc.co.uk.evil.example/news/a',
+                       'https://user:secret@www.bbc.com/news/a', 'https://www.bbc.com:8443/news/a'):
+            self.assertEqual(pipeline.safe_bbc_url(unsafe), '', unsafe)
+
+    def test_bbc_top_stories_failure_keeps_last_good_items_and_marks_them_stale(self):
+        now = datetime(2026, 11, 24, 17, tzinfo=timezone.utc)
+        previous = {
+            'bbcTopStories': [{'title': 'Last good', 'url': 'https://www.bbc.co.uk/news/articles/last'}],
+            'bbcTopStoriesStatus': {'available': True, 'fresh': True, 'fetchedAt': '2026-11-24T13:00:00Z'},
+        }
+        items, status = pipeline.refresh_bbc_top_stories(
+            now, previous, fetcher=lambda: (_ for _ in ()).throw(OSError('temporary outage')))
+        self.assertEqual(items, previous['bbcTopStories'])
+        self.assertEqual(status['available'], True)
+        self.assertEqual(status['fresh'], False)
+        self.assertEqual(status['fetchedAt'], '2026-11-24T13:00:00Z')
+        self.assertEqual(status['checkedAt'], '2026-11-24T17:00:00Z')
+
+    def test_bbc_top_stories_initial_failure_is_truthfully_unavailable(self):
+        now = datetime(2026, 11, 24, 17, tzinfo=timezone.utc)
+        items, status = pipeline.refresh_bbc_top_stories(
+            now, {}, fetcher=lambda: b'<rss><channel></channel></rss>')
+        self.assertEqual(items, [])
+        self.assertEqual(status['available'], False)
+        self.assertEqual(status['fresh'], False)
+        self.assertIsNone(status['fetchedAt'])
 
     def test_article_body_extraction_is_sanitized_and_article_scoped(self):
         markup = b'''<html><body><nav>Menu poison</nav><article><h2>Context &amp; evidence</h2>
@@ -489,6 +530,17 @@ class PipelineTests(unittest.TestCase):
         self.assertTrue(all(story['category'] != 'Sports' for story in top))
         self.assertTrue(all(pipeline.safe_image_url(story.get('imageUrl', '')) == story.get('imageUrl') for story in top))
         self.assertTrue(all(pipeline.meets_image_floor(story.get('imageWidth'), story.get('imageHeight')) for story in top))
+        self.assertGreater(len(data['bbcTopStories']), 0)
+        self.assertTrue(data['bbcTopStoriesStatus']['available'])
+        self.assertTrue(all(set(item) == {'title', 'url'} and pipeline.safe_bbc_url(item['url']) == item['url']
+                            for item in data['bbcTopStories']))
+
+    def test_bbc_top_stories_is_last_content_section_before_footer(self):
+        document = (Path(__file__).parents[1] / 'index.html').read_text(encoding='utf-8')
+        self.assertIn('id="bbc-top-stories"', document)
+        self.assertLess(document.index('id="bbc-top-stories"'), document.index('</main>'))
+        self.assertLess(document.index('</main>'), document.index('<footer>'))
+        self.assertNotIn('<section', document[document.index('id="bbc-top-stories"'):document.index('</main>')])
 
     def test_checked_in_fallback_has_diverse_substantial_editorial_and_length_metadata(self):
         data = json.loads((Path(__file__).parents[1] / 'data' / 'news.json').read_text(encoding='utf-8'))

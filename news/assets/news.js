@@ -6,6 +6,7 @@
   const rail = $('#top-rail');
   const leadSection = $('.lead-section');
   const latestSection = $('.latest-section');
+  const bbcSection = $('#bbc-top-stories');
   const sections = $('#story-sections');
   const reader = $('#reader');
   const formatter = new Intl.DateTimeFormat(undefined, {
@@ -49,6 +50,14 @@
     try {
       const url = new URL(value);
       return url.protocol === 'https:' && !url.username && !url.password && (!url.port || url.port === '443') ? url.href : '';
+    } catch (_) { return ''; }
+  }
+  function safeBBCUrl(value) {
+    try {
+      const url = new URL(value);
+      const host = url.hostname.toLowerCase().replace(/\.$/, '');
+      const bbcHost = ['bbc.co.uk', 'bbc.com'].some(root => host === root || host.endsWith(`.${root}`));
+      return url.protocol === 'https:' && bbcHost && !url.username && !url.password && (!url.port || url.port === '443') ? url.href : '';
     } catch (_) { return ''; }
   }
   function verifiedImageSize(story) {
@@ -194,10 +203,35 @@
       sections.append(el('p', 'empty-state', 'No stories are available in this section. The next refresh will try again.'));
     }
   }
+  function renderBBCTopStories(items, status) {
+    const list = $('#bbc-top-stories-list');
+    const links = [];
+    const seen = new Set();
+    items.forEach(item => {
+      const url = safeBBCUrl(item && item.url);
+      const title = item && typeof item.title === 'string' ? item.title.trim() : '';
+      if (!url || !title || seen.has(url)) return;
+      seen.add(url);
+      const link = el('a', 'bbc-story');
+      link.href = url; link.rel = 'noopener noreferrer';
+      link.append(el('span', 'bbc-headline', title), el('span', 'bbc-attribution', 'BBC'));
+      links.push(link);
+    });
+    const available = status && status.available && links.length;
+    const statusText = status && status.fresh
+      ? `BBC feed refreshed ${safeDate(status.fetchedAt)}`
+      : available
+        ? `BBC feed temporarily unavailable; showing the last successful refresh from ${safeDate(status.fetchedAt)}.`
+        : 'BBC Top Stories are temporarily unavailable.';
+    const statusNode = el('p', 'bbc-status', statusText); statusNode.id = 'bbc-top-stories-status';
+    if (links.length) list.replaceChildren(statusNode, ...links);
+    else list.replaceChildren(statusNode, el('p', 'empty-state', 'BBC Top Stories are temporarily unavailable.'));
+  }
   function applyFilter(filter) {
     state.filter = filter;
     $('#latest-heading').textContent = filter === 'Editorial' ? 'Substantial essays & investigations' : 'Latest by section';
     leadSection.hidden = filter !== 'All';
+    bbcSection.hidden = filter !== 'All';
     latestSection.hidden = filter === 'All';
     latestSection.setAttribute('aria-hidden', String(filter === 'All'));
     document.querySelectorAll('.topic').forEach(button => {
@@ -215,12 +249,13 @@
       const response = await fetch('data/news.json', { cache: 'no-store', headers: { Accept: 'application/json' } });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const data = await response.json();
-      if (data.schemaVersion !== 2 || !Array.isArray(data.stories) || !Array.isArray(data.topStoryIds) || data.topStoryIds.length !== 7) throw new Error('Invalid edition');
+      if (data.schemaVersion !== 2 || !Array.isArray(data.stories) || !Array.isArray(data.topStoryIds) || data.topStoryIds.length !== 7 ||
+          !Array.isArray(data.bbcTopStories) || !data.bbcTopStoriesStatus) throw new Error('Invalid edition');
       state.data = data;
       const byId = new Map(data.stories.map(story => [story.id, story]));
       const top = data.topStoryIds.map(id => byId.get(id)).filter(Boolean);
       if (top.length !== 7 || top.some(story => story.category === 'Sports' || !safeImageUrl(story.imageUrl) || !verifiedImageSize(story))) throw new Error('Incomplete Top 7');
-      renderTop(top); applyFilter('All');
+      renderTop(top); renderBBCTopStories(data.bbcTopStories, data.bbcTopStoriesStatus); applyFilter('All');
       $('#refresh-time').textContent = `Updated ${safeDate(data.generatedAt)}`;
       $('#dateline').textContent = new Intl.DateTimeFormat(undefined, { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' }).format(new Date(data.generatedAt));
     } catch (error) {

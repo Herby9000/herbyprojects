@@ -32,6 +32,7 @@ MAX_IMAGE_BYTES = 12_000_000
 MAX_ENRICH_STORIES = 50
 MAX_CANDIDATES_PER_STORY = 8
 MAX_EDITORIAL_PROBES = 45
+BBC_TOP_FEED_URL = "https://feeds.bbci.co.uk/news/rss.xml"
 
 @dataclass(frozen=True)
 class Source:
@@ -45,7 +46,7 @@ class Source:
     source_type: str = "news"
 
 SOURCES = (
-    Source("BBC News", "https://feeds.bbci.co.uk/news/rss.xml", "Politics", "World", 4),
+    Source("BBC News", BBC_TOP_FEED_URL, "Politics", "World", 4),
     Source("BBC Politics", "https://feeds.bbci.co.uk/news/politics/rss.xml", "Politics", "UK", 5),
     Source("CBC Canada", "https://www.cbc.ca/cmlink/rss-canada", "Politics", "Canada", 5),
     Source("CBC World", "https://www.cbc.ca/cmlink/rss-world", "Politics", "World", 3),
@@ -164,6 +165,69 @@ def safe_url(value: str) -> str:
         return ""
     cleaned = TRACKING_QUERY_RE.sub(r"\1", value).replace("?&", "?").rstrip("?&")
     return cleaned
+
+
+def safe_bbc_url(value: str) -> str:
+    """Return only credential-free HTTPS links on BBC-owned web hosts."""
+    cleaned = safe_url(value)
+    if not cleaned:
+        return ""
+    parsed = urlparse(cleaned)
+    hostname = (parsed.hostname or "").lower().rstrip(".")
+    is_bbc = any(hostname == root or hostname.endswith("." + root)
+                 for root in ("bbc.co.uk", "bbc.com"))
+    return cleaned if parsed.scheme == "https" and is_bbc else ""
+
+
+def parse_bbc_top_stories(payload: bytes) -> list[dict]:
+    """Normalize every valid unique BBC Top Stories item in publisher order."""
+    root = ET.fromstring(payload)
+    items = [node for node in root.iter() if node.tag.rsplit("}", 1)[-1].lower() in ("item", "entry")]
+    stories, seen_urls = [], set()
+    for item in items:
+        title = sanitize(child_text(item, ("title",)))
+        link = child_text(item, ("link",))
+        if not link:
+            for child in list(item):
+                if child.tag.rsplit("}", 1)[-1].lower() == "link":
+                    link = child.attrib.get("href", "")
+                    if link:
+                        break
+        link = safe_bbc_url(link)
+        if not title or not link or link in seen_urls:
+            continue
+        seen_urls.add(link)
+        stories.append({"title": title, "url": link})
+    return stories
+
+
+def _valid_previous_bbc_items(previous: dict) -> list[dict]:
+    items = []
+    for item in previous.get("bbcTopStories", []):
+        if not isinstance(item, dict):
+            continue
+        title = sanitize(str(item.get("title", "")))
+        url = safe_bbc_url(str(item.get("url", "")))
+        if title and url and not any(old["url"] == url for old in items):
+            items.append({"title": title, "url": url})
+    return items
+
+
+def refresh_bbc_top_stories(now: datetime, previous: dict, fetcher) -> tuple[list[dict], dict]:
+    """Refresh BBC headlines independently, retaining only a validated last good list."""
+    checked_at = now.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+    base_status = {"source": "BBC News", "feedUrl": BBC_TOP_FEED_URL, "checkedAt": checked_at}
+    try:
+        items = parse_bbc_top_stories(fetcher())
+        if not items:
+            raise ValueError("feed contained no valid BBC stories")
+        return items, dict(base_status, available=True, fresh=True, fetchedAt=checked_at)
+    except Exception as exc:
+        items = _valid_previous_bbc_items(previous)
+        previous_status = previous.get("bbcTopStoriesStatus", {})
+        fetched_at = previous_status.get("fetchedAt") if items else None
+        return items, dict(base_status, available=bool(items), fresh=False, fetchedAt=fetched_at,
+                           error=sanitize(str(exc))[:180])
 
 
 def reading_metrics(text: str) -> tuple[int, int, bool]:
@@ -880,26 +944,65 @@ def render_snapshot(top: list[dict]) -> str:
     return "\n".join(cards) + "\n"
 
 
-def embed_snapshot(fragment: str) -> None:
+def bbc_status_text(status: dict) -> str:
+    if status.get("fresh"):
+        return f"BBC feed refreshed {status.get('fetchedAt', '')}"
+    if status.get("available"):
+        return f"BBC feed temporarily unavailable; showing the last successful refresh from {status.get('fetchedAt') or 'an earlier edition'}."
+    return "BBC Top Stories are temporarily unavailable."
+
+
+def render_bbc_snapshot(items: list[dict], status: dict) -> str:
+    links = [
+        f'<a class="bbc-story" href="{html.escape(item["url"], quote=True)}" rel="noopener noreferrer">'
+        f'<span class="bbc-headline">{html.escape(item["title"])}</span><span class="bbc-attribution">BBC</span></a>'
+        for item in items
+    ]
+    if not links:
+        links.append('<p class="empty-state">BBC Top Stories are temporarily unavailable.</p>')
+    return f'<p class="bbc-status" id="bbc-top-stories-status">{html.escape(bbc_status_text(status))}</p>\n' + "\n".join(links) + "\n"
+
+
+def embed_snapshot(fragment: str, bbc_fragment: str) -> None:
     """Put source-attributed fallback HTML into the app for no-JS reading."""
     index_path = ROOT / "news" / "index.html"
     if not index_path.exists():
         return
-    start, end = "<!-- SNAPSHOT:START -->", "<!-- SNAPSHOT:END -->"
     document = index_path.read_text(encoding="utf-8")
-    if document.count(start) != 1 or document.count(end) != 1:
-        raise ValueError("news/index.html snapshot markers are missing or ambiguous")
-    before, remainder = document.split(start, 1)
-    _, after = remainder.split(end, 1)
-    index_path.write_text(f"{before}{start}\n{fragment}{end}{after}", encoding="utf-8")
+    for start, end, replacement in (
+        ("<!-- SNAPSHOT:START -->", "<!-- SNAPSHOT:END -->", fragment),
+        ("<!-- BBC_TOP_STORIES:START -->", "<!-- BBC_TOP_STORIES:END -->", bbc_fragment),
+    ):
+        if document.count(start) != 1 or document.count(end) != 1:
+            raise ValueError(f"news/index.html markers are missing or ambiguous: {start}")
+        before, remainder = document.split(start, 1)
+        _, after = remainder.split(end, 1)
+        document = f"{before}{start}\n{replacement}{end}{after}"
+    index_path.write_text(document, encoding="utf-8")
 
 
 def build(allow_fallback: bool = False) -> dict:
     now = datetime.now(timezone.utc)
+    previous = json.loads(DATA_PATH.read_text(encoding="utf-8")) if DATA_PATH.exists() else {}
+    payload_cache: dict[str, bytes | Exception] = {}
+
+    def fetch_cached(source: Source) -> bytes:
+        if source.url not in payload_cache:
+            try:
+                payload_cache[source.url] = fetch(source)
+            except Exception as exc:
+                payload_cache[source.url] = exc
+        result = payload_cache[source.url]
+        if isinstance(result, Exception):
+            raise result
+        return result
+
+    bbc_source = next(source for source in SOURCES if source.url == BBC_TOP_FEED_URL)
+    bbc_items, bbc_status = refresh_bbc_top_stories(now, previous, lambda: fetch_cached(bbc_source))
     all_stories, statuses = [], []
     for source in SOURCES:
         try:
-            stories = parse_feed(fetch(source), source)
+            stories = parse_feed(fetch_cached(source), source)
             if not stories:
                 raise ValueError("feed contained no usable stories")
             all_stories.extend(stories)
@@ -910,8 +1013,8 @@ def build(allow_fallback: bool = False) -> dict:
     editorial_ranked = [story for story in ranked_all if story.get("sourceType") == "editorial"]
     ranked = [story for story in ranked_all if story.get("sourceType") != "editorial"]
     editorials, editorial_status = enrich_editorials(editorial_ranked)
-    previous = json.loads(DATA_PATH.read_text(encoding="utf-8")) if allow_fallback and DATA_PATH.exists() else None
-    if len({story.get("publisher") for story in editorials}) < 3 and previous:
+    fallback_previous = previous if allow_fallback else None
+    if len({story.get("publisher") for story in editorials}) < 3 and fallback_previous:
         editorials = rank(dedupe(editorials + valid_fallback_editorials(previous)), now)
     qualified = enrich_verified(ranked)
     try:
@@ -919,7 +1022,6 @@ def build(allow_fallback: bool = False) -> dict:
     except ValueError:
         if not allow_fallback or not DATA_PATH.exists():
             raise
-        previous = previous or json.loads(DATA_PATH.read_text(encoding="utf-8"))
         fallback = valid_fallback_stories(previous)
         ranked = rank(dedupe(ranked + fallback), now)
         qualified = enrich_verified(ranked)
@@ -943,6 +1045,7 @@ def build(allow_fallback: bool = False) -> dict:
         "schemaVersion": 2, "generatedAt": now.isoformat().replace("+00:00", "Z"),
         "topStoryIds": [story["id"] for story in top], "sectionStoryIds": section_story_ids,
         "stories": ordered, "sourceStatus": statuses, "editorialStatus": editorial_status,
+        "bbcTopStories": bbc_items, "bbcTopStoriesStatus": bbc_status,
         "policies": {"topPublisherCap": 2, "sectionPublisherCap": 2,
                      "shortWordThreshold": 180, "editorialMinWords": EDITORIAL_MIN_WORDS,
                      "readingWordsPerMinute": 220},
@@ -951,7 +1054,7 @@ def build(allow_fallback: bool = False) -> dict:
     DATA_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     fragment = render_snapshot(top)
     SNAPSHOT_PATH.write_text(fragment, encoding="utf-8")
-    embed_snapshot(fragment)
+    embed_snapshot(fragment, render_bbc_snapshot(bbc_items, bbc_status))
     return output
 
 
@@ -964,6 +1067,8 @@ def main() -> int:
     if args.status:
         for status in output["sourceStatus"]:
             print(f"{'OK' if status['ok'] else 'FAIL'} {status['source']}: {status.get('items', status.get('error'))}")
+        bbc_status = output["bbcTopStoriesStatus"]
+        print(f"{'OK' if bbc_status['fresh'] else 'STALE' if bbc_status['available'] else 'FAIL'} BBC Top Stories: {len(output['bbcTopStories'])}")
         print(f"WROTE {len(output['stories'])} stories; top={len(output['topStoryIds'])}")
         by_id = {story["id"]: story for story in output["stories"]}
         print("SOURCE | CATEGORY | DIMENSIONS")
