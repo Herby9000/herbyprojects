@@ -136,11 +136,21 @@ class PipelineTests(unittest.TestCase):
     def test_editorial_home_identity_and_photo_layout_cover_desktop_and_mobile(self):
         news_root = Path(__file__).parents[1]
         html = (news_root / 'index.html').read_text(encoding='utf-8')
+        base_css = (news_root / 'assets' / 'news.css').read_text(encoding='utf-8')
         css = (news_root / 'assets' / 'editorial.css').read_text(encoding='utf-8')
+        manifest = json.loads((news_root / 'manifest.webmanifest').read_text(encoding='utf-8'))
         self.assertIn('class="daily-seven-wordmark" aria-label="The Daily Seven"', html)
-        self.assertIn('assets/news.css?v=11', html)
+        self.assertIn('<meta name="theme-color" content="#ffffff">', html)
+        self.assertIn('assets/news.css?v=12', html)
         self.assertIn('assets/editorial.css?v=2', html)
         self.assertIn('assets/news.js?v=12', html)
+        self.assertIn('manifest.webmanifest?v=3', html)
+        self.assertIn(':root{--paper:#fff;--sheet:#fff;', base_css)
+        self.assertIn('body{margin:0;overflow-x:hidden;', base_css)
+        self.assertIn('.top-rail{display:grid;grid-auto-flow:column;', base_css)
+        self.assertIn('overflow-x:auto;', base_css[base_css.index('.top-rail{'):base_css.index('}', base_css.index('.top-rail{'))])
+        self.assertEqual(manifest['background_color'], '#ffffff')
+        self.assertEqual(manifest['theme_color'], '#ffffff')
         self.assertIn('.bbc-story{display:grid;grid-template-columns:', css)
         self.assertIn('.bbc-story-image-media,.bbc-story-image img{display:block;width:100%;height:100%;object-fit:cover}', css)
         mobile = css[css.index('@media(max-width:750px)'):]
@@ -195,10 +205,10 @@ class PipelineTests(unittest.TestCase):
 
     def test_daily_seven_html_has_complete_app_icon_metadata(self):
         html = (Path(__file__).parents[1] / 'index.html').read_text(encoding='utf-8')
-        self.assertIn('<meta name="theme-color" content="#f4efe6">', html)
+        self.assertIn('<meta name="theme-color" content="#ffffff">', html)
         self.assertIn('<meta name="application-name" content="Daily Seven">', html)
         self.assertIn('<meta name="apple-mobile-web-app-title" content="Daily Seven">', html)
-        self.assertIn('<link rel="manifest" href="manifest.webmanifest?v=2">', html)
+        self.assertIn('<link rel="manifest" href="manifest.webmanifest?v=3">', html)
         self.assertIn('<link rel="icon" href="assets/icons/daily-seven.svg?v=1" type="image/svg+xml">', html)
         self.assertIn('<link rel="icon" href="assets/icons/daily-seven-192.png?v=1" type="image/png" sizes="192x192">', html)
         self.assertIn('<link rel="apple-touch-icon" href="assets/icons/daily-seven-180.png?v=1" sizes="180x180">', html)
