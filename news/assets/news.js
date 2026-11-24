@@ -64,6 +64,25 @@
     const width = Number(story.imageWidth); const height = Number(story.imageHeight);
     return Number.isInteger(width) && Number.isInteger(height) && width >= 960 && height >= 540 ? [width, height] : null;
   }
+  function openBBCTopStory(item) {
+    const title = typeof item.title === 'string' ? item.title.trim() : '';
+    const description = typeof item.description === 'string' ? item.description.trim().slice(0, 500) : '';
+    const sourceUrl = safeBBCUrl(item.url);
+    $('#reader-kicker').textContent = 'BBC Top Stories';
+    $('#reader-title').textContent = title;
+    $('#reader-byline').textContent = 'BBC';
+    $('#reader-copy').replaceChildren(...(description ? [el('p', '', description)] : []));
+    $('#reader-labels').replaceChildren(el('span', '', 'BBC'));
+    $('#reader-disclosure').textContent = description
+      ? 'This is a short, BBC-provided RSS description. The Daily Seven does not scrape or republish the full article.'
+      : 'BBC supplied this headline without an RSS description. The Daily Seven does not fabricate missing article text.';
+    const source = $('#reader-source');
+    source.hidden = !sourceUrl;
+    if (sourceUrl) source.href = sourceUrl;
+    source.setAttribute('aria-label', `Optional: continue reading ${title} at BBC (opens new tab)`);
+    if (typeof reader.showModal === 'function') reader.showModal(); else reader.setAttribute('open', '');
+    document.body.classList.add('reader-open');
+  }
   function openReader(story) {
     $('#reader-kicker').textContent = `${story.category} · ${story.region}`;
     $('#reader-title').textContent = story.title;
@@ -205,26 +224,28 @@
   }
   function renderBBCTopStories(items, status) {
     const list = $('#bbc-top-stories-list');
-    const links = [];
+    const controls = [];
     const seen = new Set();
     items.forEach(item => {
       const url = safeBBCUrl(item && item.url);
       const title = item && typeof item.title === 'string' ? item.title.trim() : '';
       if (!url || !title || seen.has(url)) return;
       seen.add(url);
-      const link = el('a', 'bbc-story');
-      link.href = url; link.rel = 'noopener noreferrer';
-      link.append(el('span', 'bbc-headline', title), el('span', 'bbc-attribution', 'BBC'));
-      links.push(link);
+      const control = el('button', 'bbc-story');
+      control.type = 'button';
+      control.setAttribute('aria-label', `Read ${title} in app`);
+      control.append(el('span', 'bbc-headline', title), el('span', 'bbc-attribution', 'BBC'));
+      control.addEventListener('click', () => openBBCTopStory({ ...item, title, url }));
+      controls.push(control);
     });
-    const available = status && status.available && links.length;
+    const available = status && status.available && controls.length;
     const statusText = status && status.fresh
       ? `BBC feed refreshed ${safeDate(status.fetchedAt)}`
       : available
         ? `BBC feed temporarily unavailable; showing the last successful refresh from ${safeDate(status.fetchedAt)}.`
         : 'BBC Top Stories are temporarily unavailable.';
     const statusNode = el('p', 'bbc-status', statusText); statusNode.id = 'bbc-top-stories-status';
-    if (links.length) list.replaceChildren(statusNode, ...links);
+    if (controls.length) list.replaceChildren(statusNode, ...controls);
     else list.replaceChildren(statusNode, el('p', 'empty-state', 'BBC Top Stories are temporarily unavailable.'));
   }
   function applyFilter(filter) {

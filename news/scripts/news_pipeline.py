@@ -33,6 +33,7 @@ MAX_ENRICH_STORIES = 50
 MAX_CANDIDATES_PER_STORY = 8
 MAX_EDITORIAL_PROBES = 45
 BBC_TOP_FEED_URL = "https://feeds.bbci.co.uk/news/rss.xml"
+MAX_BBC_DESCRIPTION_CHARS = 500
 
 @dataclass(frozen=True)
 class Source:
@@ -197,7 +198,11 @@ def parse_bbc_top_stories(payload: bytes) -> list[dict]:
         if not title or not link or link in seen_urls:
             continue
         seen_urls.add(link)
-        stories.append({"title": title, "url": link})
+        story = {"title": title, "url": link}
+        description = sanitize(child_text(item, ("description", "summary")))[:MAX_BBC_DESCRIPTION_CHARS].strip()
+        if description:
+            story["description"] = description
+        stories.append(story)
     return stories
 
 
@@ -209,7 +214,11 @@ def _valid_previous_bbc_items(previous: dict) -> list[dict]:
         title = sanitize(str(item.get("title", "")))
         url = safe_bbc_url(str(item.get("url", "")))
         if title and url and not any(old["url"] == url for old in items):
-            items.append({"title": title, "url": url})
+            normalized = {"title": title, "url": url}
+            description = sanitize(str(item.get("description", "")))[:MAX_BBC_DESCRIPTION_CHARS].strip()
+            if description:
+                normalized["description"] = description
+            items.append(normalized)
     return items
 
 
@@ -953,14 +962,18 @@ def bbc_status_text(status: dict) -> str:
 
 
 def render_bbc_snapshot(items: list[dict], status: dict) -> str:
-    links = [
-        f'<a class="bbc-story" href="{html.escape(item["url"], quote=True)}" rel="noopener noreferrer">'
-        f'<span class="bbc-headline">{html.escape(item["title"])}</span><span class="bbc-attribution">BBC</span></a>'
-        for item in items
-    ]
-    if not links:
-        links.append('<p class="empty-state">BBC Top Stories are temporarily unavailable.</p>')
-    return f'<p class="bbc-status" id="bbc-top-stories-status">{html.escape(bbc_status_text(status))}</p>\n' + "\n".join(links) + "\n"
+    stories = []
+    for item in items:
+        description = (f'<p class="bbc-description">{html.escape(item["description"])}</p>'
+                       if item.get("description") else "")
+        stories.append(
+            f'<article class="bbc-story bbc-story-fallback"><h3 class="bbc-headline">{html.escape(item["title"])}</h3>'
+            f'<span class="bbc-attribution">BBC</span>{description}'
+            f'<a class="bbc-source-link" href="{html.escape(item["url"], quote=True)}" rel="noopener noreferrer">Optional: read at BBC</a></article>'
+        )
+    if not stories:
+        stories.append('<p class="empty-state">BBC Top Stories are temporarily unavailable.</p>')
+    return f'<p class="bbc-status" id="bbc-top-stories-status">{html.escape(bbc_status_text(status))}</p>\n' + "\n".join(stories) + "\n"
 
 
 def embed_snapshot(fragment: str, bbc_fragment: str) -> None:
