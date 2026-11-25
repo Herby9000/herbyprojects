@@ -1,153 +1,153 @@
 {
   "schemaVersion": 1,
-  "editionDate": "2026-11-11",
-  "editionRange": "November 3–11, 2026",
-  "generatedAt": "2026-11-11T17:32:22Z",
+  "editionDate": "2026-11-25",
+  "editionRange": "November 17–25, 2026",
+  "generatedAt": "2026-11-25T17:32:23Z",
   "questionCount": 8,
   "questions": [
     {
-      "id": "2026-11-11-fresh-prep-goodfood-customers",
-      "topic": "Foodtech acquisition",
-      "company": "Fresh Prep and Goodfood",
-      "question": "Approximately how many active Goodfood customers will Fresh Prep begin serving after its court-approved acquisition closes?",
+      "id": "2026-11-25-sensenet-series-b-team",
+      "topic": "Wildfire technology funding",
+      "company": "SenseNet",
+      "question": "To what size does SenseNet plan to grow its team after closing its Series B financing?",
       "options": [
-        "10,000",
-        "20,000",
-        "30,000",
-        "50,000"
+        "75 people",
+        "90 people",
+        "110 people",
+        "150 people"
       ],
       "answer": 2,
-      "explanation": "Fresh Prep said it will begin serving approximately 30,000 active Goodfood customers after the transaction closes.",
-      "sourceUrl": "https://betakit.com/fresh-prep-to-acquire-meal-kit-service-goodfood-in-court-approved-sale/",
-      "sourceLabel": "BetaKit — Fresh Prep's court-approved Goodfood acquisition",
-      "eventDate": "2026-11-11",
-      "asOf": "2026-11-11"
+      "explanation": "SenseNet plans to grow its 50-person team to 110 while expanding its wildfire technology business across the United States.",
+      "sourceUrl": "https://betakit.com/as-wildfire-activity-heats-up-sensenet-has-fuelled-up-to-expand-south-of-the-border/",
+      "sourceLabel": "BetaKit — SenseNet's $43-million USD Series B",
+      "eventDate": "2026-11-25",
+      "asOf": "2026-11-25"
     },
     {
-      "id": "2026-11-11-openai-odessia-travel",
-      "topic": "AI travel acquisition",
-      "company": "OpenAI and Odessia",
-      "question": "What annual value of travel did Odessia founder Francis Davidson claim users planned with the AI travel agent during summer 2026?",
+      "id": "2026-11-25-netskrt-series-b-target",
+      "topic": "Streaming infrastructure funding",
+      "company": "Netskrt Systems",
+      "question": "How large could Netskrt Systems' Series B become after its US$10-million first close?",
       "options": [
-        "$6 million",
-        "$20 million",
-        "$40 million",
-        "$60 million"
+        "US$20 million",
+        "US$25 million",
+        "US$30 million",
+        "US$40 million"
+      ],
+      "answer": 2,
+      "explanation": "The US$10-million financing is the first close of a Series B that could reach US$30 million.",
+      "sourceUrl": "https://techcouver.com/2026/11/25/netskrt-raises-us10-million-to-expand-its-sports-streaming-network/",
+      "sourceLabel": "Techcouver — Netskrt Systems' Series B first close",
+      "eventDate": "2026-11-25",
+      "asOf": "2026-11-25"
+    },
+    {
+      "id": "2026-11-25-real-ventures-fund-target",
+      "topic": "Venture capital",
+      "company": "Real Ventures",
+      "question": "What is the target size of Real Ventures' newly announced Antifragile Fund I?",
+      "options": [
+        "$45 million",
+        "$50 million",
+        "$60 million",
+        "$75 million"
+      ],
+      "answer": 2,
+      "explanation": "Real Ventures announced a $45-million first close for Antifragile Fund I and is targeting a $60-million total.",
+      "sourceUrl": "https://betakit.com/real-ventures-returns-with-sixth-fund-and-a-refreshed-accelerator-program/",
+      "sourceLabel": "BetaKit — Real Ventures' sixth pre-seed fund",
+      "eventDate": "2026-11-25",
+      "asOf": "2026-11-25"
+    },
+    {
+      "id": "2026-11-25-apiary-engineered-b-cells",
+      "topic": "Biotechnology funding",
+      "company": "Apiary Therapeutics",
+      "question": "Which antibody-producing cells does Apiary Therapeutics create from stem cells?",
+      "options": [
+        "B cells",
+        "T cells",
+        "Platelets",
+        "Neurons"
+      ],
+      "answer": 0,
+      "explanation": "Apiary's technology turns stem cells into B cells, the white blood cells that produce antibodies.",
+      "sourceUrl": "https://betakit.com/apiary-therapeutics-raises-7-3-million-for-engineered-stem-cell-therapies/",
+      "sourceLabel": "BetaKit — Apiary Therapeutics' $7.3-million seed round",
+      "eventDate": "2026-11-24",
+      "asOf": "2026-11-25"
+    },
+    {
+      "id": "2026-11-25-rocket-doctor-pharmacy-pilot",
+      "topic": "Digital healthcare pilot",
+      "company": "Rocket Doctor AI",
+      "question": "How many pharmacy locations are participating in Rocket Doctor AI's 90-day digital-care pilot?",
+      "options": [
+        "10",
+        "15",
+        "25",
+        "50"
+      ],
+      "answer": 2,
+      "explanation": "The 90-day pilot operates across 25 pharmacy locations in Alberta, British Columbia, and Ontario.",
+      "sourceUrl": "https://techcouver.com/2026/11/25/rocket-doctor-launches-pilot-power-pharmacies-digital-care/",
+      "sourceLabel": "Techcouver — Rocket Doctor AI's pharmacy pilot",
+      "eventDate": "2026-11-25",
+      "asOf": "2026-11-25"
+    },
+    {
+      "id": "2026-11-25-stealth-health-mira-clinic",
+      "topic": "Telehealth acquisition",
+      "company": "Stealth Health",
+      "question": "What name is Stealth Health using for the online clinic acquired from MedExpress?",
+      "options": [
+        "Mira Health",
+        "Maple Care",
+        "Nova Clinic",
+        "Helios Health"
+      ],
+      "answer": 0,
+      "explanation": "Stealth Health acquired MedExpress's Canadian business and is operating the online clinic as Mira Health.",
+      "sourceUrl": "https://betakit.com/stealth-health-launches-direct-to-consumer-clinic-with-medexpress-acquisition/",
+      "sourceLabel": "BetaKit — Stealth Health's MedExpress acquisition",
+      "eventDate": "2026-11-24",
+      "asOf": "2026-11-25"
+    },
+    {
+      "id": "2026-11-25-rbc-scam-intercept",
+      "topic": "Banking fraud prevention",
+      "company": "RBC",
+      "question": "When does RBC's new Scam Intercept Messages feature warn an e-Transfer sender?",
+      "options": [
+        "When a potentially suspicious transaction is detected",
+        "Whenever the recipient uses another bank",
+        "When the transfer exceeds $1,000",
+        "After every international card purchase"
+      ],
+      "answer": 0,
+      "explanation": "RBC's feature displays questions and warnings when its digital platforms detect a potentially suspicious e-Transfer transaction.",
+      "sourceUrl": "https://mobilesyrup.com/2026/11/24/rbc-scam-intercept-messages-e-transfers/",
+      "sourceLabel": "MobileSyrup — RBC's Scam Intercept Messages",
+      "eventDate": "2026-11-24",
+      "asOf": "2026-11-25"
+    },
+    {
+      "id": "2026-11-25-canada-cband-rogers-speed",
+      "topic": "5G network performance",
+      "company": "Rogers",
+      "question": "According to Opensignal's analysis, how much faster were Rogers' C-band 5G speeds than its non-C-band 5G speeds?",
+      "options": [
+        "Up to 1.3 times faster",
+        "Up to 1.8 times faster",
+        "Up to 2.4 times faster",
+        "Up to 2.8 times faster"
       ],
       "answer": 3,
-      "explanation": "Davidson claimed that tens of thousands of users planned travel worth $60 million per year with Odessia during the summer.",
-      "sourceUrl": "https://betakit.com/openai-acquires-sonder-co-founders-new-travel-tech-company-odessia/",
-      "sourceLabel": "BetaKit — OpenAI's acquisition of Odessia",
-      "eventDate": "2026-11-10",
-      "asOf": "2026-11-11"
-    },
-    {
-      "id": "2026-11-11-playstation-haven-fairgame",
-      "topic": "Video game development",
-      "company": "PlayStation and Haven Studios",
-      "question": "What will Montréal's Haven Studios do after PlayStation cancelled Fairgame$?",
-      "options": [
-        "Close the studio",
-        "Support other PlayStation studios",
-        "Finish the game for another publisher",
-        "Become an independent company"
-      ],
-      "answer": 1,
-      "explanation": "PlayStation said Haven will support other studios in its organization and that the cancellation will not result in job cuts.",
-      "sourceUrl": "https://mobilesyrup.com/2026/11/10/playstation-cancels-canadian-live-service-title-fairgame/",
-      "sourceLabel": "MobileSyrup — PlayStation's cancellation of Fairgame$",
-      "eventDate": "2026-11-10",
-      "asOf": "2026-11-11"
-    },
-    {
-      "id": "2026-11-11-platform-calgary-axc-access",
-      "topic": "Startup ecosystem",
-      "company": "Platform Calgary and Ax.c",
-      "question": "How long is the reciprocal-access agreement between Platform Calgary and Montréal's Ax.c?",
-      "options": [
-        "Six months",
-        "One year",
-        "Two years",
-        "Five years"
-      ],
-      "answer": 1,
-      "explanation": "The one-year agreement gives associated startups reciprocal access to workspace, expert sessions, and networking events in Calgary and Montréal.",
-      "sourceUrl": "https://betakit.com/platform-calgary-and-ax-c-launch-reciprocal-access-for-startups/",
-      "sourceLabel": "BetaKit — Platform Calgary and Ax.c's reciprocal-access agreement",
-      "eventDate": "2026-11-10",
-      "asOf": "2026-11-11"
-    },
-    {
-      "id": "2026-11-11-paris-ai-declaration-signatories",
-      "topic": "AI safety",
-      "company": "Government of Canada",
-      "question": "Which company had not signed the Paris call for AI safety and security when Canada endorsed it?",
-      "options": [
-        "Anthropic",
-        "Cohere",
-        "Google",
-        "OpenAI"
-      ],
-      "answer": 2,
-      "explanation": "Anthropic, Cohere, and OpenAI were among the signatories, while Google and Meta had not signed the declaration.",
-      "sourceUrl": "https://betakit.com/government-of-canada-signs-international-declaration-on-ai-safety-and-security/",
-      "sourceLabel": "BetaKit — Canada's endorsement of the Paris AI safety declaration",
-      "eventDate": "2026-11-10",
-      "asOf": "2026-11-11"
-    },
-    {
-      "id": "2026-11-11-blackletter-pricing-model",
-      "topic": "Legal technology",
-      "company": "Blackletter",
-      "question": "Which pricing model does AI-enabled law firm Blackletter use instead of traditional hourly billing?",
-      "options": [
-        "Outcome-based fixed fees",
-        "Monthly software subscriptions",
-        "Contingency fees only",
-        "Per-document token pricing"
-      ],
-      "answer": 0,
-      "explanation": "Blackletter uses an outcome-based, fixed-fee model as it seeks to challenge the legal industry's pay-by-the-hour approach.",
-      "sourceUrl": "https://betakit.com/why-an-ex-cohere-leader-doesnt-want-you-to-call-his-new-law-firm-ai-native/",
-      "sourceLabel": "BetaKit — Blackletter's funding and legal-services model",
-      "eventDate": "2026-11-10",
-      "asOf": "2026-11-11"
-    },
-    {
-      "id": "2026-11-11-real-time-rail-savings",
-      "topic": "Payments infrastructure",
-      "company": "Payments Canada",
-      "question": "How much could Canada's Real-Time Rail payment system save over 10 years, according to a C.D. Howe Institute estimate?",
-      "options": [
-        "$1 billion to $3 billion",
-        "$3.5 billion to $5 billion",
-        "$5.3 billion to $14.5 billion",
-        "$15 billion to $25 billion"
-      ],
-      "answer": 2,
-      "explanation": "The cited estimate says Real-Time Rail could save between $5.3 billion and $14.5 billion over a decade.",
-      "sourceUrl": "https://mobilesyrup.com/2026/11/10/faster-money-transfers-are-coming-to-canadian-bank-near-you/",
-      "sourceLabel": "MobileSyrup — launch of Canada's Real-Time Rail payment system",
-      "eventDate": "2026-11-10",
-      "asOf": "2026-11-11"
-    },
-    {
-      "id": "2026-11-11-blue-j-series-e-lead",
-      "topic": "AI funding",
-      "company": "Blue J",
-      "question": "Which firm led Blue J's $176-million USD Series E round?",
-      "options": [
-        "JMI Equity",
-        "Oak HC/FT",
-        "Sapphire Ventures",
-        "Intrepid Growth Partners"
-      ],
-      "answer": 0,
-      "explanation": "JMI Equity led the round, while Oak HC/FT, Sapphire Ventures, and Intrepid Growth Partners participated as existing investors.",
-      "sourceUrl": "https://betakit.com/ai-tax-research-platform-blue-j-raises-176-million-usd-series-e/",
-      "sourceLabel": "BetaKit — Blue J's $176-million USD Series E",
-      "eventDate": "2026-11-10",
-      "asOf": "2026-11-11"
+      "explanation": "Rogers showed the largest improvement among the three major Canadian operators, with C-band users getting speeds up to 2.8 times faster.",
+      "sourceUrl": "https://mobilesyrup.com/2026/11/25/canadian-c-band-5g-performance-opensignal/",
+      "sourceLabel": "MobileSyrup — Opensignal's Canadian C-band 5G analysis",
+      "eventDate": "2026-11-25",
+      "asOf": "2026-11-25"
     }
   ]
 }
