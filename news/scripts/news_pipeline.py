@@ -787,6 +787,20 @@ def order_for_output(top: list[dict], ranked: list[dict], limit: int = 200) -> l
     return ordered[:limit]
 
 
+def unique_by_id(groups: Iterable[list[dict]], limit: int) -> list[dict]:
+    """Flatten story groups by priority without allowing duplicate IDs to replace Top 7 data."""
+    ordered, seen = [], set()
+    for stories in groups:
+        for story in stories:
+            if story["id"] in seen:
+                continue
+            seen.add(story["id"])
+            ordered.append(story)
+            if len(ordered) == limit:
+                return ordered
+    return ordered
+
+
 def _validated_public_url(value: str) -> str:
     """Validate a credential-free public HTTPS URL and all current DNS answers."""
     value = safe_image_url(value)
@@ -1125,11 +1139,9 @@ def build(allow_fallback: bool = False) -> dict:
         selected_sections.extend(selected)
     selected_editorials = select_section(editorials, 12, publisher_cap=2)
     section_story_ids["Editorial"] = [story["id"] for story in selected_editorials]
-    ordered = list(top)
-    for story in selected_sections + selected_editorials + order_for_output(top, ranked) + editorials:
-        if story not in ordered:
-            ordered.append(story)
-    ordered = ordered[:200]
+    ordered = unique_by_id(
+        (top, selected_sections, selected_editorials, order_for_output(top, ranked), editorials),
+        limit=200)
     ordered = [{key: value for key, value in story.items() if not key.startswith("_")} for story in ordered]
     output = {
         "schemaVersion": 2, "generatedAt": now.isoformat().replace("+00:00", "Z"),

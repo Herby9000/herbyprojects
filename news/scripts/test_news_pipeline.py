@@ -641,6 +641,17 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(len(output), 15)
         self.assertTrue(all(item in output for item in required))
 
+    def test_output_id_deduplication_keeps_verified_top_copy_first(self):
+        verified = self.verified_story('same-id', 'Economics')
+        unverified = {key: value for key, value in verified.items()
+                      if key not in ('imageWidth', 'imageHeight')}
+        unverified['summary'] = 'A separate live-feed copy'
+
+        output = pipeline.unique_by_id(([verified], [unverified]), limit=200)
+
+        self.assertEqual(output, [verified])
+        self.assertEqual(output[0]['imageWidth'], 960)
+
     def test_checked_in_fallback_shape(self):
         data_path = Path(__file__).parents[1] / 'data' / 'news.json'
         if not data_path.exists():
