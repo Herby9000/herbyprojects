@@ -595,6 +595,29 @@ class PipelineTests(unittest.TestCase):
         self.assertNotIn('imageWidth', story)
         self.assertNotIn('imageHeight', story)
 
+    def test_fallback_top_is_reprobed_separately_when_live_pool_lacks_a_category(self):
+        live = [self.verified_story(f'live-{index}', 'Politics' if index < 4 else 'Tech')
+                for index in range(7)]
+        for story, title in zip(live, ('Parliament coalition', 'Election recount', 'Diplomatic summit',
+                                       'Budget committee', 'Software release', 'Robot research',
+                                       'Chip fabrication')):
+            story['title'] = title
+        economics = self.verified_story('fallback-economics', 'Economics')
+        economics['title'] = 'Interest rates'
+        previous = {'topStoryIds': [economics['id']], 'stories': [economics]}
+        calls = []
+
+        def enricher(stories):
+            calls.append([story['id'] for story in stories])
+            return stories
+
+        qualified, top = pipeline.select_top_with_fallback(live, previous, True, enricher=enricher)
+
+        self.assertEqual(calls, [[story['id'] for story in live], [economics['id']]])
+        self.assertIn(economics['id'], [story['id'] for story in qualified])
+        self.assertIn(economics['id'], [story['id'] for story in top])
+        self.assertEqual(len(top), 7)
+
     def test_top_fails_honestly_when_safe_image_pool_is_short(self):
         stories = []
         for i in range(10):

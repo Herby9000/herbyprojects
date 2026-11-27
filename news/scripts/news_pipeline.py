@@ -973,6 +973,23 @@ def valid_fallback_stories(previous: dict) -> list[dict]:
     return result
 
 
+def select_top_with_fallback(ranked: list[dict], previous: dict, allow_fallback: bool,
+                             enricher=enrich_verified) -> tuple[list[dict], list[dict]]:
+    """Build Top 7, separately reproving last-good candidates when live coverage is short."""
+    qualified = enricher(ranked)
+    try:
+        return qualified, select_top(qualified)
+    except ValueError:
+        if not allow_fallback:
+            raise
+    # Keep fallback probes outside the live-story request cap. Otherwise newer
+    # live candidates can consume all 50 attempts before any last-good story is
+    # revalidated, defeating --allow-fallback during a category/image outage.
+    fallback_qualified = enricher(valid_fallback_stories(previous))
+    qualified = dedupe(qualified + fallback_qualified)
+    return qualified, select_top(qualified)
+
+
 def valid_fallback_editorials(previous: dict) -> list[dict]:
     """Reuse only checked-in Editorial items that still satisfy every invariant."""
     by_id = {story.get("id"): story for story in previous.get("stories", [])}
@@ -1097,16 +1114,8 @@ def build(allow_fallback: bool = False) -> dict:
     fallback_previous = previous if allow_fallback else None
     if len({story.get("publisher") for story in editorials}) < 3 and fallback_previous:
         editorials = rank(dedupe(editorials + valid_fallback_editorials(previous)), now)
-    qualified = enrich_verified(ranked)
-    try:
-        top = select_top(qualified)
-    except ValueError:
-        if not allow_fallback or not DATA_PATH.exists():
-            raise
-        fallback = valid_fallback_stories(previous)
-        ranked = rank(dedupe(ranked + fallback), now)
-        qualified = enrich_verified(ranked)
-        top = select_top(qualified)
+    qualified, top = select_top_with_fallback(
+        ranked, previous, allow_fallback and DATA_PATH.exists())
     section_story_ids = {}
     selected_sections = []
     for category in ("Politics", "Tech", "Economics", "Sports"):
